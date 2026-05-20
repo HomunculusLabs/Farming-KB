@@ -1,11 +1,3 @@
----
-title: MDMA Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, psychopharmacology, pharmacology, chemistry, therapy, safety, consciousness, psychiatry, neuroscience, counterculture]
-sources: []
----
 
 # MDMA Reference
 
@@ -35,7 +27,7 @@ MDMA is structurally related to:
 
 - First synthesized in 1912 by Merck chemist Anton Köllisch (patented as an intermediate for blood-clotting compounds)
 - Psychoactive effects not recognized until the 1970s
-- Alexander Shulgin rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
+- [[alexander-shulgin]] rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
 - Zeff introduced MDMA to hundreds of therapists in the late 1970s and early 1980s
 - MDMA was used as an adjunct to psychotherapy before it was scheduled (estimated 1,000+ therapists used it)
 - Gained popularity in recreational settings in the early 1980s
@@ -86,7 +78,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 - Typical therapeutic dose in clinical trials: 80-120 mg, with optional supplemental half-dose at 1.5-2 hours
 
 Note: street MDMA varies enormously in purity and content. Pills may contain:
-- Methylone, mephedrone, or other cathinones (NPS — novel psychoactive substances)
+- Methylone, [[mephedrone]], or other cathinones (NPS — novel psychoactive substances)
 - MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
 - Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction

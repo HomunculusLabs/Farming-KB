@@ -1,15 +1,7 @@
----
-title: Fruit Tree Grafting Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, fruit-tree, orchard, trees, pruning, cultivation, techniques, methods, homesteading, agriculture]
-sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
----
 
 # Fruit Tree Grafting Guide
 
-Sepp Holzer describes four main grafting techniques for propagating and repairing fruit trees. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
+[[sepp-holzer]] describes four main grafting techniques for propagating and repairing fruit trees. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
 
 ## Rootstock Selection
 

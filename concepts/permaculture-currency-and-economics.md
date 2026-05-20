@@ -1,21 +1,7 @@
----
-title: Permaculture Currency and Economics
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags:
-  - economics
-  - community
-  - permaculture
-  - trade
-  - local-economy
-sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
----
 
 # Permaculture Currency and Economics
 
-Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
+[[permaculture]] extends beyond physical landscape design into the realm of community economics. In [[bill-mollison]]'s Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
 
 ## Core Philosophy
 
@@ -51,7 +37,7 @@ The **Bendigo Home Builder's Club** (Victoria, Australia) is a group of 35 peopl
 
 ### LETS (Local Employment Trading System)
 
-The LET System centers in a community where every joining member must be willing to consider trading in local "green" dollars. Key features:
+The [[let-system]] centers in a community where every joining member must be willing to consider trading in local "green" dollars. Key features:
 
 - Green dollars carry no interest
 - Administration costs are charged on a "cost of service" basis

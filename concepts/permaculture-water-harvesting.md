@@ -1,17 +1,9 @@
----
-title: Permaculture Water Harvesting
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, water-harvesting, swales, ponds, rainwater, greywater, earthworks, conservation]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md, raw/papers/bill-mollison-permaculture-a-designers-manual.md]
----
 
 # Permaculture Water Harvesting
 
 ## Overview
 
-Water is the primary limiting factor in most landscapes. Permaculture water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off.
+Water is the primary limiting factor in most landscapes. [[permaculture]] water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off.
 
 ## Principles
 
@@ -24,7 +16,7 @@ Water is the primary limiting factor in most landscapes. Permaculture water harv
 
 ## Swales
 
-A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture water management.
+A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture [[water-management]].
 
 ### Design
 
@@ -112,8 +104,4 @@ Quality control throughout the process ensures consistent outcomes. Establishing
 Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-
-
-
 

@@ -1,15 +1,7 @@
----
-title: Winter Squash Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Winter Squash Guide
 
-Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple homesteading crop for winter food security. This guide covers varieties, growing, curing, and storage.
+Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple [[homesteading]] crop for winter food security. This guide covers varieties, growing, curing, and storage.
 
 ## Popular Varieties
 
@@ -84,7 +76,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 ### Watering
 - 1-2 inches per week.
 - Critical during flowering and fruit development.
-- Drip irrigation ideal; avoid wetting foliage (powdery mildew).
+- [[drip-irrigation]] ideal; avoid wetting foliage ([[powdery-mildew]]).
 - Mulch heavily to conserve moisture.
 
 ### Fertilizing
@@ -127,8 +119,8 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 
 Curing thickens the skin and heals minor cuts, dramatically improving storage life.
 
-- **Cucurbita moschata and C. maxima** (butternut, kabocha, hubbard): Cure 10-20 days at 75-85°F, 60-75% humidity. These benefit most from curing.
-- **Cucurbita pepo** (acorn, spaghetti, delicata): Cure 7-10 days at 75-80°F. These have thinner skins and benefit less from curing — some gardeners skip it for acorn squash.
+- **[[cucurbita-moschata]] and C. maxima** (butternut, kabocha, hubbard): Cure 10-20 days at 75-85°F, 60-75% humidity. These benefit most from curing.
+- **[[cucurbita-pepo]]** (acorn, spaghetti, delicata): Cure 7-10 days at 75-80°F. These have thinner skins and benefit less from curing — some gardeners skip it for acorn squash.
 - Place in a single layer, not touching, in a warm dry place.
 - Ensure good airflow.
 

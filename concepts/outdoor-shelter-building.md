@@ -1,15 +1,7 @@
----
-title: Outdoor Shelter Building
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, construction, safety, design, beginner]
-sources: []
----
 
 # Outdoor Shelter Building
 
-The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
+The ability to build a shelter from natural and salvaged materials is a fundamental [[homesteading]] skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
 
 ## Universal Principles
 
@@ -56,7 +48,7 @@ The tarp is the most versatile shelter tool. A simple 8x10 or 10x12 silnylon or 
 - Carry 50 feet of paracord and 8-10 stakes for maximum configuration options
 - Use natural features (rocks, stumps, branches) as anchors to reduce stake count
 - Tension is key — a tight tarp sheds water; a loose one collects it
-- Create a drip line by tying a small cord to the lowest edge so water runs to a point instead of dripping along the entire edge
+- Create a [[drip-line]] by tying a small cord to the lowest edge so water runs to a point instead of dripping along the entire edge
 
 ## Debris Hut
 

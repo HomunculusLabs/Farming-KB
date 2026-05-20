@@ -1,11 +1,3 @@
----
-title: Lion's Mane (Hericium erinaceus) — Medicinal Mushroom Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, medicine, health, neuroscience, mycology, preparation, species-profiles, pharmacology]
-sources: []
----
 
 # Lion's Mane (Hericium erinaceus)
 
@@ -17,8 +9,8 @@ Lion's mane has gained significant attention for its neuroprotective and neurore
 
 ## Key Compounds
 
-- **Hericenones:** Lipophilic compounds found in the fruiting body. Stimulate nerve growth factor (NGF) synthesis in the brain. At least 15 hericenones (A through O) have been identified.
-- **Erinacines:** Cyathane-type sesquiterpenes found primarily in the mycelium. Potent stimulators of NGF and brain-derived neurotrophic factor (BDNF). Erinacine A is the most studied.
+- **[[hericenones]]:** Lipophilic compounds found in the fruiting body. Stimulate nerve growth factor (NGF) synthesis in the brain. At least 15 hericenones (A through O) have been identified.
+- **[[erinacines]]:** Cyathane-type sesquiterpenes found primarily in the mycelium. Potent stimulators of NGF and brain-derived neurotrophic factor (BDNF). Erinacine A is the most studied.
 - **Beta-glucans:** Immune-modulating polysaccharides, though at lower concentrations than reishi or turkey tail.
 - **Polypeptides and amino acids:** Including glutamic acid, contributing to umami flavor.
 
@@ -32,7 +24,7 @@ The neuroregenerative action of lion's mane centers on NGF, a protein essential 
 4. Enhanced neuroplasticity supports learning, memory, and cognitive function.
 5. BDNF stimulation supports hippocampal neurogenesis.
 
-This mechanism is unique among medicinal mushrooms and makes lion's mane the primary fungal nootropic.
+This mechanism is unique among [[medicinal-mushrooms]] and makes lion's mane the primary fungal nootropic.
 
 ## Cognitive Benefits
 
@@ -73,7 +65,7 @@ Fresh lion's mane has a texture and flavor often compared to crab or lobster mea
 - Cook thoroughly — raw lion's mane can cause digestive upset.
 
 ### Hot Water Extract (Tea/Decoction)
-Dried mushroom powder simmered for 30-60 minutes. Extracts water-soluble beta-glucans. Less effective for hericenone extraction compared to dual extraction.
+Dried [[mushroom-powder]] simmered for 30-60 minutes. Extracts water-soluble beta-glucans. Less effective for hericenone extraction compared to dual extraction.
 
 ### Dual Extraction Tincture
 Combines water extraction (polysaccharides) with alcohol extraction (hericenones):
@@ -97,7 +89,7 @@ Onset of cognitive effects typically requires 2-4 weeks of consistent use.
 ## Cultivation
 
 Lion's mane is one of the easier medicinal mushrooms to cultivate at home:
-- **Substrate:** Hardwood sawdust (oak, maple) supplemented with wheat bran (5-10%).
+- **Substrate:** Hardwood sawdust (oak, maple) supplemented with [[wheat-bran]] (5-10%).
 - **Spawn to fruit:** 2-4 weeks colonization, then 1-3 weeks to fruit.
 - **Temperature:** 65-75°F (18-24°C) for colonization; 60-70°F (15-21°C) for fruiting.
 - **Humidity:** 85-95% for primordia formation; 80-90% for fruit development.

@@ -1,11 +1,3 @@
----
-title: Garlic Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: []
----
 
 # Garlic Growing Guide
 
@@ -33,7 +25,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 - **Creole** — adapted to warm climates, long-storing, moderate clove count (e.g., Ajo Rojo).
 
 ### Elephant Garlic
-- Not true garlic — a leek relative (Allium ampeloprasum).
+- Not true garlic — a leek relative ([[allium-ampeloprasum]]).
 - Produces very large heads (4-6 inches) with 4-6 massive cloves.
 - Milder, sweeter flavor than true garlic.
 - Plant 6 inches deep and 12 inches apart (larger than true garlic).
@@ -50,7 +42,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 ### Soil Preparation
 - Garlic needs well-drained, fertile soil with pH 6.0-7.0.
 - Work 2-3 inches of compost into the bed before planting.
-- Add bone meal or rock phosphate for phosphorus (bulb development).
+- Add bone meal or [[rock-phosphate]] for phosphorus (bulb development).
 - Avoid fresh manure — can promote disease.
 
 ### Clove Selection and Preparation
@@ -72,7 +64,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 ## Spring Care
 
 - **Remove mulch partially** in spring when new shoots emerge — pull back to 1-2 inches to let soil warm.
-- **Side-dress with nitrogen** when shoots are 6 inches tall: blood meal, composted manure, or fish emulsion. Repeat every 3-4 weeks until bulbing begins.
+- **Side-dress with nitrogen** when shoots are 6 inches tall: [[blood-meal]], composted manure, or [[fish-emulsion]]. Repeat every 3-4 weeks until bulbing begins.
 - **Keep consistently watered** — garlic needs 1-2 inches of water per week during active growth.
 - **Stop watering** 2-3 weeks before expected harvest date (reduces disease and improves curing).
 - **Weed diligently** — garlic is a poor competitor against weeds.

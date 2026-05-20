@@ -24,7 +24,7 @@ The first step is identifying a suitable site with at least six hours of direct 
 Vacant lots, church yards, school properties, and unused municipal land are common starting points for new community gardens.
 Check soil quality and test for contaminants, especially in urban areas where industrial activity may have left heavy metals or chemical residues.
 Concepts from [[urban-permaculture-design-strategies]] help evaluate potential sites for microclimate, wind exposure, and water flow patterns.
-Soil testing guidance from [[how-to-test-soil-at-home]] and [[how-to-test-and-remediate-urban-soil-for-food-growing]] is essential before any planting begins.
+Soil testing guidance from [[query-how-to-test-soil-at-home]] and [[query-how-to-test-and-remediate-urban-soil-for-food-growing]] is essential before any planting begins.
 If native soil is contaminated, raised beds filled with clean imported soil provide a safe and practical workaround.
 Negotiate a written land-use agreement with the property owner that specifies duration, responsibilities, and exit conditions for the garden.
 Municipalities sometimes offer land through community garden programs, which can provide liability protection and infrastructure support.
@@ -117,7 +117,7 @@ Celebrate successes with harvest potlucks, seed swaps, and garden tours that rei
 - [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-to-build-healthy-garden-soil]]
-- [[query-how-do-i-create-a-biodiverse-pollinator-garden]]
+- [[query-how-to-create-a-biodiverse-pollinator-garden]]
 - [[query-how-to-build-a-compost-pile-that-works]]
 - [[query-how-do-i-save-water-in-a-vegetable-garden]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]

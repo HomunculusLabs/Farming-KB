@@ -1,28 +1,7 @@
----
-
-title: JADAM Sulfur (JS) — Natural Germicide Recipe
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-
-tags:
-- jadam
-- fermentation
-- recipe
-- pest-control
-- water
-- equipment
-- wood-rot
-- ph
-- processing
-
-sources:
-- raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
----
 
 # JADAM Sulfur (JS)
 
-JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against powdery mildew, downy mildew, canker, black spot, pear rust, anthracnose, and most fungal diseases. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage greenhouse plastic or steel pipes.
+JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against [[powdery-mildew]], [[downy-mildew]], canker, black spot, pear rust, anthracnose, and most fungal diseases. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage greenhouse plastic or steel pipes.
 
 ## Recipe: 100L (26 gal) Batch
 

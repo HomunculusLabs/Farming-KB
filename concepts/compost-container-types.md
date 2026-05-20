@@ -1,11 +1,3 @@
----
-title: Compost Container Types
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [compost, composting, equipment, construction, organic, gardening, soil-building]
-sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
----
 
 # Compost Container Types
 
@@ -77,7 +69,7 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 
 ## Related
 
-- [[wormery-construction]] — vermicomposting in a purpose-built box
+- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
 - [[composting-materials-alternative]] — sourcing compost materials beyond the garden
 - [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation
 

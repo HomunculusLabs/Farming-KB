@@ -1,11 +1,3 @@
----
-title: Cannabis Indoor Growing Basics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, indoor, equipment, lighting, beginner, cultivation, humidity, climate, ventilation]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Cannabis Indoor Growing Basics
 
@@ -103,7 +95,7 @@ Made from coconut husk fibers. Excellent water retention and drainage, pH neutra
 
 ### Hydroponics
 
-Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and dissolved oxygen monitoring. Systems include DWC, ebb and flow, drip, and NFT.
+Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and dissolved oxygen monitoring. Systems include DWC, [[ebb-and-flow]], drip, and NFT.
 
 ## Environmental Monitoring
 

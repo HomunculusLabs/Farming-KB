@@ -1,11 +1,3 @@
----
-title: Fruit Tree Propagation
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
----
 
 # Fruit Tree Propagation
 
@@ -131,7 +123,7 @@ Choose rootstock based on your goals:
 - Dwarf (8-10 feet at maturity): good for small spaces, easy harvesting, begins bearing in 2-3 years
 - Semi-dwarf (12-16 feet): balance of size and yield, begins bearing in 3-4 years
 - Standard (20-30 feet): largest yield, longest-lived, begins bearing in 5-7 years
-- Disease-resistant rootstocks: essential in areas with specific disease pressures (fire blight, nematodes, Phytophthora)
+- Disease-resistant rootstocks: essential in areas with specific disease pressures (fire blight, nematodes, [[phytophthora]])
 
 ## Aftercare for Grafted Trees
 

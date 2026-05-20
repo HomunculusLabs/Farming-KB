@@ -1,15 +1,7 @@
----
-title: Black Soldier Fly Composting
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [composting, insects, animal-husbandry, byproducts, homesteading, sustainability, nutrient-cycling]
-sources: []
----
 
 # Black Soldier Fly Composting
 
-Black soldier fly (Hermetia illucens) composting is a bioconversion method that uses larvae to rapidly break down organic waste into protein-rich animal feed and frass fertilizer. Adult BSF do not bite, sting, or transmit disease, making them safe for homestead-scale operations.
+Black soldier fly (Hermetia illucens) [[composting]] is a bioconversion method that uses larvae to rapidly break down organic waste into protein-rich animal feed and frass fertilizer. Adult BSF do not bite, sting, or transmit disease, making them safe for homestead-scale operations.
 
 ## Lifecycle Overview
 

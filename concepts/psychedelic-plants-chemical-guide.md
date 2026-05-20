@@ -47,6 +47,46 @@ Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritu
 
 ---
 
+# Psychedelic Plants and Compounds — Chemical Comparison Guide
+
+## Overview
+
+Psychedelic (classical hallucinogen) compounds are substances that primarily act as serotonin 5-HT2A receptor agonists, producing profound alterations in perception, cognition, and consciousness. Found across plant and fungal kingdoms, these compounds have been used in spiritual, healing, and divinatory contexts for millennia.
+
+This guide compares six major psychedelic compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
+
+## Structural Classification
+
+Psychedelic compounds fall into distinct chemical classes:
+
+- **Tryptamines:** DMT, 5-MeO-DMT, psilocybin (indole ring structure, related to serotonin)
+- **Phenethylamines:** Mescaline (phenyl ring with ethylamine chain)
+- **Diterpene:** Salvinorin A (unique trans-clerodane diterpene — not related to other psychedelics)
+- **Indole alkaloids:** Ibogaine (complex indole structure related to iboga alkaloids)
+
+## Compound Profiles
+
+### 1. N,N-Dimethyltryptamine (DMT)
+
+#### Chemistry
+- Formula: C12H16N2 | MW: 188.27 | White crystalline solid (freebase)
+- Vaporization: ~160°C | MAO substrate (oral inactive without MAOI)
+
+#### Natural Sources
+- **[[psychotria-viridis]]** (chacruna), **Diplopterys cabrerana** (chaliponga), **[[mimosa-tenuiflora]]** (jurema), **Acacia species**, **[[anadenanthera-peregrina]]** (yopo seeds)
+- Endogenous in mammalian brain (trace amounts)
+
+#### Pharmacology
+- **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, sigma-1, TAAR
+- **Smoked:** Onset 15-60s, peak 2-5min, duration 15-30min | Dose: 20-60mg
+- **Oral + MAOI:** Onset 30-60min, peak 2-3h, duration 4-6h | Dose: 25-75mg
+- Half-life: ~15min
+
+#### Effects
+Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritual experiences, synesthesia, emotional catharsis, entity contact reports.
+
+---
+
 ### 2. 5-MeO-DMT
 
 #### Chemistry
@@ -71,7 +111,7 @@ More "formless" than DMT, intense ego dissolution, "white light"/void experience
 - Formula: C11H17NO3 | MW: 211.26 | 3,4,5-trimethoxyphenethylamine | Water-soluble HCl salt
 
 #### Natural Sources
-- **Lophophora williamsii** (peyote, 1-6% mescaline), **Echinopsis pachanoi** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
+- **[[lophophora-williamsii]]** (peyote, 1-6% mescaline), **[[echinopsis-pachanoi]]** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT2C, alpha-1 adrenergic
@@ -153,7 +193,7 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 
 ## Harm Reduction and Safety
 
-- **Set and setting** are critical for all psychedelic experiences.
+- **[[set-and-setting]]** are critical for all psychedelic experiences.
 - Screen for personal/family history of psychosis or bipolar disorder.
 - Start with lower doses. Use test kits to verify substance identity.
 - Have a trusted, sober sitter present. Integrate experiences through journaling, therapy, or discussion.
@@ -167,7 +207,7 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 
 ## Legal Status
 
-All six compounds are Schedule I in the US. International status varies: psilocybin decriminalized in Oregon, Colorado, Netherlands, Brazil, Jamaica. DMT/ayahuasca legal in some religious contexts (US, Brazil, Peru). Ibogaine legal/unregulated in Mexico, Canada, NZ, South Africa. Mescaline generally illegal worldwide (peyote protected for Native American Church). Salvinorin A legal in many countries but increasingly regulated.
+All six compounds are Schedule I in the US. International status varies: psilocybin decriminalized in Oregon, Colorado, Netherlands, Brazil, Jamaica. DMT/ayahuasca legal in some religious contexts (US, Brazil, Peru). Ibogaine legal/unregulated in Mexico, Canada, NZ, South Africa. Mescaline generally illegal worldwide (peyote protected for [[native-american-church]]). Salvinorin A legal in many countries but increasingly regulated.
 
 ## Related Topics
 

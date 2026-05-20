@@ -1,11 +1,3 @@
----
-title: Soil Amendment Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [soil, fertilizer, minerals, calcium, phosphorus, npk, ph, soil-amendment, gardening, reference]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Soil Amendment Reference
 
@@ -14,7 +6,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 ## pH Adjusters
 
 ### Agricultural Lime (Calcium Carbonate)
-- **Raises soil pH** (sweetens acidic soil).
+- **Raises [[soil-ph]]** (sweetens acidic soil).
 - Primary nutrient: calcium (30-40% Ca), magnesium (if dolomitic lime).
 - Application rate: 5-10 lbs per 100 sq ft (follow soil test).
 - Apply in fall; takes 3-6 months to fully react.
@@ -40,7 +32,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 - Not effective in alkaline soils (pH above 7.0).
 
 ### Bone Meal
-- Higher phosphorus availability than rock phosphate (3-15-0).
+- Higher [[phosphorus-availability]] than [[rock-phosphate]] (3-15-0).
 - Also provides calcium (12-16%).
 - Application rate: 1-2 lbs per 100 sq ft.
 - Effective for bulbs, root crops, and flowering plants.
@@ -96,7 +88,7 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 | Gypsum | 0-0-0 | Add Ca, improve clay | 1-2 lbs | Moderate |
 | Rock Phosphate | 0-3-0 | Long-term P | 2-5 lbs | Very slow (years) |
 | Bone Meal | 3-15-0 | Readily available P + Ca | 1-2 lbs | Moderate |
-| Blood Meal | 12-0-0 | Fast nitrogen boost | 1-2 lbs | Fast |
+| [[blood-meal]] | 12-0-0 | Fast nitrogen boost | 1-2 lbs | Fast |
 | Greensand | 0-0-5 | K + trace minerals | 2-5 lbs | Very slow |
 | Azomite | 0-0-0.2 | Full-spectrum trace minerals | 1-10 lbs | Slow |
 | Kelp Meal | 1-0-2 | Micronutrients, biostimulant | 1-2 lbs | Moderate |

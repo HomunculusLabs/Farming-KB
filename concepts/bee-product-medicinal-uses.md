@@ -1,11 +1,3 @@
----
-title: Bee Product Medicinal Uses
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, medicine, health, animal-husbandry, nutrition]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
----
 
 # Bee Product Medicinal Uses
 
@@ -45,7 +37,7 @@ research supports several mechanisms:
 - Change dressing every 1-3 days
 
 ### Respiratory Health
-- **Cough suppression** — buckwheat honey outperforms dextromethorphan in
+- **Cough suppression** — buckwheat honey outperforms [[dextromethorphan]] in
   pediatric studies for nighttime cough
 - **Sore throat** — honey coats and soothes; effective alone or in warm
   tea with lemon
@@ -61,7 +53,7 @@ research supports several mechanisms:
 
 ### Safety
 - Never give honey to infants under 12 months (botulism risk from
-  Clostridium botulinum spores)
+  [[clostridium]] botulinum spores)
 - Diabetics should use honey cautiously — it does raise blood sugar, though
   less than refined sugar in some studies
 
@@ -77,8 +69,8 @@ source and region.
 
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
-  Staphylococcus aureus and Streptococcus species
-- **Antifungal** — effective against Candida albicans and dermatophytes
+  [[staphylococcus-aureus]] and Streptococcus species
+- **Antifungal** — effective against [[candida-albicans]] and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals

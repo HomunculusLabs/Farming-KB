@@ -1,11 +1,3 @@
----
-title: Agaricus Species Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, cultivation, species, species-profiles, food, foraging, agriculture]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # Agaricus Species Guide
 
@@ -13,7 +5,7 @@ The genus Agaricus contains some of the most commercially important and widely c
 
 ## Overview
 
-Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat.
+Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on [[spore-print]] color, bruising reactions, and habitat.
 
 ## Agaricus bisporus (Button, Cremini, Portobello)
 
@@ -33,9 +25,9 @@ What appears to be three different mushrooms are actually the same species at di
 
 A. bisporus cultivation is the most industrialized mushroom production system in the world:
 
-- Substrate: composted straw, horse manure, and/or chicken manure with gypsum
-- Two-phase composting: Phase 1 (outdoor, thermophilic composting for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
-- Spawn: grain spawn (rye or millet); commercial spawn is highly selected
+- Substrate: composted straw, horse manure, and/or [[chicken-manure]] with gypsum
+- Two-phase composting: Phase 1 (outdoor, [[thermophilic-composting]] for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
+- Spawn: [[grain-spawn]] (rye or millet); commercial spawn is highly selected
 - Casing layer: peat moss and limestone applied over the colonized compost to trigger fruiting
 - Grow rooms: climate-controlled rooms with precise temperature, humidity, and CO2 management
 - Temperature: 55-62 F for fruiting
@@ -190,6 +182,6 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 ## Related Topics
 
 - [[oyster-mushroom-species-guide]] for other commonly cultivated species
-- [[chanterelle-guide]] for wild mushroom foraging safety and techniques
-- [[shiitake-cultivation-guide]] for indoor mushroom cultivation methods
+- [[chanterelle-guide]] for wild [[mushroom-foraging-safety]] and techniques
+- [[shiitake-cultivation-guide]] for indoor [[mushroom-cultivation-methods]]
 - [[composting-methods-comparison]]

@@ -1,11 +1,3 @@
----
-title: Wicking Bed Construction
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [water-management, gardening, permaculture, sustainability, construction]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Wicking Bed Construction
 
@@ -137,7 +129,7 @@ The growing medium sits on top of the wicking medium:
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[companion-planting]] for pest management and efficient space use
 
 ## Maintenance
 

@@ -1,15 +1,7 @@
----
-title: Vinegar Making
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, vinegar, preparation]
-sources: []
----
 
 ## What Is Vinegar
 
-Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
+Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria ([[acetobacter]] species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
 
 The vinegar-making process involves two distinct stages of fermentation:
 

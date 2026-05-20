@@ -1,11 +1,3 @@
----
-title: Mushroom Toxicology — Palmer's Theory
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, biology, medicine]
-sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
----
 
 # Mushroom Toxicology — Palmer's Theory
 
@@ -30,7 +22,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 1. **Intestinal absorption**: The alkaloid enters the system through the villi of the intestinal canal. "Were we to remove every vestige of the mushroom, the system might possibly be left so charged with poison as to refuse to rally."
 
-2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
+2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing [[coprinus-deliquescens]] caused immediate symptoms.
 
 3. **Dermal absorption**: "An Amanita held in the closed hand will produce all the symptoms of poisoning, even to convulsions." He experienced nausea from holding Amanitas in a warm, perspiring hand while traveling in a closed railway car.
 
@@ -44,7 +36,7 @@ Palmer's recommended treatments (with modern annotations):
 |---|---|---|
 | **Sweet oil (olive oil)** liberally | Neutralizes alkaloidal poison | May slow absorption; not an antidote |
 | Whiskey + sweet oil (equal parts) | Combines stimulant with oil neutralizer | Alcohol is not recommended |
-| **Subcutaneous atropine/belladonna injections** | Antagonizes Amanita alkaloids | Partially correct — atropine antagonizes muscarine (A. muscaria) but NOT amatoxins (A. phalloides) |
+| **Subcutaneous atropine/[[belladonna]] injections** | Antagonizes Amanita alkaloids | Partially correct — atropine antagonizes muscarine (A. muscaria) but NOT amatoxins (A. phalloides) |
 | Warm water + oil enemata | Expels substance from lower intestines | Supportive care, not curative |
 | Avoid emetics and cathartics | May accelerate absorption | Partially correct for delayed-onset poisoning |
 
@@ -60,7 +52,7 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 - Absorption (not just ingestion) of fungal toxins is real
 
 **Where Palmer was mistaken:**
-- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and ibotenic acid/muscimol — different toxins with different mechanisms
+- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and [[ibotenic-acid]]/muscimol — different toxins with different mechanisms
 - Atropine antagonizes muscarine but not amatoxins (the truly deadly compounds)
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable
@@ -77,10 +69,14 @@ Palmer was a committed self-experimenter:
 Palmer observed that animal susceptibility to mushroom toxins does not correlate with human susceptibility:
 - Pigs ate Amanita stew without ill effects
 - Rabbits swallowed non-edible fungi unharmed
-- A dog died from Agaricus melleus (honey mushroom) in 12 hours
-- A cat died in convulsions from Marasmius oreades (fairy-ring champignon)
-- A dog became sick from Coprinus comatus (shaggy mane)
+- A dog died from [[agaricus-melleus]] (honey mushroom) in 12 hours
+- A cat died in convulsions from [[marasmius-oreades]] (fairy-ring champignon)
+- A dog became sick from [[coprinus-comatus]] (shaggy mane)
 
 "Because a mushroom is eaten with impunity by the lower animals it by no means follows that it is fit for the food of man."
 
 See also: [[amanita-muscaria]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]
+
+Palmer's theory proposes that many mushroom toxins evolved as chemical
+defense compounds rather than metabolic byproducts, suggesting coevolution
+between fungi and their predators shaped toxin diversity.

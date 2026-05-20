@@ -1,22 +1,14 @@
----
-title: Mycoremediation Regulatory Framework
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [mycology, mycoremediation, law, ecology]
-sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
----
 
 # Mycoremediation Regulatory Framework
 
-The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
+The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 
 ## Current Status
 
 ### Regulatory Gap
 - No specific regulations exist for mycoremediation in most jurisdictions
 - Falls under general bioremediation regulations
-- Often treated as "land application of biological material" — similar to composting or bioaugmentation
+- Often treated as "land application of biological material" — similar to [[composting]] or bioaugmentation
 - Regulatory agencies are still developing guidance specific to fungal remediation
 
 ### Regulatory Bodies (US)
@@ -113,7 +105,4 @@ Quality control throughout the process ensures consistent outcomes. Establishing
 Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-
-
 

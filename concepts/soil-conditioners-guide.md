@@ -1,11 +1,3 @@
----
-title: Soil Conditioners Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [soil-amendment, organic, gardening, soil, compost, nutrients, npk]
-sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
----
 
 # Soil Conditioners Guide
 
@@ -49,7 +41,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - If bought directly from brewery: wet, can be dug in fresh or spread as mulch
 - If dry: more of a nitrogen fertilizer
 - Keep fresh hops away from stems and leaves of young plants to avoid scorching
-- Composting not necessary but possible
+- [[composting]] not necessary but possible
 
 ### Wool Shoddy
 

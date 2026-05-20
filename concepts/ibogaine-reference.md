@@ -1,15 +1,7 @@
----
-title: Ibogaine Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, psychopharmacology, ethnobotany, chemistry, pharmacology, africa, medicine, safety, law, consciousness, therapy]
-sources: [raw/papers/chos-global-natural-farming.md]
----
 
 # Ibogaine Reference
 
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub Tabernanthe iboga. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
 
 ## Chemistry
 
@@ -26,7 +18,7 @@ Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark o
 
 Ibogaine belongs to the iboga alkaloid family. Tabernanthe iboga root bark contains multiple alkaloids:
 - Ibogaine: primary psychoactive compound (1-6% dry weight)
-- Ibogamine, tabernanthine: related alkaloids
+- Ibogamine, [[tabernanthine]]: related alkaloids
 - Noribogaine: active metabolite (may be responsible for anti-addictive effects)
 
 Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- and (-)-enantiomers.

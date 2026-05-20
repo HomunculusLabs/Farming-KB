@@ -1,11 +1,3 @@
----
-title: Cob Oven Construction
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, construction, design, homestead-crafts, food]
-sources: []
----
 
 # Cob Oven Construction
 
@@ -46,7 +38,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 
 ## Materials List
 
-- Clay soil (20-50 gallons, depending on oven size)
+- [[clay-soil]] (20-50 gallons, depending on oven size)
 - Sharp sand (40-100 gallons)
 - Straw (1-2 bales)
 - Firebricks for the hearth floor (30-40 standard firebricks, 4.5x9 inches)

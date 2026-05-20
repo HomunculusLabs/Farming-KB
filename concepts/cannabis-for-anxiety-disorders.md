@@ -112,8 +112,3 @@ Adaptation to local conditions and seasonal variations is essential. What works 
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
 
-
-
-
-
-

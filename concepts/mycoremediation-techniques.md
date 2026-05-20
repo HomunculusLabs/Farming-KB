@@ -1,16 +1,8 @@
----
-title: Mycoremediation Techniques
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 # Mycoremediation Techniques
 
 ## Overview
 
-Mycoremediation is the use of fungi to degrade, sequester, or remove environmental contaminants from soil, water, and other substrates. Pioneered primarily by Paul Stamets and expanded by researchers worldwide, mycoremediation harnesses the remarkable enzymatic capabilities of mycelium to break down pollutants that are resistant to conventional cleanup methods. This page covers the major mycoremediation techniques, their mechanisms, and practical field applications.
+Mycoremediation is the use of fungi to degrade, sequester, or remove environmental contaminants from soil, water, and other substrates. Pioneered primarily by [[paul-stamets]] and expanded by researchers worldwide, mycoremediation harnesses the remarkable enzymatic capabilities of mycelium to break down pollutants that are resistant to conventional cleanup methods. This page covers the major mycoremediation techniques, their mechanisms, and practical field applications.
 
 ## Core Mechanisms
 
@@ -44,10 +36,10 @@ Mycofiltration uses mycelial mats or fungal networks to filter contaminated wate
 
 ### Effective Fungal Species
 
-- Pleurotus ostreatus (oyster mushroom): Broad-spectrum degradation of organic pollutants, particularly effective against petroleum hydrocarbons
-- Stropharia rugosoannulata (wine-cap stropharia): Excellent for filtering bacteria (E. coli) from water
+- [[pleurotus-ostreatus]] ([[oyster-mushroom]]): Broad-spectrum degradation of organic pollutants, particularly effective against petroleum hydrocarbons
+- [[stropharia-rugosoannulata]] (wine-cap stropharia): Excellent for filtering bacteria (E. coli) from water
 - Trametes versicolor (turkey tail): Effective against a wide range of organic pollutants and dyes
-- Ganoderma lucidum (reishi): Heavy metal biosorption
+- Ganoderma lucidum (reishi): [[heavy-metal-biosorption]]
 
 ### Design Considerations
 
@@ -84,7 +76,7 @@ Mycoaccumulation uses fungi to absorb and concentrate heavy metals and other ino
 - Suillus luteus: Tolerant of and accumulates zinc and cadmium
 - Pleurotus ostreatus: Accumulates lead and cadmium
 - Trametes versicolor: Biosorbs heavy metals effectively
-- Arbuscular mycorrhizal fungi: Reduce metal uptake in crop plants while accumulating metals in their own networks
+- [[arbuscular-mycorrhizal-fungi]]: Reduce metal uptake in crop plants while accumulating metals in their own networks
 
 ### Limitations
 
@@ -144,7 +136,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 ### What It Is
 
-Spent mushroom substrate is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
+[[spent-mushroom-substrate]] is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
 
 ### Applications
 ## See Also

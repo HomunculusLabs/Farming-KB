@@ -1,15 +1,7 @@
----
-title: Natural Pool Building
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [water, sustainability, homesteading, construction, ecology, off-grid, water-management]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 ## Overview
 
-Natural swimming pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
+[[natural-swimming-pools]] (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
 
 ## How Natural Pools Work
 
@@ -87,15 +79,15 @@ Minimum total surface area for effective biological filtration: approximately 30
 Plants are the primary filtration mechanism. Select for:
 
 **Oxygenating submerged plants** (planted in gravel):
-- Hornwort (Ceratophyllum demersum)
+- Hornwort ([[ceratophyllum-demersum]])
 - Eelgrass (Vallisneria)
 - Water milfoil (Myriophyllum)
 
 **Marginal/emergent plants** (planted on shelf):
-- Pickerel weed (Pontederia cordata)
-- Iris (Iris versicolor, I. pseudacorus)
-- Arrowhead (Sagittaria latifolia)
-- Cattail (Typha latifolia) — aggressive, use sparingly
+- Pickerel weed ([[pontederia-cordata]])
+- Iris ([[iris-versicolor]], I. pseudacorus)
+- Arrowhead ([[sagittaria-latifolia]])
+- Cattail ([[typha-latifolia]]) — aggressive, use sparingly
 - Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
 - Elephant ear (Colocasia)

@@ -1,15 +1,7 @@
----
-title: LSD Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, psychopharmacology, chemistry, pharmacology, consciousness, counterculture, history, law, safety, neuroscience]
-sources: []
----
 
 # LSD Reference
 
-LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
+LSD ([[lysergic-acid-diethylamide]]) is one of the most potent psychoactive substances known. Discovered by Swiss chemist [[albert-hofmann]] in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
 ## Discovery and History
 
@@ -53,13 +45,13 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 - Chemical formula: C20H25N3O
 - Molecular weight: 323.43 g/mol
 - CAS number: 50-37-3
-- Structure: semi-synthetic ergoline derivative — core structure derived from lysergic acid (from ergot fungus)
+- Structure: semi-synthetic ergoline derivative — core structure derived from [[lysergic-acid]] (from ergot fungus)
 - The diethylamide group at position 8 is essential for psychoactivity
 - Potency: active at 20-50 micrograms (one of the most potent drugs known by weight)
 - Physical form: typically encountered as a colorless, odorless liquid or on blotter paper
 
 LSD is an ergoline alkaloid, structurally related to:
-- LSA (lysergic acid amide): naturally occurring in morning glory seeds and Hawaiian baby woodrose
+- LSA ([[lysergic-acid-amide]]): naturally occurring in [[morning-glory-seeds]] and Hawaiian baby woodrose
 - Ergotamine and other ergot alkaloids: used medicinally (migraine treatment)
 - Psilocybin and DMT: tryptamine psychedelics (different class, but LSD has tryptamine-like pharmacology)
 
@@ -156,7 +148,7 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 ### Harm Reduction
 
 - Test substance (Ehrlich reagent for indole presence)
-- Start with low dose; prepare set and setting (calm mindset, safe environment)
+- Start with low dose; prepare [[set-and-setting]] (calm mindset, safe environment)
 - Trusted sitter present, especially at higher doses
 - Avoid mixing with alcohol, stimulants, or other substances
 - Stay hydrated, eat light food, allow recovery time (max once per 1-2 weeks)

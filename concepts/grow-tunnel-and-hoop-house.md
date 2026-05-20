@@ -1,11 +1,3 @@
----
-title: Grow Tunnel and Hoop House
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [season-extension, construction, gardening, permaculture, sustainability]
-sources: []
----
 
 # Grow Tunnel and Hoop House
 
@@ -20,7 +12,7 @@ The simplest and cheapest season extension structure:
 - **Height:** 12-24 inches above the crop
 - **Width:** 24-48 inches, covering one or two rows
 - **Frame:** 9-gauge galvanized wire hoops, PVC pipe, or fiberglass rods bent into arches, spaced 3-5 feet apart
-- **Cover:** Floating row cover fabric (spun-bonded polypropylene) or clear polyethylene film
+- **Cover:** [[floating-row-cover]] fabric (spun-bonded polypropylene) or clear polyethylene film
 - **Anchoring:** Bury the edges of the cover in soil, or use sandbags, earth staples, or clips
 - **Cost:** Very low — $20-50 for a 50-foot row
 - **Season extension:** 2-4 weeks in spring and fall
@@ -115,7 +107,7 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ## Choosing Between Low and High Tunnels
 
-| Feature | Low Tunnel | High Tunnel |
+| Feature | Low Tunnel | [[high-tunnel]] |
 |---------|-----------|-------------|
 | Cost | $20-50 | $500-5,000+ |
 | Season extension | 2-4 weeks | 6-12+ weeks |
@@ -148,7 +140,7 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 ### Winter
 
 - In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, claytonia) with row cover inside the tunnel
-- In cold climates: Use a high tunnel as a multi-bay cold frame, or add a small heater for frost-sensitive crops
+- In cold climates: Use a high tunnel as a multi-bay [[cold-frame]], or add a small heater for frost-sensitive crops
 
 ## Related Concepts
 

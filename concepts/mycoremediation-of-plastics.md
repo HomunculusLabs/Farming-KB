@@ -1,15 +1,7 @@
----
-title: Mycoremediation of Plastics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycoremediation, pollution, fungi, decomposition, mycology, ecology, environment, sustainability]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 ## Overview
 
-Mycoremediation of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste.
+[[mycoremediation]] of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste.
 
 ## The Plastic Problem
 
@@ -23,7 +15,7 @@ Global plastic production exceeds 400 million tonnes annually. Key challenges:
 ## Pestalotiopsis microspora -- The Breakthrough Species
 
 ### Discovery
-In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiopsis microspora in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic.
+In 2011, Yale University researchers led by Scott Strobel discovered [[pestalotiopsis-microspora]] in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic.
 
 ### Mechanism
 - Produces a serine hydrolase enzyme that cleaves polyurethane bonds
@@ -49,13 +41,13 @@ In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiop
 - Multiple species show activity against polystyrene and polyethylene
 
 ### White-rot Basidiomycetes
-- **Pleurotus ostreatus**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
+- **[[pleurotus-ostreatus]]**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
 - **Trametes versicolor**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
-- **Phanerochaete chrysosporium**: Lignin peroxidase attacks aromatic structures in some plastics
-- **Schizophyllum commune**: Degrades polyethylene under pre-oxidation conditions
+- **[[phanerochaete-chrysosporium]]**: [[lignin-peroxidase]] attacks aromatic structures in some plastics
+- **[[schizophyllum-commune]]**: Degrades polyethylene under pre-oxidation conditions
 
 ### Other Notable Species
-- **Cladosporium cladosporioides**: Isolated from marine plastic debris; degrades polyethylene
+- **[[cladosporium-cladosporioides]]**: Isolated from marine plastic debris; degrades polyethylene
 - **Engyodontium album**: Breaks down polypropylene in laboratory settings (2022 discovery)
 - **Xepiculopsis sp.**: Found degrading plastic in mangrove environments
 

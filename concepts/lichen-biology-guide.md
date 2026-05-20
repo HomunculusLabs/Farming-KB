@@ -1,11 +1,3 @@
----
-title: Lichen Biology Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]
-sources: []
----
 
 # Lichen Biology Guide
 
@@ -32,7 +24,7 @@ The traditional view describes lichens as a mutualistic relationship where the f
 Tightly attached to the substrate, appearing as a paint-like or crust-like coating. Cannot be removed without damaging the substrate. Often grow on rocks (saxicolous) or tree bark (corticolous). Examples include Graphis scripta (script lichen) and various Caloplaca species. Crustose lichens are slow-growing but extremely long-lived.
 
 ### Foliose (Leaf-like)
-Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include Xanthoria parietina (common orange lichen), Parmelia sulcata, and Physcia. Often found on tree bark, rocks, and occasionally soil.
+Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include [[xanthoria-parietina]] (common orange lichen), [[parmelia-sulcata]], and Physcia. Often found on tree bark, rocks, and occasionally soil.
 
 ### Fruticose (Shrubby)
 Branching, shrub-like, or hair-like structures. Erect, pendulous, or loosely attached. Examples include Usnea (old man's beard), Cladonia (reindeer lichen), and Evernia. Often found in clean-air environments and are among the most sensitive to air pollution.
@@ -68,7 +60,7 @@ Lichen substances (secondary metabolites) are crucial for identification. Standa
 | Atranorin | Yellow | + | - | - |
 | Lecanoric acid | Yellow | + (red) | - | - |
 | Stictic acid | Yellow | + | Orange | - |
-| Usnic acid | Yellow | - | - | - |
+| [[usnic-acid]] | Yellow | - | - | - |
 | Psoromic acid | Yellow | + (red) | Orange | - |
 
 ## Bioindicators
@@ -82,7 +74,7 @@ Lichens are among the most reliable biological indicators of air quality:
 
 ### Tolerant Species
 - Xanthoria parietina (orange lichen) tolerates nitrogen enrichment and is common near farms
-- Lecanora conizaeoides was famously associated with sulfur dioxide pollution
+- [[lecanora-conizaeoides]] was famously associated with sulfur dioxide pollution
 - Physcia and Candelariella are moderately tolerant
 
 ### Biomonitoring Methods
@@ -110,10 +102,10 @@ Lichens contribute to carbon fixation in extreme environments (arctic tundra, de
 
 ## Human Uses
 
-- Traditional medicine: Usnic acid has antibiotic properties; Cetraria islandica (Iceland moss) was used for respiratory ailments
+- Traditional medicine: Usnic acid has antibiotic properties; [[cetraria-islandica]] (Iceland moss) was used for respiratory ailments
 - Dyes: Orchil and litmus are derived from lichens (Roccella, Lasallia)
 - Food: Umbilicaria (rock tripe) has been eaten in emergencies; Bryoria (edible horsehair) was used by Pacific Northwest tribes
-- Perfume: Oakmoss (Evernia prunastri) is a key ingredient in perfumery
+- Perfume: Oakmoss ([[evernia-prunastri]]) is a key ingredient in perfumery
 - Air quality monitoring: lichen biomonitoring programs worldwide
 
 ## Growth and Longevity
@@ -121,7 +113,7 @@ Lichens contribute to carbon fixation in extreme environments (arctic tundra, de
 Lichens are extremely slow-growing organisms:
 - Crustose lichens may grow only 0.1-1.0 mm per year
 - Foliose and fruticose lichens grow slightly faster, 1-15 mm per year
-- Some thalli of Rhizocarpon geographicum in the Arctic are estimated to be over 8,000 years old
+- Some thalli of [[rhizocarpon-geographicum]] in the Arctic are estimated to be over 8,000 years old
 - The "map lichen" (R. geographicum) has been used in lichenometry to date glacial retreat
 
 ## Threats and Conservation

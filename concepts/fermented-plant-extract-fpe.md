@@ -1,31 +1,6 @@
----
-
-title: Fermented Plant Extract (FPE) — FPJ & FFJ
-created: 2026-04-10
-updated: 2026-04-12
-type: concept
-
-tags:
-- knf
-- fermentation
-- fertilizer
-- recipe
-- plant-systems
-- fpe
-- plant-growth
-- plants
-- vegetative
-
-sources:
-- raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/unknown-natural-farming-poster.md
-- raw/papers/bahay-kubo-indigenous-microorganisms_.md
-- raw/papers/chos-global-natural-farming.md
-- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
----
 # Fermented Plant Extract (FPE)
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+[[fermented-plant-juice]] (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
@@ -71,7 +46,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the [[indigenous-microorganisms]] on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar
@@ -147,5 +122,5 @@ A separate KNF input that functions as both a nutrient source and an extraction 
 
 Key uses with FPJ/FFJ:
 - Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
-- Extracts calcium phosphate from bones (see [[water-soluble-calcium-phosphate-wcp]])
+- Extracts [[calcium-phosphate]] from bones (see [[water-soluble-calcium-phosphate-wcp]])
 ## See Also

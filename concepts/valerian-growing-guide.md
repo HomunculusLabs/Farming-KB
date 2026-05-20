@@ -1,11 +1,3 @@
----
-title: Valerian Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Valerian Growing Guide (Valeriana officinalis)
 
@@ -20,7 +12,7 @@ by both herbalists and healthcare practitioners for insomnia and anxiety.
 
 ## Botanical Profile
 
-- Scientific name: Valeriana officinalis
+- Scientific name: [[valeriana-officinalis]]
 - Family: Caprifoliaceae
 - Hardiness: USDA zones 3-7
 - Lifecycle: Perennial

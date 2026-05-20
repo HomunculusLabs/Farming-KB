@@ -1,11 +1,3 @@
----
-title: Homestead Energy Conservation
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, sustainability, engineering, construction, beginner]
-sources: []
----
 
 # Homestead Energy Conservation
 
@@ -35,7 +27,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- Earthen construction (cob, adobe, rammed earth)
+- Earthen construction (cob, adobe, [[rammed-earth]])
 
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 
@@ -95,7 +87,7 @@ Refrigerators are the largest single energy consumer on many homesteads:
 Water heating accounts for 15-25% of home energy use:
 
 - **Solar thermal**: Batch heaters or evacuated tube collectors — free hot water for 6-9 months
-- **Wood-fired**: Thermosiphon systems using wood stove heat
+- **Wood-fired**: [[thermosiphon]] systems using wood stove heat
 - **On-demand**: Tankless water heaters only heat water when needed (eliminate standby losses)
 - **Insulate**: Tank blanket and pipe insulation reduce losses 25-40%
 - **Lower temperature**: 120°F is adequate for most uses; 140°F for dishwasher sanitizing
@@ -142,7 +134,7 @@ Water heating accounts for 15-25% of home energy use:
 Saving water saves energy (pumping, heating, treating):
 
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-- Dual-flush toilets or composting toilets
+- Dual-flush toilets or [[composting-toilets]]
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
 - Greywater recycling for irrigation (see [[graywater-systems]])
 - Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])

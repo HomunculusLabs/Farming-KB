@@ -1,14 +1,6 @@
----
-title: Mold Identification Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
-sources: []
----
 # Mold Identification Guide
 
-Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
+Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla [[ascomycota]] and Zygomycota.
 
 ## Understanding Mold Growth
 
@@ -51,7 +43,7 @@ One of the most important genera in indoor environments and the [[ascomycete-phy
 
 ### Penicillium
 
-Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments.
+Closely related to [[aspergillus]], found in soil, decaying vegetation, and indoor environments.
 
 #### Common Indoor Species
 - P. chrysogenum: the original penicillin producer, very common indoors
@@ -74,7 +66,7 @@ The most notorious indoor mold, often called "toxic black mold" in media.
 - Requires sustained high moisture (water activity above 0.93) to grow
 - Grows slowly compared to other molds (7-12 days to produce spores)
 - Dark brown to black, slimy colonies
-- Produces mycotoxins: satratoxins, roridins, and verrucarins (trichothecenes)
+- Produces [[mycotoxins]]: satratoxins, roridins, and verrucarins (trichothecenes)
 - Spores are sticky, not easily aerosolized unless disturbed
 - Found on cellulose-rich materials: drywall paper, ceiling tiles, cardboard
 

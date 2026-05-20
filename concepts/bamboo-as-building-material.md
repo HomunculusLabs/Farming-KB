@@ -1,11 +1,3 @@
----
-title: Bamboo as Building Material
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [construction, permaculture, sustainability, homesteading, tools, engineering]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
----
 
 # Bamboo as Building Material
 
@@ -28,7 +20,7 @@ Bamboo is one of the fastest-growing and most versatile building materials on Ea
 - Thick walls, large diameter (4-6 inches)
 - Exceptional strength and durability
 - Native to Central and South America
-- Used in Colombia's modern bamboo construction industry
+- Used in Colombia's modern [[bamboo-construction]] industry
 
 ### Phyllostachys edulis (Moso Bamboo)
 - The most commercially important bamboo species

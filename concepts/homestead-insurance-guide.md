@@ -1,11 +1,3 @@
----
-title: Homestead Insurance Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, economics, regulation, law, business, safety]
-sources: []
----
 
 # Homestead Insurance Guide
 
@@ -56,7 +48,7 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 - Cost: $500-2,000/year depending on number and value of structures
 
 ### Equipment
-- Tractors, tools, processing equipment, irrigation systems
+- Tractors, tools, processing equipment, [[irrigation-systems]]
 - Covered for theft, fire, collision, vandalism
 - Schedule high-value items individually (list make, model, serial number)
 - Tractor: often requires separate policy or farm vehicle coverage

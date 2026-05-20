@@ -1,11 +1,3 @@
----
-title: Hawthorn Berry Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, fruit-tree, pruning, permaculture]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
----
 
 # Hawthorn Berry Growing Guide (Crataegus species)
 
@@ -15,7 +7,7 @@ Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
 widely distributed across North America, Europe, and Asia. Revered as a
 heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
-are among the most important cardiovascular herbs in modern herbal practice.
+are among the most important [[cardiovascular-herbs]] in modern herbal practice.
 The berries are also used in preserves, wines, and vinegars.
 
 ## Botanical Profile
@@ -29,7 +21,7 @@ The berries are also used in preserves, wines, and vinegars.
 - Fruit: Red to dark red berries (haws), September to October
 
 Common species for cultivation:
-- Crataegus monogyna (European hawthorn, one-seed hawthorn): Traditional
+- [[crataegus-monogyna]] (European hawthorn, one-seed hawthorn): Traditional
   medicinal species, widely naturalized in North America
 - C. oxyacantha (English hawthorn): Closely related to C. monogyna, similar
   medicinal properties

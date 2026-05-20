@@ -1,15 +1,7 @@
----
-title: Permaculture Waste Management
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [permaculture, composting, greywater, pollution, recycling, water, ecology, homesteading]
-sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
----
 
 # Permaculture Waste Management
 
-Waste is a central concept in permaculture. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
+Waste is a central concept in [[permaculture]]. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
 
 ## Core Principle: No Waste in Nature
 
@@ -44,7 +36,7 @@ Biogas (methane + carbon dioxide + ammonia) from anaerobic digestion is a useful
 ### Septic Tank Enhancements
 
 For existing septic systems, effluent can flow through:
-- Reed beds and aquatic plant systems
+- Reed beds and [[aquatic-plant-systems]]
 - Leach fields planted to useful species
 - Aquatic crop systems for biogas feedstock
 
@@ -75,7 +67,7 @@ Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Reed bed treatment systems
 - Direct irrigation of fruit trees and ornamental plantings
 
-The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
+The reduction of water used in sewage systems is itself a design goal -- dry toilets, [[composting-systems]], and greywater reuse all reduce the volume requiring treatment.
 
 ## Industrial Waste
 
@@ -86,7 +78,7 @@ Mollison is sharply critical of systems that produce wastes as pollutants to the
 - [[permaculture-zone-0-house-design]] -- waste recycling at the household level
 - [[permaculture-settlement-design]] -- community-scale waste systems
 -  -- worm-based waste processing
-- [[composting-methods-comparison]] -- composting techniques
+- [[composting-methods-comparison]] -- [[composting]] techniques
 
 Field observations and practical experience remain the most reliable guides for system optimization.
 Field observations and practical experience remain the most reliable guides for system optimization.

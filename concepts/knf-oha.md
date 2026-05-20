@@ -114,8 +114,4 @@ Adaptation to local conditions and seasonal variations is essential. What works 
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
 
-
-
-
-
 Field observations and practical experience remain the most reliable guides for system optimization.

@@ -1,17 +1,9 @@
----
-title: Iboga Root Bark Preparation
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, preparation, ethnobotany, africa, psychopharmacology, safety, chemistry, species, pharmacology, medicine, health, shamanism, history]
-sources: []
----
 
 # Iboga Root Bark Preparation
 
 ## Overview
 
-Tabernanthe iboga is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex indole alkaloid with unique psychoactive properties. Unlike classical psychedelics (which primarily act on serotonin receptors), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
+[[tabernanthe-iboga]] is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex indole alkaloid with unique psychoactive properties. Unlike classical psychedelics (which primarily act on serotonin receptors), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
 
 Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang people of Gabon. In the West, ibogaine has gained attention for its reputed ability to interrupt substance addiction, particularly opioid dependence — though this application remains experimental and unapproved by major medical regulatory bodies.
 
@@ -36,7 +28,7 @@ Bwiti is a syncretic spiritual practice that combines elements of Fang ancestral
 
 ### Other Alkaloids
 - Ibogamine — lower psychoactivity
-- Tabernanthine — related iboga alkaloid
+- [[tabernanthine]] — related iboga alkaloid
 - Voacangine — precursor compound found in Voacanga species
 - Iboxygaine, iboluteine — minor alkaloids
 
@@ -110,7 +102,7 @@ This is a simplified overview of the general process — detailed procedures are
 
 ### Voacanga as a Source
 
-Voacanga africana seeds contain voacangine, which can be chemically converted to ibogaine. This is the industrial source for most purified ibogaine HCl on the market.
+[[voacanga-africana]] seeds contain voacangine, which can be chemically converted to ibogaine. This is the industrial source for most purified ibogaine HCl on the market.
 
 ## Safety Screening
 

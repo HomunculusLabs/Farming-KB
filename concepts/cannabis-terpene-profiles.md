@@ -1,12 +1,3 @@
----
-title: Cannabis Terpene Profiles
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [cannabis, terpenes, myrcene, limonene, pinene, linalool, caryophyllene, humulene, aroma, entourage-effect]
-sources:
-  - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
----
 
 # Cannabis Terpene Profiles
 
@@ -38,11 +29,11 @@ A spicy, peppery terpene found in black pepper, cloves, cinnamon, and cannabis. 
 
 ### Humulene
 
-An earthy, woody terpene also prominent in hops (Humulus lupulus, its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable humulene content. It is associated with appetite suppression and anti-inflammatory effects.
+An earthy, woody terpene also prominent in hops ([[humulus-lupulus]], its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable humulene content. It is associated with appetite suppression and anti-inflammatory effects.
 
 ## Terpene Profiles in Practice
 
-In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
+In S.T. Oner's [[cannabis-sativa]] Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
 - **Piney, fuel smells** -- suggesting high pinene and caryophyllene
 - **Citrus, fresh smells** -- suggesting limonene
 - **Earthy, spice aromas** -- suggesting humulene and caryophyllene
@@ -76,6 +67,15 @@ Documentation and observation support continuous improvement.
 Ongoing research continues to refine understanding and improve practical applications.
 New developments in related fields contribute to advancing knowledge in this area.
 Field trials and experimental results provide valuable data for optimization.
+
+## Terpene Testing and Analysis
+
+Gas chromatography-mass spectrometry (GC-MS) is the standard method
+for terpene profiling in cannabis. Testing reveals synergistic
+relationships between terpenes and cannabinoids known as the
+entourage effect. Environmental factors including light spectrum,
+temperature, and harvest timing significantly influence terpene
+production and final profile composition.
 
 ## See Also
 - [[cannabis-plant-anatomy]]

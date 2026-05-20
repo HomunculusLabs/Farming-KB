@@ -1,18 +1,3 @@
----
-title: Permaculture Temperate Design Strategies
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags:
-  - temperate
-  - climate
-  - frost
-  - wind
-  - season-extension
-  - permaculture
-sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
----
 
 # Permaculture Temperate Design Strategies
 
@@ -22,7 +7,7 @@ Chapter 12 of the Designers' Manual addresses the cool temperate and cold climat
 
 ### Bimodal Growth Curve
 
-The net product of grassland in a cool humid climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
+The net product of grassland in a cool humid climate has a [[bimodal-growth-curve]] with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
 
 Strategies to overcome seasonal deficits:
 - **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like tagasaste may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
@@ -84,3 +69,13 @@ Best defenses: preservation of high-slope forests, placement of essential servic
 - [[permaculture-livestock-forage-systems]] -- Forage strategies for temperate livestock
 - [[permaculture-design-process]] -- Energy-efficient housing for cold climates
 - [[permaculture-livestock-forage-systems]] -- Rotational grazing in temperate grasslands
+
+## Seasonal Planning Cycles
+
+Temperate permaculture requires careful seasonal timing for plantings,
+harvests, and infrastructure projects. Spring focuses on soil
+preparation and early plantings, summer on water management and
+succession planting, autumn on harvest and preservation, and winter
+on design review and tool maintenance. Microclimate modification
+through windbreaks, thermal mass, and water bodies extends the
+growing season significantly in temperate zones.

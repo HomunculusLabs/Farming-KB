@@ -1,11 +1,3 @@
----
-title: Mushroom Cooking Techniques
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [food, mushrooms, cooking, nutrition, preparation, preservation, foraging, species]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 ## Overview
 
@@ -75,7 +67,7 @@ Best for large, meaty mushrooms:
 For tough or woody species:
 - Cook low and slow in liquid
 - Aromatics, wine, stock, or cream as braising liquid
-- Works well for: hen of the woods, chicken of the woods (young), hedgehogs
+- Works well for: hen of the woods, [[chicken-of-the-woods]] (young), hedgehogs
 - Stewed mushrooms are traditional in Eastern European, Asian, and Mediterranean cuisines
 
 ### Frying

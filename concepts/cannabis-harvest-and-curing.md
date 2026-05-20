@@ -1,11 +1,3 @@
----
-title: Cannabis Harvest and Curing
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, harvesting, drying, storage, processing, beginner]
-sources: []
----
 
 ## Overview
 
@@ -30,7 +22,7 @@ Also consider:
 
 ### Flushing
 
-If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers nutrient availability.
+If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers [[nutrient-availability]].
 
 ### Dark Period
 

@@ -1,21 +1,13 @@
----
-title: Reishi (Ganoderma lucidum) — Medicinal Mushroom Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # Reishi (Ganoderma lucidum)
 
 ## Overview
 
-Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a polypore mushroom that has been used for over 2,000 years in East Asian medicine. Its scientific name Ganoderma lucidum translates roughly to "shiny brilliant skin," referencing the varnished appearance of its conk. Reishi is one of the most researched medicinal mushrooms and holds the nickname "the mushroom of immortality."
+Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a polypore mushroom that has been used for over 2,000 years in East Asian medicine. Its scientific name [[ganoderma-lucidum]] translates roughly to "shiny brilliant skin," referencing the varnished appearance of its conk. Reishi is one of the most researched [[medicinal-mushrooms]] and holds the nickname "the mushroom of immortality."
 
 ## Key Compounds
 
-- **Triterpenes (ganoderic acids):** Bitter-tasting compounds responsible for liver protection, anti-inflammatory effects, and cholesterol reduction. Over 150 triterpenes have been identified.
+- **Triterpenes ([[ganoderic-acids]]):** Bitter-tasting compounds responsible for liver protection, anti-inflammatory effects, and cholesterol reduction. Over 150 triterpenes have been identified.
 - **Beta-glucans (polysaccharides):** Long-chain sugars that modulate immune function by activating macrophages, natural killer (NK) cells, and T-lymphocytes.
 - **Ganoderma lucidum peptide (GLP):** Potent antioxidant protein.
 - **Nucleosides and adenosine:** Cardiovascular support compounds.
@@ -59,7 +51,7 @@ Convenient but less bioavailable than liquid preparations. Dual-extracted powder
 
 ## Dosing Guidelines
 
-- **General wellness:** 1-2g dried mushroom powder per day, or 2-4ml dual extract tincture.
+- **General wellness:** 1-2g dried [[mushroom-powder]] per day, or 2-4ml dual extract tincture.
 - **Immune support (acute):** 3-5g per day divided into 2-3 doses.
 - **Chronic conditions:** 2-6g per day, consistent use for 8-12 weeks minimum.
 - **Tincture:** 2-4ml, 2-3 times daily.

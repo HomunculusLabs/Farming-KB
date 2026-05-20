@@ -1,11 +1,3 @@
----
-title: Mushroom Drying and Storage
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, fungi, processing, methods, troubleshooting]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # Mushroom Drying and Storage
 
@@ -14,7 +6,7 @@ Proper drying and storage are essential for preserving mushroom potency, flavor,
 ## Why Dry Mushrooms
 
 - **Preservation**: Fresh mushrooms spoil within 3-7 days refrigerated. Dried mushrooms last years
-- **Potency retention**: Halts enzymatic degradation of psilocybin/psilocin and medicinal compounds
+- **Potency retention**: Halts enzymatic degradation of [[psilocybin]]/psilocin and medicinal compounds
 - **Weight reduction**: Mushrooms are 90% water. Drying reduces weight by approximately 90%
 - **Convenience**: Easy to store, transport, dose, and incorporate into preparations
 - **Concentration**: Dried material is ~10x more potent by weight than fresh
@@ -69,7 +61,7 @@ Traditional method; works in dry climates:
 
 The key concern with psilocybin-containing mushrooms:
 
-- **Psilocybin** is relatively heat-stable (decomposition starts above ~350°F / 177°C)
+- **Psilocybin** is relatively heat-stable ([[decomposition]] starts above ~350°F / 177°C)
 - **Psilocin** (the active metabolite) is much less stable and degrades at lower temperatures (~150-200°F / 66-93°C)
 - Fresh mushrooms contain both compounds; psilocin degrades rapidly after harvest
 - Most of the psilocin converts to or degrades during drying regardless of temperature

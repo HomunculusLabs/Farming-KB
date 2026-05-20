@@ -1,17 +1,9 @@
----
-title: Psychedelic Mushroom Dosage Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, potency, preparation]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # Psychedelic Mushroom Dosage Guide
 
 ## Overview
 
-Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on Psilocybe cubensis as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
+Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on [[psilocybe-cubensis]] as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
 
 ## Critical Caveats
 
@@ -67,7 +59,7 @@ Fresh mushrooms are often considered slightly different in character — some us
 
 ### Heroic Dose: 5.0g+
 
-- Full mystical experience in the "hero's journey" framework (as described by Terence McKenna)
+- Full [[mystical-experience]] in the "hero's journey" framework (as described by [[terence-mckenna]])
 - Complete ego dissolution probable
 - Extreme vulnerability; requires expert guidance or extensive personal experience
 - Minimum 8 hours with no responsibilities; ideally a full day with nothing scheduled the following day
@@ -81,9 +73,9 @@ Potency varies dramatically between species. The following conversion factors ad
 
 | Species | Potency Factor | Notes |
 |---------|---------------|-------|
-| Psilocybe azurescens | 0.25-0.40x | Extremely potent; 1g cubensis ≈ 0.3g azurescens |
-| Psilocybe cyanescens | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
-| Psilocybe bohemica/serbica | 0.50-0.70x | Potent European species |
+| [[psilocybe-azurescens]] | 0.25-0.40x | Extremely potent; 1g cubensis ≈ 0.3g azurescens |
+| [[psilocybe-cyanescens]] | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
+| [[psilocybe-bohemica]]/serbica | 0.50-0.70x | Potent European species |
 | Psilocybe semilanceata | 0.50-0.70x | Small but potent; potency varies by region and season |
 | Panaeolus cyanescens | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
 

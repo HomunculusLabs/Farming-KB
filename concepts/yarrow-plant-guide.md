@@ -1,11 +1,3 @@
----
-title: Yarrow Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture, ethnobotany]
-sources: []
----
 
 # Yarrow Growing Guide (Achillea millefolium)
 
@@ -20,7 +12,7 @@ garden resident.
 
 ## Botanical Profile
 
-- Scientific name: Achillea millefolium
+- Scientific name: [[achillea-millefolium]]
 - Family: Asteraceae
 - Hardiness: USDA zones 3-9
 - Lifecycle: Perennial
@@ -36,7 +28,7 @@ and yellow varieties.
 
 Yarrow is one of the most versatile medicinal herbs in the temperate garden.
 Its primary active compounds include achilleine (a hemostatic alkaloid),
-flavonoids, tannins, and essential oils (chamazulene, camphor, eucalyptol).
+flavonoids, tannins, and essential oils (chamazulene, camphor, [[eucalyptol]]).
 
 Key medicinal applications:
 
@@ -73,7 +65,7 @@ Yarrow is one of the best all-around companion plants for a homestead garden:
   soil moisture -- it thrives where many other plants struggle.
 
 Plant yarrow near vegetables, fruit trees, and in pollinator borders. It is
-especially valuable in orchard understories and food forest plantings.
+especially valuable in orchard understories and [[food-forest]] plantings.
 
 ## Pollinator Plant
 
@@ -131,7 +123,7 @@ protected from light. Properly dried yarrow retains potency for 1-2 years.
 ## Common Issues
 
 Yarrow is largely pest and disease free. Overly rich soil or excessive
-moisture can cause powdery mildew or root rot. Aphids occasionally appear
+moisture can cause [[powdery-mildew]] or root rot. Aphids occasionally appear
 but rarely cause significant damage. The aromatic foliage naturally deters
 deer and rabbits.
 

@@ -1,11 +1,3 @@
----
-title: Strawberry Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, gardening, beginner, harvesting, fruit-tree, orchard]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 ## Overview
 
@@ -153,15 +145,15 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 ## Common Problems
 
 ### Pests
-- **Slugs and snails**: Straw mulch creates habitat; use beer traps, diatomaceous earth, handpick at night
+- **Slugs and snails**: Straw mulch creates habitat; use beer traps, [[diatomaceous-earth]], handpick at night
 - **Strawberry sap beetle**: Small beetles in ripe fruit; harvest frequently, remove overripe berries
 - **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
 - **Tarnished plant bug**: Deforms fruit (cat-facing); control weeds that host them, use row covers at flowering
 - **Birds**: Net plants with bird netting as fruit ripens; support netting above plants
 
 ### Diseases
-- **Gray mold (Botrytis)**: Brown rot on berries; remove infected fruit, improve air circulation
-- **Powdery mildew**: White coating on leaves; use resistant varieties, neem oil sprays
+- **Gray mold (Botrytis)**: [[brown-rot]] on berries; remove infected fruit, improve air circulation
+- **[[powdery-mildew]]**: White coating on leaves; use resistant varieties, neem oil sprays
 - **Verticillium wilt**: Soil-borne; rotate crops, use resistant varieties
 - **Anthracnose**: Dark lesions on fruit; remove affected plants, avoid overhead watering
 

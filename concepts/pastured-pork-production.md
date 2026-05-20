@@ -1,11 +1,3 @@
----
-title: Pastured Pork Production
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading]
-sources: []
----
 
 # Pastured Pork Production
 
@@ -39,7 +31,7 @@ Crossbreeding: Berkshire x Duroc or Tamworth x Berkshire crosses combine fast gr
 Pigs are omnivores and will consume a wide variety of forage:
 
 ### Permanent Pasture Species
-- White clover, red clover, alfalfa (high protein)
+- White clover, [[red-clover]], alfalfa (high protein)
 - Orchardgrass, ryegrass, fescue
 - Chicory (deep-rooted, drought-tolerant, high mineral content)
 - Plantain (broadleaf, palatable, mineral-rich)
@@ -143,7 +135,7 @@ Average yield from 250 lb live pig:
 ### Profitability
 - Net profit per pig (retail): $200-600
 - Selling live: $50-150 profit (thin margins)
-- Key is direct marketing -- see farmers market selling guide
+- Key is direct marketing -- see [[farmers-market-selling-guide]]
 - Annual production of 6-10 pigs can generate $2,000-6,000 net income
 
 ## Health Considerations

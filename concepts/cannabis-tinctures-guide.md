@@ -1,11 +1,3 @@
----
-title: Cannabis Tinctures Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, processing, recipe, preparation, medicine, health, potency]
-sources: []
----
 
 ## Overview
 
@@ -106,7 +98,7 @@ To estimate tincture potency, you need to know the starting cannabis percentage:
 
 **Example**:
 - 28g (1 oz) cannabis at 20% THC = 5,600 mg total THC
-- Decarboxylation converts ~85-90% of THCA to THC: ~4,760-5,040 mg THC
+- [[decarboxylation]] converts ~85-90% of THCA to THC: ~4,760-5,040 mg THC
 - Extraction efficiency: 70-80% for alcohol, 50-60% for glycerin
 - Assuming 75% extraction efficiency: ~3,570 mg THC extracted
 - Dissolved in 475 ml (16 oz) of alcohol

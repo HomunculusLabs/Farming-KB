@@ -1,11 +1,3 @@
----
-title: Reciprocal Roof Frame
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [construction, permaculture, sustainability, homesteading, design]
-sources: [raw/papers/working-with-agar.md]
----
 
 # Reciprocal Roof Frame
 
@@ -46,7 +38,7 @@ Reciprocal roofs are especially well-suited to roundwood (unmilled, whole logs o
 
 ### Selecting Roundwood
 
-- **Species:** Locust, oak, larch, Douglas fir, and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
+- **Species:** Locust, oak, larch, [[douglas-fir]], and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
 - **Diameter:** 4-8 inches at the butt end for most small to medium structures
 - **Length:** Determined by the building radius plus overhang
 - **Straightness:** Rafters should be reasonably straight; slight curves add character but must be accounted for

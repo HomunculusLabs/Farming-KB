@@ -1,23 +1,15 @@
----
-title: Fungal Antibiotics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, chemistry, health, medicine, history, biology, lab-technique]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 # Fungal Antibiotics
 
 ## Overview
 
-Fungi have been one of the most important sources of antibiotics in human medicine. The discovery of penicillin from the mold Penicillium notatum in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of antimicrobial compounds, and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
+Fungi have been one of the most important sources of antibiotics in human medicine. The discovery of penicillin from the mold [[penicillium-notatum]] in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of antimicrobial compounds, and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
 
 ## Penicillin: History and Impact
 
 ### Alexander Fleming's Discovery (1928)
 
-In September 1928, Alexander Fleming, a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin's activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
+In September 1928, [[alexander-fleming]], a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin's activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
 
 ### Development into a Drug (1939-1941)
 
@@ -68,7 +60,7 @@ Cephalosporins are classified into five generations based on their antimicrobial
 2. **Second generation**: Cefuroxime, Cefoxitin — expanded Gram-negative coverage, some anaerobic activity
 3. **Third generation**: Ceftriaxone, Cefotaxime, Ceftazidime — potent Gram-negative activity, some cross blood-brain barrier
 4. **Fourth generation**: Cefepime — broad spectrum including resistant Gram-negatives and some Gram-positives
-5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant Staphylococcus aureus) and resistant Gram-negatives
+5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant [[staphylococcus-aureus]]) and resistant Gram-negatives
 
 ## Other Fungal-Derived Antibiotics
 
@@ -116,14 +108,14 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
+- Heterologous expression of BGCs in model fungal hosts ([[aspergillus-oryzae]], [[saccharomyces-cerevisiae]])
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- Endophytic fungi living inside plant tissues
+- [[endophytic-fungi]] living inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
 - Polar and extreme environments
@@ -143,7 +135,7 @@ Promising fungal-derived compounds in development:
 - **Drug development cost**: Bringing a new antibiotic to market costs $1-2 billion, with poor return on investment compared to chronic disease drugs
 - **Regulatory hurdles**: Stringent requirements for safety and efficacy testing
 
-See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the human fungal pathogens these drugs aim to treat.
+See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the [[human-fungal-pathogens]] these drugs aim to treat.
 
 ## Related
 

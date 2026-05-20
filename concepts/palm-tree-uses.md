@@ -1,11 +1,3 @@
----
-title: Palm Tree Uses
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [trees, permaculture, plant-catalog, species, plants, multi-function, forage, food-forest, species-profiles]
-sources: [raw/papers/a-selection-permaculture-plants.md]
----
 
 # Palm Tree Uses
 
@@ -68,9 +60,9 @@ S. and SE Asia. Sap for sugar and wine. Starch from trunk (90 kg/tree). Leaves f
 
 Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 
-- **Euterpe edulis** (jucara) — 1 kg heart/tree
-- **Euterpe oleracea** (acai) — heart + edible fruit for beverages, forage for animals
-- **Sabal palmetto** — sweet edible fruit, terminal bud from thinnings
+- **[[euterpe-edulis]]** (jucara) — 1 kg heart/tree
+- **[[euterpe-oleracea]]** (acai) — heart + edible fruit for beverages, forage for animals
+- **[[sabal-palmetto]]** — sweet edible fruit, terminal bud from thinnings
 - **Roystonea elata** (Royal Palm) — fruit for livestock, heart from thinnings
 - Multiple genera: Genonoma, Hyospathe, Prestoea, Socratea, Welfia
 
@@ -78,8 +70,8 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 
 - **Acrocomia mexicana** (palmito de coyol) — leaf base eaten raw/roasted/boiled/pickled; sap for wine; oil from fruit
 - **Acrocomia sclerocarpa** (macauba) — oil from kernel, fruit tastes like apricot, heart-of-palm, thatch
-- **Butia capitata** (Jelly Palm) — very hardy to -5C, 250-800mm rainfall, edible fruit with edible nut, oil from kernels
-- **Hyphaene thebaica** (Doum Palm) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
+- **[[butia-capitata]]** (Jelly Palm) — very hardy to -5C, 250-800mm rainfall, edible fruit with edible nut, oil from kernels
+- **[[hyphaene-thebaica]]** ([[doum-palm]]) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
 - **Mauritia flexuosa** (Buriti) — staple food: oil, fruit, heart-of-palm, wine. High in vitamins A and C. Fruit clusters to 45 kg. Leaf fibre for rope, sacking, hammocks. Trunk for balsa-like wood. Indicator plant for tropical rainforest swamp
 - **Salacca zalacca** (Salak Palm) — one of the finest palm fruits for eating raw, edible seeds
 - **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, fatty acids. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
@@ -107,7 +99,7 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 - **Aiphanes acanthophylla** — tall spiny trunk
 - **Ancistrophyllum acutiflorum** — cluster palm with many short spiny trunks
 - **Astrocaryum aculeatus** — spiny trunk, edible kernel
-- **Borassus flabellifer** — tall spiny trunk with toothed midrib
+- **[[borassus-flabellifer]]** — tall spiny trunk with toothed midrib
 - **Eugeissona tristis** — cluster palm with spiny midrib
 - **Copernicia rigida** — spiky and bush-like
 

@@ -1,11 +1,3 @@
----
-title: Hay and Forage Management
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
-sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
----
 
 # Hay and Forage Management
 
@@ -35,7 +27,7 @@ feed inputs.
   digestibility. Excellent for lactating dairy animals, growing livestock,
   and horses in work. Can cause bloat if fed as the sole forage to cattle
   and sheep.
-- **Clover hay (red/white):** 12-18% protein. Good quality, but red clover
+- **Clover hay (red/white):** 12-18% protein. Good quality, but [[red-clover]]
   can cause reproductive issues in sheep (phytoestrogens). White clover is
   lower-yielding but excellent quality.
 - **Birdsfoot Trefoil:** 12-16% protein. Non-bloating legume. Tolerates

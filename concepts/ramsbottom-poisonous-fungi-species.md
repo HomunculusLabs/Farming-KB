@@ -1,24 +1,3 @@
----
-
-title: Ramsbottom Poisonous Fungi Species
-created: 2026-04-12
-updated: 2026-04-12
-type: summary
-
-tags:
-- mushrooms
-- mycology
-- health
-- folklore
-- ph
-- fungi
-- species
-- lighting
-- wood-rot
-
-sources:
-- raw/papers/mushrooms
----
 # Ramsbottom Poisonous Fungi Species
 
 Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" with colour plates by Rose Ellenby. All measurements in inches. See [[mushroom-poisoning-guide]] for modern toxicological summaries.
@@ -37,7 +16,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Poisoning**: 10-12 hour incubation (almost diagnostic). Sudden intense abdominal pain, vomiting, diarrhoea, extreme thirst. Quiescence after ~2 days (most dangerous period). Recurrence in more intense form; nervous system gradually paralysed, liver degenerates, delirium, collapse, death. Recovery is slow with prolonged convalescence.
 
-**Key toxins**: Amanita-toxin (heat-resistant, causes liver degeneration), phalloidin (polypeptide, destroyed by heat), phallin (glucoside, attacks red blood cells, destroyed by heat/digestion -- NOT the active poison).
+**Key toxins**: Amanita-toxin (heat-resistant, causes liver degeneration), [[phalloidin]] (polypeptide, destroyed by heat), phallin (glucoside, attacks red blood cells, destroyed by heat/digestion -- NOT the active poison).
 
 ## AMANITA VERNA -- Fools' Mushroom
 
@@ -119,7 +98,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Amongst grass, autumn. Rare in Britain.
 
-**Poisoning**: Mild Amanita phalloides-type symptoms. Much less dangerous than the Amanitas.
+**Poisoning**: Mild [[amanita-phalloides]]-type symptoms. Much less dangerous than the Amanitas.
 
 ## LACTARIUS TORMINOSUS -- Woolly Milk Cap
 

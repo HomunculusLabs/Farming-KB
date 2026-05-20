@@ -1,15 +1,7 @@
----
-title: Biogas Digester Basics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, off-grid, sustainability, microbes, composting, energy, ecology]
-sources: []
----
 
 ## Overview
 
-A biogas digester (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
+A [[biogas-digester]] (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
 
 ## Biogas Composition
 
@@ -28,7 +20,7 @@ The energy content of biogas is roughly 600 BTU per cubic foot (compared to 1,00
 
 ## The Anaerobic Digestion Process
 
-Four stages of microbial decomposition occur in sequence:
+Four stages of microbial [[decomposition]] occur in sequence:
 
 ### 1. Hydrolysis
 

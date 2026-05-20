@@ -1,11 +1,3 @@
----
-title: Homestead Record Keeping
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, workflow, annual-calendar, reference, economics]
-sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
----
 
 # Homestead Record Keeping
 
@@ -15,7 +7,7 @@ Systematic record keeping transforms a homestead from a collection of guesswork 
 
 - **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
 - **Financial accountability** — understand true costs versus income from homestead products
-- **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
+- **[[seasonal-planning]]** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
 - **Legal and tax** — support deductions, agricultural tax status, and insurance claims
 - **Improvement measurement** — compare year-over-year progress toward your goals

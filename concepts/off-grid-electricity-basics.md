@@ -1,11 +1,3 @@
----
-title: Off-Grid Electricity Basics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, engineering, equipment, sustainability]
-sources: []
----
 
 # Off-Grid Electricity Basics
 
@@ -159,5 +151,5 @@ The cheapest watt is the one you never use. Before sizing a system:
 ## Related Topics
 
 - [[homestead-water-systems]] for well pump power requirements
-- [[building-with-natural-materials]] for passive solar design to reduce electrical loads
+- [[building-with-natural-materials]] for [[passive-solar-design]] to reduce electrical loads
 - [[homestead-energy-conservation]]

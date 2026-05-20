@@ -1,11 +1,3 @@
----
-title: Mushroom Harvesting Techniques
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, fungi, cultivation, indoor, harvesting, drying, storage, processing, workflow]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 ## Overview
 
@@ -79,7 +71,7 @@ Aborts are small mushrooms that have stopped growing and begun to die. They are 
 - Caps may darken or develop a bluish tint.
 - Stems may appear shriveled or thin compared to healthy mushrooms.
 
-**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because psilocybin/psilocin concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
+**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because [[psilocybin]]/psilocin concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
 
 ## Drying
 

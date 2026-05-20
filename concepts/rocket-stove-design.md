@@ -1,15 +1,7 @@
----
-title: Rocket Stove Design
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, equipment, engineering, design, construction]
-sources: []
----
 
 # Rocket Stove Design
 
-A rocket stove is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
+A [[rocket-stove]] is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
 
 ## How Rocket Stoves Work
 
@@ -64,7 +56,7 @@ A proper insulated rocket stove requires more effort but performs dramatically b
 - Steel pipe or square tubing for the combustion chamber: 6-inch diameter, 24 inches long
 - Steel elbow or custom-cut section for the J-bend
 - Steel pipe for the chimney: 6-inch diameter, 24-36 inches tall
-- Insulation: perlite, vermiculite, wood ash, pumice, or lightweight concrete (perlite cement mix)
+- Insulation: perlite, [[vermiculite]], wood ash, pumice, or lightweight concrete (perlite cement mix)
 - Outer shell: 55-gallon steel drum, or a box built from sheet metal or brick
 - Steel plate or grate for the burn tunnel floor
 - Metal pot skirt (optional but recommended — a cylinder that fits around the pot, forcing hot gases against the pot sides)

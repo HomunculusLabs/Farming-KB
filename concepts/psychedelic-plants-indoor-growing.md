@@ -1,17 +1,9 @@
----
-title: Psychedelic Plants Indoor Growing
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, indoor, cultivation, cacti, species, plants, beginner, environment, methods, preparation, humidity, species-profiles]
-sources: []
----
 
 # Psychedelic Plants Indoor Growing
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and Banisteriopsis caapi.
+Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, [[salvia-divinorum]], [[psychotria-viridis]], and [[banisteriopsis-caapi]].
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 

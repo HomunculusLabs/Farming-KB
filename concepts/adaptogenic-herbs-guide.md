@@ -47,6 +47,46 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 
 ---
 
+# Adaptogenic Herbs Guide
+
+## Overview
+
+Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
+1. Be non-specific (increase resistance to a broad range of stressors).
+2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
+3. Be safe and non-toxic with minimal side effects.
+
+This guide covers five primary adaptogenic herbs: [[ashwagandha]], rhodiola, holy basil, eleuthero, and maca.
+
+## Ashwagandha (Withania somnifera)
+
+### Overview
+Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the most researched adaptogens. Known as "Indian ginseng" (though botanically unrelated to ginseng). The name means "smell of a horse," referring to both its aroma and its reputation for imparting vigor.
+
+### Key Compounds
+- **Withanolides:** Steroidal lactones (withaferin A, withanolide D). Primary active compounds. Anti-inflammatory, anti-tumor, neuroprotective.
+- **Withanosides:** Glycosides with anxiolytic and cognitive-enhancing effects.
+- **Alkaloids:** Including withanine and somniferine.
+
+### Mechanisms
+- Modulates HPA axis (hypothalamic-pituitary-adrenal), reducing cortisol.
+- GABAergic activity: enhances GABA receptor signaling (anxiolytic effect).
+- Anti-inflammatory: inhibits NF-kB, reduces TNF-alpha and IL-6.
+- Thyroid support: enhances T3/T4 production in hypothyroid states.
+- Neuroprotective: promotes neurite outgrowth, reduces amyloid-beta accumulation.
+- Improves sleep quality via triethylene glycol content.
+
+### Dosing
+- **Root powder (KSM-66):** 300-600mg, twice daily.
+- **Root extract (sensoril):** 125-250mg, once or twice daily.
+- **Traditional churna:** 1-6g per day.
+- Take with food. Consistent use for 6-8 weeks for full effects.
+
+### Contraindications
+- Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy ([[solanaceae]] family). May enhance effects of sedatives and thyroid medications.
+
+---
+
 ## Rhodiola (Rhodiola rosea)
 
 ### Overview
@@ -84,10 +124,10 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 
 ### Key Compounds
 - **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
-- **Ursolic acid:** Triterpenoid with anti-inflammatory, anti-tumor, and hepatoprotective effects.
+- **[[ursolic-acid]]:** Triterpenoid with anti-inflammatory, anti-tumor, and hepatoprotective effects.
 - **Ocimumosides:** Unique glycosides with anti-stress activity.
 - **Linalool:** Monoterpene alcohol with anxiolytic and calming effects.
-- **Rosmarinic acid:** Polyphenol with antioxidant and anti-inflammatory activity.
+- **Rosmarinic acid:** [[polyphenol]] with antioxidant and anti-inflammatory activity.
 - **Apigenin:** Flavonoid with anxiolytic and mild sedative effects.
 
 ### Mechanisms
@@ -113,7 +153,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 ## Eleuthero (Eleutherococcus senticosus)
 
 ### Overview
-Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
+Also known as Siberian ginseng (though not a true [[panax-ginseng]]). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
 - **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
@@ -149,7 +189,7 @@ Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 
 - **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
 - **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).
 - **Alkaloids:** Including macaridine.
-- **Sterols:** Beta-sitosterol, campesterol, stigmasterol.
+- **Sterols:** Beta-sitosterol, campesterol, [[stigmasterol]].
 - **Amino acids:** Rich in arginine and histidine.
 
 ### Mechanisms

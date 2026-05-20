@@ -1,15 +1,7 @@
----
-title: Mushroom Liquid Culture
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, inoculation, storage]
-sources: [raw/papers/unknown-mushroom-culture-patent-2761246.md]
----
 
 ## Overview
 
-Liquid culture (LC) is a nutrient-rich liquid medium inoculated with mushroom mycelium. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
+[[liquid-culture]] (LC) is a nutrient-rich liquid medium inoculated with mushroom mycelium. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
 
 ## How Liquid Culture Works
 
@@ -164,7 +156,7 @@ The rule: if LC smells bad (anything other than mushroomy or neutral), discard i
 
 ## LC vs. Spore Syringe Comparison
 
-| Feature | Liquid Culture | Spore Syringe |
+| Feature | Liquid Culture | [[spore-syringe]] |
 |---------|---------------|---------------|
 | Inoculation type | Living mycelium | Dormant spores |
 | Colonization time | 7-14 days | 14-30 days |

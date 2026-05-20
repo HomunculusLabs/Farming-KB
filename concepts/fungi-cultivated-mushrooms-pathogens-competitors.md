@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md"
 ---
 ## Fungi on Cultivated Mushrooms -- Pathogens and Competitors
 Cultivated mushrooms face a range of fungal diseases and competitors that can

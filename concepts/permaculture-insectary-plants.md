@@ -1,17 +1,3 @@
----
-title: Permaculture Insectary Plants
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags:
-  - plants
-  - insects
-  - biological-control
-  - companion-planting
-  - permaculture
-sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
----
 
 # Permaculture Insectary Plants
 
@@ -35,12 +21,12 @@ The umbelliferae (Apiaceae) family is among the most important for attracting be
 
 Key umbellifers for insectary use:
 - Fennel (Foeniculum vulgare) -- self-seeds readily, perennial
-- Parsley (Petroselinum crispum) -- biennial, flowers in second year
-- Parsnip (Pastinaca sativa) -- biennial, left to flower provides major insectary value
-- Dill (Anethum graveolens) -- annual, attracts parasitic wasps
-- Coriander (Coriandrum sativum) -- annual, succession planting extends bloom period
-- Queen Anne's lace (Daucus carota) -- wild carrot, excellent insectary
-- Yarrow (Achillea millefolium) -- flat flower heads attract many beneficials
+- Parsley ([[petroselinum-crispum]]) -- biennial, flowers in second year
+- Parsnip ([[pastinaca-sativa]]) -- biennial, left to flower provides major insectary value
+- Dill ([[anethum-graveolens]]) -- annual, attracts parasitic wasps
+- Coriander ([[coriandrum-sativum]]) -- annual, [[succession-planting]] extends bloom period
+- Queen Anne's lace ([[daucus-carota]]) -- wild carrot, excellent insectary
+- Yarrow ([[achillea-millefolium]]) -- flat flower heads attract many beneficials
 
 ### Composite Flowers
 

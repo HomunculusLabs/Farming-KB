@@ -1,21 +1,7 @@
----
-created: 2026-04-12
-source: biodiversity-of-fungi (Hyde et al. Chs. 1-2, Hawksworth/Mueller/Schmit/Bridge)
-sources: []
-tags:
-- taxonomy
-- species-estimates
-- fungal-diversity
-- molecular-systematics
-- classification
-title: Fungal Species Estimates and Taxonomy
-type: concept
-updated: 2026-04-12
----
 
 # Fungal Species Estimates and Taxonomy
 
-Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of fungal taxonomy, and the classification of the fungal kingdom.
+Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of [[fungal-taxonomy]], and the classification of the fungal kingdom.
 
 ## The Species Gap
 
@@ -38,7 +24,7 @@ This gap means the vast majority of fungal species remain unknown to science.
 - UK: ~6 fungal species per plant species
 - Global vascular plants: ~270,000 species
 - 270,000 x 6 = 1.62 million (rounded to 1.5 million)
-- Updated to ~2.2-3.8 million accounting for tropical plants and cryptic species
+- Updated to ~2.2-3.8 million accounting for tropical plants and [[cryptic-species]]
 
 **Plant-fungus specificity approach**:
 - Tropical plants may host more fungal species per plant than temperate plants
@@ -85,10 +71,10 @@ This gap means the vast majority of fungal species remain unknown to science.
 ### Cryptic Species
 - Many "known" species are actually species complexes
 - Examples:
-  - *Amanita muscaria*: 6+ phylogenetic species globally
-  - *Pleurotus ostreatus* complex: Multiple species across continents
-  - *Armillaria mellea* complex: At least 10+ species in North America alone
-  - *Fusarium graminearum* complex: 15+ phylogenetic species
+  - *[[amanita-muscaria]]*: 6+ phylogenetic species globally
+  - *[[pleurotus-ostreatus]]* complex: Multiple species across continents
+  - *[[armillaria-mellea]]* complex: At least 10+ species in North America alone
+  - *[[fusarium-graminearum]]* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 
 ### DNA-Based Species Discovery

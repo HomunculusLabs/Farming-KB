@@ -1,11 +1,3 @@
----
-title: Turmeric Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, species]
-sources: []
----
 
 # Turmeric Growing Guide (Curcuma longa)
 
@@ -21,7 +13,7 @@ antioxidant, and anticancer properties.
 
 ## Botanical Profile
 
-- Scientific name: Curcuma longa
+- Scientific name: [[curcuma-longa]]
 - Family: Zingiberaceae
 - Hardiness: USDA zones 8-11 (grown as an annual in cooler zones)
 - Lifecycle: Perennial in tropics; annual in temperate climates
@@ -107,7 +99,7 @@ From seed: Rarely done; turmeric is typically propagated vegetatively.
 - Maintain consistent moisture throughout the growing season
 - Mulch heavily (4-6 inches) to retain moisture and suppress weeds
 - Side-dress with compost or balanced organic fertilizer every 4-6 weeks
-- Foliar feed with liquid kelp or fish emulsion monthly during active growth
+- Foliar feed with liquid kelp or [[fish-emulsion]] monthly during active growth
 - Turmeric is relatively pest-free but watch for rhizome rot in waterlogged
   conditions
 - Spider mites may appear in dry conditions; increase humidity

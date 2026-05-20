@@ -1,11 +1,3 @@
----
-title: Plant Propagation Methods
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, plants, gardening, agriculture, plant-growth, techniques, fruit-tree, species]
-sources: []
----
 # Plant Propagation Methods
 
 Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
@@ -40,7 +32,7 @@ Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and
 - Cut 3-6 inch sections just below a node
 - Remove lower leaves, keep 2-3 leaves at the top
 - Dip the cut end in rooting hormone (optional for easy-to-root species)
-- Insert into moist rooting medium (perlite, vermiculite, or 50/50 peat-perlite)
+- Insert into moist rooting medium (perlite, [[vermiculite]], or 50/50 peat-perlite)
 - Cover with a humidity dome or plastic bag to maintain high humidity
 - Keep in bright, indirect light at 65-75°F
 - Roots form in 2-4 weeks; test by gently tugging

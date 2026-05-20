@@ -1,15 +1,7 @@
----
-title: Cordyceps and Entomopathogenic Fungi
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agriculture]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 # Cordyceps and Entomopathogenic Fungi
 
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
+[[entomopathogenic-fungi]] are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
 
 ## Cordyceps and Ophiocordyceps
 
@@ -40,7 +32,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of [[cordycepin]] and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
@@ -168,7 +160,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 - Genetic engineering for enhanced virulence and environmental tolerance
 - Combination products (entomopathogenic fungi + sublethal insecticides for synergistic effects)
 - Endophytic use: inoculating plants with entomopathogenic fungi for systemic protection
-- Metarhizium-based malaria mosquito control (especially in Africa)
+- [[metarhizium]]-based malaria mosquito control (especially in Africa)
 - Understanding the fungal manipulation of insect behavior at the molecular level
 - Discovery of new species and strains from understudied ecosystems
 

@@ -1,11 +1,3 @@
----
-title: Rainwater Harvesting Systems
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, off-grid, water, water-management, engineering, sustainability]
-sources: []
----
 
 # Rainwater Harvesting Systems
 
@@ -155,4 +147,4 @@ for waterless sanitation options.
 
 ## Related
 
-- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader permaculture design approach to capturing and storing water on-site.
+- [[permaculture-water-harvesting]] — [[permaculture]] Water Harvesting covers the broader [[permaculture-design]] approach to capturing and storing water on-site.

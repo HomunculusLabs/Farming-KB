@@ -1,15 +1,7 @@
----
-title: Permaculture Pond Construction
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [permaculture, aquaculture, ponds, earthworks, water-harvesting, water, ecology]
-sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
----
 
 # Permaculture Pond Construction
 
-Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, wildlife habitat, stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation.
+Ponds and small dams are central elements in [[permaculture]] [[water-management]], serving multiple functions: irrigation, aquaculture, fire control, wildlife habitat, stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of [[water-conservation]].
 
 ## General Principles
 
@@ -52,7 +44,7 @@ The spillway is the critical safety element:
 ## Sealing Methods
 
 ### Gleying
-A biological sealing method using fresh animal manure (cattle, pig, chicken) and green organic matter (grass, papaya and banana leaves, green manure) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
+A biological sealing method using fresh animal manure (cattle, pig, chicken) and green organic matter (grass, papaya and banana leaves, [[green-manure]]) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
 
 ### Bentonite
 Volcanic ash-derived clay powder that swells when watered. Rototilled in at 5-7 cm deep and rolled. Works in sands, gravels, shales, and leaking substrates. Expensive and doesn't always work.
@@ -73,11 +65,19 @@ Welded plastic, neoprene, or poured concrete. Expensive but appropriate for crit
 
 ## Aquaculture Integration
 
-Dams and ponds are potential aquaculture sites. Ponds can be organised as fodder pond sequences where ducks add manure upstream, shrimp eat algae, small fish breed in mid-ponds, and trout or perch occupy the outlet pond. Species suitable at each stage create a self-feeding polyculture.
+Dams and ponds are potential aquaculture sites. Ponds can be organised as [[fodder-pond-sequences]] where ducks add manure upstream, shrimp eat algae, small fish breed in mid-ponds, and trout or perch occupy the outlet pond. Species suitable at each stage create a self-feeding polyculture.
 
 ## Related Concepts
 
-- [[permaculture-aquaculture-guide]] -- fish and aquatic plant systems
+- [[permaculture-aquaculture-guide]] -- fish and [[aquatic-plant-systems]]
 - [[permaculture-water-harvesting]] -- broader water management strategies
 - [[aquaponics]] -- integrated fish and plant systems
 - [[permaculture-fire-management]] -- dams designed for fire control
+
+## Construction Methods
+
+Natural pond construction uses clay sealing, gleying techniques,
+or synthetic liners to create watertight basins. Key design factors
+include watershed catchment area, depth zoning for habitat diversity,
+and overflow spillways for flood management. Integration with swales
+and contour earthworks maximizes water harvesting potential.

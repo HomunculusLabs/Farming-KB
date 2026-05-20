@@ -114,8 +114,4 @@ Monitoring trichome development provides the most reliable harvest timing indica
 
 Proper drying and curing significantly impacts final product quality and potency.
 
-
-
-
-
 Field observations and practical experience remain the most reliable guides for system optimization.

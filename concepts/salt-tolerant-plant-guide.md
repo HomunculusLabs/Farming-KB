@@ -1,11 +1,3 @@
----
-title: Salt Tolerant Plant Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, plants, plant-catalog, species, remediation, difficult-sites]
-sources: [raw/papers/a-selection-permaculture-plants.md]
----
 
 # Salt Tolerant Plant Guide
 
@@ -15,7 +7,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 
 1. Reduce evaporation from soil (shade + wind protection), which contributes to increased salt
 2. Reduce soil erosion from otherwise bared earth
-3. Increase transpiration, thus lowering the water table
+3. Increase [[transpiration]], thus lowering the water table
 
 ## Salt Tolerant Grasses
 
@@ -24,7 +16,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 | Paspalum monspeliensis (Beardgrass) | Slender tufted annual to 15 cm. Naturalised in WA. Salt tolerant where rainfall exceeds 450-500 mm |
 | Phalaris truncata (Canary Grass) | Short-lived self-seeding perennial, 350-1000 mm rainfall. Extremely resistant to water stress |
 | Puccinellia ciliata, P. capillaris (Puccinellia) | Summer-dormant perennial, 350+ mm rainfall. Tolerant of winter waterlogging. Nutritionally equivalent to annual rye grass |
-| Lolium rigidum (Rye Grass) | Annual, 100-1200 mm rainfall. Seed heads can become toxic to animals |
+| [[lolium-rigidum]] (Rye Grass) | Annual, 100-1200 mm rainfall. Seed heads can become toxic to animals |
 | Paspalum distichum (Salt-Water Couch) | Suited to summer-damp bogs and seepage areas. Tolerates water with up to 14,000 ppm total soluble salts |
 | Oryzopsis miliacea (Smilo) | Perennial clumped grass to 1 m. Survives on as little as 100-150 mm rainfall. Yields up to 12 t DM/ha/yr (protein 12-15%) |
 | Festuca elatior subsp. arundinacea (Tall Fescue) | Extremely water-stress resistant. Requires 350-400 mm minimum. Withstands high salinity. WARNING: Can cause lameness and death in cattle if fed in large quantities long-term |
@@ -68,7 +60,7 @@ Companions to saltbushes, native to Australia.
 - **Arctotis stoechadifolia** (African Daisy): Bushy creeping perennial from South Africa, half-hardy. Excellent sand binder
 - **Armeria maritima** (Sea Pink): Hardy frost-hardy perennial, covers sand banks readily
 - **Batis maritima** (Saltwort): Prostrate shrub from mangrove swamps and salt marshes, native to Florida
-- **Sarcocornia quinqueflora** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
+- **[[sarcocornia-quinqueflora]]** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
 - **Sesuvium portulacastrum** (Sea Purslane): Fleshy-leaved shrubby herb. Leaves make excellent vegetable and pickle ingredient
 - **Suaeda australis** (Sea Blight): Shrubby herb of saltflats and sandbanks. Used as vegetable and in pickles
 
@@ -77,3 +69,13 @@ Companions to saltbushes, native to Australia.
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
 - [[permaculture-plant-selection]]
+
+## Coastal and Saline Soil Strategies
+
+Salt-tolerant plants (halophytes) are essential for coastal gardens,
+de-iced roadside plantings, and reclaimed agricultural land. Key
+species include sea buckthorn, saltbush, and glasswort which tolerate
+soil salinity levels above 4 dS/m. Bioswale integration with
+salt-tolerant plantings manages runoff while filtering contaminants.
+Gradual soil amendment with organic matter and gypsum improves
+growing conditions for moderately salt-tolerant crops.

@@ -1,11 +1,3 @@
----
-title: Smoking Meat and Fish
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [preservation, food, homesteading, off-grid, safety, processing, recipe]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
----
 
 ## Overview
 
@@ -68,7 +60,7 @@ Salt and sugar dissolved in water, with meat fully submerged:
 Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). Without curing:
 
 - Surface bacteria can multiply during the extended smoking time
-- Clostridium botulinum spores could potentially germinate in the anaerobic interior of large pieces of meat
+- [[clostridium]] botulinum spores could potentially germinate in the anaerobic interior of large pieces of meat
 - Salt and nitrites in the cure inhibit bacterial growth during the process
 
 ## Wood Selection
@@ -93,7 +85,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
 - Locust, osage orange — Extremely dense and harsh
-- Moldy wood — Can produce off-flavors and mycotoxins
+- Moldy wood — Can produce off-flavors and [[mycotoxins]]
 
 ### Wood Preparation
 

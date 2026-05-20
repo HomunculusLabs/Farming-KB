@@ -1,18 +1,9 @@
----
-title: Urban Guerrilla Gardening
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, urban, gardening, activism, community, food, soil, water]
-sources:
-- raw/papers/urban-permaculture-guerilla-gardening.md
----
 
 # Urban Guerrilla Gardening
 
 ## Overview
 
-Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
+Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines [[permaculture-design-principles]] with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
 
 ## Philosophy and Motivation
 
@@ -53,7 +44,7 @@ Core drivers from practitioner accounts:
 
 ### Grafting Urban Fruit Trees
 
-- Graft scion wood of good fruit tree varieties onto crabapples in alleyways
+- Graft scion wood of good [[fruit-tree-varieties]] onto crabapples in alleyways
 - Graft onto non-fruiting cherries, peaches, and plums in parks
 - T-bud graft fruit trees and root semi-hardwood cuttings in tins of wet sand
 - Save diverse vegetable, flower, and herb seeds
@@ -99,7 +90,7 @@ Core drivers from practitioner accounts:
 
 ## Community Building
 
-- "Urban permaculture is intensely social — everything you do is within sight, sound, or touch of a neighbor"
+- "Urban [[permaculture]] is intensely social — everything you do is within sight, sound, or touch of a neighbor"
 - Start with visible, friendly activity — wave at passersby
 - Neighbors contribute: physical help, security, advice, plants, hot meals, materials
 - School gardens: permaculture gardens at middle schools build community across teachers, bus drivers, and parents
@@ -110,11 +101,11 @@ Core drivers from practitioner accounts:
 ## Soil Building in Urban Contexts
 
 - Compost from restaurant and kitchen organic waste
-- Worm composting: "catch the worms and let them turn the soil"
+- Worm [[composting]]: "catch the worms and let them turn the soil"
 - "Composting creates rich soil from trash"
 - Manure from local stables mixed with yard prunings
 - Leaf mold from municipal leaf collection (6+ pickup loads)
-- Green manure crops and cover cropping
+- [[green-manure-crops]] and cover cropping
 
 ## Broadscale Urban Restoration
 
@@ -122,7 +113,7 @@ Core drivers from practitioner accounts:
 - **Parks as food forests**: Fruit trees and berries in public parks
 - **Stream rehabilitation**: Plant native species along urban waterways; within two years vegetation grows lush, water temperature drops, aquatic life returns
 - **Rooftop gardens**: Tomatoes, herbs, and vegetables on building roofs
-- **City-country fingers**: Christopher Alexander's pattern — urban fingers never more than 1 mile wide, farmland fingers never less than 1 mile wide
+- **City-country fingers**: [[christopher-alexander]]'s pattern — urban fingers never more than 1 mile wide, farmland fingers never less than 1 mile wide
 
 ## Related Pages
 

@@ -1,11 +1,3 @@
----
-title: Biodiesel Production
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
-sources: []
----
 
 ## Overview
 
@@ -54,7 +46,7 @@ Titration determines how much catalyst is needed for your specific batch of oil.
 
 ### Titration Procedure (NaOH method)
 
-1. Dissolve 1 gram of NaOH in 1 liter of distilled water (isopropyl alcohol solution)
+1. Dissolve 1 gram of NaOH in 1 liter of distilled water ([[isopropyl-alcohol]] solution)
 2. In a separate container, mix 1ml of oil with 10ml of isopropyl alcohol
 3. Add the NaOH solution drop by drop to the oil-alcohol mixture while stirring
 4. Count the drops until the solution turns pink and stays pink for 20 seconds

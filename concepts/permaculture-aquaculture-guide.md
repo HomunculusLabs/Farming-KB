@@ -1,17 +1,9 @@
----
-title: Permaculture Aquaculture Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, aquaculture, fish, ponds, polyculture, water, design, food-production]
-sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
----
 
 # Permaculture Aquaculture Guide
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. [[permaculture]] aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 
@@ -110,10 +102,4 @@ Quality control throughout the process ensures consistent outcomes. Establishing
 Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-
-
-
-
-
 

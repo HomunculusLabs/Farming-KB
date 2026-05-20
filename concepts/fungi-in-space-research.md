@@ -1,11 +1,3 @@
----
-title: Fungi in Space Research
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, ecology, environment, biology, research, academia, mushrooms, cultivation]
-sources: []
----
 
 ## Overview
 
@@ -16,9 +8,9 @@ Fungi are increasingly studied for space applications including radiation protec
 ### Growth in Microgravity
 Multiple fungal species have been successfully cultured aboard the ISS:
 - **Aspergillus nidulans**: Grown since the 1990s to study fungal development without sedimentation
-- **Neurospora crassa**: Model organism for circadian rhythm research in space
-- **Saccharomyces cerevisiae**: Studied for DNA repair mechanisms in microgravity
-- **Pleurotus ostreatus**: Tested for edible mushroom production in space
+- **[[neurospora-crassa]]**: Model organism for [[circadian-rhythm]] research in space
+- **[[saccharomyces-cerevisiae]]**: Studied for DNA repair mechanisms in microgravity
+- **[[pleurotus-ostreatus]]**: Tested for edible mushroom production in space
 
 ### Altered Physiology in Space
 Microgravity affects fungal growth and morphology:
@@ -32,7 +24,7 @@ Microgravity affects fungal growth and morphology:
 
 ### Melanized Fungi as Radiation Shields
 A groundbreaking 2020 study from Johns Hopkins University found that melanized fungi can absorb ionizing radiation and convert it to chemical energy (radiotrophic fungi):
-- **Cladosporium sphaerospermum**: Grown aboard ISS for 30 days; reduced radiation levels by approximately 2%
+- **[[cladosporium-sphaerospermum]]**: Grown aboard ISS for 30 days; reduced radiation levels by approximately 2%
 - The fungus uses melanin to convert gamma radiation into chemical energy (radiosynthesis)
 - Layered growth could theoretically provide significant radiation shielding
 - A 21 cm layer estimated to absorb most ionizing radiation in Mars habitat applications
@@ -68,7 +60,7 @@ Mushrooms offer unique advantages for space agriculture:
 
 ### Closed-Loop Life Support Integration
 - Mycelium can decompose astronaut waste (food scraps, paper, human waste products)
-- Spent mushroom substrate can be composted for plant growing media
+- [[spent-mushroom-substrate]] can be composted for plant growing media
 - CO2 produced during fruiting can supplement plant photosynthesis
 - Creates a biological recycling loop within spacecraft life support systems
 
@@ -90,7 +82,7 @@ Mushrooms offer unique advantages for space agriculture:
 - Astronauts on long missions experience sensory deprivation and psychological stress
 - Growing and tending living organisms provides meaningful work and connection to Earth
 - Mushrooms offer visible, dynamic growth that is psychologically rewarding
-- The earthy smell of mushroom cultivation may provide olfactory comfort
+- The earthy smell of [[mushroom-cultivation]] may provide olfactory comfort
 
 ### Analog Research
 - Mars Desert Research Station (MDRS) has tested small-scale mushroom cultivation

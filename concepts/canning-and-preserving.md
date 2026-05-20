@@ -1,11 +1,3 @@
----
-title: Canning and Preserving
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, food, preservation, safety, recipe]
-sources: []
----
 
 # Canning and Preserving
 
@@ -13,7 +5,7 @@ Canning is a heat-based food preservation method that destroys microorganisms an
 
 ## Botulism Safety
 
-Clostridium botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible.
+[[clostridium]] botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible.
 
 Key safety rules:
 - Low-acid foods (pH above 4.6) MUST be pressure canned at 240-250 F to destroy C. botulinum spores

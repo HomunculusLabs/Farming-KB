@@ -1,15 +1,7 @@
----
-title: Cucumber Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [vegetables, gardening, cultivation, beginner, pest-control, harvesting]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 ## Overview
 
-Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per square foot in the home garden. This guide covers trellising, pruning, succession planting, pickling varieties, and pest management.
+Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per square foot in the home garden. This guide covers trellising, pruning, [[succession-planting]], pickling varieties, and pest management.
 
 ## Varieties
 
@@ -73,7 +65,7 @@ Pruning cucumbers improves air circulation, directs energy to fruit production, 
 
 ### Benefits
 - Earlier and larger fruit on the main vine
-- Reduced powdery mildew due to better airflow
+- Reduced [[powdery-mildew]] due to better airflow
 - Easier to see and harvest fruit
 - Extends productive life of the plant
 
@@ -96,11 +88,11 @@ Cucumbers are productive but have a defined lifespan — succession planting ext
 ## Planting and Care
 
 ### Growing Care
-- Full sun (6-8+ hours), rich well-draining soil pH 6.0-6.8
+- Full sun (6-8+ hours), rich well-draining [[soil-ph]] 6.0-6.8
 - Work in 2-3 inches of compost; cucumbers are heavy feeders
 - Direct sow 1 inch deep, 6-12 inches apart at trellis base
 - Germination: 5-10 days at 70F+; thin to 12-18 inches
-- Drip irrigation at the base is ideal (keeps foliage dry)
+- [[drip-irrigation]] at the base is ideal (keeps foliage dry)
 - Consistent moisture critical — drought causes bitter fruit; mulch heavily
 - Side-dress with compost or balanced fertilizer when vines run and at first fruit
 
@@ -154,7 +146,7 @@ Cucumber beetles are the primary pest of cucumbers and can devastate plantings.
 3. **Sticky traps**: Yellow sticky traps catch adults; place near plant base
 4. **Delayed planting**: Miss peak beetle emergence by planting 2-3 weeks late
 5. **Neem oil**: Repels beetles when applied regularly
-6. **Companion planting**: Radishes, nasturtiums, and marigolds may help
+6. **[[companion-planting]]**: Radishes, nasturtiums, and marigolds may help
 7. **Clean up**: Remove crop residue in fall to reduce overwintering beetles
 
 ### Disease Resistance

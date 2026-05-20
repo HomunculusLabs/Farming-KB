@@ -1,15 +1,7 @@
----
-title: Forest Garden Layers
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, food-forest, plant-systems, guild, plants, ecology, succession, plant-systems]
-sources: []
----
 
 # Forest Garden Layers
 
-A forest garden (or food forest) mimics the structure of a natural forest while producing food, medicine, fiber, and fuel. The core design concept is vertical stacking: occupying all seven ecological layers from canopy to underground, maximizing productivity per unit area. This plant-systems approach creates diverse, resilient, self-maintaining systems that require less input than conventional agriculture.
+A forest garden (or [[food-forest]]) mimics the structure of a natural forest while producing food, medicine, fiber, and fuel. The core design concept is vertical stacking: occupying all seven ecological layers from canopy to underground, maximizing productivity per unit area. This plant-systems approach creates diverse, resilient, self-maintaining systems that require less input than conventional agriculture.
 
 ## The Seven Layers
 
@@ -63,10 +55,10 @@ Design notes:
 
 ### Layer 4: Herbaceous Layer
 
-Non-woody plants including perennial vegetables, herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
+Non-woody plants including [[perennial-vegetables]], herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
 
 Species examples:
-- Perennial vegetables: asparagus, sea kale, good king Henry, walking onion, Jerusalem artichoke, lovage, sorrel, cardoon, globe artichoke
+- Perennial vegetables: asparagus, sea kale, good king Henry, walking onion, [[jerusalem-artichoke]], lovage, sorrel, cardoon, globe artichoke
 - Culinary herbs: mint family (thyme, oregano, mint, lemon balm), chives, garlic chives, rosemary, sage
 - Medicinal: echinacea, yarrow, calendula, comfrey, plantain, valerian
 - Dynamic accumulators: comfrey, borage, yarrow, chicory, dandelion
@@ -82,7 +74,7 @@ Design notes:
 Low-growing plants (under 1 foot) that protect soil, suppress weeds, and retain moisture. Living mulch replaces the need for imported wood chip mulch.
 
 Species examples:
-- Nitrogen fixers: white clover, red clover, alsike clover, bird's-foot trefoil
+- Nitrogen fixers: white clover, [[red-clover]], alsike clover, bird's-foot trefoil
 - Edible: creeping thyme, wild strawberry, wintergreen, creeping raspberry, nasturtium
 - Native: wild ginger, bunchberry, violet, Pennsylvania sedge, foamflower
 - Accumulators: creeping jenny, purslane, chickweed
@@ -99,7 +91,7 @@ Plants whose primary edible or functional part is underground. This layer is oft
 Species examples:
 - Root vegetables: Jerusalem artichoke (sunchoke), horseradish, marshmallow root, burdock, skirret, arracacha, oca, mashua, yacon
 - Medicinal roots: astragalus, ashwagandha, goldenseal, black cohosh, elecampane
-- Edible tubers: groundnut (Apios americana), Chinese artichoke (crosne), potato (in annual rotations)
+- Edible tubers: groundnut ([[apios-americana]]), Chinese artichoke (crosne), potato (in annual rotations)
 - Alliums: garlic, shallots, potato onion, walking onion
 
 Design notes:
@@ -154,6 +146,6 @@ A guild is a group of plants (and sometimes animals) that work together synergis
 ## See Also
 
 - [[permaculture-zones-and-sectors]] for siting your forest garden
-- [[permaculture-earthworks]] for water management infrastructure
+- [[permaculture-earthworks]] for [[water-management]] infrastructure
 - [[food-forest-plant-palette]] for detailed species lists by climate
 - [[dynamic-accumulators]] for mineral-accumulating plant selections

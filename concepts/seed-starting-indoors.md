@@ -1,15 +1,7 @@
----
-title: Seed Starting Indoors
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [gardening, seeds, propagation, techniques, vegetables, beginner]
-sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
----
 
 # Seed Starting Indoors
 
-How to raise your own vegetable transplants indoors, from Steve Solomon's *Gardening When It Counts*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
+How to raise your own vegetable transplants indoors, from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 
 ## Why Raise Your Own
 
@@ -53,8 +45,8 @@ Use soil at the ready-to-till moisture content (as described for garden beds in 
 ### Fertilizer Strategy
 
 - **Before first true leaf**: Minimal NPK (nitrogen-phosphorus-potassium) but plenty of calcium. Excess soil nutrients encourage damping-off diseases that attack emerging seedlings.
-- **After first true leaf**: Begin fertilizing. Organic liquid fertilizers are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
-- **Coffee grounds**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
+- **After first true leaf**: Begin fertilizing. Organic liquid fertilizers are often deficient in phosphorus — look for [[fish-emulsion]] that has been fortified with phosphoric acid or use a complete liquid fertilizer.
+- **Coffee grounds**: Worth reckoning as about half-strength [[chicken-manure]]. Free espresso grounds from restaurants are an excellent amendment.
 
 ## Sowing Procedure
 
@@ -102,10 +94,10 @@ Small batches of seedlings can be raised in a sunny window. If light is insuffic
 
 ## Transplanting Seedlings to the Garden
 
-Solomon's transplanting technique:
+Solomon's [[transplanting-technique]]:
 
 1. Dig a hole large enough for the rootball
-2. Pour a quart (liter) of liquid fertilizer or compost/manure tea into the hole
+2. Pour a quart (liter) of liquid fertilizer or compost/[[manure-tea]] into the hole
 3. Gently enough to not wash soil away from the rootball, but rapidly enough to fill the hole before it soaks in
 4. Quickly push loose soil back around the rootball, creating a muddy slurry that settles into all nooks and crannies
 5. This creates a tight connection between roots and surrounding soil

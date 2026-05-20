@@ -1,11 +1,3 @@
----
-title: Rocket Mass Heater Design
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [energy, construction, homesteading, off-grid, safety, sustainability]
-sources: []
----
 
 # Rocket Mass Heater Design
 
@@ -26,7 +18,7 @@ The J-tube consists of:
 - **Burn tunnel:** Horizontal connection from the bottom of the feed tube to the base of the heat riser (same diameter as feed tube, 12-18 inches long)
 - **Heat riser:** Vertical chimney above the burn tunnel where secondary combustion occurs. This is the hottest part of the system (typically 6-8 inches diameter, 30-48 inches tall)
 
-The heat riser must be insulated on the outside to maintain extreme internal temperatures. Common insulation: perlite-clay mix, vermiculite, or ceramic fiber blanket.
+The heat riser must be insulated on the outside to maintain extreme internal temperatures. Common insulation: perlite-clay mix, [[vermiculite]], or ceramic fiber blanket.
 
 ### Materials for the J-Tube
 
@@ -37,7 +29,7 @@ The heat riser must be insulated on the outside to maintain extreme internal tem
 
 ## Thermal Mass Bench Design
 
-The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple rocket stove.
+The bench is where the rocket heater stores and slowly releases heat. It is the defining feature that distinguishes a rocket mass heater from a simple [[rocket-stove]].
 
 ### Cob Bench
 

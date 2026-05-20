@@ -1,11 +1,3 @@
----
-title: St. John's Wort Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, safety, ethnobotany]
-sources: []
----
 
 # St. John's Wort Growing Guide (Hypericum perforatum)
 
@@ -16,11 +8,11 @@ Asia, and North Africa, now naturalized throughout much of North America.
 Named for flowering around St. John's Day (June 24), it has been used
 medicinally for over 2,400 years and is one of the most clinically studied
 herbal remedies, particularly for mild to moderate depression. It also
-produces a beautiful red oil infusion valued in topical herbal medicine.
+produces a beautiful red oil infusion valued in topical [[herbal-medicine]].
 
 ## Botanical Profile
 
-- Scientific name: Hypericum perforatum
+- Scientific name: [[hypericum-perforatum]]
 - Family: Hypericaceae
 - Hardiness: USDA zones 3-8
 - Lifecycle: Perennial

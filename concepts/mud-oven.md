@@ -1,11 +1,3 @@
----
-title: Mud Oven Construction
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, equipment, homestead-crafts, design]
-sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
----
 # Mud Oven Construction
 
 A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baking oven built from natural materials -- clay, sand, straw, and stone. It costs very little to build, reaches high temperatures for bread and pizza, and retains heat for hours of baking or slow cooking. Drawn from [[nicole-faires]]' comprehensive manual.
@@ -23,7 +15,7 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 
 | Material | Quantity | Purpose |
 |----------|----------|---------|
-| Clay soil | 150-200 lbs (test for clay content) | Primary building material |
+| [[clay-soil]] | 150-200 lbs (test for clay content) | Primary building material |
 | Sharp sand | 200-300 lbs | Thermal mass, prevents cracking |
 | Straw | 1-2 bales | Fiber reinforcement (tensile strength) |
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |

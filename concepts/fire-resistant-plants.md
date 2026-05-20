@@ -1,11 +1,3 @@
----
-title: Fire Resistant Plants
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [permaculture, plants, plant-catalog, species, windbreak, design]
-sources: [raw/papers/a-selection-permaculture-plants.md]
----
 
 # Fire Resistant Plants
 
@@ -18,19 +10,19 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Acacia cyanophylla (Western Wattle)
 - Acacia cyclops (Coastal Wattle)
 - Acacia howittii (Sticky Wattle)
-- Acacia melanoxylon* (Blackwood) -- recovers
+- [[acacia-melanoxylon]]* (Blackwood) -- recovers
 - Acacia pravissima (Ovens Acacia)
 - Acacia saligna (Golden Wreath Wattle)
 
 ### Maples
 - Acer campestre (Common Maple)
-- Acer negundo (Box Elder Maple)
+- [[acer-negundo]] (Box Elder Maple)
 - Acer palmatum (Japanese Maple)
 - Acer pseudoplatanus (Sycamore) -- recovers
-- Acer platanoides (Norway Maple)
+- [[acer-platanoides]] (Norway Maple)
 
 ### Casuarinas (Sheoaks)
-- Casuarina cunninghamiana (River Sheoak) -- recovers
+- [[casuarina-cunninghamiana]] (River Sheoak) -- recovers
 - Casuarina fraserana (Fraser's Sheoak)
 - Casuarina glauca (Swamp Oak) -- recovers
 - Casuarina obesa (Salt Sheoak)
@@ -38,11 +30,11 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Casuarina torulosa (Forest Sheoak)
 
 ### Eucalyptus
-- Eucalyptus maculata (Spotted Gum)
+- [[eucalyptus-maculata]] (Spotted Gum)
 
 ### Oaks
-- Quercus robur (English Oak) -- recovers
-- Quercus suber (Cork Oak)
+- [[quercus-robur]] (English Oak) -- recovers
+- [[quercus-suber]] (Cork Oak)
 - Quercus ilex (Holm Oak)
 - Quercus virginiana (Live Oak)
 - Quercus macrocarpa (Burr Oak)
@@ -110,12 +102,5 @@ Quality control throughout the process ensures consistent outcomes. Establishing
 Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-
-
-
-
-
-
 
 Field observations and practical experience remain the most reliable guides for system optimization.

@@ -1,15 +1,7 @@
----
-title: Oyster Mushroom Spawn Production
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [mushrooms, mycology, cultivation, seeds]
-sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
----
 
 # Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates for mushroom cultivation. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
+Spawn is the mycelium-rich material used to inoculate bulk substrates for [[mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 
 ## Types of Spawn
 
@@ -23,7 +15,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 ### Sawdust Spawn
 - Mycelium grown on sterilized hardwood sawdust + bran
 - Preferred for log inoculation (sawdust plugs)
-- Longer shelf life than grain spawn
+- Longer shelf life than [[grain-spawn]]
 - Slower to colonize than grain spawn
 
 ### Liquid Culture
@@ -56,13 +48,13 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 - Allow to cool completely (overnight) before inoculation
 
 ### Step 5: Inoculation
-- Work in front of a laminar flow hood or in a still-air box
+- Work in front of a [[laminar-flow-hood]] or in a still-air box
 - Flame-sterilize inoculation tool between transfers
-- Transfer 1-2 tablespoons of clean spawn (or liquid culture) per jar
+- Transfer 1-2 tablespoons of clean spawn (or [[liquid-culture]]) per jar
 - Shake jar to distribute inoculum throughout grain
 
 ### Step 6: Incubation
-- Temperature: 70-80°F (21-27°C) for oyster mushrooms
+- Temperature: 70-80°F (21-27°C) for [[oyster-mushrooms]]
 - Darkness preferred (not required)
 - Shake jars at 20-30% colonization to redistribute and speed up
 - Full colonization: 10-21 days depending on species and conditions
@@ -76,7 +68,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 ## Strain Selection for Oyster Mushrooms
 
 ### Common Cultivated Species
-- **Pleurotus ostreatus** (Pearl oyster): Most common, versatile, 55-75°F
+- **[[pleurotus-ostreatus]]** (Pearl oyster): Most common, versatile, 55-75°F
 - **Pleurotus pulmonarius** (Phoenix oyster): Similar but warmer, 65-85°F
 - **Pleurotus eryngii** (King oyster): Large, thick stems, 55-65°F
 - **Pleurotus citrinopileatus** (Golden oyster): Yellow, tropical, 70-85°F
@@ -112,8 +104,4 @@ Quality control throughout the process ensures consistent outcomes. Establishing
 Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
 
 Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-
-
-
 

@@ -1,11 +1,3 @@
----
-title: Preserving Wood and Timber Framing
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, construction, homestead-crafts, preservation, tools]
-sources: [raw/papers/working-with-agar.md]
----
 
 # Preserving Wood and Timber Framing
 
@@ -117,7 +109,7 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- Pacific Northwest: Douglas fir, western red cedar, Sitka spruce
+- Pacific Northwest: [[douglas-fir]], western red cedar, Sitka spruce
 
 ## Related Concepts
 

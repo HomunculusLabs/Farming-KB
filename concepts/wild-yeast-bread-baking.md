@@ -1,11 +1,3 @@
----
-title: Wild Yeast Bread Baking
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fermentation, food, recipe, homesteading, grain, cooking, seeds]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
----
 
 # Wild Yeast Bread Baking
 
@@ -13,7 +5,7 @@ Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven br
 
 ## Wild Yeast Capture
 
-Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and in the air. Combined with Lactobacillus bacteria, these organisms form a stable symbiotic culture -- a sourdough starter.
+Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and in the air. Combined with [[lactobacillus]] bacteria, these organisms form a stable symbiotic culture -- a sourdough starter.
 
 ### Creating a Starter from Scratch
 

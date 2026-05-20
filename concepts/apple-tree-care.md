@@ -1,11 +1,3 @@
----
-title: Apple Tree Care
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fruit-tree, pruning, orchard, pest-control, cultivation, beginner]
-sources: []
----
 
 ## Overview
 
@@ -23,7 +15,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 - Full sun (6-8+ hours direct) for maximum fruit production
 - Good air circulation — avoid low frost pockets and wind-sheltered corners
 - Well-draining soil — standing water kills roots quickly
-- Soil pH 6.0-7.0
+- [[soil-ph]] 6.0-7.0
 - Space standard trees 20-25 feet apart, semi-dwarf 12-15 feet, dwarf 8-10 feet
 - Consider mature tree size when planting near structures, power lines, or other trees
 
@@ -35,7 +27,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 5. Backfill partially, water to settle, finish backfilling
 6. Tamp gently — do not compact heavily
 7. Water thoroughly after planting
-8. Apply 3-4 inches of mulch in a ring extending to the drip line, keeping mulch 3-4 inches away from the trunk
+8. Apply 3-4 inches of mulch in a ring extending to the [[drip-line]], keeping mulch 3-4 inches away from the trunk
 
 ### Pollination
 - Most apple trees require cross-pollination from a different variety
@@ -114,7 +106,7 @@ Thinning excess fruit is essential for quality apples and tree health.
 - Larvae tunnel into fruit, leaving frass (excrement) at the entry hole
 - Management:
   - Pheromone traps to monitor flight and disrupt mating
-  - Apply spinosad (Entrust) or Bt (Bacillus thuringiensis) at petal fall and repeat every 10-14 days for 3-4 applications
+  - Apply spinosad (Entrust) or Bt ([[bacillus-thuringiensis]]) at petal fall and repeat every 10-14 days for 3-4 applications
   - Remove dropped fruit regularly (breeding ground for larvae)
   - Bag individual fruit clusters with nylon footies or paper bags (very effective on small trees)
   - Trunk banding with corrugated cardboard to trap overwintering larvae
@@ -157,7 +149,7 @@ Thinning excess fruit is essential for quality apples and tree health.
 
 ### Disease-Resistant (Best for Organic/Low-Spray)
 - Liberty: Scab-immune, good flavor, reliable
-- Enterprise: Scab and cedar apple rust resistant, stores well
+- Enterprise: Scab and [[cedar-apple-rust]] resistant, stores well
 - Freedom: Scab-immune, vigorous, good for cooking
 - Williams Pride: Early, scab-resistant, excellent flavor
 - GoldRush: Late, scab-immune, excellent storage (6+ months)

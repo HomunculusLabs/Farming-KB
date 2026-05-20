@@ -1,25 +1,7 @@
----
-title: Psychedelic Plants in Ancient Cultures
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags:
-  - history
-  - ancient
-  - eleusinian
-  - soma
-  - ergot
-  - religion
-  - ethnobotany
-sources:
-  - raw/papers/mckenna_t-food_of_the_gods.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
-  - raw/papers/allegro-j-the-sacred-mushroomcross.md
----
 
 # Psychedelic Plants in Ancient Cultures
 
-The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the Eleusinian Mysteries and the Vedic Soma ceremony.
+The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the [[eleusinian-mysteries]] and the Vedic Soma ceremony.
 
 ## The Eleusinian Mysteries
 
@@ -27,7 +9,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ### Wasson's Ergot Hypothesis
 
-Gordon Wasson proposed that the kykeon contained an infusion of ergot (*Claviceps purpurea*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
+[[gordon-wasson]] proposed that the kykeon contained an infusion of ergot (*[[claviceps-purpurea]]*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which [[albert-hofmann]] later derived LSD:
 
 - Wasson noted the parallel between the Greek word *eleusis* (advent, revealing) and descriptions of the ceremony's effects, which ancient writers described as producing visions of the afterlife and dispelling the fear of death.
 - The kykeon was prepared from barley (a grain susceptible to ergot) and water, consistent with an ergot-based preparation.
@@ -40,7 +22,7 @@ Critics note the difficulty of preparing ergot safely, as many ergot alkaloids a
 
 ## Soma / Haoma
 
-The identity of Soma, the sacred plant of the Vedic hymns (Rig Veda, c. 1500 BCE) and its Iranian counterpart Haoma, has been debated for centuries. Wasson proposed Soma was the fly-agaric mushroom, *Amanita muscaria*, in his 1968 book *Soma: Divine Mushroom of Immortality*.
+The identity of Soma, the sacred plant of the Vedic hymns ([[rig-veda]], c. 1500 BCE) and its Iranian counterpart Haoma, has been debated for centuries. Wasson proposed Soma was the fly-agaric mushroom, *[[amanita-muscaria]]*, in his 1968 book *Soma: Divine Mushroom of Immortality*.
 
 ### Wasson's Amanita Hypothesis
 
@@ -83,3 +65,17 @@ McKenna argued that psychedelic plant use in ancient cultures was not incidental
 - [[sacred-mushroom-hypothesis]] for Allegro's controversial theory about Christianity
 - [[mckenna-food-of-the-gods-thesis]] for McKenna's broader argument
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic psychedelic use
+
+## Archaeological Evidence
+
+Archaeological findings include mushroom stones in Guatemala dating
+to 1000 BCE, San Pedro cactus depictions in Peruvian textiles, and
+ayahuasca-related artifacts in Amazonian burial sites. Rock art in
+the Sahara and Australian outback may depict psychoactive plant use
+dating back tens of thousands of years. These discoveries suggest
+psychedelic plant use predates written history by millennia.
+Chemical analysis of ancient pottery has confirmed residue from
+psychoactive compounds including DMT, mescaline, and harmine.
+Evidence from multiple continents suggests psychedelic plant knowledge
+was widely distributed among prehistoric human populations worldwide.
+This challenges colonial narratives that indigenous plant knowledge was primitive.

@@ -1,11 +1,3 @@
----
-title: Fungal Infections in Humans
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, health, medicine, biology, safety, species, pathogens]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 # Fungal Infections in Humans
 
@@ -40,7 +32,7 @@ Infect keratinized tissues (skin, hair, nails):
 
 ### Mucocutaneous Mycoses
 
-- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by Candida albicans and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
+- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by [[candida-albicans]] and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
 - **Vulvovaginal candidiasis**: Vaginal itching, discharge, and irritation; affects ~75% of women at least once. C. albicans causes 80-90% of cases; C. glabrata and C. tropicalis are less common but more resistant to azole treatment
 - **Intertrigo**: Candida infection in skin folds; erythematous, macerated lesions with satellite pustules
 
@@ -87,7 +79,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 
 ### Aspergillosis
 
-Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
+Caused primarily by [[aspergillus-fumigatus]] (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
 
 **Clinical presentations**:
 - **Invasive pulmonary aspergillosis (IPA)**: Most common form. Affects immunocompromised patients (neutropenia, transplant recipients, chronic corticosteroid use). Presents with fever, cough, pleuritic chest pain, hemoptysis. CT shows characteristic halo sign or air-crescent sign. Mortality 40-80%
@@ -104,7 +96,7 @@ Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. ni
 
 ### Cryptococcosis
 
-Caused by encapsulated yeast Cryptococcus neoformans and C. gattii.
+Caused by encapsulated yeast [[cryptococcus-neoformans]] and C. gattii.
 
 **Risk factors**: HIV/AIDS (CD4 < 100 cells/μL), organ transplantation, corticosteroid use, sarcoidosis. C. gattii can infect immunocompetent individuals.
 
@@ -151,8 +143,8 @@ Caused by Pneumocystis jirovecii (formerly P. carinii), now classified as a fung
 
 Geographically restricted systemic mycoses:
 
-- **Histoplasmosis** (Histoplasma capsulatum): Endemic in Ohio and Mississippi River valleys, Central and South America. Found in bat guano and bird droppings. Acute pulmonary infection; can disseminate in immunocompromised patients
-- **Coccidioidomycosis** (Valley Fever; Coccidioides immitis, C. posadasii): Endemic in southwestern US, northern Mexico, parts of Central and South America. Desert soil fungus. Often self-limited pneumonia; can disseminate (meningitis, bone, skin)
+- **Histoplasmosis** ([[histoplasma-capsulatum]]): Endemic in Ohio and Mississippi River valleys, Central and South America. Found in [[bat-guano]] and bird droppings. Acute pulmonary infection; can disseminate in immunocompromised patients
+- **Coccidioidomycosis** (Valley Fever; [[coccidioides-immitis]], C. posadasii): Endemic in southwestern US, northern Mexico, parts of Central and South America. Desert soil fungus. Often self-limited pneumonia; can disseminate (meningitis, bone, skin)
 - **Blastomycosis** (Blastomyces dermatitidis): Endemic in Mississippi and Ohio River valleys, Great Lakes region. Acute or chronic pulmonary disease; can disseminate to skin, bone, genitourinary tract
 - **Talaromycosis** (Penicilliosis; Talaromyces marneffei): Endemic in Southeast Asia. Opportunistic infection in HIV/AIDS patients. Fever, skin lesions, generalized lymphadenopathy
 

@@ -1,11 +1,3 @@
----
-title: Mycology Research Methods
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, biology, lab-technique, field-methods, methods, taxonomy, genomics, microscopy]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 # Mycology Research Methods
 
@@ -51,7 +43,7 @@ Non-invasive methods to detect fungal presence from environmental samples:
 
 All fungal culture work requires strict aseptic (sterile) technique to prevent contamination:
 
-- Work in a laminar flow hood (Class II biological safety cabinet) whenever possible
+- Work in a [[laminar-flow-hood]] (Class II biological safety cabinet) whenever possible
 - Sterilize work surfaces with 70% ethanol or 10% bleach between operations
 - Flame sterilize inoculating loops, scalpels, and forceps before each use
 - Wear gloves; change between handling different cultures
@@ -59,18 +51,18 @@ All fungal culture work requires strict aseptic (sterile) technique to prevent c
 
 ### Media Preparation
 
-Common fungal culture media:
+Common [[fungal-culture-media]]:
 
-- **Potato Dextrose Agar (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
-- **Malt Extract Agar (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
+- **[[potato-dextrose-agar]] (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
+- **[[malt-extract-agar]] (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
 - **Sabouraud Dextrose Agar (SDA)**: Standard clinical mycology medium; acidic pH (5.6) inhibits bacterial growth. 40g dextrose, 10g peptone, 15g agar per liter
 - **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for microscopic identification
 - **Minimal media**: Defined synthetic media for studying nutritional requirements and metabolic capabilities
-- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit saprotrophic fungi when isolating pathogens
+- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit [[saprotrophic-fungi]] when isolating pathogens
 
 ### Isolation Methods
 
-- **Spore print isolation**: Collect spores on sterile paper or glass, then streak onto agar using a sterile loop. Individual spores germinate into pure cultures
+- **[[spore-print]] isolation**: Collect spores on sterile paper or glass, then streak onto agar using a sterile loop. Individual spores germinate into pure cultures
 - **Tissue culture**: Cut small pieces (2-3 mm) from the interior of a fresh fruiting body using a flame-sterilized scalpel. Place on agar surface. The interior tissue is typically sterile
 - **Single spore isolation**: Dilute spore suspension to achieve ~1 spore per plate, or use micromanipulation under a dissecting microscope to transfer individual spores
 - **Soil dilution plating**: Serial dilution of soil samples plated on selective media for quantitative assessment of soil fungal populations
@@ -184,7 +176,7 @@ Provides high-resolution surface detail:
 
 - **CRISPR-Cas9 gene editing**: Functional genetics to understand gene function, pathogenicity, and secondary metabolite biosynthesis
 - **Spatial transcriptomics**: Mapping gene expression in fungal tissues and host interactions
-- **Machine learning**: AI-based image recognition for automated mushroom identification from photographs
+- **Machine learning**: AI-based image recognition for automated [[mushroom-identification]] from photographs
 - **Portable DNA sequencing**: MinION (Oxford Nanopore) for field-based real-time species identification
 - **Metatranscriptomics and stable isotope probing**: Active gene expression and carbon/nitrogen flow through fungal networks
 

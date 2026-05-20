@@ -1,15 +1,7 @@
----
-title: Fermented Hot Sauce Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fermentation, food, recipe, safety, homesteading, cooking, preservation]
-sources: []
----
 
 # Fermented Hot Sauce Guide
 
-Lacto-fermented hot sauce develops complex flavor through controlled bacterial fermentation. Unlike vinegar-based hot sauces, fermented sauces use salt and time to encourage Lactobacillus growth, producing lactic acid that preserves and flavors the peppers.
+Lacto-fermented hot sauce develops complex flavor through controlled bacterial fermentation. Unlike vinegar-based hot sauces, fermented sauces use salt and time to encourage [[lactobacillus]] growth, producing lactic acid that preserves and flavors the peppers.
 
 ## Lacto-Fermentation Basics
 
@@ -89,7 +81,7 @@ Hot sauce improves with age. Store bottled sauce in a cool, dark place for 1-3 m
 
 ## Scaling for Sale
 
-See homestead mushroom business and online homestead sales for general business guidance. Hot sauce specifics:
+See [[homestead-mushroom-business]] and [[online-homestead-sales]] for general business guidance. Hot sauce specifics:
 
 - Price point: $6-12 per 5oz bottle at farmers markets
 - Cost of goods: $1.50-3.00 per bottle (peppers, vinegar, bottles, labels)

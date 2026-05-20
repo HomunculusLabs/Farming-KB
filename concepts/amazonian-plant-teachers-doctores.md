@@ -1,12 +1,3 @@
----
-title: Amazonian Plant Teachers (Doctores)
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [ethnobotany, medicine, culture, consciousness, plants, shamanism, amazon]
-sources:
-- raw/papers/amaringo-p-ayahuasca-visions.md
----
 
 # Amazonian Plant Teachers (Doctores)
 
@@ -20,8 +11,8 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 
 ### Major Visionary Plants (Bejucos y Chacrunas)
 
-- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
-- **Chacruna (Psychotria viridis)** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
+- **Ayahuasca ([[banisteriopsis-caapi]])** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and [[tetrahydroharmine]] (MAO inhibitors). The foundational plant for Amazonian shamanism.
+- **Chacruna ([[psychotria-viridis]])** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
 - **Chaliponga (Diplopterys cabrerana)** — Alternative DMT source used in some traditions, especially Colombian and Ecuadorian.
 
 ### Tree Teachers (Arboles Maestros)
@@ -30,7 +21,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 - **Lupuna (Cavanillesia hylogeiton, C. umbellata)** — The "puka-lupuna" is a towering canopy tree; its spirit appears as a giant figure. Puka-lupuna and other lupuna varieties are teacher trees for deep spiritual work.
 - **Remocaspi (Aspidosperma spp.)** — A tree whose bark is used medicinally; its spirit teaches about cleansing and purification.
 - **Chiri-caspi** — A tree teacher; "chiri" means cold in Quechua, suggesting its cooling/calmative properties.
-- **Chullachaki-caspi** — Named after Chullachaki, the one-legged forest guardian spirit. This tree's spirit is associated with the protector of the forest.
+- **[[chullachaki]]-caspi** — Named after Chullachaki, the one-legged forest guardian spirit. This tree's spirit is associated with the protector of the forest.
 - **Capirona (Calycophyllum spruceanum)** — A tree whose bark naturally sheds, symbolizing renewal. Appears in visions near the chicua bird that serves as an omen during ayahuasca collection.
 
 ### Vine Teachers (Bejucos)
@@ -47,7 +38,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 ### Other Admixture Plants
 
 - **Chicuro (Cyperus sp.)** — A sedge plant sometimes combined with shillinto in ayahuasca preparations.
-- **Mapacho (Nicotiana rustica)** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
+- **Mapacho ([[nicotiana-rustica]])** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
 - **Ayahuma (Couroupita guianensis)** — The "cannonball tree"; a powerful plant teacher whose spirit appears in visions.
 
 ## The Dieta (Plant Dieting)
@@ -69,7 +60,7 @@ Every plant has a "madre" (mother) or spirit that:
 - Guards and conserves the plant
 - Gives visions only to compliant, properly prepared practitioners
 - Transmits specific knowledge (healing songs/icaros, medicinal uses, spiritual defenses)
-- Appears in characteristic forms during ayahuasca visions
+- Appears in characteristic forms during [[ayahuasca-visions]]
 - Can be offended by improper behavior, causing illness rather than healing
 
 The spirits are described as real entities: "They are the ones that have taken over these plants. They are the conservers, they take care of the plants."
@@ -80,3 +71,12 @@ The spirits are described as real entities: "They are the ones that have taken o
 - [[pablo-amaringo]] — The artist who documented these plant spirits
 - [[shipibo-icaros-healing-songs]] — Songs taught by plant teachers
 - [[amazonian-medicinal-plants-reference]] — Medicinal plant index
+
+## Preparation and Ceremony
+
+Plant teacher preparation often involves strict dietary restrictions
+called dietas lasting weeks to months. Traditional preparation methods
+include water extraction, fermentation, and direct consumption of
+plant materials. Ceremonial contexts involve icaros (healing songs),
+purging rituals, and guidance from experienced practitioners.
+Different doctores are associated with specific healing intentions.

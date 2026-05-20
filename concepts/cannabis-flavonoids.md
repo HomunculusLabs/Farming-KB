@@ -1,11 +1,3 @@
----
-title: Cannabis Flavonoids
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, chemistry, medicine, biology, potency, plant-growth, biochemistry]
-sources: []
----
 
 # Cannabis Flavonoids
 
@@ -28,7 +20,7 @@ Cannabis produces several flavonoids that are unique to the species. The most st
 
 ### Cannflavin A
 
-- First isolated in 1986 from Cannabis sativa
+- First isolated in 1986 from [[cannabis-sativa]]
 - A prenylated flavone (flavonoid with an isoprenyl group attached)
 - Potent anti-inflammatory: shown to be 30 times more potent than aspirin at inhibiting COX-2 (cyclooxygenase-2) enzyme
 - Does not produce psychoactive effects
@@ -112,7 +104,7 @@ The purple, blue, red, and pink hues visible in some cannabis strains are primar
 - Anthocyanins are pH-sensitive: acidic conditions produce red, neutral produce purple, alkaline produce blue
 - Purple coloration is genetic and triggered by cool temperatures during flowering (below 50°F / 10°C at night)
 - Anthocyanin production does not significantly affect potency or terpene profile
-- Strains known for purple coloration: Granddaddy Purple, Purple Kush, Grape Ape, many others
+- Strains known for purple coloration: [[granddaddy-purple]], [[purple-kush]], [[grape-ape]], many others
 - Anthocyanins have antioxidant and anti-inflammatory properties independent of cannabinoids
 
 ## Synergy with Cannabinoids and Terpenes
@@ -122,7 +114,7 @@ Flavonoids participate in the entourage effect alongside cannabinoids and [[cann
 - Cannflavins provide anti-inflammatory effects that complement cannabinoid activity
 - Quercetin's antioxidant effects may protect cannabinoid molecules from oxidative degradation
 - Apigenin's anxiolytic effects may enhance the calming properties of myrcene and linalool
-- Kaempferol and luteolin add neuroprotective properties to the overall therapeutic profile
+- [[kaempferol]] and luteolin add neuroprotective properties to the overall therapeutic profile
 - The full therapeutic potential of cannabis likely depends on the complete spectrum of flavonoids, terpenes, and cannabinoids working together
 
 ## Factors Affecting Flavonoid Production

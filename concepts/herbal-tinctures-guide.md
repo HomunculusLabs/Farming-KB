@@ -1,11 +1,3 @@
----
-title: Herbal Tinctures Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, health, homesteading, homestead-crafts, recipe]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Herbal Tinctures Guide
 
@@ -33,7 +25,7 @@ A tincture is a solution of herbal constituents dissolved in a solvent (menstruu
 - Measuring cup and funnel
 - Dark amber dropper bottles (1 oz and 2 oz)
 - Fine mesh strainer or cheesecloth
-- Labels and permanent marker
+- Labels and [[permanent-marker]]
 
 ## Alcohol Selection
 
@@ -104,7 +96,7 @@ For mushrooms and herbs with both water-soluble and alcohol-soluble compounds:
 4. Combine alcohol tincture and water decoction
 5. Optional: evaporate some alcohol to concentrate further
 
-Used for: reishi, chaga, turkey tail, ashwagandha, astragalus
+Used for: reishi, chaga, turkey tail, [[ashwagandha]], astragalus
 
 ## Glycerites (Alcohol-Free Tinctures)
 

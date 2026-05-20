@@ -1,15 +1,7 @@
----
-title: Soil Microscope Analysis
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [soil-biology, microbes, lab-technique, soil-health]
-sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
----
 
 # Soil Microscope Analysis
 
-Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
+Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. [[elaine-ingham]]'s [[soil-food-web]] approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 
 ## Equipment Needed
 
@@ -45,7 +37,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 
 ### What You See
 - **Bacteria**: Tiny round, rod, or spiral shapes (1-5 micrometers). Difficult to distinguish from clay at 400x — use 1000x oil immersion. Active bacteria appear individually dispersed; inactive bacteria clump in biofilms
-- **Fungal hyphae**: Long, branching threads (2-10 micrometers wide). Look for: diameter (thin = saprophytic, thick = possibly pathogenic), coloration, septation (cross-walls). Active hyphae are clear/transparent; inactive are darker
+- **[[fungal-hyphae]]**: Long, branching threads (2-10 micrometers wide). Look for: diameter (thin = saprophytic, thick = possibly pathogenic), coloration, septation (cross-walls). Active hyphae are clear/transparent; inactive are darker
 - **Spores**: Round structures (10-100 micrometers). Fungal spores indicate disturbance or stress — healthy soil has mostly active hyphae, not spores
 
 ## Protozoa Assessment
@@ -55,7 +47,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 2. Slightly higher magnification helps (400-1000x)
 
 ### Identification
-- **Flagellates**: Tiny, darting movement with whip-like flagella
+- **[[flagellates]]**: Tiny, darting movement with whip-like flagella
 - **Amoebae**: Slow, flowing movement, shape constantly changing
 - **Ciliates**: Larger, hair-like cilia, fast coordinated movement
 - Ciliates in high numbers indicate anaerobic conditions (they tolerate low oxygen)
@@ -82,7 +74,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 ## Compost Tea Assessment
 
 ### Method
-1. Take 1 mL of actively aerated compost tea
+1. Take 1 mL of [[actively-aerated-compost-tea]]
 2. Place on slide, cover, examine at 400x
 3. Look for: active bacterial movement, fungal hyphae length, protozoa types
 

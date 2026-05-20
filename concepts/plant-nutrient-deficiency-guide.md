@@ -1,11 +1,3 @@
----
-title: Plant Nutrient Deficiency Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [nutrients, npk, soil, fertilizer, troubleshooting, plants, plant-growth, minerals, soil-amendment, biology]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
----
 
 # Plant Nutrient Deficiency Guide
 
@@ -37,13 +29,13 @@ Visual symptoms:
 Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
 
 Organic fixes:
-- Composted manure (chicken manure is highest in N)
-- Blood meal (fast-acting, ~12% N)
-- Alfalfa meal or pellets
-- Fish emulsion or fish hydrolysate
+- Composted manure ([[chicken-manure]] is highest in N)
+- [[blood-meal]] (fast-acting, ~12% N)
+- [[alfalfa-meal]] or pellets
+- [[fish-emulsion]] or [[fish-hydrolysate]]
 - Compost tea with bacterial dominance
-- Cover crops (clover, vetch, peas, beans — legumes fix atmospheric N)
-- Feather meal (slow-release, high N)
+- [[cover-crops]] (clover, vetch, peas, beans — legumes fix atmospheric N)
+- [[feather-meal]] (slow-release, high N)
 - Worm castings (mild, gentle N source)
 
 ### Phosphorus (P) Deficiency

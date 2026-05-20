@@ -1,15 +1,7 @@
----
-title: Sweet Potato Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
----
 
 # Sweet Potato Growing Guide
 
-Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
+Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes ([[solanum-tuberosum]]), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
 ## Understanding Sweet Potatoes
 
@@ -78,7 +70,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Plant slips AFTER all frost danger has passed and soil has warmed to at least 65°F (70°F is better).
 - Sweet potatoes cannot tolerate any frost.
 - Typical planting: 2-4 weeks after last frost date.
-- Soil temperature can be raised with black plastic mulch.
+- [[soil-temperature]] can be raised with black plastic mulch.
 
 ### How to Plant Slips
 1. Trim slips to 6-8 inches if longer. Remove lower leaves, leaving 2-3 leaves at the tip.
@@ -112,7 +104,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - 1-1.5 inches per week.
 - Critical during the first month (establishment) and during tuber formation (last 6-8 weeks).
 - Reduce watering 3-4 weeks before harvest — this concentrates sugars and cures the skin.
-- Drip irrigation is ideal.
+- [[drip-irrigation]] is ideal.
 - Avoid overhead watering — promotes fungal disease on leaves.
 
 ### Fertilizing

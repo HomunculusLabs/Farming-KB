@@ -1,11 +1,3 @@
----
-title: Beekeeping Problems and Solutions
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, animal-husbandry, troubleshooting, pollinators, pest-management]
-sources: []
----
 
 # Beekeeping Problems and Solutions
 
@@ -28,7 +20,7 @@ transmitting deformed wing virus and other pathogens.
 - **Powdered sugar** — dust bees, mites fall through screen; less accurate
 
 ### Treatment Options
-- **Oxalic acid vapor** — effective during broodless periods (late winter,
+- **[[oxalic-acid]] vapor** — effective during broodless periods (late winter,
   after a flow)
 - **Formic acid (MAQS)** — can be used with honey supers on; effective but
   requires temperature management (50-85F)
@@ -53,7 +45,7 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or diatomaceous earth in corners of
+- Use beetle blaster traps with oil or [[diatomaceous-earth]] in corners of
   super boxes
 
 ### Treatment

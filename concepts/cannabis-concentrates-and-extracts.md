@@ -1,18 +1,9 @@
----
-title: Cannabis Concentrates and Extracts
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [cannabis, concentrates, extracts, hash, kief, rosin, BHO, live-resin, distillate, processing]
-sources:
-  - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
----
 
 # Cannabis Concentrates and Extracts
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and terpenes -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's Cannabis Sativa Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
+Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and terpenes -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's [[cannabis-sativa]] Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
 
 ## Types of Concentrates
 
@@ -43,7 +34,7 @@ Live resin is a type of BHO made from fresh, flash-frozen cannabis plants rather
 
 ### Distillate
 
-Cannabis distillate is a highly refined product that has been purified through short-path or fractional distillation. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the entourage effect. Terpenes can be reintroduced after distillation to create flavored products.
+Cannabis distillate is a highly refined product that has been purified through short-path or [[fractional-distillation]]. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the entourage effect. Terpenes can be reintroduced after distillation to create flavored products.
 
 ### Tinctures
 
@@ -77,6 +68,14 @@ Documentation and observation support continuous improvement.
 Ongoing research continues to refine understanding and improve practical applications.
 New developments in related fields contribute to advancing knowledge in this area.
 Field trials and experimental results provide valuable data for optimization.
+
+## Safety and Quality Considerations
+
+Residual solvent testing is critical for ensuring concentrate safety.
+Proper extraction techniques minimize contaminants and preserve
+desirable terpene and cannabinoid profiles. Laboratory analysis
+verifies potency and screens for pesticides, heavy metals, and
+microbial contaminants in finished products.
 
 ## See Also
 - [[cannabis-plant-anatomy]]

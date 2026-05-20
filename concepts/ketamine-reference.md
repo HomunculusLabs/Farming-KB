@@ -1,11 +1,3 @@
----
-title: Ketamine Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [psychopharmacology, pharmacology, medicine, psychiatry, neuroscience, safety, therapy, consciousness, chemistry]
-sources: [raw/papers/chos-global-natural-farming.md]
----
 
 # Ketamine Reference
 
@@ -17,7 +9,7 @@ Ketamine is a dissociative anesthetic with a unique pharmacological profile that
 - Chemical formula: C13H16ClNO
 - Molecular weight: 237.73 g/mol
 - CAS number: 1867-66-9
-- Structure: arylcyclohexylamine — shares structural features with PCP (phencyclidine) and DXM (dextromethorphan)
+- Structure: arylcyclohexylamine — shares structural features with PCP (phencyclidine) and DXM ([[dextromethorphan]])
 - Stereoisomers: exists as two enantiomers, S-ketamine (esketamine) and R-ketamine (arketamine)
 - Physical form: white crystalline powder or clear liquid (in pharmaceutical preparations)
 - Routes of administration: intravenous (IV), intramuscular (IM), intranasal, oral, sublingual

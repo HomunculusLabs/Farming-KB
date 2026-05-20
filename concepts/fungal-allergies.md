@@ -1,11 +1,3 @@
----
-title: Fungal Allergies
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, health, medicine, biology, ecology, safety]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
----
 
 # Fungal Allergies
 
@@ -19,12 +11,12 @@ Fungal allergies represent a significant and often underdiagnosed category of al
 
 The fungi most commonly implicated in human allergic disease:
 
-- **Alternaria alternata**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
-- **Cladosporium cladosporioides and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant in temperate climates during summer months
-- **Aspergillus fumigatus**: Ubiquitous soil fungus; important both as an allergen and a pathogen. Spores are small (2-3 microns) and can reach deep into the lungs. See [[fungal-infections-human]] for pathogenic effects
-- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. Penicillium chrysogenum and P. citrinum are the most commonly implicated in allergy
-- **Trichoderma viride**: Common in damp indoor environments; significant sensitization rates among occupants of water-damaged buildings
-- **Epicoccum nigrum**: Outdoor fungus common on decaying vegetation and grasses
+- **[[alternaria-alternata]]**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
+- **[[cladosporium-cladosporioides]] and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant in temperate climates during summer months
+- **[[aspergillus-fumigatus]]**: Ubiquitous soil fungus; important both as an allergen and a pathogen. Spores are small (2-3 microns) and can reach deep into the lungs. See [[fungal-infections-human]] for pathogenic effects
+- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. [[penicillium-chrysogenum]] and P. citrinum are the most commonly implicated in allergy
+- **[[trichoderma-viride]]**: Common in damp indoor environments; significant sensitization rates among occupants of water-damaged buildings
+- **[[epicoccum-nigrum]]**: Outdoor fungus common on decaying vegetation and grasses
 - **Curvularia lunata**: Common in tropical and subtropical regions; associated with allergic fungal sinusitis
 - **Stemphylium botryosum**: Plant pathogen and outdoor allergen
 - **Basidiomycete spores**: Mushrooms, rusts, and smuts produce allergenic spores. The significance of basidiospore allergy is increasingly recognized but historically underappreciated

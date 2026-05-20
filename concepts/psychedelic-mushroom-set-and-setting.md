@@ -1,17 +1,9 @@
----
-title: Psychedelic Mushroom Set and Setting
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, entheogen-research]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Psychedelic Mushroom Set and Setting
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by [[timothy-leary]] and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
@@ -148,4 +140,4 @@ Integration is the process of making sense of and incorporating the insights, em
 - Know your limits and respect them
 - Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
 
-See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to set and setting and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.
+See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to [[set-and-setting]] and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.

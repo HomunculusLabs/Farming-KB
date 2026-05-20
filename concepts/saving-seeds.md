@@ -1,15 +1,7 @@
----
-title: Saving Seeds
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, seeds, genetics, harvesting, storage, cultivation, sustainability, plants]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Saving Seeds
 
-[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
+[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering [[homesteading]] skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 
 ## Why Save Seeds
 
@@ -152,6 +144,6 @@ Many communities have seed libraries where members can borrow seeds, grow them, 
 
 ## Related Concepts
 
-- [[small-scale-grain-growing]] -- grain seed saving and selection
+- [[small-scale-grain-growing]] -- grain [[seed-saving-and-selection]]
 - [[fruit-tree-propagation]] -- vegetative propagation as an alternative to seed saving for fruit trees
 - [[medicinal-herb-growing]] -- save seeds from your best medicinal herb plants

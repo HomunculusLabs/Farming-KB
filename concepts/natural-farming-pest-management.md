@@ -1,11 +1,3 @@
----
-title: Natural Farming Pest Management
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [pests, gardening, plants, companion-planting]
-sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
----
 
 # Natural Farming Pest Management
 
@@ -86,7 +78,7 @@ The foundation of natural pest management is a healthy ecosystem:
 - Most effective on young caterpillars
 
 ## Related
-- [[companion-planting-deterrents]] — evidence-based companion planting data
+- [[companion-planting-deterrents]] — evidence-based [[companion-planting]] data
 - [[slugs-and-snails-organic-control]] — specific slug/snail methods
 - [[garden-insect-identification]] — common garden pest identification
 - [[jadam-herbal-pest-control]] — JADAM approach to herbal pest sprays

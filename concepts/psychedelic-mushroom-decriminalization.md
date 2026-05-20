@@ -1,17 +1,9 @@
----
-title: Psychedelic Mushroom Decriminalization
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources: [raw/papers/psilocybin-production-gottlieb.md]
----
 
 # Psychedelic Mushroom Decriminalization
 
 ## Overview
 
-The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, psilocybin mushrooms have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
+The movement to decriminalize [[psilocybin]]-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, [[psilocybin-mushrooms]] have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
 
 This page traces the history, strategy, and current status of the psychedelic mushroom decriminalization movement.
 
@@ -62,7 +54,7 @@ Cities that decriminalized during this period include:
 
 Oregon became the first state to legalize psilocybin for therapeutic use:
 
-- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated psilocybin therapy program overseen by the Oregon Health Authority
+- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated [[psilocybin-therapy]] program overseen by the Oregon Health Authority
 - Licensed service centers can administer psilocybin to clients 21+
 - Trained facilitators guide sessions (not requiring a medical diagnosis)
 - The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated psychedelic therapy

@@ -1,11 +1,3 @@
----
-title: Functional Mushroom Products
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, processing, preparation, mushrooms, fungi, health, medicine, methods]
-sources: []
----
 
 # Functional Mushroom Products
 
@@ -19,7 +11,7 @@ Functional mushroom products encompass a wide range of formats including tinctur
 
 The simplest and most affordable format:
 
-- Raw dried mushroom powder: Whole mushroom dried and ground
+- Raw dried [[mushroom-powder]]: Whole mushroom dried and ground
 - Fruiting body powder: Made from the visible mushroom cap/stem only
 - Mycelium powder: Made from the fungal mycelium grown on substrate (often grain)
 - Dual powder: Blend of fruiting body and mycelium
@@ -62,7 +54,7 @@ Encapsulated powder or extract:
 Concentrated preparations that isolate or concentrate specific compounds:
 
 - Hot water extracts: Best for beta-glucans and polysaccharides
-- Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
+- Alcohol extracts: Best for triterpenes, [[hericenones]], [[ergothioneine]]
 - Dual extracts: Sequential water and alcohol extraction, capturing both classes
 - Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability
 - Standardized extracts: Guaranteed minimum levels of specific compounds (e.g., "30% beta-glucans")
@@ -141,7 +133,7 @@ Third-party testing should verify:
 - Heavy metals (lead, arsenic, cadmium, mercury)
 - Pesticide residues
 - Microbial contamination (E. coli, Salmonella, mold, yeast)
-- Aflatoxins and other mycotoxins
+- Aflatoxins and other [[mycotoxins]]
 - Solvent residues (for alcohol-extracted products)
 - Radiation (relevant for products from certain regions)
 
@@ -162,7 +154,7 @@ Third-party testing should verify:
 ### The Mycelium vs. Fruiting Body Debate
 
 - Fruiting body proponents: Higher active compound concentrations, different compound profiles
-- Mycelium proponents: Unique compounds (e.g., erinacines), more sustainable production
+- Mycelium proponents: Unique compounds (e.g., [[erinacines]]), more sustainable production
 - Reality: Both have merit; transparency about what the product contains is key
 
 ## Dosage Guidelines

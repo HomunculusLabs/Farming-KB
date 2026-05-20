@@ -1,11 +1,3 @@
----
-title: Passionflower Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, pollinators, permaculture, ethnobotany]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
----
 
 # Passionflower Growing Guide (Passiflora incarnata)
 
@@ -17,7 +9,7 @@ Central America. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
-pain reliever. Passiflora incarnata is the primary species used medicinally
+pain reliever. [[passiflora-incarnata]] is the primary species used medicinally
 in North American and European herbal practice.
 
 ## Botanical Profile
@@ -38,7 +30,7 @@ its range and regrows vigorously from the root system in spring.
 ## Medicinal Uses
 
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
+[[harmala-alkaloids]] (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:

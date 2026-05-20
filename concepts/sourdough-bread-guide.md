@@ -1,19 +1,11 @@
----
-title: Sourdough Bread Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, fermentation, food, recipe, grain]
-sources: []
----
 
 # Sourdough Bread Guide
 
-Sourdough bread is made using a wild yeast and lactic acid bacteria culture (a sourdough starter) rather than commercial baker's yeast. The result is a bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility due to the pre-fermentation of gluten and phytic acid breakdown.
+Sourdough bread is made using a wild yeast and [[lactic-acid-bacteria]] culture (a sourdough starter) rather than commercial baker's yeast. The result is a bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility due to the pre-fermentation of gluten and phytic acid breakdown.
 
 ## Creating a Sourdough Starter
 
-A sourdough starter is a symbiotic culture of wild yeast (Saccharomyces exiguus and others) and lactic acid bacteria (Lactobacillus species). It requires only flour and water, plus daily attention for 7-14 days.
+A sourdough starter is a symbiotic culture of wild yeast (Saccharomyces exiguus and others) and lactic acid bacteria ([[lactobacillus]] species). It requires only flour and water, plus daily attention for 7-14 days.
 
 ### Day-by-Day Method
 

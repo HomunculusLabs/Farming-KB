@@ -1,17 +1,9 @@
----
-title: Peyote Ceremony Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion, culture, psychopharmacology, safety, history, species]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
----
 
 # Peyote Ceremony Guide
 
 ## Overview
 
-Peyote (Lophophora williamsii) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline as its primary psychoactive alkaloid, along with a complex of other compounds including peyophylline, lophophorine, and anhalonidine. Peyote has been used as a sacrament by indigenous peoples for at least 5,700 years — archaeological evidence from the Shumla Caves in Texas includes peyote buttons radiocarbon dated to 3780–3660 BCE.
+Peyote ([[lophophora-williamsii]]) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline as its primary psychoactive alkaloid, along with a complex of other compounds including peyophylline, lophophorine, and anhalonidine. Peyote has been used as a sacrament by indigenous peoples for at least 5,700 years — archaeological evidence from the Shumla Caves in Texas includes peyote buttons radiocarbon dated to 3780–3660 BCE.
 
 Peyote occupies a unique position in the world of entheogens: it is simultaneously a controlled substance, a religious sacrament protected by law, and a species facing ecological threat from overharvesting.
 
@@ -44,7 +36,7 @@ The Huichol people of the Sierra Madre Occidental in western Mexico maintain one
 
 ## Native American Church (NAC) Ceremony
 
-The Native American Church (NAC) is the largest organized religious body that uses peyote as a sacrament. Founded in the late 19th century, the NAC incorporates elements of Christianity with indigenous peyote traditions.
+The [[native-american-church]] (NAC) is the largest organized religious body that uses peyote as a sacrament. Founded in the late 19th century, the NAC incorporates elements of Christianity with indigenous peyote traditions.
 
 ### Legal Status
 - Protected under the American Indian Religious Freedom Act (1978)

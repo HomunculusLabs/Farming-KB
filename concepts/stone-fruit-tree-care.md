@@ -1,11 +1,3 @@
----
-title: Stone Fruit Tree Care
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fruit-tree, pruning, orchard, pest-control, cultivation, troubleshooting]
-sources: []
----
 
 ## Overview
 
@@ -23,7 +15,7 @@ Stone fruits — peaches, plums, cherries, apricots, and nectarines — are name
 
 ## Peaches (Prunus persica)
 
-Plant in full sun, well-drained soil pH 6.0-6.8; avoid frost pockets. Most peaches are self-fertile. Space 15-20 feet apart (standard), 8-12 (dwarf). Choose varieties with adequate chill hours for your climate.
+Plant in full sun, well-drained [[soil-ph]] 6.0-6.8; avoid frost pockets. Most peaches are self-fertile. Space 15-20 feet apart (standard), 8-12 (dwarf). Choose varieties with adequate chill hours for your climate.
 
 ### Pruning Peaches
 Peaches fruit on one-year-old wood — they require aggressive annual pruning to renew fruiting wood.
@@ -76,7 +68,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 
 ## Brown Rot (Monilinia fructicola)
 
-Brown rot is the most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
+[[brown-rot]] is the most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
 
 ### Symptoms
 - Brown, rapidly spreading lesions on fruit

@@ -1,11 +1,3 @@
----
-title: Carrot Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [vegetables, gardening, cultivation, beginner, soil, troubleshooting]
-sources: []
----
 
 ## Overview
 
@@ -13,7 +5,7 @@ Carrots are a root vegetable prized for their sweetness, versatility, and storag
 
 ## Soil Preparation
 
-Carrots are demanding about soil texture. Poor soil is the primary cause of forked, stunted, or deformed roots.
+Carrots are demanding about [[soil-texture]]. Poor soil is the primary cause of forked, stunted, or deformed roots.
 
 ### Ideal Soil Conditions
 - Sandy loam is ideal — loose, well-draining, and free of rocks
@@ -133,7 +125,7 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### Diseases
 - **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
-- **Cercospora leaf spot**: Similar to alternaria; same management approach
+- **[[cercospora]] leaf spot**: Similar to alternaria; same management approach
 
 ## Harvesting
 

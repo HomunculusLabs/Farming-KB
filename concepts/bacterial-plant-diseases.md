@@ -1,11 +1,3 @@
----
-title: Bacterial Plant Diseases
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [bacteria, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Bacterial Plant Diseases
 
@@ -58,7 +50,7 @@ Primarily affects members of the Rosaceae family: apples, pears, quince, and rel
 Favored by warm, humid conditions during bloom (65-85F). Spread by rain, insects (especially bees during pollination), and contaminated tools.
 
 Management:
-- Apply streptomycin or copper during bloom (preventive timing is critical)
+- Apply [[streptomycin]] or copper during bloom (preventive timing is critical)
 - Prune infected branches 12 inches below visible canker margin
 - Sterilize pruning tools between every cut with 10% bleach or 70% alcohol
 - Remove infected tissue during dry conditions only
@@ -81,7 +73,7 @@ Management:
 
 - Use certified pathogen-free seed and transplants
 - Practice strict tool sanitation between plants
-- Avoid overhead watering; use drip irrigation
+- Avoid overhead watering; use [[drip-irrigation]]
 - Remove and destroy infected plant material -- never compost diseased tissue
 - Rotate crops by family for 3-5 years
 - Work in fields only when foliage is dry

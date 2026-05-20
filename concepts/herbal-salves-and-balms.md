@@ -1,11 +1,3 @@
----
-title: Herbal Salves and Balms
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, homestead-crafts, recipe, medicine, plants, preparation]
-sources: []
----
 
 # Herbal Salves and Balms
 
@@ -40,13 +32,13 @@ Stovetop method (faster):
 
 ### Key Herbs for Salves
 
-- Calendula (Calendula officinalis): Anti-inflammatory, wound healing, skin repair. The most versatile salve herb. Infuse dried petals in olive oil.
-- Plantain (Plantago major): Drawing agent for splinters and stings, anti-itch, wound healing. Broadleaf plantain grows wild on most homesteads.
-- Comfrey (Symphytum officinale): Cell proliferation, bone and tissue healing. Use for bruises, sprains, broken skin. Contains pyrrolizidine alkaloids -- avoid on deep open wounds.
-- Lavender (Lavandula angustifolia): Antimicrobial, calming, burn relief. Infuse flowers in oil or add essential oil at the end.
-- Yarrow (Achillea millefolium): Astringent, hemostatic, anti-inflammatory. Good for wound salves.
-- St. John's Wort (Hypericum perforatum): Nerve pain, burns, mild antidepressant (topical). Infuse fresh flowers in oil for the characteristic red color.
-- Chamomile (Matricaria chamomilla): Anti-inflammatory, soothing, gentle for babies and sensitive skin.
+- Calendula ([[calendula-officinalis]]): Anti-inflammatory, wound healing, skin repair. The most versatile salve herb. Infuse dried petals in olive oil.
+- Plantain ([[plantago-major]]): Drawing agent for splinters and stings, anti-itch, wound healing. Broadleaf plantain grows wild on most homesteads.
+- Comfrey ([[symphytum-officinale]]): Cell proliferation, bone and tissue healing. Use for bruises, sprains, broken skin. Contains pyrrolizidine alkaloids -- avoid on deep open wounds.
+- Lavender ([[lavandula-angustifolia]]): Antimicrobial, calming, burn relief. Infuse flowers in oil or add essential oil at the end.
+- Yarrow ([[achillea-millefolium]]): Astringent, hemostatic, anti-inflammatory. Good for wound salves.
+- St. John's Wort ([[hypericum-perforatum]]): Nerve pain, burns, mild antidepressant (topical). Infuse fresh flowers in oil for the characteristic red color.
+- Chamomile ([[matricaria-chamomilla]]): Anti-inflammatory, soothing, gentle for babies and sensitive skin.
 - Arnica (Arnica montana): Bruises, muscle soreness, sprains. Use only on intact skin -- never on open wounds.
 
 ## Beeswax Ratios

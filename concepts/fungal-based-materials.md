@@ -1,17 +1,9 @@
----
-title: Fungal-Based Materials
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, engineering, construction, sustainability, environment, processing, fungi, ecology]
-sources: []
----
 
 # Fungal-Based Materials
 
 ## Overview
 
-Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on agricultural waste substrates to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
+Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on [[agricultural-waste-substrates]] to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
 
 ## Mycelium as a Manufacturing Material
 
@@ -22,7 +14,7 @@ Mycelium offers several unique advantages as a material:
 - Grows on waste substrates: Agricultural byproducts (straw, sawdust, corn husks, hemp hurds) serve as feedstock
 - Self-assembling: Mycelium naturally binds substrate particles into a coherent solid structure
 - Low energy: Growth occurs at ambient temperatures without synthetic chemical inputs
-- Biodegradable: End-of-life composting returns material to the soil
+- Biodegradable: End-of-life [[composting]] returns material to the soil
 - Customizable: Material properties can be tuned by varying species, substrate, density, and processing
 - Carbon-sequestering: Fungi capture carbon during growth; materials can be carbon-negative
 - Rapid growth: Full colonization of substrate typically takes 3-14 days

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-05-09
 type: concept
 tags: [mycology, medicine, mushrooms, oncology]
-sources: []
+sources:
+  - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 ---
 ## Medicinal Mushroom Cancer Chemoprevention
 

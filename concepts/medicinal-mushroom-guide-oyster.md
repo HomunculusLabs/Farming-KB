@@ -1,26 +1,18 @@
----
-title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, biochemistry]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # Oyster Mushroom (Pleurotus ostreatus)
 
 ## Overview
 
-The oyster mushroom (Pleurotus ostreatus) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
+The [[oyster-mushroom]] ([[pleurotus-ostreatus]]) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
 
-While primarily known as a culinary mushroom, oyster mushrooms possess significant medicinal properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
+While primarily known as a culinary mushroom, [[oyster-mushrooms]] possess significant medicinal properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in [[mycoremediation]].
 
 ## Key Compounds
 
 - **Lovastatin:** A naturally occurring statin compound produced by P. ostreatus. Same active ingredient as the prescription drug Mevacor. Effective inhibitor of HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis.
 - **Beta-glucans:** 1,3-beta and 1,6-beta-glucans with immunomodulatory properties.
 - **Pleuran:** A specific beta-glucan from P. ostreatus with documented immune-enhancing effects.
-- **Ergothioneine:** A powerful antioxidant amino acid, found at high levels in oyster mushrooms.
+- **[[ergothioneine]]:** A powerful antioxidant amino acid, found at high levels in oyster mushrooms.
 - **Lectins:** Proteins with anti-tumor and immunomodulatory activity.
 - **Chitin and chitosan:** Structural polysaccharides that act as dietary fiber and have cholesterol-binding properties.
 - **Mevalonate pathway intermediates:** Various compounds involved in the lovastatin biosynthetic pathway.
@@ -137,7 +129,7 @@ Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
-- **Biological efficiency:** 50-200% depending on substrate.
+- **[[biological-efficiency]]:** 50-200% depending on substrate.
 - **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
 
 ## Mycoremediation Applications
@@ -163,4 +155,4 @@ Oyster mushrooms have significant environmental applications:
 
 - [[medicinal-mushroom-guide-shiitake]] for complementary cholesterol-lowering mushroom
 - [[medicinal-mushroom-guide-maitake]] for metabolic health comparison
-- [[medicinal-mushroom-guide-king-tubercake]] for another Pleurotus species
+- [[medicinal-mushroom-guide-king-tubercake]] for another [[pleurotus-species]]

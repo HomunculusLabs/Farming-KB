@@ -1,11 +1,3 @@
----
-title: Fungal Plant Diseases
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Fungal Plant Diseases
 
@@ -15,7 +7,7 @@ Fungal pathogens are among the most common and destructive plant diseases in bot
 
 ### Powdery Mildew
 
-Caused by Erysiphales order fungi. Appears as white-to-grayish powdery patches on leaf surfaces, stems, and occasionally fruit. Unlike most fungi, powdery mildew does not require free water on leaf surfaces -- it actually prefers dry conditions with high humidity around the plant. Common hosts include squash, cucumbers, roses, phlox, and lilacs.
+Caused by Erysiphales order fungi. Appears as white-to-grayish powdery patches on leaf surfaces, stems, and occasionally fruit. Unlike most fungi, [[powdery-mildew]] does not require free water on leaf surfaces -- it actually prefers dry conditions with high humidity around the plant. Common hosts include squash, cucumbers, roses, phlox, and lilacs.
 
 Symptoms progress from isolated spots to full leaf coverage, causing yellowing, curling, and premature leaf drop. Severe infections reduce photosynthesis and yield significantly.
 
@@ -33,7 +25,7 @@ Caused by oomycetes (Peronosporales), which are water molds rather than true fun
 Common on grapes, cucurbits, basil, and onions. Favored by cool, wet nights (below 65F) and warm days.
 
 Management:
-- Avoid overhead watering; use drip irrigation
+- Avoid overhead watering; use [[drip-irrigation]]
 - Improve air circulation with proper spacing and pruning
 - Copper-based fungicides (Bordeaux mix) as preventive
 - Remove infected leaves immediately
@@ -74,7 +66,7 @@ Management:
 
 ### Botrytis (Gray Mold)
 
-Caused by Botrytis cinerea. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
+Caused by [[botrytis-cinerea]]. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
 
 Management:
 - Reduce humidity in greenhouse/grow space
@@ -82,7 +74,7 @@ Management:
 - Remove dead or dying plant material promptly
 - Space plants adequately
 - Avoid wounding fruit during harvest
-- Biocontrol with Trichoderma species
+- Biocontrol with [[trichoderma]] species
 
 ## General Prevention Strategies
 
@@ -90,8 +82,8 @@ Management:
 - Select disease-resistant varieties
 - Maintain proper plant spacing for airflow
 - Water at the base of plants, not overhead
-- Sanitize tools between plants with 70% isopropyl alcohol
-- Apply preventive biological controls (Trichoderma, Bacillus subtilis)
+- Sanitize tools between plants with 70% [[isopropyl-alcohol]]
+- Apply preventive biological controls (Trichoderma, [[bacillus-subtilis]])
 - Keep garden debris cleaned up between seasons
 - Monitor plants regularly for early symptoms
 

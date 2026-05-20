@@ -1,11 +1,3 @@
----
-title: Lemon Balm Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Lemon Balm Growing Guide (Melissa officinalis)
 
@@ -20,7 +12,7 @@ standing association with beekeeping.
 
 ## Botanical Profile
 
-- Scientific name: Melissa officinalis
+- Scientific name: [[melissa-officinalis]]
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 4-9
 - Lifecycle: Perennial
@@ -160,7 +152,7 @@ For medicinal use:
 ## Common Issues
 
 Lemon balm is generally pest and disease resistant. Watch for:
-- Powdery mildew: Improve air circulation; avoid overhead watering
+- [[powdery-mildew]]: Improve air circulation; avoid overhead watering
 - Spider mites: Common in dry, hot conditions; increase humidity
 - Rust: Remove affected leaves; avoid crowding
 - Slugs: May damage young growth; use organic slug controls

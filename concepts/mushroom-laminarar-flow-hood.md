@@ -1,15 +1,7 @@
----
-title: Mushroom Laminar Flow Hood Design
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, fungi, cultivation, indoor, equipment, engineering, lab-technique, filtration]
-sources: [raw/papers/laminar-flow-hood-construction-1.md]
----
 
 ## Overview
 
-A laminar flow hood (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still air box, dramatically reducing contamination rates and enabling faster, more comfortable work.
+A [[laminar-flow-hood]] (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still air box, dramatically reducing contamination rates and enabling faster, more comfortable work.
 
 ## How Laminar Flow Works
 
@@ -46,7 +38,7 @@ Look for filters rated for laminar flow applications, not HVAC filters. HVAC HEP
 
 ### The Physics
 
-The goal is to push air through the HEPA filter at approximately 100 feet per minute (fpm) face velocity. This speed is fast enough to maintain laminar flow and prevent contaminants from entering, but slow enough to avoid turbulence that would disturb your work.
+The goal is to push air through the [[hepa-filter]] at approximately 100 feet per minute (fpm) face velocity. This speed is fast enough to maintain laminar flow and prevent contaminants from entering, but slow enough to avoid turbulence that would disturb your work.
 
 ### Calculating Required Airflow
 
@@ -104,7 +96,7 @@ A DIY laminar flow hood typically costs $200-500 depending on size and blower ch
 ## Using the Flow Hood
 
 - Turn on the hood at least 15 minutes before working to flush the area with clean air.
-- Wipe the work surface with 70% isopropyl alcohol before and after use.
+- Wipe the work surface with 70% [[isopropyl-alcohol]] before and after use.
 - Work within 6 inches of the filter face for maximum protection.
 - Never place objects between the filter and your work — this disrupts laminar flow.
 - Keep movements slow and deliberate to minimize air disturbance.

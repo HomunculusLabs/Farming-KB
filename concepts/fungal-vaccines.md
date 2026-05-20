@@ -1,11 +1,3 @@
----
-title: Fungal Vaccines
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, health, medicine, academia, biology, lab-technique, immunology]
-sources: []
----
 
 # Fungal Vaccines
 
@@ -31,7 +23,7 @@ The populations at highest risk — immunocompromised patients (HIV/AIDS, transp
 
 - **Fungi are eukaryotes**: Unlike bacteria and viruses, fungi share fundamental cellular biology with human cells. Many potential antigens have human homologs, raising concerns about autoimmune cross-reactivity
 - **Diverse pathogenic mechanisms**: Fungal pathogens use varied strategies — tissue invasion, dimorphism, biofilm formation, immune evasion — making a universal approach difficult
-- **Intracellular vs. extracellular phases**: Some fungi (Histoplasma, Cryptococcus) have intracellular phases that require cell-mediated immunity, while others (Candida, Aspergillus) are primarily extracellular
+- **Intracellular vs. extracellular phases**: Some fungi (Histoplasma, Cryptococcus) have intracellular phases that require cell-mediated immunity, while others (Candida, [[aspergillus]]) are primarily extracellular
 - **Immune evasion**: Fungi have sophisticated mechanisms to evade host immunity, including capsule formation (Cryptococcus), biofilm formation (Candida), melanin production, and morphological switching
 
 ### Practical and Economic Challenges
@@ -53,7 +45,7 @@ The most clinically advanced Candida vaccine candidate:
 - **Platform**: Recombinant protein with alum adjuvant
 - **Als3 function**: Cell surface adhesin and invasin involved in biofilm formation, epithelial adhesion, and iron acquisition
 - **Clinical progress**: Completed Phase II trials showing immunogenicity and reduced recurrence of vulvovaginal candidiasis. Phase III planning for recurrent vulvovaginal candidiasis
-- **Spectrum**: Also shown protective activity against C. glabrata, C. tropicalis, and Staphylococcus aureus (due to structural similarity between Als3 and S. aureus adhesins)
+- **Spectrum**: Also shown protective activity against C. glabrata, C. tropicalis, and [[staphylococcus-aureus]] (due to structural similarity between Als3 and S. aureus adhesins)
 
 ### Other Candida Candidates
 
@@ -67,7 +59,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 
 ### ASP3976 (Astellas/GlaxoSmithKline)
 
-- **Antigen**: Recombinant Asp f3 protein from Aspergillus fumigatus
+- **Antigen**: Recombinant Asp f3 protein from [[aspergillus-fumigatus]]
 - **Mechanism**: Asp f3 is a thiol peroxidase involved in oxidative stress defense
 - **Status**: Completed Phase I trials demonstrating safety and immunogenicity in healthy adults
 - **Target population**: Patients undergoing chemotherapy, stem cell transplantation, or lung transplantation
@@ -85,7 +77,7 @@ Cryptococcal meningitis kills approximately 180,000 people annually, primarily i
 
 ### Capsule-Based Approaches
 
-The polysaccharide capsule is the primary virulence factor of Cryptococcus neoformans:
+The polysaccharide capsule is the primary virulence factor of [[cryptococcus-neoformans]]:
 
 - **GXM conjugate vaccine**: Glucuronoxylomannan (the major capsular polysaccharide) conjugated to tetanus toxoid. Shown protective in animal models. Phase I trials demonstrated safety and immunogenicity
 - **GXM-tetanus toxoid**: Generates antibodies that enhance opsonophagocytosis of Cryptococcus by macrophages

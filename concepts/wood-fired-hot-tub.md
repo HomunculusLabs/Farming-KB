@@ -1,11 +1,3 @@
----
-title: Wood-Fired Hot Tub
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, equipment, engineering, construction, water, safety]
-sources: []
----
 
 # Wood-Fired Hot Tub
 
@@ -53,7 +45,7 @@ A wood-fired hot tub consists of four main components:
 ## Heater Systems
 
 ### External Wood-Fired Stove (Recommended)
-A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via thermosiphon (natural convection) or a small pump.
+A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via [[thermosiphon]] (natural convection) or a small pump.
 
 - **How it works**: The stove heats the coil, which heats the water. Hot water rises out of the coil back into the tub; cool water flows from the tub into the coil. No pump required if the system is properly designed with adequate rise (12-18 inches minimum between stove output and tub inlet).
 - **Heating time**: 2-4 hours from 50F to 104F for a 250-gallon tub with a well-designed system

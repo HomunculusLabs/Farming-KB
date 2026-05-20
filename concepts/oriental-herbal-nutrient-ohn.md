@@ -1,32 +1,7 @@
----
-
-title: Oriental Herbal Nutrient (OHN) — Preparation and Use
-created: 2026-04-10
-updated: 2026-04-12
-type: concept
-
-tags:
-- knf
-- fermentation
-- pesticide
-- recipe
-- medicine
-- rice
-- processing
-- pest-control
-- fungal-diversity
-
-sources:
-- raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/unknown-natural-farming-poster.md
-- raw/papers/bahay-kubo-indigenous-microorganisms_.md
-- raw/papers/chos-global-natural-farming.md
-- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
----
 
 # Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
@@ -35,10 +10,10 @@ Cho's original formulation uses five medicinal herbs, each contributing specific
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
 | Angelica (Angelica gigas/Dong Quai) | Coumarins, angelic acid | Immune system stimulation, disease resistance |
-| Cinnamon (Cinnamomum cassia) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
+| Cinnamon ([[cinnamomum-cassia]]) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
 | Garlic | Allicin, diallyl disulfide | Broad-spectrum antimicrobial, pest repellent |
 | Ginger | Gingerol, shogaol | Antifungal, growth stimulant, digestive aid |
-| Licorice (Glycyrrhiza uralensis) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
+| Licorice ([[glycyrrhiza-uralensis]]) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
 
 ### Herb Substitutions
 - Angelica: Can substitute with local medicinal roots (valerian, echinacea)
@@ -109,7 +84,7 @@ Cho's original formulation uses five medicinal herbs, each contributing specific
 
 ## Carandang's Simplified Method
 
-From the IMO/bionutrients paper — a faster approach:
+From the IMO/[[bionutrients]] paper — a faster approach:
 
 1. Mix 1 kg crushed ginger + 1 kg crushed garlic + 1 kg crude sugar/molasses
 2. Add 1 liter beer or local wine (natural yeast source)
@@ -167,7 +142,7 @@ OHN is one of KNF's primary pest management tools:
 
 **Insects**: Allicin (garlic) and capsaicin (if hot pepper added) repel sucking and chewing insects. Spray at 1:500 every 5-7 days as preventive.
 
-**Fungal diseases**: Cinnamon's cinnamaldehyde and ginger's gingerol have strong antifungal properties. Effective against powdery mildew, downy mildew, botrytis.
+**Fungal diseases**: Cinnamon's cinnamaldehyde and ginger's gingerol have strong antifungal properties. Effective against [[powdery-mildew]], [[downy-mildew]], botrytis.
 
 **Bacterial diseases**: Garlic's allicin is broad-spectrum antibacterial. Angelica compounds boost plant immunity.
 

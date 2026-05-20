@@ -1,11 +1,3 @@
----
-title: Solar Water Heating
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [homesteading, energy, off-grid, engineering, water, sustainability]
-sources: []
----
 
 # Solar Water Heating
 
@@ -61,7 +53,7 @@ The simplest and cheapest solar water heater.
 ### Thermosiphon System
 
 A separate collector panel heats water that rises by natural convection
-(natural thermosiphon effect) to an insulated storage tank mounted above
+(natural [[thermosiphon]] effect) to an insulated storage tank mounted above
 the collector.
 
 **How it works:**

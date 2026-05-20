@@ -1,11 +1,3 @@
----
-title: Holy Basil (Tulsi) Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
----
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
 
@@ -22,7 +14,7 @@ reducing properties.
 
 ## Botanical Profile
 
-- Scientific name: Ocimum sanctum (syn. O. tenuiflorum)
+- Scientific name: [[ocimum-sanctum]] (syn. O. tenuiflorum)
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 10-11 (grown as annual in all other zones)
 - Lifecycle: Tender perennial, grown as annual in temperate climates
@@ -37,7 +29,7 @@ Primary varieties:
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
   camphor-like aroma. More frost-tolerant than other varieties.
 
-Note: Tulsi is distinct from culinary sweet basil (Ocimum basilicum), though
+Note: Tulsi is distinct from culinary sweet basil ([[ocimum-basilicum]]), though
 they are in the same genus. Tulsi is more medicinal, more intensely aromatic,
 and has a different flavor profile.
 
@@ -45,7 +37,7 @@ and has a different flavor profile.
 
 Tulsi is classified as an adaptogen in Ayurvedic medicine, helping the body
 adapt to stress and maintain balance. Key active compounds include eugenol,
-caryophyllene, ursolic acid, rosmarinic acid, and linalool.
+caryophyllene, [[ursolic-acid]], rosmarinic acid, and linalool.
 
 Key medicinal applications:
 
@@ -158,7 +150,7 @@ Tulsi blends well with:
 - Ginger and lemon for respiratory support
 - Peppermint for digestion and refreshment
 - Chamomile for relaxation and sleep
-- Ashwagandha for comprehensive stress support
+- [[ashwagandha]] for comprehensive stress support
 
 ## Companion Planting
 

@@ -1,17 +1,9 @@
----
-title: Harm Reduction Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [safety, psychopharmacology, health, psychedelics, entheogen, principles, preparation]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Harm Reduction Guide
 
 ## Overview
 
-Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, set and setting optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
+Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, [[set-and-setting]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
 
 ## Core Principles
 
@@ -27,9 +19,9 @@ Harm reduction is a set of practical strategies and principles aimed at reducing
 
 Reagent testing uses chemical solutions that change color in the presence of specific compound classes. It cannot identify every substance but can detect the presence or absence of expected compounds and flag dangerous adulterants.
 
-Common reagents for psychedelic harm reduction:
+Common reagents for [[psychedelic-harm-reduction]]:
 
-- Ehrlich reagent: Turns purple with indoles (DMT, psilocybin, LSD)
+- Ehrlich reagent: Turns purple with indoles (DMT, [[psilocybin]], LSD)
 - Marquis reagent: Turns black/dark with MDMA; orange/brown with amphetamines
 - Hofmann reagent: Specific to LSD and other lysergamides
 - Mecke reagent: Detects MDMA, MDA, and related compounds

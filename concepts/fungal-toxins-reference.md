@@ -1,11 +1,3 @@
----
-title: Fungal Toxins Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, fungi, chemistry, health, medicine, safety, biochemistry, species]
-sources: [raw/papers/amanita-muscaria-herb-of-immortality.md]
----
 
 # Fungal Toxins Reference
 
@@ -19,10 +11,10 @@ Fungi produce a diverse array of toxic secondary metabolites known as mycotoxins
 
 Amatoxins are produced primarily by species in the genus Amanita, most notably:
 
-- **Amanita phalloides** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
-- **Amanita virosa** (Destroying Angel)
-- **Amanita verna** (Fool's Mushroom)
-- **Amanita bisporigera** (Eastern Destroying Angel)
+- **[[amanita-phalloides]]** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
+- **[[amanita-virosa]]** (Destroying Angel)
+- **[[amanita-verna]]** (Fool's Mushroom)
+- **[[amanita-bisporigera]]** (Eastern Destroying Angel)
 - Also found in some Galerina and Lepiota species
 
 ### Mechanism of Action
@@ -103,7 +95,7 @@ Orellanine poisoning has a uniquely long latency period:
 
 Gyromitrin is found in several species of false morels:
 
-- **Gyromitra esculenta** (False Morel) — the most significant source
+- **[[gyromitra-esculenta]]** (False Morel) — the most significant source
 - **Gyromitra gigas**, **Gyromitra infula**, and related species
 
 ### Mechanism of Action
@@ -137,7 +129,7 @@ Gyromitrin is volatile and water-soluble, making it partially removable through 
 
 ### Source
 
-Aflatoxins are produced by Aspergillus flavus, A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
+Aflatoxins are produced by [[aspergillus-flavus]], A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
 
 ### Mechanism of Action
 
@@ -179,7 +171,7 @@ Most countries regulate aflatoxin levels in food:
 ## Other Notable Mycotoxins
 
 - **Ochratoxin A**: From Aspergillus ochraceus and Penicillium verrucosum. Nephrotoxic, carcinogenic (Group 2B), immunosuppressive. Found in cereals, coffee, wine, spices
-- **Fumonisins**: From Fusarium verticillioides. Inhibit ceramide synthase, causing equine leukoencephalomalacia, neural tube defects. Found in corn
+- **Fumonisins**: From [[fusarium-verticillioides]]. Inhibit ceramide synthase, causing equine leukoencephalomalacia, neural tube defects. Found in corn
 - **Trichothecenes** (T-2 toxin, DON/vomitoxin): From Fusarium species. Inhibit protein synthesis, immunosuppressive, hemorrhagic. Found in wheat, barley, corn
 - **Ergot alkaloids**: From Claviceps purpurea on cereal grains. Cause ergotism (St. Anthony's Fire) — gangrene, hallucinations. Partial agonists at adrenergic and serotonergic receptors
 

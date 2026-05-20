@@ -1,17 +1,9 @@
----
-title: Salvinorin A Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [psychopharmacology, entheogen, ethnobotany, consciousness, pharmacology, safety, preparation, species-profiles]
-sources: []
----
 
 # Salvinorin A
 
 ## Overview
 
-Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
+Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, [[psilocybin]], DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
 
 ## Pharmacology
 
@@ -41,7 +33,7 @@ Effects vary enormously by dose, set, and setting. Common reported experiences i
 - Amnesia of the experience (common at higher doses)
 - Emotional catharsis or, conversely, profound confusion
 
-Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard psychedelic integration frameworks may not fully apply.
+Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard [[psychedelic-integration]] frameworks may not fully apply.
 
 ## Preparation Methods
 
@@ -102,7 +94,7 @@ Salvinorin A is unscheduled in many countries but regulated or banned in others.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
+Salvia divinorum has been used for centuries by the [[mazatec-people]] of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 

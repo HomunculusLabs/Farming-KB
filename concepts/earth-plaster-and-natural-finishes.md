@@ -1,11 +1,3 @@
----
-title: Earth Plaster and Natural Finishes
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [construction, homesteading, permaculture, sustainability]
-sources: []
----
 
 # Earth Plaster and Natural Finishes
 
@@ -33,7 +25,7 @@ A typical earthen plaster mix by volume:
 - **Clay-rich soil:** 1 part (the binder)
 - **Sand:** 2-3 parts (prevents cracking)
 - **Fiber:** 0.5 part chopped straw, cattail fluff, or horse manure (tensile strength)
-- **Water:** enough to achieve workable consistency (like thick cake batter)
+- **Water:** enough to achieve workable consistency (like thick [[cake-batter]])
 
 ### Application Process
 
@@ -113,7 +105,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 
 ### Recipe
 
-- **Clay soil (fine):** 1 part
+- **[[clay-soil]] (fine):** 1 part
 - **Fine sand:** 0.5-1 part (optional, for reducing shrinkage)
 - **Water:** enough for a creamy consistency
 - **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice (prickly pear pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)

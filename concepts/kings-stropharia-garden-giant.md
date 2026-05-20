@@ -1,19 +1,11 @@
----
-title: King Stropharia Garden Giant
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, cultivation, permaculture, ecology, food, species, gardening]
-sources: []
----
 
 # King Stropharia (Garden Giant)
 
-King Stropharia (Stropharia rugosoannulata), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
+[[king-stropharia]] ([[stropharia-rugosoannulata]]), commonly known as the [[wine-cap]] mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and [[food-forest]] systems.
 
 ## Overview
 
-Originally described from Europe, King Stropharia has been widely adopted by permaculture practitioners and organic gardeners as a companion mushroom for garden beds. Paul Stamets popularized its use in "giant gardens" — integrated mushroom-vegetable polycultures where the mushroom bed serves as both a productive mushroom crop and a long-term mulch layer that benefits surrounding plants.
+Originally described from Europe, King Stropharia has been widely adopted by permaculture practitioners and organic gardeners as a companion mushroom for garden beds. [[paul-stamets]] popularized its use in "giant gardens" — integrated mushroom-vegetable polycultures where the mushroom bed serves as both a productive mushroom crop and a long-term mulch layer that benefits surrounding plants.
 
 ## Species Profile
 
@@ -23,7 +15,7 @@ Originally described from Europe, King Stropharia has been widely adopted by per
 - Cap: 5-20 cm, convex to flat, burgundy-red when young fading to tan/white
 - Stem: thick, robust, white with a distinctive ring (annulus) below the cap
 - Gills: gray when young, darkening to purple-black with spore maturity
-- Spore print: dark purplish-brown to black
+- [[spore-print]]: dark purplish-brown to black
 - Habitat: wood chips, straw, compost, garden mulch
 - Season: spring through fall (prefers cool, wet conditions)
 
@@ -36,7 +28,7 @@ One of the most fascinating aspects of King Stropharia biology is its ability to
 - The fungus then penetrates the nematode cuticle and digests it internally
 - This predatory ability helps control plant-parasitic nematodes in garden soils
 
-Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in integrated pest management systems.
+Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in [[integrated-pest-management]] systems.
 
 ## Ecological Role
 

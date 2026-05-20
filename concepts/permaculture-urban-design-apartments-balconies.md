@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 ---
 ## Permaculture Urban Design: Apartments and Balconies
 

@@ -1,11 +1,3 @@
----
-title: Flood Preparedness Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [safety, homesteading, climate, water, water-management]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Flood Preparedness Guide
 
@@ -146,7 +138,7 @@ In addition to standard emergency supplies, include:
 
 ## Long-Term Flood Mitigation
 
-- Work with local agencies on watershed management and drainage improvements
+- Work with local agencies on [[watershed-management]] and drainage improvements
 - Consider relocating structures if flooding is frequent and severe
 - Plant native vegetation along waterways to stabilize banks and slow runoff
 - Maintain wetland areas — they absorb and slow floodwaters naturally

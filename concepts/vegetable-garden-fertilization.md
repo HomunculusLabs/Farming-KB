@@ -114,8 +114,4 @@ Small-scale testing before large-scale deployment is always recommended.
 
 Documentation of results enables continuous improvement and community knowledge sharing.
 
-
-
-
-
 Field observations and practical experience remain the most reliable guides for system optimization.

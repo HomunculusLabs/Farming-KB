@@ -1,28 +1,3 @@
----
-
-title: Pablo Amaringo
-created: 2026-04-11
-updated: 2026-04-12
-type: entity
-
-tags:
-- person
-- ethnobotany
-- culture
-- religion
-- consciousness
-- folklore
-- plant-systems
-- entheogen
-- amazon
-- ph
-- lighting
-- preparation
-- species
-
-sources:
-- raw/papers/amaringo-p-ayahuasca-visions.md
----
 
 # Pablo Amaringo
 
@@ -48,7 +23,7 @@ The preparation process Amaringo documented requires strict discipline:
 - No salty, sweet, or bitter food; no alcohol
 - Must rise early and make an offering of tobacco, matches, and banana leaf to the "grandfather" (ayahuasca spirit)
 - The chicua bird (Piaya cayana) serves as an omen: "chis, chis" means favorable conditions; "chicua" means danger
-- The vine is cut, boiled for 3-4 hours across multiple pots, with chacruna (Psychotria viridis) added
+- The vine is cut, boiled for 3-4 hours across multiple pots, with chacruna ([[psychotria-viridis]]) added
 - Must be cooked in clay pots, not aluminum
 - Prepared in solitude — no one must see the pot
 - Tobacco is added to the brew as an additional ingredient
@@ -93,6 +68,10 @@ Amaringo describes the two plants as snake spirits:
 ## Legacy
 
 Amaringo's paintings bridge Amazonian shamanism and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
+
+Amaringo's visionary artwork continues to inspire psychedelic art
+movements worldwide, bridging indigenous Amazonian cosmology with
+contemporary consciousness research and environmental awareness.
 
 ## See Also
 

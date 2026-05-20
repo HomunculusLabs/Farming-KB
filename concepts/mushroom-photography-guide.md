@@ -1,11 +1,3 @@
----
-title: Mushroom Photography Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, tools, techniques, education, foraging, ecology, species]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 ## Overview
 
@@ -145,13 +137,13 @@ For documentation and identification purposes:
 - Stem (base to top, any ring or volva)
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
-- Spore print (if possible)
+- [[spore-print]] (if possible)
 
 ### Time-Lapse
 - Capture mushroom growth from pin to full expansion (6-48 hours typically)
 - Intervalometer or camera app for automated shooting
 - Waterproof housing for outdoor time-lapse
-- Document decomposition sequence as well
+- Document [[decomposition]] sequence as well
 
 ### UV Fluorescence Photography
 - Some mushrooms fluoresce under ultraviolet light

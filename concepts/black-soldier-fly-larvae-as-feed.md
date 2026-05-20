@@ -1,11 +1,3 @@
----
-title: Black Soldier Fly Larvae as Feed
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [animal-husbandry, byproducts, nutrition, homesteading, processing, preservation, sustainability]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
----
 
 # Black Soldier Fly Larvae as Feed
 
@@ -15,7 +7,7 @@ Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fi
 
 BSF larvae (dry weight basis) compare favorably to conventional feed ingredients:
 
-| Component | BSF Larvae | Soybean Meal | Fish Meal |
+| Component | BSF Larvae | [[soybean-meal]] | [[fish-meal]] |
 |-----------|-----------|--------------|-----------|
 | Crude Protein | 40-44% | 44-49% | 60-72% |
 | Crude Fat | 30-35% | 1-2% | 8-12% |
@@ -111,7 +103,7 @@ Always check local regulations before feeding BSF-derived products to food-produ
 
 ## Integration with Composting
 
-BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The composting bin serves dual purpose — waste reduction and feed production. This integrated approach is one of the most efficient protein production methods available at homestead scale, converting low-value organic waste into high-value animal protein.
+BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The [[composting]] bin serves dual purpose — waste reduction and feed production. This integrated approach is one of the most efficient protein production methods available at homestead scale, converting low-value organic waste into high-value animal protein.
 
 ## Economic Considerations
 

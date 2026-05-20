@@ -1,17 +1,7 @@
----
-title: KNF FPJ Ratio Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [knf, fermentation, reference, fertilizer]
-sources:
-  - raw/papers/master-cho-knf-recipe-book.md
-  - raw/papers/chos-global-natural-farming.md
----
 
 # KNF FPJ Ratio Guide
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+[[fermented-plant-juice]] (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 
@@ -114,8 +104,5 @@ Practical application requires adaptation to local conditions and specific use c
 Small-scale testing before large-scale deployment is always recommended.
 
 Documentation of results enables continuous improvement and community knowledge sharing.
-
-
-
 
 Field observations and practical experience remain the most reliable guides for system optimization.

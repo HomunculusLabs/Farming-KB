@@ -1,11 +1,3 @@
----
-title: Aeroponics Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-growth, nutrients]
-sources: []
----
 
 # Aeroponics Guide
 
@@ -125,7 +117,7 @@ Build: drill 3-inch holes in lid, mount nozzles aimed at root zone, connect pump
 
 Healthy aeroponic roots should be:
 - White or cream-colored
-- Densely branched with many fine root hairs
+- Densely branched with many fine [[root-hairs]]
 - Firm and turgid (not slimy or mushy)
 - Growing rapidly and filling the chamber
 
@@ -139,7 +131,7 @@ Prevention:
 - Maintain water temperature at 65-70°F (18-21°C) — use a water chiller if needed
 - Use RO water and clean, synthetic nutrients
 - Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
-- Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
+- Add beneficial bacteria ([[bacillus-subtilis]] strains) to prevent pathogen colonization
 - Replace misting nozzles regularly or clean them with vinegar or CLR
 - Keep the root chamber completely light-proof
 

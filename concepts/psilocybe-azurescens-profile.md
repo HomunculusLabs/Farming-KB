@@ -1,18 +1,9 @@
----
-title: Psilocybe azurescens Profile
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [species-profiles, species-identification, mycology, psilocybin, potency, distribution, coastal, temperate]
-sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
----
 
 # Psilocybe azurescens Profile
 
 ## Overview
 
-Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms known, first identified by Paul Stamets and Jochen Gartz along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
+[[psilocybe-azurescens]] is one of the most potent psilocybin-containing mushrooms known, first identified by [[paul-stamets]] and [[jochen-gartz]] along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
 
 ## Taxonomy
 
@@ -28,7 +19,7 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 - **Veil**: White, cortinate, often leaving a fibrillose annular zone on the superior stem.
 - **Taste**: Extremely bitter.
 - **Odor**: None to slightly farinaceous.
-- **Spore print**: Dark purplish brown to purplish black.
+- **[[spore-print]]**: Dark purplish brown to purplish black.
 
 ## Microscopic Features
 
@@ -40,12 +31,12 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 
 ## Potency
 
-One of the most potent psilocybin mushrooms in the world:
+One of the most potent [[psilocybin-mushrooms]] in the world:
 - Up to 1.78% psilocybin
 - 0.38% psilocin
 - 0.35% baeocystin
 
-After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
+After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with [[psilocybe-semilanceata]].
 
 ## Habitat and Distribution
 
@@ -59,7 +50,7 @@ After six months of storage, analyses revealed that this species retained most o
 
 - Extremely strong bluing reaction -- flesh becomes indigo black where damaged.
 - Silky white stem, caramel-colored cap, relatively large stature.
-- Non-undulating cap margin (distinguishes it from Psilocybe cyanescens).
+- Non-undulating cap margin (distinguishes it from [[psilocybe-cyanescens]]).
 - Broad but pronounced umbo.
 - Extremely bitter taste.
 

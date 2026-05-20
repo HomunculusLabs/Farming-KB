@@ -1,17 +1,9 @@
----
-title: King Tubercake (Pleurotus tuber-regium) — Medicinal Mushroom Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, africa, ethnobotany]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
----
 
 # King Tubercake (Pleurotus tuber-regium)
 
 ## Overview
 
-King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
+King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus ([[oyster-mushroom]]) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
 
 The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its medicinal properties.
 
@@ -26,10 +18,10 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 
 ## Key Compounds
 
-- **Beta-glucans:** High-molecular-weight polysaccharides (primarily 1,3-beta and 1,6-beta-glucans) with potent immunomodulatory effects. P. tuber-regium produces particularly high beta-glucan concentrations compared to other Pleurotus species.
+- **Beta-glucans:** High-molecular-weight polysaccharides (primarily 1,3-beta and 1,6-beta-glucans) with potent immunomodulatory effects. P. tuber-regium produces particularly high beta-glucan concentrations compared to other [[pleurotus-species]].
 - **Proteoglycans:** Protein-bound polysaccharides with anti-tumor and immune-enhancing activity.
 - **Triterpenoids:** Anti-inflammatory compounds found in both sclerotia and fruiting bodies.
-- **Ergosterol and ergosterol peroxide:** Sterol compounds with antioxidant and anti-tumor properties.
+- **[[ergosterol]] and ergosterol peroxide:** Sterol compounds with antioxidant and anti-tumor properties.
 - **Phenolic compounds:** Including flavonoids with antioxidant activity.
 - **Lectins:** Sugar-binding proteins with immunomodulatory and anti-cancer properties.
 - **Dietary fiber:** Both sclerotia and fruiting bodies are rich in chitin and other fungal polysaccharides.
@@ -77,7 +69,7 @@ P. tuber-regium is one of the most immunologically active African mushrooms:
 ### Anti-Diabetic Effects
 - Reduces fasting blood glucose in diabetic animal models by 30-40%.
 - Improves insulin sensitivity and glucose tolerance.
-- Alpha-glucosidase inhibition slows carbohydrate absorption.
+- Alpha-glucosidase inhibition slows [[carbohydrate]] absorption.
 - Protects pancreatic beta cells from oxidative damage.
 - Supports traditional use for diabetes management in Africa.
 
@@ -119,7 +111,7 @@ The sclerotium is the primary part used medicinally in Africa:
 - **Topical:** Fresh sclerotium pounded into a paste for wound application.
 
 ### Fruiting Body Preparation
-- Culinary use similar to oyster mushrooms.
+- Culinary use similar to [[oyster-mushrooms]].
 - Saute, grill, add to soups and stews.
 - Mild, nutty flavor with firm texture.
 
@@ -169,7 +161,7 @@ P. tuber-regium is cultivated in parts of Africa and Asia, though less widely th
 
 ## Research Gaps
 
-P. tuber-regium is significantly under-researched compared to Asian medicinal mushrooms:
+P. tuber-regium is significantly under-researched compared to Asian [[medicinal-mushrooms]]:
 - Limited human clinical trials.
 - Need for standardization of active compounds.
 - Taxonomic work needed — some confusion with closely related Pleurotus species.

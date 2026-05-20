@@ -1,11 +1,3 @@
----
-title: Cannabis Extraction Basics
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, processing, lab-technique, chemistry, safety, potency, equipment]
-sources: []
----
 
 ## Overview
 
@@ -141,7 +133,7 @@ Winterization is not typically needed for BHO or CO2 extracts that are processed
 
 ## Decarboxylation
 
-Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). Decarboxylation converts these to active THC and CBD through heat:
+Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). [[decarboxylation]] converts these to active THC and CBD through heat:
 
 - THCA → THC at approximately 220 F (105 C) over 30-60 minutes
 - CBDA → CBD at similar temperatures

@@ -1,11 +1,3 @@
----
-title: Seed Starting Reference
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [germination, cultivation, gardening, vegetables, indoor, plant-growth, beginner]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
----
 
 # Seed Starting Reference
 
@@ -13,7 +5,7 @@ Starting seeds indoors extends the growing season, provides stronger transplants
 
 ## Germination Temperatures by Crop
 
-Optimal soil temperature for germination varies significantly. Use a heat mat with a thermostat for precise control.
+Optimal [[soil-temperature]] for germination varies significantly. Use a heat mat with a thermostat for precise control.
 
 | Crop | Optimal Soil Temp (°F) | Days to Germinate |
 |------|----------------------|-------------------|
@@ -69,7 +61,7 @@ Seedlings need 12-16 hours of light per day once germinated. Windowsill light is
 ## Seed Starting Media
 
 ### Seed Starting Mix (Store-bought)
-- Light, sterile, fine-textured (peat moss + perlite + vermiculite).
+- Light, sterile, fine-textured ([[peat-moss]] + perlite + vermiculite).
 - No nutrients — seedlings feed from seed until first true leaves.
 - Good for beginners; convenient.
 
@@ -80,15 +72,15 @@ Seedlings need 12-16 hours of light per day once germinated. Windowsill light is
 - Wet to consistency of a wrung-out sponge.
 
 ### Soil Blocks
-Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds are planted directly into blocks. Roots air-prune at block edges, preventing circling.
+Eliminates plastic trays. A [[soil-block]] tool compresses wet mix into cubes; seeds are planted directly into blocks. Roots air-prune at block edges, preventing circling.
 
-**Soil block mix (Eliot Coleman recipe):**
+**Soil block mix ([[eliot-coleman]] recipe):**
 - 3 buckets peat moss (or coco coir)
 - 1 bucket perlite
 - 1 bucket compost (sieved)
 - 1/2 cup lime (if using peat)
-- 1/4 cup blood meal
-- 1/4 cup rock phosphate
+- 1/4 cup [[blood-meal]]
+- 1/4 cup [[rock-phosphate]]
 - 1/4 cup kelp meal
 - Water until the mix holds shape when squeezed.
 

@@ -1,17 +1,9 @@
----
-title: Turkey Tail (Trametes versicolor)
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mushrooms, fungi, mycology, medicine, health, biology, species-profiles, ecology, biochemistry]
-sources: [raw/papers/cancer-treatments-medicinal-mushrooms.md]
----
 
 # Turkey Tail (Trametes versicolor)
 
 ## Overview
 
-Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied medicinal mushrooms in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
+Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied [[medicinal-mushrooms]] in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
 
 ## Taxonomy and Identification
 
@@ -21,7 +13,7 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 - **Order**: Polyporales
 - **Family**: Polyporaceae
 - **Genus**: Trametes
-- **Species**: T. versicolor (syn. Coriolus versicolor)
+- **Species**: T. versicolor (syn. [[coriolus-versicolor]])
 
 ### Morphology
 
@@ -30,15 +22,15 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 - **Texture**: Velvety to hairy when young, becoming smoother with age
 - **Pore surface**: White to cream, tiny pores (3-5 per mm)
 - **Flesh**: Thin (1-3 mm), tough, leathery, white
-- **Spore print**: White
+- **[[spore-print]]**: White
 - **Habitat**: Saprobic on dead hardwood (oak, beech, birch, maple); rarely on conifers
 - **Distribution**: Cosmopolitan — found on every continent except Antarctica
 
 ### Lookalikes
 
-- **False turkey tail (Stereum ostrea)**: Similar colors and shape but lacks pores — has a smooth, sterile undersurface. More orange tones. Not known to be toxic but lacks medicinal value.
-- **Trametes hirsuta**: Similar but uniformly gray-brown, less colorful zoning
-- **Fomes fomentarius**: Hoof-shaped, much thicker flesh, different growth form
+- **False turkey tail ([[stereum-ostrea]])**: Similar colors and shape but lacks pores — has a smooth, sterile undersurface. More orange tones. Not known to be toxic but lacks medicinal value.
+- **[[trametes-hirsuta]]**: Similar but uniformly gray-brown, less colorful zoning
+- **[[fomes-fomentarius]]**: Hoof-shaped, much thicker flesh, different growth form
 
 ### How to Distinguish
 
