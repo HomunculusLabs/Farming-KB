@@ -19,7 +19,7 @@ Drafty older houses, despite their thermal inefficiency, were remarkably effecti
 Modern construction practices have reversed this natural ventilation:
 
 - **Polymer wraps** create vapor barriers around the building envelope
-- **Hermetically sealed windows** eliminate the stachybotrys-chartarum]] became infamous following events in Cleveland, Ohio, where its toxic metabolites — macrocyclic trichothecenes — caused blood vessels to hemorrhage in the lungs of ten infants, one of whom died. The evidence of fungal responsibility was statistical: a comparison between children who suffered pulmonary hemorrhage and a control group of unaffected children of similar age showed that symptoms were associated with living in water-damaged homes infested with Stachybotrys.
+- **Hermetically sealed windows** eliminate the stachybotrys-chartarum became infamous following events in Cleveland, Ohio, where its toxic metabolites — macrocyclic trichothecenes — caused blood vessels to hemorrhage in the lungs of ten infants, one of whom died. The evidence of fungal responsibility was statistical: a comparison between children who suffered pulmonary hemorrhage and a control group of unaffected children of similar age showed that symptoms were associated with living in water-damaged homes infested with Stachybotrys.
 
 ### Reexamination of Infant Deaths
 

@@ -141,8 +141,6 @@ Seed saving is essential for small-scale grain independence. Select the best see
 
 Basic equipment includes a scythe or sickle for harvest, a threshing floor or tarp, and a winnowing basket or fan. For flour, home grain mills produce fresh flour that retains full nutritional value. Stone burr mills preserve nutrients best.
 
-## Home Grain Milling
-
 ## See Also
 
 - [[grain-cultivation-small-scale]]
@@ -150,4 +148,3 @@ Basic equipment includes a scythe or sickle for harvest, a threshing floor or ta
 - [[fukuoka-straw-rice-without-plowing]]
 - [[potato-cultivation-and-growing-guide]]
 - [[bill-mollison-permaculture-designers-manual]]
-

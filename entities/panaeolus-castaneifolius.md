@@ -21,7 +21,7 @@ compounds.
 - **Stem**: 40 to 60 (75) mm long by 3 to 4 (6) mm thick. Equal to more
   narrow towards the base. Hollow or tubular, and brittle. Grayish to
   ochraceous or tan at the base. Surface slightly striated, pruinose.
-- **chiric-caspi-brunfelsia-south-american-hallucinogen]] continents. It is possibly more widely
+- **chiric-caspi-brunfelsia-south-american-hallucinogen continents. It is possibly more widely
 distributed than currently reported in the literature. The species favors
 open grasslands, pastures, and meadows, often appearing alongside other
 Panaeolus species. It does not appear to be directly coprophilous, unlike

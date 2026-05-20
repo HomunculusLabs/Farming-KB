@@ -78,7 +78,7 @@ there is no category of land that anyone can freely work.
 Not one square yard of land that goes by the name of
 
 ## See Also
-- fukuoka-textdoc-farming-all-land-law-obstacles]]
+- fukuoka-textdoc-farming-all-land-law-obstacles
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
 - [[doc]]

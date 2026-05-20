@@ -14,7 +14,7 @@ tags: [fukuoka, fukuoka-rice-straw-mulch-central-technique to the fields is dece
 
 - When he asked Fukuoka why not, he was told that he had laid the straw down too tidily
 
-- One does not arrange the fukuoka-straw-mulch-system]].
+- One does not arrange the fukuoka-straw-mulch-system.
 
 ## The Composting Fallacy in Hokkaido
 

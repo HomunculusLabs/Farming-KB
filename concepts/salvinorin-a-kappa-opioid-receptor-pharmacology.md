@@ -114,7 +114,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- salvia-divinorum-salvinorin]]
+- salvia-divinorum-salvinorin
 - [[salvia-divinorum-salvinorin-a-pharmacology]]
 - [[salvinorin-a-entity]]
 - [[salvinorin-pharmacology]]

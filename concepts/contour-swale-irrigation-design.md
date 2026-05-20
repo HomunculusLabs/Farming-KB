@@ -33,7 +33,7 @@ wider sections are dug where soil is more permeable.
 ### Construction Methods
 
 Swales can be dug by hand with shovels, by small crawler tractors, or with
-larger advanced-earthmoving-equipment]] for broadscale applications. The most efficient
+larger advanced-earthmoving-equipment for broadscale applications. The most efficient
 hand-digging method uses two people: one with a broad shovel placed in the
 ground, the other pulling with a rope attached to the shovel neck. This
 rocking motion allows two people to throw up earth banks as fast as they can

@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Silybum_marianum"
---- Silybum marianum
+------ Silybum marianum
 Silybum marianum, commonly known as milk thistle, is a biennial or annual
 herbaceous plant in the family Asteraceae, native to the Mediterranean
 region and now naturalized worldwide. Renowned for its hepatoprotective
@@ -16,7 +16,7 @@ The active complex, silymarin, is extracted from the seeds and consists
 of several flavonolignans, primarily silybin (silibinin), which is the
 most biologically active constituent. Milk thistle is among the
 best-studied herbal medicines, with extensive clinical evidence supporting
-its use in liver disorders, and it also has applications in nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
+its use in liver disorders, and it also has applications in nutrient-dynamic-accumulator-reference:** Deep taproot mines calcium, potassium, and
   [[dynamic-accumulator-plants-trace-minerals]] from subsoil; leaves return these to surface soil when
   they decompose
 - **Pollinator Support:** Rich nectar source for bees and butterflies;

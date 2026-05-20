@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, fruiting-conditions-and-pinning
 ---
 
-- palmer-about-mushrooms-habitat-and-seasonal-guide]]
+- palmer-about-mushrooms-habitat-and-seasonal-guide
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

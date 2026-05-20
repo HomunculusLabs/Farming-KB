@@ -16,7 +16,7 @@ difficult for soil organisms to attack.
 
 ## The Slow Accumulation of Humus
 
-Since organisms cannot easily composting]] debris arrives at least as fast as the old
+Since organisms cannot easily composting debris arrives at least as fast as the old
 humus is broken down, resulting in a slow turnover and constant
 buildup of humus.
 

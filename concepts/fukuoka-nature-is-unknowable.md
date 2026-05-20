@@ -20,7 +20,7 @@ Thinking that he must climb a mountain to know it, the mountain climber climbs t
 
 - All this does is to blow up the conceptual notions of nature as interpreted by the natural sciences
 
-- The accumulation of fukuoka-nature-perfect-imperfect-philosophical-perspective]].
+- The accumulation of fukuoka-nature-perfect-imperfect-philosophical-perspective.
 
 - This is not the view that one sees from the summit after having climbed a mountain
 

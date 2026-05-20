@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-In his 1983 Esalen lecture, terence-mckenna]] articulated a distinctive ethical
+In his 1983 Esalen lecture, terence-mckenna articulated a distinctive ethical
 framework for engaging with the autonomous entities encountered under the
 influence of [[i-thou-relationship-hyperspace-entities-tryptamine]] — meeting the Other as an equal with dignity, skepticism,
 and open inquiry — rather than the genuflection and worship that such

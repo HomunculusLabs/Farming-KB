@@ -22,7 +22,7 @@ leaves that are harvested for their psychoactive properties.
 
 The leaves of Duboisia hopwoodii contain various psychoactive
 alkaloids including piturine, nicotine, nornicotine, and anabasine.
-The roots also contain nornicotine and acacia]] species) and other resins, then chewed as a quid. The addition
+The roots also contain nornicotine and acacia species) and other resins, then chewed as a quid. The addition
 of alkaline ashes facilitates the release and buccal absorption of the
 alkaloids, a preparation technique analogous to the addition of lime to
 coca leaves in [[betel-nut-arecoline-ethnobotany]], khat, or coca in other

@@ -37,7 +37,7 @@ stem, meaning they do not attach to it, which is one reason the stem
 leaves the cap so easily when pulled.
 
 The veil or web is an important anatomical feature. In young
-specimens, a membrane (the amanita-caesarea]], which has yellow gills)
+specimens, a membrane (the amanita-caesarea, which has yellow gills)
 - White, tasteless, nearly scentless flesh in young specimens
 - A stem free from the gills, surrounded near the top with a ring
   or apron

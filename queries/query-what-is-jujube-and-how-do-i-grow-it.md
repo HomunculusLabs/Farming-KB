@@ -6,14 +6,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# What Is Jujube (Chinese Date) and How Do I Grow It?
+------# What Is Jujube (Chinese Date) and How Do I Grow It?
 
 A comprehensive growing guide for one of the most underappreciated fruit trees
 in temperate and subtropical orchards.
 
 ## What Is Jujube?
 
-Jujube (*ziziphus-jujuba]]*), commonly known as the Chinese date, is a deciduous tree
+Jujube (*ziziphus-jujuba*), commonly known as the Chinese date, is a deciduous tree
 in the buckthorn family Rhamnaceae. It has been cultivated in China for over
 4,000 years, making it one of the oldest domesticated fruit species. The tree
 typically reaches 15–30 feet at maturity and features glossy green leaves with a

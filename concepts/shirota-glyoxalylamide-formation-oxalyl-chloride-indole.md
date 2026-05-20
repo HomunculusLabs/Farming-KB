@@ -20,7 +20,7 @@ The acylation of 4-acetylindole with oxalyl chloride exploits the well-known rea
 
 The 3-position of indole is the most nucleophilic site on the ring, and acylation at this position is a standard transformation in indole chemistry.
 
-Shirota and colleagues dissolved 4-acetylindole (17.6 g, 100 mmol) in anhydrous diethyl-ether]] (100 mL) with stirring in an ice bath.
+Shirota and colleagues dissolved 4-acetylindole (17.6 g, 100 mmol) in anhydrous diethyl-ether (100 mL) with stirring in an ice bath.
 
 Oxalyl chloride (13 mL, 146 mmol) was added to the solution.
 

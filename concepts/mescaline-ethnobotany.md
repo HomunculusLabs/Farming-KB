@@ -13,7 +13,7 @@ tags: [ethnobotany, peyote
 Schultes and Hofmann document mescaline as one of the most significant
 psychoactive alkaloids in the ethnobotanical record, occurring naturally in
 two major cactus genera used ceremonially across the Americas: Peyote
-(lophophora-williamsii]]) and [[mescaline-peyote-san-pedro-cactus]], [[ethnomycology]],
+(lophophora-williamsii) and [[mescaline-peyote-san-pedro-cactus]], [[ethnomycology]],
 [[aztec-entheogens]], [[mescaline-reference]], richard [[richard-evans-schultes-updated]] updated
 ## Practical Applications
 

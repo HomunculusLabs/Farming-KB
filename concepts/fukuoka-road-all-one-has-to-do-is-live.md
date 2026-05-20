@@ -111,7 +111,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- dom]]
+- dom
 - [[fukuoka-textdoc-one-thing-is-all-things-holism]]
 - [[fukuoka-road-man-does-not-live-by-bread-alone]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]

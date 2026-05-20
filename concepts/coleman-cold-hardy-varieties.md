@@ -34,7 +34,7 @@ tags: [cold-hardy-varieties, winter-vegetables, seed-varieties, heat-stress-cann
 - coleman-planting-schedules — Sowing dates for each variety
 ## Practical Applications
 
-Cold-Hardy arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+Cold-Hardy arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

@@ -9,7 +9,7 @@ the village after the fall harvest."
 ---
 
 The woodcutter's song, the transplanting songs, the harvest drums—these
-were not mere entertainment but the carriers of fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]]s and pesticides."
+were not mere entertainment but the carriers of fukuoka-textdoc-crops-grow-own-accord-independence-fertilizers and pesticides."
 
 The mechanization of farming did not merely change how crops were grown; it
 destroyed the cultural infrastructure through which wisdom was transmitted.

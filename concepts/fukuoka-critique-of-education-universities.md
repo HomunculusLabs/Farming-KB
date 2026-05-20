@@ -12,7 +12,7 @@ tags: [fukuoka, fukuoka-natural-farming was capable of yielding eight to twelve 
 
 - The pattern: first man creates unnatural and incomplete conditions, then develops technology to restore productivity, then brands this proudly as progress
 
-This connects to fukuoka-low-toxicity-pesticide-deception]]" does not mean only slightly toxic; it means toxicity not immediately apparent to the human eye
+This connects to fukuoka-low-toxicity-pesticide-deception" does not mean only slightly toxic; it means toxicity not immediately apparent to the human eye
 
 - This toxicity is difficult to discern through [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]]
 - [[fukuoka-critique-inductive-deductive]]

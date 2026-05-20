@@ -52,7 +52,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-dom]]
+dom
 - [[mycorrhiza]]
 - [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]]
 

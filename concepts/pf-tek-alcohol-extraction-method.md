@@ -6,7 +6,7 @@ tags: [pf-tek, extraction, cannabis-solvent-extraction in mycology communities a
 
 ## Materials Required
 
-- Quality dried dmt-containing-plants-united-states-halpern]]. Full-service liquor stores
+- Quality dried dmt-containing-plants-united-states-halpern. Full-service liquor stores
 supply hospitals and laboratories with this product. If a particular store does
 not carry it, the staff will typically know where it can be obtained.
 

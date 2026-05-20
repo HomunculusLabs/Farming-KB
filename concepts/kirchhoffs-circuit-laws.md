@@ -28,7 +28,7 @@ The circuit is represented as a graph of nodes and branches rather than as a ful
 
 This approximation works extremely well for power circuits, audio circuits, many control systems, and low-frequency electronics.
 
-At radio frequency, laws-of-thermodynamics]]
+At radio frequency, laws-of-thermodynamics
 
 ## Practical Applications
 

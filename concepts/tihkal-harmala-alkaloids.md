@@ -35,7 +35,7 @@ At 500 mg: "Intense and annoying visual disturbances, and complete collapse of m
 
 ### Harmaline Combined with DMT (Pharmahuasca)
 
-This is where harmaline's leary-psychedelic-experience-bardo-mapping]] at 80 minutes |
+This is where harmaline's leary-psychedelic-experience-bardo-mapping at 80 minutes |
 | 150 mg | 35 mg | "Highly effective MAO blocker" at the 35 mg DMT level |
 
 **Key finding**: 150 mg harmaline is highly effective as an MAO blocker, making as little as 35 mg DMT orally active. The effects are qualitatively different from either compound alone and can last 4+ hours.

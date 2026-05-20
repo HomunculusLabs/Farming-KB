@@ -8,7 +8,7 @@ tags: [succession-planting, crop-rotation, year-round-harvest, winter-succession
 - coleman-greenhouse-soil-management — Soil care between plantings
 ## Background and Context
 
-arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

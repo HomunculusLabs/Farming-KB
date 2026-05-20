@@ -19,7 +19,7 @@ The technical foundation of Coleman's winter-harvest system is the combination o
 - The double coverage also increases relative humidity, offering additional freeze protection
 
 ### Historical Origins
-The concept of an inner layer inside an unheated greenhouse was pioneered in the 1950s by Dr. Emery Myers Emmert (1900–62) at the University of Kentucky. Emmert is acknowledged as the father of plastic greenhouses in America, and his work with row covers, coleman-unheated-greenhouse-design]] — Outer layer (greenhouse) details
+The concept of an inner layer inside an unheated greenhouse was pioneered in the 1950s by Dr. Emery Myers Emmert (1900–62) at the University of Kentucky. Emmert is acknowledged as the father of plastic greenhouses in America, and his work with row covers, coleman-unheated-greenhouse-design — Outer layer (greenhouse) details
 - coleman-planting-schedules — When to apply/remove protection
 ## Practical Considerations
 

@@ -32,7 +32,7 @@ fraction of their potential value.
 Reusing greywater creates a tight cycle that uses far less
 energy. Water, food, and biodegradable soaps enter the
 household, mix with dirt and skin in shower and laundry, and
-flow into the soil or a ecological-gardening-principles]] attempts to restore the detritus cycle
+flow into the soil or a ecological-gardening-principles attempts to restore the detritus cycle
 to its rightful central role through deep mulches,
 [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
   shrubs, or use [[subsurface-irrigation]] with perforated leach

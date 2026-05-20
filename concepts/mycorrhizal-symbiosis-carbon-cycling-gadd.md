@@ -11,7 +11,7 @@ science.
 ## Types of Mycorrhizal Associations
 
 Several distinct types of mycorrhizal associations exist, each with
-different morphological characteristics and dighton-ericoid-mycorrhizal-nutrient-acquisition]] in
+different morphological characteristics and dighton-ericoid-mycorrhizal-nutrient-acquisition in
 different environmental contexts.
 
 ## Carbon Cycling and Sequestration

@@ -9,7 +9,7 @@ open front panel.
 ## Why Draft Prevention Matters
 
 Airborne contamination is the primary vector for failed inoculations.
-Bacterial endospores and arbuscular-mycorrhizal-inoculum-production-best-practices]] during inoculation:
+Bacterial endospores and arbuscular-mycorrhizal-inoculum-production-best-practices during inoculation:
 
 - Spray the interior and work area with disinfectant immediately before
   starting.

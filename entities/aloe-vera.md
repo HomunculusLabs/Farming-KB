@@ -26,7 +26,7 @@ uses. The distinction between the inner leaf gel and the outer leaf latex
   burn plant, first-aid plant, lily of the desert
 - **Etymology:** "Aloe" derives from Arabic "alloeh" (shining bitter
   substance); "vera" is Latin for "true" or "genuine"
-- **Taxonomic note:** Considerable oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide; extensively cultivated in
+- **Taxonomic note:** Considerable oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide; extensively cultivated in
 
 ## Overview
 

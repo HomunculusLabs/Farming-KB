@@ -5,7 +5,7 @@ tags: [farming, vegetables, winter-harvest, dandelion
 - coleman-cold-hardy-varieties winter vegetables
 ---
 
-- arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+- arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

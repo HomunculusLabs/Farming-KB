@@ -35,7 +35,7 @@ defined at the specific receptor level.
 
 ## Additional Medicinal Properties
 
-G. lucidum demonstrates a wide range of ganoderma-lucidum]]
+G. lucidum demonstrates a wide range of ganoderma-lucidum
 - [[serotonin]]
 - [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
 

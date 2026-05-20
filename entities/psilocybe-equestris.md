@@ -11,7 +11,7 @@ sources:
 
 ## Psilocybe equestris
 
-Psilocybe equestris is a bluing [[psilocybin]]]]-containing mushroom in the
+Psilocybe equestris is a bluing [[psilocybin]]-containing mushroom in the
 section Semilanceatae of the genus Psilocybe. It was described from
 European collections and is closely related to the well-known liberty
 cap, [[hplc-analysis-of-psilocybin-and-psilocin]] as its

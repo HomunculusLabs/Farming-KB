@@ -10,7 +10,7 @@ composting toilets as a fundamental permaculture technology.
 Mollison frequently pointed out that a single flush toilet contaminates
 approximately 13,000 liters of clean water per year to transport a few
 kilograms of human waste. The resulting sewage contains nitrogen,
-phosphorus, potassium, and fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
+phosphorus, potassium, and fukuoka-textdoc-agricultural-land-law-obstruction-return-farming.
 
 Instead, this nutrient stream is diluted, mixed with industrial
 chemicals, and discharged into waterways where it causes eutrophication
