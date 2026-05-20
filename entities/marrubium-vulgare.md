@@ -2,12 +2,12 @@
 title: "Marrubium vulgare"
 type: species
 tags:
+
   - lamiaceae
   - herbal-plant
   - medicinal-plant
   - childrens-herbal-medicine." 3rd ed. DK.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. MedPharm Scientific Publishers.
-  - Duke, J.A. (2002). "Handbook of query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions for over 2,000 years, documented by Dioscorides, Pliny the Elder, and later medieval herbalists for its potent respiratory and digestive properties.
+
 ---
 
 The species derives its common name from the Old English *harhune*, meaning "hoary plant," referring to the dense white woolly pubescence covering its stems and leaves.

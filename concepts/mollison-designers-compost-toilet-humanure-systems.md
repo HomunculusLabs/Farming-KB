@@ -2,11 +2,11 @@
 title: Mollison Designers Compost Toilet Humanure Systems
 created: 2026-04-28
 tags:
+
   - waste-recycling
   - sanitation
   - composting-systems
   - nutrient-cycling
-  - composting-toilet-systems systems represent a fundamental shift in how
 human waste is perceived and managed. In the humanure-composting is thermophilic (high-temperature)
 comparison-pruning-fruit-trees-vs-grafting-fruit-trees.
 type: concept

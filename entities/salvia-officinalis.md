@@ -8,6 +8,7 @@ aliases:
   - Culinary Sage
   - Dalmatian Sage
 tags:
+
   - herbal-plant
   - lamiaceae
   - salvia
@@ -17,7 +18,6 @@ tags:
   - antimicrobial
   - antioxidant
   - nootropic
-  - essential-oils-and-hydrosol-distillation polyphenolic compounds that confer antimicrobial, antioxidant, anti-inflammatory, and cognitive-enhancing properties.
 Unlike its psychoactive relative oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide and is a staple herb in European and Mediterranean cuisines.
 Dried sage leaves are widely used as a seasoning for poultry, pork, sausage, and stuffing, as well as in herbal teas and infusions.
 ---

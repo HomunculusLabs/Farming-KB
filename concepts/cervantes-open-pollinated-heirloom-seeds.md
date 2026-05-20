@@ -2,10 +2,10 @@
 title: Cervantes Open Pollinated Heirloom Seeds
 created: 2026-04-26
 tags:
+
   - cannabis
   - open pollination
   - heirloom
-  - vic-high-cannabis-genetics-mendelian-inheritance, predating modern hybrid
 biodiversity-fungal-genetic-diversity and allow
 growers to save their own seed, preserving valuable traits across
 generations.

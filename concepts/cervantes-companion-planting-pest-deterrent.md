@@ -2,8 +2,8 @@
 title: Cervantes Companion Planting Pest Deterrent
 created: 2026-04-26
 tags:
+
   - cannabis
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - pest-control
   - outdoor-growing
   - integrated-pest-management

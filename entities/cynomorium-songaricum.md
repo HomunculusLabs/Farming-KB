@@ -2,14 +2,12 @@
 title: "Cynomorium songaricum"
 type: species
 tags:
+
   - plants
   - cynomoriaceae
   - parasitic-plants
   - tcm
   - traditional-medicine
-  - guzman-magic-mushrooms-chemical-constituents of Cynomorium songaricum." Chemistry & Biodiversity, 11(1), 75-84.
-  - Wang, J. et al. (2012). "Pharmacological effects of Cynomorium songaricum." Journal of Ethnopharmacology, 142(3), 776-781.
-  - Lu, Y. et al. (2009). "Antioxidant activities of Cynomorium songaricum extracts." Food Chemistry, 112(4), 908-912.
 created: 2026-04-28
 ---
 

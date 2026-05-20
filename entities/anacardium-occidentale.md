@@ -3,12 +3,12 @@ title: "Anacardium occidentale"
 created: 2026-04-28
 type: species
 tags:
+
   - cashew
   - anacardiaceae
   - tropical-tree
   - agroforestry
   - nut-crop
-  - dighton-fungal-drought-tolerance-plant-water-relations, soil stabilization,
 and multi-product yield.
 ---
 

@@ -2,8 +2,8 @@
 title: Mckenna Archaic Paradise Techniques Ecstasy
 created: 2026-04-28
 tags:
+
   - entheogen
-  - mckenna-collective-gnosis-epigenetic-evolution-symbolic-storage lay behind the faith of earlier
 centuries in "universal truths" and common human values.
 type: concept
 ---

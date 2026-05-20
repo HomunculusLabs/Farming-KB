@@ -4,6 +4,7 @@ created: 2026-04-28
 updated: 2026-04-28
 type: species
 tags:
+
   - fungi
   - basidiomycota
   - polyporales
@@ -15,8 +16,7 @@ tags:
   - saprotroph
   - brown-rot
   - bracket-fungus
-  - bloomfield-fungal-biology-and-hyphal-growth 121(9): 798-824.
-  - Index Fungorum. "Lenzites betulina (L.) Fr." http://www.indexfungorum.org
+
 ---
 
 ## Lenzites betulina

@@ -1,6 +1,7 @@
 ---
 title: How to query how to process acorns for food for Food
 tags:
+
   - acorns
   - oak
   - wild-foods
@@ -8,7 +9,6 @@ tags:
   - food-processing
   - leaching
   - nutrition
-  - psilocybin-north-america-pacific-northwest, Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
 type: querie
 ---
 

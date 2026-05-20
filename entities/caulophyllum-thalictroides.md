@@ -3,15 +3,13 @@ title: "caulophyllum thalictroides"
 created: 2026-05-06
 type: species
 tags:
+
   - herbal-plant
   - berberidaceae
   - medicinal-plant
   - native-american-medicine
   - woodland-herb
-  - ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin.
-  - Felter, H.W. & Lloyd, J.U. (1898). "Caulophyllum." King's American Dispensatory.
-  - Low Dog, T. (2006). "Women's health in complementary and alternative medicine." Obstetrics and Gynecology Clinics, 33(3), 627-644.
-  - Upton, R. (2002). "Blue Cohosh Root." American Herbal Pharmacopoeia.
+
 ---
 
 ## Caulophyllum thalictroides

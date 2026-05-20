@@ -2,8 +2,8 @@
 title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Science in Permaculture
 created: 2026-04-28
 tags:
+
   - permaculture
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - allelopathy
   - mollison-designers
 date: 2026-04-25

@@ -2,9 +2,9 @@
 title: Apple Guild and Cool Climate Fruit Guilds
 created: 2026-04-28
 tags:
+
   - guild-design
   - fruit-trees
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - temperate-climate
   - polyculture
 date: 2026-04-25

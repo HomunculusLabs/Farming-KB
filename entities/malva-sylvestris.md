@@ -2,6 +2,7 @@
 title: "Malva sylvestris"
 type: species
 tags:
+
   - malvaceae
   - herbal-plant
   - medicinal-plant
@@ -10,9 +11,6 @@ tags:
   - anti-inflammatory
   - traditional-medicine
   - temperate-plant
-  - guzman-magic-mushrooms-chemical-constituents and biological activities of Malva sylvestris L." Journal of Ethnopharmacology, 71(1-2), 1-21.
-  - Gaspar, A.L.C. et al. (2014). "Malva sylvestris L." In: Handbook of Medicinal Plants. Nova Science Publishers.
-  - Barnes, J. et al. (2007). "Herbal Medicines." Pharmaceutical Press, 3rd edition.
 aliases:
   - Common Mallow
   - High Mallow
@@ -78,3 +76,5 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Malva sylvestris represents an important species with ongoing relevance in traditional and modern contexts.
+Research continues to validate traditional uses of Malva sylvestris across multiple disciplines.

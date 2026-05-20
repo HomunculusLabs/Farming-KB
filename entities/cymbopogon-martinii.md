@@ -2,11 +2,11 @@
 title: "Cymbopogon martinii"
 type: species
 tags:
+
   - aromatic-plant
   - essential-oil
   - medicinal-plant
   - fukuoka-illusions-of-natural-science, 6, 46-50.
-  - Pattanaik, S., Hota, D., Prajapati, S.C. & Pandey, S. (2011). "Pharmacological activities of Cymbopogon martinii (Roxb.) Wats: An overview." Pharmacognosy Reviews, 5, 71-75.
 created: 2026-04-28
 ---
 

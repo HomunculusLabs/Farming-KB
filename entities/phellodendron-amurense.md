@@ -2,6 +2,7 @@
 title: "Phellodendron amurense"
 type: species
 tags:
+
   - plants
   - rutaceae
   - medicinal-plants
@@ -9,7 +10,6 @@ tags:
   - berberine
   - bark-medicine
   - nitrogen-fixing
-  - blesching-cannabis-diabetes-mellitus-endocannabinoid-system." Journal of Ethnopharmacology 92(1): 1-21.
 created: 2026-04-28
 ---
 

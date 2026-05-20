@@ -2,7 +2,7 @@
 title: "Multi-Crop Planting and Intercropping Patterns"
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
-tags: [biointensive, intercropping, hamilton-geoffhamilton-nick-organic-gardening-companion-planting, multi-crop, jeavons]
+tags: [biointensive, intercropping, multi-crop, jeavons]
 type: concept
 updated: 2026-04-26
 ---

@@ -2,13 +2,13 @@
 title: shirota-4-hydroxyindole-acetyl-protection-experimental Route in tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis
 created: 2026-04-28
 tags:
+
   - psilocybin
   - psilocin
   - synthesis
   - organic-chemistry
   - 4-hydroxyindole
   - acetylation
-  - grass-seed-cultivation-of-psilocybe-mushrooms, commonly called "magic mushrooms." These compounds closely resemble the neurotransmitter serotonin (psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, serotonin is 5-hydroxytryptamine), and their hallucinogenic effects are probably caused by interference with normal brain serotonin actions. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law on June 6, 2002, reliable analytical methods became essential for law enforcement. Identification by morphological and microscopic analysis is difficult without experts, making chromatographic methods (TLC, GC, HPLC) the standard approach, all of which require pure reference compounds.
 type: concept
 ---
 

@@ -2,11 +2,11 @@
 title: Hofmann on hofmann mysticism meditation reality and Reality
 created: 2026-04-28
 tags:
+
   - mysticism
   - meditation
   - consciousness
   - philosophy-of-science
-  - fukuoka-the-one-straw-revolution-final-chapter of LSD: My Problem Child, Hofmann reveals the
 philosophical framework that guided his life's work. He cites the
 Gospel according to John, Chapter 14, where Jesus promises his
 disciples "another Comforter" and "the Spirit of truth" that "the

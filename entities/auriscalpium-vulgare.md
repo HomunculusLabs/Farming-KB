@@ -3,6 +3,7 @@ title: "Auriscalpium vulgare"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - basidiomycota
   - russulales
@@ -12,7 +13,6 @@ tags:
   - conifer-associated
   - temperate
   - tooth-fungus
-  - comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms that bears a spore-bearing
 hymenium of fine teeth on its upper surface, inverting the typical agaricoid pattern.
 ---
 

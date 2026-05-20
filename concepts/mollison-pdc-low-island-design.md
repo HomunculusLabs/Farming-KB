@@ -2,10 +2,10 @@
 title: Mollison Pdc Low Island Design
 created: 2026-04-28
 tags:
+
   - permaculture
   - islands
   - atoll-design
-  - permaculture-design Course classifies islands into two fundamental
 types with totally different origins and design challenges:
 type: concept
 ---

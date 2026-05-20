@@ -3,6 +3,7 @@ title: "Lactarius camphoratus"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - russulaceae
   - lactarius
@@ -13,7 +14,6 @@ tags:
   - foraging
   - autumn-fruiting
   - conifer-associated
-  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere and is notable for
 its distinctive sweet, curry-like or maple-syrup aroma that intensifies dramatically upon drying.
 ---
 

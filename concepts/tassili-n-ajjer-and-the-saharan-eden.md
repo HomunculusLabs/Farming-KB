@@ -2,13 +2,13 @@
 title: Tassili-n-Ajjer and the Saharan Eden
 created: 2026-04-28
 tags:
+
   - archaeology
   - Sahara
   - rock art
   - Neolithic
   - partnership culture
   - Natufian
-  - mckenna-catal-huyuk-natufian-link: A Neolithic Town in Anatolia. McGraw-Hill.
 type: concept
 ---
 

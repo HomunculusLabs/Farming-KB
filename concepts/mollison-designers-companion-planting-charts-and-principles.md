@@ -2,7 +2,7 @@
 title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Charts and Principles
 created: 2026-04-28
 tags:
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
+
   - plant-interactions
   - polyculture
   - guild-design

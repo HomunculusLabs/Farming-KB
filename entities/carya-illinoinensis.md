@@ -6,11 +6,11 @@ aliases:
   - "Pecan Nut"
   - "Illinois Nut"
 tags:
+
   - plants
   - juglandaceae
   - nut-tree
   - agroforestry
-  - dmt-containing-plants-united-states-halpern and northern Mexico.
 It is the most commercially important hickory species, cultivated
 primarily for its edible nuts, which are rich in monounsaturated fats,
 antioxidants, and minerals.

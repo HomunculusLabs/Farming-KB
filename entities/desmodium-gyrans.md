@@ -3,9 +3,9 @@ title: "Desmodium gyrans"
 created: 2026-04-28
 type: species
 tags:
+
   - fabaceae
   - leguminous-plant
-  - guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot
 leguminous shrub in the family Fabaceae. It is renowned for its rapid
 nastic movement — the small lateral leaflets oscillate continuously in
 response to stimuli including light, sound, temperature, and touch.

@@ -3,13 +3,13 @@ title: "Russula vesca"
 created: 2026-05-06
 type: species
 tags:
+
   - fungi
   - basidiomycota
   - russulaceae
   - russula
   - edible-mushroom
   - mycorrhizal
-  - jarrold-boil-a-bag-mushroom-cultivation-method in the family Russulaceae.
 It is one of the most widely consumed wild Russula species in emcdda-psilocybin-mushroom-species-and-identification.
 ---
 

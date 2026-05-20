@@ -2,14 +2,14 @@
 title: "Bufo Bufo"
 type: species
 tags:
+
   - amphibian
   - toad
   - anura
   - bufonidae
   - europe
   - bufotoxin
-  - mycorrhizal-agricultural-practices on amphibians." In: Amphibians, Reptiles and the British Countryside. JNCC.
-  - IUCN Red List (2009). "Bufo bufo." https://www.iucnredlist.org/species/54588/16942364
+
 ---
 
 ## Overview

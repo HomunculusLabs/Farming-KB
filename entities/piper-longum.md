@@ -2,14 +2,13 @@
 title: "Piper longum"
 type: species
 tags:
+
   - piperaceae
   - herbal-plant
   - ayurveda
   - long-pepper
   - bioavailability-enhancer
   - traditional-medicine
-  - guzman-magic-mushrooms-chemical-constituents and bioactivities of Piper longum.\" The American Journal of Chinese Medicine 46(02): 269-296."
-  - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:825063-1"
 aliases:
   - Long Pepper
   - Pipli

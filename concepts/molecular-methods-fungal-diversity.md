@@ -2,7 +2,8 @@
 title: Molecular Methods Fungal Diversity
 created: 2026-04-28
 tags:
-  - biodiversity-fungal-genetic-diversity of remaining organisms increases.
+
+
 Historically, determining the species diversity of fungi has been
 complicated by our inability to culture many fungi, the ephemeral
 nature of sporocarp production, and intraspecific variation in fungal

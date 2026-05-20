@@ -2,11 +2,12 @@
 title: "Camassia quamash"
 type: species
 tags:
+
   - asparagaceae
   - geophyte
   - food-crop
   - native-american
-  - fukuoka-western-root-vegetable-deficiency Complex." Journal of Ethnobiology 3(2): 133–137.
+
 ---
 
 ## Overview

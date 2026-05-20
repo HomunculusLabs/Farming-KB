@@ -3,6 +3,7 @@ title: "Boletus aereus"
 created: 2026-05-06
 type: species
 tags:
+
   - fungi
   - basidiomycota
   - boletales
@@ -15,7 +16,6 @@ tags:
   - foraging
   - wild-mushrooms
   - mycology.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "edible-wild-mushrooms-by-region in Italy, France, and Spain, where it is gathered for
 both fresh market and processing into dried products.
 ---
 

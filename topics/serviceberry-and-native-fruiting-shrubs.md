@@ -1,7 +1,8 @@
 ---
 title: Serviceberry and Native Fruiting Shrubs
 tags:
-  - drought-tolerant-planting-design once established but perform air-pollution-fungal-community-responses, and a range of soil types.
+
+
 
 **Planting:** Plant in spring or early fall. Dig a hole twice the root ball width but no deeper than the root flare. Space 6–12 feet apart for hedgerows, 12–20 feet for specimen trees. Water deeply at planting and mulch with 2–3 inches of wood chips or shredded bark, keeping mulch away from the trunk.
 

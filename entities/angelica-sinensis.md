@@ -3,12 +3,12 @@ title: "angelica sinensis"
 created: 2026-05-06
 type: species
 tags:
+
   - herbal-plant
   - apiaceae
   - medicinal-plant
   - traditional-chinese-medicine
   - women's-health
-  - medicinal-mushroom-extraction-bioactive-compounds It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
 ---

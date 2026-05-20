@@ -3,13 +3,14 @@ title: "Pistacia lentiscus"
 created: 2026-04-28
 type: species
 tags:
+
   - anacardiaceae
   - evergreen-shrub
   - mastic-tree
   - resin
   - medicinal-plant
   - mediterranean
-  - panax-ginseng, and role in fungal-species-estimation-methods-total-diversity
+
 ---
 
 ## Overview

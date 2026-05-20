@@ -2,13 +2,13 @@
 title: The Fallacy of fukuoka textdoc fallacy infinite nutritional analysis Analysis
 created: 2026-04-28
 tags:
+
   - fukuoka
   - nutrition
   - food-science
   - diet
   - reductionism
   - philosophy
-  - fukuoka-natural-foods-movement-america suggests that this instinctive wisdom remains intact — waiting to be trusted again.
 type: concept
 ---
 

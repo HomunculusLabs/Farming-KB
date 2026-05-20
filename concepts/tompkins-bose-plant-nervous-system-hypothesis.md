@@ -2,10 +2,10 @@
 title: Bose and the Plant Nervous System Hypothesis
 created: 2026-04-28
 tags:
+
   - plant-neurobiology
   - bose
   - electrophysiology
-  - chamovitz-plant-scent-communication-volatile-organic-compounds Nervous System Hypothesis
 type: concept
 ---
 

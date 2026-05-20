@@ -3,10 +3,10 @@ title: Ethylone
 created: 2026-04-28
 type: chemical
 tags:
+
   - psychedelic
   - entactogen
-  - cytochrome-p450-enzymes-drug-metabolism and Disposition, 2014.
-  - Palmer RB, et al. "Case series of novel psychoactive substance toxicity." Clinical Toxicology, 2015.
+
 ---
 
 ## Ethylone

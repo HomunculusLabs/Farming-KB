@@ -2,12 +2,10 @@
 title: "Parkia biglobosa"
 type: species
 tags:
+
   - agroforestry
   - multi-purpose-tree
   - nitrogen-fixing
-  - clarke-marijuana-botany-sex-determination-reproductive-biology and Economic Potential of Parkia (Leguminosae: Mimosoideae)." Advances in Legume Systematics 1: 191-220.
-  - Campbell BM (1987). "The Use of Wild Fruits in Zimbabwe." Economic Botany 41(3): 375-385.
-  - Leakey RRB et al. (2005). "Agroforestry Tree Products: Targeting Poverty Reduction and Enhanced Livelihoods." International Journal of Agricultural Sustainability 3(1): 1-23.
 created: 2026-05-07
 ---
 ## Overview

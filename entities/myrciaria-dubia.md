@@ -3,10 +3,10 @@ title: "Myrciaria dubia"
 created: 2026-05-06
 type: species
 tags:
+
   - myrtaceae
   - superfruit
   - vitamin-c
-  - dighton-fungal-nutritional-composition-animal-diets and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
   - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
   - Akter, M.S. et al. (2011). "Camu-Camu: Composition medicinal-mushroom-compounds-and-health-benefits."

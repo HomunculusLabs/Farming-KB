@@ -2,7 +2,8 @@
 title: "Soil mollison soil formation rates and erosion costs and the Cost of Erosion"
 created: 2026-04-26
 tags:
-  - carbon-dioxide-retention-jar-lid-mushroom-cultivation, which is
+
+
   lost to the atmosphere.
 - Burning vegetation is worse than tillage, producing terpenes,
   creosotes, nitrogen, and dust particles alongside rapid humus loss.

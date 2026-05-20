@@ -3,6 +3,7 @@ title: Russula cyanoxantha (Charcoal Burner)
 created: 2026-04-28
 type: species
 tags:
+
   - russulaceae
   - edible-mushroom
   - mycorrhizal
@@ -12,7 +13,6 @@ tags:
   - temperate-forest
   - mild-flavor
   - beginner-friendly
-  - bloomfield-boletus-satanus-edible-mushroom-hazards in the Russulaceae family. It is considered one of
 the finest edible species in the large genus *Russula*, prized for its mild,
 nutty flavor and firm texture that holds up well to cooking. Found across Europe,
 Asia, and ectomycorrhizal-associations primarily with oaks

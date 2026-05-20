@@ -2,10 +2,10 @@
 title: "holmgren consumer addiction and hedonic treadmill and the Hedonic Treadmill"
 created: 2026-04-26
 tags:
+
   - consumption
   - addiction
   - ethics
-  - arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 type: concept
 ---

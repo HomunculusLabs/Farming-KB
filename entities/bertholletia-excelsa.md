@@ -2,10 +2,9 @@
 title: "Bertholletia excelsa"
 type: species
 tags:
+
   - tree
   - tropical
-  - mycelium-running-conservation-biology-and-fungi, 17(5), 1222-1232.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:639788-1
 created: 2026-04-28
 ---
 

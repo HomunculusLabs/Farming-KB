@@ -2,9 +2,9 @@
 title: Mind Body Medicine Emotional Molecules
 created: 2026-04-28
 tags:
+
   - mind-body-medicine
   - neurotransmitters
-  - cannabis-health-index." North Atlantic Books, 2015. Chapter II.
 type: concept
 ---
 

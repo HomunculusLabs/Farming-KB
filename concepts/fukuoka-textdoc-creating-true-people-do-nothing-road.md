@@ -2,10 +2,10 @@
 title: Fukuoka Textdoc Creating True People Do Nothing Road
 created: 2026-04-28
 tags:
+
   - fukuoka
   - spiritual-philosophy
   - farming-for-all
-  - fukuoka-the-one-straw-revolution-final-chapter of "The Natural Way of Farming," emcdda-return-to-nature-megatrend-mushroom-appeal and
 farming, Fukuoka detects a profound sense of futility. It is something
 like scooping up duckweed floating on the surface of a pond and watching
 it slip through one's fingers. Between the producer and consumer, both

@@ -2,11 +2,11 @@
 title: Dominance, cervantes dominance recessive traits alleles, and Alleles in Cannabis
 created: 2026-04-26
 tags:
+
   - cannabis
   - genetics
   - breeding
   - alleles
-  - vic-high-cannabis-genetics-mendelian-inheritance of a single gene trait.
 type: concept
 ---
 

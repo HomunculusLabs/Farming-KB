@@ -2,8 +2,8 @@
 title: Hamilton comparison-companion-planting-reference-vs-jadam-monoculture-critique Techniques
 created: 2026-04-28
 tags:
+
   - organic-gardening
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - pest-control
   - biodiversity
   - planting-strategies

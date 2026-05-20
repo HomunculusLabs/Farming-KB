@@ -2,10 +2,10 @@
 title: "Plants Of The Gods Erythroxylum Coca"
 created: 2026-04-28
 tags:
+
   - ethnobotany
   - coca
   - erythroxylum
-  - green-cannabis-grow-bible-pre-flowering-and-sexing-plants of South
 America. Along with Tobacco, Coca rose to exalted positions in
 the sacred native pharmacopoeias. In the Andean world, Coca has
 been cultivated and revered for millennia. The plant is so deeply

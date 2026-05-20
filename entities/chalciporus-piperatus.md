@@ -3,12 +3,11 @@ title: "Chalciporus piperatus"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - boletaceae
   - boletales
-  - growing-gourmet-north-american-reishi-species Boletes." Syracuse University Press.
-  - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Royal Botanic Gardens, Kew.
-  - Klofac, W. (2011). "The genus Chalciporus (Boletales) — a review." Österreichische Zeitschrift für Pilzkunde, 20, 31–44.
+
 ---
 
 ## Chalciporus piperatus

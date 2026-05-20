@@ -2,11 +2,11 @@
 title: Plants Of The Gods Datura Species Toloache
 created: 2026-04-28
 tags:
+
   - ethnobotany
   - datura
   - solanaceae
   - tropane-alkaloids
-  - scopolamine, datura-innoxia. This is the famous Toloache of Mexico,
 one of the plants of the gods among the Aztecs and other Indians.
 type: concept
 ---

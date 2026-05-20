@@ -3,10 +3,11 @@ title: "Vaccinium myrtillus"
 created: 2026-04-28
 type: species
 tags:
+
   - herbal-plant
   - ericaceae
   - superfood
-  - psilocybin-north-america-pacific-northwest, it is one of the most economically important wild-harvested berries globally.
+
 ---
 
 Renowned for exceptionally high anthocyanin content (300–700 mg/100 g 

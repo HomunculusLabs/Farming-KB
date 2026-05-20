@@ -3,13 +3,13 @@ title: "Pennywise"
 created: 2026-04-28
 type: strain
 tags:
+
   - cannabis
   - high-cbd
   - indica-dominant
   - medical
   - ptsd
   - anti-anxiety
-  - blesching-cannabis-strain-selection-receptor-targeting bred by TGA Subcool
 Seeds, created by crossing Harlequin with beta-caryophyllene-entourage-effects-cannabis of both compounds without overwhelming THC
 intoxication.
 ---

@@ -2,9 +2,9 @@
 title: micronutrient-deficiency-symptoms and Chelation in Cannabis
 created: 2026-04-26
 tags:
+
   - cannabis
   - micronutrients
-  - cannabis cannabis-nutrient-deficiency-and-toxicity-guide query-what-are-the-most-common-cannabis-nutrient-deficiencies three most common micronutrients found
 deficient. Deficiencies of all three plague many more grow rooms than
 expected. Often deficiencies of all three occur concurrently, especially
 when soil or water pH is above 6.5. Deficiencies are most common in arid

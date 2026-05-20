@@ -2,8 +2,8 @@
 title: "Nephroma arcticum"
 type: species
 tags:
+
   - lichen
-  - lichens of British Columbia." Royal BC Museum, Victoria.
   - URL: https://www.lichenportal.org/
 created: 2026-04-28
 ---

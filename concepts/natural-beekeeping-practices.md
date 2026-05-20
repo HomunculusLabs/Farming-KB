@@ -2,9 +2,9 @@
 title: Natural Beekeeping Practices
 created: 2026-04-26
 tags:
+
   - beekeeping
   - pollination
-  - comparison-sepp-holzer-vs-biodynamic considers bees the most important insects for human survival.
 Without bees, pollination of crops fails and humans follow. His natural
 beekeeping approach contrasts sharply with industrial methods that he argues
 are causing the massive collapse of bee populations worldwide. The approach

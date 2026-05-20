@@ -2,10 +2,10 @@
 title: "Melanoleuca cognata"
 type: species
 tags:
+
   - fungi
   - agaricales
   - tricholomataceae
-  - fungal-microscopic-examination-mounting-media-techniques for
 reliable identification.
 ---
 

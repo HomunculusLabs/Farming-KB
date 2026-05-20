@@ -3,13 +3,13 @@ title: "Eucommia ulmoides"
 created: 2026-04-28
 type: species
 tags:
+
   - herbal-plant
   - tcm
   - du-zhong
   - medicinal-tree
   - adaptogen
   - anti-hypertensive
-  - coleman-overwintered-onions-and-early-spring-crops before
 leaf emergence.
 ---
 

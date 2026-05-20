@@ -2,9 +2,8 @@
 title: "4-PO-DMT"
 type: chemical
 tags:
-  - brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting." Journal of Basic Microbiology, 29(5): 347-352.
-  - Shulgin A, Shulgin A (1997). "TIHKAL: The Continuation." Transform Press.
-  - Speeter MM, Anthony WC (1954). "Analogs of bufotenine." Journal of the
+
+
     American Chemical Society, 76(22): 5889-5891.
   - Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A (2008).
     "The pharmacology of psilocybin." Addiction Biology, 13(3-4): 263-278.

@@ -1,7 +1,7 @@
 ---
 title: Fungal antifungal-secondary-metabolites-coprophilous-fungi and Antibiotic Production
 created: 2026-04-28
-tags: [mycology, antifungal-secondary-metabolites-coprophilous-fungi, antibiotics, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, fungal chemistry]
+tags: [mycology, antibiotics, fungal chemistry]
 date: 2026-04-28
 updated: 2026-05-09
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]

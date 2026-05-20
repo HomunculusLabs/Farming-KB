@@ -2,13 +2,12 @@
 title: "Vitis vinifera"
 type: species
 tags:
+
   - vitaceae
   - grape
   - viticulture
   - permaculture
-  - amanita-muscaria-ancient-wine-question: The Search for the Origins of Viniculture." Princeton University Press.
-  - Yang J., Martin I., Martin C. (2009). "Production of resveratrol and its derivatives in grape cell cultures." Methods in Molecular Biology.
-  - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit uncommon-specialty-fruit-crops-for-permaculture crops for permaculture.
+
 ---
 
 Beyond its fruit, grape leaves, seeds, and skins are rich sources of polyphenolic compounds with documented antioxidant and anti-inflammatory properties.

@@ -3,11 +3,11 @@ title: "Terfezia claveryi"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - desert-truffle
   - ectomycorrhizal
   - edible-fungi
-  - desert-truffles of the Kingdom of Saudi Arabia." Mycotaxon, 46, 187-194.
 aliases:
   - desert truffle
   - terfez

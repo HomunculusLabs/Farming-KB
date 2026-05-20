@@ -2,12 +2,12 @@
 title: "Rubus fruticosus"
 type: species
 tags:
+
   - rosaceae
   - berry-fruit
   - edible-plant
   - medicinal-plant
-  - query-what-are-the-main-bioactive-compounds-in-medicinal-plants of blackberries (Rubus spp.)." Food Research International, 140, 109917.
-  - Sarma, A.D. & Sharma, R. (1999). "Anthocyanin-DNA Copigmentation Complexes." Journal of Biosciences, 24(1), 37-41.
+
 ---
 
 ## Overview

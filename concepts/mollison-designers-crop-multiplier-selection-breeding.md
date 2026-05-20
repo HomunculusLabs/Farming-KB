@@ -2,11 +2,11 @@
 title: Mollison Designers Crop Multiplier Selection Breeding
 created: 2026-04-28
 tags:
- - seed-saving
- - plant-breeding
- - genetic-diversity
- - local-adaptation
- - green-cannabis-grow-bible-seed-selection-and-seed-banks saving. Rather than depending on commercial
+
+  - seed-saving
+  - plant-breeding
+  - genetic-diversity
+  - local-adaptation
 seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively
 from these elite performers to progressively improve their crop populations

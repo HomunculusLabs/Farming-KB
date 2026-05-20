@@ -1,13 +1,13 @@
 ---
 title: Baby Leaf coleman salad mix quality standards aact-compost-quality-standards-ingham and Composition
 tags:
+
   - farming
   - winter-harvest
   - salad-production
   - quality-standards
   - mesclun
   - organic-farming
-  - coleman-claytonia-winter-harvest-cultivation system. query-how-do-i-manage-heat-stress-in-my-cannabis-garden
 - The deep red color of 'Bull's Blood' beet leaves intensifies under cold stress
 - All ingredients maintain the delicate textures expected of baby leaves
 - Leaves grow more slowly, producing denser, more flavorful foliage

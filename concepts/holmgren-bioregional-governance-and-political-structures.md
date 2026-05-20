@@ -2,9 +2,9 @@
 title: "holmgren bioregional governance and political structures and Political Structures"
 created: 2026-04-26
 tags:
+
   - bioregionalism
   - governance
-  - holmgren-community-design-and-intentional-communities,
 arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 type: concept

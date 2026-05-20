@@ -2,13 +2,10 @@
 title: "Lycopodium clavatum"
 type: species
 tags:
+
   - lycophyte
   - pteridophyte
   - medicinal-plant
-  - growing-gourmet-north-american-reishi-species Lycopodiaceae." American Fern Journal 82(4): 180–190.
-  - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
-  - Valiño, F. et al. (2012). "Lycopodium alkaloids: occurrence and bioactivities." Phytochemistry Reviews 11(4): 467–482.
-  - Hart, J.A. (1997). "Traditional uses of Lycopodium clavatum." Journal of Ethnopharmacology 56(2): 119–124.
 created: 2026-05-07
 ---
 

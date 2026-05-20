@@ -1,7 +1,7 @@
 ---
 title: mushroom super spawning stamets and Active Mycelium Techniques
 created: 2026-04-28
-tags: [mycology, spawn, gottlieb-psilocybin-cultivation-bulk-substrate-preparation, inoculation, stamets]
+tags: [mycology, spawn, inoculation, stamets]
 date: 2026-04-25
 updated: 2026-05-09
 sources: ["the-mushroom-cultivator-stamets.md"]

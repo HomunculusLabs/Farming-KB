@@ -3,11 +3,11 @@ title: "Ilex guayusa"
 created: 2026-04-28
 type: species
 tags:
+
   - guayusa
   - herbal-plant
   - stimulant
   - theobromine
-  - ayahuasqueros-amazonian-shamans, guayusa has rapidly emerged as a global
 specialty beverage ingredient since the 2010s, cultivated primarily by Indigenous
 farming communities in Ecuador.
 ---

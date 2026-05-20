@@ -3,12 +3,11 @@ title: "Gyroporus cyanescens"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - boletaceae
   - edible-mushroom
-  - dmt-containing-plants-united-states-halpern.\" Mycotaxon, 120, 473-488."
-  - "Kuo, M. (2024). Gyroporus cyanescens. MushroomExpert.com."
-  - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
+
 ---
 
 ## Gyroporus cyanescens (*Gyroporus cyanescens* (Bull.) Quélet)

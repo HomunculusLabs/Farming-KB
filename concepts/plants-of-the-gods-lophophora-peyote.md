@@ -2,9 +2,9 @@
 title: Plants Of The Gods Lophophora Peyote
 created: 2026-04-28
 tags:
+
   - ethnobotany
   - peyote
-  - lophophora-williamsii is usually blue-green with from 5 to 13
 ribs and normally straight furrows. It has up to 30 alkaloids,
 primarily mescaline, as well as further psychoactive
 phenylethylamines and isoquinolines. L. diffusa has a gray-green,

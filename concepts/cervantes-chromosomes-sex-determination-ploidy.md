@@ -2,11 +2,11 @@
 title: Cervantes Chromosomes Sex Determination Ploidy
 created: 2026-04-26
 tags:
+
   - cannabis
   - genetics
   - chromosomes
   - ploidy
-  - cervantes-feminized-seed-production. This is because no Y chromosome
 exists in either parent, so no male offspring can be produced.
 type: concept
 ---

@@ -2,9 +2,9 @@
 title: "Peziza vesiculosa"
 type: species
 tags:
+
   - fungi
   - ascomycetes
-  - hamilton-composting-and-organic-matter-management. The species is
 recognizable by its brown, cup-shaped apothecia with a distinctly wrinkled
 or blistered inner surface. Though widely distributed, it is not considered
 culinary due to its small size and tough texture.

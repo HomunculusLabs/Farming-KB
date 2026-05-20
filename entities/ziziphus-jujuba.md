@@ -2,10 +2,11 @@
 title: "Ziziphus jujuba"
 type: species
 tags:
+
   - tree
   - herbal
   - medicinal
-  - comparison-pruning-fruit-trees-vs-grafting-fruit-trees in East and South Asia.
+
 ---
 
 Its fruits are consumed fresh, dried, candied, and as a key ingredient in traditional Chinese medicine formulations.

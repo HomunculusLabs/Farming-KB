@@ -4,7 +4,7 @@ created: 2026-04-26
 author: John Jeavons
 sources: How to Grow More Vegetables, 8th edition
 book: How to Grow More Vegetables
-tags: [biointensive, hamilton-geoffhamilton-nick-organic-gardening-companion-planting, intercropping, crop-rotation, plant-relationships]
+tags: [biointensive, intercropping, crop-rotation, plant-relationships]
 type: concept
 updated: 2026-04-26
 ---

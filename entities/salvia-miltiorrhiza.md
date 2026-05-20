@@ -3,6 +3,7 @@ title: "Salvia miltiorrhiza"
 created: 2026-04-28
 type: species
 tags:
+
   - lamiaceae
   - herbal-plant
   - tcm
@@ -14,8 +15,7 @@ tags:
   - medicinal-plant
   - anti-inflammatory
   - nootropic
-  - childrens-herbal-medicine." Natural Product Reports, 24, 1-13.
-  - Li, L.N. (1998). "Biologically active components from traditional Chinese medicines." Pure and Applied Chemistry, 70(3), 547-554.
+
 ---
 
 ## Overview

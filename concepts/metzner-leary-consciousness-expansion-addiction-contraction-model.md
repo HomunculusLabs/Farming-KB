@@ -1,11 +1,11 @@
 ---
 title: "Metzner Leary Consciousness Expansion Addiction Contraction Model"
 tags:
+
   - contraction-expansion-addiction-model
   - addiction
   - psychedelics
   - leary
-  - metzner-addiction-transcendence-consciousness-expansion-as-antidote
 of psychedelic states with the narrowed, fixated awareness typical of narcotic
 addictions and obsessive-compulsive patterns.
 type: concept

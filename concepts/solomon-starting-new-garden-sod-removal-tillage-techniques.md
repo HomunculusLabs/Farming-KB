@@ -2,7 +2,7 @@
 title: Solomon Starting New Garden Sod Removal Tillage Techniques
 source: Gardening When It Counts (steve-solomon, 2005)
 source_path: raw/raw/papers/gardening-when-it-counts-steve-solomon.md
-tags: [gardening, new-garden, sod-removal, rototilling, bed-preparation, solomon-starting-new-garden-sod-clay-soil|soil-preparation, solomon, raised-beds, self-sufficiency]
+tags: [gardening, new-garden, sod-removal, rototilling, bed-preparation, solomon, raised-beds, self-sufficiency]
 ---
 
 ## Starting a New Garden — Sod Removal, Tillage, and Bed Preparation

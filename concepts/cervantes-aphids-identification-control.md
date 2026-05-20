@@ -2,10 +2,10 @@
 title: "Cervantes Aphids Identification Control"
 created: 2026-04-28
 tags:
+
   - cannabis
   - pest-control
   - aphids
-  - query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget
 pests. Their rapid reproduction and ability to vector viruses
 make them a serious threat to any garden.
 type: concept

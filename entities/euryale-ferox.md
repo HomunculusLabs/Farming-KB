@@ -4,8 +4,8 @@ created: 2026-04-28
 updated: 2026-04-28
 type: species
 tags:
+
   - aquatic-plant
-  - bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation:** Covered in sharp, flexible prickles on both sides —
   the most distinctive morphological feature
 - **Petioles:** Thick, spongy, 1–3 m long, anchored in substrate
 - **Roots:** Fibrous system in muddy bottom; spread covers 1–3 m²

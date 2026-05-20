@@ -3,6 +3,7 @@ title: "termitomyces eurhizus"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - agaricales
   - lyophyllaceae
@@ -11,8 +12,7 @@ tags:
   - tropical
   - africa
   - asia
-  - accessible-mushroom-cultivation-for-disabilities: enterprise-development-mushroom-growers. TOOL Publications.
-  - De Fine Licht, H.H. et al. (2005). "The termite fungus comb." Insectes Sociaux, 52(3), 247-254.
+
 ---
 ## Termitomyces eurhizus
 

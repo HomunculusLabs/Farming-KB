@@ -2,11 +2,11 @@
 title: "Aboriginal Land Management and Edge in Cultivated Landscapes"
 created: 2026-04-26
 tags:
+
   - aboriginal
   - fire-stick-farming
   - edge-effect
   - landscape
-  - forest-edge-windbreak-rainfall-compression, intersecting
 crop and pasture land. Drainage and irrigation channels, ponds, and dams all
 increase the land-water interface. The change from small-scale intensive systems
 to large-scale monocultures eliminated much of this landscape complexity in edges,

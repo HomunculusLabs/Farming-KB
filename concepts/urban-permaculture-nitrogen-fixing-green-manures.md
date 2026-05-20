@@ -3,7 +3,7 @@ title: Nitrogen-Fixing Green Manures
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [comparison-permaculture-tuber-crops-vs-bean-growing-guide|permaculture], gardening, urban-agriculture]
+tags: [gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 Updated: 2026-04-18

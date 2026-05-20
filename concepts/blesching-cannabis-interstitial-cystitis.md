@@ -2,11 +2,11 @@
 title: "Cannabis and Interstitial Cystitis"
 created: 2026-04-26
 tags:
+
   - cannabis
   - interstitial-cystitis
   - bladder-health
   - chronic-pain
-  - cannabis-health-index, IC presents with chronic burning bladder pains due to
 inflammation and thinning of the urinary bladder lining. The condition belongs
 to a broader category of bladder and urinary conditions explored in the source
 text.

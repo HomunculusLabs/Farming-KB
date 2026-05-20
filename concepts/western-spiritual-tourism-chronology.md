@@ -6,10 +6,10 @@ sources:
   - "raw/papers/stuart-r-ayahuasca-tourism.md"
 type: concept
 tags:
+
   - spirituality
   - tourism
   - western-culture
-  - ayahuasca-tourism-western-seekers-and-integration have pursued alternative spiritual traditions
 outside their Judeo-Christian heritage for decades, each
 generation gravitating toward a different imported tradition.
 This chronological pattern reveals persistent cultural

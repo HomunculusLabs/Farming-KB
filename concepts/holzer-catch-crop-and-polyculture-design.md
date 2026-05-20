@@ -2,8 +2,8 @@
 title: holzer catch crop and polyculture design and aquatic-polyculture-design-mollison
 created: 2026-04-26
 tags:
+
   - polyculture
-  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - soil-building
   - holzer-method
 date: 2026-04-25

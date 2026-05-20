@@ -2,9 +2,9 @@
 title: Zygomycota Phylogeny and Classification - Non-Monophyletic Lineages
 created: 2026-04-26
 tags:
+
   - zygomycota
   - phylogeny
-  - bloomfield-cordyceps-insect-pathogens-behavior with distinctive
   forcibly discharged conidia
 - **Trichomycetes (Harpellales)**: gut commensals of
   arthropods, excluding Amoebidiales

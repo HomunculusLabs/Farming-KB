@@ -2,10 +2,9 @@
 title: "Cladonia fimbriata"
 type: species
 tags:
+
   - lichen
-  - lichens of fungi-in-the-environment-lichen-biology*. 2nd ed. Cambridge University Press.
-  - Hammer S (1995). "Cladonia." In: *Lichen Flora of the Greater Sonoran Desert Region* 1: 115-147.
-  - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
+
 ---
 
 ## Overview

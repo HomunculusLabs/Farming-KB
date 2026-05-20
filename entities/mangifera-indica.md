@@ -3,12 +3,11 @@ title: "Mangifera indica"
 created: 2026-04-28
 type: species
 tags:
+
   - mango
   - anacardiaceae
   - tropical-fruit
   - agroforestry
-  - query-what-are-the-main-bioactive-compounds-in-medicinal-plants Foods. Wiley-Blackwell, 89-115.
-  - Singh, R. et al. (2013). "Mangifera indica: uncommon-specialty-fruit-crops-for-permaculture crops for permaculture globally, with annual production exceeding 55 million
 tonnes. India alone accounts for approximately 45% of world production.
 ---
 

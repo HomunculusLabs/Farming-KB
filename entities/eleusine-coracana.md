@@ -2,12 +2,13 @@
 title: "Eleusine coracana"
 type: species
 tags:
+
   - plant
   - cereal
   - millet
   - poaceae
   - african-crop
-  - psilocybe-cubensis-miniculture-production-data-and-flush-longevity." fao.org/faostat.
+
 ---
 
 ## Eleusine coracana

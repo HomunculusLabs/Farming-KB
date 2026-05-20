@@ -2,8 +2,8 @@
 title: Harner Sharanahua Visions And Cures
 created: 2026-04-28
 tags:
+
   - anthropology
-  - fly-agaric-siberian-shamanic-practice. The Sharanahua case, as described by Janet
 Siskind, is particularly significant for understanding how cultural
 factors shape the hallucinogenic experience and contribute to therapeutic
 outcomes.

@@ -2,7 +2,8 @@
 title: bloomfield sudden oak death phytophthora species diversity Death and Phytophthora Species Diversity
 created: 2026-04-28
 tags:
-  - bloomfield-potato-blight-phytophthora-infestans, is the most infamous member of the genus, more
+
+
 than fifty species of Phytophthora are recognized, and they
 infect almost every kind of broad-leaved plant. Among the most
 alarming of these is the newly identified species responsible

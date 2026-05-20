@@ -3,9 +3,8 @@ title: "Ibogaine"
 created: 2026-04-28
 type: chemical
 tags:
+
   - psychedelic
-  - mckenna-suppression-psychedelic-research-lsd-therapy, 2, 17-27.
-  - Mash, D.C. et al. (2000). "Ibogaine: Complex Pharmacokinetics, Common
     Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
   - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical
     Dependence." The Ibogaine Story. Lotsof & Wachtel.

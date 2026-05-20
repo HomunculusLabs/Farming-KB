@@ -2,11 +2,11 @@
 title: Maria Sabina Velada Songs and Mazatec Healing
 created: 2026-04-26
 tags:
+
   - mazatec
   - mushroom-ceremony
   - maria-sabina
   - indigenous-healing
-  - metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism were sophisticated healing ceremonies
 rooted in Mazatec indigenous medicine, not the religious rituals that
 Western observers assumed. The veladas were adaptive blends of Catholic
 and pagan ritual actions, incorporating Christian saints alongside

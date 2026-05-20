@@ -2,6 +2,7 @@
 title: Chamovitz Circadian Rhythm Internal Clock Plants
 source: "What a Plant Knows - Daniel Chamovitz, Chapter 6: What a Plant Remembers"
 tags:
+
   - plant-biology
   - circadian-rhythm
   - biological-clock
@@ -10,7 +11,6 @@ tags:
   - TOC1
   - gene-expression
   - photosynthesis
-  - daniel-chamovitz explores how this circadian clock operates as a
 form of plant-circadian-rhythms were
 documented. The daily movements of plant leaves, described by Androsthenes
 in the fourth century BCE when he observed tamarind leaves moving up and

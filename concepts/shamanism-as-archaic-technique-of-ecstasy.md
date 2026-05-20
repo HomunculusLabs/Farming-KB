@@ -2,12 +2,12 @@
 title: Shamanism as shamanism as archaic technique of ecstasy of Ecstasy
 created: 2026-04-28
 tags:
+
   - shamanism
   - anthropology
   - Mircea Eliade
   - ecstasy
   - plant hallucinogens
-  - mckenna-shamanism-and-techniques-of-ecstasy. Princeton University Press.
 type: concept
 ---
 

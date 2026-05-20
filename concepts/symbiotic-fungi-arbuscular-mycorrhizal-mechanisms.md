@@ -3,7 +3,7 @@ title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Mechanisms
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbiotic-fungi-mycorrhiza-history-frank-discovery symbiotic symbiotic-fungi-lichen-symbiosis-agriculture mechanisms mechanisms symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions helper interactions symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition iron acquisition mycorrhizal mycelium-running-symbiotic-fungi-relationships mycorrhizal-nitrogen-transfer-between-plants networks between plants symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks, symbiosis, phosphorus, networks]
+tags: [mycorrhizal, arbuscular, symbiosis, phosphorus, networks]
 sources: [raw/papers/symbiotic fungi arbuscular arbuscular-mycorrhizal-colonization-patterns patterns proteomics techniques.md]
 ---
 

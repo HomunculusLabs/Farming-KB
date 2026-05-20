@@ -2,9 +2,9 @@
 title: Psilocin Synthesis 4 Hydroxyindole To Psilocin
 created: 2026-04-28
 tags:
+
   - synthesis
   - psilocin
-  - shirota-glyoxalylamide-formation-oxalyl-chloride-indole in anhydrous diethyl ether
 at 0 degrees C to form the 3-glyoxalyl-4-acetylindole intermediate
 (compound 5). After stirring for 15 minutes, n-hexane is added and the
 reaction flask is stored in a freezer overnight. The product precipitates

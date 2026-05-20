@@ -1,7 +1,7 @@
 ---
 title: PF TEK growing-gourmet-primordia-formation-pinning and Pinning Process
 created: 2026-04-28
-tags: [mycology, pf tek, brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting, primordia, pinning, fruiting, mushroom development, cultivation]
+tags: [mycology, pf tek, primordia, pinning, fruiting, mushroom development, cultivation]
 date: 2026-04-28
 updated: 2026-05-09
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]

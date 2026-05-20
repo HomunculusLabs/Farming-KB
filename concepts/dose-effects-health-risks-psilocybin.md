@@ -2,11 +2,11 @@
 title: Dose Effects and Health Risks of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-28
 tags:
+
   - pharmacology
   - health
   - dose
   - risks
-  - emcdda-hallucinogenic-mushrooms-emerging-trend-europe depend on dose, individual sensitivity and reaction to psilocybin, previous experiences, and the setting in which they are consumed. While acute toxicity is low and dependency does not develop, the psychological risks can be significant. Understanding dose-response relationships, routes of administration, and potential pf-tek-mushroom-potency-and-age-relationship is influenced by multiple factors that make consistent dosing inherently difficult:
 type: concept
 ---
 

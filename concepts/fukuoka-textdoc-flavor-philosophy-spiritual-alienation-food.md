@@ -1,10 +1,10 @@
 ---
 title: Fukuoka Textdoc Flavor Philosophy Spiritual Alienation Food
 tags:
+
   - fukuoka
   - food-philosophy
   - flavor
-  - masanobu-fukuoka presents a radical philosophy of flavor that challenges the
 entire foundation of modern food culture. He argues that man has become
 spiritually alienated from food, that the human sense of taste has gone
 haywire, and that the pursuit of deliciousness has paradoxically made truly

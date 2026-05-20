@@ -3,12 +3,11 @@ title: "Artemisia dracunculus"
 created: 2026-04-28
 type: species
 tags:
+
   - herbal-plants
   - asteraceae
   - culinary
   - medicinal
-  - holzer-medicinal-and-culinary-herbs-compendium and Spices of the World. Royal Botanic Gardens, Kew."
-  - "Duke, J.A. (2002). Handbook of what-a-plant-knows-plant-vision-and-light-perceptionae
 - **Digreen-cannabis-grow-bible-species-indica-sativa-ruderalis:** A. dracunculus L.
 ---
 

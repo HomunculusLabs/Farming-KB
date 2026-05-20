@@ -3,11 +3,11 @@ title: "Vervain (Verbena officinalis)"
 created: 2026-04-28
 type: species
 tags:
+
   - herbal-plant
   - verbenaceae
   - nervine
   - traditional-medicine
-  - plant-immune-system-pti-eti in the family Verbenaceae. It has a long history of
 use in European traditional medicine, Egyptian ritual, and Roman religious
 ceremony, where it was called *herba sacra* (sacred herb).
 ---

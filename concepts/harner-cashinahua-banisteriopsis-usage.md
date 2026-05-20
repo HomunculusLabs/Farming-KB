@@ -2,8 +2,8 @@
 title: harner cashinahua banisteriopsis usage Usage
 created: 2026-04-28
 tags:
+
   - anthropology
-  - stamets-mycorrhizal-decline-europe-acid-rain-forest-health of southeastern Peru along the Curanja River.
 They are classified as members of the Panoan language family and the
 Jura-Purus Culture Area. Their use of Banisteriopsis, called nixi pae
 ("the vine drunkenness") or ayahuasca, represents one of the most

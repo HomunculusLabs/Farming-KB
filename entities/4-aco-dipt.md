@@ -3,9 +3,9 @@ title: "4-AcO-DiPT"
 created: 2026-04-28
 type: chemical
 tags:
+
   - psychedelic
-  - cytochrome-p450-enzymes-drug-metabolism and Disposition 41(1): 215–223.
-  - Brandt, S.D. et al. (2016). "Return of the lysergamides." tryptamine." Pharmacology & Therapeutics 208: 107485.
+
 ---
 
 ## Overview

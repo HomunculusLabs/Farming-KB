@@ -2,11 +2,12 @@
 title: "Myrrhis odorata"
 type: species
 tags:
+
   - herbal-plant
   - culinary-herb
   - medicinal-plant
   - apiaceae
-  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
+
 ---
 
 The plant is valued as both a culinary herb and a medicinal plant, with a sweet aniseed flavor that complements both sweet and savory dishes.

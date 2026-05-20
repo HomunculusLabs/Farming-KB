@@ -1,10 +1,10 @@
 ---
 title: Fukuoka Dharma Wheel Theory Evolution
 tags:
+
   - philosophy
   - evolution
   - biology
-  - masanobu-fukuoka's alternative to Darwin's fukuoka-critique-darwinian-evolution:
 type: concept
 ---
 

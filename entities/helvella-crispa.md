@@ -3,13 +3,13 @@ title: "Helvella crispa"
 created: 2026-04-28
 type: species
 tags:
+
   - fungi
   - ascomycete
   - helvellaceae
   - edible
   - wild-mushroom
-  - psilocybin-north-america-pacific-northwest." Mycologia 60(5): 1013-1037.
-  - https://www.mushroomexpert.com/helvella_crispa.html
+
 ---
 
 ## Overview

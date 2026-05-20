@@ -2,7 +2,7 @@
 title: Glyoxalylamide Intermediate in Tryptamine Synthesis
 created: 2026-04-28
 tags:
-  - acetylation-protection-psilocin-synthesis-4-hydroxyindole 4 hydroxyindole to psilocin
+
   - indole-chemistry
   - tryptamine
   - intermediates

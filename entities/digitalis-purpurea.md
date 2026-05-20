@@ -3,6 +3,7 @@ title: "digitalis purpurea"
 created: 2026-04-28
 type: species
 tags:
+
   - plants
   - scrophulariaceae
   - plantaginaceae
@@ -10,8 +11,6 @@ tags:
   - cardiac-glycosides
   - medicinal
   - toxic
-  - indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner.
-  - Smith, T.W. (1988). "Digitalis: Mechanisms of action and clinical use."
     New England Journal of Medicine 318(6): 358-365.
   - Ma, G. et al. (2016). "The Cardiac Glycosides." In: Bioactive
     Natural Products. World Scientific.

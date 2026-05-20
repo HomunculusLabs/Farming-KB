@@ -2,7 +2,7 @@
 title: Copelandia Panaeoloideae Neurotropic Fungi Taxonomy Distribution
 created: 2026-04-28
 tags:
-  - guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions in
+
   - biogeography
   - guzman-allen-gartz
 date: 2026-04-28

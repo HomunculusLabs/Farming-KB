@@ -3,8 +3,8 @@ title: 5-MeO-DiPT
 created: 2026-04-28
 type: chemical
 tags:
+
   - psychedelic
-  - alexander-shulgin and documented in TIHKAL (entry #35). On the street it is most commonly known as "Foxy" or "Foxy Methoxy." The compound stands out among substituted tryptamines for being orally active without the need for a monoamine oxidase inhibitor (MAOI), a property shared by only a handful of tryptamine derivatives.
 Its subjective effects are noted for pronounced auditory distortion—pitch shifting, timbral changes, and a general warping of sound—alongside mild visual effects, tactile enhancement, and euphoria at moderate doses. The auditory profile is sufficiently distinctive that 5-MeO-DiPT is sometimes described as a "audio psychedelic" rather than a classical visual one.
 Duration is moderate at 4–8 hours depending on route and dose. Physical side effects at common doses include mydriasis, increased heart rate, mild nausea during the come-up, and occasional headaches. It is a controlled substance in numerous jurisdictions and is encountered primarily in forensic and clinical toxicology contexts rather than in contemporary recreational use.
 ---

@@ -2,12 +2,13 @@
 title: "Termitomyces umkowaani"
 type: species
 tags:
+
   - fungi
   - basidiomycota
   - edible-mushroom
   - termite-symbiont
   - african-ethnomycology
-  - accessible-mushroom-cultivation-for-disabilities in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
+
 ---
 
 ## Overview

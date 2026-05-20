@@ -2,8 +2,8 @@
 title: Holzer Ten holzer ten step plan world hunger for World Hunger
 created: 2026-04-26
 tags:
+
   - food-security
-  - comparison-sepp-holzer-vs-biodynamic presents a comprehensive ten-step plan to combat world hunger,
 arguing that the planet can feed three times the current population (21 billion
 instead of 7 billion) through respect for all living beings and sensible
 management of nature's resources: sun, rain, and soil. He contends that famine

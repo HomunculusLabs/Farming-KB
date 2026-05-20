@@ -2,11 +2,11 @@
 title: Pyrethrum and Pyrethroid Insecticides for Cannabis
 created: 2026-04-26
 tags:
+
   - cannabis
   - pest-control
   - insecticide
   - pyrethrum
-  - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics: The Indoor/Outdoor Medical Grower's Bible
 -- cervantes-spider-mites-identification-control, and insects including beneficials. It is very effective to
 control flying insects, but they must receive a killing knockdown dose, or
 they may revive and buzz off.

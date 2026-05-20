@@ -7,7 +7,7 @@ type: concept
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
-tags: [bill-mollison-permaculture-a-designers-manual-permaculture-design-principles", earthen-construction, erosion, microclimate, nutrient-cycle, permaculture, soil-sampling, soils, topsoil]
+tags: [earthen-construction, erosion, microclimate, nutrient-cycle, permaculture, soil-sampling, soils, topsoil]
 ---
 ## Soils in [[rammed-earth]] puts the mixture into formwork
 and tamps it down, sometimes with stabilizers such as cement, lime, or

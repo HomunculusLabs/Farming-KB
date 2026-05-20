@@ -2,10 +2,11 @@
 title: "Smallanthus sonchifolius"
 type: species
 tags:
+
   - asteraceae
   - edible-tuber
   - herbal-plant
-  - guzman-psilocybin-mushrooms-south-america. It is cultivated primarily for its crisp, sweet tuberous roots, which are rich in fructooligosaccharides (FOS).
+
 ---
 
 The species has been domesticated for centuries by indigenous peoples of the Andes, particularly in Peru, Bolivia, and Ecuador. It grows at elevations between 1,000 and 3,500 meters.
