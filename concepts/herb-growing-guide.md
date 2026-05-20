@@ -147,4 +147,3 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 - [[seasonal-gardening-calendar]] for planting and harvesting timing
 
 ## Related
-

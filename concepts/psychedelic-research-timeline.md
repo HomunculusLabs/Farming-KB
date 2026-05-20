@@ -147,4 +147,3 @@ MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory c
 - [[harm-reduction-guide]] — modern harm reduction rooted in decades of research
 
 ## Related
-

@@ -138,7 +138,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[cannabis-strain-harlequin]]
-- [[cannabis-strain-harlequin]]
 - [[harlequin-cannabis]]
 - [[mollison-pdc-high-island-design]]
 - [[oner-harlequin-green-haven-genetics-high-cbd-strain-profile]]

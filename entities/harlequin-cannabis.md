@@ -140,6 +140,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[cannabis-strain-harlequin]]
-- [[cannabis-strain-harlequin]]
 - [[harlequin-high-cbd-medical-sativa-strain]]
 - [[lemon-haze-cannabis]]

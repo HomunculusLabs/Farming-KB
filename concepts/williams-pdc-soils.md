@@ -4,7 +4,6 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 
-
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]

@@ -4,7 +4,6 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 
-
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 
 date: 2026-04-25
