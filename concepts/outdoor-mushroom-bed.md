@@ -141,32 +141,6 @@ The primary substrate for most outdoor bed species. Key considerations:
 - Competing fungi: Trichoderma and other molds appear on exposed substrate. Cover with fresh mulch
 - Animals: deer, squirrels, and rodents may eat fruiting bodies. Netting or motion-activated sprinklers can help
 
-## Fruiting Triggers
-
-Outdoor beds fruit in response to natural environmental cues:
-
-- **Temperature drop**: A shift of 10°F or more, especially after rain
-- **Rainfall**: Heavy rain followed by warm days is the classic trigger
-- **Humidity**: Sustained high humidity (80%+) for several days
-- **Seasonal light changes**: Shortening days in fall trigger autumn species
-
-## Harvesting
-
-- Pick when caps have expanded but before edges curl upward significantly
-- Twist and pull from the base, or cut with a clean knife
-- Wine cap: harvest when cap is convex to flat; purple gills visible underneath
-- Oyster: harvest before margins become ragged and spores drop heavily
-- Blewit: harvest when young and firm; older specimens become tough
-
-## Integration with Homestead Systems
-
-- **Garden pathways**: Inoculate wood chip paths with wine cap for edible landscaping
-- **Orchard understory**: Oyster and wine cap thrive under fruit trees
-- **Compost areas**: Shaggy mane and blewit grow near compost piles
-- [[mycofiltration-overview]]: Wine cap beds filter runoff from livestock areas
-- [[food-forest-design]]: Incorporate mushroom beds in the ground cover layer
-- [[hugelkultur-guide]]: Inoculate hugelkultur mounds with wood-decomposing fungi
-
 ## See Also
 
 - [[outdoor-wood-lover-cultivation]] for specialized outdoor psilocybe beds

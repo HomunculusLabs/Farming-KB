@@ -8,7 +8,7 @@ type: concept
 - Vertebrate soil organisms physically engineer soil through burrowing, mixing, and organic matter deposition, but their impact depends on microbial communities that process their contributions
 - [[the-soil-food-web]] provides plants with nutrient retention, cycling, soil structure, disease suppression, pH-regulated nitrogen, [[staycare-lignin-peroxidase-and-pollutant-degradation]]
 - The fungal-to-bacterial ratio determines whether nitrogen is available as nitrate (bacterial soils) or ammonium (fungal soils)
-- Matching plant type to soil food web composition is foundational: annuals/vegetables for bacterial soils, trees/perennials for fungal soils
+- Matching plant type to [[soil-food-web]] composition is foundational: annuals/vegetables for bacterial soils, trees/perennials for fungal soils
 - Plant succession naturally shifts soils from bacterial to fungal dominance, and a plant's lifespan reliably predicts its nitrogen preference
 
 ## Key Concepts and Applications

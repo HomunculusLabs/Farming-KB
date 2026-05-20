@@ -66,7 +66,7 @@ The species is widely distributed across Europe and parts of North America. It s
 
 X. badius has relevance across several domains:
 
-- **Cultivation potential:** While not commercially cultivated on a large scale, its broad host range and tolerance of diverse soil conditions make it a candidate for [[mycorrhizal-inoculation-guide]] in forestry
+- **Cultivation potential:** While not commercially cultivated on a large scale, its broad host range and tolerance of diverse soil conditions make it a candidate for [[mycorrhizal-inoculation]] in forestry
 - **Food safety:** Its tendency to accumulate heavy metals and radionuclides has made it a focus of research on metal bioaccumulation in edible fungi, particularly following the Chernobyl nuclear disaster
 - **Ecological research:** Its differential sensitivity to leaf litter chemistry compared to other ectomycorrhizal species makes it valuable for studying chemical mediation of fungal community structure
 - **Forestry:** As a common mycorrhizal partner in production forests, understanding its role in nutrient cycling contributes to sustainable forest management practices

@@ -138,42 +138,6 @@ Harvesting method:
    from the crown
 3. Work under the root mass with a digging fork
 4. Lift the entire taproot carefully; the root can extend 2+ feet deep
-5. Avoid breaking the root; handle gently
-6. Shake off loose soil; do not wash until ready to process
-
-## Processing and Storage
-
-- Wash roots thoroughly, removing all soil
-- Cut larger roots into 1/4-1/2 inch pieces for faster drying
-- Dry on screens at 95-105 degrees F with good air circulation
-- Roots are fully dry when they snap with no flexible center (5-14 days
-  depending on thickness)
-- Powder dried roots in a blender or spice mill
-- Store powder or dried pieces in airtight containers in a cool, dark place
-- Potency lasts 1-2 years
-
-Traditional Ayurvedic preparation:
-- Mix 1/2 teaspoon ashwagandha powder in a cup of warm milk
-- Add 1/2 teaspoon ghee and honey to taste
-- Drink before bed for sleep and stress support
-
-## Pests and Diseases
-
-Ashwagandha is relatively pest-free due to its pungent compounds. Watch for:
-- Root rot: Caused by overwatering or poor drainage; prevent by ensuring
-  well-drained soil and moderate watering
-- Aphids: Occasionally on new growth; spray with water or insecticidal soap
-- Spider mites: In hot, dry conditions; increase humidity around plants
-- Fusarium wilt: Practice crop rotation; avoid planting in soil where other
-  Solanaceae family members have had disease issues
-
-## Yields
-
-Under good conditions, expect:
-- Fresh root weight: 0.5-1.5 lbs per plant
-- Dried root weight: 0.15-0.5 lbs per plant
-- Approximately 3-5 lbs of dried root per 10-foot row
-
 ## See Also
 
 - [[turmeric-growing-guide]] -- another subtropical medicinal root crop with

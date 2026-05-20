@@ -77,5 +77,5 @@ The bitterness is proportional to triterpenoid content and is considered a quali
 - [[turkey-tail-mushroom-cancer-research]]
 - [[maitake-mushroom-research]]
 - [[chaga-mushroom-research]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]
 - [[medicinal-mushroom-guide-reishi]]

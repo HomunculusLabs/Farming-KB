@@ -148,4 +148,3 @@ If you are new to an area:
 - Host a potluck — food brings people together
 - Be reliable — your reputation is built on follow-through
 
-A resilient homestead is not self-sufficient — it is community-sufficient. The strongest homesteaders are those embedded in networks of mutual aid, shared knowledge, and reciprocal exchange.

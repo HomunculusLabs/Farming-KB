@@ -148,16 +148,3 @@ Building an urban permaculture site largely from salvaged materials is both prac
 **Neighbor engagement**: Visible salvage building sparks curiosity and community support. Neighbors offer materials, help, plants, and meals. Being friendly and waving at passersby transforms skepticism into participation.
 
 **Rainwater catchment on the cheap**: Any container under a downspout works. Site tanks at the top of slopes to let gravity distribute water. Even small tanks make a difference — "in the same way that composting creates rich soil from trash, water catchment and greywater cycling create opportunities for growth in barren neighborhoods."
-
-## Related Pages
-- [[permaculture-design]] — Zone/sector analysis basics
-- [[permaculture-design-methods]] — Full design toolkit
-- [[permaculture-principles]] — Ethics and 12 principles
-- [[seasonal-planning]] — Monthly task calendar
-- [[food-forest-design]] — Food forest layers and guilds
-- [[composting-systems]] — All composting methods
-- [[vermicomposting]] — Worm bin setup
-- [[bokashi]] — Anaerobic fermentation
-- [[raised-beds-vs-in-ground-vs-containers]] — Growing method comparison
-- [[natural-farming-seed-balls]] — Seed ball technique
-- [[water-management]] — Rainwater and greywater

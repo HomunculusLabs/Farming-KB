@@ -148,37 +148,6 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 
 | Business Type | Typical Total |
 |---------------|---------------|
-| Dispensary | $500K - $2M+ |
-| Indoor Cultivation (5K sq ft) | $1M - $4M+ |
-| Manufacturing | $500K - $2M+ |
+## See Also
 
-Includes buildout, equipment, licensing, inventory, and working capital.
-
-## Banking Challenges
-
-Federal prohibition means most banks won't serve cannabis businesses:
-
-- Difficulty opening accounts, limited access to credit
-- Cash-heavy operations create security risks
-- Solutions: state-chartered credit unions, FinTech payment processors, armored car services
-- SAFE Banking Act (pending as of 2026) would protect banks serving the industry
-
-## Tax Considerations
-
-- **Section 280E:** Prevents standard business deductions (rent, wages, marketing). Only COGS is deductible, inflating effective tax rates to 40-50%+.
-- **State taxes:** Excise taxes (10-37%) plus sales tax and local taxes in many jurisdictions.
-
-## Hiring and Workforce
-
-Common roles: budtenders, cultivation technicians, trimmers, extraction technicians, compliance managers, security personnel. Industry challenges include high turnover, limited talent pool, and background check requirements.
-
-## Market Trends (2026)
-
-- Consolidation and price compression as supply increases
-- Premiumization: craft cannabis and living soil products commanding premium prices
-- Minor cannabinoid expansion (CBG, CBN, THCV)
-- Beverage market growth, delivery service expansion
-- International markets opening (Germany, Thailand)
-- Quality ([[cannabis-testing-and-quality|testing results]], terpene profiles) increasingly matters more than raw THC percentage
-
-See also: [[cannabis-breeding-basics]]
+- [[cannabis-indoor-growing-basics]]

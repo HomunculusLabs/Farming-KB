@@ -39,7 +39,7 @@ Chop-and-drop (also called slash mulching) is the practice of cutting back plant
 
 - [[sheet-mulching]] -- layered mulch technique for creating garden beds
 - [[cover-crop-selection-guide]] -- choosing cover crops for chop-and-drop
-- [[hugelkultur-bed-construction-detailed]] -- woody biomass buried in beds
+- [[hugelkultur-bed-construction]] -- woody biomass buried in beds
 
 ## Key Concepts and Applications
 

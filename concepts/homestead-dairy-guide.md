@@ -148,35 +148,6 @@ Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike 
 1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
 2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
 3. Chill cream to 50-55F
-4. Whip or churn until butterfat separates from buttermilk (hand churn, stand mixer, or blender)
-5. Drain buttermilk (save for cooking or baking)
-6. Wash butter: add cold water, knead butter to remove remaining buttermilk. Repeat until water runs clear.
-7. Salt to taste (1/4 tsp per pound of butter) and knead in
-8. Shape, wrap in wax paper, and refrigerate or freeze
+## See Also
 
-Yield: approximately 1 cup of butter per gallon of goat milk (less than cow milk due to smaller fat globules).
-
-## Yogurt
-
-1. Heat 1 gallon of goat milk to 180F (kills competing bacteria, denatures proteins for thicker yogurt)
-2. Cool to 110F
-3. Add 2-3 tablespoons of plain yogurt with live cultures (store-bought or saved from previous batch)
-4. Stir gently, pour into sterile jars
-5. Incubate at 105-110F for 6-12 hours (longer = tangier, thicker)
-6. Incubation methods: yogurt maker, oven with light on, thermos, cooler with hot water bottles, or dehydrator set to 110F
-7. Refrigerate for 4+ hours before eating
-8. Homemade goat milk yogurt is thinner than commercial yogurt. Thicken by: draining through cheesecloth (makes Greek-style), adding powdered milk, or using gelatin.
-
-## Cream
-
-Goat milk does not separate cream as readily as cow milk due to smaller fat globules. Options for getting cream:
-
-- Gravity separation: let milk sit undisturbed 48-72 hours in a wide, shallow container in the refrigerator. Skim the cream layer.
-- Cream separator: mechanical centrifugal separator ($100-400). Most effective method.
-- For coffee cream: use full-fat goat milk or make a blend of milk and skimmable cream.
-
-## Related Concepts
-
-- [[homesteading-income-streams]] -- goat dairy products as a revenue stream
-- animal husbandry for general goat care principles
-- [[food-fermentation-guide]] -- cheese and yogurt are both fermented dairy products
+- [[homestead-dairy-equipment]]

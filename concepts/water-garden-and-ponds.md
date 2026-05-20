@@ -142,24 +142,6 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 - Kill suspended algae (green water) by exposing it to ultraviolet light
 - Do not harm beneficial bacteria
 - Effective but not necessary if biological balance is maintained
-
-## Wildlife Habitat
-
-A well-designed pond becomes a magnet for wildlife:
-
-- **Amphibians**: Frogs, toads, and salamanders will colonize naturally (no stocking needed)
-- **Dragonflies**: Lay eggs in water; larvae are voracious mosquito predators
-- **Birds**: Provide a sloped beach area for drinking and bathing
-- **Insects**: Water striders, whirligig beetles, and other aquatic insects add to biodiversity
-- **Design for wildlife**: Include shallow edges, varied depths, native marginal plants, and hiding spots (rocks, logs)
-
-## Maintenance
-
-- **Spring**: Clean out debris, divide plants, restart pump, check liner
-- **Summer**: Monitor water level, top off as needed, control algae, feed fish lightly
-- **Fall**: Remove fallen leaves with net, trim dead foliage, prepare for winter
-- **Winter**: Keep a hole in ice for gas exchange (use a floating de-icer), stop feeding fish below 50F, leave hardy plants in place
-
 ## See Also
 
 - [[rain-garden-design]]

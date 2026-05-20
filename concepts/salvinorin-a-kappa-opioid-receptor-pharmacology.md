@@ -19,7 +19,7 @@ The KOR-mediated mechanism of salvinorin-A produces an experience
 qualitatively different from classical serotonergic hallucinogens:
 
 - **Onset:** Extremely rapid when smoked (seconds) versus 20-90
-  minutes for psilocybin or LSD
+  minutes for [[psilocybin]] or LSD
 - **Duration:** Very short (15 minutes smoked, 1 hour oral) versus
   4-8 hours for most classical hallucinogens
 - **Quality:** More dissociative and disorienting, less euphoric,
@@ -45,7 +45,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish salvinorin a kappa opioid receptor pharmacology
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -59,7 +59,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Salvinorin A Kappa Opioid Receptor Pharmacology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

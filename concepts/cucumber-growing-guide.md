@@ -143,38 +143,6 @@ Cucumber beetles are the primary pest of cucumbers and can devastate plantings.
 - Both transmit bacterial wilt, which kills vines rapidly
 
 ### Damage
-- Adults chew holes in leaves, flowers, and fruit
-- Larvae feed on roots and underground stems
-- Most damaging: they transmit bacterial wilt (Erwinia tracheiphila)
-- Bacterial wilt causes vines to wilt suddenly and die — no cure once infected
-
-### Management Strategies
-1. **Row covers**: Exclude beetles from transplant until flowering
-2. **Kaolin clay (Surround WP)**: Sprayed on foliage as a deterrent barrier
-3. **Sticky traps**: Yellow sticky traps catch adults; place near plant base
-4. **Delayed planting**: Miss peak beetle emergence by planting 2-3 weeks late
-5. **Neem oil**: Repels beetles when applied regularly
-6. **[[companion-planting]]**: Radishes, nasturtiums, and marigolds may help
-7. **Clean up**: Remove crop residue in fall to reduce overwintering beetles
-
-### Disease Resistance
-- Marketmore 76, County Fair, and Little Leaf show tolerance to bacterial wilt
-- Choose powdery mildew resistant varieties (marked PM) for late summer
-
-## Common Diseases
-
-### Powdery Mildew
-- White coating on leaves in late summer; reduces photosynthesis
-- Prevention: air circulation, resistant varieties, neem oil or potassium bicarbonate sprays
-
-### Downy Mildew
-- Yellow patches on upper leaf surface, gray fuzz underneath
-- Favored by cool, wet conditions; remove affected leaves immediately
-
-### Bacterial Wilt
-- Vines wilt suddenly; transmitted by cucumber beetles
-- No treatment once infected — prevent by controlling beetles
-
 ## See Also
 
 - [[bean-growing-guide]] for companion trellis crops

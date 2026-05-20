@@ -123,55 +123,6 @@ Treats seeds to recover natural vitality before planting:
 Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before seeding/transplanting (14 days for repeated cultivation disorder). Apply 2-3 hours before sunset. See [[fermented-mixed-compost-fmc]] for FMC details.
 
 ## Pest Control Methods
-
-KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for biological pest control.
-
-### Aromatic Insect Attractant (AIA)
-- Slit open a PET bottle on two sides
-- Fill with rice wine and FPJ diluted 300 times (FFJ is best for attracting insects)
-- Hang at the height of fruits/leaves that moths/butterflies target
-- Install during egg-laying season — useless once insects have already laid eggs
-- Hang 4-6 bottles per fruit tree, at plant height for vegetables
-
-### Fluorescent Insect Attractant (FIA)
-- Hang fluorescent light vertically on an L-shaped zinc sheet
-- Place basin of water with gasoline/kerosene underneath
-- Insects attracted to light fall into water and drown
-- Most effective during peak reproductive growth and vegetative growth of leafy vegetables
-
-## Crack Prevention Treatment
-
-For fruits/vegetables during drought (to prevent cracking when rains arrive):
-
-| Input | Amount per 1000ml water |
-|-------|------------------------|
-| OHN | 1 ml |
-| BRV | 2 ml |
-| FPJ | 2 ml |
-| LAB | 1 ml |
-| Seawater | 30 ml |
-
-## General Mixing Rules
-
-- Mix inputs with non-chlorinated water
-- Apply as foliar spray or soil drench
-- Best applied early morning or late evening (avoid midday heat -- UV kills microbes)
-- Do not mix inputs with chemical fertilizers or pesticides
-- Fresh IMO from [[indigenous-microorganisms-imo]] is the foundation -- all other inputs work best when soil biology is active
-- For cannabis in [[cannabis-living-soil-guide]], use lower dilution rates (1:300-500) for soil drenches
-- All NF inputs are typically diluted at 1:1000 unless otherwise specified
-- Apply IMO-4 and FMC 2-3 hours before sunset or on cloudy days to prevent UV damage to microorganisms
-
-## FMC Details (from Cho's Global Natural Farming)
-
-Fermented Mixed Compost is KNF's primary soil amendment -- "quite similar to farm yard manure or ordinary compost, but the quality is completely different." It excels at promoting micronutrient absorption, enhancing plant hormone effectiveness, and providing vitamins.
-
-**Timing**: Make FMC in late fall — cool dry weather favors fermenting microbes over bacteria. **Key ingredients**: IMO-4, organic matter, NF inputs (FPJ, FAA, OHN), powdered oyster/crab/shrimp/eggshells. **Application**: 1-2 kg per square meter, applied before seeding/transplanting. See [[fermented-mixed-compost-fmc]] for full recipe.
-
-## KNF Livestock (Poultry)
-
-Cho's system extends natural farming to animals: no artificial heating (fermenting compost for warmth), homemade feed (brown rice, bamboo leaves, rice husk), soil floor housing (microorganism-rich), once-daily feeding 2 hours before sunset, no antibiotics. See [[nutritive-cycle-theory]] for context.
-
 ## See Also
 
 - [[indigenous-microorganisms-imo]] — step-by-step IMO collection (3 methods)

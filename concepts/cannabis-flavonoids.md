@@ -143,29 +143,6 @@ Cool temperatures during flowering trigger anthocyanin accumulation, producing p
 
 Phosphorus and potassium levels influence flavonoid biosynthesis. Deficiencies can stress plants into producing more flavonoids as protective compounds, though this is not an optimal production strategy.
 
-### Post-Harvest
-
-Flavonoids are relatively stable compared to terpenes but can degrade with excessive light, heat, or prolonged storage. Proper curing conditions preserve flavonoid content.
-
-## Extraction and Isolation
-
-Flavonoids are typically extracted using:
-- Ethanol extraction (captures flavonoids along with cannabinoids and terpenes)
-- Supercritical CO2 (can be tuned to capture flavonoids)
-- Water extraction (some flavonoids are water-soluble glycosides)
-
-Cannflavin isolation is challenging due to low concentrations in plant material. Synthetic biology approaches (engineered yeast) are being developed to produce cannflavins at scale for pharmaceutical applications.
-
-## Research Status
-
-Cannabis flavonoid research is significantly behind cannabinoid and terpene research. Most studies have been in vitro or in animal models. Key areas of active research:
-
-- Cannflavin A/B anti-inflammatory mechanisms and therapeutic potential
-- Flavonoid contribution to the entourage effect
-- Flavonoid interactions with specific cannabinoid receptors
-- Genetic pathways controlling flavonoid biosynthesis in cannabis
-- Synthetic biology production of cannflavins
-
 ## See Also
 
 - [[cannabis-trichome-guide]] for the glandular structures that house flavonoids

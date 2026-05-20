@@ -148,5 +148,3 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 
 - [[garlic-growing-guide]] — related allium with similar planting and curing methods
 - [[companion-planting-reference]] — carrots, beets, lettuce as onion companions; avoid beans
-- [[soil-amendment-reference]] — nitrogen and phosphorus sources for onion beds
-- [[mulching-guide]] — straw mulch for moisture retention and weed suppression

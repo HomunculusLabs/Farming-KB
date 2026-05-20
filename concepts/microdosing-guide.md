@@ -143,38 +143,6 @@ Balanced view of current evidence:
 
 - Grind dried mushrooms to a fine powder for even distribution
 - Use a milligram scale (0.001 g precision) for accurate dosing
-- For LSD, use volumetric dosing: dissolve a tab in 10 ml distilled water, measure 0.5-1 ml for microdose
-- Store preparations in a cool, dark place in an airtight container
-- Date all preparations
-
-### Tracking
-
-Essential variables to track:
-
-- Date, time, and dose
-- Substance and source
-- Mood (pre-dose and throughout day)
-- Energy level
-- Focus and productivity
-- Creative output
-- Social interactions
-- Sleep quality
-- Diet and exercise
-- Notable events or stressors
-
-### Signs to Stop or Adjust
-
-- Developing tolerance (diminishing effects at same dose)
-- Anxiety or irritability increasing
-- Sleep disruption
-- Obsessive focus on the practice
-- Difficulty functioning without microdosing
-- Any perceptual effects during "off" days
-
-## Legal Status
-
-Microdosing substances like psilocybin and LSD is illegal in most jurisdictions. However, enforcement is generally minimal for personal use quantities. In Oregon and Colorado, regulated psilocybin access programs exist but are designed for full-dose therapeutic use, not microdosing.
-
 ## See Also
 
 - [[harm-reduction-guide]] — general harm reduction principles

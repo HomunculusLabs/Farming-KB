@@ -139,38 +139,6 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 **Identification**: Biennial — flat rosette first year, tall flowering stalk (2-6 feet) second year with large purple flower heads and sharp spines.
 
 **Management**: Easier than Canada thistle — biennial lifecycle means cutting before seed set in year two eliminates that generation. Dig out rosettes in year one.
-
-### Japanese Knotweed (*Fallopia japonica*)
-
-**Identification**: Tall (4-10 feet) bamboo-like stems with red/purple speckles. Large heart-shaped leaves. Small white flower clusters in late summer.
-
-**Why it's a problem**: Extremely invasive — can damage foundations. Spreads by rhizome (any fragment regrows). Listed as noxious weed in many states.
-
-**Management**: Cut repeatedly to starve roots (takes 5+ years of consistent effort). Consult local extension for approved treatments. Never compost or move soil from knotweed areas. Report infestations to local authorities.
-
-### Crabgrass (*Digitaria spp.*)
-
-**Identification**: Prostrate annual grass with wide, hairy blades. Spreads by stolons (above-ground runners) and seed. Forms dense mat.
-
-**Management**: Dense planting/mulch to shade out. Pre-emergent corn gluten meal in early spring. Improve soil structure (crabgrass thrives in compacted soil). Pull before seed set.
-
-## Quick Reference — What to Do With Each Weed
-
-| Weed | Eat It? | Accumulator? | Key Management |
-|---|---|---|---|
-| Dandelion | Yes (all parts) | Ca, K, trace minerals | Harvest, allow in lawn |
-| Purslane | Yes (raw, cooked) | Moisture retention | Eat it; mulch heavily |
-| Lamb's quarters | Yes (cook) | Nitrogen indicator | Pull before seed set |
-| Plantain | Yes (young leaves) | Ca, Mg, S, K | Allow in pathways |
-| Chickweed | Yes (raw, cooked) | Fe, Zn | Easy pull; eat it |
-| Nettles | Yes (blanched) | N, Fe, K, Ca, Mg, S | Contain roots; harvest |
-| Amaranth | Yes (leaves, seeds) | Nitrogen indicator | Pull before seed set |
-| Bindweed | No | — | Smother, never till |
-| Quackgrass | No | — | Smother, dig rhizomes |
-| Thistle | No | — | Cut before flowering |
-| Knotweed | No | — | Report; multi-year effort |
-| Crabgrass | No | — | Dense planting, pre-emergent |
-
 ## See Also
 
 - [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar

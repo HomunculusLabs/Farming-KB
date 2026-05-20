@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, entheogen, mesoamerica, religion]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Psychedelic Mushroom History

@@ -142,24 +142,6 @@ A hedgerow becomes a wildlife highway connecting fragmented habitats:
 - Water weekly during the first growing season (more in hot, dry weather)
 - Weed control is critical in years 1-2 — mulch heavily and hand-pull weeds
 - Stake tall trees only if necessary (remove stakes after 1 year)
-- Protect young plants from deer and rabbits with tree tubes or fencing
-- Avoid herbicides in or near the hedgerow
-
-## Management
-
-### Pruning
-- Formal hedgerows: Prune annually to maintain shape and density (cut back to same point each year)
-- Informal hedgerows: Prune selectively every 3-5 years — remove dead, diseased, or crossing branches
-- Coppicing: Cut shrubs to ground level every 5-10 years to rejuvenate (hazel, dogwood, willow respond well)
-- Lay hedgerows: Traditional technique of partially cutting and laying stems horizontally to thicken the base
-
-### Long-Term Care
-- Monitor for invasive species and remove promptly
-- Replace dead plants to maintain density
-- Add organic mulch every 2-3 years
-- Observe wildlife use and adjust species composition to increase habitat value
-- Periodically assess and maintain windbreak density
-
 ## See Also
 
 - [[windbreak-and-shelterbelt-design]]

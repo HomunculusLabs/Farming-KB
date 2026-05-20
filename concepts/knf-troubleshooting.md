@@ -147,25 +147,6 @@ Apply every 3-5 days until recovery visible. Works for transplant shock, pest da
 ## Seawater Use
 
 Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements). Use surface seawater diluted 1:30.
+## See Also
 
-- Reproductive stage: 1:30 promotes fruit quality and sugar content
-- Pre-harvest: OHN 1ml + WS-Ca 2ml + Seawater 30ml per liter (sweetness)
-- Stress recovery: trace minerals help plants recover from heat/cold/drought
-- SOS soil treatment: 3L per 200L water per acre
-- Crack prevention: included in drought-to-rain formula
-
-**Caution**: Never use undiluted seawater. Salt toxicity occurs above 1:20 dilution. Avoid on salt-sensitive plants.
-
-## Related
-
-- [[knf-preparations]] — complete input guide with recipes
-- [[indigenous-microorganisms-imo]] — IMO collection and cultivation
-- [[nutritive-cycle-theory]] — growth stage framework for timing inputs
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed troubleshooting
-- [[fish-amino-acid-faa]] — FAA troubleshooting and pairing
-- [[oriental-herbal-nutrient-ohn]] — OHN pest control applications
-- [[water-soluble-calcium-wca]] — WCA troubleshooting
-- [[brown-rice-vinegar-brv]] — BRV as extraction solvent
-- [[lactic-acid-bacteria-lab]] — LAB production troubleshooting
-- [[cannabis-pest-management]] — cannabis-specific IPM
-- [[soil-food-web-nutrient-cycling]] — biological foundation for all KNF inputs
+- [[pond-maintenance-and-troubleshooting]]

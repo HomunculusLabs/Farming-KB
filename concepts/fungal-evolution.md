@@ -136,36 +136,6 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Diverse forms evolved: gilled mushrooms, boletes, polypores, puffballs, corals, stinkhorns — each adapted to different spore dispersal strategies
 
 ### Yeast Forms
-
-- Yeast growth (single-celled, budding) evolved independently multiple times from filamentous ancestors
-- Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
-- Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
-
-## Evolutionary Timeline Summary
-
-| Time (Ma) | Event |
-|-----------|-------|
-| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
-| ~1,000-1,500 | Fungi diverge from Animalia |
-| ~800-1,000 | Chytrid lineages diversify |
-| ~600-700 | Zygomycete and Glomeromycota lineages diverge |
-| ~500-600 | Ascomycota and Basidiomycota lineages diverge |
-| ~460 | Earliest fungal fossils (Ordovician) |
-| ~460 | Fungi associated with earliest land plants (Rhynie Chert) |
-| ~400-450 | Ascomycetes and basidiomycetes diversify |
-| ~300 | White-rot fungi evolve lignin decomposition |
-| ~200-250 | Mushroom-forming ability evolves in Agaricomycetes |
-| ~150-200 | Ectomycorrhizae evolve independently in multiple lineages |
-| ~100 | Rust fungi diversify with angiosperm radiation |
-| ~65 | Major fungal radiation follows Cretaceous-Paleogene extinction |
-
-## Current Phylogenetic Research
-
-- High-throughput DNA sequencing is revealing vast undocumented fungal diversity
-- Environmental DNA (eDNA) sampling suggests the actual number of fungal species may exceed 5 million
-- Metagenomics reveals fungal communities in previously unexplored habitats (deep ocean, deep subsurface, Arctic permafrost)
-- Phylogenomic analyses continue to reshape the fungal tree of life — many deep relationships remain unresolved
-
 ## See Also
 
 - [[fungal-biology-fundamentals]] for how evolutionary innovations manifest in the life cycle

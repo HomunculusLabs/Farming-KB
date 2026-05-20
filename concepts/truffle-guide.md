@@ -147,21 +147,8 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 - Freeze for longer storage (whole, wrapped tightly)
 
 ## Foraging Safety
+## See Also
 
-- All true Tuber species are edible when properly identified
-- The primary risk is misidentification with toxic underground fungi (rare but possible)
-- Most dangerous: some species in the genera Hebeloma and Inocybe can be found underground
-- Work with experienced foragers initially
-- Always verify the marbled interior pattern characteristic of Tuber
-- See [[chanterelle-guide]] for general wild mushroom foraging safety principles
-
-## Economics
-
-The global truffle market is estimated at several billion dollars annually. European production has declined significantly over the past century due to habitat loss, deforestation, and climate change, driving prices upward. Truffle cultivation is a long-term investment with high potential returns but significant risk and uncertainty.
-
-## Related Topics
-
-- [[matsutake-mushroom]] for another mycorrhizal fungus that cannot be cultivated
-- [[porcini-boletus-guide]] for another high-value wild foraged mushroom
-- [[chanterelle-guide]] for wild mushroom foraging methods and safety
-- [[mycorrhizal-networks]]
+- [[cannabis-screen-of-green-scrog-guide]]
+- [[vegetable-seed-and-transplant-guide]]
+- [[ginger-growing-guide]]

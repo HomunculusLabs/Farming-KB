@@ -10,14 +10,14 @@ type: concept
 Mangrove ecosystems are significant exporters of dissolved organic carbon:
 
 - **60–260 tonnes of carbon per year** are exported as **dissolved organic carbon (DOC)**
-- The primary fungal end-product of decomposition in mangroves is **dissolved organic matter (DOM)** rather than particulate organic matter (POM)
+- The primary fungal end-product of [[decomposition]] in mangroves is **dissolved organic matter (DOM)** rather than particulate organic matter (POM)
 - This DOM export has implications for adjacent marine food webs and carbon cycling in coastal waters
 
 ### Dispersal Mechanisms
 
 Mangrove fungi have evolved an unusual dispersal strategy involving **viviparous seedlings**:
 
-- Fungal propagules (including species of *Keissleriella* and *Lulworthia*) colonize mangrove seedlings while they are still attached to parent trees
+- Fungal propagules (including species of *Keissleriella* and *[[lulworthia]]*) colonize mangrove seedlings while they are still attached to parent trees
 - These seedlings then serve as **fungal dispersal vehicles** when they detach and are carried by ocean currents
 - The **Gulf Stream** has been identified as a major transport pathway, distributing mangrove-associated fungi along the Atlantic coast
 

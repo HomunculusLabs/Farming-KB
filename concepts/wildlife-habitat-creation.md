@@ -148,11 +148,6 @@ Invasive plants degrade habitat by outcompeting natives and providing poor food 
 - Multiflora rose: Forms impenetrable thickets. Mow or treat.
 - Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
 - Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
+## See Also
 
-Control methods: Hand-pulling (small infestations), repeated mowing, targeted herbicide application on cut stumps, prescribed grazing (goats are effective for many woody invasives).
-
-## Related Topics
-
-- [[food-forest-design]] for integrating food production with wildlife habitat
-- [[woodlot-management]] for managing forests to support wildlife
-- wildlife habitat creation overlaps with [[permaculture-design]] zone 5 design
+- [[habitat-nooks-for-garden-wildlife]]

@@ -147,26 +147,7 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 - **Moisture**: Residual moisture promotes enzymatic degradation. Ensure cracker-dry before storage.
 
 ### Expected Shelf Life
+## See Also
 
-| Storage Method | Expected Potency Retention |
-|---------------|---------------------------|
-| Room temp, jar, no desiccant | 3-6 months |
-| Room temp, jar, with desiccant | 6-12 months |
-| Cool, dark, vacuum-sealed | 1-2 years |
-| Frozen, vacuum-sealed | 2+ years |
-
-## Weight Conversions
-
-Understanding fresh-to-dry weight ratios is important for dosing and yield tracking:
-
-- Fresh mushrooms are approximately 90-92% water.
-- Dried mushrooms are approximately 5-10% water.
-- Conversion factor: 1 gram dry = approximately 10 grams fresh.
-- A typical dose of dried cubensis is 1-2.5g (mild to moderate) or 2.5-5g (strong).
-
-## Related Topics
-
-- [[mushroom-yield-optimization]] — maximizing yield before harvest
-- [[monotub-cultivation]] — the growing method leading to harvest
-- [[psilocybin-mushroom-cultivation]] — the complete cultivation cycle
-- [[mushroom-strain-selection]] — strain characteristics affecting harvest timing
+- [[advanced-mushroom-fruiting-techniques]]
+- [[mushroom-agar-media-pouring-sterilization-techniques]]

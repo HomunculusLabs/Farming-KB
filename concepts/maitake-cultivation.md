@@ -1,4 +1,5 @@
 ---
+title: Maitake Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -117,7 +118,7 @@ Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake|medicinal
 
 ## See Also
 
-- [[maitake-cultivation-guide|Maitake detailed cultivation guide]]
+- [[maitake-cultivation|Maitake detailed cultivation guide]]
 - [[maitake-mushroom-research|Maitake research summary]]
 - [[medicinal-mushroom-guide-maitake|Maitake medicinal properties]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

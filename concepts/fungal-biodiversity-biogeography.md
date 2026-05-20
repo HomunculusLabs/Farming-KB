@@ -148,15 +148,3 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 
 - [[fungal-ecology-extreme-environments]] -- fungi in extreme habitats
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling roles
-- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
-- [[endophytic-fungi]] -- fungi inside plant tissues
-- [[lichens]] -- fungal-algal symbioses
-- [[fungal-biodiversity]] -- species diversity overview
-
-## Key References
-
-- Hawksworth, D.L. (2001) "The magnitude of fungal diversity: the 1.5 million species estimate revisited." Mycological Research 105: 1422-32.
-- Finlay, B.J. (2002) "Global dispersal of free-living microbial eukaryote species." Science 296: 1061-3.
-- Peay, K.G., Garbelotto, M. & Bruns, T.D. (2010) "Evidence of dispersal limitation in soil microorganisms: isolation reduces species richness on mycorrhizal tree islands." Ecology 91: 3631-40.
-- [[chytrid-fungi-guide]]
-- fungal biodiversity biogeography

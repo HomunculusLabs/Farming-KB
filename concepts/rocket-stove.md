@@ -148,24 +148,3 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 ## Safety Considerations
 
 - The combustion chamber and heat riser reach temperatures of 1000-1800F — serious burn hazard
-- Provide a stable, non-combustible base for the stove
-- Maintain clearances from combustible walls and ceilings (minimum 36 inches)
-- Install a carbon monoxide detector if using indoors or in enclosed spaces
-- Ensure adequate ventilation — rocket stoves consume oxygen and produce CO2
-- Keep children and pets away from the hot surfaces
-- Check local regulations before installing permanent indoor rocket mass heaters
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---|---|---|
-| Excessive smoke | Insufficient draft; wet wood; cold start; wrong dimensions | Use dry fuel; preheat the chimney with newspaper; check dimensions match specifications |
-| Fire goes out | Draft reversed; chimney too short; blockage | Ensure chimney is tall enough (15+ ft for mass heaters); clear blockages; warm the chimney |
-| Back-puffing (smoke from feed tube) | Wind blowing down chimney; insufficient chimney height | Add a chimney cap; extend chimney height; block wind |
-| Stove overheating | Insulation too thin; continuous over-firing | Add more insulation; reduce fuel feed rate; let stove cool between uses |
-| Cooking surface too cool | Gap between riser and pot too large or too small | Adjust cooking surface height to 1.5x riser diameter |
-| Metal parts burning through | Thin steel in combustion chamber; high temperatures | Use thicker steel, firebrick, or cast refractory for the J-tube |
-
-## Related
-
-- [[mud-oven]]

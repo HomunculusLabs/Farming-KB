@@ -5,7 +5,7 @@ tags:
 ---
 ## Greenhouse Siting Relative to Existing Structures
 
-Coleman's experience at Four Season Farm offers practical lessons about the relationship between greenhouses and other farm infrastructure. The greenhouses should be positioned for convenient access from the packing shed and storage areas to minimize the distance that harvested crops must be carried in cold weather. However, they should not be placed so close to buildings or trees that they suffer from shading during the already-limited winter daylight hours.
+Coleman's experience at [[four-season-farm]] offers practical lessons about the relationship between greenhouses and other farm infrastructure. The greenhouses should be positioned for convenient access from the packing shed and storage areas to minimize the distance that harvested crops must be carried in cold weather. However, they should not be placed so close to buildings or trees that they suffer from shading during the already-limited winter daylight hours.
 
 ## Practical Applications
 

@@ -119,7 +119,7 @@ Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 
 ## See Also
 
-- [[mycorestoration-overview]] for applied fungal ecology
+- [[mycorestoration]] for applied fungal ecology
 - [[mycorrhizal-networks]] for plant-fungal partnerships
 - [[fungal-ecosystem-roles]] for nutrient cycling details
 - [[mushroom-natural-habitats]] for where fungi thrive in nature

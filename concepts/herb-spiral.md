@@ -148,11 +148,3 @@ The herb spiral integrates with broader permaculture design:
 | Mediterranean herbs dying (rotting) | Too much moisture; planted too low | Move to top of spiral; improve drainage with sand/gravel |
 | Mint taking over entire spiral | Mint spreads by runners | Plant mint in a buried pot; or confine to bottom zone with root barrier |
 | Basil dying quickly | Cold exposure; planted too low or north side | Move to warm, sunny middle zone; basil needs heat |
-| Spiral is drying out too fast | Sandy soil throughout; insufficient water retention | Add more compost to middle and lower zones; increase watering |
-| Water pooling at bottom | No drainage in bottom zone | Add gravel layer at base; ensure soil slopes toward edges |
-| Stone wall collapsing | Insufficient batter angle; poor foundation | Rebuild with stones angled slightly inward; ensure firm base |
-| Herbs bolting (going to seed) | Too hot; planted in wrong zone | Move cool-season herbs (cilantro, dill) to shadier north side |
-
-## Related
-
-- [[permaculture-zones-and-sectors]]

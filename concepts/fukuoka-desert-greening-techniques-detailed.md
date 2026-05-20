@@ -18,7 +18,7 @@ For practical application in arid regions, Fukuoka developed the [[jeavons-green
 
 ## The Role of Mycorrhizal Fungi
 
-[[mycorrhizal-inoculation-guide]] as a key factor in establishment success.
+[[mycorrhizal-inoculation]] as a key factor in establishment success.
 
 ## Plant Irrigation
 

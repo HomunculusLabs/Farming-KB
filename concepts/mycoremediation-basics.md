@@ -12,7 +12,7 @@ sources:
 
 # Mycoremediation Basics
 
-Mycoremediation is the use of fungal mycelium to break down or sequester toxic contaminants in soil and water. Part of the [[mycorestoration-overview]] framework developed by [[paul-stamets]]. The term was popularized by Singh (2006) in the encyclopedic reference "Mycoremediation: Fungal Bioremediation."
+Mycoremediation is the use of fungal mycelium to break down or sequester toxic contaminants in soil and water. Part of the [[mycorestoration]] framework developed by [[paul-stamets]]. The term was popularized by Singh (2006) in the encyclopedic reference "Mycoremediation: Fungal Bioremediation."
 
 ## Why Fungi?
 
@@ -128,25 +128,10 @@ Fungi are known to degrade a wide variety of materials (Singh 2006):
 ## Important Considerations
 
 - **Strain variability** — not all strains of a species perform equally; lab testing recommended
-- **Temperature and moisture** — mycelial activity is temperature-dependent; temperate species may need seasonal deployment
-- **Toxin concentration** — some contaminants at very high concentrations kill mycelium; may need dilution or phytoremediation first
-- **Disposal of fruiting bodies** — mushrooms that bioaccumulate heavy metals must be treated as hazardous waste
-- **Scale** — mycelial mats must match the cubic size of the contamination source
-- **Mineralization vs transformation** — fungi often transform pollutants into bound residues rather than fully mineralizing to CO2; monitoring must track metabolites
-
-## Advantages Over Conventional Methods
-
-- Low cost — uses agricultural waste (straw, wood chips) as substrate
-- Self-propagating — mycelium grows and expands on its own
-- Non-destructive — no excavation or chemical treatment needed
-- Synergistic — kickstarts broader ecological recovery
-- Can be deployed in-situ — no need to transport contaminated soil
-- Extracellular degradation — does not require cellular uptake of pollutants
-
 ## See Also
 
 [[fungal-bioaugmentation-inoculation]]
-- [[mycorestoration-overview]] for the broader framework
+- [[mycorestoration]] for the broader framework
 - [[fungal-enzyme-systems-bioremediation]] for detailed enzyme mechanisms
 - [[mycoremediation-techniques]] for specific deployment methods
 - [[mycoremediation-of-heavy-metals]] for heavy metal biosorption

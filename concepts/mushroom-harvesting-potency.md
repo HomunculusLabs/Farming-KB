@@ -139,43 +139,6 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 - Lid with two holes (one for stirring rod, one for syringe needle)
 
 ### Procedure
-
-1. **Pre-sterilize** jar and metal lid in toaster oven at ~300F for 30 minutes; cool; tighten lid
-2. **Wash hands** -- hands are "a prime source for bacteria and microspore contaminants"
-3. **Sterilize work surfaces** with rubbing alcohol; minimize drafts
-4. Run a HEPA air cleaner (99.97% efficiency) for a few hours in a closed room
-5. **Flame sterilize scissors** with alcohol flame; snip mushroom cap as far up the stem as possible
-6. **Place cap gills-down** on jar bottom using straight pin; lid on loosely
-7. **Leave 2 days** in draft-free area away from direct sunlight
-8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid
-9. **Seal with tape**; store at room temperature in dark place (NOT refrigerator)
-
-### Spore Viability
-
-- Psilocybe cubensis spores begin degrading a few months after collection
-- After ~1.5 years: germination greatly reduced or absent
-- Fresh spores: massive and quick germination
-
-## Making a Spore Syringe
-
-1. **Prepare sterile syringes**: Boil water, draw into syringes, squirt out; refill, wrap in foil, boil 1 hour
-2. **Inject sterile water** into spore print jar through the needle hole in the lid
-3. **Flame sterilize glass stirring rod**; insert through center hole; scrape spores into water
-4. **Insert sterile syringe** through edge hole; tilt jar until water reaches needle tip; draw spore water into syringe
-5. **Protect lid holes** with tin foil or sterile surgical tape before and after
-
-## Alcohol Extraction (Advanced)
-
-PF describes a method for extracting psilocybin using 200-proof ethyl alcohol:
-
-1. Pulverize thoroughly dried mushrooms in a freezer bag
-2. Cover with 200-proof ethyl alcohol; shake; let sit 24 hours
-3. Filter through dust-pollen mask into drinking glass
-4. Retrieve mushroom material; resoak with fresh alcohol; repeat
-5. Combine extracts; evaporate with small fan to desired concentration
-6. Dispense with syringe for accurate dosing
-7. Store concentrated liqueur in small vials in freezer (alcohol does not freeze)
-
 ## See Also
 
 - [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest

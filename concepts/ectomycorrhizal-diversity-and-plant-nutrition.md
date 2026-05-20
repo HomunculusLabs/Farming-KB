@@ -6,7 +6,7 @@ type: concept
 ## Related Concepts
 
 - ectomycorrhizal function — broader overview of ECM roles in ecosystems
-- mycorrhizal carbon economy — carbon costs and benefits of mycorrhizal symbiosis
+- mycorrhizal carbon economy — carbon costs and benefits of [[mycorrhizal-symbiosis]]
 - soil resource heterogeneity — spatial patchiness of nutrients exploited by [[mycorrhizal-fungi]]
 - defoliation ecosystem impacts — effects of herbivory and defoliation on below-ground processes
 - fungal functional trait diversity — trait-based approaches to understanding fungal community function

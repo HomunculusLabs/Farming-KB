@@ -148,18 +148,6 @@ Any charcoal production method can produce biochar for soil amendment:
 See [[composting-methods-comparison]] for integration with biochar production.
 
 ## Safety Considerations
+## See Also
 
-- **Carbon monoxide:** Charcoal production produces CO. Work outdoors, never in enclosed spaces, and maintain upwind position.
-- **Fire risk:** Charcoal can reignite for 24-48 hours after production. Quench thoroughly before storage.
-- **Spontaneous combustion:** Never store hot charcoal in enclosed containers or near combustible materials.
-- **Burns:** Temperatures inside kilns reach 900-1100F. Use proper protective equipment.
-- **Groundwater:** Locate production away from wells and water sources. Charcoal tars can contaminate water.
-- **Permits:** Check local regulations; some areas restrict open burning or charcoal production.
-
-## Efficiency Comparison
-
-For off-grid cooking, charcoal is roughly 2-3 times more efficient than firewood by weight, meaning you need to produce, transport, and store much less fuel. However, the energy input to produce charcoal means the overall system efficiency (wood-to-cooked-food) is lower than cooking directly over wood. The trade-off is convenience, temperature control, and reduced smoke in the cooking area.
-
-## Related Topics
-
-Charcoal production connects to broader off-grid energy and soil systems. See [[pellet-stove-heating]] for another wood fuel processing method. The biochar byproduct integrates with [[composting-methods-comparison]] and soil building. Wood selection principles overlap with [[fungi-and-sustainability]] and forestry management on the homestead.
+- [[comparison-charcoal-production-for-cooking-vs-rocket-stove-design]]

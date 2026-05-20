@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Natural Habitats
 
-From Chapter 3 of *Mycelium Running* by [[paul-stamets]]. Understanding where mushrooms grow in nature is the foundation for successful cultivation and [[mycorestoration-overview]].
+From Chapter 3 of *Mycelium Running* by [[paul-stamets]]. Understanding where mushrooms grow in nature is the foundation for successful cultivation and [[mycorestoration]].
 
 ## The Mycorrhizal Majority
 
@@ -87,4 +87,4 @@ Stamets proposes the "Spore-Earth Unit" (SEU) — the amount of spores equivalen
 - [[fungal-ecology]] — Overview of fungal roles in ecosystems
 - [[saprotrophic-fungi]] — Detailed decomposition mechanisms
 - [[mushroom-cultivation-basics]] — 10-step cultivation process
-- [[mycorestoration-overview]] — Using fungi to restore damaged habitats
+- [[mycorestoration]] — Using fungi to restore damaged habitats

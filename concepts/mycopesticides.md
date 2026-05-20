@@ -140,28 +140,10 @@ Stamets also found that Beauveria bassiana produces attractants prior to sporula
 - Insects recruit others to their own destruction
 - After treatment, spores repel future invasions (long-term protection)
 - Uses genome as indigenous source — limits tolerance buildup
-- Minimizes harm to nontargeted insects
-- Reduces need for termite-resistant tropical hardwoods from rain forests
-- Spent mycelium becomes a soil amendment after remediation
-
-## Historical Context
-
-- **1834**: Agustino Bassi noticed Beauveria bassiana spores causing muscardine disease in silkworms — credited with conceiving "germ theory" before Pasteur (1858)
-- **1990s onward**: Multiple patents awarded on entomopathogenic fungi
-- **1950s-1960s**: "Better living through chemistry" era — toxic pesticides with devastating environmental impact
-
-## Stamets' Guiding Principles for Licensing
-
-1. Develop effective and environmentally safe methods — seek balance, not extinction
-2. License to those who will best promote nature-friendly alternatives, not to suppress them
-3. Respect intellectual property rights of native peoples; oppose biopiracy
-4. Encourage use in impoverished countries; provide financial support to nonprofits
-5. Respect sanctity of all species and preserve biodiversity
-
 ## See Also
 
 - [[fungal-pest-control]] for existing page on this topic
-- [[mycorestoration-overview]] for the umbrella concept
+- [[mycorestoration]] for the umbrella concept
 - [[stamets-patents]] for patent details
 - [[paul-stamets]] for the researcher
 - [[mycoremediation-basics]] for related fungal remediation techniques

@@ -137,29 +137,6 @@ Using multiple inoculation strategies simultaneously:
 
 ## Bunker Spawn — Scalable Habitat Restoration
 
-Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
-
-### Making Bunker Spawn
-1. Fill burlap sacks with fresh wood chips
-2. Inoculate with: pure culture plug spawn (100-200 per sack), sawdust spawn, recycled kit substrate, stem butts, or cardboard sheet spawn
-3. Stack 3 high on pallets or cardboard in shade
-4. Incubate 6-12 months; colonized bags become snow-white
-5. Select bags fused together by interconnecting rhizomorphs — these have the most vigorous mycelium
-6. Use to inoculate more bags (10-100x expansion), or place directly in the landscape
-
-### Applications
-- Place on watershed peripheries for mycofiltration
-- Filter contaminants from farm runoff (bacteria, viruses, nitrates, pesticides)
-- Create riparian buffer mycofiltration layers
-- Works with garden giants, woodlovers, turkey tails, cauliflowers, woodland Agaricus
-
-### Preferred Expansion Paths
-1. Pure culture plug spawn mixed into fresh wood chips in burlap bags (100-200 plugs/sack)
-2. Sawdust spawn or recycled mushroom kit substrate stuffed into wood chip burlap sacks
-3. Stem butt dowel spawn → mixed into wood chip burlap sacks
-
-**Rule: "Move it or lose it"** — spawn must be expanded before it consumes its substrate and dies back.
-
 ## See Also
 
 - [[mushroom-cultivation-basics]] — The 10-step cultivation process

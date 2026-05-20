@@ -148,11 +148,7 @@ Ventilation is the most important cold frame management task:
 - **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
 - **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
 - **Refresh the soil:** Add 1-2 inches of compost each spring before replanting
-- **Pest control:** Check for slugs and snails — they love the humid cold frame environment. Set beer traps or hand-pick.
+## See Also
 
-## Related Concepts
-
-- [[grow-tunnel-and-hoop-house]] for larger-scale season extension structures
-- [[solar-food-dehydrator-diy]] for another passive solar structure
-- [[geodesic-greenhouse-design]] for a permanent, year-round growing structure
-- [[cold-frame-construction]]
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
+- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]

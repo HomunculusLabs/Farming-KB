@@ -143,28 +143,6 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - **General-purpose**: Chandler (adaptable), Seascape (day-neutral), Albion (excellent flavor)
 
 ## Fertilizing
-
-- Apply balanced fertilizer at planting and after renovation
-- Side-dress with compost or balanced organic fertilizer in early spring as growth resumes
-- Avoid excess nitrogen — promotes vegetative growth at the expense of fruit
-- A light application of phosphorus at planting promotes root development
-- See [[blueberry-growing-guide]] for companion acid-loving fruit management
-
-## Common Problems
-
-### Pests
-- **Slugs and snails**: Straw mulch creates habitat; use beer traps, [[diatomaceous-earth]], handpick at night
-- **Strawberry sap beetle**: Small beetles in ripe fruit; harvest frequently, remove overripe berries
-- **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
-- **Tarnished plant bug**: Deforms fruit (cat-facing); control weeds that host them, use row covers at flowering
-- **Birds**: Net plants with bird netting as fruit ripens; support netting above plants
-
-### Diseases
-- **Gray mold (Botrytis)**: [[brown-rot]] on berries; remove infected fruit, improve air circulation
-- **[[powdery-mildew]]**: White coating on leaves; use resistant varieties, neem oil sprays
-- **Verticillium wilt**: Soil-borne; rotate crops, use resistant varieties
-- **Anthracnose**: Dark lesions on fruit; remove affected plants, avoid overhead watering
-
 ## See Also
 
 - [[blueberry-growing-guide]] for companion small fruit growing

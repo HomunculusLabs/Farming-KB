@@ -133,7 +133,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[reishi-cultivation-methods]]
 - [[growing-gourmet-substrate-preparation]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]
 - [[fruiting-conditions]]
 - [[spore]]
 - [[comparison-tomato-vs-pepper-growing]]

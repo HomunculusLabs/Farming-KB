@@ -56,7 +56,7 @@ This is the single most critical factor. If soil phosphorus exceeds approximatel
 
 ### Chemical Sensitivity
 
-Pesticides, herbicides, and fungicides impact mycorrhizal fungi and their associated soil organisms. Some chemicals kill mycorrhizae outright; others, like the fungicide metalaxyl, can actually stimulate mycorrhizal formation by eliminating competing fungi. [[smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms]] research should be consulted before applying any chemical in conjunction with [[mycorrhizal-inoculation-guide]].
+Pesticides, herbicides, and fungicides impact mycorrhizal fungi and their associated soil organisms. Some chemicals kill mycorrhizae outright; others, like the fungicide metalaxyl, can actually stimulate mycorrhizal formation by eliminating competing fungi. [[smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms]] research should be consulted before applying any chemical in conjunction with [[mycorrhizal-inoculation]].
 
 ## Do-It-Yourself Inoculum Production
 

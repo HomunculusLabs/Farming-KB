@@ -148,20 +148,3 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 
 | Zone | Key Systems | Visit Frequency | Priority |
 |------|-------------|-----------------|----------|
-| 0 | Cannabis grow, kitchen, KNF lab, vermicompost | Constant | Start here |
-| 1 | Vegetables, herbs, greenhouse, compost, ducks | Daily | Build in year 1 |
-| 2 | Fruit trees, berries, goats, bees, food forest edges | Daily-weekly | Build in year 1-2 |
-| 3 | Pasture, main crops, cover crops, full food forest | Weekly-monthly | Build in year 2-3 |
-| 4 | Woodlot, pond, foraging, mushroom logs | Monthly | Establish year 2-3 |
-| 5 | Wildlife corridor, IMO collection, observation | Rarely | Protect from day 1 |
-
-## Related Pages
-- [[permaculture-principles]] — Ethics and 12 design principles
-- [[permaculture-design]] — Zone/sector analysis methodology
-- [[permaculture-design-methods]] — Comprehensive design process and tools
-- [[keyline-design]] — Water storage and landscape patterning
-- [[edge-effect-and-microclimate]] — Edge theory for zone boundary design
-- [[integrated-homestead-design]] — Capstone synthesis of all systems
-- [[homesteading-infrastructure]] — Infrastructure planning by zone
-- [[seasonal-planning]] — Monthly calendar across all zones
-- [[food-forest-design]] — Food forest layer design

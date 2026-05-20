@@ -58,8 +58,6 @@ Soil fungi drive critical ecosystem processes including organic matter decomposi
 
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-nutrient-cycling-mineral-transformations]]
-- [[fungal-nutrient-cycling-mineral-transformations]]
-- [[fungal-nutrient-cycling-mineral-transformations]]
 - [[soil-fungi-biodiversity]]
 - [[fungi-soil-food-webs]]
 - [[fungal-biodiversity-tropical-ecosystems]]

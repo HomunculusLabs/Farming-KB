@@ -148,39 +148,3 @@ Drying is the traditional and preferred preservation method for porcini:
 2. Dehydrator: 95-110 F for 8-24 hours until brittle
 3. Oven: lowest setting with door propped open; 95-110 F for 6-12 hours
 4. Slice 1/4 to 1/2 inch thick for even drying
-
-### Storage
-
-- Completely dry until brittle (no flexibility)
-- Store in airtight glass jars away from light
-- Check for moisture periodically; re-dry if needed
-- Vacuum sealing extends storage life
-
-### Reconstitution
-
-- Soak in warm water for 20-30 minutes
-- Save the soaking liquid — it is intensely flavorful (strain through coffee filter)
-- Use both reconstituted mushrooms and liquid in soups, risottos, sauces, and braises
-
-## Culinary Use
-
-Porcini are among the most versatile and prized culinary mushrooms:
-
-- Fresh: sauteed, grilled, stuffed caps, risotto, pasta
-- Dried: reconstituted for risotto, soups, stews, braises, pasta sauces
-- Powdered: as a seasoning, umami booster, in rubs and compound butters
-- Pairs with: butter, Parmesan, garlic, thyme, cream, white wine, sage
-- The soaking liquid from dried porcini is liquid gold — never discard it
-- Fresh porcini have a shorter shelf life than many mushrooms (3-5 days refrigerated)
-
-## Common Problems
-
-- Wormy specimens: extremely common; slice to check, cut out damaged portions
-- Slimy texture: over-mature or improperly stored; use within 1-2 days of harvest
-- Bitter taste: mistaken identification (T. felleus); discard
-- Spoilage: fresh porcini deteriorate rapidly; process or dry within 48 hours
-
-## Related
-
-- [[truffle-guide]]
-- [[mushroom-cooking-techniques]]

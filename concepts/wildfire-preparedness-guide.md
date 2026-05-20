@@ -147,25 +147,8 @@ Keep a packed bag for each family member and pet at all times during fire season
 - Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
 - Keep insurance agent contact information readily available
 - Inventory all major purchases and improvements as they are made
+## See Also
 
-## Recovery After Wildfire
-
-- Do not return until fire authorities declare it safe
-- Check for structural damage before entering buildings
-- Test water sources — wells may be contaminated by fire retardant, ash, and debris
-- Document all damage immediately with photos and video for insurance claims
-- Contact your insurance company within 24-48 hours
-- Assess livestock injuries and separate from healthy animals
-- Remove ash and debris wearing N95 respirator, goggles, and gloves
-- Test soil for contamination if ash covered food-producing areas
-- Apply for FEMA assistance if the area receives a federal disaster declaration
-- Be aware of post-fire flooding and debris flow risk on burned slopes
-
-## Related Concepts
-
-- [[mushroom-foraging-safety-guide]] — General safety principles and risk management
-- [[homestead-first-aid-guide]] — First aid supplies for fire-related injuries
-- [[homestead-communication]] — Emergency communication during wildfire events
-- [[emergency-preparedness]] — Multi-hazard preparedness for earthquake zones
+- [[hurricane-preparedness-guide]]
 - [[earthquake-preparedness-guide]]
-- [[extreme-heat-preparedness]]
+- [[flood-preparedness-guide]]

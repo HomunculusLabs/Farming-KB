@@ -141,24 +141,6 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 ### Microscopy
 
-- Spore size and shape can indicate species and sometimes strain
-- Basidium morphology, cheilocystidia shape — taxonomic identification
-- Requires compound microscope (400-1000x magnification)
-
-### DNA Barcoding
-
-- ITS (Internal Transcribed Spacer) region is the standard barcode for fungi
-- Confirms species identification
-- Cannot reliably distinguish between strains of the same species
-- Commercial services available; costs $10-30 per sample
-
-### Breeding
-
-- Deliberate crossing: mate selected monokaryons with known traits
-- Requires isolating monokaryons first (from single-spore germination)
-- Test each cross for compatibility and performance
-- Time-intensive but allows creation of novel strains with desired trait combinations
-
 ## See Also
 
 - [[fungal-biology-fundamentals]] for the complete fungal lifecycle

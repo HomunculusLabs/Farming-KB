@@ -77,7 +77,7 @@ Fukuoka was not entirely alone in this thinking, and his ideas have found echoes
 - **Seed balls / *Tsuchi Dango***: The Japanese tradition of encasing seeds in clay for broadcasting, which Fukuoka formalized and popularized
 - **Guerrilla gardening**: Modern urban seed bombing uses similar clay-seed composites for ecological activism in neglected spaces
 - **Aerial reseeding**: Various projects have used aircraft to distribute seeds over degraded landscapes, though rarely with clay pellet protection
-- **[[mycorrhizal-inoculation-guide]]**: Modern ecological restoration increasingly includes mycorrhizal fungi alongside seeds — Fukuoka's soil coating anticipated this by decades
+- **[[mycorrhizal-inoculation]]**: Modern ecological restoration increasingly includes mycorrhizal fungi alongside seeds — Fukuoka's soil coating anticipated this by decades
 - **The Loess Plateau restoration**: China's large-scale revegetation project demonstrated that vegetation restoration can indeed influence regional hydrology and climate patterns, lending empirical support to Fukuoka's rain-from-the-ground hypothesis
 - **Niger's farmer-managed natural regeneration**: West African farmers regenerated millions of hectares by simply protecting naturally sprouting tree stumps — a "do-nothing" approach remarkably similar to Fukuoka's philosophy
 

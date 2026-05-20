@@ -148,7 +148,8 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Oryzopsis miliacea** (smilo, millet grass)
 - **Ribes spp**
 - **Sambucus spp** (elder) — edible fruits, flowers, roots
+## See Also
 
-## Notes
-
-Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].
+- [[alkaline-soil-tolerant-plants-permaculture]]
+- [[plants-tolerant-of-alkaline-soils]]
+- [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]

@@ -107,7 +107,7 @@ All Pleurotus species share similar substrate preparation:
 ## Related Topics
 
 - [[shiitake-cultivation-guide]] for sawdust block cultivation methods
-- [[enoki-cultivation-guide]] for another commercially important cultivated species
+- [[enoki-cultivation]] for another commercially important cultivated species
 - [[paddy-straw-mushroom]] for tropical mushroom cultivation comparison
 
 ## Related

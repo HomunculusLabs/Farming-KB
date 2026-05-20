@@ -143,41 +143,6 @@ The facilitator-participant relationship involves inherent power asymmetry:
 - This dynamic has been exploited in cases of sexual abuse, financial exploitation, and spiritual manipulation
 
 Ethical facilitation requires:
-
-- Clear boundaries and informed consent
-- Trauma-informed training
-- Accountability structures (oversight, peer review)
-- Transparency about facilitator's training, experience, and limitations
-- Right of participants to refuse or stop at any time
-- No sexual contact between facilitators and participants (zero tolerance)
-
-### Cultural Authenticity
-
-Questions for practitioners and participants:
-
-- Am I honoring or extracting from the tradition I am practicing?
-- Do I have the cultural context to practice this responsibly?
-- Am I being transparent about the origins of my methods?
-- Am I compensating the communities whose knowledge I am using?
-- Would the tradition's originators recognize and approve of how I am practicing?
-
-### Accessibility and Equity
-
-- Psychedelic therapy and ceremonies should be accessible beyond the wealthy
-- Sliding scale fees, scholarship programs, and community-based models
-- Recognition that indigenous communities often lack access to their own traditions due to criminalization
-- Advocacy for equitable policy reform that does not prioritize corporate interests
-
-## Synthesis: An Ethical Framework
-
-Five principles for ethical engagement with plant medicines:
-
-1. Acknowledge: Recognize and name the indigenous origins of the practices and plants
-2. Respect: Honor the boundaries set by source communities regarding how knowledge is used
-3. Reciprocate: Contribute materially, financially, and socially to source communities
-4. Sustain: Ensure ecological practices that protect plant populations and habitats
-5. Integrate: Approach the work with humility, ongoing learning, and willingness to be corrected
-
 ## See Also
 
 - [[entheogenic-ceremony-preparation]] — practical preparation including ethical considerations

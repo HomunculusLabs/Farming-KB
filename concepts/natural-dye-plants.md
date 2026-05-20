@@ -138,47 +138,6 @@ Integrate dye plants into the homestead landscape:
 5. Add pre-mordanted fiber to dye bath
 6. Simmer 30-60 minutes
 7. Cool in bath for best color absorption
-
-### Cold Extraction
-
-For delicate pigments (some flowers, berries):
-1. Soak plant material in water 24-48 hours
-2. Strain and use liquid as dye bath
-3. May require longer immersion times
-
-### Fermentation Extraction
-
-For indigo: leaves are fermented in alkaline water with a reduction agent to extract indican. See dedicated indigo resources for the complex vat process.
-
-## Modifiers
-
-Apply after dyeing to shift colors:
-
-- **Iron water** (rusty nails in vinegar, 2 weeks): Saddens/browns yellows, turns pinks to purple
-- **Ammonia**: Shifts some reds to brown-purple
-- **Vinegar/acid**: Brightens yellows, shifts some colors
-- **Copper after-bath**: Greens yellows
-- **Baking soda (alkaline)**: Shifts reds toward purple
-
-## Lightfastness and Washfastness
-
-Not all natural dyes are equal in permanence:
-
-- **Excellent**: Weld, madder, indigo, walnut hulls, cutch, cochineal
-- **Moderate**: Marigold, coreopsis, logwood, onion skin
-- **Poor**: Turmeric, berries (blackberry, elderberry), most flower petals without mordant
-
-Test all dyes on sample skeins before committing to a large project. Tape samples to a sunny window for 2 weeks to test lightfastness.
-
-## Sustainable Harvesting
-
-- Harvest no more than 1/3 of any wild plant stand
-- Leave roots of perennial dye plants to regenerate
-- Grow dye plants in dedicated garden beds
-- Compost spent dye plant material
-- Collect onion skins, avocado pits, tea leaves, and coffee grounds as kitchen waste dye sources
-- Use rainwater for dye baths when possible (mineral content varies with tap water)
-
 ## See Also
 
 - [[herbal-medicine]] — Overlap of medicinal and dye plants on the homestead

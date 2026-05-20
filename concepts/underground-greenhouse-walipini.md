@@ -148,24 +148,6 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
 - **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
 - **Night ventilation:** Leave vents open at night in summer to release accumulated heat
+## See Also
 
-### Temperature Management
-
-- **Monitor:** Place min/max thermometers at plant height and near the ceiling
-- **Heating backup:** In extreme cold (-20°F and below), a small space heater or rocket mass heater (see [[rocket-mass-heater-design]]) may be needed
-- **Thermal mass enhancement:** Add water barrels (painted black) along the back wall to increase heat storage capacity
-
-## Common Problems and Solutions
-
-- **Water infiltration:** Improve drainage. This is the most common and most serious problem — address it before building.
-- **Poor ventilation and mold:** Increase vent size, add a fan, ensure the top vent is high enough for effective chimney effect
-- **Summer overheating:** Increase ventilation, add shade cloth, consider removable roof panels for summer
-- **Poor light levels in winter:** Keep glazing clean, use reflective surfaces on the back wall, prune any vegetation that shades the structure
-- **Insect pests:** Screen all vents and doors; introduce beneficial insects (ladybugs, parasitic wasps)
-- **Soil-borne diseases:** Rotate crops, practice good sanitation, avoid overhead watering
-
-## Related Concepts
-
-- [[geodesic-greenhouse-design]] for an above-ground alternative with excellent structural efficiency
-- [[rocket-mass-heater-design]] for a supplementary heating system in very cold climates
-- [[cold-frame-gardening]] for the simplest passive solar growing structure
+- [[walipini-underground-greenhouse]]

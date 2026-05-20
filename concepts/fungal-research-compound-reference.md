@@ -148,31 +148,6 @@ Gram-scale synthesis of psilocin and psilocybin without chromatographic purifica
 ### Psilocin Synthesis (3 steps from 4-hydroxyindole)
 
 | Step | Transformation | Conditions | Yield |
-|------|---------------|------------|-------|
-| 1 | 4-hydroxyindole -> 4-acetylindole | Ac2O, pyridine, CH2Cl2, 0C to rt | Quantitative (34g from >185mmol) |
-| 2 | 4-acetylindole -> glyoxalylamide (yellow crystals) | (COCl)2, ether, 0C; then (CH3)2NH, THF | >80% |
-| 3 | Glyoxalylamide -> psilocin (white crystals) | LiAlH4, THF, reflux 2h | >85% (14.3g, 87.5%) |
+## See Also
 
-### Psilocybin Synthesis (key innovation: zwitterionic intermediate)
-
-| Step | Transformation | Conditions | Yield |
-|------|---------------|------------|-------|
-| 1 | Psilocin -> O,O-dibenzyl phosphate (7) | [(BnO)2PO]2O, n-BuLi, THF, -78C to 0C | Consumption confirmed by TLC |
-| 2 | Intramolecular rearrangement -> zwitterionic N,O-dibenzyl phosphate (8) | Suspension in CH2Cl2 overnight | >85% (10.5g) |
-| 3 | Catalytic hydrogenolysis -> psilocybin | H2, Pd/C, MeOH, rt | >72% (5.6g, 87.5%) |
-
-**Key discovery**: The O,O-dibenzyl phosphate derivative spontaneously converts to a zwitterionic N,O-dibenzyl phosphate (compound 8) via intramolecular transfer — one benzyl group migrates from oxygen to the nitrogen of the N,N-dimethyl group. This zwitterion is insoluble in CH2Cl2, enabling isolation by simple filtration instead of chromatography. Fully characterized by 1H, 13C, 31P NMR, HMBC, and NOESY.
-
-### Spectroscopic Data for Reference Compounds
-
-**Psilocin**: mp 169-174 dec C; UV (MeOH) lambda_max 222.5, 268.0, 284.5, 294.0 nm; HRESIMS m/z 205.1303 [M+H]+
-
-**Psilocybin**: mp 190-198 C; UV (MeOH) lambda_max 221.0, 267.5, 278.5, 290.0 nm; IR 3266, 1620, 1580 cm-1; 31P NMR delta -4.48; HRESIMS m/z 285.0991 [M+H]+
-
-**Previous yields**: Psilocybin synthesis was only 20% (Troxler 1959) and 47% (Nichols 1999) — this method represents a major improvement, achieving gram-scale production without any chromatographic purification.
-
-## Related Pages
-- [[mushroom-growing-reference]] — Cultivation parameters and species tips
-- [[psychedelic-compounds-reference]] — Compound pharmacology and dosing
-- [[mushroom-substrates]] — Grain spawn and substrate details
-- [[fungal-biology-fundamentals]] — Fungal lifecycle and fruiting triggers
+- [[marine-fungal-ecology-research]]

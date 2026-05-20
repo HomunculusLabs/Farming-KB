@@ -134,12 +134,6 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 
 | Goal | Recommended Fungal Group | Notes |
 |------|-------------------------|-------|
-| General disease resistance | AM fungi (Glomus, Rhizophagus) | Broad host range, easy to inoculate |
-| Forest tree protection | ECM fungi (Pisolithus, Suillus) | Essential for conifer health |
-| Vegetable garden protection | AM fungi + Trichoderma | Combination approach |
-| Pasture improvement | Endophytic fungi in grasses | Also deters insect pests |
-| Contaminated site restoration | Mycorrhizae + saprophytes | Combined remediation + plant support |
-
 ## See Also
 
 - [[mycorrhizal-fungi]] for comprehensive mycorrhizal coverage

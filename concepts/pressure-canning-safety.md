@@ -148,38 +148,7 @@ As an extra safety margin, the USDA recommends boiling all home-canned vegetable
 1. Open the jar
 2. Transfer contents to a saucepan
 3. Bring to a rolling boil
-4. Boil for 10 full minutes
-5. Cool and taste
+## See Also
 
-Botulinum toxin is destroyed by boiling for 10 minutes. This is a last resort — if a jar shows any warning signs, discard it without tasting.
-
-## Botulism Symptoms
-
-Onset: 12-36 hours after ingestion (range: 6 hours to 10 days)
-
-Symptoms (in order of typical appearance):
-1. Nausea and vomiting
-2. Abdominal cramps
-3. Dry mouth
-4. Difficulty swallowing or speaking
-5. Blurred or double vision
-6. Drooping eyelids
-7. Muscle weakness (descending — starts at the head, moves down)
-8. Respiratory failure (the cause of death in fatal cases)
-
-Medical treatment: Antitoxin administration and intensive respiratory support. Recovery can take weeks to months. Seek emergency medical care immediately if botulism is suspected.
-
-## Common Safety Mistakes
-
-1. Using a pressure cooker instead of a pressure canner — the most dangerous error
-2. Skipping the venting step — results in under-processing despite gauge showing correct pressure
-3. Not adjusting for altitude — under-processing at higher elevations
-4. Using old or untested recipes — only use USDA, Ball, or extension service sources
-5. Using damaged jars or lids — chips on the rim or old lids compromise the seal
-6. Forcing the canner to cool — let pressure drop to zero naturally
-7. Canning dairy, eggs, or pasta — not safe under any home canning method
-8. Adding thickeners — flour, cornstarch, and clear jel slow heat penetration
-
-## Related Topics
-
-For the complete canning process, see [[mason-jar-preserving-guide]]. For alternative preservation methods that avoid botulism risk entirely, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Understanding safe canning is part of broader [[food-fermentation-guide]] safety practices on the homestead.
+- [[comparison-pressure-canning-vs-water-bath-canning]]
+- [[pressure-canning-food-preservation]]

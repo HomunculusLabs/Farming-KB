@@ -32,7 +32,7 @@ Rabbits are hindgut fermenters — they digest fibrous material through cecal fe
 
 ### Commercial Pellets vs. Forage-Based Diets
 
-**Full pellet diet:** Simplest approach; ensures balanced nutrition; typically 16% protein grower pellets. Adult rabbits eat 4–6 oz per day; growing kits up to 8 oz. Cost-effective but reduces the integration benefit in permaculture systems.
+**Full pellet diet:** Simplest approach; ensures balanced nutrition; typically 16% protein grower pellets. Adult rabbits eat 4–6 oz per day; growing kits up to 8 oz. Cost-effective but reduces the integration benefit in [[permaculture]] systems.
 
 **Forage-based diet:** Requires more knowledge but closes nutrient loops. Components include:
 

@@ -69,7 +69,7 @@ industrial processes.
   accounting for all energy inputs (substrate production, sterilisation,
   climate control, labour).
 - **Comparing Biological vs. Industrial Systems**: The framework supports
-  comparing biological soil fertility methods ([[mycorrhizal-inoculation-guide]],
+  comparing biological soil fertility methods ([[mycorrhizal-inoculation]],
   composting) against industrial inputs (synthetic fertilisers, pesticides)
   on a common energy basis.
 - **Mycorrhizal Services Valuation**: EMERGY can quantify the energy value of

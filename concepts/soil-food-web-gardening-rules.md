@@ -10,9 +10,9 @@ type: concept
 - **Mycorrhizal assistance** — Extended nutrient reach and inter-plant sharing.
 - **Pathogen competition** — Diverse microbiology outcompetes disease organisms.
 - **Correct nitrogen form** — Nitrate for annuals, ammonium for perennials.
-- **Water management** — Aggregated soil both drains excess and retains
+- **[[water-management]]** — Aggregated soil both drains excess and retains
   moisture during drought.
-- **Pollutant decomposition** — Soil organisms break down pesticides and
+- **Pollutant [[decomposition]]** — Soil organisms break down pesticides and
   contaminants over time.
 - **Better taste and appearance** — Higher nutrient density and longer shelf
   life.

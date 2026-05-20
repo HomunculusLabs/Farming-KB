@@ -135,19 +135,6 @@ See also [[homestead-water-systems]] and [[water-management]].
 - **Strategies**: Build under 120 sq ft (no permit), permitted shell with natural interior finishes, or work with a structural engineer
 - Oregon, New Mexico, California have more established pathways for natural building
 - Owner-builder exemptions exist in many states — permits still required
-
-See also [[homesteading-infrastructure]] and [[greenhouse-design]].
-
-## Practical Navigation Tips
-
-1. **Start with your county**: Most regulations enforced at the county level
-2. **Join your local cooperative extension**: Best resource for agricultural regulations specific to your area
-3. **Connect with local farming community**: Practical realities vs. what's on the books
-4. **Document everything**: Permits, licenses, sales, expenses — essential for taxes, insurance, inspections
-5. **Stay current**: Subscribe to your state department of agriculture's newsletter
-6. **Attend local zoning meetings**: Building relationships before you need them
-7. **When in doubt, ask**: Most officials prefer to help you comply than to fine you
-
 ## See Also
 
 - [[selling-farm-products-and-business]] — Cottage food laws, business structure, insurance, land access

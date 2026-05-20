@@ -28,7 +28,7 @@ The best  fruit trees for permaculture-food-waste-cyclingod-forests-design-cours
 - **Yield**: 5–15 kg/tree/year
 - **Fruit**: Small blueberry-like berries; excellent fresh, dried, or in preserves; very high in antioxidants
 - **Why it excels**: Extremely cold-hardy (to -40°C); tolerates dry shade once established; early spring flowers for pollinators; beautiful multi-season ornamental; native across North America
-- **Food forest role**: Edge tree, understory, or hedgerow; early-succession species that improves soil
+- **[[food-forest]] role**: Edge tree, understory, or hedgerow; early-succession species that improves soil
 - **Cultivars**: 'Smoky', 'Thiessen', 'Northline', 'Honeywood', 'Martin'
 
 ### Cornelian Cherry (*Cornus mas*)

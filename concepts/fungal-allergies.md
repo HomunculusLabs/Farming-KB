@@ -148,24 +148,3 @@ Hypersensitivity pneumonitis (HP), also called extrinsic allergic alveolitis, is
 ### Avoidance
 
 - **Indoor moisture control**: Fix leaks, improve ventilation, maintain humidity below 50%, use dehumidifiers
-- **Mold remediation**: Professional remediation of water-damaged materials with visible mold growth. EPA guidelines recommend removal and replacement of contaminated porous materials (drywall, carpet, ceiling tiles)
-- **HEPA filtration**: High-efficiency particulate air (HEPA) filters reduce airborne spore concentrations
-- **Outdoor avoidance**: Monitor spore counts; limit outdoor activities during peak spore seasons; wear N95 masks during yard work or mold-disturbing activities
-- **HVAC maintenance**: Regular inspection and cleaning of heating and cooling systems
-
-### Pharmacotherapy
-
-- **Antihistamines**: Second-generation oral antihistamines (cetirizine, loratadine, fexofenadine) for rhinitis and conjunctivitis
-- **Intranasal corticosteroids**: First-line treatment for allergic rhinitis; effective for most symptoms
-- **Inhaled corticosteroids**: For fungal-related asthma; higher doses may be needed for SAFS
-- **Leukotriene receptor antagonists**: Montelukast may provide additional benefit
-- **Antifungal agents**: Azole antifungals (itraconazole, voriconazole) are used in ABPA and allergic fungal sinusitis as adjunctive therapy to reduce fungal burden
-- **Systemic corticosteroids**: For acute HP, ABPA exacerbations, and severe symptoms
-
-### Immunotherapy
-
-- **Subcutaneous immunotherapy (SCIT)**: Allergy shots for Alternaria and Cladosporium have demonstrated efficacy. Requires 3-5 years of treatment
-- **Sublingual immunotherapy (SLIT)**: Emerging evidence for efficacy with Alternaria extract
-- Limited availability of standardized fungal extracts compared to pollen extracts
-
-See [[fungal-toxins-reference]] for other health hazards from fungi and [[mycology-research-methods]] for techniques used in environmental fungal assessment.

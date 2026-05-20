@@ -6,14 +6,14 @@ type: concept
 ## Common Challenges and Troubleshooting
 
 - **Bacterial blotch** — caused by excessive moisture on caps; improve air circulation and reduce misting frequency
-- **Trichoderma contamination** — green mold on substrate; pasteurize at correct temperature (140-160°F for 2 hours)
+- **[[trichoderma]] contamination** — green mold on substrate; pasteurize at correct temperature (140-160°F for 2 hours)
 - **Slow pinning** — often due to insufficient fresh air exchange (FAE) or improper casing layer pH
 - **Stipe elongation** — stems stretch when CO2 is too high; increase FAE and ensure proper venting
 - **Cap scaling** — dry, flaky caps indicate low humidity during development; maintain 85-95% RH
 
 ## Substrate Preparation
 
-- Agaricus requires **composted substrate** — Phase I (outdoor composting) and Phase II (indoor pasteurization)
+- Agaricus requires **composted substrate** — Phase I (outdoor [[composting]]) and Phase II (indoor pasteurization)
 - Standard Phase I blend: wheat straw + poultry manure + gypsum, composted 14-21 days with regular turning
 - Agrocybe aegerita grows well on supplemented hardwood sawdust or pasteurized straw-based substrates
 - Casing layer (peat + limestone) is essential for Agaricus pinning — apply 1-2 inches after full colonization

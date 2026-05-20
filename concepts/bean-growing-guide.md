@@ -143,38 +143,6 @@ Drying beans are left on the plant until fully mature and dry, then shelled and 
 - Allow pods to dry completely on the plant (brown, brittle, rattling)
 - If frost threatens before pods are dry, pull entire plants and hang indoors to finish drying
 
-### Harvesting and Processing
-- Shell beans by hand or thresh by beating pods in a bag
-- Winnow to separate chaff (pour between bowls in a light breeze)
-- Spread beans on screens to dry further for 1-2 weeks
-- Beans are dry enough for storage when a thumbnail cannot dent them
-
-### Storage
-- Store in airtight containers (mason jars, mylar bags)
-- Cool, dark, dry location
-- Properly dried beans store for 1-3+ years
-- Freezing for 48 hours kills any bean weevil eggs
-
-## Pests and Diseases
-
-### Common Pests
-- **Mexican bean beetle**: Orange-yellow ladybug-like beetle; larvae defoliate plants. Handpick, use row covers, or spray with kaolin clay
-- **Aphids**: Hose off, encourage ladybugs and lacewings
-- **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
-- **Seed corn maggot**: Damages sprouting seeds; avoid planting in recently tilled soil with fresh organic matter
-
-### Common Diseases
-- **Anthracnose**: Dark lesions on pods and leaves; use certified disease-free seed, rotate crops
-- **Root rot**: Caused by overly wet soil; ensure good drainage
-- **Bean common mosaic virus**: Mottled leaves, stunted growth; use resistant varieties, control aphids
-
-## Companion Planting
-
-- Good companions: corn, cucumbers, potatoes, carrots, cabbage, marigolds
-- Avoid planting near onions, garlic, or other alliums (may inhibit growth)
-- Beans benefit potatoes and corn; legume nitrogen fixation helps heavy feeders
-- See [[brassica-growing-guide]] for interplanting with cabbage family
-
 ## See Also
 
 - [[cucumber-growing-guide]] for companion trellis crops

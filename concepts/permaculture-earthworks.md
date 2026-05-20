@@ -142,28 +142,6 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 
 ### Modern Adaptations
 
-- Small-scale chinampas can be built in ponds or marshy areas
-- The principle applies to any integrated land-water production system
-- Aquaponics draws heavily on chinampa concepts of coupling fish and plant production
-
-## General Principles for All Earthworks
-
-- Observe before acting: understand existing water flow, soil types, and vegetation
-- Start small: test designs on a small scale before committing to major earthworks
-- Always plan for overflow: every water-holding structure needs a safe spillway
-- Never create a situation where failure causes catastrophic damage downstream
-- Plant immediately: bare soil erodes fast — mulch and plant all disturbed areas
-- Work with the landscape: earthworks should amplify natural patterns, not fight them
-- Consider the whole watershed: your earthworks affect neighbors and downstream systems
-
-## Tools and Equipment
-
-- A-frame level or laser level for finding contour
-- Shovels, mattocks, and digging bars for small-scale work
-- Excavator or tractor with backhoe for medium-scale projects
-- Bulldozer for large-scale land reshaping
-- Keyline plow or subsoiler for deep soil loosening without inversion
-
 ## See Also
 
 - [[permaculture-zones-and-sectors]] for placing earthworks in the broader design

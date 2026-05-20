@@ -5,7 +5,7 @@ type: concept
 ---
 ## Third Bardo — Preliminary Instructions
 
-The Third Bardo is the period of re-entry — the return of consciousness to the body and to ordinary, game-playing reality ([[sidpa-bardo]]). The voyager is told that while they could not recognize the archetypal forms of the Second Bardo, and became unconscious through fear, their consciousness is now rising up "like a trout leaping forth out of water, striving for its original form." The former ego has started to operate again. The instruction is: do not struggle to figure things out. If through weakness the voyager is attracted to action and thinking, they will wander amidst the world of game existence and suffer pain. They should relax their restless mind and float back to the unobscured, primordial, bright, void state of the intellect.
+The [[third-bardo]] is the period of re-entry — the return of consciousness to the body and to ordinary, game-playing reality ([[sidpa-bardo]]). The voyager is told that while they could not recognize the archetypal forms of the Second Bardo, and became unconscious through fear, their consciousness is now rising up "like a trout leaping forth out of water, striving for its original form." The former ego has started to operate again. The instruction is: do not struggle to figure things out. If through weakness the voyager is attracted to action and thinking, they will wander amidst the world of game existence and suffer pain. They should relax their restless mind and float back to the unobscured, primordial, bright, void state of the intellect.
 
 If unable to relax the mind, the voyager is instructed to meditate on their protective figure or on their friends, thinking of them with profound love and trust. The voyager may feel the power to perform miraculous feats, perceive with extrasensory power, or change shape and traverse space and time. These feelings come naturally and should not be desired or exercised — they are merely signs of being in the Third Bardo. Frightening visions may come: gusts of wind, humming and clicking of controlling machinery, mocking laughter, imagined taunts of "guilty," "stupid," "inadequate," "nasty." These are the residues of selfish, ego-dominated game-playing. The voyager is reminded that they are struggling to re-enter the denser atmosphere of routine game existence, and should let the re-entry be smooth and slow without force of will-power. The winds of karma — the accumulated momentum of past actions and tendencies — may drive the voyager here and there, and they are instructed to let this happen without resistance.
 
@@ -27,7 +27,7 @@ Visions 1–3 occur with eyes closed, ignoring external stimuli. Visions 4–7 i
 
 ## Summary: The Core Teaching
 
-The Bardo guide texts form a complete navigational system for the psychedelic experience. From the initial encounter with the Clear Light, through the visionary landscapes of the Second Bardo, to the re-entry phase of the Third Bardo, the instructions provide a consistent teaching:
+The Bardo guide texts form a complete navigational system for the psychedelic experience. From the initial encounter with the [[clear-light]], through the visionary landscapes of the Second Bardo, to the re-entry phase of the Third Bardo, the instructions provide a consistent teaching:
 
 1. **Recognize** each experience as a product of your own consciousness
 2. **Do not cling** to any vision or flee from any terror

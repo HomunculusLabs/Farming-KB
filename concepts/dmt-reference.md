@@ -136,11 +136,6 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - Users should lie down before taking a hit — inability to stand is immediate
 - Smoking technique is critical; burning destroys DMT and produces harsh smoke
 - Set and setting are extremely important due to intensity
-- Integration time is needed after the experience despite its short duration
-- Contra-indicated with SSRIs, MAOIs, and many psychiatric medications
-- Cardiovascular effects: transient increases in blood pressure and heart rate
-- Psychological risk: overwhelming experiences can be traumatic without proper preparation
-
 ## See Also
 
 - [[psychedelic-compounds-reference]] — Broader compounds table

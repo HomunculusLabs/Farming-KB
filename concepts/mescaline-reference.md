@@ -143,37 +143,6 @@ As with all psychedelics, set (mindset) and setting (environment) profoundly inf
 ## Pharmacology
 
 - Primary mechanism: agonist activity at the 5-HT2A serotonin receptor
-- Also interacts with 5-HT2C, 5-HT1A, and alpha-2 adrenergic receptors
-- The phenethylamine structure means mescaline also has mild amphetamine-like stimulation
-- The 3,4,5-trimethoxy substitution pattern is the key pharmacophore
-- Mescaline is a partial agonist at 5-HT2A (lower intrinsic activity than LSD or psilocin)
-- Metabolized primarily by monoamine oxidase (MAO-A) and CYP2D6
-- Half-life: approximately 6 hours
-
-## Legal Status
-
-- United States: Schedule I under the Controlled Substances Act. Exception: peyote use by enrolled members of the Native American Church for bona fide religious ceremonies (American Indian Religious Freedom Act, 1994 amendments)
-- United Nations: Schedule I under the 1971 Convention on Psychotropic Substances
-- Canada: Schedule III under the Controlled Drugs and Substances Act
-- United Kingdom: Class A, Schedule I
-- Australia: Schedule 9 (prohibited substance)
-- Netherlands: mescaline itself is illegal, but live peyote and San Pedro cacti are legal to possess and grow
-- Mexico: peyote is protected under federal law; San Pedro and other species are generally legal
-- Peru and Bolivia: San Pedro and other traditional cacti are culturally protected; not scheduled
-- Many countries: the cacti themselves are legal to grow as ornamentals, but extraction of mescaline is illegal
-
-## Harm Reduction
-
-- Start with a low dose and wait 2+ hours before redosing (long onset time)
-- Have a trusted sitter present
-- Do not combine with MAOIs, stimulants, or other serotonergic drugs (serotonin syndrome risk)
-- Cardiovascular screening: mescaline increases heart rate and blood pressure
-- Avoid if personal or family history of psychosis or severe psychiatric disorders
-- Stay hydrated but do not overdrink water
-- Fasting for 4-6 hours before ingestion can reduce nausea
-- Integration: set aside time for reflection and processing after the experience
-- "La purga" (vomiting) is common and considered therapeutic in traditional contexts
-
 ## See Also
 
 - [[psychoactive-cacti-guide]] for detailed cactus species identification and cultivation

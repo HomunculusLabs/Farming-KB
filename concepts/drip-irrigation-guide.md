@@ -147,51 +147,7 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 - **Check valve**: Prevents fertilizer from siphoning back into the water source.
 
 ### Fertigation Schedule
+## See Also
 
-- Inject fertilizer during the last 15-20 minutes of an irrigation cycle (soil is already moist, nutrients move into root zone)
-- Frequency: weekly for heavy feeders, biweekly for moderate feeders
-- Use water-soluble organic fertilizers (fish emulsion, kelp extract, soluble seaweed)
-- Flush the system with clean water after each fertigation cycle to prevent salt buildup
-
-## Maintenance
-
-### Regular Tasks
-
-| Task | Frequency |
-|------|-----------|
-| Check emitters for clogs | Weekly during peak season |
-| Clean filter | Monthly |
-| Flush laterals | Monthly (open end caps, run water for 2 minutes) |
-| Inspect for leaks | Weekly |
-| Check pressure | Monthly |
-| Clean pump intake screen (if using pond/well) | Monthly |
-
-### Winterizing (Cold Climates)
-
-1. Shut off water supply
-2. Open all end caps and drain valves
-3. Blow out lines with compressed air (if freezing is severe)
-4. Store filters, regulators, and injectors indoors
-5. Cap or plug all exposed pipe ends to prevent debris entry
-
-### Troubleshooting Clogs
-
-- **Mineral deposits** (white crust): Soak emitters in vinegar for 30 minutes. Acid injection (phosphoric acid) can prevent future buildup.
-- **Organic slime**: Flush lines with hydrogen peroxide (3% solution). Ensure filter is functioning.
-- **Sand/silt**: Improve filtration. Install a sand media filter for well or surface water.
-
-## Watering Schedule Guidelines
-
-- **Vegetables**: 1-2 inches per week. In drip, run 30-60 minutes per zone, 2-3 times per week.
-- **Fruit trees**: 5-10 gallons per tree per week for established trees. More during fruit set.
-- **Raised beds**: Drain faster than in-ground beds; may need more frequent, shorter runs.
-- **Container plants**: May need daily watering in summer. Use 2-3 emitters per large container.
-- **Mulched gardens**: Reduce irrigation by 20-30% compared to bare soil.
-
-## Related Topics
-
-- [[rainwater-harvesting-systems]] for water source options
-- [[water-management]] for broader water strategy
-- [[season-extension-techniques]] for irrigation in protected culture
-- [[cover-cropping-guide]] for reducing irrigation needs through soil improvement
-- [[irrigation-watering-techniques]]
+- [[drip-irrigation-permaculture]]
+- [[drip-irrigation]]

@@ -148,9 +148,7 @@ Common homestead recipes include:
 - Do not store above 95F or below freezing
 - Remove rings before storage to detect seal failure
 - Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
-- Check seals before use: lid should be concave and should not flex when pressed
-- Discard any jar with a broken seal, bulging lid, or off odor
+## See Also
 
-## Related Topics
-
-For the critical safety aspects of pressure canning, see [[pressure-canning-safety]]. For other preservation methods, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Fresh produce for canning connects to [[perennial-vegetables]] and broader homestead food production.
+- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
+- [[comparison-food-dehydration-guide-vs-canning-and-preserving]]

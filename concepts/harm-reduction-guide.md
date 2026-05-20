@@ -139,21 +139,6 @@ Relative contraindications (use with caution and ideally under professional guid
 Call emergency services if:
 
 - Chest pain, difficulty breathing, or signs of hypertensive crisis
-- Seizures
-- Loss of consciousness lasting more than a few minutes
-- Severe hyperthermia (especially with MDMA)
-- Signs of serotonin syndrome (agitation, confusion, rapid heartbeat, high blood pressure, muscle rigidity, sweating)
-
-Be honest with medical professionals about what substances were taken. Most jurisdictions have Good Samaritan laws that protect people seeking medical help from drug-related charges.
-
-## Resources
-
-- DanceSafe (dancesafe.org) — drug checking, harm reduction supplies, education
-- Erowid (erowid.org) — comprehensive substance information and experience reports
-- PsychonautWiki (psychonautwiki.org) — detailed pharmacological information
-- MAPS (maps.org) — psychedelic research and therapy training
-- Fireside Project (firesideproject.org) — psychedelic peer support hotline
-
 ## See Also
 
 - psychedelic integration guide — post-experience care and integration

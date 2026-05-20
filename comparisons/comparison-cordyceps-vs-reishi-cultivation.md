@@ -10,7 +10,7 @@ sources: ['raw/papers/working-with-agar.md']
 
 ## Overview
 
-Cordyceps ([[reishi-cultivation-guide]]) are two of the most sought-after medicinal
+Cordyceps ([[reishi-cultivation]]) are two of the most sought-after medicinal
 mushrooms in the world, yet their cultivation demands are strikingly
 different. [[cordyceps-militaris]] is a fastidious, parasitic fungus that
 fruits on grain substrates under precise sterile conditions. Reishi
@@ -21,7 +21,7 @@ target market.
 
 ## Cordyceps Cultivation
 
-[[reishi-cultivation-guide]]
+[[reishi-cultivation]]
 
 Reishi is one of the most forgiving medicinal [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]].
 It grows aggressively on supplemented hardwood sawdust (oak preferred

@@ -6,12 +6,12 @@ type: concept
 ## Key Principles Summary
 
 - **Healthy soil suppresses weeds naturally**—focus on building biology, not killing weeds
-- **Mycorrhizal fungi give crops a competitive edge** over weed species
+- **[[mycorrhizal-fungi]] give crops a competitive edge** over weed species
 - **Most insects are beneficial**—protect and encourage predator populations
 - **Chemicals are counterproductive**—they destroy the very organisms that manage weeds and pests
 - **Mulch is your primary tool**—2–3 inches of bacteria-supporting mulch applied preventively
 - **Consistent compost tea applications** maintain the active soil biology that drives the system
-- **Patience pays off**—weeds like chickweed disappear once the soil food web is fully restored
+- **Patience pays off**—weeds like chickweed disappear once [[the-soil-food-web]] is fully restored
 
 ## Key Concepts and Applications
 

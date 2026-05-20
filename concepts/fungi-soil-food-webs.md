@@ -148,26 +148,3 @@ Fungal hyphae respond dynamically to spatial and temporal heterogeneity in soil 
   - **Domain**: Moderately dense exploration with intermittent branching (e.g., many ECM fungi)
 
 ## Seasonal Dynamics
-
-Fungal biomass and activity fluctuate seasonally:
-
-- **Temperate forests**: Peak fungal biomass and fruiting in autumn, corresponding to leaf fall and increased moisture. Minimum in winter (low temperatures) and summer (drought).
-- **Grasslands**: Peak activity in spring and autumn; summer drought reduces activity.
-- **Tropical forests**: Less seasonal variation; fungal activity tracks rainfall patterns.
-- **Agricultural soils**: Peaks after crop planting (root exudate stimulation) and after harvest (residue incorporation).
-
-## Key References
-
-- Moore, J.C. & Hunt, H.W. (1988) "Resource compartmentalization and the stability of real ecosystems." Nature 333: 261-3.
-- Wardle, D.A. (2002) *Communities and Ecosystems: Linking the Aboveground and Belowground Components*. Princeton University Press.
-- de Vries, F.T. et al. (2006) "Fungal/bacterial ratios in grasslands with contrasting nitrogen management." Soil Biology and Biochemistry 38: 2092-103.
-
-## Related Pages
-
-- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
-- [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
-- [[fungal-bacterial-interactions]] -- competition and cooperation
-- [[glomalin-and-soil-carbon]] -- AM fungal glycoprotein for soil aggregation
-- [[soil-food-web-nutrient-cycling]] -- full soil food web structure
-- [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
-- [[no-till-gardening-method]] -- impacts on fungal communities

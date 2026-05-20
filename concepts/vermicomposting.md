@@ -138,27 +138,6 @@ With stacking tray systems, simply remove the bottom tray (which contains the ol
 
 ## Vermicompost Tea
 
-Worm casting tea is made by steeping finished vermicast in aerated water:
-
-1. Add 1-2 cups of worm castings per 5 gallons of dechlorinated water.
-2. Aerate with an air pump and stone for 18-24 hours.
-3. Optionally add 1 tablespoon unsulfured molasses as microbial food.
-4. Apply as a soil drench (undiluted or diluted 1:1) or foliar spray.
-
-See [[compost-tea-brewing]] for detailed brewing guidance.
-
-## Troubleshooting
-
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Foul odor | Overfeeding, anaerobic conditions | Stop feeding, add dry bedding, improve aeration, remove rotting material |
-| Fruit flies | Exposed food, fruit scraps on surface | Bury food deeper, add a layer of dry newspaper on top, use a fruit fly trap |
-| Worms escaping | Bin too acidic, too wet, too hot, or new worms adjusting | Check pH (add eggshells if acidic), improve drainage, reduce feeding, keep a light on above the bin for the first few days |
-| Worms dying | Temperature extremes, toxins (pesticides, salt, citrus overload) | Ensure proper temperature range, review what was fed, remove contaminated material |
-| Moldy food | Normal in small amounts | Bury food deeper; mold is part of the decomposition process and not harmful |
-| Slow processing | Population too small, food too large, bedding too wet | Add more worms, chop food smaller, add dry bedding |
-| Mites (tiny red/brown dots) | Overly wet, overfed bin | Reduce moisture and feeding, add dry bedding, leave bin open briefly |
-
 ## See Also
 
 - [[composting-systems]] — Traditional thermophilic composting methods

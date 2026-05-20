@@ -147,36 +147,8 @@ A soil bacterium that produces proteins toxic to specific insect groups when ing
 - **Safety**: Extremely specific — harms only the target insect group. Safe for humans, beneficial insects, and pollinators.
 
 ### Spinosad
+## See Also
 
-A natural insecticide derived from a soil bacterium (Saccharopolyspora spinosa).
-
-- **Controls**: caterpillars, thrips, Colorado potato beetle, flea beetles, spider mites, fruit flies
-- **Application**: Spray every 7-14 days. Toxic to bees for 3 hours after application — spray in the evening.
-- **Caution**: More broad-spectrum than Bt; can harm some beneficial insects.
-
-## Integrated Use of Natural Deterrents
-
-### Principles
-
-1. **Identify the pest first**: Different pests require different treatments. Misidentification leads to ineffective treatment and unnecessary spraying.
-2. **Start with the least toxic option**: Cultural controls (hand-picking, row covers, trap crops) before sprays. See [[trap-cropping]] and [[beneficial-insects-guide]].
-3. **Target sprays**: Spray only affected plants, not the entire garden. Protect beneficial insect habitat.
-4. **Rotate treatments**: Pests can develop resistance to repeated use of the same product. Alternate between neem, soap, Bt, and other controls.
-5. **Timing matters**: Spray when pests are most vulnerable (usually the young/crawling stage) and when beneficial insects are least active (evening).
-6. **Monitor results**: Check treated plants 2-3 days after application. If the treatment is not working, reassess the pest identification and try a different approach.
-
-### When Sprays Are Not Enough
-
-If pest populations exceed what natural deterrents can manage:
-- Evaluate cultural practices (crop rotation, sanitation, plant health)
-- Increase habitat for beneficial insects (see [[insectary-plantings]])
-- Accept some level of damage — complete pest elimination is neither realistic nor desirable
-- Consider more intensive intervention only as a last resort
-
-## Related Topics
-
-- [[trap-cropping]] for attracting pests away from crops
-- [[beneficial-insects-guide]] for biological pest control
-- [[insectary-plantings]] for supporting beneficial insect populations
-- [[nematode-management|nematode]]-management for soil pest management
-- [[companion-planting-reference]] for plant-based pest deterrence
+- [[jadam-natural-pest-control-methods]]
+- [[fukuoka-natural-fruit-tree-pest-control]]
+- [[natural-farming-pest-management]]

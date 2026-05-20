@@ -148,17 +148,3 @@ Many states have implemented social equity provisions to address disproportionat
 
 ## Interstate Issues
 
-Despite state-level legalization, federal issues remain:
-- **Interstate transport:** Illegal under federal law, even between legal states
-- **Banking:** Most federally insured banks won't serve cannabis businesses
-- **Taxation:** Section 280E prevents standard business deductions
-- **Employment:** Federal contractors can still test for cannabis
-- **Housing:** Federal housing regulations prohibit cannabis in subsidized housing
-- **Travel:** Cannabis cannot be brought on airplanes (TSA jurisdiction)
-
-## Staying Current
-
-- State cannabis regulatory agency websites
-- NORML (National Organization for the Reform of Marijuana Laws)
-- MPP (Marijuana Policy Project)
-- Local cannabis attorney consultations

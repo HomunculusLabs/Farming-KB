@@ -10,7 +10,7 @@ sources:
 
 ## Ayahuasqueros
 
-An ayahuasquero (also ayahuasquera for female practitioners) is a
+An [[ayahuasquero]] (also ayahuasquera for female practitioners) is a
 shaman or healer who specializes in preparing and administering
 ayahuasca, the visionary brew used throughout the Amazon basin for
 healing, divination, and spiritual exploration. The term derives

@@ -148,22 +148,6 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 | Gouda | 2.5 kg / 9 kg / 23 kg (increasing) | 20 min / 20 min / 12 hr |
 | Cheddar | 5 kg / 11 kg / 22 kg | 15 min / 15 min / 12 hr |
 | Parmesan | 5 kg / 11 kg / 22 kg / 45 kg | 30 min / 30 min / 2 hr / 12 hr |
+## See Also
 
-## Additional Useful Equipment
-
--  **Yogurt maker** — An electric incubator that maintains 40-43 C for yogurt fermentation. Alternatively, use a dehydrator, thermos, or oven with the light on.
--  **Cheese wax melter** — Small electric pot for melting cheese wax evenly. Prevents scorching. Cost: $30-60.
--  **Curd knife** — A long, thin knife (30+ cm) with a flat blade for cutting curds evenly.
--  **pH meter** — Essential for consistent cheese making. Measures acidity development during the cheese making process. Cost: $50-200.
--  **Refractometer** — Measures total solids in milk. Useful for assessing milk quality and predicting cheese yield. Cost: $30-100.
-
-## Equipment Maintenance
-
-- Clean all dairy equipment immediately after each use — milk residue bakes onto surfaces and becomes nearly impossible to remove
-- Use dairy-specific cleaners (alkaline wash for milk fat removal, acid wash for mineral deposits)
-- Sanitize before each use with a dairy sanitizer
-- Replace rubber parts (inflatable liners, gaskets) annually or when they show signs of wear
-- Store stainless steel equipment dry to prevent pitting
-- Follow manufacturer maintenance schedules for milking machines (oil vacuum pump, check pulsator timing)
-
-See also: [[homestead-dairy-guide]]
+- [[homestead-dairy-guide]]

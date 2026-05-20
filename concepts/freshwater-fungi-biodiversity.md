@@ -148,32 +148,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 - Single-spore isolation on agar media
 
 **Hyphomycetes**:
-- Bubble chamber technique for conidia from water samples
-- Leaf litter bags placed in streams and retrieved at intervals
-- Conidia counted and identified under compound microscope
+## See Also
 
-## Ecological Importance
-
-- **Decomposition**: Primary agents of plant litter breakdown in aquatic ecosystems, especially important in headwater streams
-- **Nutrient cycling**: Release bound nutrients from detritus, making them available to aquatic food webs
-- **Energy flow**: Fungal biomass (especially hyphomycetes) provides high-quality food for invertebrate shredders
-- **Population control**: Parasitic chytrids and Peronosporomycetes regulate algal and invertebrate populations
-- **Food web support**: Fungi are more nutritious than detritus alone and enhance detrital food quality
-
-## Conservation Concerns
-
-Freshwater habitats are disappearing rapidly due to:
-- Agricultural practices and nutrient pollution
-- Land development and urbanization
-- Channelization and dam construction
-- Climate change altering flow regimes
-
-Many freshwater fungi remain undocumented, and species may be lost before discovery. Long-term monitoring of fungal communities in freshwater habitats is urgently needed.
-
-## Related Topics
-
-- [[aquatic-fungi-and-ingoldian-spores]] — Ingoldian freshwater hyphomycetes
-- [[fungal-biodiversity-biogeography]] — Global diversity patterns
-- [[fungal-ecology]] — Fungal ecology overview
-- [[saprotrophic-fungi]] — Decomposer strategies
-- [[fungal-parasites]] — Parasitic fungi
+- [[biodiversity-fungi-freshwater-aquatic-habitats]]
+- [[biodiversity-of-fungi-freshwater-survey-collection-methods]]

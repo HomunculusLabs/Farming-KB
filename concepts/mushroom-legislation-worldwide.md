@@ -148,53 +148,6 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 ### Japan
 
 - Psilocybin is controlled under the Narcotics and Psychotropics Control Law
-- Psilocybin mushrooms were specifically banned in 2002 (previously existed in a legal gray area)
-- Strict enforcement; possession and cultivation are criminal offenses
+## See Also
 
-### Australia
-
-- Psilocybin is Schedule 9 (prohibited) nationally
-- In 2023, Australia became the first country to reschedule psilocybin and MDMA for therapeutic use — reclassified as Schedule 8 (controlled drug) for use in approved psychiatric settings
-- This landmark decision allows authorized psychiatrists to prescribe psilocybin for treatment-resistant depression
-- Personal possession and cultivation remain criminal offenses
-
-### New Zealand
-
-- Class A controlled substance under the Misuse of Drugs Act
-- No medical or religious exemptions
-
-## Africa
-
-- Most African nations have strict drug laws inherited from colonial-era legislation
-- South Africa: psilocybin is listed as a Schedule 7 (undesirable) substance; recent court challenges have sought decriminalization
-- Several species of Psilocybe are indigenous to sub-Saharan Africa
-
-## Trends and Reform
-
-### Decriminalization vs. Legalization
-
-- **Decriminalization**: removal of criminal penalties for personal possession/use (civil penalties may remain)
-- **Legalization**: regulated legal market for production and sale
-- **Medical rescheduling**: allowing medical use under supervised conditions
-- Most current reform efforts focus on decriminalization and medical access rather than full legalization
-
-### Key Reform Drivers
-
-- Growing body of clinical evidence for therapeutic efficacy (depression, PTSD, end-of-life anxiety, addiction)
-- Public opinion shifts: support for psychedelic reform has increased steadily since ~2015
-- Indigenous rights frameworks supporting traditional use
-- Economic arguments: potential for regulated psychedelic therapy industry
-- Failure of the "war on drugs" paradigm
-
-### Ongoing Research and Regulatory Breakthroughs
-
-- FDA has granted "Breakthrough Therapy" designation to psilocybin for treatment-resistant depression
-- Phase 3 clinical trials by Compass Pathways and other organizations are ongoing
-- Multiple countries are developing regulatory frameworks for psychedelic-assisted therapy
-
-## Related Pages
-
-- [[psychedelic-therapy-current-research]] for the arc of research and prohibition
-- [[psychedelic-compounds-reference]] for pharmacological context
-- [[psychedelic-mushroom-history]] for the cultural history
-- [[harm-reduction-guide]] for safety in contexts where mushrooms are accessible
+- [[oyster-mushroom-bagging-methods-worldwide-comparison]]

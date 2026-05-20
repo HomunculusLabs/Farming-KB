@@ -144,44 +144,6 @@ Prevention:
 - Keep the root chamber completely light-proof
 
 ## Nutrient Solution for Aeroponics
-
-Aeroponics requires clean, well-filtered nutrient solutions:
-- Always use RO or distilled water
-- Filter nutrients through a 50-micron filter before adding to the reservoir
-- Use synthetic mineral nutrients — organic nutrients clog nozzles
-- Keep EC lower than in other hydro systems (roots absorb more efficiently)
-- Change reservoir weekly
-- Target pH 5.8-6.0 (narrower range than other hydro methods)
-
-Typical EC targets for cannabis:
-- Clones: 0.2-0.4
-- Early veg: 0.6-1.0
-- Late veg: 1.0-1.5
-- Early flower: 1.2-1.8
-- Mid flower: 1.5-2.0
-- Late flower: 1.2-1.6 (reducing nitrogen)
-
-## Power Failure Preparedness
-
-Aeroponics is the most vulnerable system to power outages:
-- Roots in open air dry out in 30-60 minutes without misting
-- Always have a backup power solution (battery backup UPS, generator)
-- Consider an automatic battery backup that switches on during outages
-- Keep a manual mister bottle as emergency backup
-- For critical grows, consider a dual-pump setup with automatic failover
-
-## Aeroponics vs Hydroponics Comparison
-
-| Feature | Aeroponics | DWC | NFT | Ebb/Flow |
-|---------|-----------|-----|-----|----------|
-| Growth rate | Fastest | Fast | Moderate | Moderate |
-| Oxygen at roots | Maximum | Good | Good | Good |
-| Water efficiency | Highest | High | High | Moderate |
-| Complexity | Highest | Low | Moderate | Moderate |
-| Cost | Highest | Low | Moderate | Moderate |
-| Failure risk | Critical | Moderate | High | Moderate |
-| Root monitoring | Excellent | Poor | Good | Poor |
-
 ## See Also
 
 - [[hydroponic-growing-basics]] for simpler hydroponic alternatives

@@ -143,20 +143,6 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 
 - Small-scale commercial cultivation exists in China (using complex outdoor bed systems)
 - Indoor cultivation remains inconsistent and expensive
-- The morel life cycle is not fully understood — it may involve a sexually incompatible mating system
-- sclerotia (hardened mycelial masses) appear to be important in the life cycle
-- Soil conditions, microbial associates, and environmental triggers are all poorly characterized
-- Several companies sell "morel grow kits" but results are highly variable
-- Outdoor cultivation in prepared beds is the most promising approach
-
-### Why So Difficult?
-
-1. Complex life cycle with multiple phases (mycelium, sclerotia, fruiting)
-2. Specific environmental triggers (temperature fluctuation, soil chemistry) not fully known
-3. Likely requires specific bacterial associates in soil
-4. Mating system may require compatible strains
-5. Fruiting triggers may involve soil chemicals that are hard to replicate
-
 ## See Also
 
 - [[mushroom-cooking-techniques]] — Cooking morels safely and deliciously

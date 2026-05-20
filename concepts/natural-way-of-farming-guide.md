@@ -139,50 +139,6 @@ Fukuoka's most radical claim: fruit trees do not need pruning if grown in their 
 Detailed semi-wild cultivation method integrated into orchards. See [[fukuoka-soil-building-method]] for soil-building context.
 
 ## Book IV: Nature Farming Throughout the World
-
-### Global Applications
-
-Fukuoka applied his methods across continents:
-
-**Somalia (1985)**: Vegetated desert slopes near the Indian Ocean using clay seed balls of desert grasses, then green manure crops, then fruit trees. Trees grew 12 feet in 2-3 years on previously barren land.
-
-**India**: In the state of Karnataka, helped restore degraded lands by direct-seeding native species in clay pellets.
-
-**Thailand**: The "clover revolution" was adapted using local legumes as ground cover.
-
-**United States**: Visited farms in California; argued that natural farming takes "a distinctive form in accordance with the unique conditions of the area."
-
-### Three-Dimensional Field Use
-
-"By making full, three-dimensional use of the field" — rice below, barley alongside, clover on surface, ducks or carp in water — "one can at the same time produce good protein foods." This is an early articulation of polyculture stacking later formalized in permaculture.
-
-## Book V: Nature Farming and Philosophies of East and West
-
-### Critique of Western Science
-
-"Scientists believe that nature can be understood by dividing it into small parts and studying the mechanisms of each part." Fukuoka argues this approach can never understand nature as a whole. "The human intellect can never grasp the totality of nature."
-
-### The Road to Natural Farming
-
-"In making the transition to this kind of farming, some weeding, composting or pruning may be necessary at first, but these measures should be gradually reduced each year. Ultimately, it is not the growing technique, which is the most important factor, but rather the state of mind of the farmer."
-
-### Straw as Revolution
-
-Fukuoka's most persistent advocacy: returning all straw to the field uncut. "It is from just such a small matter that shall emerge the future of Japanese agriculture." He fought a lifelong battle against the practice of burning rice straw, which agricultural scientists had declared necessary to prevent rice blast disease.
-
-## Key Differences from One-Straw Revolution
-
-| Aspect | One-Straw Revolution | Natural Way of Farming |
-|--------|---------------------|----------------------|
-| Tone | Conversational, memoir | Systematic, technical |
-| Depth | Introduces concepts | Full method specifications |
-| Philosophy | Brief Mu explanation | Extended critique of science |
-| Data | Qualitative observations | Yield figures, dates, quantities |
-| Orchard | Brief mention | Full chapter on no-pruning |
-| Soil | General principles | 5-10 year soil-building timeline |
-| Global | Suggests applications | Somalia, India, Thailand examples |
-| Citrus pests | General | Specific species-by-species guide |
-
 ## See Also
 
 - [[one-straw-revolution-guide]] — The narrative/philosophical companion

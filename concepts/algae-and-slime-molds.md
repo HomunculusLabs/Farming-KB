@@ -5,11 +5,11 @@ type: concept
 ---
 ## Summary
 
-| Feature | Algae | Slime Molds |
+| Feature | Algae | [[slime-molds]] |
 |---|---|---|
 | Nutrition | Photoautotrophic | Heterotrophic |
 | Habitat | Soil surface (needs light) | Damp organic matter |
-| Key groups | Chlorophyta, Xanthophyta, Bacillariophyta | Dictyosteliomycota, Myxomycota |
+| Key groups | [[chlorophyta]], Xanthophyta, [[bacillariophyta]] | [[dictyosteliomycota]], [[myxomycota]] |
 | Soil role | [[ectomycorrhizal-biocontrol-fungal-balance-primary-production]], N fixation, structure | Nutrient cycling, soil binding |
 
 Together, algae and slime molds illustrate the remarkable diversity of life in

@@ -141,14 +141,6 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 - Support long-term integration of new perspectives
 
 ## Gartz on the Promise and Perils
-
-Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
-
-- **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
-- **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
-- **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases
-- **Caution with diagnoses:** Schizophrenia-spectrum patients generally did not benefit and could be harmed; careful screening was essential
-
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Pharmacology and toxicity

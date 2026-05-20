@@ -90,4 +90,3 @@ Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other 
 - [[tryptamine-family-overview]]
 - [[ayahuasca-pharmacology]]
 - [[5-meo-dmt-reference]]
-- [[5-meo-dmt-reference]]

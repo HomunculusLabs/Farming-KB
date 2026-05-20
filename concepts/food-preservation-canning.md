@@ -136,29 +136,6 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 - Darkness: Light causes potatoes to green and onions to sprout
 - Ventilation: Some airflow to prevent mold and gas buildup
 
-### Suitable Crops
-- **Root vegetables**: Carrots, beets, parsnips, turnips, rutabagas — store in damp sand, sawdust, or leaves
-- **Potatoes and sweet potatoes**: Dark, cool (not as cold as roots — 45-50°F for sweet potatoes)
-- **Onions and garlic**: Cool, dry conditions (lower humidity than root vegetables)
-- **Winter squash and pumpkins**: Cool, dry conditions (50-55°F)
-- **Apples and pears**: Cool, slightly humid conditions. Store away from root vegetables (apples emit ethylene gas that causes sprouting)
-- **Cabbage**: Can be stored in root cellars, often hung by the root
-
-## Quick Reference: Method Selection
-
-| Food | Best Method(s) |
-|------|---------------|
-| Tomatoes | Water bath canning (with acid), freezing, drying |
-| Green beans | Pressure canning, freezing |
-| Peaches, berries | Water bath canning, freezing, drying |
-| Carrots, beets | Root cellaring, pressure canning, freezing |
-| Cabbage | Fermentation (sauerkraut), root cellaring |
-| Herbs | Drying, freezing in oil |
-| Corn | Pressure canning, freezing (better texture) |
-| Meat | Pressure canning, freezing, drying (jerky) |
-| Broccoli, cauliflower | Freezing (blanched) |
-| Winter squash | Root cellaring, freezing (cooked) |
-
 ## See Also
 
 - [[homestead-canning-recipes]]

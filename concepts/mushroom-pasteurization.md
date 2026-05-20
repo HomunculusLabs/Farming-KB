@@ -62,3 +62,19 @@ Transfer cooled bags to the inoculation area. Bags should be inoculated within 2
 - [[mushroom-substrates]] — Substrate science and alternatives
 - [[mushroom-cultivation-basics]] — Facility adaptations for disabilities
 - [[mushroom-cultivation-basics]] — Overview of the full cultivation process
+## Practical Considerations
+
+Effective pasteurization requires careful temperature management throughout the process. Monitoring substrate core temperature ensures uniform treatment and eliminates competitive organisms while preserving beneficial microbes that support subsequent mycelial colonization.
+
+## Safety and Quality
+
+Always verify temperature thresholds are maintained for the full duration specified by the chosen method. Incomplete pasteurization is one of the most common causes of contamination in mushroom cultivation, leading to reduced yields and wasted substrate.
+## Methods Overview
+
+Common pasteurization approaches include hot water bath treatment, steam injection, and chemical lime bath immersion. Each method has specific temperature requirements and treatment durations that must be followed precisely for optimal results.
+## Temperature Guidelines
+
+Maintain substrate temperature between 60-82°C (140-180°F) for the duration of treatment. Higher temperatures risk sterilization which eliminates beneficial organisms, while lower temperatures may fail to eliminate contaminants effectively.
+Properly pasteurized substrate provides an optimal growing environment for mushroom mycelium.
+This process is fundamental to commercial and home mushroom cultivation success.
+

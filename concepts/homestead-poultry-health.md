@@ -148,47 +148,8 @@ of disease on your homestead.
 - **Newcastle Disease:** Live vaccine, can be administered in water or by
   eye drop. Recommended in areas where ND is endemic.
 - **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
-  laying flocks to protect egg production.
-- **Fowl Pox:** Wing-web puncture vaccine. Recommended where mosquitoes are
-  prevalent.
+## See Also
 
-### Optional Vaccines
-- **Coryza, Fowl Cholera:** Where endemic. Bacterin, injected.
-- **Infectious Laryngotracheitis (ILT):** Eye drop or water vaccine. Where
-  endemic or high-density poultry areas.
-- **Turkey diseases:** See [[turkey-husbandry]] for turkey-specific vaccination.
-
-### Vaccination Tips
-- Store refrigerated (never frozen for most types). Follow manufacturer
-  instructions exactly. Do not vaccinate sick birds.
-- Discard expired or improperly stored vaccines. Keep records.
-
-## Quarantine
-
-Quarantine is the single most important biosecurity practice for new birds.
-
-- Duration: minimum 2 weeks, ideally 4 weeks.
-- Location: physically separated — minimum 30 feet from existing flock.
-- Care for quarantined birds AFTER the main flock. Use separate clothing,
-  footwear, and tools.
-- Observe daily for lethargy, respiratory signs, diarrhea, mortality.
-- Conduct fecal tests for parasites. Treat and dust for external parasites.
-- Consider a staging area at intermediate distance before full integration.
-
-## When to Call a Vet
-
-- Unexplained mortality exceeding 5% per week.
-- Neurological symptoms (tremors, paralysis, twisting neck).
-- Respiratory distress affecting multiple birds.
-- Drop in egg production exceeding 20% without obvious cause.
-- Reportable diseases suspected (avian influenza, Newcastle, pullorum).
-- State diagnostic labs often provide free or low-cost necropsy for backyard
-  flocks.
-
-## Links
-
-- [[duck-keeping]]
-- [[turkey-husbandry]]
-- [[quail-husbandry-detailed]]
-- [[livestock-feed-formulation]]
-- [[integrated-homestead-design]]
+- [[integrated-homestead-annual-calendar]]
+- [[mushroom-biology-nutrition-health-properties]]
+- [[ingham-brix-plant-health-indicator-limitations]]

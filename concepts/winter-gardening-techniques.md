@@ -148,14 +148,3 @@ Mulch is the simplest winter protection. A deep layer of organic mulch insulates
 
 ### Zone-Specific Strategies
 
-- **Zones 3-4**: Focus on root crops in underground storage, cold frames with heavy insulation, sprouting indoors
-- **Zones 5-6**: Cold frames and low tunnels with double covering; harvest kale, spinach, carrots through winter
-- **Zones 7-8**: Row covers alone sufficient for many crops; minimal protection needed for hardy greens
-- **Zones 9-10**: Year-round outdoor gardening; frost protection only needed for a few nights
-
-## Related Topics
-
-- [[season-extension-techniques]] for hoop houses, high tunnels, and greenhouses
-- [[succession-planting]] for timing fall plantings
-- [[seed-starting-reference]] for starting winter crop transplants
-- [[cover-cropping-guide]] for protecting soil through winter

@@ -142,16 +142,6 @@ Climate change is making weather patterns increasingly erratic. Resilient design
 - Design for easy modification — movable structures, flexible planting plans
 - Connect with local knowledge networks for shared learning
 
-## Resilience Through Diversity
-
-The single most effective climate adaptation strategy is biodiversity. Diverse systems with many species, many functions, and many income streams are inherently more resilient than simplified systems. Monocultures fail catastrophically; polycultures adapt.
-
-- Species diversity — many types of plants, animals, and microorganisms
-- Functional diversity — many ways of meeting each need (food, water, fertility)
-- Genetic diversity — many varieties of each species for adaptability
-- Temporal diversity — plants producing at different times of year
-- Structural diversity — multiple layers and habitats
-
 ## See Also
 
 - [[water-management]] — water earthworks for drought and flood

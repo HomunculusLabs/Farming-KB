@@ -138,49 +138,6 @@ Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds
 - Result: "In addition to being an effective means of controlling weeds, sowing vegetable seed among the weeds is also a powerful soil improvement technique"
 
 ## Soil Quality: Natural vs. Scientific Farming
-
-Fukuoka compares 30 years of natural farming with conventional methods:
-
-| Criterion | Natural Farming | Scientific Farming |
-|-----------|----------------|-------------------|
-| Organic matter | Increasing annually | Requires constant addition |
-| Micronutrients | No deficiencies observed | Requires testing and correction |
-| Soil acidity | Self-regulating | Requires lime application |
-| Physical structure | Improving, porous | Depends on tillage |
-| Tree lifespan | 2-3x longer | Declining |
-| Labor intensity | Decreasing over time | Increasing |
-| Cost | Near zero (after setup) | Increasing |
-
-"I did not apply lime or any type of micronutrient, and yet noted no deficiencies. At no time did this ever become a problem. The constant change in the conditions of the cover crop within the orchard showed only that the soil changes constantly and that the fruit trees growing within that soil adapt constantly to such changes."
-
-## Rice Paddy Soil: The Straw Revolution
-
-For rice/barley fields, the soil building is even more direct:
-
-1. **Rice straw → barley field** (November): Rice straw decomposes over winter, feeds barley
-2. **Barley straw → rice field** (May): Barley straw decomposes over summer, feeds rice
-3. **Clover** fixes nitrogen throughout the year
-4. **Chicken manure** (200-900 lbs/quarter-acre): Applied twice per year with straw
-5. **No plowing**: "My fields may be the only ones in Japan which have not been ploughed for over twenty years, and the quality of the soil improves with each season"
-
-### Why Agricultural Science Got It Wrong
-
-Japanese agricultural scientists promoted burning rice straw to prevent rice blast disease. Fukuoka's counter-argument:
-
-1. Fresh rice straw is safe for *winter grains* (not other rice) — disease doesn't cross species
-2. By the time rice sprouts the following spring, the rice straw has completely decomposed
-3. Burning destroys irreplaceable organic matter and soil carbon
-4. "The agricultural technician has always regarded rice straw as nothing but a source of rice diseases and pests"
-5. "Whether or not we spread straw over our fields may decide the fate of our national lands"
-
-## The Philosophy Behind the Method
-
-"Soil improvement by natural farming makes use of the forces of living organisms to physically and chemically improve the soil, a process that goes hand-in-hand with the overall process of fruit growing."
-
-"Land that grows fertile over time without plowing, weeding, or chemical fertilizers represents not only an accumulation of labor and capital, but an increase in intangibles as well."
-
-"Natural farming makes use of the forces of living organisms" — the earthworms, microorganisms, fungi, and plant roots that build soil structure, cycle nutrients, and create humus. The farmer's role is to create conditions (mulch, cover crops, no disturbance) where these organisms can thrive.
-
 ## See Also
 
 - [[fukuoka-no-prune-fruit-tree-method]] — Orchard companion method

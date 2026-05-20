@@ -148,32 +148,3 @@ Laccases have remarkable substrate versatility:
 
 Fungal enzymes are central to [[mycoremediation-basics]]:
 
-| Enzyme System | Target Pollutants | Key Fungal Species |
-|--------------|-------------------|-------------------|
-| Lignin peroxidase | PAHs, dyes, PCBs | *P. chrysosporium* |
-| Manganese peroxidase | PAHs, dyes, explosives | *P. chrysosporium*, *T. versicolor* |
-| Laccase | Dyes, phenols, PAHs | *T. versicolor*, *P. ostreatus* |
-| Cellulases | Cellulose waste | *T. reesei*, *H. insolens* |
-| Cutinases | Polyester plastics | *Fusarium solani* |
-| Peroxygenases | Halogenated compounds | *A. aegerita* |
-
-## Industrial and Biotechnological Applications
-
-- **Biofuel production**: Fungal cellulases are used to convert lignocellulosic biomass to fermentable sugars for bioethanol production. *Trichoderma reesei* is the main industrial source.
-- **Textile industry**: Laccases for denim bleaching, cellulases for "biostoning" of denim
-- **Pulp and paper**: Xylanases and laccases for pulp bleaching, reducing chlorine use
-- **Food industry**: Pectinases in fruit juice clarification, cellulases in wine production
-- **Animal feed**: Phytases added to animal feed improve phosphorus digestibility, reducing phosphorus pollution from manure
-- **Detergent industry**: Proteases, lipases, and cellulases in laundry detergents
-- **Pharmaceuticals**: Fungal enzymes used in synthesis of drug intermediates
-
-## Related Pages
-
-- [[fungal-enzyme-systems-bioremediation]] -- detailed lignin-degrading enzyme systems
-- [[fungal-nutrient-cycling-mineral-transformations]] -- nutrient cycling roles
-- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
-- [[mycoremediation-basics]] -- bioremediation overview
-- [[mycoremediation-pahs]] -- PAH degradation
-- [[mycoremediation-of-oil-spills]] -- petroleum cleanup
-- [[mushroom-species-guide]] -- cultivation-appropriate species
-- [[fungal-enzyme-systems-bioremediation]]

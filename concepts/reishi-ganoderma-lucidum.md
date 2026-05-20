@@ -143,5 +143,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-cordyceps-vs-reishi-cultivation]]
 - [[comparison-reishi-vs-oyster-mushroom-cultivation]]
 - [[query-how-to-grow-reishi-mushrooms]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]
 - [[reishi-ganoderma-cancer-clinical-research]]

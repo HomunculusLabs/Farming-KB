@@ -148,25 +148,6 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
 
 ### Hot Smoking Safety
+## See Also
 
-- Use thermometer to verify safe internal temperatures
-- Refrigerate within 2 hours, consume within 3-4 days or freeze up to 6 months
-
-### Botulism Risk
-
-- Low oxygen + moderate temperatures + moisture creates botulism potential
-- Curing salts (Prague Powder #1) are the primary defense
-- Never cold-smoke uncured meat for extended periods
-- Discard any product with off-odor, slime, mold, or unusual color
-
-## Storage Guidelines
-
-- Hot-smoked fish: 3-4 days refrigerated, 2-3 months frozen
-- Cold-smoked salmon: 2-3 weeks refrigerated, 3-6 months frozen
-- Hot-smoked chicken: 3-4 days refrigerated, 4 months frozen
-- Bacon (cold smoked): 1-2 weeks refrigerated, 6 months frozen
-- Smoked jerky: 2-3 weeks refrigerated, 6 months frozen
-
-## Related Topics
-
-Smoking complements other preservation methods. See [[mason-jar-preserving-guide]] and [[pressure-canning-safety]] for jar-based preservation. For storing the fresh meat before smoking, see [[root-vegetable-storage-guide]] for general cold storage principles and [[food-preservation-canning]] for a comprehensive overview.
+- [[faires-meat-processing-curing-and-smoking]]

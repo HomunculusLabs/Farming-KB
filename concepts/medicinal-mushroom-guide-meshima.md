@@ -148,16 +148,3 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 ## Safety Considerations
 
-- Generally safe with traditional use history.
-- Potent immune-stimulating effects — caution with autoimmune conditions.
-- May interact with immunosuppressant medications.
-- Possible interactions with blood-thinning medications.
-- Avoid during pregnancy and breastfeeding.
-- High doses may cause gastrointestinal discomfort.
-- Always consult a healthcare provider when using for cancer adjunct therapy.
-
-## Related Topics
-
-- [[medicinal-mushroom-guide-reishi]] for complementary anti-inflammatory mushroom
-- [[medicinal-mushroom-guide-turkey-tail]] for cancer adjunct comparison
-- [[medicinal-mushroom-guide-chaga]] for another woody medicinal bracket fungus

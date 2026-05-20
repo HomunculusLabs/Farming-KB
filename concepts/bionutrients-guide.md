@@ -133,24 +133,6 @@ Carandang's enhanced bokashi formula (Philippine version):
 | Aspect | Carandang Bionutrients | Cho's KNF |
 |--------|----------------------|-----------|
 | FPJ plants | Kangkong, papaya, BSP (tropical) | Specific plants by growth stage |
-| FAA | Fish scraps + molasses + LAB | Fish scraps + brown sugar |
-| Calcium | Eggshells + vinegar (simple) | Eggshells + BRV (fermented) |
-| OHN | Ginger + garlic + alcohol | 5 herbs + 5-stage extraction |
-| LAB | Rice wash → milk → sugar | Rice wash → milk → brown sugar |
-| IMO source | Forest, bamboo, plant-specific | Forest (multi-environment) |
-| Sugar source | Crude sugar or molasses | Brown sugar (jaggery) |
-| Compost | Designer bokashi with BIM | FMC with IMO-4 |
-| Philosophy | Self-reliant, tropical-adapted | Systematic, stage-specific |
-
-## How Bionutrients Affect Soil Biology
-
-- FPJ feeds [[soil-food-web-nutrient-cycling]] bacteria and fungi with plant-available nutrients and growth hormones
-- FAA provides rapid nitrogen for bacterial bloom during early decomposition
-- LAB arrests foul odors, neutralizes ammonia, creates conditions favorable for beneficial microbes over pathogens
-- OHN's antibiotic properties selectively suppress harmful organisms while sparing beneficials
-- BIM (50% LAB + diverse forest/bamboo/plant microbes) creates broad-spectrum microbial biodiversity
-- Designer compost inoculates soil with all of the above simultaneously
-
 ## See Also
 
 - [[knf-preparations]] — Master Cho's complete KNF input system

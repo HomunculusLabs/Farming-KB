@@ -148,8 +148,6 @@ Research-validated results of mycorrhizal inoculation on specific crops. Each en
 ## Related Pages
 
 - [[mycorrhizal-fungi]] — Biological overview
-- [[mycorrhizal-inoculum-production]] — Making your own inoculum
-- [[mycorrhizal-agricultural-practices]] — Managing soils for mycorrhizae
-- [[cannabis-living-soil-guide]] — Cannabis-specific living soil approach
-- [[cannabis-plant-nutrition]] — Cannabis nutrient management
-- [[soil-food-web-nutrient-cycling]] — Soil ecosystem context
+## See Also
+
+- [[mycorrhizal-crop-rotation-guide]]

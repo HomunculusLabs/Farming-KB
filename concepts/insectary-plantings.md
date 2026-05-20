@@ -148,15 +148,3 @@ Continuous bloom from early spring through late fall is the goal. Plan insectary
 
 ## Maintaining Insectary Plantings
 
-- **Water during establishment**: New plantings need regular water for the first season
-- **Minimal weeding**: Allow some "weeds" (dandelion, Queen Anne's lace, clover) to persist — they are excellent insectary plants
-- **Selective mowing**: Mow insectary strips in sections to maintain continuous bloom
-- **Avoid pesticides**: This is the most important maintenance rule. Even organic pesticides kill beneficial insects.
-- **Replant annuals**: Buckwheat, alyssum, and other annuals need replanting each year or succession planting
-
-## Related Topics
-
-- [[beneficial-insects-guide]] for identifying and supporting specific beneficial species
-- [[companion-planting-reference]] for pairing insectary plants with crops
-- [[trap-cropping]] for using plants to attract and trap pests
-- [[intercropping-systems]] for integrating insectaries into crop systems

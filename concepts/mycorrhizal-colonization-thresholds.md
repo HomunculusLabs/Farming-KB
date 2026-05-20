@@ -106,7 +106,7 @@ Chelation — the process of neutralizing positive charges on mineral ions — d
 ## Practical Management Based on Colonization %
 
 1. **Test first**: Get VAM colonization assessed through root sample microscopy before applying interventions. Without baseline data, management is guesswork.
-2. **Below 15%**: Direct [[mycorrhizal-inoculation-guide]] is warranted. Pair with humic acids (fungal foods) for fastest colonization. Colonization will be much more rapid and extensive when humic acids reach the root zone.
+2. **Below 15%**: Direct [[mycorrhizal-inoculation]] is warranted. Pair with humic acids (fungal foods) for fastest colonization. Colonization will be much more rapid and extensive when humic acids reach the root zone.
 3. **15-40%**: Focus on feeding existing mycorrhizae with compost, compost tea, or humic acid applications. The fungi are present but need support to reach protective thresholds.
 4. **Above 40%**: Maintenance mode — continue practices that support the biology but prioritize other soil health factors.
 5. **Disease pressure observed alongside low colonization**: The low colonization is likely a contributing factor. Address the mycorrhizal deficiency and the disease pressure should decrease.

@@ -148,38 +148,3 @@ Direct sowing is preferred over starting in small pots. Autoflowers do not handl
 
 ### Light Schedule
 
-18/6 is the most widely recommended schedule. Some growers use 20/4 for slightly faster growth. Avoid 24/0 as plants benefit from a dark period for metabolic processes.
-
-### Nutrient Requirements
-
-Autoflowers are lighter feeders than photoperiod plants:
-
-- Start with half-strength nutrients
-- Use calmag supplements (autoflowers are sensitive to calcium/magnesium deficiency)
-- Reduce feeding during flowering compared to photoperiod schedules
-- [[cannabis-living-soil-guide|Living soil]] is an excellent approach — it provides gentle, steady nutrition without risk of burn
-
-### Watering
-
-Overwatering is the most common mistake with autoflowers. Allow the top inch of soil to dry between waterings. Their smaller root systems are more sensitive to waterlogged conditions.
-
-### Temperature and Humidity
-
-Optimal ranges:
-- Vegetative: 70-85F, 50-70% humidity
-- Flowering: 65-80F, 40-50% humidity
-- Avoid temperatures below 60F during early growth
-
-## Autoflowers and Living Soil
-
-[[cannabis-living-soil-guide|Living soil]] systems are particularly well-suited for autoflowers because:
-
-- Slow, steady nutrient release matches autoflower needs
-- No risk of nutrient burn from concentrated liquid feeds
-- Beneficial microbes support the fast-paced life cycle
-- No-till approaches reduce plant stress from disturbance
-- Organic growing enhances terpene production and flavor
-
-## Related
-
-- [[cannabis-seed-germination]]

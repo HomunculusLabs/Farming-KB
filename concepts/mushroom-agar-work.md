@@ -148,24 +148,7 @@ Agar slants are test tubes partially filled with solidified agar, stored at cool
 4. While still liquid, lay tubes at an angle so the agar solidifies as a diagonal surface (a "slant").
 5. Inoculate with a small wedge of mycelium.
 6. Once colonized, seal with a cap or parafilm and store at 35-45F (2-7C).
+## See Also
 
-### Reviving Slants
-
-Transfer a small piece of the slant mycelium to a fresh plate. Growth should resume within a few days of warming to room temperature.
-
-## Contamination on Agar
-
-Agar is an excellent diagnostic tool because it makes contamination visible. See [[mushroom-contamination-identification]] for detailed identification. Common contaminants on agar include:
-
-- **Bacterial colonies**: Circular, shiny, often iridescent spots. May smell sour.
-- **Mold**: Fuzzy growth in colors other than white (green, blue, black, pink, yellow).
-- **Yeast**: Creamy, raised colonies, sometimes bubbly.
-
-## Related Topics
-
-- [[mushroom-sterile-technique-detailed]] — sterile technique for agar work
-- [[mushroom-laminarar-flow-hood]] — the ideal workspace for agar work
-- [[mushroom-spore-printing-and-storage]] — creating spore syringes for agar inoculation
-- [[grain-spawn-preparation]] — transferring from agar to grain spawn
-- [[fungal-culture-media]]
-- [[laminar-flow-hood-guide]]
+- [[mushroom-agar-media-pouring-sterilization-techniques]]
+- [[mushroom-cultivator-agar-media-formulas]]

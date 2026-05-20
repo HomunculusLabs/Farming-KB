@@ -148,22 +148,7 @@ The growing medium sits on top of the wicking medium:
 - **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
 
 ## Water Efficiency
+## See Also
 
-- **50-80% less water** than conventional garden beds
-- **Evaporation reduction:** Only the soil surface loses water to evaporation; the reservoir is sealed
-- **Consistent moisture:** Plants experience less stress from alternating wet-dry cycles
-- **Deep root growth:** Because water is available below, roots grow deeper, accessing more nutrients
-
-## Common Problems
-
-- **Waterlogging:** Soil stays too wet — reduce reservoir depth, improve soil drainage, or add more aeration material to the soil mix
-- **Dry top layer:** Soil surface is dry while lower soil is wet — this is normal! Roots access moisture below. Mulch the surface to reduce evaporation.
-- **Mosquitoes:** Cover the fill pipe and overflow with fine mesh screen
-- **Nutrient depletion:** Wicking beds need regular compost top-dressing since nutrients can accumulate in the reservoir over time
-- **Roots clogging overflow:** Trim roots that grow into the overflow pipe during maintenance
-
-## Related Concepts
-
-- [[keyhole-garden-design]] for another self-contained, water-efficient garden bed design
-- [[herb-spiral-construction]] for microclimate-based planting design
-- [[garden-bed-designs]] for intensive, space-efficient garden layout
+- [[wicking-bed-materials-construction-variants]]
+- [[benching-terracing-and-bank-construction]]

@@ -5,7 +5,7 @@ type: concept
 ---
 ## See Also
 
-- Amanita Muscaria: The Herb of Immortality
+- [[amanita-muscaria]]: The Herb of Immortality
 - Soma: Identity and Significance
 - Indo-European Sacred Mushroom Tradition
 - The Magi: From Priests to Magicians

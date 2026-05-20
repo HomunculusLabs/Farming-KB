@@ -148,32 +148,6 @@ Bad spawn (do not use):
 Strategic shaking dramatically speeds spawn colonization:
 
 1. **No shake after inoculation**: Allow the inoculation point to establish (3-5 days).
-2. **First shake at 20-30% colonization**: Break up the colonized grain and redistribute. This is the most impactful shake.
-3. **Optional second shake at 70-80%**: Less commonly needed but can help even out the last bits of colonization.
-4. **Final shake before spawning**: When the jar is 100% colonized, shake vigorously to break kernels apart. This makes the grain easier to mix evenly with bulk substrate.
+## See Also
 
-## Shelf Life of Spawn
-
-- **Room temperature (70-78F)**: Use within 2-4 weeks of full colonization. Mycelium continues to metabolize and will eventually consume available nutrients and begin to decline.
-- **Refrigerated (35-45F / 2-7C)**: Viable for 2-4 months. Mycelial metabolism slows dramatically. Allow to warm to room temperature before spawning — cold spawn takes longer to recover.
-- **Frozen**: Not recommended. Ice crystal formation damages mycelial cells.
-
-Best practice: plan your grow timeline so that spawn is used within 2 weeks of full colonization for maximum vigor.
-
-## Clean Spawn Workflow Summary
-
-1. Start with a verified clean agar culture or liquid culture.
-2. Inoculate a single master grain jar.
-3. Verify master jar is 100% clean and colonized.
-4. Perform G2G transfer to receiver jars in a sterile environment.
-5. Verify receiver jars are clean and colonized.
-6. Use receiver jars to spawn bulk substrates (monotubs, bags, etc.).
-7. Return to step 1 periodically (every 3-6 months) to maintain genetic vigor.
-
-## Related Topics
-
-- [[grain-spawn-preparation]] — grain types, hydration, and sterilization
-- [[mushroom-liquid-culture]] — liquid culture as an alternative expansion method
-- [[mushroom-agar-work]] — maintaining clean cultures for spawn production
-- [[mushroom-sterile-technique-detailed]] — sterile procedure for G2G transfers
-- [[mushroom-cultivation-grain-spawn]]
+- [[mushroom-spawn-making-history-and-pure-culture-revolution]]

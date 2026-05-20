@@ -80,7 +80,7 @@ ecosystem management:
    functional group diversity rather than every individual species, while
    still protecting known keystone taxa.
 
-2. **Inoculum Design:** In [[mycorrhizal-inoculation-guide]] and bioaugmentation, the
+2. **Inoculum Design:** In [[mycorrhizal-inoculation]] and bioaugmentation, the
    concept of redundancy suggests that using multiple species with overlapping
    functions can provide insurance against environmental variability, ensuring
    at least some inoculated strains establish and perform.

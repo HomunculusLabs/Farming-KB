@@ -148,13 +148,7 @@ In addition to standard emergency supplies, include:
 
 - Work with local agencies on [[watershed-management]] and drainage improvements
 - Consider relocating structures if flooding is frequent and severe
-- Plant native vegetation along waterways to stabilize banks and slow runoff
-- Maintain wetland areas — they absorb and slow floodwaters naturally
-- Build berms or swales to redirect water flow around critical areas
+## See Also
 
-## Related Concepts
-
-- [[water-management]] — Drainage, irrigation, and water management planning
-- [[mushroom-foraging-safety-guide]] — Comprehensive safety planning
-- [[homestead-first-aid-guide]] — First aid for flood-related injuries and illness
-- [[hurricane-preparedness-guide]] — Hurricanes bring both storm surge flooding and inland flooding
+- [[wildfire-preparedness-guide]]
+- [[hurricane-preparedness-guide]]

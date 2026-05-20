@@ -141,21 +141,6 @@ Japan has a surprisingly diverse psychoactive mushroom flora given its temperate
 Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 
 | Substrate | Species | Climate Zone |
-|---|---|---|
-| Bovine dung (cattle/water buffalo) | P. cubensis, P. samuiensis | Tropical lowlands |
-| Equine dung | P. subbalteatus, Panaeolus cyanescens | Tropical/subtropical |
-| Decomposing wood | P. subcaerulipes, Pluteus salicinus | Temperate forests |
-| Forest floor litter | P. argentipes, P. venenata | Temperate forests |
-| Dead hardwood (logs/stumps) | Gymnopilus spectabilis | Temperate |
-| Disturbed soil/grassland | P. subaeruginascens | Subtropical/tropical |
-
-## Seasonal Patterns
-
-- **Equatorial regions** (Indonesia, Malaysia, Philippines, Thailand south): Year-round fruiting possible with adequate rainfall; peaks during monsoon seasons
-- **Subtropical regions** (southern Japan, Taiwan, southern China): Peak fruiting during warm rainy months (May-September)
-- **Temperate regions** (Japan, Korea, northern China): Peak fruiting in warm months (June-October) with autumn peaks for wood-inhabiting species
-- **Monsoon dependence:** Across South and Southeast Asia, the monsoon season is the primary driver of mushroom fruiting. The southwest monsoon (June-September) brings peak conditions across most of the region.
-
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview

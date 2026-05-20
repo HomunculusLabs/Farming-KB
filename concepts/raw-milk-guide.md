@@ -148,5 +148,3 @@ If you do not have your own dairy animals:
 -  Ask about testing protocols — Somatic cell count, bacteria counts, pathogen testing
 -  Check for certifications — Some states have raw milk certification programs
 -  Ask about the herd — Breed, diet (grass-fed preferred), grazing management, health care practices
--  Taste before committing — Fresh, well-handled raw milk should taste clean and sweet with no off-flavors
--  Start small — Buy a small quantity first to verify quality before committing to a regular source

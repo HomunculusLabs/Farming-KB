@@ -141,32 +141,6 @@ Functions of secondary metabolites:
 ### Traditional Uses
 
 - **Dyes**: Orchil (Roccella) produces purple dye (orcein). Used since ancient Mediterranean civilizations. Cudbear (Ochrolechia) produces red-purple. Historically significant before synthetic dyes
-- **Food**: Umbilicaria (rock tripe) eaten by indigenous peoples and during famines. Iwatake (rock tripe) is a delicacy in Japanese cuisine
-- **Medicine**: Usnic acid used in traditional medicine across cultures. Lobaria pulmonaria used for lung ailments (doctrine of signatures — it resembles lung tissue)
-- **Fiber**: Some lichens produce durable fiber (Icelandic "candles" from Cetraria islandica burned as wicks)
-
-### Modern Research
-
-- **Antibiotics**: Usnic acid, evernic acid studied for antimicrobial properties
-- **Anti-cancer**: Several lichen compounds show cytotoxic activity in laboratory studies
-- **UV protection**: Lichen compounds investigated for sunscreen formulations
-- **Traditional knowledge**: Ethnolichenology studies the relationship between humans and lichens across cultures
-
-## Lichen Growth and Longevity
-
-- **Growth rate**: Typically 1-10 mm per year for foliose and fruticose species. Crustose species grow even slower
-- **Longevity**: Some lichen thalli are estimated to be 1,000-9,000+ years old (Rhizocarpon geographicum in arctic/alpine environments)
-- **Radial growth**: Lichenometry — measuring lichen size to date rock surfaces (glacier retreat, landslides, building construction)
-- **Reproduction**: Primarily asexual (soredia, isidia). Sexual reproduction through fungal spores requires re-association with a compatible photobiont — a low-probability event
-
-## Threats and Conservation
-
-- **Air pollution**: The primary threat to lichens. SO2 from fossil fuels is particularly damaging
-- **Habitat loss**: Old-growth forests support the highest lichen diversity. Logging removes substrate
-- **Climate change**: Shifting temperature and moisture regimes alter lichen distributions. Warming threatens arctic lichen communities
-- **Overharvesting**: Commercial collection of Usnea for natural products in some regions
-- **Nitrogen deposition**: Excess atmospheric nitrogen favors nitrophilic species (Xanthoria) over sensitive old-growth species (Lobaria)
-
 ## See Also
 
 - [[fungal-symbiosis-types]] for broader fungal symbiosis context

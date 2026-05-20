@@ -71,7 +71,7 @@ DSEs contribute to aggregation in extreme environments (arctic, alpine, arid) wh
 ## Evidence from Field Studies
 
 - **No-till agriculture**: Long-term no-till farming systems consistently show higher AMF abundance, greater glomalin concentrations, and more stable aggregates compared to conventionally tilled systems. Tillage physically disrupts hyphal networks, reducing fungal-driven aggregation.
-- **Cover cropping**: [[mycorrhizal-inoculation-guide]] orrhizal inoculation experiments**: Controlled studies where AMF were inoculated into degraded or sterilized soils consistently demonstrate improved aggregate stability, with the magnitude of improvement ranging from 10% to 300% depending on soil type and AMF species.
+- **Cover cropping**: [[mycorrhizal-inoculation]] orrhizal inoculation experiments**: Controlled studies where AMF were inoculated into degraded or sterilized soils consistently demonstrate improved aggregate stability, with the magnitude of improvement ranging from 10% to 300% depending on soil type and AMF species.
 - **Glomalin correlations**: Across diverse ecosystems, glomalin concentrations are among the strongest biological predictors of aggregate stability, often explaining more variance than total soil organic carbon or microbial biomass.
 
 ## Management Implications

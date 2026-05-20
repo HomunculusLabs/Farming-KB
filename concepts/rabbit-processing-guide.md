@@ -147,10 +147,7 @@ In the United States, the USDA exempts rabbit processing from federal inspection
 Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
 
 ## Waste Utilization
+## See Also
 
--  **Pelts** — Rabbit pelts can be tanned for fur or sold to crafters. Raw pelts should be salted or frozen immediately.
--  **Offal** — Hearts, livers, and kidneys are edible and nutritious. Intestines and stomach contents go to compost.
--  **Bones** — Make bone broth or add to compost. Bones decompose readily in a hot compost pile.
--  **Blood** — Dilute and add to compost as a nitrogen source, or collect for [[black-soldier-fly-composting]].
-
-See also: [[grain-processing-and-milling-guide]]
+- [[grain-processing-and-milling-guide]]
+- [[cannabis-screen-of-green-scrog-guide]]

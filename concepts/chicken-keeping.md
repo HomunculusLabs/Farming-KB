@@ -148,25 +148,3 @@ Bred for maximum egg production (250-320 eggs/year):
 
 ## Seasonal Care
 
-- **Spring**: Deep clean coop after winter. Introduce new pullets. Begin pasture rotation. Check for mites/lice.
-- **Summer**: Maximize ventilation and shade. Extra water; ice in waterers in extreme heat. Frozen treats help heat stress.
-- **Fall**: Prepare for winter — check insulation, repair drafts, check waterer heaters. Hens may molt — increase protein. Process excess roosters. Stockpile feed and bedding.
-- **Winter**: Draft-free but well-ventilated coop. Supplemental light (14-16 hrs total) maintains production. Heated waterers prevent freezing. Deep litter provides warmth. Protect combs/wattles from frostbite (petroleum jelly in extreme cold).
-
-## Integration with Homestead Systems
-
-- **[[animal-byproducts]]**: Chicken manure is high-N fertilizer (NPK ~1.8-1.5-0.8). Compost before applying.
-- **[[composting-systems]]**: Chickens accelerate compost by scratching and mixing.
-- **[[duck-keeping]]**: Chickens and ducks can share space with some management considerations.
-- **[[food-forest-design]]**: Rotationally grazed through food forest alleys for pest control and fertilization.
-- **[[integrated-homestead-design]]**: Chickens close nutrient loops between kitchen waste, garden surplus, and soil fertility.
-
-## Related
-
-- [[homesteading-livestock-comparison]]
-- [[duck-keeping]]
-- [[food-forest-design]]
-- [[insect-allies]]
-- [[barn-design]]
-- [[goose-keeping]]
-- [[quail-husbandry-detailed]]

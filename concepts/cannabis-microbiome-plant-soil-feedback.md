@@ -5,7 +5,7 @@ type: concept
 ---
 ## Key References
 
-- Barac, T. et al. (2004). Engineered endophytic bacteria improve phytoremediation of toluene. *Applied and Environmental Microbiology*.
+- Barac, T. et al. (2004). Engineered endophytic bacteria improve [[phytoremediation]] of toluene. *Applied and Environmental Microbiology*.
 - Bezemer, T.M. et al. (2006). Plant species and functional group effects on abiotic and microbial soil properties. *Ecology*.
 - Bonanomi, G. et al. (2005). Negative plant-soil feedback and root colonization by soil-borne pathogenic fungi. *Ecology Letters*.
 - Glick, B.R. et al. (1998). Studies on ACC deaminase and its role in lowering ethylene levels in plants. *Journal of Theoretical Biology*.

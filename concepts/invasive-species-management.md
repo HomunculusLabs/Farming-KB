@@ -148,13 +148,3 @@ When resources are limited, prioritize invasive species management based on:
 ## Native Alternatives
 
 Replace invasive ornamentals with native species that provide similar aesthetic value and ecological function:
-
-| Invasive Plant | Native Alternative | Benefits |
-|---------------|-------------------|----------|
-| Burning bush | Winterberry (Ilex verticillata) | Red berries; bird food |
-| Japanese barberry | Ninebark (Physocarpus opulifolius) | Attractive foliage; pollinator plant |
-| Butterfly bush | Joe-pye weed, New England aster | Native pollinator plants |
-| English ivy | Virginia creeper (Parthenocissus quinquefolia) | Native vine; fall color |
-| Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingbird plant |
-| Russian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
-| Purple loosestrife | Swamp milkweed, blue flag iris | Native wetland plants; pollinator habitat |

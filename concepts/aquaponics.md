@@ -148,41 +148,6 @@ Cycling is the process of establishing the bacterial colonies that convert fish 
 | Ammonia (NH3) | 0 ppm | >0.25 ppm (toxic) |
 | Nitrite (NO2-) | 0 ppm | >0.25 ppm (toxic) |
 | Nitrate (NO3-) | 20-80 ppm | >150 ppm (stress) |
-| KH (Carbonate Hardness) | 70-140 ppm | <40 ppm (pH crash) |
+## See Also
 
-## Components
-
-- **Fish tank**: Minimum 100 gallons for a stable home system. Ratio: 1:1 to 1:2 fish tank to grow bed volume.
-- **Grow beds**: Media beds at 12-inch depth minimum. DWC channels at 8-12 inches deep.
-- **Biofilter**: Essential for nitrifying bacteria. Media beds serve this function; DWC and NFT systems need separate biofilters.
-- **Water pump**: Sized to turn over the total system volume every 1-2 hours. Energy-efficient, continuous-duty rated.
-- **Air pump and stones**: Provide supplemental dissolved oxygen. Critical for fish health.
-- **Plumbing**: Food-grade PVC or HDPE. Avoid copper (toxic to fish and invertebrates).
-- **Grow media**: Expanded clay (hydroton), gravel (washed), lava rock. Must be pH-neutral and inert.
-
-## Integration with Permaculture
-
-Aquaponics fits into permaculture systems as a Zone 1 intensive production element:
-
-- Fish waste can be composted or added to [[composting-systems]] when cleaning tanks
-- System water can be used to irrigate outdoor gardens (nutrient-rich)
-- Worms in media beds (vermiaquaponics) process solid waste into vermicompost
-- Solar-powered pumps integrate with [[homestead-energy-conservation]] systems
-- Greenhouse integration provides climate control and extends the growing season
-- Feed fish with [[duck-keeping]] or [[chicken-keeping]] scraps (black soldier fly larvae from compost are excellent fish feed)
-- Scale output by integrating with [[pond-and-aquaculture]] and [[rainwater-harvesting-systems]]
-
-## Troubleshooting
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| Fish dying | Ammonia or nitrite spike; low oxygen; temperature extremes | Test water; 50% water change; check air pump; adjust temperature |
-| Plants yellowing | Iron deficiency (common in aquaponics); pH too high; insufficient light | Add chelated iron; adjust pH to 6.5; improve lighting |
-| Green water (algae) | Excess nutrients + light exposure | Cover fish tank; reduce fish feed; add floating plants |
-| pH keeps dropping | Nitrification produces acid; insufficient carbonate hardness | Add potassium carbonate or calcium carbonate (KH buffer) |
-| Root rot | Poor oxygenation in root zone; water too warm | Increase air stones; reduce water temperature; check pump flow |
-| Slow plant growth | Low nutrient density; insufficient light; wrong pH | Increase fish density or feeding; add supplemental lighting; adjust pH |
-
-## Related
-
-- [[chinampas]]
+- [[comparison-bioponics-vs-aquaponics]]

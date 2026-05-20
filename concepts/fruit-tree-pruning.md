@@ -142,27 +142,6 @@ Performed during the active growing season when trees are in full leaf.
 - Remove 40-50% of last year's growth on peaches annually.
 - Sweet cherries are prone to bacterial canker — prune during dry summer conditions when possible.
 
-### Fig Trees
-- Produce fruit on current season's growth and on 1-year-old wood.
-- Tolerate heavy pruning well. Often grown as open center or multi-stemmed bushes.
-- In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
-
-## Disease Prevention Through Pruning
-
-- **Sanitize tools**: Dip pruners in 70% isopropyl alcohol or 10% bleach solution between cuts when working on diseased trees. Clean tools before moving to a different tree.
-- **Remove diseased wood immediately**: Cut 6-12 inches below visible symptoms of canker, fire blight, or other infections.
-- **Destroy prunings**: Burn, chip (hot compost), or bag and dispose of diseased wood. Do not leave it on the ground near the tree.
-- **Improve airflow**: The most effective disease prevention strategy is maintaining an open canopy that dries quickly after rain.
-- **Paint large wounds**: For cuts larger than 2 inches in diameter, some arborists recommend wound dressing or tree paint to prevent desiccation and pathogen entry (this is debated — many modern arborists advise against wound sealants, preferring to let the tree compartmentalize naturally).
-
-## Tools
-
-- **Hand pruners (bypass)**: For cuts up to 3/4 inch. Bypass (scissor-type) cuts are cleaner than anvil cuts.
-- **Loppers**: For cuts 3/4 to 2 inches. Bypass type preferred.
-- **Pruning saw**: For cuts larger than 2 inches. Folding saws are convenient for orchard work.
-- **Pole pruner**: For high branches without a ladder.
-- **Hedge shears**: Not recommended for fruit trees — they make heading cuts indiscriminately.
-
 ## See Also
 
 - [[food-forest-design]] — Integrating fruit trees into perennial polycultures

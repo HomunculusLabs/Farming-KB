@@ -143,35 +143,6 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Avoid chlorides (blueberries are chloride-sensitive)
 
 ### Schedule
-- Year 1: No fertilizer at planting; first application 4-6 weeks after planting with 1 tablespoon of ammonium sulfate
-- Year 2: Apply in early spring and again in late spring — 2 tablespoons per plant per application
-- Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
-- Stop fertilizing by mid-summer to allow new growth to harden before winter
-
-### Nutrient Deficiencies
-- **Iron chlorosis**: Yellow leaves with green veins; lower soil pH with sulfur
-- **Nitrogen deficiency**: Pale leaves, slow growth; apply ammonium sulfate
-- **Magnesium deficiency**: Yellowing between leaf veins; apply Epsom salts as foliar spray
-
-## Watering
-
-- Blueberries have shallow root systems — consistent moisture is critical
-- 1-2 inches per week during the growing season
-- [[drip-irrigation]] is ideal (keeps foliage dry)
-- Mulch heavily to retain moisture
-- Critical watering periods: fruit development (May-June) and bud formation (August-September)
-- Do not allow soil to dry completely, but do not waterlog
-
-## Harvesting
-
-- Berries ripen over 3-5 weeks per variety
-- Do not pick until fully blue — flavor improves for 2-3 days after turning blue
-- Berries should detach easily when ripe
-- Pick every 2-3 days at peak season
-- Refrigerate immediately; do not wash until ready to eat
-- Fresh berries last 1-2 weeks refrigerated
-- Freeze on baking sheets, then transfer to bags — lasts 6-12 months
-
 ## See Also
 
 - [[strawberry-growing-guide]] for companion small fruit management

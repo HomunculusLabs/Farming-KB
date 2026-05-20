@@ -56,7 +56,7 @@ Fukuoka proposed large-scale use of clay pellets for revegetating deserts. The m
 
 - [[fukuoka-natural-farming-method]]
 - [[guerilla-gardening-guide]]
-- permaculture plant selection guide
+- [[permaculture-plant-selection]]
 
 ## Key Concepts and Applications
 

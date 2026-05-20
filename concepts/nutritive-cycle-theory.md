@@ -131,33 +131,6 @@ Apply 15 days and 2 days before harvest.
 5. **Stop nitrogen for flowering**: This is the most common mistake in biological agriculture
 6. **Calcium prevents overgrowth**: WS-Ca is the "brake" that keeps vegetative growth in check
 
-## Practical Application Chart
-
-| Input | Vegetative | Changeover | Reproductive |
-|-------|-----------|------------|-------------|
-| FPJ | 1:800-1000 | 1:1000 | 1:1000 (sparingly) |
-| FFJ | — | 1:1000 (sour) | 1:1000 (ripe) |
-| FAA | 1:1000 | STOP | STOP |
-| OHN | 1:1000 | 1:1000 | 1:1000 |
-| LAB | 1:1000 | Reduce | Reduce |
-| WS-Ca | Avoid | 1:1000 | 1:1000 |
-| WS-K | 1:30 (if weak) | — | 1:30 |
-| WS-PA | — | 1:30 | — |
-| WS-CaPo | — | 1:500-1000 | — |
-| BRV | — | 1:200-500 | — |
-| Seawater | — | — | 1:30 |
-| IMO | Soil drench | Soil drench | Soil drench |
-
-## Cannabis-Specific Notes
-
-For cannabis in [[cannabis-living-soil-guide]], the nutritive cycle maps to:
-- **Vegetative stage** (18/6 light): FPJ from fast-growing plants, light FAA if N-deficient
-- **Changeover** (flip to 12/12, weeks 1-2 of flower): WS-CaPo, sour FFJ, reduce all N inputs
-- **Reproductive** (weeks 3-8+ of flower): OHN for IPM, WS-Ca for calyx development, FFJ for resin production
-- **Late flower/ripen** (final 2 weeks): OHN + WS-Ca + Seawater for trichome maturation
-
-Note: Living soil already provides baseline nutrition — use KNF inputs as supplements, not primary feeding.
-
 ## See Also
 
 - [[knf-preparations]] — complete input guide with growth stage schedules

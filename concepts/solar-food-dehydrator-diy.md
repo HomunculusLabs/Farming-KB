@@ -148,24 +148,8 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 4. Cover vents with screen to keep insects out
 
 ## Drying Tips
+## See Also
 
-- **Pre-treat fruits:** Dip in lemon juice or ascorbic acid solution to prevent browning
-- **Slice uniformly:** Even thickness (1/4 to 1/2 inch for most fruits and vegetables) ensures even drying
-- **Rotate trays:** Swap top and bottom trays periodically for more even drying
-- **Dry until leathery or crisp:** Fruit should be leathery with no visible moisture; vegetables should be brittle
-- **Condition:** After drying, pack in glass jars and check daily for a week — if condensation appears, the food needs more drying
-- **Store:** Keep dried foods in airtight containers in a cool, dark place. Properly dried food lasts 6-12 months.
-
-## Weather Considerations
-
-- **Best conditions:** Full sun, 80°F+ ambient temperature, low humidity
-- **Marginal conditions:** Partial sun, 65-80°F, moderate humidity — dehydrator will work but slowly
-- **Poor conditions:** Overcast, below 65°F, or high humidity — supplemental heat or electric dehydrator may be needed
-- **Orientation:** Face the collector toward true south (in the Northern Hemisphere), angled at your latitude for year-round use, or at latitude minus 15 degrees for summer-optimized use
-
-## Related Concepts
-
-- [[herb-spiral-construction]] for growing herbs that can be dried in the solar dehydrator
-- [[cold-climate-gardening]] for another passive solar structure for the homestead
-
-See also: [[comparison-solar-dehydrator-vs-electric-dehydrator]]
+- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+- [[solar-and-electric-food-drying-methods]]
+- [[solar-dehydrator-plans]]

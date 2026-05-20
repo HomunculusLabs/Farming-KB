@@ -5,7 +5,7 @@ tags:
 ---
 ## Source Attribution
 
-This concept page is derived from **Source 3: PF TEK by [[psilocybe-fanaticus]]**.
+This concept page is derived from **Source 3: [[pf-tek]] by [[psilocybe-fanaticus]]**.
 The PF TEK is a foundational [[bigwood-beug-cultivation-methodology]] originally published by
 Robert "Psilocybe Fanaticus" McPherson. All technical specifications and
 techniques described above are based on the original PF TEK documentation.
@@ -77,3 +77,4 @@ current understanding and implementation strategies.
 
 Successful integration of mushroom potency harvesting and desiccation pf tek into broader
 systems requires careful planning and observation.
+Understanding mushroom potency harvesting and desiccation pf tek provides a foundation for further exploration and practical application.

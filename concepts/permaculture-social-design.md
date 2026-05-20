@@ -142,40 +142,6 @@ Cooperatives are enterprises owned and democratically controlled by their member
 4. Autonomy and independence
 5. Education, training, and information
 6. Cooperation among cooperatives
-7. Concern for community
-
-### Starting a Permaculture Cooperative
-1. Assemble a core group with shared values and vision
-2. Develop a clear purpose and business plan
-3. Choose a legal structure (cooperative corporation under state law)
-4. Draft bylaws defining governance, membership, and capital structure
-5. Secure start-up capital through member shares, grants, or loans
-6. Launch operations and iterate based on feedback
-
-## Conflict Resolution
-
-Healthy communities need effective conflict resolution processes. Unresolved conflict erodes trust and participation.
-
-### Approaches
-- **Clear communication agreements** — active listening, "I" statements, addressing issues directly
-- **Mediation** — a neutral third party helps disputants find resolution
-- **Restorative circles** — group process for addressing harm and rebuilding relationships
-- **Clear boundaries and agreements** — written agreements about shared resources, responsibilities, and expectations
-- **Regular check-ins** — proactive communication prevents conflicts from escalating
-
-## Social Permaculture Principles
-
-The same design principles that guide ecological design apply to social systems:
-
-- **Observe and interact** — understand the social dynamics before intervening
-- **Catch and store energy** — capture community enthusiasm, knowledge, and resources
-- **Obtain a yield** — ensure the community produces tangible benefits for members
-- **Apply self-regulation** — build feedback loops and accountability mechanisms
-- **Use and value diversity** — diverse perspectives, skills, and backgrounds strengthen the group
-- **Integrate rather than segregate** — connect social elements (food, housing, work, education) rather than separating them
-- **Use small and slow solutions** — start with a small committed group and grow organically
-- **Creatively use and respond to change** — design social structures that adapt as conditions evolve
-
 ## See Also
 
 - [[permaculture-ethics-and-principles]] — the ethical foundation for social design

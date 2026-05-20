@@ -148,4 +148,3 @@ Enhance the dome's energy efficiency with passive solar design:
 
 - [[grow-tunnel-and-hoop-house]] for simpler, lower-cost season extension structures
 - [[underground-greenhouse-walipini]] for maximum passive solar heating in cold climates
-- [[cold-frame-gardening]] for the simplest season extension option

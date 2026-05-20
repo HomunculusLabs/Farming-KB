@@ -47,7 +47,7 @@ The genus is known exclusively from the Rhynie Chert, a remarkably preserved hot
 - Relevant to understanding the evolutionary origins of modern mycorrhizal associations that are actively used in cultivation, agriculture, and horticulture today.
 - Demonstrates that fungal-plant mutualisms are not a recent innovation but a fundamental partnership spanning over 400 million years of evolution.
 - The Rhynie Chert fossils serve as a key reference point for researchers studying the evolution of fungal functional groups, including saprotrophs, pathogens, and mutualists.
-- Understanding these ancient associations informs modern practices in [[mycorrhizal-inoculation-guide]] and soil management for cultivation systems.
+- Understanding these ancient associations informs modern practices in [[mycorrhizal-inoculation]] and soil management for cultivation systems.
 - The ongoing debate about the exact nature of the fungal association in Rhynia highlights the difficulty of interpreting ecological relationships from the fossil record — a challenge that parallels modern difficulties in classifying fungal functional roles in complex ecosystems.
 - Provides context for the estimated 1.5–3 million fungal species on Earth (Hawksworth, 1991; 2001), showing that much of this diversity has evolutionary roots stretching back to the earliest terrestrial ecosystems.
 

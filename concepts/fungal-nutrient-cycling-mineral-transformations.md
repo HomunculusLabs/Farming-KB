@@ -148,4 +148,3 @@ The combined mineral transformations performed by fungi have profound ecosystem-
 - [[soil-food-web-nutrient-cycling]] -- trophic interactions in soil
 - [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
 - [[geoffrey-gadd]] -- geomycology researcher
-- [[john-dighton]] -- fungal ecology researcher

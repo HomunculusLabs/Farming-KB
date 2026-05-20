@@ -5,7 +5,7 @@ type: concept
 ---
 ## 5. Engineering Mycoremediation Prototypes
 
-The culmination of educational mycoremediation work is translating lab results into **functional prototypes** — physical filtration systems, erosion barriers, or bioremediation modules designed for real-world deployment.
+The culmination of educational [[mycoremediation]] work is translating lab results into **functional prototypes** — physical filtration systems, erosion barriers, or bioremediation modules designed for real-world deployment.
 
 ### Interdisciplinary Collaboration
 

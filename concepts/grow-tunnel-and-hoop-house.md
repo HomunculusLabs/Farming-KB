@@ -148,10 +148,6 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 ### Winter
 
 - In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, claytonia) with row cover inside the tunnel
-- In cold climates: Use a high tunnel as a multi-bay [[cold-frame]], or add a small heater for frost-sensitive crops
+## See Also
 
-## Related Concepts
-
-- [[cold-frame-gardening]] for the simplest season extension structure
-- [[geodesic-greenhouse-design]] for a more permanent, year-round growing structure
-- [[underground-greenhouse-walipini]] for maximum passive solar heating in cold climates
+- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]

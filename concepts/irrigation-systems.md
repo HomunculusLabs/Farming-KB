@@ -148,33 +148,3 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 ## Water Pressure Requirements
 
 | System | Min PSI | Ideal PSI | Max PSI |
-|--------|---------|-----------|---------|
-| Drip emitters | 10 | 20-30 | 40 |
-| Drip tape | 8 | 10-15 | 20 |
-| Micro-sprinklers | 20 | 25-40 | 50 |
-| Impact sprinkler | 30 | 40-60 | 80 |
-| Olla pots | 0 (gravity) | N/A | N/A |
-| Household supply | 30 | 50 | 80 |
-
-**Tip**: If your well or municipal supply exceeds 50 PSI, a pressure regulator is mandatory for drip systems. Most household supplies run 40-70 PSI.
-
-## Sizing for a Homestead
-
-| Zone | Area | System | Estimated GPM |
-|------|------|--------|---------------|
-| Zone 1 garden | 500-1000 sq ft | Drip tape or dripperline | 2-4 |
-| Greenhouse | 200-400 sq ft | Drip + olla pots | 1-2 |
-| Berry bushes | 500-1000 sq ft | Drip emitters | 2-4 |
-| Orchard/food forest | 0.5-2 acres | Drip + micro-sprinkler | 5-15 |
-| Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
-| Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
-
-Total homestead demand: 15-50 GPM. Match to well yield or design zones to run sequentially. See [[seasonal-planning]] for monthly water demand.
-
-## Related Pages
-- [[homestead-water-systems]] — Water sourcing, pumps, filtration, treatment
-- [[water-management]] — Swales, keyline, rainwater harvesting, greywater
-- [[seasonal-planning]] — Monthly task calendar including irrigation schedule
-- [[greenhouse-design]] — Greenhouse irrigation and climate control
-- [[food-forest-design]] — Water needs for food forest establishment
-- [[pasture-management]] — Irrigation for rotational grazing systems

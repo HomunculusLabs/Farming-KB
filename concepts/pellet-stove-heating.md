@@ -148,44 +148,8 @@ Electronic controls manage:
 Since pellet stoves require electricity, off-grid installations need a 12V battery with inverter (runs 8-12 hours during outages) and ideally a 200W solar panel. Always have a backup heating plan (woodstove, propane heater). Power consumption: 100-400 watts while running; startup draws 300-500 watts for 5-10 minutes.
 
 ## Installation Requirements
+## See Also
 
-- Minimum clearance from combustible materials: 6-36 inches (varies by model)
-- Venting: 3-inch or 4-inch stainless steel PL vent pipe
-- Can vent through a wall or into existing chimney with liner
-- Outside air intake recommended, non-combustible hearth pad required
-- Professional installation recommended; permit required in most jurisdictions
-
-## Maintenance
-
-### Daily
-
-- Clean the burn pot (remove ash and clinkers)
-- Check hopper fuel level and refill
-- Verify normal flame appearance (bright orange/yellow, not lazy or dark)
-
-### Weekly
-
-- Clean the heat exchanger (brush or scrape to remove fly ash)
-- Empty the ash pan
-- Check and clean the glass window
-
-### Monthly
-
-- Clean exhaust vent, inspect combustion air intake, check door gaskets
-
-### Annually
-
-- Professional cleaning, check electrical connections, inspect vent pipe, test thermostat and safety sensors
-
-## Common Problems
-
-- Auger jam: Clear jam, check pellet quality and moisture
-- Black glass: Increase combustion air, clean burn pot
-- Excessive ash: Switch to premium pellets
-- Smoke in room: Clean vent, check for blockage
-- Stove won't ignite: Test igniter, replace if needed; check for wet pellets
-
-## Related Topics
-
-Pellet heating connects to broader off-grid energy systems. See [[charcoal-production-for-cooking]] for another wood fuel processing method. For whole-home heating design, consider integration with [[fungi-and-sustainability]] planning and [[swale-design-construction]] principles for an energy-efficient building envelope.
-- [[basic-electrical-for-homestead]]
+- [[comparison-pellet-stove-heating-vs-charcoal-production-for-cooking]]
+- [[comparison-rocket-stove-vs-pellet-stove]]
+- [[comparison-masonry-heater-vs-pellet-stove]]

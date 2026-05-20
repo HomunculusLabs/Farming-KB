@@ -148,17 +148,3 @@ While the science supporting broad claims about remineralization is mixed, contr
 | Amendment | Approximate Cost (per 50 lb bag) | Coverage (per bag) |
 |---|---|---|
 | Basalt rock dust | $15-25 | 1,000-5,000 sq ft |
-| Azomite | $20-40 | 2,500-5,000 sq ft |
-| Glacial rock dust | $20-35 | 1,000-3,000 sq ft |
-| Greensand | $15-25 | 1,000-3,000 sq ft |
-| Gypsum | $8-15 | 500-1,000 sq ft |
-| Langbeinite | $15-25 | 2,500-5,000 sq ft |
-| Soft rock phosphate | $15-25 | 500-2,000 sq ft |
-
-Buying in bulk (by the ton) reduces costs dramatically. Many quarries and stone yards sell basalt dust as a byproduct for $30-80/ton.
-
-## Related
-
-- [[biochar-in-agriculture|biochar]]]
-
-- [[plant-nutrient-deficiency-guide]]

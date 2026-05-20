@@ -142,39 +142,6 @@ The space beneath and between fruit trees can be productive if designed carefull
 ### What NOT to Plant Under Trees
 - Grass — competes aggressively with tree roots for water and nutrients
 - Deep-rooted vegetables — they compete with tree roots
-- Walnut-sensitive plants near walnut trees (juglone toxicity)
-- Plants requiring full sun under large-canopy trees
-
-### Ring Mulching
-- Maintain a mulched ring 3-4 feet in radius around each tree trunk
-- Keep mulch 3-4 inches away from the trunk (prevents bark rot)
-- Apply 3-6 inches of wood chips, leaves, or straw
-- This zone is the tree's critical root zone — protect it from competition
-
-## Planning Your Orchard
-
-### Step-by-Step Process
-1. Map your yard: sun, shade, soil, drainage
-2. Determine space and tree count; select rootstock size
-3. Choose varieties for your zone, pollination, and preferences
-4. Plan spacing and layout; prepare soil and irrigation
-5. Plant bare-root trees in early spring; mulch and water immediately
-
-### How Many Trees?
-- 1/8 acre lot: 3-6 dwarf trees
-- 1/4 acre lot: 6-12 semi-dwarf trees
-- 1/2 acre lot: 8-20+ trees (mix of sizes)
-- Every tree needs cross-pollination — plan accordingly
-
-### Fruit Variety Selection Checklist
-- Hardiness zone compatibility
-- Chill hour requirements match your climate
-- Disease resistance (especially for organic/low-spray)
-- Pollination compatibility with other selected varieties
-- Desired harvest season (early, mid, late)
-- Intended use (fresh eating, cooking, storage, preserving)
-- Rootstock appropriate for your soil and space
-
 ## See Also
 
 - [[apple-tree-care]] for detailed apple tree management

@@ -142,26 +142,6 @@ Perhaps the most underappreciated cultivation method:
 ### Making Cardboard Spawn from Stem Butts
 1. Gather fresh mushrooms with stem bases and rhizomorphs intact
 2. Clip base just above where stem narrows; keep rootlike rhizomorphs attached
-3. Soak cardboard; place 1 stem butt per ~16 sq inches between panels
-4. Soak, place in box/tub, cover with wood chips
-5. Incubate in shade on the ground 4-5 months
-6. Use each colonized sheet as a mycelial footprint for outdoor beds
-
-### Making Dowel Spawn from Stem Butts
-1. Submerge 10,000 birch dowels in water for days/weeks; drain
-2. Place 4-8 stem butts into the box, pushed 2-4 inches deep, ~4 inches apart
-3. Cover with layers of corrugated cardboard; incubate outdoors (e.g., in a blackberry patch)
-4. After 6 months, harvest large mycelial islands
-5. Remove a third of the dowels; mix remaining ones to stimulate regrowth
-6. Broken rhizomorphs regrow with astonishing vigor
-
-### Exponential Expansion Potential
-- Year 1: 1 stem butt → 10,000 colonized dowels
-- Year 2: Each dowel multiplied 1,000-10,000x = 10-100 million dowels (2,000-20,000 lbs)
-- Year 3: Bunker spawn from these dowels could remediate many acres
-
-**Motto: "Move it or lose it"** — mycelium must be transplanted before it consumes its substrate and dies back.
-
 ## See Also
 
 - [[mushroom-cultivation-basics]] — The 10-step cultivation process, sterile technique

@@ -18,7 +18,7 @@ tags:
 
 sources:
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
-- raw/a-guide-to-home-scale-permaculture-gaias-[[fungi-in-garden-ecosystems|garden]]-a-guide-to-home-scale-permacultu.md
+- raw/a-guide-to-home-scale-permaculture-gaias-fungi-in-garden-ecosystems|garden-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - https://rodaleinstitute.org/why-organic/composting/
 - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=5
@@ -148,25 +148,3 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - **Visual:** No recognizable original materials; dark brown to black color.
 
 ## Related
-
-- [[vermicomposting]] — Worm-based composting system
-- [[bokashi]] — Anaerobic fermentation pre-compost
-- [[compost-tea-aact]] — Actively aerated compost tea brewing
-- [[sepp-holzer-methods]] — Hugelkultur and holistic land management
-- [[soil-food-web-nutrient-cycling]] — Biology that drives decomposition
-- [[duck-keeping]] — Duck manure as compost input
-- [[goat-keeping]] — Goat manure as compost input
-- [[cover-cropping-guide]]
-- [[no-till-gardening-method]]
-- [[soil-fertility-management]]
-- [[animal-byproducts]]
-- [[cannabis-living-soil-guide]]
-- [[mycorrhizal-fungi]]
-- [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
-- [[humanure-composting]] — thermophilic composting of human manure
-- [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
-- [[biochar-in-agriculture|biochar]]]
-- [[composting-systems-design-comparison]]
-- [[permaculture-history-timeline]]
-- [[garden-soil-basics]]
-- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.

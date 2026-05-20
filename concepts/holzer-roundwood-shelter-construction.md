@@ -30,7 +30,7 @@ Earth is the cheapest and best insulation. The temperature of the soil balances 
    c. Sheeting (pond liner is most hard-wearing) -- earth underneath must contain NO stones
    d. Additional membrane layer on top for security
    e. Neither membrane nor sheeting should be taut (could tear under heavy load)
-   f. Cover with earth (not more than half a meter; less for heavy loam soil)
+   f. Cover with earth (not more than half a meter; less for heavy [[loam-soil]])
    g. Pack soil around side walls
    h. Put buttresses against the sides for additional stability
 

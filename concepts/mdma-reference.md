@@ -144,39 +144,6 @@ This is the most advanced clinical application:
 ### Acute Risks
 
 - Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
-- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
-- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
-- Cardiovascular events: dangerous for those with cardiovascular conditions
-
-### Reducing Harm
-
-- Test substance (reagent tests, ideally fentanyl test strips)
-- Start low dose (especially with unknown purity)
-- Stay hydrated: 250-500 ml/hour non-alcoholic fluids; don't overhydrate
-- Take breaks from physical activity; maintain cool environment
-- Do not combine with SSRIs (reduces effects AND increases serotonin syndrome risk)
-- Wait 6-8 weeks between uses for serotonin recovery
-- Magnesium supplements before use may reduce jaw clenching
-- Have trusted friend present
-
-### Long-Term Harm Reduction
-
-- Frequency: maximum once per month; ideally much less
-- Dose: keep doses moderate (75-125 mg)
-- Avoid redosing (increases neurotoxicity risk with less benefit)
-- Exercise, good nutrition, and adequate sleep support recovery
-- Monitor mood and cognitive function for persistent problems
-
-## Legal Status
-
-- United States: Schedule I (since 1986)
-- United Nations: Schedule I under the 1971 Convention
-- Canada: Schedule I
-- United Kingdom: Class A
-- Australia: Schedule 9 (prohibited)
-- Most countries: Schedule I or equivalent
-- Clinical research permitted under specific regulatory frameworks
-
 ## See Also
 
 - [[lsd-reference]] for comparison with a classical psychedelic

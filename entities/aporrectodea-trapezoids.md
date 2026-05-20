@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-A. trapezoids has complex [[faunal-grazing-effects-on-mycorrhizal-function]] systems relevant to cultivation. While earthworms are generally considered beneficial for soil health, this species can disrupt mycorrhizal hyphal networks, potentially reducing the effectiveness of [[mycorrhizal-inoculation-guide]] in crop systems. Understanding these interactions is important for integrated soil management in cultivation. The species' role in transporting fungal propagules also has implications for the spread of both beneficial and pathogenic fungi in agricultural and horticultural settings.
+A. trapezoids has complex [[faunal-grazing-effects-on-mycorrhizal-function]] systems relevant to cultivation. While earthworms are generally considered beneficial for soil health, this species can disrupt mycorrhizal hyphal networks, potentially reducing the effectiveness of [[mycorrhizal-inoculation]] in crop systems. Understanding these interactions is important for integrated soil management in cultivation. The species' role in transporting fungal propagules also has implications for the spread of both beneficial and pathogenic fungi in agricultural and horticultural settings.
 
 ## Ecological Role
 

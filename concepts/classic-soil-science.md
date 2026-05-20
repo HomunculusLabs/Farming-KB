@@ -22,7 +22,7 @@ The O horizon sits on top of the mineral soil and consists primarily of organic 
 The A horizon is the most biologically active and agriculturally important layer:
 
 - Contains the **highest concentration of organic matter** mixed with mineral particles.
-- This is where the **majority of biological activity** occurs — roots, microbes, earthworms, insects.
+- This is where the **majority of biological activity** occurs — roots, microbes, [[earthworms]], insects.
 - **Plant roots concentrate here**, drawing water and nutrients.
 - Often darker in color due to accumulated humus.
 - Typically the most fertile and productive layer of soil.

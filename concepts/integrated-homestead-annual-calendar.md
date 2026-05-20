@@ -148,5 +148,3 @@ A rough annual nutrient budget for a 5-acre homestead with 5-7 goats, 30-50 duck
 | Cannabis (4x4 living soil) | 5-10 | 2-5 | 5-10 |
 
 The homestead produces 2-4x the nutrients needed for food production. The surplus builds soil organic matter, feeds the food forest, and creates buffer against poor years. This is the power of closed-loop design — the system generates its own fertility.
-
-See [[soil-fertility-management]] for detailed amendment rates, [[cannabis-living-soil-amendment-schedule]] for cannabis-specific timing, and [[dynamic-accumulator-quick-reference]] for plant-based nutrient sources.

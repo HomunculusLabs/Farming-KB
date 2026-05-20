@@ -130,37 +130,6 @@ Master Cho and Korean Natural Farming take an observational approach complementi
 
 - **Plant indicators**: Certain weeds indicate soil conditions — see [[common-homestead-weeds]] and [[dynamic-accumulators]]
 - **Soil smell**: Healthy soil has an earthy, sweet smell (geosmin from actinomycetes). Sour = anaerobic. Ammonia = excess N.
-- **Soil structure**: Crumbly, well-aggregated soil holds together when squeezed but breaks apart easily. Hard, massive soil = compacted, low biology.
-- **Earthworm presence**: Indicator of biological activity and organic matter
-- **Water infiltration**: Dig a hole, fill with water, time how long it drains. >1 inch/hour = good. <0.5 inch/hour = compaction or drainage issue.
-- **Seawater analysis**: [[knf-preparations]] uses diluted seawater (1:30) as a full-spectrum mineral supplement — if plants respond well, trace mineral deficiency was likely
-
-The KNF philosophy: test the soil, but also test the plant's response. If plants are healthy and productive, the soil is adequate regardless of what the lab says.
-
-## Cannabis-Specific Testing Considerations
-
-For [[cannabis-living-soil-guide]] beds:
-
-- **Pre-mix testing**: Test your soil mix before planting — amendments can be adjusted in the mix
-- **Runoff pH/EC testing**: Collect runoff water from watering to monitor what's leaching. pH 6.0–7.0, EC depends on stage
-- **Tissue testing**: Leaf tissue analysis reveals what the plant is actually taking up (vs. what's in the soil). Useful when visual deficiency symptoms appear. Most university labs offer tissue analysis.
-- **Post-harvest soil test**: Test after harvest to plan next cycle's amendments
-- See [[cannabis-plant-nutrition]] for deficiency symptom identification and [[cannabis-living-soil-amendment-schedule]] for amendment timing
-
-## Quick Reference: Soil Test Action Guide
-
-| If Your Result Shows... | Do This First |
-|------------------------|---------------|
-| pH < 5.5 | Lime (calcitic for Ca, dolomitic if Mg also needed). Retest in 3–6 months. |
-| pH > 7.5 | Elemental sulfur (1–5 lbs/100 sq ft depending on CEC). Add organic matter. |
-| OM < 3% | Add 1–2 inches compost annually. Start [[cover-cropping-guide]]. Reduce tillage. |
-| P very low | Rock phosphate (long-term) + bone meal (short-term) + inoculate [[mycorrhizal-fungi]]. |
-| K very low | Kelp meal, greensand, wood ash (sparingly — also raises pH). |
-| Ca < 60% base sat | Calcitic lime, gypsum (if pH OK), [[water-soluble-calcium-wca]]. |
-| Mg < 10% base sat | Dolomite lime (if pH low), Epsom salt (if pH OK). |
-| High Na | Gypsum (displaces Na), improve drainage, leach with water. |
-| High EC / salts | Leach with excess water, add organic matter, reduce manure inputs. |
-
 ## See Also
 
 - [[soil-testing]] — what to test, labs, DIY methods, sampling technique

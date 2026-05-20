@@ -17,7 +17,7 @@ Ancient prophets and shamans across Siberia, Central Asia, and the Indian subcon
 
 ### Balanced Pharmacology
 
-The calming GABAergic effects of muscimol — the primary psychoactive compound in properly prepared *Amanita muscaria* — combined with milk's nourishing proteins, fats, and sugars create a balanced experience. Practitioners consistently report feeling physically grounded and emotionally calm even during intense visionary episodes, a balance that is harder to achieve with more direct [[powell-shamanic-wisdom-and-ritual-practice]].
+The calming GABAergic effects of muscimol — the primary psychoactive compound in properly prepared *[[amanita-muscaria]]* — combined with milk's nourishing proteins, fats, and sugars create a balanced experience. Practitioners consistently report feeling physically grounded and emotionally calm even during intense visionary episodes, a balance that is harder to achieve with more direct [[powell-shamanic-wisdom-and-ritual-practice]].
 
 ## Overview
 
@@ -29,7 +29,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish amanita muscaria seers milk preparation ancient modern
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

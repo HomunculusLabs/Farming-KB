@@ -136,34 +136,6 @@ See also [[regenerative-agriculture-history]].
 ### Buying vs. Leasing
 
 - **Buying**: Full control, eligible for tax benefits and conservation programs, requires capital
-- **Leasing**: Lower entry cost, flexible, no equity build. Typical: $25–$100/acre/year
-- **Lease essentials**: Written contract, term length, permitted uses, maintenance, insurance, right of first refusal
-
-### Conservation Programs
-
-- **CRP (Conservation Reserve Program)**: USDA pays to remove sensitive land from production. 10–15 year contracts, annual rental + cost-share. Competitive enrollment
-- **EQIP (Environmental Quality Incentives Program)**: Financial/technical assistance for conservation practices (rotational grazing, cover crops, high tunnels, irrigation efficiency). Up to 75% cost-share. Good fit for regenerative homesteads
-- **Conservation easements**: Permanent development restrictions in exchange for tax benefits. Land stays private but cannot be subdivided/developed
-- **State programs**: Many states have Agricultural Preservation Restriction (APR), Agricultural Districts, Farmland Protection programs
-
-### Community Land Trusts
-
-- Nonprofits that hold land in trust for community benefit
-- Affordable land access for beginning farmers
-- Own improvements (buildings), lease the land
-- Check the National Community Land Trust Network for local organizations
-
-## Food Freedom Laws
-
-States with expanded producer-to-consumer sales beyond cottage food exemptions:
-
-- **Wyoming (2015)**: Food Freedom Act — sale of most homemade foods directly to consumers without state inspection
-- **Maine (2017)**: Food Sovereignty Act — towns can regulate local food independently
-- **North Dakota (2017)**: Cottage food producers can sell directly without state licensing
-- **Other expanding states**: Utah, Oklahoma, Illinois, Tennessee, Florida
-
-**Key**: Food freedom laws typically allow direct producer-to-consumer sales only — not to restaurants, grocery stores, or across state lines.
-
 ## See Also
 
 - [[homesteading-legal-considerations]] — Zoning, livestock, water rights, building permits

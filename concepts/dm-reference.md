@@ -143,37 +143,6 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 
 **Oral (Ayahuasca)**: Typical ceremonial dose 50-100 mg DMT with 50-150 mg harmine/harmaline. Effects depend heavily on MAOI dose and individual MAO activity.
 
-## Safety
-
-### Physical Safety
-
-- DMT has very low toxicity; no known lethal dose in humans
-- Primary risks are psychological, not physiological
-- Avoid with cardiovascular conditions (transient BP/HR increase)
-- Avoid with personal/family history of psychosis
-- Serotonin syndrome risk with SSRIs or other serotonergic drugs
-
-### Psychological Safety
-
-- [[set-and-setting]] are critical for safe experiences
-- Integration support recommended after intense experiences
-- Contraindicated for schizophrenia, bipolar, or psychotic disorders
-- "Bad trips" can occur — preparation and a trusted guide reduce risk
-
-### Legal Status
-
-- Schedule I in the United States (illegal to possess, manufacture, or distribute)
-- Controlled substance in most countries worldwide
-- Ayahuasca legally protected for religious use in some jurisdictions (Brazil, Peru, certain US exemptions)
-- DMT-containing plants have varying legal status depending on preparation and intent
-
-## Clinical Research
-
-- Ongoing research at institutions including Johns Hopkins, Imperial College London, and Usona Institute
-- Investigating DMT for treatment-resistant depression, anxiety related to life-threatening illness, and substance use disorders
-- Ayahuasca research for depression, PTSD, and addiction
-- Neuroscience studies of brain mechanisms (default mode network disruption, increased global connectivity)
-
 ## See Also
 
 - [[bioluminescent-fungi]] — Fungal chemistry and ecology

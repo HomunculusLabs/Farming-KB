@@ -148,42 +148,8 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 - Plant green manure cover crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
 - Add biochar to improve nutrient retention in sandy mountain soils
-- Test soil regularly; mountain soils may need lime ([[water-soluble-calcium-wca|calcium]]) to raise pH
-- Avoid overworking wet mountain soil; it compacts easily
+## See Also
 
-### Composting in Cool Climates
-- Compost decomposes 2-3x slower at high elevations
-- Use insulated bins or compost in direct sun
-- Chop materials finely to speed decomposition
-- Add nitrogen-rich materials to boost microbial activity
-
-## Season Extension
-
-### Cold Frames
-Simple, bottomless boxes with glass or polycarbonate lids:
-
-- Provide 10-20°F of frost protection
-- Start seedlings 4-6 weeks earlier in spring
-- Extend harvest of fall crops by 4-8 weeks
-
-### High Tunnels / Hoop Houses
-Unheated structures covered with greenhouse plastic:
-
-- Provide 5-15°F of frost protection depending on design
-- Extend growing season by 4-8 weeks on each end
-- See [[season-extension-techniques|season extension]] for detailed construction guidance
-
-### Indoor Growing
-For year-round production, [[cannabis-living-soil-guide|indoor]] growing systems can supplement the short outdoor season:
-
-- Start all seedlings indoors under lights
-- Consider [[cannabis-living-soil-amendment-schedule|living soil]] beds for indoor vegetable production
-
-## Integration with Homesteading
-
-Mountain gardening connects to broader homesteading systems:
-
-- Terraced gardens integrate with [[permaculture-earthworks|earthworks]] and water management
-- Cold-hardy perennials reduce annual planting labor
-- Composting connects to [[composting-systems|composting]] systems and soil [[fungal-biology-fundamentals|biology]]
-- Wildlife habitat around mountain gardens supports [[pollinator-conservation|conservation]] goals
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[guerilla-gardening-guide]]
+- [[coleman-french-maraicher-parisian-intensive-market-gardening]]

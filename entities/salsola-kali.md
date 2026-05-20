@@ -33,7 +33,7 @@ type: entity
 *Salsola kali* is relevant to mycorrhizal ecology and land restoration:
 
 - **Mine restoration**: Its use in taconite mine tailing restoration demonstrates the importance of matching plant-mycorrhizal combinations to contaminated site conditions.
-- **Mycorrhizal dynamics**: As an early-successional species with AM associations, it illustrates how [[mycorrhizal-inoculation-guide]] can jump-start ecosystem recovery on severely degraded sites.
+- **Mycorrhizal dynamics**: As an early-successional species with AM associations, it illustrates how [[mycorrhizal-inoculation]] can jump-start ecosystem recovery on severely degraded sites.
 - **Phytoremediation**: Salt accumulation capabilities combined with mycorrhizal associations suggest potential for bioremediation of both saline and metal-contaminated soils.
 - **Fertilizer vs. mycorrhizal inoculation debate**: Johnson's research showed that relying on mycorrhizal partnerships rather than heavy fertilization was more cost-effective and ecologically sound for restoring degraded lands.
 - **Successional ecology**: *S. kali* plays a transitional role — establishing quickly on disturbed sites, then facilitating conditions for later-successional species like *Panicum virgatum* to take hold.

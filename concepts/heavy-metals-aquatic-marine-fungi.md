@@ -11,9 +11,9 @@ type: concept
 - Duddridge, J.E. & Wainwright, M. (1980) — Metal uptake and trophic transfer in aquatic fungi
 - Fritze, H. et al. (1989) — Lichen community changes near Cu/Ni smelter
 - Joner, E.J. & Leyval, C. (1997) — Cd retention by AM fungi
-- Johnson, N.C. (1998) — Fertilizer effects on mycorrhizae in mine restoration
+- Johnson, N.C. (1998) — Fertilizer effects on [[mycorrhizae]] in mine restoration
 - Kosta-Rick, A. et al. (2001) — Metal accumulation in lichens vs. mosses
-- Maltby, L. & Booth, R. (1991) — Coal mine effluent effects on aquatic hyphomycetes
+- Maltby, L. & Booth, R. (1991) — Coal mine effluent effects on [[aquatic-hyphomycetes]]
 - Newell, S.Y. & Wall, V.D. (1998) — Fungal activity in Hg-contaminated salt marsh
 - Richardson, D.H.S. (1988) — Lichens as metal accumulators and pollution indicators
 - Tonín, C. et al. (2001) — Cd and Zn in mycorrhizal clover

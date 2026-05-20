@@ -148,33 +148,6 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - After the storm, check animals for injuries and provide clean water immediately
 
 ## Recovery After Hurricane
+## See Also
 
-### Immediate Safety
-- Wait for official all-clear before leaving shelter
-- Treat all downed power lines as live and deadly — stay far away and report them
-- Do not drink tap water until authorities declare it safe
-- Be aware of snakes, insects, and wildlife displaced by flooding
-- Use extreme caution with generators — never operate indoors or in garages (carbon monoxide kills)
-
-### Assessment
-- Photograph all damage before making any repairs or cleanup
-- Check roof, windows, doors, and siding for damage
-- Inspect electrical system — do not energize if water intrusion occurred
-- Check well and septic systems for contamination or damage
-- Assess trees for hanging limbs that could fall later
-- Inventory all losses and damages for insurance claims
-
-### Cleanup
-- Wear PPE: heavy gloves, boots, long pants, N95 mask, safety glasses
-- Remove standing water to prevent mold growth
-- Discard all food that may have been contaminated
-- Clean and disinfect all surfaces with bleach solution
-- Run fans and dehumidifiers to dry structures
-- Cover damaged roof areas with tarps immediately to prevent further water intrusion
-
-## Related Concepts
-
-- [[mushroom-foraging-safety-guide]] — General safety principles and emergency preparedness
-- [[flood-preparedness-guide]] — Flooding is often the most destructive component of hurricanes
-- [[homestead-first-aid-guide]] — Comprehensive first aid supplies
-- [[homestead-communication]] — Communication during extended power outages
+- [[wildfire-preparedness-guide]]

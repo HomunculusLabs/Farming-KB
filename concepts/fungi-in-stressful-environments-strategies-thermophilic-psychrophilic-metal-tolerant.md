@@ -9,7 +9,7 @@ Fungi have colonized virtually every stressful environment on Earth through a co
 
 ## Key Considerations
 
-The study of fungi in stressful environments — ecological strategies, thermophilic, psychrophilic, and metal-tolerant fungi encompasses several interrelated
+The study of [[fungi-in-stressful-environments]] — ecological strategies, thermophilic, psychrophilic, and metal-tolerant fungi encompasses several interrelated
 domains that inform both theoretical understanding and practical
 application. Researchers and practitioners continue to refine
 methodologies and expand the body of knowledge in this area.

@@ -140,21 +140,6 @@ MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory c
 
 ### 2025-2026 — Expanding Indications
 
-Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DMT for depression (Small Pharma), ibogaine for addiction (Ambio Life Sciences), and ketamine for various indications. Psychedelic-assisted therapy training programs multiply.
-
-## Key Figures in Psychedelic Research
-
-| Researcher | Contribution | Era |
-|-----------|-------------|-----|
-| Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
-| Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |
-| Stanislav Grof | LSD psychotherapy, transpersonal psychology | 1950s-2020s |
-| Timothy Leary | Harvard research, counterculture advocacy | 1960s |
-| Rick Strassman | DMT clinical research | 1990s |
-| Roland Griffiths | Johns Hopkins psilocybin research | 2000s-2020s |
-| Rick Doblin | MAPS founder, MDMA therapy advocacy | 1980s-2020s |
-| Robin Carhart-Harris | Imperial College research, REBUS model | 2010s-2020s |
-
 ## See Also
 
 - [[psychedelic-therapy-current-research]] — current state of clinical research

@@ -143,55 +143,6 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 
 *Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
 
-### Culinary Species Comparison (Dried, per 100 g)
-
-| Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
-|---------|----------|-------------|-----------|---------|-------------------|
-| Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
-| Porcini (dried) | 262 | 21.0 | 8.0 | 3.8 | 3-6 |
-| Morel (dried) | 311 | 17.5 | 10.5 | 3.2 | 2-4 |
-| Oyster (dried) | 330 | 11.0 | 9.0 | 1.0 | 4-7 |
-| Maitake (dried) | 280 | 10.0 | 8.5 | 0.5 | 5-9 |
-| Wood Ear (dried) | 312 | 9.0 | 12.0 | 0.3 | 3-5 |
-
-## Cooking and Nutrition
-
-### Effects of Cooking
-
-Cooking improves digestibility by breaking down chitin cell walls, increases bioavailability of beta-glucans and ergothioneine, reduces agaritine (a mild toxin in raw button mushrooms), and enhances flavor through Maillard reactions. Boiling leaches water-soluble B vitamins (20-40% loss) — save the broth. Microwaving retains more nutrients than boiling. Frying adds calories but develops beneficial Maillard compounds.
-
-### Raw vs. Cooked
-
-Most culinary mushrooms should be cooked. Raw button mushrooms contain agaritine (reduced ~90% by cooking). Cooking also inactivates potential pathogens and improves protein digestibility. Exceptions: some dried mushrooms are reconstituted without further cooking for soups, though brief cooking is still recommended.
-## Dietary Considerations
-
-### For Vegans and Vegetarians
-
-- Mushrooms provide protein, B vitamins, and minerals often lacking in plant-based diets
-- Excellent umami flavor ("fifth taste") enhances meatless dishes
-- Can substitute for meat in many recipes (portobello as burger, shiitake as bacon substitute)
-- Note: Do not rely on mushrooms as a B12 source despite some marketing claims
-
-### For Low-Carb and Keto Diets
-
-- Very low in net carbs (total carbs minus fiber)
-- Button mushrooms: ~2.3 g net carbs per 100 g
-- Excellent for keto-friendly meals
-- High volume-to-calorie ratio aids satiety
-
-### For Immune Support
-
-- Regular consumption of beta-glucan-rich mushrooms supports immune function
-- Shiitake, maitake, oyster, and button mushrooms all contribute meaningful beta-glucans
-- Culinary doses (100-200 g fresh, 3-5 times per week) provide measurable immune benefits
-
-### Allergies and Sensitivities
-
-- Mushroom allergies are rare but do occur
-- Cross-reactivity with mold allergies is possible
-- Some individuals are sensitive to specific mushroom species
-- Introduce new mushroom varieties gradually if you have known sensitivities
-
 ## See Also
 
 - [[medicinal-mushroom-guide]] — bioactive compounds beyond basic nutrition

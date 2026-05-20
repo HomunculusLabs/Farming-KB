@@ -19,7 +19,6 @@ tags:
 
 sources:
 - raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/master-cho-knf-recipe-book.md
 ---
 
 # KNF Leaf Mold Humus

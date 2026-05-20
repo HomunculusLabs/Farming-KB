@@ -142,55 +142,6 @@ Terpenes degrade and evaporate as trichomes mature past their peak. Harvesting t
 
 Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity preserves terpenes. Fast, hot drying destroys terpene profiles. Proper curing (2-8+ weeks in glass jars) develops and preserves the full aromatic profile.
 
-### Growing Medium
-
-Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
-
-## The Entourage Effect
-
-The entourage effect describes the synergistic interaction between cannabinoids, terpenes, and other cannabis compounds. Key examples:
-
-- Myrcene increases THC blood-brain barrier permeability
-- Pinene counteracts THC-induced memory impairment
-- Linalool enhances the sedative effects of myrcene and certain cannabinoids
-- Beta-caryophyllene activates CB2 receptors, adding anti-inflammatory effects
-- Limonene enhances mood elevation and serotonin release
-
-This synergy is the primary argument for whole-plant medicine over isolated THC or CBD.
-
-## Terpene Testing
-
-Professional labs can provide detailed terpene profiles using gas chromatography (GC) or gas chromatography-mass spectrometry (GC-MS). For growers, the nose remains the primary tool — aroma complexity and intensity are reasonable proxies for terpene richness.
-
-## Cannabinoid and Terpene Biosynthesis: The Hexanoate Pathway
-
-Cannabinoid and terpene biosynthesis share a common precursor (**geranyl pyrophosphate, GPP**), but cannabinoids require an additional input: **hexanoyl-CoA**, derived from hexanoate (caproic acid). This explains why certain soil amendments may influence potency.
-
-### The Pathway
-
-1. **Hexanoate → Hexanoyl-CoA**: The enzyme CsAAE1 (an acyl-activating enzyme) activates hexanoate to hexanoyl-CoA in the cytoplasm of glandular trichomes. This enzyme was identified through trichome transcriptome analysis and is specific to cannabis trichome tissue (Stout et al.).
-
-2. **Hexanoyl-CoA + Malonyl-CoA → Olivetolic acid**: A polyketide synthase (PKS) enzyme uses hexanoyl-CoA as a primer to form olivetolic acid (OA), the foundational precursor for all cannabinoids.
-
-3. **Olivetolic acid + GPP → CBGA**: Olivetolic acid combines with geranyl pyrophosphate (the terpene precursor) to form cannabigerolic acid (CBGA), the "mother cannabinoid."
-
-4. **CBGA → THCA/CBDA/etc.**: Specific synthase enzymes convert CBGA into the major acidic cannabinoids.
-
-### The LAB Connection
-
-Homemade [[lactic-acid-bacteria-lab]] (LAB serum) fermented from ruminant milk contains hexanoic acid (caproic acid) as a natural component of milk triacylglycerols (1-2% of milk fat fatty acids). When applied to cannabis root zones or as a foliar spray, the hypothesis (The Modern Farm) is that exogenous hexanoate may:
-
-- Supply additional hexanoyl-CoA precursor, potentially increasing olivetolic acid production
-- Stimulate the plant's [[cannabis-plant-nutrition|JA/SA defense pathways]] via hexanoic acid's known priming effects, which in turn upregulate trichome production
-- Increase trichome-to-calyx ratio and overall terpene production (anecdotal but consistent observations)
-
-Hexanoic acid is also a documented **priming agent** for plant defense — it activates callose deposition and both salicylic acid and jasmonic acid pathways, creating broad-spectrum resistance. This defense priming may contribute to increased trichome density as a protective response.
-
-### Cultivation Implications
-
-- The hexanoate pathway suggests that the availability of short-chain fatty acids in the root zone could be a limiting factor in cannabinoid production
-- [[knf-lactic-acid-bacteria-serum]] and other fermented preparations containing milk-derived fatty acids may provide this precursor
-
 ## See Also
 
 - [[cannabis-trichome-guide]] for the structures that produce terpenes

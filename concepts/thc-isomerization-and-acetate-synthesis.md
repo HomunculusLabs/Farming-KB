@@ -3,7 +3,7 @@ title: Cannabis Isomerization and THC Acetate Synthesis
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
-*Source: Cannabis Alchemy, Chapters 2–3, Ben Lemon*
+*Source: Cannabis Alchemy, Chapters 2–3, [[ben-lemon]]*
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

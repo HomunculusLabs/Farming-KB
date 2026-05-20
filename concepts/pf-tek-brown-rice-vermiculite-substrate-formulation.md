@@ -5,9 +5,9 @@ tags:
 ---
 ## Source Attribution
 
-This concept page is derived from **Source 3: PF TEK by [[pf-tek-psilocybe-fanaticus]]**.
+This concept page is derived from **Source 3: [[pf-tek]] by [[pf-tek-psilocybe-fanaticus]]**.
 The PF TEK is a foundational [[bigwood-beug-cultivation-methodology]] originally published by
-Robert "Psilocybe Fanaticus" McPherson. All technical specifications, formulas,
+Robert "[[psilocybe-fanaticus]]" McPherson. All technical specifications, formulas,
 and techniques described above are based on the original PF TEK documentation.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

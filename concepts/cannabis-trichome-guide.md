@@ -143,32 +143,6 @@ Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flo
 Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
 
 ### Growing Medium
-
-Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
-
-## Post-Harvest Trichome Preservation
-
-Trichomes are fragile. Proper handling preserves potency:
-
-- Handle flowers gently — trichomes break off with physical contact
-- Avoid plastic bags for storage (static electricity pulls trichomes off)
-- Use glass jars for curing
-- Maintain 58-62% relative humidity during cure
-- Keep curing environment at 60-70°F (15-21°C)
-- Minimize light exposure during drying and curing
-- Drying too fast or too hot degrades trichomes and terpenes
-
-## Trichomes and Hash Production
-
-Trichomes are the raw material for all hash and concentrate production:
-
-- Dry sift: mechanically separating trichomes from plant material using screens
-- Ice water extraction: cold water agitation to separate trichome heads (bubble hash)
-- Rosin press: heat and pressure to squeeze resin from trichome-laden material
-- Solvent extraction: using butane, CO2, or ethanol to dissolve trichome contents
-
-The quality of starting material directly determines the quality of the final extract. Well-grown, properly harvested flowers with mature trichomes produce the best results.
-
 ## See Also
 
 - [[cannabis-terpene-profile]] for what trichomes produce beyond cannabinoids

@@ -142,38 +142,6 @@ From division:
 
 For fresh use:
 - Harvest leaves and stems at any time during the growing season
-- Pinch or cut stems just above a node; the plant will regrow
-- Traditional dose: 2-3 fresh leaves daily (eaten raw)
-
-For drying:
-- Harvest aerial parts during active growth
-- Cut stems several inches above the base
-- Spread on screens in a warm, well-ventilated area out of direct sunlight
-- Dry at 90-100 degrees F
-- Material is dry when leaves are crisp and brittle
-- Store in airtight containers in a cool, dark place
-- Properly stored, dried gotu kola lasts 1 year
-
-For tincturing:
-- Fresh plant tincture (1:2 in 40-50% alcohol) is preferred by many
-  herbalists
-- Fill a jar loosely with fresh herb, cover with alcohol, macerate 4-6 weeks
-
-## Yields
-
-Gotu kola is highly productive. A well-maintained planting can provide
-regular harvests throughout the growing season. Expect 0.5-1 lb of fresh
-herb per square foot per year from an established patch.
-
-## Common Issues
-
-- Drying out: The most common problem. Plants wilt quickly and may die if
-  soil dries completely.
-- Root rot: Rare, but can occur in stagnant, anaerobic water. Refresh water
-  periodically in bog containers.
-- Yellowing leaves: Usually indicates nutrient deficiency; fertilize lightly.
-- Leggy growth: Indicates insufficient light; move to a brighter location.
-
 ## See Also
 
 - [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for

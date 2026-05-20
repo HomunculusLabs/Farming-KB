@@ -134,28 +134,6 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 - Various fungal species demonstrate ability to sequester heavy metals through biosorption
 - Mycelial mats can be deployed as passive filters for metal-contaminated water
 - After saturation, metal-loaded fungal biomass can be collected and processed
-- See [[mycoremediation-of-heavy-metals]] for detailed species data and mechanisms
-
-## Comparative Summary of Case Studies
-
-| Case Study | Contaminant | Primary Species | Outcome |
-|-----------|-------------|----------------|---------|
-| Battelle PCB | PCBs, PAHs | Pleurotus ostreatus | PCB degradation without bioaccumulation |
-| Oil Spill Response | Petroleum hydrocarbons | Pleurotus ostreatus | Hydrocarbon breakdown, ecological recovery |
-| E. coli Filtration | Coliform bacteria | Stropharia rugoso-annulata | Dramatic E. coli reduction |
-| WSDOT Roads | Sediment, petroleum | Multiple species | Effective sediment capture, cost-competitive |
-| Creosote Sites | PAHs | P. ostreatus, P. chrysosporium | Significant PAH reduction |
-| Radioactive Sites | Cs-137 | Mycorrhizal species | Bioaccumulation for removal |
-
-## Key Lessons from Case Studies
-
-1. **Species selection matters**: Different contaminants require different fungal species
-2. **Enzyme systems are key**: White-rot fungi with lignin-degrading enzymes are most versatile
-3. **No bioaccumulation in fruiting bodies**: Mushrooms metabolize rather than concentrate most organic pollutants
-4. **Fungal-bacterial partnerships**: Combining fungi with bacteria often yields better results than either alone
-5. **Site-specific design**: Each contamination scenario requires tailored approach
-6. **Cost effectiveness**: Mycoremediation can be significantly cheaper than conventional methods ($50-100K vs $1M+ for excavation)
-
 ## See Also
 
 - [[mycoremediation-basics]] for enzyme systems and mechanisms

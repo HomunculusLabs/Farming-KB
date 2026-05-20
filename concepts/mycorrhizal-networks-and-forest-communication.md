@@ -143,10 +143,6 @@ sources: []
 
 - The extent and ecological significance of resource transfer through CMNs is debated
 - Some researchers argue that resource movement is small relative to total plant budgets
-- Kin selection through CMNs is supported by some studies but not universally accepted
-- The signaling function of CMNs is well-documented but field significance is debated
-- Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
-
 ## See Also
 
 - [[fungi-in-climate-change]] -- climate impacts on mycorrhizal networks

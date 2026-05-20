@@ -119,7 +119,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[hugelkultur-bed-construction-detailed]] for detailed hugelkultur methods
+- [[hugelkultur-bed-construction]] for detailed hugelkultur methods
 - [[biodiversity-fungi-temperate-boreal-forests]]
 - [[biodiversity-microfungi-litter-wood-debris]]
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]

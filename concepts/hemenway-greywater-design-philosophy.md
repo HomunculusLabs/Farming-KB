@@ -35,7 +35,7 @@ household, mix with dirt and skin in shower and laundry, and
 flow into the soil or a ecological-gardening-principles]] attempts to restore the detritus cycle
 to its rightful central role through deep mulches,
 [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
-  shrubs, or use subsurface irrigation with perforated leach
+  shrubs, or use [[subsurface-irrigation]] with perforated leach
   lines.
 - Be careful what goes into the system. Chlorine bleach,
   boron-containing detergents, and some solvents are toxic to
@@ -83,7 +83,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish hemenway greywater design philosophy
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hemenway Greywater Design Philosophy finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

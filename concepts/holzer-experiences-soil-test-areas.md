@@ -106,7 +106,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]], [[hugelkultur-bed-construction-detailed]], [[mollison-designers-microclimate-creation-frost-protection]].
+- [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]], [[hugelkultur-bed-construction]], [[mollison-designers-microclimate-creation-frost-protection]].
 Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
 [[permaculture-quinoa-growing-guide]] varieties selected for mountain conditions show superior resilience and [[sepp-holzer]]
 - [[det]]

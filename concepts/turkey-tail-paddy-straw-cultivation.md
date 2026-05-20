@@ -8,7 +8,7 @@ type: concept
 - Turkey tail brackets should be harvested when still flexible and paler on the underside
 - Fresh turkey tail can be dried at 95-105°F for long-term storage and tea preparation
 - Paddy straw mushrooms should be harvested at the **egg stage** before the veil breaks for best texture
-- Both mushrooms require proper identification in the wild — turkey tail has lookalikes including **Stereum ostrea** (false turkey tail)
+- Both mushrooms require proper identification in the wild — turkey tail has lookalikes including **[[stereum-ostrea]]** (false turkey tail)
 - Double extraction (water + alcohol) maximizes polysaccharide and triterpene yield from turkey tail
 
 ## Growing Conditions Summary
@@ -27,7 +27,7 @@ type: concept
 
 ## Integration with Permaculture Systems
 
-- Turkey tail can be grown on **buried logs** in food forests — dual purpose of decomposition and medicine
+- Turkey tail can be grown on **buried logs** in food forests — dual purpose of [[decomposition]] and medicine
 - [[paddy-straw-mushroom]] cultivation utilizes agricultural waste (rice straw) that would otherwise be burned
 - Both species contribute to **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]** and can be integrated into zone 3-4 production areas
 

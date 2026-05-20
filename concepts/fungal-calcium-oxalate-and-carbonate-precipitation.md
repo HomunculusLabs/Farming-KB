@@ -8,7 +8,7 @@ tags:
 Fungal-induced carbonate precipitation represents a biological carbon dioxide sequestration pathway:
 
 - **Oxalate oxidation:** When calcium oxalate decomposes (through fungal or bacterial activity), the oxalate ligand is oxidized, releasing CO₂. However, the calcium released can combine with bicarbonate (HCO₃⁻) in solution to precipitate as calcium carbonate (CaCO₃), effectively fixing carbon in a stable mineral form.
-- **Net carbon balance:** The overall process can result in a net uptake of atmospheric CO₂ if carbonate precipitation exceeds CO₂ released during oxalate decomposition.
+- **Net carbon balance:** The overall process can result in a net uptake of atmospheric CO₂ if carbonate precipitation exceeds CO₂ released during oxalate [[decomposition]].
 
 ## Practical Applications
 

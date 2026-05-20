@@ -1,4 +1,5 @@
 ---
+title: Urban Permaculture Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

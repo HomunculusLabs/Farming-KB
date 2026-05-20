@@ -148,25 +148,3 @@ Most monotub setups produce 2-3 productive flushes. After the third flush, yield
 
 ## Misting and Fanning Protocol
 
-A simple, consistent misting and fanning routine improves yields:
-
-1. **Check the substrate surface**: If it glistens with tiny droplets, no misting needed. If it appears matte or dry, mist lightly.
-2. **Mist from above**: Hold the spray bottle 12-18 inches above the tub and spray a fine mist. Never spray directly onto pins or mushrooms.
-3. **Fan after misting**: Wave the tub lid over the opening 3-5 times to exchange air and distribute moisture.
-4. **Frequency**: 2-4 times per day depending on environmental conditions. Adjust based on surface moisture.
-5. **Reduce misting as mushrooms mature**: Large mushrooms near harvest need less surface moisture.
-
-## Common Yield Problems
-
-- **Low first flush**: Check spawn ratio, substrate depth, and consolidation time. Inoculate with a proven isolate rather than multi-spore.
-- **No pinning**: Check temperature, FAE, and light. The substrate may need a cold shock or FAE increase.
-- **Aborts**: Usually caused by touching pins, over-misting, large temperature swings, or CO2 buildup.
-- **Hollow stems**: Caused by rapid growth with insufficient humidity. Increase misting frequency.
-- **Small caps**: Insufficient FAE or excessive CO2. Loosen polyfill or increase fanning.
-
-## Related Topics
-
-- [[monotub-cultivation]] — the monotub setup for implementing yield strategies
-- [[bulk-substrate-preparation]] — substrate preparation for optimal yields
-- [[mushroom-harvesting-techniques]] — proper harvesting to maximize usable yield
-- [[mushroom-strain-selection]] — genetic factors in yield potential

@@ -148,15 +148,6 @@ Made from fresh frozen cannabis (harvested and immediately frozen rather than dr
 - Considered the premium tier of solventless concentrates
 
 ## Storage and Consumption
+## See Also
 
-### Storage
-- Airtight glass containers (not plastic), cool dark location
-- Refrigerator for long-term, 55-62% RH with humidity packs
-- Properly stored hash maintains quality 1-2 years
-- [[cannabis-testing-and-quality|Lab testing]] can verify potency and purity
-
-### Consumption
-- **Smoking:** In pipes, bowls, chillums, or mixed with flower in joints
-- **Dabbing:** Vaporizing rosin or high-quality hash on a heated nail
-- **Hot knives:** Heated knife blades vaporize small pieces
-- **Vaporizers:** Some dry herb vaporizers accommodate hash
+- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]

@@ -139,23 +139,6 @@ Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samp
 
 ### Other Pluteus Species
 
-- **Pluteus nigroviridis Babos**: Extremely rare (Hungary), only 0.035% psilocybin
-- **Pluteus cyanopus**: Reported from Europe; bluish/violet discolorations
-
-## Mushroom Identification Dangers
-
-### Galerina Fatalities
-
-On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina species mistaking them for Psilocybe. Two recovered after medical treatment; a 16-year-old girl died on December 24. Galerina species contain the same deadly amatoxins as Amanita phalloides — symptoms are insidious with a 12-hour latency period during which irreversible internal damage occurs.
-
-### Key Identification Risks
-
-- Psilocybin-producing species share characteristics with many culinary and toxic species
-- "Little Brown Mushrooms" (LBMs) are especially problematic — habitats and variations are poorly studied
-- Wood-debris Psilocybe species are much harder to identify than pasture-dwelling P. semilanceata
-- North America has a much broader spectrum of mushroom species than Europe, increasing confusion risk
-- Red light is NOT a safe "safe light" for mushroom work — it may interact with blue-light photoreceptor systems
-
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Global distribution patterns

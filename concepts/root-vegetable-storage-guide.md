@@ -147,37 +147,8 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Humidity: 90-95%
 - Darkness: Important
 - Ventilation: Good
+## See Also
 
-### Harvest and Storage
-- Harvest after first light frost (improves sweetness)
-- Cut tops to 1/2 inch
-- Can be waxed for market storage (not necessary for home storage)
-- Store in damp sand or sawdust
-- Storage life: 4-6 months (longer than turnips)
-- Rutabagas are denser and store better than turnips
-- Do not store near apples or pears — ethylene gas causes bitter flavor
-
-## Root Cellar Design Principles
-
-A functional root cellar requires:
-
-- **Below-grade location** — Earth provides natural insulation and temperature stability
-- **Two ventilation pipes** — One high (exhaust) and one low (intake) for passive airflow
-- **Humidity control** — Earthen floor or damp sand on a concrete floor provides moisture
-- **Shelving** — Wooden slatted shelves allow air circulation; avoid plastic shelving
-- **Multiple zones** — Potatoes need warmer temps than other roots; separate storage areas
-- **Pest exclusion** — Screen ventilation openings against rodents
-
-## Companion Storage Crops
-
-Other crops store well in root cellar conditions:
-
-- Onions and garlic: 32-40F, 60-70% humidity (store in mesh bags separately)
-- Cabbage: 32-40F, 90-95% humidity (wrap in newspaper to contain odors)
-- Winter squash: 50-55F, 50-70% humidity (much warmer and drier than roots)
-- Apples: 30-35F, 85-90% humidity (do not store near potatoes — ethylene causes sprouting)
-
-## Related Topics
-
-Root storage complements other preservation methods for winter food security. See [[mason-jar-preserving-guide]] for canning excess roots, and [[smoking-meat-and-fish]] for protein preservation. Growing root crops connects to [[perennial-vegetables]] and broader [[winter-gardening-techniques]] practices. Storage design integrates with [[swale-design-construction]] and homestead [[fungi-and-sustainability]] planning.
-- [[deer-fencing-and-deterrents]]
+- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
+- [[vegetable-harvest-and-storage-guide]]
+- [[purdue-vegetable-harvest-and-storage-guide]]

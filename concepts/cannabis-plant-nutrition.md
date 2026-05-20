@@ -148,29 +148,3 @@ Per "Teaming With Fungi", cannabis forms arbuscular mycorrhizae with Rhizophagus
 
 The biosynthesis of cannabinoids and terpenes shares precursors with fatty acid pathways:
 - Olivetolic acid production increases under UV-B light exposure
-- Hexanoyl-CoA (from hexanoate) is a primer for cannabinoid biosynthesis
-- Application of [[lactic-acid-bacteria-lab]] serum may provide hexanoic acid as a substrate, potentially boosting cannabinoid production
-- Adequate phosphorus and potassium during flowering supports terpene production
-
-## Related Pages
-
-- [[cannabis-living-soil-guide]] — soil mix and amendment recipes
-- [[cannabis-root-microbiome]] — research on how cannabis selects its microbial partners
-- [[soil-food-web-nutrient-cycling]] — how biology delivers nutrients
-- [[mycorrhizal-fungi]] — fungal partners for nutrient uptake
-- [[cannabis-vegetative-stage]] — veg nutrition management
-- [[cannabis-flowering-stage]] — flower nutrition management
-- [[cannabis-pest-management]]
-- [[knf-preparations]]
-- [[nutritive-cycle-theory]]
-- [[fish-amino-acid-faa]]
-- [[water-soluble-calcium-wca]]
-- [[animal-byproducts]]
-- [[soil-fertility-management]]
-- [[fermented-plant-extract-fpe]]
-- [[organic-nutrients-vs-synthetic-nutrients]] — comparison
-- [[soil-amendment-reference]] — comprehensive amendment quick-reference by nutrient
-- [[organic-fertilizer-recipes]]
-- [[cannabis-growing-mediums]]
-- [[cannabis-nutrient-deficiency-guide]]
-- [[fertilizer-npk-decoded]]

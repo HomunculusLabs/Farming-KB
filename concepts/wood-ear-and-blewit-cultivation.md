@@ -6,7 +6,7 @@ type: concept
 ## Cultivation Notes and Yield
 
 - Wood ear (Auricularia) can produce 3-4 flushes over 6-8 weeks on supplemented sawdust blocks
-- Blewits (Lepista nuda) are **difficult to cultivate commercially** — most foraging is wild-harvest
+- Blewits ([[lepista-nuda]]) are **difficult to cultivate commercially** — most foraging is wild-harvest
 - Wood ear substrate: hardwood sawdust + 10-15% bran, sterilized at 15 PSI for 90 minutes
 - Blewits prefer **composted leaf litter** and can be established in outdoor mushroom beds
 - Dried wood ear reconstitutes well — market demand is primarily for dried product in Asian cuisine

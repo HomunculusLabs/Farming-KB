@@ -43,7 +43,7 @@ True shimeji (Lyophyllum shimeji) is a different, mycorrhizal species that canno
 
 ## Cultivation Method: Bottle Culture
 
-Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation-guide]] and [[nameko-cultivation]].
+Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation]] and [[nameko-cultivation]].
 
 ### Substrate Formula
 
@@ -173,7 +173,7 @@ Shimeji is versatile and widely used in Japanese cuisine:
 
 ## Related Topics
 
-- [[enoki-cultivation-guide]] for another bottle-cultivated Japanese mushroom
+- [[enoki-cultivation]] for another bottle-cultivated Japanese mushroom
 - [[nameko-cultivation]] for cold-shock fruiting techniques
 - [[oyster-mushroom-species-guide]] for species cultivated on similar substrates
 - [[mushroom-substrates]]

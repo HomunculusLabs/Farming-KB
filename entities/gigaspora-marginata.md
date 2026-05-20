@@ -82,5 +82,5 @@ G. marginata is relevant to several applied mycology areas:
 
 ## References
 
-- Call, C.A. and Davies, F.T. (1988). [[mycorrhizal-inoculation-guide]] of grasses on lignite overburden.
+- Call, C.A. and Davies, F.T. (1988). [[mycorrhizal-inoculation]] of grasses on lignite overburden.
 - Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker, New York.

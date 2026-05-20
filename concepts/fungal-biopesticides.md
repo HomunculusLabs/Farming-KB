@@ -144,14 +144,6 @@ Mechanisms of action:
 - Apply Beauveria to compost piles to control fungus gnats and other pest flies
 
 ## Limitations
-
-- Slower action than chemical pesticides (days vs. hours)
-- Environmental conditions strongly affect efficacy
-- Generally more expensive per application than broad-spectrum chemicals
-- May require multiple applications per season
-- Registration and regulatory approval varies by country
-- Shelf life limitations for living organism products
-
 ## See Also
 
 - [[endophytic-fungi-in-agriculture]] -- fungi living inside plant tissues for pest resistance

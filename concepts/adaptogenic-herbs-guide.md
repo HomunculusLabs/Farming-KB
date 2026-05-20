@@ -10,7 +10,7 @@ sources: []
 
 | Goal | Primary | Secondary |
 |------|---------|-----------|
-| Stress/anxiety | Ashwagandha, Holy Basil | Rhodiola |
+| Stress/anxiety | [[ashwagandha]], Holy Basil | Rhodiola |
 | Fatigue/energy | Rhodiola, Eleuthero | Maca |
 | Athletic performance | Rhodiola, Eleuthero | Maca |
 | Sexual health | Maca, Ashwagandha | — |

@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka Natural Farming"
-aliases: [[natural-farming-five-principles-fukuoka|farming-five-principles-fukuoka|fukuoka-natural-farming-today|natural-farming-fukuoka|natural-farming-principles-fukuoka|natural farming, do-nothing farming, Masanobu Fukuoka farming]
+aliases: natural-farming-five-principles-fukuoka|farming-five-principles-fukuoka|fukuoka-natural-farming-today|natural-farming-fukuoka|natural-farming-principles-fukuoka|natural farming, do-nothing farming, Masanobu Fukuoka farming]
 tags: [agriculture, philosophy, farming, permaculture, sustainability]
 ---
 

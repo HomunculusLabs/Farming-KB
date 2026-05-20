@@ -7,7 +7,7 @@ type: concept
 
 ### Definition and Ecological Context
 
-Psychrotolerant fungi can grow at low temperatures but have optima in the mesophilic range. True psychrophiles have growth optima at or below 15°C and are unable to grow above ~20°C. Both groups are important in cold soils, permafrost, polar habitats, cold-stored food, and high-altitude or high-latitude ecosystems.
+Psychrotolerant fungi can grow at low temperatures but have optima in the mesophilic range. True psychrophiles have growth optima at or below 15°C and are unable to grow above ~20°C. Both groups are important in cold soils, [[permafrost]], polar habitats, cold-stored food, and high-altitude or high-latitude ecosystems.
 
 ### Why These Fungi Are Underreported
 

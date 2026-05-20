@@ -36,7 +36,7 @@ not be used** — the mycelium is sensitive to these compounds.
 ### Substrates
 
 As secondary decomposers: [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], cereal straws, and agricultural
-by-products. **Casing soil is required** for [[fruiting-initiation]].
+by-products. **[[casing-soil]] is required** for [[fruiting-initiation]].
 
 ### Outdoor Cultivation
 

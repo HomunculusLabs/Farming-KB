@@ -139,23 +139,6 @@ Ingham recommends microscope assessment at 400x magnification:
 
 ## Storage and Shelf Life
 
-- AACT must be used within 4-6 hours of brewing for maximum benefit
-- NEVER store in sealed containers — organisms need oxygen
-- If must store briefly: keep aerated, use within 24 hours, biology declining rapidly
-- Compost tea cannot be shipped or stored long-term — brew fresh on-site
-- This is why commercial compost tea products are typically extracts, not true AACT
-
-## Bacterial vs. Fungal Tea
-
-| Factor | Bacterial Tea | Fungal Tea |
-|--------|--------------|------------|
-| Target crops | Vegetables, annuals, brassicas | Trees, shrubs, perennials, cannabis flower |
-| Compost source | Worm castings, thermal compost | Forest humus, fungal compost |
-| Food | Molasses, fish hydrolysate | Kelp, humic acid, oatmeal, oat straw |
-| Molasses | 2-4 Tbsp | 0-1 Tbsp (less) |
-| Brew time | 18-24 hours | 24-36 hours |
-| Bacteria:Fungi ratio | High bacterial | High fungal |
-
 ## See Also
 
 - [[composting-systems]] — compost production as AACT ingredient source

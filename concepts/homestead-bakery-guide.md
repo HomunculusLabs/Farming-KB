@@ -148,37 +148,8 @@ If cottage food limits are too restrictive:
 - **Shared commercial kitchen** — Rent time in an existing licensed commercial kitchen. $15-40/hour in most areas.
 - **Build a dedicated commercial kitchen** — Requires health department approval, commercial-grade equipment, three-compartment sink, hand-washing sink, separate food prep areas, proper ventilation, and more. Cost: $20,000-$100,000+ depending on scope.
 - **Co-packing** — Partner with an existing bakery to produce your recipes in their facility.
+## See Also
 
-## Equipment Recommendations
-
-**Essential:** Dutch oven (cast iron, 5-7qt), banneton proofing basket, kitchen scale (1g precision), bench scraper, lame (scoring blade), instant-read thermometer.
-
-**Helpful:** Proofing box, oven stones or steel, mixer with dough hook (not essential — hand mixing works well).
-
-## Production Planning
-
-### Weekly Schedule
-
-For a family consuming 2-3 loaves per week:
-
-| Day | Task |
-|-----|------|
-| Monday | Feed starter, bake 2 loaves |
-| Tuesday | Feed starter |
-| Wednesday | Bake 1-2 loaves |
-| Thursday | Feed starter |
-| Friday | Bake 1-2 loaves, feed starter |
-| Saturday | Starter rest |
-| Sunday | Bake specialty items (rolls, flatbreads) |
-
-### Flour Production
-
-If milling your own flour:
-- Plan 15-20 minutes of milling per loaf of bread
-- A batch of 4-6 loaves takes about 1 hour of milling
-- Mill flour the day before baking for best results (allows flour to oxidize slightly)
-- Store whole grain berries in bulk; mill as needed
-
-## Related Topics
-
-Fresh flour for baking comes from [[grain-milling-at-home]]. Sourdough fermentation principles overlap with [[food-fermentation-guide]] and [[effective-microorganisms-em]] topics. Bread sales connect to [[soap-making-guide]] and broader [[fungi-and-sustainability]] economics. Grain production ties into [[small-scale-grain-growing]] crop management and [[food-forest-design]] design.
+- [[homestead-insurance-guide]]
+- [[homestead-dairy-guide]]
+- [[homestead-first-aid-guide]]

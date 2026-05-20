@@ -6,9 +6,9 @@ type: concept
 ## Key References
 
 - Allen, M.F. & Cunningham, G.L. (1983). VAM effects on *Distichlis spicata* under salinity.
-- Augé, R.M. (2001). Water relations, drought and VA mycorrhizal symbiosis.
-- Barea, J.M. et al. (1997). Mycorrhizal fungi and rhizosphere micro-organisms in sustainable systems.
-- Cheplick, G.P. et al. (2000). Drought effects on *Lolium perenne* with/without endophytes.
+- Augé, R.M. (2001). Water relations, drought and VA [[mycorrhizal-symbiosis]].
+- Barea, J.M. et al. (1997). [[mycorrhizal-fungi]] and [[rhizosphere]] micro-organisms in sustainable systems.
+- Cheplick, G.P. et al. (2000). Drought effects on *[[lolium-perenne]]* with/without endophytes.
 - Cooke, J.C. et al. (1990, 1993, 1998). VAM in disturbed/undisturbed coastal salt marshes.
 - Cooper, E.J. & Wookey, P.A. (2001). Forage lichen growth rates and Svalbard reindeer grazing.
 - Cruz, C. et al. (2000). AM fungi effects on papaya under water stress.
@@ -26,10 +26,10 @@ type: concept
 - McCann, K.S. (2000). The diversity-stability debate.
 - McHugh, J.M. (2001). Mycorrhizal effects on *Spartina* saltmarsh grasses.
 - Miller, S.L. (1995). Functional diversity in fungi.
-- Myers, M.D. & Leake, J.R. (1996). Nuclei as P and N source for *Vaccinium macrocarpon*.
+- Myers, M.D. & Leake, J.R. (1996). Nuclei as P and N source for *[[vaccinium-macrocarpon]]*.
 - Padgett, D.E. & Celio, D.A. (1990). Aerobic fungi in anaerobic salt marsh soils.
 - Palmqvist, K. & Sundberg, B. (2000). Light use efficiency in macrolichens.
-- Peck, J.E. et al. (2000). Biomass growth rates of arctic lichen *Masonhalea richardsonii*.
+- Peck, J.E. et al. (2000). Biomass growth rates of arctic lichen *[[masonhalea-richardsonii]]*.
 
 ## Key Concepts and Applications
 

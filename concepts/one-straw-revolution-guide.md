@@ -140,21 +140,6 @@ Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mounta
 Young people from cities, researchers, students, poets, wanderers gathered at the mud-walled huts. "Many people come, thinking they will find a utopia where one can live without ever having to get out of bed. These people are in for a big surprise. Hauling water from the spring in the early morning fog, splitting firewood until their hands are red and stinging with blisters."
 
 ### Philosophy of Non-Understanding
-
-"People study because they think they do not understand, but studying is not going to help one to understand. They study hard only to find out in the end that people cannot know anything." The path: abandon discriminating knowledge, and "non-discriminating knowledge of itself arises within him."
-
-"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
-
-## Key Quotes
-
-"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
-
-"If you throw away the concept of 'nature' and 'natural farming' and just do what comes naturally, you will be on the right path."
-
-"The only road for man is to do nothing. If everyone were to do nothing, the world would become a place of peace and plenty."
-
-"Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
-
 ## See Also
 
 - [[natural-farming-fukuoka]] — Full method summary and practical applications

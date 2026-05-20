@@ -33,7 +33,7 @@ Dr. [[efren-cazares]] is a mycological researcher who trained under Dr. [[jim-tr
 
 - **Diagnostic capacity**: Cazares's training of SFI technicians made mycorrhizal assessment commercially available to farmers and growers, not just academic researchers.
 - **Threshold development**: The [[mycorrhizal-colonization-thresholds]] (below 15% requires inoculation, 15-40% add compost or humic acids, above 40% generally healthy) used by SFI were developed with his input.
-- **[[mycorrhizal-inoculation-guide]] guidance**: Accurate identification enables targeted inoculation recommendations, letting growers learn which mycorrhizal type they need (VAM, ecto, or ericoid) and at what rate.
+- **[[mycorrhizal-inoculation]] guidance**: Accurate identification enables targeted inoculation recommendations, letting growers learn which mycorrhizal type they need (VAM, ecto, or ericoid) and at what rate.
 - **[[accessible-mushroom-cultivation-for-disabilities]]**: For cultivators working with ectomycorrhizal species, understanding colonization assessment protocols derived from Cazares's work is essential for monitoring symbiosis establishment.
 - **Quality assurance**: His role in training technicians ensured that SFI mycorrhizal assessments met academic standards of accuracy and reproducibility.
 

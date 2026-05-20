@@ -148,18 +148,3 @@ Fungi respond to temporal changes in resource availability:
 
 Understanding fungal growth dynamics informs several practical applications:
 
-- **No-till agriculture**: Preserves mycelial networks, maintaining fungal biomass and connectivity. Tillage severs hyphae, requiring regrowth. See [[no-till-gardening-method]].
-- **Cover crops**: Maintain continuous root systems that support mycorrhizal fungi during fallow periods. See [[cover-cropping-guide]].
-- **Wood chip mulch**: Provides substrate for saprotrophic fungi, increasing soil fungal biomass and activity. See [[mulching-guide]].
-- **Biocontrol**: Understanding fungal foraging helps design effective biological control strategies (e.g., placement of *Trichoderma* inoculum for optimal pathogen encounter rates)
-
-## Related Pages
-
-- [[fungal-ecology]] -- fungal ecology overview
-- [[fungal-enzymatic-capabilities]] -- enzyme systems
-- [[fungal-nutrient-cycling-mineral-transformations]] -- nutrient cycling
-- [[fungi-soil-food-webs]] -- soil food web roles
-- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
-- [[mycorrhizal-types]] -- mycorrhizal growth forms
-- [[no-till-gardening-method]] -- preserving fungal networks
-- [[soil-health-indicators]] -- assessing soil biology

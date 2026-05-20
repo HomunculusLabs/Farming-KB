@@ -148,26 +148,6 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 - Many of these plants are sacred to indigenous communities
 - Commercial exploitation of traditional medicines raises ethical questions
 - Consider supporting indigenous communities and conservation efforts
-- Educate yourself on the cultural context before using these substances
+## See Also
 
-### Vendor Red Flags
-- Claims of "legal highs" or "designer drugs"
-- Products marketed for consumption that are sold as "not for human consumption"
-- No physical address or contact information
-- Poor reviews or no reviews
-- Prices significantly below or above market rate
-- Unsolicited advertising or aggressive marketing
-
-## Safety Considerations
-
-- Verify the identity of any plant material you receive
-- Start with low doses — potency varies enormously
-- Test substances with reagent tests when possible
-- Be aware of legal risks in your jurisdiction
-- Never consume unidentified plant material
-- See [[psychedelic-plants-legal-status]] for legal information by jurisdiction
-
-## Related Topics
-
-- [[psychedelic-plants-legal-status]] — legal status of entheogens by jurisdiction
-- [[psychedelic-plants-indoor-growing]] — cultivation guidance for legal entheogenic plants
+- [[teaming-with-nutrients-fertilizer-sources]]

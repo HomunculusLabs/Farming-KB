@@ -148,47 +148,6 @@ Look for matsutake in:
 
 - Tricholoma pardinum (Trivial Angel): poisonous, causes severe GI distress; cap is more silvery-gray with concentric scales
 - Amanita species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)
-- When in doubt, verify the distinctive spicy odor and the solid stem with ring
+## See Also
 
-### Harvesting Technique
-
-- Dig around the base with a small tool or fingers to expose the stem
-- Pull gently from the base to extract the entire mushroom
-- Clean soil from the base carefully
-- Do not cut — the entire mushroom including the base is valued
-- Pack individually to prevent bruising
-- Keep cool and transport to market quickly
-
-### Quality Grading
-
-- Grade 1 (highest): button stage, unopened veil, intact, no damage
-- Grade 2: partially opened, good color and condition
-- Grade 3: fully opened, minor damage
-- Processing: damaged, insect-damaged, or over-mature
-
-## Cultural Significance
-
-Matsutake holds profound cultural meaning in Japan:
-
-- Symbol of autumn and the impermanence of beauty
-- Traditional gift item, exchanged during autumn
-- Featured in kaiseki (formal multi-course dining)
-- Historically associated with the imperial court
-- Subject of poetry, art, and literature for centuries
-- Giving matsutake as a gift conveys respect, gratitude, and status
-
-## Conservation Concerns
-
-Matsutake populations are declining across their range due to:
-
-- Forest management practices (clear-cutting, fire suppression)
-- Pine wilt disease (caused by the pine wood nematode)
-- Climate change (warmer, drier conditions)
-- Urbanization and habitat fragmentation
-- Over-harvesting in some areas (though most decline is habitat-related)
-
-## Related Topics
-
-- [[porcini-boletus-guide]] for another valuable wild-foraged mycorrhizal mushroom
-- [[chanterelle-guide]] for wild mushroom foraging techniques
-- [[truffle-guide]] for another uncultivable mycorrhizal fungus with extreme market value
+- [[pine-disease-and-matsutake-mushroom-decline]]

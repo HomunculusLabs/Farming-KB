@@ -143,46 +143,6 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 
 Brassicas are among the most cold-tolerant vegetable families.
 
-### Frost Tolerance by Crop
-- **Kale**: Hardy to 10F; flavor improves with frost
-- **Brussels Sprouts**: Hardy to 0-10F; best after several frosts
-- **Collards**: Hardy to 10F; similar to kale
-- **Cabbage**: Hardy to 20F; late varieties can survive to 10F
-- **Broccoli**: Hardy to 25F; heads may be damaged below 28F
-- **Cauliflower**: Least cold-hardy; damaged below 28F
-
-### Season Extension
-- Low tunnels with row cover fabric protect to 15-20F
-- Heavy row cover (frost blanket) adds 4-8 degrees of protection
-- Cold frames and hoop houses extend harvest into winter
-- See [[urban-farming-methods]] for season extension structures
-
-## Common Problems
-
-### Clubroot
-- Soil-borne disease causing swollen, deformed roots
-- Plants wilt and stunt
-- Prevention: raise pH to 7.0-7.5 with lime, rotate crops 4+ years
-- Resistant varieties available for some brassicas
-
-### Black Rot
-- Bacterial disease causing V-shaped yellow/brown lesions on leaf edges
-- Spreads by water splash and contaminated tools
-- Remove affected leaves; avoid overhead watering
-- Use certified disease-free seed and 3-year rotation
-
-### Bolting
-- Caused by exposure to temperatures below 50F for extended periods followed by warmth
-- Most common in early spring plantings of broccoli and cabbage
-- Prevent by using bolt-resistant varieties and proper transplant timing
-
-## Nutrition
-
-- Brassicas are heavy nitrogen feeders
-- Side-dress with compost or balanced fertilizer 3-4 weeks after transplant
-- Adequate boron prevents brown heart and hollow stem in cauliflower
-- Consistent water is critical — drought stress causes tough, bitter leaves and small heads
-
 ## See Also
 
 - [[lettuce-and-leafy-greens]] for companion cool-season greens

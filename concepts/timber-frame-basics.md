@@ -148,20 +148,7 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Boring machine or brace and bit:** Drilling peg holes and mortises
 - **Hand plane (jack and smoothing):** Flattening and finishing surfaces
 - **Drawknife and spokeshave:** Shaping curved elements
-- **Slick:** Large chisel pushed by hand for paring surfaces flat
+## See Also
 
-### Power Tools (Modern)
-
-- **Chain mortiser:** Efficiently cuts mortises of consistent depth
-- **Circular saw with beam-cutting blade:** Rough cutting of timbers
-- **Reciprocating saw with long blade:** Trimming tenons
-- **Drill press or boring machine:** Clean peg holes
-- **Planer (portable or stationary):** Milling rough-sawn timber to consistent dimensions
-- **Angle grinder with flap disc:** Cleaning up joints and shaping
-
-## Related Concepts
-
-- [[natural-building-materials-guide]] for infill options to pair with timber frames
-- [[straw-bale-construction]] for the most common natural infill system
-- [[reciprocal-roof-frame]] for an alternative roof structure approach
-- [[rocket-mass-heater-design]]
+- [[comparison-bamboo-construction-vs-timber-frame-basics]]
+- [[comparison-cob-vs-timber-frame]]

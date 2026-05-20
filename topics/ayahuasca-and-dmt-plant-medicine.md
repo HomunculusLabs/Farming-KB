@@ -143,11 +143,6 @@ the plant material is re-extracted with fresh water, and both extractions are
 combined and reduced to a drinkable volume of 100–200 mL per dose.
 
 A standard beginner brew uses approximately 50–70 g of shredded vine with 30–50 g
-of dried leaf. The ratio can be adjusted: more vine produces a heavier, more
-bodily experience (*mareación*), while more leaf produces more visual and
-cognitive effects. Traditional Shipibo curanderos often use very high proportions
-of vine.
-
 ## See Also
 
 - [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]

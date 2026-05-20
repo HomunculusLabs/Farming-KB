@@ -148,27 +148,6 @@ After washing, biodiesel contains suspended water droplets:
 Glycerin makes up about 20% of the reaction volume and has several uses:
 
 - **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
-- **Compost additive** — Small amounts can be composted; it breaks down readily
-- **Methanol recovery** — Residual methanol can be recovered by heating the glycerin to 150F
-- **Degreaser** — Raw glycerin is an effective industrial degreaser
+## See Also
 
-Do not dump large quantities of glycerin on the ground or in waterways. The methanol content makes it toxic until it has fully evaporated.
-
-## Safety Considerations
-
-- **Methanol** is toxic, flammable, and absorbed through skin. Work outdoors, wear a respirator with organic vapor cartridges, nitrile gloves, and safety goggles
-- **Sodium methoxide** is extremely caustic. It causes severe chemical burns on contact with skin or eyes
-- **Fire risk** — Methanol vapors are heavier than air and can travel to ignition sources. No open flames or sparks near the processing area
-- **Ventilation** — Work in a well-ventilated area. Methanol exposure limits are 200ppm over 8 hours
-- **Disposal** — Never pour methanol, catalyst, or glycerin down drains or onto the ground
-
-## Legal Considerations
-
-- In the US, the EPA requires biodiesel producers to register if they produce more than a de minimis amount (check current thresholds)
-- Some states have additional fuel tax requirements
-- Off-road use (farm equipment, generators) generally has fewer regulatory requirements than on-road vehicle fuel
-- Check local fire codes for methanol storage requirements
-
-## Related Topics
-
-Biodiesel production complements other off-grid energy systems. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-making-guide]]. Energy system design principles overlap with broader [[fungi-and-sustainability]] goals on the homestead.
+- [[mycorrhizal-inoculation-and-inoculum-production]]

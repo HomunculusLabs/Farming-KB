@@ -15,7 +15,7 @@ scans of many classic works referenced in Solomon's bibliography, including
 ### SARE — Sustainable Agriculture Research and Education
 
 Funded by the USDA, SARE supports research and education in sustainable farming
-practices. Its website offers free publications on cover crops, soil health,
+practices. Its website offers free publications on [[cover-crops]], soil health,
 pest management, grazing, and marketing. The farmer-driven grant program has
 funded thousands of on-farm research projects across the United States.
 
@@ -29,8 +29,8 @@ production using organic methods that prioritize soil health.
 
 ## Summary
 
-The references in Steve Solomon's bibliography form a well-rounded library for
-the serious organic gardener, covering soil biology, composting, cover cropping,
+The references in [[steve-solomon]]'s bibliography form a well-rounded library for
+the serious organic gardener, covering soil biology, [[composting]], cover cropping,
 season extension, regional growing, and the deep history of the organic
 movement. Many works are freely available online, ensuring this knowledge
 remains accessible to all who wish to grow food responsibly and sustainably.

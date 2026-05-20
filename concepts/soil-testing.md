@@ -131,31 +131,6 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 Bad sampling produces bad data. Follow this protocol:
 
-### Tools
-- Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
-- Plastic bucket (not metal for micronutrient samples)
-- Ziploc bags (clean)
-- Permanent marker
-
-### Method
-1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample
-2. **Take 10–15 subsamples per zone** — walk a zigzag pattern, collect from 0–6 inch depth (standard garden) or 0–8 inches (field crops)
-3. **Mix subsamples in the plastic bucket** — break up clods, remove rocks and roots
-4. **Fill sample bag** — take ~2 cups from the mixed sample
-5. **Label clearly** — date, location, depth, crop intended
-6. **Don't sample right after amendments** — wait 2–4 weeks after liming, fertilizing, or compost application
-7. **Don't sample wet soil** — soil should be moist enough to form a ball but dry enough to crumble
-
-### Sampling for Different Situations
-
-| Situation | Depth | Notes |
-|-----------|-------|-------|
-| Vegetable garden | 0–6 inches | Annual crops, root zone |
-| Perennial beds / orchard | 0–12 inches | Deeper root systems |
-| Pasture / field | 0–6 inches | Standard |
-| Problem diagnosis | Split: 0–6 and 6–12 | Compare surface vs subsoil |
-| Container / raised bed | Full depth | Mix entire root zone |
-
 ## See Also
 
 - [[interpreting-soil-test-results]] — how to read your lab report and plan amendments

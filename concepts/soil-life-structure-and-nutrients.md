@@ -5,8 +5,8 @@ type: concept
 ---
 ## Key Takeaways
 
-- **Soil life builds structure:** bacterial slime, fungal hyphae, and animal burrows create the aggregates, pores, and channels that define healthy soil.
-- **Soil life cycles nutrients:** the food web mineralizes organic matter into plant-available nutrients directly in the rhizosphere — far more efficiently than [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+- **[[soil-life]] builds structure:** bacterial slime, [[fungal-hyphae]], and animal burrows create the aggregates, pores, and channels that define healthy soil.
+- **Soil life cycles nutrients:** the food web mineralizes organic matter into plant-available nutrients directly in the [[rhizosphere]] — far more efficiently than [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 - **Soil life suppresses disease:** diverse communities outcompete pathogens through competition, predation, physical barriers, and natural antibiotics.
 - **F:B ratio matters:** match your soil biology to your crop type — annuals want bacterial soils; perennials and trees want fungal soils.
 - **Protect the web:** minimize practices that kill or starve soil organisms. The food web is your most valuable farm asset.

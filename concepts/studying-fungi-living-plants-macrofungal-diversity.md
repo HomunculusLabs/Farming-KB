@@ -6,8 +6,8 @@ type: concept
 ## Key References
 
 - Arnolds, E. 1992 (citing Winterhoff data)
-- Bernstein, M.E., Carroll, G.C., and Wicklow, D.T. 1973. Fluorescence microscopy for estimating foliar coverage of Douglas fir needle microepiphytes.
-- Dix, N.J., and Webster, J. 1995. Fungal Ecology. Chapman & Hall.
+- Bernstein, M.E., Carroll, G.C., and Wicklow, D.T. 1973. Fluorescence microscopy for estimating foliar coverage of [[douglas-fir]] needle microepiphytes.
+- Dix, N.J., and Webster, J. 1995. [[fungal-ecology]]. Chapman & Hall.
 - Langvad, F. 1980. Double-sided adhesive tape method for leaf peels.
 - Lodge, D.J. 1996. Entolomataceae fruiting patterns in Puerto Rico.
 - O'Dell, T.E., and Ammirati, J.F. 1994. Ectomycorrhizal species at Olympic National Park.

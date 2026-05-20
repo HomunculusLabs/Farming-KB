@@ -148,18 +148,3 @@ Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar t
 
 Tolerance to psilocybin develops rapidly:
 
-- **Day 1**: Full sensitivity
-- **Day 2**: Requires approximately 2x the original dose for equivalent effects
-- **Day 4**: Requires approximately 3-4x the original dose
-- **Day 7-14**: Sensitivity substantially returns
-- **Day 14+**: Full sensitivity typically restored
-
-This cross-tolerance extends to LSD, DMT, mescaline, and other 5-HT2A agonists. For therapeutic use, sessions are typically spaced 2-4 weeks apart to allow full tolerance reset and integration.
-
-## Special Populations
-
-- **SSRI/SNRI users**: May require 2-3x normal dose due to receptor downregulation. Discontinuation of 2-4 weeks before psychedelic use is recommended when possible
-- **Older adults**: No specific dosage adjustments are established; start conservatively and monitor cardiovascular response
-- **Individuals with trauma histories**: Lower doses with professional therapeutic support are recommended; high-dose approaches carry risk of re-traumatization
-
-See [[psychedelic-mushroom-chemistry]] for the biochemical basis of potency variation and [[psychedelic-mushroom-pharmacology]] for pharmacokinetic details affecting dose-response.

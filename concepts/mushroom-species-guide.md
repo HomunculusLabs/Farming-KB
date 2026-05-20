@@ -129,19 +129,6 @@ Understanding a species' ecological role helps match it to the right substrate a
 - **Tertiary decomposers**: Soil dwellers in habitats years in the making. Often difficult to cultivate. Examples: Aleuria aurantia, Panaeolus subbalteatus (grows on discarded button mushroom compost).
 
 Temperature-tolerant varieties are more forgiving for beginners. In warmer climates, moisture is rapidly lost, narrowing the growing window. Mushrooms grow most prolifically where shade and dappled sunlight combine, not in the darkest depths of woodlands.
-
-## Suitable Tree Species for Log and Sawdust Cultivation (Stamets)
-
-Recommended hardwoods: alders, birches, hornbeans, chestnuts, beeches, ashes, larches, sweetgums, tanoaks, cottonwoods, willows, ironwoods, walnuts, elms, maples. Suggested softwoods: Douglas firs and hemlocks.
-
-Avoid: most pines (ponderosa, lodgepole), cedars, redwood (anti-rotting compounds stifle mycelium), aromatic hardwoods like eucalyptus. Red alder is a favored "weed tree" — fast-decomposing with high sapwood:heartwood ratio, encouraging rapid colonization.
-
-## Decomposition Succession Concept (Stamets)
-
-Multiple mushroom species can be grown sequentially on the same substrate. Once one species has exhausted its preferred compounds, a different species with complementary enzymes can further reduce the substrate mass. The remaining material that does not evolve into gases becomes humus — this is how nature builds soil. A simple 50:50 mixture (by volume) of sawdust and wood chips of varying particle sizes provides the best structure: smaller particles stimulate quick "leap-off" growth; larger chips become nutritional bases and fruiting platforms, enabling super-large specimens.
-
-**Heavy metal warning**: Avoid wood chips from trees along busy roadways — automobile exhaust contaminates surrounding soil with lead and aluminum, which mushrooms can concentrate. Source wood from larger-diameter trees at sawmills. Test mushrooms if growing near industrial areas ($50-125 per analysis).
-
 ## See Also
 
 - [[specialty-mushroom-species]] — Agarikon, enokitake, pioppino, shaggy mane, tinder conk, artist conk, and more
@@ -160,4 +147,4 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 - [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]
 - [[psilocybin-mushroom-chemistry]]
-- [[reishi-cultivation-guide]]
+- [[reishi-cultivation]]

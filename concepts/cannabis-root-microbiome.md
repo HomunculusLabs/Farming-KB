@@ -132,28 +132,6 @@ Notably, endorhiza diversity was NOT significantly different between soil types,
 Samples taken 8 weeks post-harvest (experiment 1) showed dramatically elevated Cellvibrio (16.9% of endorhiza reads vs 0.095% in live plants). This indicates root tissue decomposition rather than true endophytic colonization. The cultivar-specificity signal persisted despite decay, suggesting the community structure is robust.
 
 ## Practical Implications for Living Soil Cultivation
-
-### Build Tier 1 Diversity
-Since soil type determines the available microbial pool, focus on:
-- High organic matter content (carbon)
-- Adequate but not excessive nitrogen
-- Low salinity
-- Proper moisture
-- Diverse compost and inoculant sources (see [[indigenous-microorganisms-imo]], [[effective-microorganisms-em]])
-
-### Don't Try to Engineer Tier 2
-You cannot force specific endorhiza communities. Different cannabis cultivars will recruit different internal partners from the available soil pool. This means:
-- Start seeds/clones in the same living soil they will flower in
-- Avoid sterile media for seedling stage (resets microbial recruitment)
-- Maintain undisturbed root zones (no-till approach, see [[no-till-gardening-method]])
-- The longer soil has been active, the richer the microbial pool for selection
-
-### Inoculate for the Core Community
-The core endorhiza taxa (Pseudomonas, Rhizobiales, Burkholderiaceae, Actinomycetales, Mortierellaceae) appear across all cultivars. Enriching soil for these groups benefits any cannabis variety. Use:
-- Compost teas with diverse bacterial inoculants
-- Mycorrhizal inoculants (Mortierellaceae are early successional fungi)
-- Worm castings (rich in Pseudomonas and Actinomycetales)
-
 ## See Also
 
 - [[cannabis-living-soil-guide]] — practical living soil setup using these principles
