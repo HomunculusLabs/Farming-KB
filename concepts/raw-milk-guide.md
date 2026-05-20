@@ -56,7 +56,7 @@ Raw milk can carry pathogenic bacteria that cause serious illness:
 Risk of contamination increases with:
 -  Poor animal health (mastitis, udder infections)
 -  Dirty milking environment or equipment
--  Improper milk [[solomon-manure-handling-and-cof-ingredients]] st-harvest-handling-and-storage]] designers-water-purification-and-storage-principles]]
+-  Improper milk [[solomon-manure-handling-and-cof-ingredients]] st-harvest-handling-and-storage designers-water-purification-and-storage-principles
 -  Unhealthy or stressed animals
 -  Mixing milk from multiple animals without individual testing
 -  Feeding animals contaminated feed or water

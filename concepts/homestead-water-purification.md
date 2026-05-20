@@ -120,7 +120,7 @@ Before selecting a purification system, test your water:
 
 **Cons:**
 - Does not remove chemicals, heavy metals, or sediment
-- [[pattern-classification-time-and-unified-events]] ropical-island-diet-diversification-and-energy-resources]] intensive
+- [[pattern-classification-time-and-unified-events]] ropical-island-diet-diversification-and-energy-resources intensive
 - Not practical for large volumes of daily water
 
 ### Chemical Treatment

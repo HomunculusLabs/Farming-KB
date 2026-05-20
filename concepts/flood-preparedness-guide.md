@@ -9,7 +9,7 @@ sources: []
 
 # Flood Preparedness Guide
 
-Floods [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] and costly natural disaster [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
+Floods [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them and costly natural disaster [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 
 ## Flood Risk Assessment
 

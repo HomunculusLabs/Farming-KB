@@ -9,7 +9,7 @@ sources: []
 
 # Aeroponics Guide
 
-Aeroponics [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing [[primary-nutrients-and-mineral-sources-in-soils]] act-brewing-techniques-and-oxygen-management]] directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
+Aeroponics [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing [[primary-nutrients-and-mineral-sources-in-soils]] act-brewing-techniques-and-oxygen-management directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 
 ## How Aeroponics Works
 

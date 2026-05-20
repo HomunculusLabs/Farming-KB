@@ -9,7 +9,7 @@ sources: []
 
 # Pruning Fruit Trees
 
-Pruning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] skills for [[fruit-tree-care-and-orchard-management]] and directly affects yield, fruit size, and tree longevity.
+Pruning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one skills for [[fruit-tree-care-and-orchard-management]] and directly affects yield, fruit size, and tree longevity.
 
 ## Why Prune
 

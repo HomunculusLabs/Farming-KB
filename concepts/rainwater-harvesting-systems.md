@@ -18,7 +18,7 @@ and potability considerations.
 ## System Components
 
 ### Catchment Surface
-The roof [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] catchment surface. Metal roofing is ideal
+The roof [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them catchment surface. Metal roofing is ideal
 (smooth, non-toxic, long-lasting). Asphalt shingles are acceptable but
 release particles and chemicals. Avoid unsealed wood, tar, and treated
 materials.

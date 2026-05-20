@@ -11,7 +11,7 @@ sources:
 
 # KNF Water Soluble Calcium (WSC)
 
-[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] oluble-calcium-phosphate-preparation]] is extracted from eggshells, animal bones, or seashells using [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]] own-rice-vinegar-production]] (BRV). It strengthens [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls, improves fruit quality, and helps prevent disease.
+[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] oluble-calcium-phosphate-preparation is extracted from eggshells, animal bones, or seashells using [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]] own-rice-vinegar-production (BRV). It strengthens [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls, improves fruit quality, and helps prevent disease.
 
 ## Why Calcium Matters
 

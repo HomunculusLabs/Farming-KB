@@ -24,7 +24,7 @@ Additional benefits:
 
 ## Earthen Plaster
 
-Earthen plaster is a mix of clay-rich subsoil, sand, and fiber (chopped straw or manure), applied to interior and protected exterior walls. It [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] finish for cob, adobe, and straw bale buildings.
+Earthen plaster is a mix of clay-rich subsoil, sand, and fiber (chopped straw or manure), applied to interior and protected exterior walls. It [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them finish for cob, adobe, and straw bale buildings.
 
 ### Mix Ratios
 

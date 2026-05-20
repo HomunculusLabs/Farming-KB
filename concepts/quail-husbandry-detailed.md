@@ -9,7 +9,7 @@ sources: []
 
 # Quail Husbandry (Detailed)
 
-Coturnix quail (Coturnix japonica) [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] practical micro-livestock for
+Coturnix quail (Coturnix japonica) [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them practical micro-livestock for
 the homestead. They reach maturity in just 6 weeks, begin laying eggs at 7-8
 weeks, and require minimal space. A single breeder cage (24x18 inches) can
 house a trio (1 male, 2 females). They are quiet, efficient, and ideal for

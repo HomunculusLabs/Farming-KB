@@ -19,7 +19,7 @@ feed inputs.
 ## Hay Types
 
 ### Grass Hay
-- **Orchardgrass:** Palatable, good yield, persistent. One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]]
+- **Orchardgrass:** Palatable, good yield, persistent. One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest
   all-purpose grass hays for horses, cattle, sheep, and goats.
 - **Timothy:** Premium horse hay, good for all livestock. Stems are coarse
   but highly palatable when cut at the right stage.

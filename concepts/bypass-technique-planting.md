@@ -23,7 +23,7 @@ The bypass technique is a vertical [[permaculture]] method where climbing plants
 5. The plants draw fresh strength and nutrients from each trough's soil and grow from one storey to the next
 6. Each resident oversees and harvests from their level
 
-The system is both vertical and horizontal -- it can travel in any direction. Creative thinking is essential, as there are many possible ways to [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] uery-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] such a system.
+The system is both vertical and horizontal -- it can travel in any direction. Creative thinking is essential, as there are many possible ways to [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] uery-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing such a system.
 
 ## Structural Considerations
 

@@ -25,7 +25,7 @@ The cornerstone of pastured egg production [[query-what-is-the-difference-betwee
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]] ter-mushroom-growing-house-design-site-selection-tropical-climates]]
+- A-frame or [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]] ter-mushroom-growing-house-design-site-selection-tropical-climates
 - Lightweight materials: PVC, cattle panels, plywood
 - [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] homestead-scale production
 

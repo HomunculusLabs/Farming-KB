@@ -19,7 +19,7 @@ Bats are among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-d
 
 #### Little Brown Bat (Myotis lucifugus)
 - Small (2.5-3.5 inch body, 8-10 inch wingspan)
-- One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] bats in North America; severely impacted by white-nose syndrome
+- One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them bats in North America; severely impacted by white-nose syndrome
 - Consumes up to 1,000 mosquito-sized insects per hour
 - Maternity colonies of 50-1,000+ individuals
 - Hibernates in caves and mines; extremely vulnerable to white-nose syndrome

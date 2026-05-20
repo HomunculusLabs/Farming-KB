@@ -110,7 +110,7 @@ faster but cannot breed naturally.
 - Heritage turkeys are excellent foragers and can meet 20-40% of their
   needs on good pasture.
 - They eat grass, clover, insects, seeds, and small rodents.
-- Turkeys in orchards provide [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] can-ducks-help-with-pest-control-and-fertility-in-a-garden]] fertilization.
+- Turkeys in orchards provide [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] can-ducks-help-with-pest-control-and-fertility-in-a-garden fertilization.
 - Broad-breasted turkeys forage less and rely more on grain.
 
 ### Supplements

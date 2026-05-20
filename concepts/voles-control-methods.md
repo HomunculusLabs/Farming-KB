@@ -56,7 +56,7 @@ Holzer stresses that complete eradication is neither possible nor desirable. The
 
 ## See Also
 
-- [[slugs-and-snails-organic-control]] -- Other common garden [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] ral-pest-control-methods]] sterilization-contamination-control-methods]]
+- [[slugs-and-snails-organic-control]] -- Other common garden [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] ral-pest-control-methods sterilization-contamination-control-methods
 - [[integrated-pest-management]] -- Broader IPM strategies
 - [[animal-manure-guide]] -- Soil health as pest prevention
 

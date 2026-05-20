@@ -22,7 +22,7 @@ The ideal cob mix contains approximately:
 - Subsoil: 50-75% (must contain 15-30% clay)
 - Sand: 25-50%
 - Straw: handfuls per batch (roughly 5-10% by volume)
-- Water: enough [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] workable, stiff mix
+- Water: enough [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]-how-to-make-a-diy-still-air-box-for-mushroom-cultivation workable, stiff mix
 
 ### Testing Your Soil
 
@@ -100,7 +100,7 @@ When starting a new lift on a partially dried previous lift:
 1. Wet the surface [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] previous lift (not soaked, just dampened)
 2. Score horizontal grooves with a stick or cob tool
 3. Press fresh cob firmly into the scored, dampened surface
-4. Poor bonding between lifts [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of structural failure
+4. Poor bonding between lifts [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them cause of structural failure
 
 ### Window and Door Openings
 

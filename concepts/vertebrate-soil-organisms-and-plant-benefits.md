@@ -9,7 +9,7 @@ type: concept
 - [[the-soil-food-web]] provides plants with nutrient retention, cycling, soil structure, disease suppression, pH-regulated nitrogen, [[staycare-lignin-peroxidase-and-pollutant-degradation]]
 - The fungal-to-bacterial ratio determines whether nitrogen is available as nitrate (bacterial soils) or ammonium (fungal soils)
 - Matching plant type to [[soil-food-web]] composition is foundational: annuals/vegetables for bacterial soils, trees/perennials for fungal soils
-- Plant succession naturally shifts soils from bacterial to fungal dominance, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]][what-a-plant-knows-photoperiodism-flowering-time-measurement]]'s lifespan reliably predicts its nitrogen preference
+- Plant succession naturally shifts soils from bacterial to fungal dominance, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]][what-a-plant-knows-photoperiodism-flowering-time-measurement's lifespan reliably predicts its nitrogen preference
 
 ## Key Concepts and Applications
 

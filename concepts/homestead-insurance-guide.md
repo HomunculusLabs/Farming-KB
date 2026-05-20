@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Insurance Guide
 
-Insurance protects homestead businesses from financial catastrophe. [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] y-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] y-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] costs.
+Insurance protects homestead businesses from financial catastrophe. [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them y-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention y-how-to-manage-pests-and-diseases-in-mushroom-cultivation costs.
 
 ## Why Homestead Insurance Matters
 

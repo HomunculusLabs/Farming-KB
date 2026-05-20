@@ -64,7 +64,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 Pigs cannot survive on pasture alone -- grain supplementation is required.
 
 ### Feed Ratio
-- Pasture/forage: 20-40% of diet (varies by [[mollison-designers-fish-pond-water-quality-and-aeration]] uery-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]])
+- Pasture/forage: 20-40% of diet (varies by [[mollison-designers-fish-pond-water-quality-and-aeration]] uery-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques)
 - Grain ration: 60-80% of diet
 - Grower ration: 16% protein
 - Finisher ration: 13-14% protein

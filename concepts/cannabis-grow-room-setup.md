@@ -59,7 +59,7 @@ Setting up a proper grow room [[query-what-is-the-difference-between-fungal-domi
 ## Related
 - [[cannabis-soil-and-nutrients]] — for nutrient management
 - [[cannabis-vegetative-stage-management]] — for grow phase
-- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] o-set-up-an-indoor-cannabis-grow-room]] setup — for lighting details
+- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] o-set-up-an-indoor-cannabis-grow-room setup — for lighting details
 - cannabis grow room setup — for general indoor growing principles
 
 ## Key Concepts and Applications

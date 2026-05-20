@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[banana-and-plantain-cultivation-and-variety-guide]] cing-and-variety-selection]].
+Strawberries are one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[banana-and-plantain-cultivation-and-variety-guide]] cing-and-variety-selection.
 
 ## Strawberry Types
 

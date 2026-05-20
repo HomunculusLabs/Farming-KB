@@ -18,7 +18,7 @@ sources:
 ---
 ## Final Thoughts
 
-Expect 5–10 years before self-sustaining, 10–20 years for full productivity. Every month spent on [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] before planting crop trees saves years of struggle. The land wants to heal — give it water, organic matter, biology, [[cool-temperate-establishment-and-pioneer-systems]] er-plants-for-land-restoration]], then guide succession toward abundance.
+Expect 5–10 years before self-sustaining, 10–20 years for full productivity. Every month spent on [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] before planting crop trees saves years of struggle. The land wants to heal — give it water, organic matter, biology, [[cool-temperate-establishment-and-pioneer-systems]] er-plants-for-land-restoration, then guide succession toward abundance.
 
 ## Key Concepts and Applications
 

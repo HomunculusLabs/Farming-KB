@@ -37,7 +37,7 @@ Approximately 85-90% of THCA converts to THC under optimal conditions. Overheati
 
 ## Cannabutter
 
-Cannabutter (cannabis-infused butter) [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] base for homemade edibles.
+Cannabutter (cannabis-infused butter) [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them base for homemade edibles.
 
 ### Recipe
 

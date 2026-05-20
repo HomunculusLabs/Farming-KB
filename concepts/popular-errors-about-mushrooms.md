@@ -7,7 +7,7 @@ type: concept
 
 - **[[mushroom-identification]]** — Proper methods for identifying [[edible-mushroom-species-identification]]
 - **[[agaricus-campestris]]** — The common horse-mushroom, the only widely cultivated variety in Palmer's era
-- **Mushroom Toxicology** — The actual chemical basis [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] ield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
+- **Mushroom Toxicology** — The actual chemical basis [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] ield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning
 - **Cultural [[mycology]]** — How different cultures approach mushroom foraging and identification
 
 These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

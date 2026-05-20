@@ -36,7 +36,7 @@ The most critical structural element. A compromised foundation during an earthqu
 
 **Check for:**
 - Foundation bolts — [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] house bolted to its foundation? (Homes built before 1940 often are not)
-- Cripple walls — The short wood-framed walls between the foundation [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] oss-and-the-first-bardo-clear-light]] floor. These are extremely vulnerable. Brace them with structural plywood and blocking.
+- Cripple walls — The short wood-framed walls between the foundation [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] oss-and-the-first-bardo-clear-light floor. These are extremely vulnerable. Brace them with structural plywood and blocking.
 - Cracks in the foundation — Horizontal cracks are more serious than vertical cracks
 - Bolting schedule — Foundation bolts should be spaced no more than 6 feet apart, within 12 inches of each end
 

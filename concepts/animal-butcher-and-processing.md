@@ -52,7 +52,7 @@ sheep, goats, pigs, and cattle).
   for cleaner evisceration.
 - Handle animals calmly to minimize stress (stress affects meat quality —
   dark cutting, PSE pork, tough meat).
-- Process early [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] llegro-star-of-the-morning-venus-and-the-sacred-mushroom]] when possible.
+- Process early [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] llegro-star-of-the-morning-venus-and-the-sacred-mushroom when possible.
 
 ## Slaughter and Dispatch
 

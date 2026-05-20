@@ -24,7 +24,7 @@ effective and economical than treatment.
 - **Symptoms:** Bloody diarrhea, lethargy, hunched posture, ruffled feathers,
   weight loss, death. Most common in young birds (3-8 weeks).
 - **Transmission:** Fecal-oral. Spread through contaminated feed, water,
-  litter, and equipment. Survives for months [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]].
+  litter, and equipment. Survives for months [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition.
 - **Treatment:** Amprolium (Corid) in water — 9.6 mg/ml for 5-7 days.
   Toltrazuril (Baycox) is also effective. Sulfa drugs for secondary
   infections.

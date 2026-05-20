@@ -28,7 +28,7 @@ Heirloom varieties are open-pollinated varieties that have been passed down for 
 ## Basic Seed Saving Principles
 
 ### Plant Selection
-Choose [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] what-are-the-best-plants-for-a-hugelkultur-bed]] for [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], not the best vegetables. Select for:
+Choose [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] what-are-the-best-plants-for-a-hugelkultur-bed for [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], not the best vegetables. Select for:
 - Disease resistance
 - Vigor and growth habit
 - Flavor and yield

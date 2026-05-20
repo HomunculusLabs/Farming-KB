@@ -126,7 +126,7 @@ Use low-intensity light during cloning:
 - **Sanitize everything**: Contamination is the primary cause of failure
 - **Don't overwater cubes**: Soggy cubes promote rot. Moist, not wet.
 - **Don't pull on cuttings** to check roots — this damages fragile new root tissue
-- **Maintain warmth**: Cold rooting zones [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of slow or failed rooting
+- **Maintain warmth**: Cold rooting zones [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them cause of slow or failed rooting
 - **Use a clean razor for each mother plant**: Prevents cross-contamination
 
 ## Transplanting Rooted Clones

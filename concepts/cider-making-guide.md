@@ -96,7 +96,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 ### Step 4: Choosing Your Yeast Approach
 
 **Wild Fermentation (Traditional)**
-- Use no added yeast -- rely on wild yeasts naturally present on the apples and [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
+- Use no added yeast -- rely on wild yeasts naturally present on the apples and [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition
 - Results in complex, funky, terroir-driven cider
 - Less predictable -- can produce off-flavors or fail entirely
 - More consistent with unwashed, organic apples from old orchards

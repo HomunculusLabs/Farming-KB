@@ -77,7 +77,7 @@ Rule of thumb: you need approximately 1 square foot of collector area per square
 ## What to Dehydrate
 
 - **Fruits**: apples, pears, peaches, apricots, berries, bananas, mangoes. Pretreat apples and pears with lemon water to prevent browning.
-- **Vegetables**: tomatoes, peppers, zucchini, kale, spinach, green beans, carrots, beets. Blanch vegetables first for better color [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] biofilms-and-nutrient-retention]].
+- **Vegetables**: tomatoes, peppers, zucchini, kale, spinach, green beans, carrots, beets. Blanch vegetables first for better color [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] biofilms-and-nutrient-retention.
 - **Herbs**: basil, oregano, thyme, mint, sage, rosemary. Cut stems before flowering for peak oil content.
 - **Meats**: lean beef, venison, turkey for jerky. Slice 1/4 inch thick, marinate, and dry at 145F minimum.
 - **Other**: soaked and cooked beans, fruit leather, granola, soaked grains

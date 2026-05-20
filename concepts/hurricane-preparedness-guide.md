@@ -27,7 +27,7 @@ Note: Categories measure wind speed only. Storm surge and rainfall flooding ofte
 
 ## Storm Shutters and Window Protection
 
-Windows [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] vulnerable point [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] building during a hurricane. Once a window fails, wind enters the structure, creating internal pressurization that can blow off the roof.
+Windows [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them vulnerable point [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] building during a hurricane. Once a window fails, wind enters the structure, creating internal pressurization that can blow off the roof.
 
 ### Permanent Shutters
 

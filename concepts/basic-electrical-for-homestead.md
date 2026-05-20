@@ -134,7 +134,7 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 - Check the breaker first
 - Check for a tripped GFCI on the same circuit (may be in another room)
 - Test the outlet with a receptacle tester
-- Check wire connections at the outlet — loose connections [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause
+- Check wire connections at the outlet — loose connections [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them cause
 
 ### Flickering Lights
 

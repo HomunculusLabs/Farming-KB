@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Neurological Conditions
 
-Neurology is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] promising areas for medical cannabis research. The strongest evidence exists for epilepsy (specifically CBD), with growing evidence for multiple sclerosis, Parkinson's, and other conditions.
+Neurology is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them promising areas for medical cannabis research. The strongest evidence exists for epilepsy (specifically CBD), with growing evidence for multiple sclerosis, Parkinson's, and other conditions.
 
 ### Treatment-Resistant Epilepsy
 - **Evidence level: Strong** (FDA-approved Epidiolex for Dravet and Lennox-Gastaut syndromes)

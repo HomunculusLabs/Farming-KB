@@ -112,7 +112,7 @@ Poultry: bone-in or boneless. Process pints 65 min, quarts 75 min at 11 psi.
 - Using old canning recipes that haven't been tested for safety
 - Storing jars with rings on (can mask seal failure)
 
-Canning transforms seasonal abundance into shelf-stable food, making it a cornerstone of homestead [[food-preservation-canning]] [[native-american-planting-methods-and-indigenous-agriculture]] uery-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] valuable product for [[farmers-market-selling-guide]].
+Canning transforms seasonal abundance into shelf-stable food, making it a cornerstone of homestead [[food-preservation-canning]] [[native-american-planting-methods-and-indigenous-agriculture]] uery-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber valuable product for [[farmers-market-selling-guide]].
 
 ## References
 

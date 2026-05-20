@@ -9,7 +9,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 # Mycoremediation Regulatory Framework
 
-The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying [[savory-living-organisms-as-tools]] [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]] involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
+The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying [[savory-living-organisms-as-tools]] [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 
 ## Current Status
 

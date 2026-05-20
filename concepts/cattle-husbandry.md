@@ -127,7 +127,7 @@ handler safety.
 - Cattle finished entirely on pasture and stored forage.
 - Longer finishing period: 24-30 months total (vs 18-20 for grain-finished).
 - Higher omega-3 fatty acids, CLA, vitamin E. Leaner meat.
-- Requires quality [[pasture-management-and-forage]] ntoxication-medical-management-and-first-aid]] winter feed storage. See
+- Requires quality [[pasture-management-and-forage]] ntoxication-medical-management-and-first-aid winter feed storage. See
   [[hay-and-forage-management]].
 - Premium market prices available. Requires consistent marbling genetics.
 - Finish on high-quality pasture or stockpiled fescue for best results.

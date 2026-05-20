@@ -30,7 +30,7 @@ These cross-pollinate and need isolation distances to stay true:
 ## Dry Seed Processing (beans, peas, lettuce, grains)
 1. Allow pods/seed heads to dry fully on the plant
 2. Harvest before rain or when stems are brown and brittle
-3. Thresh by hand (crush pods) or by flailing [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]][boil-a-bag-long-needle-inoculation-method-jarrold]]
+3. Thresh by hand (crush pods) or by flailing [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]][boil-a-bag-long-needle-inoculation-method-jarrold
 4. Winnow: pour seed from one container to another in a breeze; chaff blows away
 5. Dry seeds further [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] screen or paper for 1-2 weeks
 6. Store in paper envelopes in a cool, dark, dry place

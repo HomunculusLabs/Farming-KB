@@ -30,7 +30,7 @@ A passive solar dehydrator uses sunlight and natural convection. Build a simple 
 
 ### Oven Drying
 
-Ovens can [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] pinch but are energy-intensive. Set to the lowest temperature (140-170 F) and prop the door open with a wooden spoon for airflow. Results are less consistent than dedicated dehydrators.
+Ovens can [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden pinch but are energy-intensive. Set to the lowest temperature (140-170 F) and prop the door open with a wooden spoon for airflow. Results are less consistent than dedicated dehydrators.
 
 ## Temperature Guidelines
 

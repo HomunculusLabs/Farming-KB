@@ -23,7 +23,7 @@ Cannabis has significant anti-inflammatory properties mediated primarily through
 ### Inflammatory Bowel Disease (Crohn's/Colitis)
 - Evidence level: Moderate
 - Reduces abdominal pain, diarrhea, and improves appetite
-- May promote mucosal healing [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-gut-of-beetles]]
+- May promote mucosal healing [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-gut-of-beetles
 - Both oral and inhaled routes studied
 - THC helps with cramping; CBD reduces inflammation
 

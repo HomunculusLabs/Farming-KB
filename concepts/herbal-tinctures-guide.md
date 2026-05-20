@@ -96,7 +96,7 @@ Advantages: Consistent potency, available year-round, easier to measure precisel
 
 ## Dual Extraction
 
-For [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] lating-mushrooms-and-herbs]] ow-do-i-grow-vegetables-and-herbs-in-shaded-areas]] with both water-soluble and alcohol-soluble compounds:
+For [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] lating-mushrooms-and-herbs ow-do-i-grow-vegetables-and-herbs-in-shaded-areas with both water-soluble and alcohol-soluble compounds:
 
 1. Make alcohol tincture as usual
 2. Take the marc (spent herb) and simmer in water for 30-60 minutes

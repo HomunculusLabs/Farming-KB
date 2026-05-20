@@ -10,7 +10,7 @@ type: concept
 3. **Diagonal offset** layout prevents shading between adjacent greenhouses.
 4. **Four-year return cycles** provide adequate disease and fertility breaks.
 5. **More plots and moves yield exponentially more production** per greenhouse.
-6. **[[mollison-rabbits-in-permaculture-design-and-soil-preparation]] eparation-and-application]] e-printing-syringe-preparation-and-preservation]] warming** (clear plastic, closed-up house) should
+6. **[[mollison-rabbits-in-permaculture-design-and-soil-preparation]] eparation-and-application e-printing-syringe-preparation-and-preservation warming** (clear plastic, closed-up house) should
    begin before the house arrives at each new plot.
 ## See also
 

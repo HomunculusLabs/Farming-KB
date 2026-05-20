@@ -75,7 +75,7 @@ Ongoing work in this area promises further refinements.
 Researchers and practitioners collaborate to advance the field.
 New technologies enable more precise measurement and analysis.
 This body of knowledge continues [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] through dedicated study.
-The integration of [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] ing-theory-and-practice]] remains essential.
+The integration of [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] ing-theory-and-practice remains essential.
 Future directions include expanded research and broader application.
 
 This topic continues to develop with ongoing research.

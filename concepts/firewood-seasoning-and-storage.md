@@ -121,7 +121,7 @@ Wood must dry to below 20% moisture content for optimal burning. Target seasonin
 
 A pin-type moisture meter [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
 
-**[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] y-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]:**
+**[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] y-how-to-use-cover-crops-for-heavy-clay-soil-improvement:**
 - Push pins into the split face, not the bark side
 - Take readings from multiple pieces in the stack
 - Measure the freshly split face for the most accurate reading

@@ -22,7 +22,7 @@ off-grid homestead.
 - **Dowsing/water witching** — anecdotal; not scientifically validated
   but some drillers respect the practice
 - **Neighboring wells** — ask nearby property owners about well depth,
-  yield, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] er-tanks-and-water-quality]]
+  yield, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] er-tanks-and-water-quality
 - **Topography** — water tends to accumulate in valleys, low-lying areas,
   and near rock fractures
 - **Vegetation indicators** — lush vegetation in dry areas may indicate

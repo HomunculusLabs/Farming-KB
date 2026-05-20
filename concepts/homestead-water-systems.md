@@ -15,7 +15,7 @@ A reliable water supply [[query-what-is-the-difference-between-fungal-dominant-a
 
 ### Wells
 
-Wells [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] homestead water source. Types include:
+Wells [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them homestead water source. Types include:
 
 - Drilled wells: 4-8 inch borehole, 100-500 feet deep. Most reliable and most expensive ($5000-$15000). Provides the highest water quality when properly cased.
 - Dug wells: 3-5 feet wide, 20-40 feet deep. Less expensive but more vulnerable to contamination from surface runoff.

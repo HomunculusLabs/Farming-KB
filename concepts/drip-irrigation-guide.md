@@ -106,7 +106,7 @@ Best for: perennial borders, shrub beds, simple garden setups.
 
 Divide the irrigation system into zones based on:
 
-1. **Water needs**: Group plants with similar water requirements (e.g., heavy feeders [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] ermaculture-zone-one-zone-two-design]], drought-tolerant in another)
+1. **Water needs**: Group plants with similar water requirements (e.g., heavy feeders [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] ermaculture-zone-one-zone-two-design, drought-tolerant in another)
 2. **Flow capacity**: Each zone should not exceed the water source's flow rate
 3. **Timing**: Different zones may need different run times
 4. **Topography**: Avoid zones that span significant elevation changes (unless using PC emitters)

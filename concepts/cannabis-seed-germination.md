@@ -80,7 +80,7 @@ Using Rockwool, peat, or coco cubes:
 When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true cannabis leaves. Within a few days, the first set of serrated "true leaves" will appear.
 
 - **Light**: Use low-intensity light (CFL, T5, or dimmed LED). Start at 200-400 PPFD. Intense light burns young seedlings.
-- **Humidity**: 60-80% RH. Seedlings have underdeveloped [[solomon-root-systems-and-spacing-science]] t-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] rely on high humidity.
+- **Humidity**: 60-80% RH. Seedlings have underdeveloped [[solomon-root-systems-and-spacing-science]] t-are-the-different-fruit-tree-training-systems-and-which-should-i-use rely on high humidity.
 - **Temperature**: 75-82 F (24-28 C) day, 68-75 F (20-24 C) night.
 - **Watering**: Mist the surface to keep it moist. Avoid heavy watering that can drown or displace seedlings.
 - **Nutrients**: No added nutrients for the first 10-14 days. The seed contains enough energy, [[solomon-potting-mix-and-seedling-soil-recipe]] roots are sensitive to burn.

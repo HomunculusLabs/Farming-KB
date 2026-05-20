@@ -34,7 +34,7 @@ Runner, max stem diameter 30 mm, max height 7 m. Hardy to -7 deg C. Edible root 
 Dense runner, reported not too invasive. Coastal plant that withstands some drought. Stem diameter 44 mm, max height 6 m, hardy to -20.5 deg C. Edible shoot; stems used for fish poles.
 
 ### Phyllostachys bambusoides (Madake / Giant Timber Bamboo)
-One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] largest running bamboos [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] world, reaching 23 m height and 15 cm diameter. Originally from China, now the most useful bamboo in Japan for scaffolding and general construction. Hardy to -7 deg C. Tolerates wide range of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] nd-alkaline-soil-management]] soils. Edible new culm shoots.
+One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] largest running bamboos [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] world, reaching 23 m height and 15 cm diameter. Originally from China, now the most useful bamboo in Japan for scaffolding and general construction. Hardy to -7 deg C. Tolerates wide range of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] nd-alkaline-soil-management soils. Edible new culm shoots.
 
 ### Phyllostachys nigra (Black Bamboo)
 Runner grown for culms that turn black with age. Usually 2 m in tropics but up to 9 m in temperate regions, culm widths 7.5 cm. Hardy to -7 deg C. New culm shoots edible when cooked.

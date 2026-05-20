@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, [[mycelium-running-stamets-fungi-and-climate-change]]-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] expanding the geographic range of pathogenic fungi.
+Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, [[mycelium-running-stamets-fungi-and-climate-change]]-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection expanding the geographic range of pathogenic fungi.
 
 ## Classification of Fungal Infections
 

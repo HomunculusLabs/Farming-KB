@@ -25,7 +25,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 - Higher initial cost for equipment
 - Steeper learning curve — mistakes affect plants faster
-- No soil buffer — [[ph-and-nutrient-availability-garden-soils]] ord-architecture-and-nutrient-translocation-basidiomycetes]] imbalances escalate quickly
+- No soil buffer — [[ph-and-nutrient-availability-garden-soils]] ord-architecture-and-nutrient-translocation-basidiomycetes imbalances escalate quickly
 - Complete dependency on electricity (power failure = crop risk)
 - Less forgiving of neglect compared to living soil
 - Water quality is critical — municipal water may contain chlorine, chloramine, or minerals that cause issues

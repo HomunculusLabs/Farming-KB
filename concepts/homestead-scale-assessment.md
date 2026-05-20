@@ -102,7 +102,7 @@ Score each category 1-5 (1 = very limited, 5 = abundant):
 - Skills and experience
 - Market access (proximity to customers)
 - Support network (family, mentors, community)
-- Physical [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]] ropical-island-diet-diversification-and-energy-resources]]
+- Physical [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]] ropical-island-diet-diversification-and-energy-resources
 - Business/marketing skills
 
 Total score interpretation:
