@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## [[comparison-natural-farming-vs-permaculture]]'s ideal: "If the Bushman really led a primitive life and were to practice natural farming, say, I'm certain that there would be a greater abundance of nature around." The Bushman's existence "is nothing of the sort. The nature in the background is just too poor."

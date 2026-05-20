@@ -6,7 +6,6 @@ type: concept
 tags: [diet, philosophy, civilization]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Diet, Blood, Thought, and Civilization

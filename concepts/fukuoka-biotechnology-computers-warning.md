@@ -6,7 +6,6 @@ type: concept
 tags: [philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Biotechnology and Computers Warning

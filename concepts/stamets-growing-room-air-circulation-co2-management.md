@@ -1,3 +1,9 @@
+---
+title: "Stamets Growing Room Air Circulation Co2 Management"
+tags: []
+sources: []
+---
+
 ## Growing Room Air Circulation and CO2 Management The environmental control system of a mushroom growing room is designed to maintain a selected [[growing-gourmet-growing-room-ventilation-air-exchange]] ced conditions throughout
 the growing room. The central component is the mixing box, where filtered
 fresh air enters and is proportionally regulated with recirculated room air by

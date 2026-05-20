@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18

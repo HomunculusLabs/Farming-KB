@@ -147,4 +147,3 @@ Successful integration of cervantes open pollinated heirloom seeds into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-

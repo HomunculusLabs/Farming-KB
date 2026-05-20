@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, forage, food-forest]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Wild Foods and Marginal Systems
 

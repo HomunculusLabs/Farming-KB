@@ -6,7 +6,6 @@ type: concept
 tags: [cultivation, mycology]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18

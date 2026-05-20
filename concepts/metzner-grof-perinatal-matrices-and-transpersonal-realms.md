@@ -1,3 +1,9 @@
+---
+title: "Metzner Grof Perinatal Matrices And Transpersonal Realms"
+tags: []
+sources: []
+---
+
 
 The rationale was that through psycholysis, the loosening of
 psychological defenses, the patient would become more vividly aware

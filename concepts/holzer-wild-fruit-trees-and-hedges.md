@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Wild Fruit Trees and Hedges

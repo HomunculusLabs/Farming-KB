@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, holmgren, environmentalism, social-movements, energy-descent, history, cultural-dynamics]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Holmgren's Third Wave Environmentalism Model
 [[appropriate-technology]], [[coleman-deep-organic-farming]] movement. The founding text

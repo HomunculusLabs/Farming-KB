@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, food-forest, plant-systems]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Orchard Plant Guilds (Mollison)
 

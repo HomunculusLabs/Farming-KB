@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, animal-husbandry, beekeeping, forage]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Bee Forage and Hive Management (Mollison)
 Updated: 2026-04-18

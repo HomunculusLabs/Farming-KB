@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Principles 3 and 4: No Weeding and No Pesticides

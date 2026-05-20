@@ -1,3 +1,9 @@
+---
+title: "Arnica Montana"
+tags: []
+sources: []
+---
+
 
 The species is critically endangered in several European countries due to
 overharvesting of wild populations and habitat loss. Most commercial arnica is

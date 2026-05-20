@@ -4,7 +4,6 @@ type: concept
 tags: []
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Historical Context

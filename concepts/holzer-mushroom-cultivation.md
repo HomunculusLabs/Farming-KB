@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Mushrooms as a Farm Enterprise
 

@@ -147,4 +147,3 @@ Successful integration of stamets reishi ganoderma lucidum cultivation into broa
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-

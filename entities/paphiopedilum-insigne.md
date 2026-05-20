@@ -1,3 +1,9 @@
+---
+title: "Paphiopedilum Insigne"
+tags: []
+sources: []
+---
+
 
 ## Taxonomy and Morphology
 

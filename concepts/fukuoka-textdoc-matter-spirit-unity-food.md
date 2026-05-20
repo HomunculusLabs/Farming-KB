@@ -3,7 +3,6 @@ title: "Fukuoka Textdoc Matter Spirit Unity Food"
 tags: [wiki]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Buddhist Foundation: Form is Emptiness

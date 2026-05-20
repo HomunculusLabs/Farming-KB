@@ -7,7 +7,7 @@ ancient Egyptians, whose Pharaohs incorporated the viper as a symbol of
 wisdom; the Australian aborigines, who revered the Rainbow Serpent; the
 ancient epic of Gilgamesh, in which a serpent tells of a plant conferring
 immortality; the peoples of India, who worshipped Nagas or wise serpents; and
-in the Eden of the [[tree-of-knowledge-and-forbidden-fruit-theory]]
+in the Eden of the tree-of-knowledge-and-forbidden-fruit-theory]]
 from the [[visionary-symbols-and-universal-archetypes]] constitute a
 "higher language" of the psyche, one in which the visual elements are far
 richer in meaning and informational content than the words of spoken language.

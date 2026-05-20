@@ -147,4 +147,3 @@ Fukuoka's hilltop citrus orchard demonstrated natural farming principles for tre
 ## Semi-Wild Vegetable Cultivation
 
 Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields -- mixed with clover:
-

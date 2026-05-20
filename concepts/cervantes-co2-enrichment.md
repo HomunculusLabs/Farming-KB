@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis CO2 Enrichment and [[cervantes-indoor-grow-room-setup]] — Grow room setup and ventilation

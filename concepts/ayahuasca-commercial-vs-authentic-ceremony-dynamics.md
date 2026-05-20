@@ -1,3 +1,9 @@
+---
+title: "Ayahuasca Commercial Vs Authentic Ceremony Dynamics"
+tags: []
+sources: []
+---
+
 
 The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving

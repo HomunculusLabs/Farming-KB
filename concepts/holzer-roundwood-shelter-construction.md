@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, homesteading
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Roundwood Shelter and Earth Cellar Construction
