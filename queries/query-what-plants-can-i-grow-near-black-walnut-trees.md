@@ -68,7 +68,7 @@ In [[permaculture-plant-guilds|permaculture guild]] design, black walnut can ser
 The key is layering juglone-tolerant species at every vertical niche — canopy, understory, shrub, herbaceous, ground cover, and root zone.
 [[pawpaw]] fills the understory niche, while [[elderberry-cultivation-and-variety-guide|elderberry]] occupies the shrub layer.
 [[jerusalem-artichoke]] works as both a root crop and a tall herbaceous layer plant.
-Nitrogen fixers like [[nitrogen-fixing-trees-and-shrubs-for-permaculture|black locust]] (Robinia pseudoacacia) also tolerate juglone and improve soil fertility.
+Nitrogen fixers like [[nitrogen-fixing-trees-and-shrubs|black locust]] (Robinia pseudoacacia) also tolerate juglone and improve soil fertility.
 
 ### What About Other Walnut Species?
 

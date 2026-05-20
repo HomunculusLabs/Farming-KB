@@ -147,4 +147,3 @@ Average yield from 250 lb live pig:
 - Annual production of 6-10 pigs can generate $2,000-6,000 net income
 
 ## Health Considerations
-

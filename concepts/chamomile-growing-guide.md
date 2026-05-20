@@ -142,7 +142,6 @@ For both species:
 - [[powdery-mildew]]: Improve air circulation around plants.
 - Leggy growth: Indicates too much shade or excessive nitrogen.
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Companion Planting

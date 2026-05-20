@@ -134,7 +134,6 @@ or spearmint and is easier to manage.
 - Fertilize lightly in spring with compost; avoid heavy nitrogen which
   reduces essential oil content
 
-
 ## See Also
 - [[lemon-cherry-gelato]]
 - [[lemon-cannabis-alchemy-reefers-preparation]]

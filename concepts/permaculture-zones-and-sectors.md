@@ -147,4 +147,3 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 ### Wildlife Sector
 
 Track animal movement corridors and foraging patterns:
-

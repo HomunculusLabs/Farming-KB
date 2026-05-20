@@ -55,7 +55,7 @@ The broader aim of this principle is to progressively reduce dependence on non-r
 
 ## Connections
 
-This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing renewable energy flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[permaculture-zone-and-sector-analysis]].
+This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing renewable energy flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[zone-sector-analysis-guide]].
 
 ## Key Concepts and Applications
 

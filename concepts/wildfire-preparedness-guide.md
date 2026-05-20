@@ -139,7 +139,6 @@ Keep a packed bag for each family member and pet at all times during fire season
 - If you cannot evacuate livestock: open gates to allow them to flee, remove halters, mark animals with phone number (livestock crayon or spray paint)
 - Photograph all animals and property before fire season for insurance documentation
 
-
 ## See Also
 - [[wildfire-firestorm-mechanics]]
 - [[wildfire-ecology-and-management]]

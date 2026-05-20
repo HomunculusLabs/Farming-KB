@@ -142,9 +142,7 @@ Harvesting method:
 4. Shake off excess soil; do not wash roots until ready to process (moisture
    promotes mold during storage)
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 - [[fukuoka-straw-mulch-system]]
 ## Processing and Storage
-

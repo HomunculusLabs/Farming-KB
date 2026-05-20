@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, gardening, cultivation, beginner, drying, harvesting]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-si.md"
 ---
 
 ## Overview
@@ -147,4 +148,3 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 
 ## Related
 
-- [[herb-spiral-design]] — [[herb-spiral]] Design is a [[permaculture]] pattern for growing herbs in a space-efficient spiral that creates multiple microclimates.

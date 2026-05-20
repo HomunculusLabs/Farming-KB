@@ -129,7 +129,6 @@ sheep, goats, pigs, and cattle).
 - If contamination occurs, wash with clean, cold water immediately.
 - Work quickly to cool the carcass.
 
-
 ## See Also
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[quail-husbandry-detailed]]

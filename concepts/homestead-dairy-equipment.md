@@ -121,7 +121,6 @@ Pasteurization equipment is needed when selling dairy products commercially or w
 -  **Vat method (LTLT)** — 63 C (145 F) for 30 minutes. Preserves more flavor and nutritional quality. Best for homestead scale.
 -  **HTST (flash)** — 72 C (161 F) for 15 seconds. Requires specialized equipment with rapid heating and cooling. More common in commercial operations.
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Cheese Presses

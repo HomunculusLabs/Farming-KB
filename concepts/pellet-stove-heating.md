@@ -143,7 +143,6 @@ Electronic controls manage:
 - Mechanical components can fail (auger jams, fan motors)
 - Regular maintenance required (daily cleaning, annual service)
 
-
 ## See Also
 - [[rocket-stove-design]]
 - [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]

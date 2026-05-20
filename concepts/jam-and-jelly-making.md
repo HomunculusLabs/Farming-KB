@@ -140,11 +140,9 @@ If any element is out of balance, the jam will not set properly.
 - Stevia and monk fruit do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
 - Sugar-free jam has shorter shelf life and softer set; always refrigerate
 
-
 ## See Also
 - [[pressure-canning-safety]]
 
 ## See Also
 - [[query-how-do-i-make-jam-and-jelly-at-home]]
 ## Common Problems
-

@@ -55,7 +55,7 @@ Local spending keeps money circulating within communities. When money is spent w
 - [[permaculture-ethics-and-principles]]
 - permaculture design principles beginners
 - [[permaculture-zones-and-sectors]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design]]
 
 ## Key Concepts and Applications

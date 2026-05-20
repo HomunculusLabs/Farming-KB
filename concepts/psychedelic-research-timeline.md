@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # Psychedelic Research Timeline
@@ -147,4 +148,3 @@ MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory c
 
 ## Related
 
-- psychedelic research timeline

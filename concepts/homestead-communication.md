@@ -127,7 +127,6 @@ Ham radio is the most reliable communication method during disasters. It require
 4. Start with a $30 Baofeng handheld and listen to local frequencies
 5. Join a local ham club for mentorship and resources
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

@@ -42,7 +42,7 @@ Simultaneously, sativa purists worked on stabilizing landrace genetics from arou
 
 LST is essential for managing sativa height indoors. [[cannabis-sativa]]
 - [[det]]
-- [[satori]]
+- [[cannabis-strain-satori]]
 
 ## Overview
 

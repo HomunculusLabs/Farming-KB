@@ -125,7 +125,6 @@ Masonry heaters are sized by the square footage they need to heat:
 - High-temperature silicone for joints
 - All joints must be airtight to prevent smoke leakage
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

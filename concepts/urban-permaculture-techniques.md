@@ -131,5 +131,5 @@ Cities are full of microclimates created by buildings, pavement, and infrastruct
 - [[container-gardening-guide]]
 - [[vertical-gardening-guide]]
 - [[square-foot-gardening]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[keyhole-garden-design]]

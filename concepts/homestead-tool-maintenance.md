@@ -130,7 +130,6 @@ Maintain a consistent angle between the blade and the stone. Common angles:
 - Japanese pull saws: Cannot be resharpened easily — replace when dull
 - Bow saws: Replace blades when dull (inexpensive)
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]
@@ -147,4 +146,3 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Available at any hardware store
 
 ### Tung Oil
-

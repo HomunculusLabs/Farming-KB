@@ -147,4 +147,3 @@ From Cho's recipe book — four principles for choosing FMC ingredients:
 2. **Protein-rich animal materials**: bone meal, [[fish-meal]] as major ingredients alongside plant materials
 3. **Avoid agricultural by-products** (chemically treated residues)
 4. **Microbe food = human food = plant food**: choose high-quality diverse materials
-

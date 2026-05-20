@@ -139,7 +139,6 @@ meets EPA drinking water standards in most cases. Key risks:
 Test water annually for: coliform bacteria, E. coli, pH, turbidity, lead,
 and nitrate. Use a state-certified laboratory.
 
-
 ## See Also
 - [[greywater-systems-detailed]]
 - [[well-drilling-and-maintenance]]

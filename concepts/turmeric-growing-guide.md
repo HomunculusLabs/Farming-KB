@@ -138,7 +138,6 @@ Harvesting method:
 4. Gently separate rhizomes from the root ball
 5. Save the best rhizomes with healthy buds for next year's planting stock
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Processing

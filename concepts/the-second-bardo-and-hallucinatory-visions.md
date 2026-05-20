@@ -91,7 +91,7 @@ The text connects this to the Peaceful Deity Akshobhya and [[lama-govinda]]'s de
 
 ### The Maya Revelation
 
-The negative aspect occurs when the subject senses their "world" fragmenting into waves: "'He,' 'me,' 'I' are dissolving!" The Maya nature of phenomena creates panic — "Where is the solid base? Every thing, every concept, every form upon which one rests one's mind collapses into electrical vibrations lacking solidity." The face of a loved one becomes "a dancing mosaic of impulses on one's cortex."
+The negative aspect occurs when the subject senses their "world" fragmenting into waves: "He,' 'me,' 'I' are dissolving!" The Maya nature of phenomena creates panic — "Where is the solid base? Every thing, every concept, every form upon which one rests one's mind collapses into electrical vibrations lacking solidity." The face of a loved one becomes "a dancing mosaic of impulses on one's cortex."
 
 ### Musical Revelations
 

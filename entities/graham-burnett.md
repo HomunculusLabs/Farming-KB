@@ -39,7 +39,7 @@ He positions permaculture as "about recognising this and taking responsibility f
 
 ## Definition of Permaculture
 
-Burnett provides an accessible definition: "'Permaculture' is a word that was originally coined in the mid seventies by two Australians, [[david-holmgren]] and [[bill-mollison]], to describe the design system pioneered as a response to what they, and many others globally, saw as serious challenges to the survival of all of us."
+Burnett provides an accessible definition: "Permaculture' is a word that was originally coined in the mid seventies by two Australians, [[david-holmgren]] and [[bill-mollison]], to describe the design system pioneered as a response to what they, and many others globally, saw as serious challenges to the survival of all of us."
 
 ## Significance
 

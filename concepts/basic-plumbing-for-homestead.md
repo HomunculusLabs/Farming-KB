@@ -111,7 +111,6 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - Set temperature to 120°F to prevent scalding and save energy
 - Flush the tank annually to remove sediment buildup
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]
@@ -147,4 +146,3 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - Apply gentle heat with a heat gun, hair dryer, or heat tape — never an open flame
 - Start from the faucet end and work toward the frozen section
 - Once thawed, inspect for cracks or splits that may have occurred
-

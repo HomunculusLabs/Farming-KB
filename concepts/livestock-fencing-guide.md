@@ -127,7 +127,6 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Cons: high initial cost, requires specialized knowledge and tools, less
   forgiving of poor installation, dangerous if broken wire snaps back.
 
-
 ## See Also
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[quail-husbandry-detailed]]

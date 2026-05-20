@@ -137,7 +137,6 @@ Rabbit meat is exceptionally lean and nutritious:
 - Iron, B12, and niacin content comparable to other lean meats
 - Low in cholesterol relative to other red meats
 
-
 ## See Also
 - [[rabbit-husbandry]]
 - [[home-butcher-shop-setup]]

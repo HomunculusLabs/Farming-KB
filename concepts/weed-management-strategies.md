@@ -122,7 +122,6 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 - Best results: in hot, sunny climates with long summer days
 - Side benefit: soil nutrient availability may increase after solarization (ammonification of organic nitrogen)
 
-
 ## See Also
 - [[weed-control-in-winter-greenhouses]]
 ## Sheet Mulching (Lasagna Gardening)

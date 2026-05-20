@@ -141,10 +141,8 @@ Aged cheeses require a cheese press, aging space, and more patience but produce 
 - Cheese press (for aged cheeses): $50-200 or build your own
 - Aging space: cool (50-55F), humid (80-95% RH), well-ventilated
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Butter
 
 Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike cows) and delicious.
-

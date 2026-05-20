@@ -137,7 +137,6 @@ Percolation produces a finished tincture in 24-48 hours instead of 4-6 weeks:
 
 Requires practice to get the drip rate right. Produces clearer, more standardized tinctures.
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 ## Dosing Guidelines

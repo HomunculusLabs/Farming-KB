@@ -147,4 +147,3 @@ Apply every 3-5 days until recovery visible. Works for transplant shock, pest da
 
 Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements). Use surface seawater diluted 1:30.
 ## See Also
-

@@ -9,7 +9,7 @@ sources: []
 
 # Beneficial Insects Guide
 
-Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
+Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of [[integrated-pest-management]] (IPM) and organic growing.
 
 ## Predatory Insects
 
@@ -82,7 +82,7 @@ Tiny (1/16 inch) but extremely effective predators of thrips, spider mites, aphi
 Microscopic predators of spider mites, thrips, and other small arthropods. Essential for greenhouse and indoor growing where spider mites are a chronic problem.
 
 **Key Species:**
-- **Phytoseiulus persimilis**: Specialized spider mite predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
+- **Phytoseiulus persimilis**: Specialized [[spider-mite]] predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
 - **Neoseiulus californicus**: More generalist; tolerates wider temperature and humidity ranges. Survives on pollen when prey is scarce.
 - **Amblyseius cucumeris**: Primary thrips predator. Also feeds on spider mites.
 
@@ -122,7 +122,6 @@ Large, hairy flies that parasitize caterpillars, beetles, and bugs. Females lay 
 - **Hosts**: cabbage looper, imported cabbageworm, Japanese beetle, squash bug, stink bug
 - **How to attract**: Plant dill, fennel, buckwheat, and clover for adult nectar
 - **Identification**: Resemble houseflies but with bristly bodies. Look for small white eggs glued to the backs of caterpillars.
-
 
 ## See Also
 - [[2c-b-psychedelic-empathogen-guide]]

@@ -142,7 +142,6 @@ This is critical -- do not skip or rush.
 6. After a week of graduated fires, the oven is ready for full use
 7. Rushing this step causes cracks
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Repairing Cracks

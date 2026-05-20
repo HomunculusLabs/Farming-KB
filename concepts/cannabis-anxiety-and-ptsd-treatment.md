@@ -96,7 +96,7 @@ to inform current best practices and research directions.
 
 ## See Also
 - [[det]]
-- [[harlequin]]
+- [[cannabis-strain-harlequin]]
 - [[nabilone]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

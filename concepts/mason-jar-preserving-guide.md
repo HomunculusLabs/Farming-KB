@@ -142,7 +142,6 @@ Common homestead recipes include:
 | Cloudy liquid | Minerals in water, starch from food | Use soft water, blanch vegetables before canning |
 | Discolored food | Iron in water, reaction with metal | Use soft water, do not use aluminum cookware |
 
-
 ## See Also
 - [[comparison-root-cellaring-vs-dehydration]]
 ## Storage and Shelf Life

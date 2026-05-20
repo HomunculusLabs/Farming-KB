@@ -75,7 +75,7 @@ can be bent and tied without breaking, a natural tendency to produce
 fruiting spurs on older wood, tolerance of the pruning intensity
 required to maintain a flat form, and adaptability to the specific
 [[fruit-tree-pruning-and-training-systems]]
-[[permaculture-zone-and-sector-analysis]]
+[[zone-sector-analysis-guide]]
 [[permaculture-fruit-tree-guide]]
 [[stone-fruit-cultivation-and-variety-guide]]
 [[microclimate-design-for-garden-and-farm]]

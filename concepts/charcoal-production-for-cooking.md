@@ -135,7 +135,6 @@ Good charcoal for cooking should:
 
 Poor quality charcoal is crumbly, lightweight, has a brownish color, produces excessive ash, and may smell of chemicals or smoke.
 
-
 ## See Also
 - [[mushroom-spawn-production-sorghum-seeds]]
 

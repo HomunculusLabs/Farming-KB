@@ -42,7 +42,7 @@ Sowing of milk vetch is timed to the regional climate: before September 20-25 in
 
 ### Dismissing Expert Concerns
 
-"'Experts' say that because rye has low nitrogen content, when it decomposes it will cause nitrogen suck-in by microorganisms and thereby damage the growth of fruit trees. However, in the fields, such concern is dismissed."
+"Experts' say that because rye has low nitrogen content, when it decomposes it will cause nitrogen suck-in by microorganisms and thereby damage the growth of fruit trees. However, in the fields, such concern is dismissed."
 
 JADAM consistently privileges field observation over theoretical concerns. The nitrogen immobilization predicted by experts does not occur in practice, either because the effect is smaller than predicted or because other factors compensate.
 

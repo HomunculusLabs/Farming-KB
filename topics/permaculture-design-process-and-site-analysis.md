@@ -32,7 +32,7 @@ element serves multiple functions and that elements support one another.
 Implementation follows a specific priority sequence: earthworks and
 water systems first, then infrastructure and access, then perennial
 plantings, and finally annual crops and ground covers. This sequence
-reflects the principle of designing from [[permaculture-zone-and-sector-analysis]]
+reflects the principle of designing from [[zone-sector-analysis-guide]]
 
 - [[mollison-climate-site-analysis-permaculture]]
 - [[permaculture-site-analysis]]

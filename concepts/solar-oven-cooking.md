@@ -140,7 +140,6 @@ normal cooking time.
 - Place in solar oven for 45-60 minutes
 - Let stand 10 minutes before opening
 
-
 ## See Also
 - [[solar-water-heating]]
 - [[solar-radiation-and-plant-light-responses]]

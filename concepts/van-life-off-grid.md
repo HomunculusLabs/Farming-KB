@@ -142,9 +142,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 - Propane instant water heater (more complex but convenient)
 - Heat water on stove and transfer to shower bag
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]
 ## Composting Toilet
-

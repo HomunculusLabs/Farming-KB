@@ -144,7 +144,6 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 - Fermentation increases bioavailability of nutrients
 - Supports gut microbiome health
 
-
 ## See Also
 - [[honey-oil]]
 ## Troubleshooting

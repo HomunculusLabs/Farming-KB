@@ -139,7 +139,6 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 - Taste a tiny amount — flavor should be clearly present
 - If an herb has no scent or flavor, it is past its useful life and should be composted
 
-
 ## See Also
 - [[pressure-canning-safety]]
 - [[comparison-root-cellaring-vs-dehydration]]

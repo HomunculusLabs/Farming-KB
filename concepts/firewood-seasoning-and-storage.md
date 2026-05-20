@@ -141,7 +141,6 @@ Once wood is seasoned, store it:
 - Accessible in winter — plan your stacking location for snow access
 - Separate from green/seasoning wood to avoid confusion
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

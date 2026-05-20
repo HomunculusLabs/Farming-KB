@@ -138,7 +138,6 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 - **Softer salve**: Add more carrier oil or reduce beeswax
 - **Thicker balm**: Add shea butter or cocoa butter
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 - [[cannabis-reefers-and-tincture-preparation]]

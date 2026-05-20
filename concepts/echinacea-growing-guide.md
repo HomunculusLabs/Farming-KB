@@ -131,7 +131,6 @@ Roots:
 - Use a digging fork to lift roots without breaking them
 - Older roots (4+ years) become woody and less medicinally active
 
-
 ## See Also
 - [[echinacea-purpurea]]
 ## Processing and Storage

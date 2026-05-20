@@ -146,4 +146,3 @@ Teeter proposes that the Christian Eucharist (bread and wine) and the Holy Grail
 - **Resurrection:** Dried Amanita muscaria resurrects into living mycelium within 3 days when rehydrated — the author argues this biological property is the literal origin of resurrection myths in multiple religions.
 
 See [[amanita-muscaria-guide]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.
-

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmacology, safety, biochemistry, methods, psychopharmacology, potency, mushrooms]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
 # Psilocybin Extraction Guide
@@ -147,4 +148,3 @@ Converting [[mushroom-extract]] into purified psilocybin crystals:
 - Start with low doses — potency is unpredictable without testing
 - A sitter is recommended, especially at higher doses
 - Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
-- Avoid if personal or family history of psychosis or schizophrenia

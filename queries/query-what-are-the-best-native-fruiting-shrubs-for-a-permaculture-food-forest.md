@@ -77,7 +77,7 @@ The shrub layer sits between the canopy and herbaceous layers in a [[forest-gard
 Space shrubs 4–8 feet apart depending on the species' mature width and your harvest access needs.
 Group plants with similar soil and water requirements together, following [[permaculture-plant-guilds|guild design]] principles.
 Use native shrubs as [[windbreaks-hedgerows-and-shelterbelts|windbreak elements]] along food-forest edges for dual-purpose protection and production.
-[[nitrogen-fixing-trees-and-shrubs-for-permaculture|Nitrogen-fixing companions]] like autumn olive or Siberian pea shrub can fertilize nearby fruiting shrubs.
+[[nitrogen-fixing-trees-and-shrubs|Nitrogen-fixing companions]] like autumn olive or Siberian pea shrub can fertilize nearby fruiting shrubs.
 Consider [[companion-planting-and-polycultures|polyculture arrangements]] that pair berry shrubs with herbaceous perennials for pest confussion and ground coverage.
 
 ## Wildlife Benefits Beyond the Harvest

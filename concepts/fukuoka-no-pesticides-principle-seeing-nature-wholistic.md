@@ -49,7 +49,7 @@ Fukuoka pushes this further into the territory of non-dual awareness: "One must 
 
 Applied to farming, this becomes: "Farming is an activity conducted by the hand of nature." The farmer who puts himself in the place of the rice plant — who cultivates the capacity to see from the plant's perspective rather than from the perspective of someone who wants to extract a harvest — finds that the self looking upon the rice vanishes. There is no separation between farmer and crop.
 
-"Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole." Fukuoka distinguishes between two modes of understanding: "'All' refers to the world of mathematical form and 'whole' represents the world of living truth." To count and classify is to inhabit the world of "all." To perceive the living whole is something else entirely.
+"Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole." Fukuoka distinguishes between two modes of understanding: "All' refers to the world of mathematical form and 'whole' represents the world of living truth." To count and classify is to inhabit the world of "all." To perceive the living whole is something else entirely.
 
 This philosophical stance has practical consequences. When a barley sprout wilts in a natural farming field, the farmer does not reach for a spray. "If a barley sprout should wilt, something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself." The fault lies not in the pest or the disease but in the human action that disrupted the natural balance.
 

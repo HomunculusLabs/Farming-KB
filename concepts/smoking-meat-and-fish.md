@@ -135,7 +135,6 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 5. After smoking, air-dry to reduce moisture to 25-35% for preservation
 6. Refrigerate or freeze after smoking
 
-
 ## See Also
 - [[pressure-canning-safety]]
 ## Food Safety for Smoked Products

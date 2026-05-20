@@ -139,7 +139,6 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - **Strong**: 30-60 mg
 - **Therapeutic**: Up to 100+ mg (for epilepsy, severe pain)
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 ## Common Edible Recipes

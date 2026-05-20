@@ -126,7 +126,6 @@ to the top and can be skimmed.
 - Your name and address
 - Origin state or "Product of USA"
 
-
 ## See Also
 - [[honey-oil]]
 

@@ -147,4 +147,3 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Le
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
-

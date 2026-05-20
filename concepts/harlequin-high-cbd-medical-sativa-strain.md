@@ -54,7 +54,7 @@ Harlequin's flavor is shaped by its extraordinary [[cannabis-for-inflammatory-co
 
 ## Hash and Oil Production
 
-Harlequin was specifically bred for extract production, and it excels in this regard. The extraordinary resin density — where the breeder notes it looks like "someone just threw a bag of sugar at a tree" — means that even small quantities of plant material can yield significant amounts of hash or oil. The high-CBD content of the resulting extracts is particularly valuable for medical patients who prefer concentrate forms of cannabis medicine. Ice water hash and CO2 [[harlequin]]
+Harlequin was specifically bred for extract production, and it excels in this regard. The extraordinary resin density — where the breeder notes it looks like "someone just threw a bag of sugar at a tree" — means that even small quantities of plant material can yield significant amounts of hash or oil. The high-CBD content of the resulting extracts is particularly valuable for medical patients who prefer concentrate forms of cannabis medicine. Ice water hash and CO2 [[cannabis-strain-harlequin]]
 - [[dom]]
 - [[tetrahydrocannabinol]]
 
@@ -138,7 +138,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[cannabis-strain-harlequin]]
-- [[harlequin]]
+- [[cannabis-strain-harlequin]]
 - [[harlequin-cannabis]]
 - [[mollison-pdc-high-island-design]]
 - [[oner-harlequin-green-haven-genetics-high-cbd-strain-profile]]

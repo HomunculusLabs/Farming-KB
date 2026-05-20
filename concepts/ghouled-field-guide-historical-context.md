@@ -30,7 +30,7 @@ The complete text was posted to the `alt.drugs` Usenet newsgroup on
 June 2, 1994, from the Vanderbilt University computer system. The
 poster's email address (HARPETH1@ctrvax.Vanderbilt.Edu) and the
 message ID (<2sl22s$jru@agate.berkeley.edu>) place it within the
-berkeley.edu news system. The post was titled "'Shroom picking guide!
+berkeley.edu news system. The post was titled "Shroom picking guide!
 It's here!" and was relayed through a Berkeley remailer service
 (remailer@soda.berkeley.edu).
 

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forest-ecology, ecology, biodiversity, nutrient-cycling, succession, conservation]
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-gra.md"
 ---
 
 # Forest Ecology Basics

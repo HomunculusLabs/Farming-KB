@@ -142,9 +142,7 @@ Ventilation is the most important cold frame management task:
 | October | Sow overwintering crops (spinach, mache, garlic) |
 | November-December | Harvest fall crops; close lid at night |
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 - [[fukuoka-straw-mulch-system]]
 ## Maintenance
-

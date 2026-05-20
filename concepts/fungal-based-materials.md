@@ -144,7 +144,6 @@ Applications: non-load-bearing walls, insulation panels (most commercially viabl
 
 Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural waste, ~95% less water than leather, fully compostable, low energy (ambient temperature growth). Challenges: no industry standards, not in building codes, scaling maturing, moisture sensitivity, higher cost than conventional, immature supply chains.
 
-
 ## See Also
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 ## Future Directions

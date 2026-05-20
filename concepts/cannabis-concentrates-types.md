@@ -75,7 +75,6 @@ Rosin is produced by applying heat and pressure to cannabis flower or hash using
 - **Hash**: 160-200 F, 2-10 tons, 30-120 seconds
 - **Live hash**: 150-180 F, 3-15 tons, 30-90 seconds
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 - [[cannabis-reefers-and-tincture-preparation]]

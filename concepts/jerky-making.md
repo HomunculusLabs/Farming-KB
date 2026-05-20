@@ -131,7 +131,6 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
-
 ## See Also
 - [[pressure-canning-safety]]
 - [[comparison-root-cellaring-vs-dehydration]]

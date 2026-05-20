@@ -147,4 +147,3 @@ Sheep are extremely vulnerable to predation. Protection is essential.
 - CD&T ([[clostridium]] perfringens C & D + tetanus) — core vaccine.
 - Ewes: booster 4-6 weeks pre-lambing to pass immunity to lambs via colostrum.
 - Lambs: first dose at 6-8 weeks, booster at 10-12 weeks.
-

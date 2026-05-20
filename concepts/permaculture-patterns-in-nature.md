@@ -76,5 +76,5 @@ The Manual provides a pattern application checklist for designers, covering boun
 ## Related Concepts
 
 - [[permaculture-design]] -- Pattern understanding as input to design process
-- [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
+- [[zone-sector-analysis-guide]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions

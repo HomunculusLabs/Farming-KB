@@ -3,11 +3,12 @@ title: "Agar Culture And Isolation"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: agar Culture and Isolation Techniques
-tags: [mycology, cultivation, tissue-culture, fungi]
+
+
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/unknown-gromedicinal-mushroomsdicinal-mushrooms-s.md"]
+tags: [agar Culture and Isolation Techniques, cultivation, fungi, mycology, tissue-culture]
 ---
 ## Agar Culture and Isolation Techniques Agar culture is the foundamushroom-cultivationhroom cultivation. Workimyceliummycelium on nutrient agar plates allows cultivators to isolate clean cultures, select for desirable traits, store genetics long-term, and expand inoculum without the genetic variability inherent to spore-based methods. Mastery of agar technique is the single most impactful skill upgrade for any mushroom cultivator. ## What Is Agar? Agar is a gelatinous substance derived from red algae. It serves as a solid growth medium when combined with nutrients and water. Agar melts at 185°F (85°C) and solidifies at approximately 100-110°F (38-43°C), allowing it to be sterilized as a liquid and poured into plates where it sets into a firm surface for [[contamination-identification]] on Identification and Elimination
 

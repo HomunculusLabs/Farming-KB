@@ -124,7 +124,6 @@ The primary grain for most home millers:
 - **Buckwheat** — Not a true grain (a pseudocereal). Gluten-free, strong flavor, good for pancakes and soba noodles
 - **Rice** — Brown rice can be milled into flour for gluten-free baking
 
-
 ## See Also
 - [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
 - [[homesteading-self-sufficiency-skills]]

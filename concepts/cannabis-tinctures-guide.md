@@ -141,7 +141,6 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 - [[cannabis-reefers-and-tincture-preparation]]

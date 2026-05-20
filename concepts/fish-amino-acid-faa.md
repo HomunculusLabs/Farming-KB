@@ -147,4 +147,3 @@ FAA works synergistically with:
 - [[lactic-acid-bacteria-lab]] — LAB helps prevent putrefaction
 - [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
 - [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls
-

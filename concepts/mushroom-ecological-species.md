@@ -147,4 +147,3 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
 | Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
 | Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
-

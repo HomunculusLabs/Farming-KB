@@ -143,7 +143,6 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 - Over-stressing the plant if performed on multiple branches simultaneously
 - Not suitable for thin or young stems
 
-
 ## See Also
 - [[cannabis-metabolic-syndrome-research]]
 - [[cannabis-reefers-and-tincture-preparation]]

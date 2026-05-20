@@ -143,7 +143,6 @@ After washing, biodiesel contains suspended water droplets:
 - **Cloud point** — The temperature at which biodiesel begins to gel. Important for cold climate use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
-
 ## See Also
 - [[holmgren-catch-and-store-energy-four-landscape-storages]]
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]

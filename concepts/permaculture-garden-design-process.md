@@ -88,7 +88,7 @@ Hemenway frames the ultimate goal as creating a garden that functions as a self-
 
 - [[permaculture-design-process]]
 - [[permaculture-site-analysis]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[backyard-food-forest-design]]
 - [[edible-landscaping]]

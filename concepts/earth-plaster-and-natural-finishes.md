@@ -132,7 +132,6 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 - Cactus juice acts as a natural binder and waterproofing agent
 - Easy to repair and reapply
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Tadelakt

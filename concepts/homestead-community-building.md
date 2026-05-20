@@ -147,4 +147,3 @@ If you are new to an area:
 - Offer to help during busy seasons (harvest, haying, butchering)
 - Host a potluck — food brings people together
 - Be reliable — your reputation is built on follow-through
-

@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, biology, lab-technique, academia, methods]
-sources: []
+sources:
+  - "raw/papers/working-with-agar.md"
 ---
 
 # Mushroom Genetics and Strain Selection
@@ -147,4 +148,3 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 - [[fungal-sexual-reproduction]] for mating type genetics
 - [[agar-work-guide]] for isolation techniques
 - [[mushroom-spawn-making-detailed]] for propagating selected strains
-- [[fungal-genetics]] for advanced genetic tools and CRISPR applications

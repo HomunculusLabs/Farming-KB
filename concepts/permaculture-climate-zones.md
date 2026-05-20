@@ -64,7 +64,7 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 ## Related
 
 - [[permaculture-design-process]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
 

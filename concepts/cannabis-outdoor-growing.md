@@ -147,4 +147,3 @@ Cultivating cannabis in remote, hidden locations. Use autoflowering strains for 
 ### Organic Pest Control
 
 Neem oil, insecticidal soap, diatomaceous earth, Bt, beneficial insect releases (ladybugs, lacewings, predatory mites), and companion planting.
-

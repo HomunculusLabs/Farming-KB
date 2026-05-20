@@ -12,12 +12,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ../concepts/5-meo-dmt-compound-profile.md
-  - ../concepts/5-meo-dmt-reference.md
-  - ../concepts/tihkal-5meo-dmt-pharmacology.md
-  - ../concepts/turner-5meo-dmt.md
-  - ../concepts/turner-essential-psychedelics-5-meo-dmt-void-experience.md
-  - ../concepts/5-meo-dipt-compound-profile.md
+  - 5-meo-dmt-compound-profile
+  - 5-meo-dmt-reference
+  - tihkal-5meo-dmt-pharmacology
+  - turner-5meo-dmt
+  - turner-essential-psychedelics-5-meo-dmt-void-experience
+  - 5-meo-dipt-compound-profile
 related_concepts:
   - 5-meo-dmt-compound-profile
   - 5-meo-dmt-reference

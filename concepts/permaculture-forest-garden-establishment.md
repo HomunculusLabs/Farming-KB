@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, food-forest, succession, plant-systems, guild, design, timeline, trees]
-sources: []
+sources:
+  - "raw/papers/nutrient-and-dynamic-accumulators.md"
 ---
 
 # Permaculture Forest Garden Establishment

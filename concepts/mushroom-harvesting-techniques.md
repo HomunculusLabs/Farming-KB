@@ -123,7 +123,6 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 3. After 24-48 hours, the mushrooms will have lost 60-80% of their water content and will feel leathery but not cracker dry.
 4. Transfer to a dehydrator or desiccant chamber for final drying.
 
-
 ## See Also
 - [[mushroom-toxins-and-poisoning]]
 ## Storage

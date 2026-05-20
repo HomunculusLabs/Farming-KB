@@ -133,7 +133,6 @@ Solar panels --> Charge controller --> Battery bank --> Inverter --> AC breaker 
 
 All DC wiring (panels to controller, controller to batteries) should use appropriate gauge wire with fusing. All AC wiring should follow standard electrical code (NEC in the US).
 
-
 ## See Also
 - [[solar-water-heating]]
 - [[micro-hydro-power]]

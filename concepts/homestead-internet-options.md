@@ -142,9 +142,7 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 - Ask neighbors what they use
 - Look for towers on hilltops with dish-shaped antennas
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]
 ## Option 4: DSL (Digital Subscriber Line)
-

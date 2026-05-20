@@ -58,7 +58,7 @@ Small, local systems generally require less energy to build and maintain than la
 - Begin with [[permaculture-sheet-mulch-detailed-guide|sheet mulching]] one bed rather than tilling the entire yard
 - Plant a few trees first, observe their performance, then add more
 - Use [[permaculture-herb-spiral-details|herb spirals]] and [[keyhole-garden-design|keyhole beds]] -- small features with big impact
-- [[permaculture-zone-and-sector-analysis|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
+- [[zone-sector-analysis-guide|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
 
 ### Water Management
 

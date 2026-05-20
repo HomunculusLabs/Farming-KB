@@ -143,7 +143,6 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 - Channel that returns water to the stream below the turbine
 - Must meet environmental regulations (fish passage, water temperature)
 
-
 ## See Also
 - [[biodiversity-power-natural-regeneration]]
 - [[coaxial-power-splitter-waveguide-microwave-sterilization]]

@@ -3,11 +3,12 @@ title: "Comparison Backyard Food Forest vs Urban Permaculture"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: permaculture"
-tags: [comparison, permaculture, food-forest, urban-gardening, design]
+
+
 date: 2026-04-25
 updated: 2026-04-25
 sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
+tags: [comparison, design, food-forest, permaculture, permaculture", urban-gardening]
 ---
 
 ## Backyard Food Forest vs Urban Permaculture

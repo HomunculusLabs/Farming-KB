@@ -70,7 +70,7 @@ Black locust, clover, comfrey, dandelion, fruit trees, hawthorn, lavender, raspb
 ## Related
 
 - [[clay-ball-seed-pellets]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design-process]]
 
 ## Current Research and Applications

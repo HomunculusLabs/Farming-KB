@@ -133,7 +133,6 @@ The most dangerous chanterelle look-alike:
 5. True chanterelles have a distinctive fruity/apricot odor
 6. When cut, the flesh is pale yellow to white — never bright colors
 
-
 ## See Also
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 ## Foraging Techniques
@@ -147,4 +146,3 @@ The most dangerous chanterelle look-alike:
 - Check the same spots annually — chanterelles are site-loyal
 
 ### Timing
-

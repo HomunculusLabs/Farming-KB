@@ -137,7 +137,6 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 - Community members tend to look out for each other
 - Reduced density means fewer random criminal opportunities
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

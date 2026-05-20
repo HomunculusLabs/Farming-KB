@@ -125,7 +125,6 @@ inconspicuous for field detection. Many species are found only by examining
 leaves and woody surfaces under magnification, or by isolating and culturing
 specimens until they produce identifiable spores.
 
-
 ## See Also
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]

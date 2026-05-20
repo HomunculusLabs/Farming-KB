@@ -136,7 +136,6 @@ cloudy days. For 60 gallons/day demand, use an 80-120 gallon storage tank.
   degrees for summer emphasis; latitude + 15 for winter emphasis
 - **Shading**: collector must have full sun from 9AM-3PM year-round
 
-
 ## See Also
 - [[solar-radiation-and-plant-light-responses]]
 - [[solar-and-electric-food-drying-methods]]

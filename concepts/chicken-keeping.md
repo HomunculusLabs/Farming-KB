@@ -147,4 +147,3 @@ Bred for maximum egg production (250-320 eggs/year):
 **Best practices**: Lock chickens in coop every night before dark. Use 1/2 inch hardware cloth instead of chicken wire. Bury fencing or run electric wire at ground level. Consider a livestock guardian dog for free-range flocks.
 
 ## Seasonal Care
-

@@ -147,4 +147,3 @@ mandibular glands.
 - **Antioxidant** — significant free radical scavenging activity
 - **Wound healing** — promotes fibroblast migration and collagen synthesis
 - **Cholesterol** — some evidence for LDL reduction
-

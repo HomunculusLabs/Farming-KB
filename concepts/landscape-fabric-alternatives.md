@@ -31,7 +31,7 @@ Advantages:
 - Blocks light effectively, killing existing weeds
 - Allows water penetration when saturated
 - Free and widely available (appliance boxes, moving boxes)
-- Earthworms love the glue layer — they congregate beneath cardboard
+- [[earthworms]] love the glue layer — they congregate beneath cardboard
 
 How to use:
 1. Remove tape, staples, and labels from cardboard
@@ -76,7 +76,7 @@ Advantages:
 - Breaks down into rich humus over 2-4 years
 - Provides habitat for beneficial fungi and insects
 - Suppresses weeds effectively at 4-6 inch depth
-- Moderates soil temperature and moisture
+- Moderates [[soil-temperature]] and moisture
 - Contains a mix of wood, bark, and leaves for diverse nutrient release
 
 How to use:

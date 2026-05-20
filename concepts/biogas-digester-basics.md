@@ -136,7 +136,6 @@ The liquid effluent from a biogas digester is an excellent fertilizer:
 
 Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit trees, or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
 
-
 ## See Also
 - [[biogas-digesters-and-anaerobic-digestion-systems]]
 ## Gas Storage and Use

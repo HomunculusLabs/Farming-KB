@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
-sources: []
+sources:
+  - "raw/papers/working-with-agar.md"
 ---
 
 ## Overview
@@ -147,4 +148,3 @@ Agar slants are test tubes partially filled with solidified agar, stored at cool
 3. Sterilize in the pressure cooker at 15 PSI for 30 minutes.
 4. While still liquid, lay tubes at an angle so the agar solidifies as a diagonal surface (a "slant").
 5. Inoculate with a small wedge of mycelium.
-6. Once colonized, seal with a cap or parafilm and store at 35-45F (2-7C).

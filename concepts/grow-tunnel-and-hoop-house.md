@@ -125,7 +125,6 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 | Lifespan | 1-3 seasons | 10-20+ years |
 | Labor to install | Minutes | Days to weeks |
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Crops and Planting Schedule
@@ -147,4 +146,3 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 - **September-October:** Plant cool-season greens for winter harvest
 - **October-November:** Add a second layer of row cover inside the tunnel for double protection
 - **Advantage:** Extend harvest 4-8 weeks past first frost
-

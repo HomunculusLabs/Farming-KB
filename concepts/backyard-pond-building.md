@@ -147,4 +147,3 @@ In cold climates, ponds need winter preparation:
 -  **Tropical plants** must be brought indoors or treated as annuals.
 
 ## Integration with Homestead Systems
-

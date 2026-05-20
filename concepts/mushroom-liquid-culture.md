@@ -130,7 +130,6 @@ LC can be expanded by transferring a small amount to fresh medium:
 - **Growth timeline**: Visible mycelium appears in 3-7 days. Full colonization (opaque, cloudy appearance with floating mycelial balls) takes 10-21 days depending on inoculation method and conditions.
 - **Light**: Not required. Incubate in darkness or ambient light.
 
-
 ## See Also
 - [[oyster-mushroom-spawn-preparation]]
 - [[permaculture-edge-theory-and-harmonics]]

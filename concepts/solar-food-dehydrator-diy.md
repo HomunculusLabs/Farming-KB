@@ -112,7 +112,6 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - An oven thermometer works well
 - Monitor during the first few uses to learn your dehydrator's behavior in different weather conditions
 
-
 ## See Also
 - [[solar-water-heating]]
 - [[solar-radiation-and-plant-light-responses]]

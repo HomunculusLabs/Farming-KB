@@ -140,7 +140,6 @@ of disease on your homestead.
 - Allow housing to dry completely before restocking.
 - Lime (agricultural lime) on floor between flocks helps reduce pathogen load.
 
-
 ## See Also
 - [[homesteading-livestock-comparison]]
 ## Vaccination

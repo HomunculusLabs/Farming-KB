@@ -135,7 +135,6 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
 - **[[cercospora]] leaf spot**: Similar to alternaria; same management approach
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Harvesting

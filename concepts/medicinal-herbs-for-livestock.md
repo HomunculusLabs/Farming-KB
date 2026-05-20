@@ -21,12 +21,12 @@ alder, ash, beech, birch, elder, elm, hawthorn, hazel, holly, juniper, lemon, li
 
 ## Design Considerations
 
-These herbs and trees should be integrated into [[bee-forage-plant-system|bee forage systems]], [[permaculture-zone-and-sector-analysis|zone layouts]], and pasture designs. Many of these species serve multiple functions -- for example, rosemary, sage, thyme, and lavender provide both medicinal value for livestock and nectar/pollen for bees.
+These herbs and trees should be integrated into [[bee-forage-plant-system|bee forage systems]], [[zone-sector-analysis-guide|zone layouts]], and pasture designs. Many of these species serve multiple functions -- for example, rosemary, sage, thyme, and lavender provide both medicinal value for livestock and nectar/pollen for bees.
 
 ## Related
 
 - [[bee-forage-plant-system]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - forage systems
 
 See also: [[herbal-medicine-making]]

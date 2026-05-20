@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, beginner, education, reference, homestead-crafts]
-sources: []
+sources:
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
 ---
 
 # Homestead Education Resources

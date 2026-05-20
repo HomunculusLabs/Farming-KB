@@ -34,18 +34,6 @@ Biological efficiency routinely exceeds 100 percent, meaning harvests can weigh 
 
 They grow on dozens of substrates, from wheat straw to coffee grounds, making them ideal for waste-recycling cultivation systems in both rural and urban settings.
 
-## Taxonomy and Species Diversity
-
-The genus *Pleurotus* belongs to the family Pleurotaceae within the order Agaricales. These are white-rot basidiomycetes that decompose dead hardwood and conifer wood, breaking down both cellulose and lignin.
-
-Approximately forty species have been described, though taxonomic revisions continue. Several historically recognized species have been merged through interfertility studies and molecular analysis.
-
-The *P. ostreatus* complex alone contains multiple varieties and ecotypes adapted to different geographic regions and host tree species across the northern hemisphere.
-
-Key taxonomic confusion persists around *P. sajor-caju*. The true species was reclassified to *Lentinus sajor-caju* by Pegler in 1975 based on its dimitic hyphal structure and persistent ring on the stem.
-
-Many cultivation papers referencing "P. sajor-caju" actually describe strains of *P. pulmonarius*. This naming error has caused persistent confusion in yield reports and species comparisons across decades.
-
 ## Pleurotus ostreatus — The Classic Oyster
 
 *Pleurotus ostreatus* is the type species and the most widely cultivated oyster worldwide. It produces gray to white shelf-like caps in overlapping clusters on hardwoods and straw.
@@ -75,50 +63,6 @@ In the eastern United States it decomposes hardwoods while western populations c
 It is the species most commonly misidentified as "P. sajor-caju" in cultivation literature. The true *P. sajor-caju* has a distinct veil and trimitic hyphae, whereas *P. pulmonarius* is monomitic.
 
 It is favoured in many developing-country programs because of its adaptability to a wide range of substrates and tolerance of less rigorous environmental control.
-
-## Pleurotus eryngii — The King Oyster
-
-*Pleurotus eryngii* produces the largest and most commercially valuable fruiting bodies in the genus. It grows a thick fleshy stem 4 to 10 cm in diameter with a relatively small cap.
-
-Its texture and flavor are often compared to abalone or scallops, making it prized in high-end cuisine and vegetarian cooking. It commands premium prices in Asian and European markets.
-
-King oyster fruits at 10 to 17 degrees Celsius and requires supplemented sawdust substrates. A standard formula is three parts hardwood sawdust to one part wheat bran, sterilized at 15 psi for 60 to 90 minutes.
-
-CO2 management is the critical environmental control. High CO2 produces long thick stems with small caps, the commercially desirable form. Low CO2 produces shorter stems with larger open caps.
-
-In nature it grows on buried roots of Apiaceae plants including *Eryngium*, *Ferula*, and *Thapsia* in Mediterranean and Central Asian grasslands. Some strains are native to conifers including *Abies*.
-
-Spawn running takes 14 to 25 days at 23 to 25 degrees Celsius. Mycelium is white, dense, and vigorous, producing a thick mycelial mat on the substrate surface.
-
-It is not as adaptive as *P. pulmonarius* and *P. ostreatus* to a broad range of substrates, requiring more precise formulation and supplementation.
-
-## Pleurotus citrinopileatus — The Golden Oyster
-
-*Pleurotus citrinopileatus* produces brilliant golden to bright yellow caps in large clusters of 50 to 100 or more individual mushrooms. The flavor is nutty with a cashew-like quality.
-
-Caps are 2 to 5 cm, thin-fleshed, with decurrent gills visible through translucent cap flesh. Stems are white and centrally attached. It is closely allied to *P. cornucopiae* and sometimes classified as a variety.
-
-Petersen's interfertility studies showed a Chinese culture was sexually compatible with *P. cornucopiae* from Europe, confirming their close relationship despite geographic separation.
-
-The golden color can be lost through continued propagation. As strains senesce, caps fade from yellow through beige to grayish-brown, and cluster size diminishes.
-
-Maintaining genetic vigor through proper strain management and periodic re-isolation from spore prints is essential for preserving the characteristic coloration.
-
-The species fruits at 21 to 29 degrees Celsius. Grain spawn produces substantially greater yields than sawdust spawn on straw substrates.
-
-## Other Notable Cultivated Species
-
-*Pleurotus cystidiosus*, the abalone oyster, produces shell-shaped caps with a texture reminiscent of abalone meat. It fruits at 20 to 30 degrees Celsius and is popular in subtropical Asian markets.
-
-It produces abundant chlamydospores during mycelial growth, which can complicate spawn production and strain identification under microscopy.
-
-*Pleurotus djamor*, the pink oyster, displays vibrant pink coloration and requires tropical temperatures of 21 to 30 degrees Celsius. It fruits quickly but has a very short shelf life.
-
-*Pleurotus tuber-regium*, the African sclerotial oyster, produces large underground sclerotia that store for extended periods. It is culturally and nutritionally important in West African traditions.
-
-*Hypsizygus ulmarius*, the elm oyster, is sometimes grouped with Pleurotus though it belongs to a different genus. It produces large firm fruiting bodies and shimeji-style clusters.
-
-*Pleurotus euosmus*, the tarragon oyster, has a distinctive anise aroma. It is less commonly cultivated but valued by specialty growers for its unique sensory qualities.
 
 ## Substrate Selection and Worldwide Materials
 
@@ -178,52 +122,6 @@ Light is required for normal development. *P. ostreatus* forms the most primordi
 
 Total light exposure below 2,400 lux-hours per day triggers abnormal coral formations. Light exceeding 10,000 lux caused primordia to fail entirely.
 
-## Growing House Design and Infrastructure
-
-Growing houses range from simple open structures to sophisticated climate-controlled facilities. The choice depends on climate, materials, budget, and production scale.
-
-Traditional hut-style houses use bamboo, thatch, and plastic sheeting. They provide basic protection from rain and wind while allowing natural ventilation at minimal cost.
-
-Constructive greenhouse designs use polyethylene film or polycarbonate panels over frames. These offer better environmental control and can be equipped with fans, humidifiers, and heating.
-
-Purpose-built mushroom houses with insulated walls, concrete floors, and mechanical climate control provide the most consistent year-round production for commercial operations.
-
-Perforated plastic bags, columns, trays, vertical racks, and bottles all serve as fruiting containers. Bag cultivation is the most common method worldwide.
-
-For small-scale growers, modified shipping containers, tunnel greenhouses, and indoor rooms serve as effective fruiting chambers with proper humidity and air exchange.
-
-## Pest Identification and Management
-
-Green mold caused by *Trichoderma harzianum* is the single most costly disease in Korean commercial oyster operations. It competes directly with oyster mycelium and often colonizes faster.
-
-*Trichoderma koningii* and *T. pseudokoningii* are less common but still damaging. Resistant strains have developed against benomyl and thiabendazole in Korea, reducing chemical effectiveness.
-
-Prochloraz-manganese complex (Sporgon) at 250 to 500 ppm is currently the most effective chemical control. Pre-treating substrates before pasteurization provides the best preventative results.
-
-Brown blotch caused by *Pseudomonas tolaasii* manifests as brown spots on caps and stipes. It is favored by rapid humidity fluctuations and free water on fruiting surfaces.
-
-Chlorinated water at 5 ppm provides routine prevention. At 20 ppm it helps control active outbreaks. Sodium hypochlorite and calcium hypochlorite are both effective chlorine sources.
-
-Sciarid fly larvae feed on mycelium causing substrate rotting. Adults transfer mites and diseases between units. Development accelerates above 25 degrees Celsius.
-
-Cecids reproduce through paedogenesis, each larva producing 14 to 20 daughters every 6 days. Populations explode rapidly, turning bags orange from sheer larval density.
-
-Mites including *Tarsonemus* and *Histiostoma* are invisible to the naked eye. They feed on mycelia while carrying pathogens, nematodes, and bacteria between growing units.
-
-## Fruiting Abnormalities and Environmental Diagnosis
-
-Fruiting body shape is highly responsive to environmental conditions, particularly CO2, temperature, humidity, and light during the critical initiation and development phases.
-
-Long stringy stems with small caps indicate insufficient fresh air exchange and elevated CO2. Increasing ventilation produces well-formed shelf-like clusters with thick stems and broad caps.
-
-Coral-like malformations indicate insufficient light. Below 2,400 lux-hours daily, normal cap development fails entirely and mushrooms grow as branching stalks without expanded pilei.
-
-Cap discoloration and yellowing can result from environmental stress without pathogen infection. Rapid humidity changes are the most common non-pathogenic cause of quality reduction.
-
-Stem splitting and rough cap surfaces indicate fluctuating moisture during pin development when primordia are most vulnerable to environmental stress.
-
-Fungal brown blotch caused by *Verticillium fungicola* presents differently from bacterial blotch. The exact causal agent remains under investigation but symptoms include dry, powdery lesions.
-
 ## Harvesting and Post-Harvest Handling
 
 Oyster mushrooms should be harvested just before or as the cap margin begins to curl upward, signaling spore release onset. This stage ensures the best texture and flavor.
@@ -238,60 +136,6 @@ Rapid spoilage is a significant challenge. Oyster mushrooms remain marketable fo
 
 Heavy spore production in growing rooms poses respiratory health risks. Sporeless strains with short gills and thicker flesh are highly valued in commercial operations for worker safety.
 
-## Yield Expectations and Commercial Economics
-
-On unsupplemented straw, yields typically reach 50 to 75 percent biological efficiency. With 10 to 20 percent bran supplementation on sawdust, yields of 100 to 200 percent are common across 2 to 3 flushes.
-
-Cottonseed hulls produce the highest unsupplemented yields at 86 to 100 percent biological efficiency without requiring pasteurization. This makes cotton waste the most economical substrate where available.
-
-The MushWorld India case study shows growers who own their agricultural residues earn better margins than those purchasing raw materials. Oyster cultivation works as a rural enterprise model.
-
-The enterprise is not merely buying inputs and selling output. The grower recycles farm waste through a fungal production step, then retains spent substrate with compost or feed value.
-
-Seasonal production lowers capital demand while traditional hut production can generate larger yearly output where climate permits. Multiple scenarios are compared in Indian enterprise models.
-
-In Kenya, spawn availability remains the greatest constraint. Local spawn production capacity is the bottleneck limiting expansion across the continent.
-
-## Nutritional Profile and Medicinal Properties
-
-Oyster mushrooms contain 15 to 35 percent protein on a dry weight basis with significant free amino acids. They provide vitamin C at 30 to 144 mg per 100 g and niacin at 109 mg per 100 g.
-
-Dietary fibre reaches 10 to 50 percent of dry matter, composed of beta-glucans, chitin, and heteropolysaccharides including pectinous substances, hemicellulose, and polyuronides.
-
-These fibre compounds can absorb potential carcinogens and hasten their excretion, suggesting a preventative action for colorectal carcinoma according to Mizuno's research.
-
-*Pleurotus* species are excellent natural producers of lovastatin, the cholesterol-lowering pharmaceutical. Adding 4 percent dried oyster mushroom to a high-cholesterol diet effectively lowered serum cholesterol in studies.
-
-Antitumour polysaccharides from fruiting bodies and submerged cultured mycelium have demonstrated activity in xenograft models, confirming biological antitumour effects for beta-glucan and heteroglucan preparations.
-
-Protein content varies by substrate type, spawn rate, and species. Nutrition can be partially tuned through cultivation choices rather than relying solely on species selection.
-
-## Regional Cultivation Around the World
-
-In India, species are matched to regional climates: *P. ostreatus* in the cool Nilgiri Hills, warm-climate strains in southern states, Florida-type strains for off-season northern production.
-
-Wild-collected oysters supplement cultivated production in Himalayan regions, the Western Ghats, the Nilgiri Hills, and other forest areas across the subcontinent.
-
-In Kenya, 38 of 42 indigenous tribes use mushrooms as food. Several locally adapted *Pleurotus* species have been domesticated from Karura and Kakamega forests.
-
-Korean operations have developed intensive production systems with sophisticated climate control, though they face the greatest pest and disease pressure from green mold and brown blotch.
-
-Nepal introduced oyster cultivation in 1984 with strains on chopped straw packets. The Philippines similarly adopted the species for its adaptability to local conditions.
-
-Across Central America and Africa, oyster cultivation programs serve as rural enterprise development tools, converting agricultural waste into protein-rich food.
-
-## Beginner Getting Started Guide
-
-The simplest entry uses pasteurized straw in plastic bags. This requires no specialized equipment beyond a large container, thermometer, and grow bags.
-
-Start with *P. ostreatus* or *P. pulmonarius* grain spawn from a reputable supplier. Wheat straw is chopped, soaked in 70 degree water for one hour, drained, and mixed with spawn at 10 percent by weight.
-
-Bags are placed in a warm dark location for 10 to 21 days until fully colonized with white mycelium. Then introduce fresh air, light, and maintain high humidity.
-
-Pins appear within 3 to 7 days and mature to harvestable size in 3 to 5 days more. Expect 50 to 75 percent biological efficiency across 2 to 3 flushes.
-
-Common mistakes include insufficient pasteurization, low spawn rates, inadequate humidity during fruiting, and poor fresh air exchange producing long-stemmed, small-capped mushrooms.
-
 ## See Also
 
 - [[mushroom-cultivation-fundamentals]]
@@ -304,5 +148,3 @@ Common mistakes include insufficient pasteurization, low spawn rates, inadequate
 - [[mushroom-business-and-small-farm-economics]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[shiitake-mushroom-cultivation-and-medicinal-properties]]
-- [[cancer-medicinal-mushrooms]]
-- [[herbal-mushroom-immune-modulators]]

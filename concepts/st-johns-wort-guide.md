@@ -134,7 +134,6 @@ Management:
 - Keep away from pastures where livestock graze
 - Do not compost mature seed heads
 
-
 ## See Also
 - [[comparison-calendula-vs-st-johns-wort]]
 ## Harvesting

@@ -147,4 +147,3 @@ Fungi are among the first organisms to colonize bare rock surfaces:
 - **Thermophilic fungi**: Species growing at temperatures above 40C. *Thermomyces lanuginosus* is a well-studied thermophile producing thermostable enzymes. *Myceliophthora thermophila* grows up to 55C.
 - **Geothermal soils**: Fungi in geothermal areas show zonation with temperature. Thermophilic species occupy the hottest zones, while mesophiles dominate cooler areas.
 - **Compost fungi**: Thermophilic fungi are important in the self-heating phase of composting, where temperatures reach 50-70C. *Scytalidium thermophilum* is a key species in mushroom compost.
-

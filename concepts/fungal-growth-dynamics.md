@@ -147,4 +147,3 @@ Fungi respond to temporal changes in resource availability:
 ## Implications for Management
 
 Understanding fungal growth dynamics informs several practical applications:
-

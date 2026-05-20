@@ -140,11 +140,9 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
    - Second cut: Cut from the top, just outside the first cut, removing the branch
    - Third cut: Remove the remaining stub, cutting just outside the branch collar
 
-
 ## See Also
 - [[pruning-techniques-organic]]
 - [[pruning-fruit-trees-and-bushes]]
 ## Timing by Tree Type
 
 ### Apples and Pears
-

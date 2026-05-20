@@ -80,7 +80,7 @@ Mollison identifies systemic failures:
 
 ## Definition of "Enough"
 
-"'Enough' is a warm place, good nutrition (hence, health), plenty of information, many friends, a meaningful task or two and reliance on the group, hence absolute security."
+"Enough' is a warm place, good nutrition (hence, health), plenty of information, many friends, a meaningful task or two and reliance on the group, hence absolute security."
 
 "Who needs insurance, spy satellites, or any of those expensive waste products of insecurity? Multinationals, like national pride, are a result of greed and the need to hold what you have."
 

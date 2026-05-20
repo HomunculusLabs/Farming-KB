@@ -147,4 +147,3 @@ Once roots are 1-2 inches long and visible outside the cube:
 - **No roots after 14 days**: Check temperature, hormone freshness, and cutting quality. Some strains are notoriously difficult to clone.
 
 ## Related
-

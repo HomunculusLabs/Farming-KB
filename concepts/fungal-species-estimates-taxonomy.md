@@ -147,4 +147,3 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Water molds, downy mildews
 - Include *Phytophthora infestans* (potato blight), *Pythium* (damping-off)
 - ~700 described species
-

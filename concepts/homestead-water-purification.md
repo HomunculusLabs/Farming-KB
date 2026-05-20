@@ -147,4 +147,3 @@ Before selecting a purification system, test your water:
 ### Biosand Filters
 
 **How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
-

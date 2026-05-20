@@ -147,4 +147,3 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 - Sweet woodruff (Galium odoratum)
 
 ### North Side vs. South Side
-

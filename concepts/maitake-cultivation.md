@@ -118,7 +118,7 @@ Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake|medicinal
 
 ## See Also
 
-- [[maitake-cultivation|Maitake detailed cultivation guide]]
+- Maitake detailed cultivation guide
 - [[maitake-mushroom-research|Maitake research summary]]
 - [[medicinal-mushroom-guide-maitake|Maitake medicinal properties]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

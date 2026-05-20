@@ -147,4 +147,3 @@ high altitude. Built loosely, they soak up rainwater like a sponge. The raised
 portion warms more quickly in spring — critical in cold climates. Position
 relative to sun and wind provides different microclimates for different plants
 on the same bed.
-

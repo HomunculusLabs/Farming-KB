@@ -142,7 +142,6 @@ several color and production varieties:
 - Quail are typically cooked whole (roasted, grilled, fried).
 - See [[animal-harvest-and-processing]] for broader processing principles.
 
-
 ## See Also
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 ## Breeding and Incubation

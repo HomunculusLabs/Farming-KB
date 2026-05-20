@@ -1,7 +1,8 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Appendix II, Bills/Foster)
-sources: []
+sources:
+  - "raw/papers/working-with-agar.md"
 tags:
 - laboratory-methods
 - culture-media

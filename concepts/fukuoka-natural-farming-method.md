@@ -57,7 +57,7 @@ His observation: "Rain does not fall from the heavens; it issues forth from the 
 - [[clay-ball-seed-pellets]]
 - [[no-pruning-fruit-trees]]
 - [[permaculture-design-process]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 
 ## Key Concepts and Applications
 

@@ -107,7 +107,6 @@ along the outside of the casing. Required by code in most jurisdictions.
 A sanitary well cap at the surface that prevents insects, animals, and
 surface water from entering the well. Must be vented but insect-proof.
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 

@@ -139,7 +139,6 @@ Bamboo flooring is commercially available as tongue-and-groove strips. It is har
 ### Scaffolding
 Bamboo scaffolding is still standard in many parts of Asia. Lightweight, strong, and quickly assembled. Use lashings rather than bolts for flexibility.
 
-
 ## See Also
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 - [[fukuoka-straw-mulch-system]]

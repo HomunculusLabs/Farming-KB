@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, ethics, principles, design, sustainability, ecology]
-sources: []
+sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 
 # Permaculture Ethics and Principles

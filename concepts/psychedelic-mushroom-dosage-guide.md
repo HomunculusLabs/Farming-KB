@@ -147,4 +147,3 @@ Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar t
 ## Tolerance
 
 Tolerance to psilocybin develops rapidly:
-

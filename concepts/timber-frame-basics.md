@@ -137,7 +137,6 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, cellulose, or mineral wool
 - **Structural insulated panels (SIPs):** Pre-fabricated foam-core panels attached to the outside of the frame
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Tools

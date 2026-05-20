@@ -11,7 +11,7 @@ sources: []
 ## Short Answer
 
 Caragana arborescens, commonly called the Siberian pea tree, is a hardy nitrogen-fixing shrub native to Siberia and parts of northern China.
-It is one of the most cold-tolerant [[nitrogen-fixing-trees-and-shrubs-for-permaculture]] available, thriving in USDA zones 2 through 7.
+It is one of the most cold-tolerant [[nitrogen-fixing-trees-and-shrubs]] available, thriving in USDA zones 2 through 7.
 Permaculture designers value caragana for its multiple functions: living fences, windbreaks, erosion control, wildlife habitat, bee forage, and even edible seeds for poultry.
 Despite its many benefits, caragana does require thoughtful placement due to its potential to spread in some regions.
 Its combination of extreme hardiness, nitrogen fixation, and multi-function yields makes it a staple species in cold-climate permaculture design.

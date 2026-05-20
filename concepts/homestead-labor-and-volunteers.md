@@ -134,7 +134,6 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Market sales: $15-20/hour
 - Include benefits discussion: flexibility, farm products, housing (if applicable)
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Labor Laws

@@ -147,4 +147,3 @@ Similar to simple layering but the tip of the branch is buried.
 5. Sever and transplant the following season
 
 **Best for**: blackberries, raspberries, trailing blackberry varieties
-

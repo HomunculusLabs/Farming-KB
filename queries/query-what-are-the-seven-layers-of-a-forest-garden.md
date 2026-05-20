@@ -37,7 +37,7 @@ Understory trees typically grow 3 to 8 meters tall and begin fruiting sooner tha
 ### The Shrub Layer
 
 The shrub layer includes berry bushes, currants, and other woody perennials that thrive in dappled light.
-Common choices include blackcurrants, gooseberries, blueberries, and nitrogen-fixing shrubs like [[nitrogen-fixing-trees-and-shrubs-for-permaculture|autumn olive and Siberian pea tree]].
+Common choices include blackcurrants, gooseberries, blueberries, and nitrogen-fixing shrubs like [[nitrogen-fixing-trees-and-shrubs|autumn olive and Siberian pea tree]].
 Shrubs fill the gap between small trees and herbaceous plants, capturing light that passes through both upper layers.
 Many shrubs in this layer serve multiple functions, providing food, wildlife habitat, and biomass for [[chop-and-drop|chop-and-drop mulching]].
 Spacing shrubs 1 to 2 meters apart allows air circulation while maximizing productive density.

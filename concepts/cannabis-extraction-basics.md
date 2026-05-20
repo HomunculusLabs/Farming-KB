@@ -147,4 +147,3 @@ Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). [[decarbox
 - CBDA → CBD at similar temperatures
 
 Decarboxylation is necessary for any extract intended for oral consumption (edibles, tinctures). See [[cannabis-edibles-guide]] and [[cannabis-tinctures-guide]].
-

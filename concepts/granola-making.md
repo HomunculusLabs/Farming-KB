@@ -138,7 +138,6 @@ Add after baking to prevent burning and drying out.
 - Let cool completely before breaking apart — warm granola falls apart
 - Add an egg white (beaten) to the wet ingredients for extra-binding clusters
 
-
 ## See Also
 - [[honey-oil]]
 - [[cannabis-honey-oil-production]]

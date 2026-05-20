@@ -65,7 +65,7 @@ A subtropical site may have severe frosts, cold winds, torrential summer rains, 
 
 - [[permaculture-temperate-design-strategies]] -- Strategies for cool and cold climates
 - [[permaculture-forestry-systems]] -- Tree systems across climate zones
-- [[permaculture-zone-and-sector-analysis]] -- Sector analysis for climate factors
+- [[zone-sector-analysis-guide]] -- Sector analysis for climate factors
 
 ## Practical Applications
 

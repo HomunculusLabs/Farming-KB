@@ -134,7 +134,6 @@ Even branched drain systems benefit from a simple surge tank:
 
 Without a surge tank, a 50-gallon bathtub draining in 5 minutes can overwhelm mulch basins designed for slow percolation.
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

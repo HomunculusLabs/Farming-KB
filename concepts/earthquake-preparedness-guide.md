@@ -141,7 +141,6 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 - Include extra trauma supplies: splints, tourniquet, hemostatic gauze
 - Prescription medications (30-day minimum supply)
 
-
 ## See Also
 - [[williams-pdc-disaster-preparedness]]
 ## During an Earthquake

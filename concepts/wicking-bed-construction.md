@@ -139,7 +139,6 @@ The growing medium sits on top of the wicking medium:
 - Tall plants on the north side (to avoid shading), short plants on the south
 - Consider [[companion-planting]] for pest management and efficient space use
 
-
 ## See Also
 - [[wicking-bed-materials-construction-variants]]
 - [[wicking-bed-crop-selection-seasonal-management]]

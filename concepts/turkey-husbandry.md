@@ -141,7 +141,6 @@ faster but cannot breed naturally.
   heavier breast meat).
 - Breast meat is 30-35% of carcass weight.
 
-
 ## See Also
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[quail-husbandry-detailed]]

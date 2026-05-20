@@ -140,7 +140,6 @@ or kill a queen they do not accept.
   7 days
 - Ensure the colony has adequate food during the introduction period
 
-
 ## See Also
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[quail-husbandry-detailed]]

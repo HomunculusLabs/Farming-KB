@@ -102,7 +102,6 @@ With good construction and packing, expect 50-75% ice retention:
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 
-
 ## See Also
 - [[pressure-canning-safety]]
 - [[comparison-root-cellaring-vs-dehydration]]
@@ -147,4 +146,3 @@ chill food stored in the structure.
 - Not cold enough for freezing — use in combination with ice from an
   [[root-cellaring-guide|ice house]] or root cellar for complete
   preservation
-

@@ -121,7 +121,6 @@ Rye flour presents unique challenges and rewards:
 - **Pumpernickel** — Very coarse rye meal. Used in traditional German pumpernickel bread, which is steamed and baked for many hours.
 - **Whole rye berries** — Can be soaked and added to bread for texture.
 
-
 ## See Also
 - [[honey-locust-pod-fodder-timber-production]]
 - [[honey-oil]]
@@ -147,4 +146,3 @@ In most US states, cottage food laws allow limited home baking sales without a c
 - State registration or permit (varies)
 
 ### Scaling to a Commercial Kitchen
-

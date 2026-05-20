@@ -147,4 +147,3 @@ Aflatoxins are difuranocoumarin compounds, with B1 being the most potent and pre
 - **DNA adduct formation**: The epoxide forms covalent bonds with DNA, primarily at the N7 position of guanine
 - **TP53 mutation**: Aflatoxin-DNA adducts cause a characteristic G-to-T transversion mutation in the TP53 tumor suppressor gene (codon 249), which is strongly associated with hepatocellular carcinoma
 - **Immunosuppression**: Aflatoxins suppress cell-mediated immunity and reduce antibody production
-

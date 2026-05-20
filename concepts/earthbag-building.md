@@ -139,7 +139,6 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 - Flood resistance: Bags can be submerged temporarily without structural failure
 - Lifespan: Properly plastered earthbag structures can last 100+ years
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Limitations

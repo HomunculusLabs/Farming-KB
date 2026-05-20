@@ -147,4 +147,3 @@ Similarities between Horus (Egypt), Mithra (Persia), Krishna (India), and Jesus 
 ## Critical Assessment
 
 Arthur's symbolic interpretations are creative and often visually compelling, but rely heavily on Allegro-style speculative philology and pareidolic pattern recognition. The same symbol (a cup, a serpent, wings) can have multiple independent origins. The lifecycle-to-mythology mapping is the strongest part of the argument — the mushroom's growth pattern genuinely does resemble many mythological narratives. However, the claim that ALL these symbols in ALL cultures refer to mushrooms is the weakest — it risks becoming an unfalsifiable "everything is mushrooms" framework. See [[mushroom-folklore-and-culture]] for additional folklore and [[siberian-shamanism-and-amanita]] for critical perspectives on ethnomycological claims.
-

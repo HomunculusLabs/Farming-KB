@@ -147,4 +147,3 @@ Continuous bloom from early spring through late fall is the goal. Plan insectary
 - Some warm winters allow late kale and brassica flowers to support bees
 
 ## Maintaining Insectary Plantings
-

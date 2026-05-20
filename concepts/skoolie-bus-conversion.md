@@ -38,7 +38,6 @@ A skoolie is a retired school bus converted into a mobile living space. Bus conv
 - Roof: Check for leaks around emergency hatches and roof panels
 - Title: Ensure clean title; some states have special requirements for converted buses
 
-
 ## See Also
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - [[winter-harvest-tools-equipment-suppliers]]

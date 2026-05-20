@@ -137,7 +137,6 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Monitor weather radio for storm updates
 - Keep your emergency supplies in your shelter room
 
-
 ## See Also
 - [[mollison-hurricane-and-cyclone-resilient-design]]
 ## Protecting Livestock and Animals

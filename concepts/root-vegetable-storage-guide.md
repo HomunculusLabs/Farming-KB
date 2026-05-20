@@ -140,7 +140,6 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - **Strong flavor** — More pronounced with age; young turnips are milder
 - **Rapid softening** — Turnips lose quality faster than carrots or beets
 
-
 ## See Also
 - [[root-cross-section-anatomy-and-mucilage]]
 ## Rutabaga Storage (Brassica napus)

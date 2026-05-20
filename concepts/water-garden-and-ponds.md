@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water-management, ecology, wildlife, plants, design, permaculture]
-sources: []
+sources:
+  - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
 ---
 
 # Water Gardens and Ponds
@@ -147,4 +148,3 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 - [[rain-garden-design]]
 - [[xeriscaping-guide]]
 - [[native-plant-gardening]]
-- [[green-roof-and-living-walls]]

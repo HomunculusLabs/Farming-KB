@@ -147,4 +147,3 @@ Hawthorn vinegar:
 - Cover with apple cider vinegar
 - Steep 4-6 weeks in a cool, dark place
 - Strain and bottle; use as a daily tonic (1 tablespoon in water)
-

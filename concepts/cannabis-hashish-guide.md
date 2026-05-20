@@ -129,7 +129,6 @@ One of the world's largest hash producers for centuries. Traditional sieving (dr
 
 Long tradition from indica landrace strains. Methods include finger hash (resin from workers' hands during harvest), hand rubbing, water extraction, and traditional pressing. Known for dark color, spicy aroma, and potent body effects.
 
-
 ## See Also
 - [[cannabis-grow-nutrient-deficiency-problem-solving]]
 ## Modern Hashish Products

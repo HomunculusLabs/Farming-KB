@@ -139,7 +139,6 @@ Traditional serving:
 - Serve over steamed rice (natto gohan)
 - Add raw egg (tamago kake gohan style) for extra richness
 
-
 ## See Also
 - [[kimchi-making]]
 - [[bacillus-subtilis]]

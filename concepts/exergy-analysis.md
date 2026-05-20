@@ -139,4 +139,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[chemical-analysis-psilocybin-mushrooms]]
 - [[fungal-molecular-community-analysis]]
 - [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]

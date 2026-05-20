@@ -120,7 +120,6 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Goslings can go outside on grass at 2-3 weeks old (weather permitting)
 - Do not let goslings swim until they have proper feathers (6-8 weeks) -- they lack waterproofing oil and can drown or chill
 
-
 ## See Also
 - [[goose-keeping-and-husbandry-guide]]
 

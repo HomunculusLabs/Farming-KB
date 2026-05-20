@@ -36,7 +36,7 @@ This may be a joyful experience or a demonic one, involving the loss of
 the trusted ego. The new ego feels linked in bliss with outside objects
 in a special way and also with other human beings.
 
-This state of [[satori]] — a reality illuminated by transcendental
+This state of [[cannabis-strain-satori]] — a reality illuminated by transcendental
 awareness in which creation and ego, sender and receiver, are One.
 
 ## Hallucinogens Versus Tranquilizers

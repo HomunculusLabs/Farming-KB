@@ -147,4 +147,3 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 - [[liquid-culture]] and submerged fermentation methods are being developed for mycelium-based products.
 
 ## Safety Considerations
-

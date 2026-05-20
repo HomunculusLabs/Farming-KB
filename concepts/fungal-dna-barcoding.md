@@ -134,7 +134,6 @@ The most commonly used primers for fungal ITS amplification:
 
 Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
-
 ## See Also
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
@@ -147,4 +146,3 @@ Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 - Some observations linked to voucher specimens and sequences
 
 ### Sequence-Verified Citizen Science
-

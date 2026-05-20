@@ -146,4 +146,3 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 **Habitat**: Woods, summer and autumn.
 
 **Notes**: Acrid substance dispersed in cooking, but best avoided.
-
