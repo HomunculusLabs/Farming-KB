@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Baudoin, J.P. et al. (1997). "Bambara Groundnut (Vigna subterranea)." In: neglected crops: 1492 from a different perspective, FAO Plant Production and Protection Series No. 26.
-  - Linnemann, A.R. & Azam-Ali, S.N. (1993). "Bambara groundnut (Vigna subterranea (L.) Verdc.)." In: Underutilized Crops: Pulses and Vegetables, Chapman & Hall.
-  - Massawe, F.J. et al. (2016). "Advancing bambara groundnut as a climate-resilient crop for food security." Frontiers in Plant Science, 7, 744.
   - Ntundunwene, M.E. et al. (2020). "The nutritional and health benefits of bambara groundnut." Journal of Food Science and Technology, 57, 3798–3807.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Royal Botanic Gardens Kew. "Cerastium tomentosum." Plants of the World Online. https://powo.science.kew.org/
-  - Brickell C., et al. (2016). RHS A-Z Encyclopedia of Garden Plants. DK Publishing.
   - Morton J.K. (2005). "Caryophyllaceae." In: Flora dighton-fungal-drought-tolerance-plant-water-relations and ability to thrive in poor, well-drained soils.
 ---
 

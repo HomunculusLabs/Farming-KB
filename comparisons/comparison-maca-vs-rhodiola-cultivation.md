@@ -12,7 +12,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Gonzales GF et al. "Maca (lepidium-meyenii-entity Walp.), a nutritious Andean crop." Natural Product Communications, 2019.
   - Panossian A, Wikman G. "Evidence-based efficacy of chiric-caspi-brunfelsia-south-american-hallucinogen herbs cat's claw (uncaria-tomentosa) and maca (fukuoka-natural-farming-temperate-climates, maca must be planted in late summer or autumn, overwintered as a rosette, and harvested the following summer. It is not viable as a warm-season crop.
 ---
 

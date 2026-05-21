@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating cannabinoids and [[terpenes]] from the cannabis plant. They range from relatively simple mechanical preparations (kief, dry sift) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.
+Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, dry sift) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.
 
 ## Mechanical / Solventless Concentrates
 
@@ -18,7 +18,7 @@ Cannabis concentrates are products made by extracting and concentrating cannabin
 Kief is the collection of trichome heads that have been separated from cannabis flower using a mesh screen or grinder with a kief catcher.
 
 **Production**:
-- Grinders with 3-4 piece chambers have a bottom screen that catches fallen [[trichomes]]
+- Grinders with 3-4 piece chambers have a bottom screen that catches fallen trichomes
 - Pollen boxes use multiple mesh screens to separate trichomes by size
 - Dry sift screens (various micron sizes) can be used for larger-scale production
 
@@ -75,16 +75,13 @@ Rosin is produced by applying heat and pressure to cannabis flower or hash using
 - **Hash**: 160-200 F, 2-10 tons, 30-120 seconds
 - **Live hash**: 150-180 F, 3-15 tons, 30-90 seconds
 
-## See Also
-- [[cannabis-metabolic-syndrome-research]]
-- [[cannabis-reefers-and-tincture-preparation]]
 ## Solvent-Based Concentrates
 
 ### Shatter
 
 A hard, glass-like concentrate with a translucent amber appearance.
 
-**Production**: BHO or [[ethanol]] extraction, followed by vacuum purge at low temperatures. The transparency comes from a stable molecular structure achieved through controlled purging.
+**Production**: BHO or ethanol extraction, followed by vacuum purge at low temperatures. The transparency comes from a stable molecular structure achieved through controlled purging.
 
 **Characteristics**:
 - Brittle, snaps like glass
@@ -147,3 +144,11 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 
 **Characteristics**:
 - Clear, thick, honey-like liquid
+- Potency: 85-99% THC or CBD
+- Nearly tasteless and odorless (terpenes removed)
+- Base ingredient for vape cartridges, edibles, and tinctures
+- Terpenes are often re-added (botanical or cannabis-derived) for flavor
+## See Also
+
+- [[cannabis-concentrates-and-extracts]]
+- [[query-what-are-cannabis-concentrates-and-how-are-they-made]]

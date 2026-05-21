@@ -10,10 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hill, K.D. (1998–). "Cycas revoluta." The Cycad Pages. Royal Botanic Gardens Sydney.
-  - Jones, D.L. (2002). Cycads of the World: Ancient Plants in Today's Landscape. 2nd ed. Reed New Holland.
   - Whitelock, L.M. (2002). The Cycads. Timber Press.
-  - Norstog, K.J. & Nicholls, T.J. (1997). The Biology of the Cycads. Cornell University Press.
   - Chen, C.J. et al. (2017). "Cycad distribution and conservation in China." Botanical Review 83(2): 183–218.
 ---
 

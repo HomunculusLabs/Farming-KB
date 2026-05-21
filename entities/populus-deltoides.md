@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
-  - Dickmann, D.I. & Kuzovkina, J. (2014). "Poplars and Willows of the World." FAO.
-  - Stettler, R.F. et al. (1996). Biology of *Populus*. NRC Research Press.
   - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service.
 ---
 

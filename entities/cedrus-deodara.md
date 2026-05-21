@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
-  - Rushforth, K. (1987). "Conifers." Christopher Helm.
-  - Singh, R. et al. (2019). "Cedrus deodara: A Review of Traditional Uses, Phytochemistry, and Pharmacology." Journal of Ethnopharmacology.
   - Gymnosperm Database (2024). "Cedrus deodara." conifers.org.
 ---
 

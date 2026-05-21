@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Yuan, Z. et al. (2017). "Chemical constituents and bioactivities of Glehnia littoralis." Chemistry & Biodiversity, 14(3), e1600366.
-  - Wang, H. et al. (2020). "Pharmacological effects of Glehnia littoralis and its active compounds." Evidence-Based Complementary and Alternative Medicine, 2020, 7268514.
-  - Matsuda, H. et al. (2000). "Immunomodulatory activities of polysaccharides from Glehnia littoralis root." Biological & Pharmaceutical Bulletin, 23(8), 940-943.
-  - Kim, H.J. et al. (2008). "Antioxidant and hepatoprotective effects of Glehnia littoralis extract." Journal of Medicinal Food, 11(3), 488-494.
   - Lee, S.H. et al. (2019). "Coumarins from the roots of Glehnia littoralis and their anti-inflammatory activity." Natural Product Sciences, 25(4), 284-289.
 ---
 

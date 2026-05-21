@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Huffard, C.L. (2007). \"Interpreting body-posture and color changes in octopuses.\" Journal of the Marine Biological Association, 87, 1401-1407."
-  - "Mather, J.A. et al. (2010). Cephalopod Behavior. Cambridge University Press."
   - "Boyle, P.R. & Rodhouse, P. (2005). Cephalopods: Ecology and Fisheries. Blackwell Publishing."
 ---
 

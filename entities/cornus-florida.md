@@ -11,7 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Futch, S.H. & Preece, J.E. (2009). "Morphological variation in flowering dogwood (*Cornus florida*) across its native range." HortScience 44(5): 1345–1349.
   - Haddock, R.C., Pendleton, R.L., & Haddock, P.G. (2006). "polypore-fungi-eastern-north-america America. It is one of the most celebrated ornamental trees in temperate landscapes, prized for its large white bracts, red autumn foliage, and bright red drupes.
 ---
 

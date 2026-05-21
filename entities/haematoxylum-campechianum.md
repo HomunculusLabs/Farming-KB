@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Humphreys, J. (1916). "The History of Logwood." Antiquarian, 13, 134–144.
-  - Calderón, G.S. et al. (2003). "chemical-composition-of-hallucinogens and Antibacterial Activity of Haematoxylum campechianum Heartwood Extracts." Journal of Ethnopharmacology, 88(2-3), 173–176.
-  - Pennington, T.D. & Sarukhán, J. (2005). *Árboles Tropicales de México.* UNAM, Mexico City.
-  - Francis, J.K. (2004). "Haematoxylum campechianum L." USDA Forest Service, SO-ITF-SM-57.
   - Cook, B.F. (1949). "Logwood: History, Uses, and Trade." Economic Botany, 3(4), 383–397.---
 ---
 

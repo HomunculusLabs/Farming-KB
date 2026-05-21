@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Rashid, M.A. et al. (2021). \"tompkins-mimosa-pudica-sensitive-plant-experiments L.: A review of phytochemistry and pharmacology.\" Journal of Ethnopharmacology, 275, 114170."
-  - "Bremekamp, C.E.B. (1934). \"A monograph of the genus Mimosa.\" Recueil des Travaux Botaniques Néerlandais, 31, 1-131."
-  - "Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press."
-  - "Holm, L. et al. (1979). A Geographical Atlas of World Weeds. John Wiley & Sons."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:576945-1"
 ---
 

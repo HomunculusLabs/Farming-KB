@@ -18,7 +18,7 @@ Potassium (K) is unique among essential nutrients: it is not a constituent of an
 
 ### Stomatal Regulation
 
-Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through [[transpiration]]. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
+Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
 
 ### Enzyme Activation
 
@@ -64,7 +64,7 @@ Aside from oxygen, potassium uptake is the nutrient most affected by compacted s
 | Wood ashes | 0-1-3 | Fast-acting, raises pH |
 | Sulfate of potash | 0-0-50 | Highly concentrated, quick release |
 | Kelp meal | 1-0.5-2 | Also provides micronutrients and hormones |
-| [[alfalfa-meal]] | 2-1-3 | Good all-purpose, also feeds soil biology |
+| Alfalfa meal | 2-1-3 | Good all-purpose, also feeds soil biology |
 
 ## Key Points
 

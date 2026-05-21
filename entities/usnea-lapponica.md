@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clerc, P. (1987). "Systematics of the Usnea barbata-type in Europe." Bibliotheca Lichenologica, 25, 1–158.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Halonen, P. et al. (1999). "The family Usneaceae in Finland." Acta Botanica Fennica, 162, 1–60.
   - Goward, T. (1999). "Lichens of British Columbia." Royal BC Museum.
 ---
 

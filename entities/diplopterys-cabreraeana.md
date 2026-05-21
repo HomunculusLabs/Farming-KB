@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gates, B. (1982). "The Generic Name Diplopterys (Malpighiaceae)." Brittonia, 34(2), 222-224.
-  - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Product Reports.
-  - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods." Healing Arts Press.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Griffith, M.P. (2004). "The origins of an important cactus crop, Opuntia ficus-indica." Economic Botany, 58(S1), S81-S96.
-  - Nobel, P.S. (2002). Cactus Ecology. Cambridge University Press.
-  - Inglese, P. et al. (2002). "Cactus Pear: An Important Fruit Crop for Arid and Semi-Arid Regions." Acta Horticulturae, 581, 13-20.
-  - Feugang, J.M. et al. (2006). "Nutritional and medicinal use of cactus pear." Journal of Professional Association for Cactus Development, 8, 1-24.
   - Reyes-Agüero, J.A. et al. (2005). "Variation in Opuntia ficus-indica seed banks." Journal of Arid Environments, 63(1), 192-201.
 ---
 

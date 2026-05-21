@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hård af Segerstad, L. et al. (1995). "Contact allergy to primin and its significance in primula dermatitis." Contact Dermatitis, 32(4), 202–206.
-  - Mitchell, J. & Rook, A. (1979). "Botanical Dermatology." Greengrass.
   - Valder, P. (2001). "The Garden Plants of China." Timber Press.
 ---
 

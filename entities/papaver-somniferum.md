@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Booth, M. (1999). Opium: A History. St. Martin's Griffin.
   - UNODC World Drug Report 2025
 ---# Papaver somniferum (Opium Poppy)
 

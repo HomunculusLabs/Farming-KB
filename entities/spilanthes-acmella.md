@@ -15,7 +15,6 @@ updated: 2026-04-28
 sources:
  — spilanthol pharmacology and immunomodulatory studies
  — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
-  - Pandey, S. et al. "Spilanthes acmella: A Review on Its Ethnobotany, Phytochemistry, and Pharmacological Potential." Journal of Ethnopharmacology, 2018.
   - Prakash, O. et al. "Acmella oleracea: A Comprehensive Review on Its Phytochemistry and Pharmacological Properties." Phytotherapy Research, 2021.
 ---# Spilanthes acmella
 

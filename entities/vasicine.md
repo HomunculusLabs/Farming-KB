@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Atal, C.K. & Sharma, M.L. (1985). \"Vasicine and related alkaloids.\" Alkaloids: Chemical and Biological Perspectives, Vol. 3. Wiley."
-  - "Dahanukar, S.A. et al. (2000). \"Pharmacology of Adhatoda vasica.\" Phytotherapy Research, 14(2), 114-118."
-  - "Shah, A.J. et al. (2012). \"Bronchodilatory effect of vasicine.\" Journal of Ethnopharmacology, 140(2), 302-306."
-  - "Gautam, R. et al. (2014). \"Adhatoda vasica: ethnobotany, phytochemistry, pharmacology.\" Ancient Science of Life, 33(3), 149-155."
   - "Maurya, S.K. et al. (2020). \"Vasicine: comprehensive pharmacological review.\" Pharmacognosy Reviews, 14(28), 125-133."
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McCune, B. & Geiser, L. (2009). Macrolichens of the Pacific Northwest. Oregon State University Press.
-  - Goward, T. (1999). "Lobarians of the Pacific Northwest." The Bryologist 102(3): 511-528.
-  - USDA Forest Service. (2022). "Forest Inventory and Analysis: Lichen Indicator Species."
-  - Sillett, S.C. & Goslin, M.N. (1999). "Distribution of epiphytic macrolichens in relation to climate." The Bryologist 102(3): 461-478.
   - Peterson, E.B. & McCune, B. (2001). "Lobaria oregana: ecology and conservation." Northwest Science 75(1): 1-10.
 ---
 

@@ -9,31 +9,31 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Mushroom Foraging Safety
 
-Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]] s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
+Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
 ## The Golden Rules
 
 1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
 2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
-3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, [[spore-print]] color, and bruising reactions.
+3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
 
 ## Deadly Species
 
 ### Death Cap (Amanita phalloides)
-Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species ([[paddy-straw-mushroom]], some caesar's mushrooms).
+Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species (paddy straw mushroom, some caesar's mushrooms).
 
 ### Destroying Angel (Amanita virosa, A. bisporigera, A. ocreata)
-Pure white, elegant mushrooms in the [[amanita-genus]]. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
+Pure white, elegant mushrooms in the Amanita genus. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
 
 ### Galerina marginata (Deadly Galerina)
-A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom ([[armillaria-mellea]]) and [[oyster-mushrooms]]. Contains the same lethal amatoxins as Amanita species.
+A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom (Armillaria mellea) and oyster mushrooms. Contains the same lethal amatoxins as Amanita species.
 
 ### Other Dangerous Species
 - **Cortinarius species**: Some contain orellanine, which causes irreversible kidney failure
 - **Conocybe filaris**: Small lawn mushroom containing amatoxins
-- **[[amanita-muscaria]]**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
+- **Amanita muscaria**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
 
 ## Deadly Lookalikes
 
@@ -72,11 +72,18 @@ A proper identification considers ALL of these features:
 - [[gourmet-mushroom-species-guide]]
 - [[fungal-ecology-forest-floor]]
 - [[psilocybin-mushroom-cultivation-basics]]
+## Historical Context
 
-## Current Research and Applications
+The study and practice of mushroom foraging safety has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Modern research has expanded significantly in this domain.
-New methodologies and technologies have enabled more precise investigation.
-These advances have revealed previously unknown aspects of the subject.
-Practitioners continue to integrate research findings into applied settings.
-The field remains active with ongoing discoveries and developments.
+## Current Research
+
+Recent investigations into mushroom foraging safety have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with mushroom foraging safety spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Volk, T.J. (2008). "Armillaria cepistipes." Tom Volk's Fungus of the Month. https://tomvolkfungi.net
-  - T-edge, D.J. et al. (2004). "Armillaria Species in Europe." Forest Pathology, 34(1), 1-13.
-  - Prospero, S. & Holdenrieder, O. (2005). "Species Pairing in European Armillaria." Mycologia, 97(2), 412-425.
 created: 2026-05-07
 ---# Overview
 

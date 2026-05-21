@@ -134,17 +134,17 @@ Stamets emphasizes that fungi are primary soil builders:
 | Fire | Kills surface fungi; some species survive as sclerotia | 1-10 years |
 | Pesticides | Reduces fungal diversity, especially beneficial species | Variable |
 | Compaction | Reduces air spaces, limits hyphal growth | 1-5 years |
-## See Also
+| Chemical fertilization | Shifts balance from fungal to bacterial dominance | 1-3 years |
 
-- [[fungal-ecology]] for the broad overview of fungal roles in ecosystems
-- [[fungal-decomposition]] for detailed white/brown rot chemistry
-- [[fungal-ecosystem-roles]] for water transport, erosion, fire ecology
-- [[soil-food-web-nutrient-cycling]] for the complete soil biology picture
-- [[soil-food-web-nutrient-cycling]] for nutrient cycling details
-- [[mycorrhizal-fungi]] for plant-fungal partnerships
-- [[mycoforestry-forest-restoration]] for forest applications
-- [[glomalin-and-soil-carbon]] for the carbon sequestration glycoprotein
+### Fungal Recovery Strategies
 
-## Related
+- **Spore bank**: Many fungi persist as spores in soil, germinating when conditions improve
+- **Sclerotia**: Hardened fungal masses (e.g., Morchella sclerotia) survive adverse conditions
+- **Mycorrhizal legacy**: Some mycorrhizal connections survive disturbance through surviving roots or root fragments
+- **Pioneer species**: Fast-colonizing fungi (many saprophytes) quickly recolonize disturbed areas
+- **Inoculation**: Active mycorrhizal inoculation can dramatically accelerate recovery (see [[mycoforestry-forest-restoration]])
 
-- [[fungal-conservation-strategies]]
+## Fungal Bacterial Partnerships
+
+Stamets emphasizes the interdependence of fungi and bacteria:
+

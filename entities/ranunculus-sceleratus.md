@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Whittemore AT (1997). "Ranunculus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3.
-  - Cook CDK (1966). "A monographic study of Ranunculus subgenus Batrachium." Mitteilungen der Botanischen Staatssammlung München 6: 47–107.
   - Turner NJ, von Aderkas P (2009). "The oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere.
 ---
 

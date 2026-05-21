@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - McEwen B.S. et al. (2010). "Tianeptine: a review of its mechanism of action." Clinical Neuropharmacology, 33(5), 207-214.
-  - Wagstaff A.J., Ormrod D., Spencer C.M. (2001). "Tianeptine: a review of its use in depressive disorders." CNS Drugs, 15(3), 231-259.
-  - Gassaway M.M. et al. (2014). "The atypical antidepressant tianeptine: a review." Pharmacology & Therapeutics, 145, 53-62.
   - Wikipedia contributors. "Tianeptine." Wikipedia, The Free Encyclopedia.
 ---
 

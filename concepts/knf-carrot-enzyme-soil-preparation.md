@@ -89,7 +89,7 @@ to inform current best practices and research directions.
 - [[jadam-leaf-mold-soil-method]]
 - [[det]]
 - [[knf-imo-four-soil-foundation-and-field-application]]
-- [[knf-yeast-preparation-detailed]]
+- [[knf-yeast-preparation]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

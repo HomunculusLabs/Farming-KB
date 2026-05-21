@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Morgan, K.C. et al. (1980). \"Experiments in the cultivation of Palmaria palmata.\" Aquaculture, 22, 189-196."
-  - "Pereira, L. (2016). \"Edible Seaweeds of the World.\" CRC Press."
-  - "Gupta, S. and Abu-Ghannam, N. (2011). \"Bioactive properties of Porphyra.\" Trends in Food Science, 22(6), 315-326."
-  - "Mouritsen, O.G. (2012). \"Seaweeds: Edible, Available and Sustainable.\" University of Chicago Press."
   - "Nielsen, M.M. et al. (2016). \"Palmaria palmata as a protein source.\" Journal of Applied Phycology, 28, 1301-1311."
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Liu, T.-S. (1971). "A Monograph of the Genus Abies." National Taiwan University.
-  - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
   - IUCN Red List (2023). "Abies nordmanniana."
 ---
 

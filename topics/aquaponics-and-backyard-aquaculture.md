@@ -10,7 +10,6 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - aquaponics
   - "raw/papers/holzer-desert-or-paradise.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 related_concepts:
   - aquaponics
   - aquaponics-guide

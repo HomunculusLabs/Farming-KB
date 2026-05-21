@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Siemonsma, J.S. & Piluek, K. (1993). "Plant Resources of South-East Asia No. 8: Vegetables." PROSEA Foundation, Bogor.
-  - Ndunguru, J. & Rajabu, A. (2004). "Effect of planting date on okra yield." African Crop Science Journal, 12(3), 187-195.
-  - Adelakun, O.E. et al. (2009). "Nutritional and hypocholesterolemic properties of Abelmoschus esculentus." Journal of Food Science and Technology, 46(5), 416-422.
-  - Gemede, H.F. et al. (2015). "Nutritional value and health benefits of okra." International Journal of Food Properties, 18(8), 1760-1771.
   - Ndjouenkeu, R. et al. (1996). "Rheology of okra mucilage." Journal of Food Science, 61(4), 785-788.
 ---
 
@@ -80,3 +76,5 @@ Okra's rapid growth and [[dighton-fungal-drought-tolerance-plant-water-relations
 The plant's deep taproot (up to 2 meters) improves soil structure and accesses nutrients unavailable to shallow-rooted species. Root exudates may contribute to beneficial [[cannabis-rhizosphere-microbial-communities]] in the rhizosphere.
 
 Okra serves as a living mulch in tropical garden systems, with the dense foliage suppressing weed growth between rows. The high [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], supporting [[beneficial-insects-and-biological-pest-control]] in diversified farming systems.
+Further research into abelmoschus esculentus continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind abelmoschus esculentus provides a foundation for both practical application and continued scientific inquiry.

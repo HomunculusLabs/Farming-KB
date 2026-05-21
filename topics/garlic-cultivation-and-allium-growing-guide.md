@@ -9,7 +9,6 @@ sources:
   - concepts/onion-growing-guide.md
   - concepts/alliums-growing-guide.md
   - concepts/solomon-growing-garlic-onions-leeks.md
-  - concepts/hamilton-bulb-vegetables-onion-family-organic.md
   - concepts/hamilton-garlic-growing-organic.md
   - concepts/growing-alliums-organically.md
   - concepts/hamilton-leek-growing-organic.md

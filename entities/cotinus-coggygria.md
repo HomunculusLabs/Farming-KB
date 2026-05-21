@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Miller, A.G. & Morris, M. (1988). "Plants of Dhofar, the southern region of Oman: traditional, economic and medicinal uses." Royal Botanic Gardens, Kew.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Royal Horticultural Society. "Cotinus coggygria." RHS Plant Finder.
   - Christenhusz, M.J.M. & Byng, J.W. (2016). "The number of known plants species in the world and its annual increase." Phytotaxa, 261(3), 201-217.
 ---
 

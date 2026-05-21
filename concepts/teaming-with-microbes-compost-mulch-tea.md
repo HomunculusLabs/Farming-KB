@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, microbiology, composting]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 

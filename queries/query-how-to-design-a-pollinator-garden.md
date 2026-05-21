@@ -5,7 +5,6 @@ tags: [query, pollinators, gardening, bees, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 type: query
 ---
 

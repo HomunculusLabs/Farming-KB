@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bornman, C.H. (1972). "Welwitschia mirabilis: Morphology, Ecology, and Evolution." Transactions of the Royal Society of South Africa, 40(3), 209-235.
   - Henschel, J.R. & Seely, M.K. (2000). "Long-term data from the central Namib Desert." Journal of aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham are adapted for fog absorption. Unlike most plants, which close stomata during drought, Welwitschia opens its stomata at night and early morning to capture fog-derived moisture.
 ---
 

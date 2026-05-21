@@ -124,7 +124,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 ## Related
 - [[fungal-biodiversity-soil-habitats]] — for soil fungal communities
 - [[fungal-biodiversity-tropical-ecosystems]] — for comparison with tropical diversity
-- [[cotter-mycoremediation-overview]] — for fungal remediation applications
+- [[mycoremediation-overview]] — for fungal remediation applications
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
 - [[fungal-biodiversity]]

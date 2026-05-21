@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A. (1978). "Campanula." In: Flora of the USSR, Vol. 24. Moscow/Leningrad.
-  - Kolakovsky A. (1985). "Flora of Abkhazia." Tbilisi: Metsniereba.
-  - Royal Botanic Gardens Kew (2024). "Plants of the World Online: Campanula bellidifolia." powo.science.kew.org
   - Shetekauri S. (2017). "Endemic Plants of the Caucasus." Tbilisi University Press.
 ---
 

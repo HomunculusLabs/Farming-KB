@@ -120,13 +120,6 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Goslings can go outside on grass at 2-3 weeks old (weather permitting)
 - Do not let goslings swim until they have proper feathers (6-8 weeks) -- they lack waterproofing oil and can drown or chill
 
-## See Also
-- [[goose-keeping-and-husbandry-guide]]
-
-## See Also
-- [[homestead-poultry-health]]
-- [[quail-husbandry-detailed]]
-- [[rabbit-husbandry]]
 ## Growth and Production
 
 | Age | Weight | Notes |
@@ -147,3 +140,13 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Egg weight: 5-7 ounces (very large)
 - Geese lay in nests early in the morning
 - Collect eggs daily; geese are not reliable setters unless broody
+
+### Meat Production
+
+- Processing age: 12-16 weeks for tender meat, 20+ weeks for roasting birds
+- Dressing percentage: approximately 70-75% of live weight
+- Goose fat is highly valued for cooking (renders easily from skin and fat deposits)
+- See [[animal-harvest-and-processing]] for detailed processing
+## See Also
+
+- [[goose-keeping-and-husbandry-guide]]

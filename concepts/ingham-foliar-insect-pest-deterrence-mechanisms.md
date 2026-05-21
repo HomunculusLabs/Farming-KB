@@ -4,8 +4,6 @@ tags: [pest-management, compost-tea, foliar, insects, ingham, biological-control
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 created: 2026-04-28
 ---

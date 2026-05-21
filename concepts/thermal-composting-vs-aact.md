@@ -9,7 +9,7 @@ sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-c
 
 # Thermal Composting vs Actively Aerated Compost Tea
 
-Two approaches to [[building-soil]] biology: thermal [[composting]] creates a concentrated biological inoculant in solid form, while [[actively-aerated-compost-tea]] (AAct) multiplies that biology into a liquid form that can be applied to large areas at low cost.
+Two approaches to building soil biology: thermal composting creates a concentrated biological inoculant in solid form, while actively aerated compost tea (AAct) multiplies that biology into a liquid form that can be applied to large areas at low cost.
 
 ## Thermal Composting
 
@@ -37,7 +37,7 @@ Two approaches to [[building-soil]] biology: thermal [[composting]] creates a co
 
 ### Process
 - Start with a small amount of high-quality finished compost (biological inoculant)
-- Add microbial food sources (molasses, kelp, [[fish-hydrolysate]])
+- Add microbial food sources (molasses, kelp, fish hydrolysate)
 - Extract and multiply the biology in aerated water for 24-36 hours
 - Apply immediately as a soil drench or foliar spray
 
@@ -57,7 +57,7 @@ Two approaches to [[building-soil]] biology: thermal [[composting]] creates a co
 
 ## Comparison
 
-| Factor | [[thermal-compost]] | AAct |
+| Factor | Thermal Compost | AAct |
 |---|---|---|
 | Time to produce | 3-12 months | 24-36 hours |
 | Labor per acre | High (tons to spread) | Low (spray 20 gal/acre) |

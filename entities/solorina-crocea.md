@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Thomson, J.W. (1984). "American Arctic Lichens: 1. The Macrolichens." Columbia University Press.
-  - Vitikainen, O. (1994). "Taxonomic revision of Solorina (Peltigeraceae)." Annales Botanici Fennici 31: 253-262.
-  - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer.
   - Nash, T.H. III et al. (2002). Lichen Biology. Cambridge University Press.
 ---
 

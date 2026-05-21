@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - william-ozier-williams-pdc_-a-permaculture-design-cours.md
 type: concept
 created: 2026-04-28
 ---

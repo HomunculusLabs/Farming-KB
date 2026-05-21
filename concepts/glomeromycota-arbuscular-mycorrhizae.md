@@ -3,7 +3,7 @@ title: Glomeromycota and Arbuscular Mycorrhizae
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mycorrhizae, mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
+tags: [mycorrhizae, fungi, mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See fungal-symbiosis-types for the broader context of [[fungal-symbiosis-types]], and mycorrhizal-inoculation for practical application methods.
+The phylum Glomeromycota comprises the arbuscular mycorrhizal fungi (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
 
 ## Phylum Glomeromycota
 
@@ -27,7 +27,7 @@ The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), w
 
 - **Obligate symbionts**: AMF cannot complete their life cycle without a plant host. They cannot be grown in pure culture without plant roots.
 - **Asexual reproduction**: AMF reproduce primarily through large multinucleate spores (200-1000 um diameter). No confirmed sexual cycle has been observed, although genetic evidence suggests recombination events occur.
-- **[[coenocytic-hyphae]]**: Hyphae lack regular septa (cross-walls), with cytoplasm containing many nuclei flowing freely.
+- **Coenocytic hyphae**: Hyphae lack regular septa (cross-walls), with cytoplasm containing many nuclei flowing freely.
 - **Ancient lineage**: Fossil evidence (Ordovician, ~460 MYA) shows AMF-like structures in some of the earliest land plants.
 - **Multinuclear genetics**: Each spore can contain hundreds to thousands of nuclei, making genetics unusually complex.
 
@@ -36,14 +36,14 @@ The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), w
 ### Rhizophagus (formerly Glomus intraradices group)
 
 - One of the most commercially important AMF genera
-- [[rhizophagus-irregularis]] (syn. [[glomus-intraradices]]) is the most widely used species in commercial inoculants
+- Rhizophagus irregularis (syn. Glomus intraradices) is the most widely used species in commercial inoculants
 - Colonizes a very broad range of host plants
 - Produces abundant intraradical vesicles and arbuscules
 - Spores are small (100-200 um), yellow-brown
 
 ### Funneliformis (formerly Glomus mosseae group)
 
-- [[funneliformis-mosseae]] is a cosmopolitan species found in agricultural soils worldwide
+- Funneliformis mosseae is a cosmopolitan species found in agricultural soils worldwide
 - Large, distinctive spores (200-400 um) with a layered wall structure
 - Common in disturbed and agricultural soils
 - Good colonizer of many crop species
@@ -75,7 +75,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Phase 1: Pre-Symbiotic (Spore Germination and Hyphal Growth)
 
-1. AMF spores germinate in response to [[root-exudates]] (strigolactones, flavonoids, CO2)
+1. AMF spores germinate in response to root exudates (strigolactones, flavonoids, CO2)
 2. Germinating hyphae grow through the soil, foraging for host roots
 3. Hyphal branching is stimulated by host root signals
 4. Hyphal growth can continue for weeks without a host, but the fungus cannot complete its life cycle
@@ -89,7 +89,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Phase 3: Root Entry and Intraradical Colonization
 
-1. Hypha penetrates between epidermal membrane-transport-of-nutrients-into-plant-cells (intercellular) or through cells (intracellular)
+1. Hypha penetrates between epidermal cells (intercellular) or through cells (intracellular)
 2. Hyphae spread through the root cortex, both intercellularly and intracellularly
 3. The plant maintains a modified plasmamembrane (periarbuscular membrane) around intracellular hyphae
 
@@ -119,7 +119,7 @@ The AMF colonization of plant roots follows a well-characterized sequence:
 
 ### Plant to Fungus (Carbon)
 
-- The plant provides lipids (stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking) and carbohydrates to the fungus
+- The plant provides lipids (fatty acids) and carbohydrates to the fungus
 - AMF are obligate biotrophs — they depend entirely on plant-derived carbon
 - Lipids are the primary carbon currency (up to 20% of plant-fixed carbon may be transferred to AMF)
 - The plant actively synthesizes fatty acids (palmitic acid) for export to the fungus
@@ -143,7 +143,11 @@ The plant regulates the symbiosis based on phosphorus status: low P promotes AMF
 
 The most well-documented benefit of AMF colonization:
 - AMF hyphae access soil volumes that roots cannot reach
+- Phosphate diffuses slowly in soil; AMF hyphae extend the depletion zone
+- AMF can access organic phosphorus sources through phosphatase secretion
+- Typical P uptake increase: 30-80% in low-P soils
+
+### Drought Tolerance
 ## See Also
-- [[arbuscular-mycorrhizae]]
-- [[mycorrhizal-fungi-and-fungal-symbiosis]]
-- [[arbuscular-mycorrhizae-nematode-suppression]]
+
+- [[arbuscular-mycorrhizae-pathogen-protection]]

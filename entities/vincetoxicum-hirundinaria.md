@@ -8,10 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hegi, G. (1964). "Illustrierte Flora von Mitteleuropa." Vol. VI. Carl Hanser Verlag.
-  - Tutin, T.G. et al. (1972). "Flora Europaea." Vol. 3. Cambridge University Press.
-  - Pascual, M.E. et al. (2002). "Xanthohumol: a review." Planta Medica, 68(2), 108-114.
-  - Stepanovic, V. et al. (2021). "Phenolic profiles of Vincetoxicum species." Chemistry & Biodiversity, 18(5), e2100234.
   - Neuwinger, H.D. (2000). "African Traditional Medicine." Medpharm Scientific Publishers.
 ---
 

@@ -21,10 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moore, M. (1979). Medicinal Plants of the Mountain West. Museum of New Mexico Press.
-  - Timmermann, B.N. et al. (1984). "Eriodictyol and Flavonoid Chemistry of Eriodictyon." Journal of Natural Products, 47(4), 696-697.
-  - Lozoya, X. et al. (1994). "Evaluation of the Bronchodilator Effect of Eriodictyon californicum." Planta Medica, 60(5), 475-477.
-  - Dearing, M.D. et al. (2011). "Plant Secondary Compounds as Diuretics: A Common but Unappreciated Function." Oecologia, 166(2), 481-491.
   - Kobsa, M. (2010). "Eriodictyon: California's Sacred Herb." Economic Botany, 64(1), 18-30.
 ---
 

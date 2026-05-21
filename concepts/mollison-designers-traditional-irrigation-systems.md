@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---# Traditional [[water-management]] technologies ever
 devised. Originating in ancient Persia (modern Iran) over 3,000 years ago,

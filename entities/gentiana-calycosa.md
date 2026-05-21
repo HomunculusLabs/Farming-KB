@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gillett, J.M. (1957). "A Revision of the growing-gourmet-north-american-reishi-species Species of Gentianella Moench." Annals of the Missouri Botanical Garden, 44(3), 195-269.
-  - Pringle, J.S. (1978). "Gentianaceae." In: Great Plains Flora Association, Flora of the Great Plains. University Press of Kansas.
-  - Weber, W.A. (1976). Rocky Mountain Flora. Colorado Associated University Press.
   - USDA NRCS Plants Database: Gentiana calycosa. https://plants.usda.gov/
 ---
 

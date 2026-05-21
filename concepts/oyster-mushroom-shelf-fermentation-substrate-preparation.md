@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - MushWorld, "Oyster mushroom-cultivation" (Mushroom Growers' Handbook 1), 2004. Chapter 7: Cultivation Modes - Shelf Cultivation, with fermentation science excerpted from Dr. Moon-soo Shim, "The Essence of accessible-mushroom-cultivation-for-disabilities: Fermentation of Substrate."
 created: 2026-04-28
 type: concept
 ---

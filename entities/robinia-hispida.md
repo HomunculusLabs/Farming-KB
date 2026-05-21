@@ -9,7 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Volume 3, Leguminosae." University of north-carolina-mycodiversity Press.
   - Tucker, S.C. (2009). "Leguminosae (Fabaceae)." In: Flora robinia-pseudoacacia) but distinguished by its rose-pink flowers and densely bristly stems.
 ---
 

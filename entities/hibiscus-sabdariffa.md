@@ -11,10 +11,6 @@ tags:
   - agroforestry
   - nitrogen-fixation
 sources:
-  - Morton, J.F. (1987). "Roselle." In: Fruits of Warm Climates. Julia F. Morton, Miami, FL.
-  - Mahadevan, N. et al. (2009). "Hibiscus sabdariffa Linn — An overview." Natural Product Radiance 8(1): 77-83.
-  - Ali, B.H. et al. (2005). "Some phytochemical, pharmacological and toxicological properties of Hibiscus sabdariffa." Phytotherapy Research 19(5): 369-375.
-  - Hopkins, A.L. et al. (2013). "Hibiscus sabdariffa in the treatment of hypertension." Fitoterapia 85: 84-89.
   - Odigie, I.P. et al. (2003). "Extracts of Hibiscus sabdariffa L. lower blood pressure." Phytomedicine 10(1): 40-42.
 ---
 

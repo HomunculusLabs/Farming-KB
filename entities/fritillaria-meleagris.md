@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pratt, K. & Jefferson-Brown, M. (1997). "The teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web Growing Fritillaries." David & Charles.
-  - RHS Encyclopedia of Plants and Flowers (2022). Dorling Kindersley.
   - Aplin, D. (2002). "Fritillaries: A Grower's Guide." Bentham-Moxham Trust.
 ---
 

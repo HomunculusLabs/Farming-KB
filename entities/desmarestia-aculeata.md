@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Womersley, H.B.S. (1987). "The Marine Benthic Flora of Southern Australia, Part II." South Australian Government Printer.
-  - Henry, E.C. & South, G.R. (1987). "Phaeophyta." In The Biology of Seaweeds. University of California Press.
   - Lüning, K. (1990). "Seaweeds: Their Environment, Biogeography, and Ecophysiology." John Wiley and Sons.
 ---
 

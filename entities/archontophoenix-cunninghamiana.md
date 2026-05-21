@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Dowe, J.L. (2010). "Australian Palms: Biogeography, Ecology and Systematics." CSIRO Publishing.
-  - Jones, D.L. (1996). "Palms Throughout the World." Smithsonian Institution Press.
-  - McDonald, M.W. & Dowe, J.L. (2006). "The genus Archontophoenix in Australia." Austrobaileya 7(2): 259-276.
   - Tuset, J.J. & Dowe, J.L. (2005). "Ornamental palms in the eastern Australian landscape." Palms 49(1): 15-28.
 ---
 

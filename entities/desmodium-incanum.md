@@ -24,9 +24,6 @@ aliases:
   - Desmodium canum
   - Hedysarum incanum
 sources:
-  - Schultze-Kraft, R. et al. (2018). "Desmodium incanum: A versatile leucaena-alley-cropping-tropical-forage legume." Tropical Grasslands, 6(3), 150–162.
-  - Cook, B.G. et al. (2005). "Tropical Forages: An Interactive Selection Tool." CSIRO, DPI&F, CIAT, ILRI.
-  - Khan, Z.R. et al. (2008). "Desmodium species in push-pull technology." Pest Management Science, 64(10), 1035–1042.created: 2026-05-07
 
 created: 2026-05-07
 ---

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hitchcock AS (1950). "Manual of the Grasses of the United States." USDA Miscellaneous Publication No. 200.
-  - Kindscher K (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - USDA NRCS (2024). "Plant Profile: Silphium perfoliatum." plants.usda.gov.
   - Schultze M et al. (2019). "Silphium perfoliatum: A Novel Bioenergy Crop." Industrial Crops and Products.
 ---
 

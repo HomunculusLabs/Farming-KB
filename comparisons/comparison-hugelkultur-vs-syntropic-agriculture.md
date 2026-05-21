@@ -5,11 +5,6 @@ tags: regenerative-agriculture, hugelkultur, syntropic-agriculture, soil-buildin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Holzer, Sepp. *Sepp Holzer's Permaculture*. Chelsea Green Publishing, 2011.
-  - Götsch, Ernst. *Syntropic Agriculture: Growing Food by Emulating Natural Ecosystems*. Various publications, 2010–2023.
-  - Jacke, Dave, and Eric Toensmeier. *Edible Forest Gardens*. Chelsea Green Publishing, 2005.
-  - Shepard, Mark. *Restoration Agriculture*. Acres U.S.A., 2013.
-  - Whitefield, Patrick. *The Earth Care Manual*. Permanent Publications, 2004.
 type: comparison
 ---
 

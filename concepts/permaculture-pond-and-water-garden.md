@@ -1,5 +1,4 @@
 ---
-title: Permaculture Pond And Water Garden
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,7 +16,7 @@ sources:
 
 # Permaculture Pond and Water Garden
 
-Ponds and water features are among the most productive and ecologically valuable elements in a [[permaculture-design]]. [[toby-hemenway]] dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
+Ponds and water features are among the most productive and ecologically valuable elements in a permaculture design. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
 
 ## Why Include a Pond?
 
@@ -100,16 +99,16 @@ Even a small pond (1.5 to 3 meters across) provides significant ecological benef
 
 ### Marginal Plants (shallow edges)
 - Iris (Iris spp.)
-- Cattail ([[typha-latifolia]]) -- useful but can be invasive
-- Pickerel weed ([[pontederia-cordata]])
+- Cattail (Typha latifolia) -- useful but can be invasive
+- Pickerel weed (Pontederia cordata)
 - Arrowhead (Sagittaria spp.)
 - Water mint (Mentha aquatica)
-- Sweet flag ([[acorus-calamus]])
+- Sweet flag (Acorus calamus)
 
 ### Floating Plants
-- Water hyacinth ([[eichhornia-crassipes]]) -- excellent biofilter but invasive in warm climates
+- Water hyacinth (Eichhornia crassipes) -- excellent biofilter but invasive in warm climates
 - Duckweed (Lemna spp.) -- high protein food for fish and poultry
-- Water lettuce ([[pistia-stratiotes]])
+- Water lettuce (Pistia stratiotes)
 
 ### Submerged/Oxygenating Plants
 - Hornwort (Ceratophyllum demersum)
@@ -148,3 +147,7 @@ Stock approximately 1 inch of fish per square foot of surface area in an unfilte
 
 - Remove excess algae by hand or with barley straw
 - Thin plants as needed to prevent the pond from becoming choked
+- Top up water during dry periods
+## See Also
+
+- [[mollison-designers-community-garden-design-urban-permaculture]]

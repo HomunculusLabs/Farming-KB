@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mahady GB, et al. (2001). "Ethanomedicinal monograph of Boesenbergia rotunda." Phytomedicine, 8(3), 225-227.
-  - Tewtrakul S, Itharat A. (2006). "Anti-allergic activity of some Thai plants." Thai Journal of Phytopharmacy, 13(1), 27-34.
-  - Rukachaisirikul V, et al. (2003). "Antibacterial compounds from Boesenbergia pandurata." Songklanakarin Journal of Science and Technology, 25(2), 183-189.
-  - Najmuldeen IA, et al. (2015). "Anti-inflammatory and cytotoxic activities of Boesenbergia rotunda." BMC Complementary and Alternative Medicine, 15, 139.
-  - Intahphuak S, et al. (2010). "Anti-allergic, anti-inflammatory, and antioxidant activities of Boesenbergia rotunda." Journal of Health Science, 56(1), 36-41.
 created: 2026-04-28
 ---
 

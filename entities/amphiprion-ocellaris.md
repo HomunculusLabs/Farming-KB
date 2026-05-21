@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-18
 sources:
-  - "Fautin, D.G. & Allen, G.R. (1992). Field Guide to Anemonefishes and Their Host Sea Anemones. Western Australian Museum."
-  - "Elliott, J.K. & Mariscal, R.N. (2001). \"Coexistence of nine anemonefish species.\" Marine Ecology Progress Series, 214, 129-139."
   - "Salis, P. et al. (2018). \"Cost of living on the edge: anemonefish oxygen demand.\" Journal of Experimental Biology, 221, jeb180410."
 ---
 

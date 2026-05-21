@@ -14,17 +14,17 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 ## Trees
 
 - **Acacia spp** — A. ampliceps (salt wattle, jila jila), A. aneura (mulga), A. bivenosa, A. cuspidifolia (spine-tipped wattle), A. cyclops (coastal wattle), A. harpophylla (brigalow), A. ligulata (sandhill wattle), A. notabilis (Flinders wattle), A. pycnantha (Australian golden wattle, 40% tannin in bark), A. ramulosa (horse mulga), A. salicina (cooba), A. saligna (golden wreath wattle), A. sclerosperma, A. sibilans (whispering myall), A. stenophylla (river cooba)
-- **[[acer-negundo]]** (box elder maple)
-- **[[acer-platanoides]]** (Norway maple)
+- **Acer negundo** (box elder maple)
+- **Acer platanoides** (Norway maple)
 - **Acer pseudoplatanus** (maple)
 - **Aesculus spp** (horse chestnuts, buckeyes)
-- **[[araucaria-heterophylla]]** ([[norfolk-island-pine]]) — coastal, salt tolerant to beach front
-- **[[arbutus-unedo]]** (Irish strawberry tree)
+- **Araucaria heterophylla** (Norfolk Island pine) — coastal, salt tolerant to beach front
+- **Arbutus unedo** (Irish strawberry tree)
 - **Callitris columellaris** (Murray pine) — hardy evergreen
 - **Callitris preissii** (Rottnest Island pine) — hardy evergreen
-- **[[carpinus-betulus]]** (common hornbeam) — deciduous hedge plant
+- **Carpinus betulus** (common hornbeam) — deciduous hedge plant
 - **Casuarina cristata** (black sheoak)
-- **[[casuarina-cunninghamiana]]** (river sheoak)
+- **Casuarina cunninghamiana** (river sheoak)
 - **Casuarina humulis** — hardy evergreen, salt spray resistant
 - **Castanea spp** (chestnut)
 - **Cedrus atlantica** (Mt. Atlas cedar)
@@ -148,3 +148,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Oryzopsis miliacea** (smilo, millet grass)
 - **Ribes spp**
 - **Sambucus spp** (elder) — edible fruits, flowers, roots
+
+## Notes
+
+Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bond, P. & Goldblatt, P. (1984). "Plants of the Cape Flora." Journal of kanna-sceletium-south-african-narcotic Botany, Supplementary Vol. 13.
-  - Cupido, C.N. (2005). "Campanulaceae." In: Plants of Southern Africa: An Annotated Checklist. Strelitzia 14. National Botanical Institute.
-  - Goldblatt, P. & Manning, J. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." Missouri Botanical Garden Press.
   - Linder, H.P. (2003). "The radiation of the Cape flora, southern Africa." Biological Reviews, 78(4): 597–638.
 ---
 

@@ -21,7 +21,7 @@ high tunnels with proper management.
 
 ## Botanical Profile
 
-- Scientific name: [[zingiber-officinale]]
+- Scientific name: Zingiber officinale
 - Family: Zingiberaceae
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
 - Lifecycle: Perennial in tropics; annual in temperate climates
@@ -114,7 +114,7 @@ From rhizomes (primary method):
 
 ### Care
 - Keep soil consistently moist but not waterlogged
-- Fertilize every 4-6 weeks with compost tea, [[fish-emulsion]], or balanced
+- Fertilize every 4-6 weeks with compost tea, fish emulsion, or balanced
   organic fertilizer
 - Foliar feed monthly during active growth
 - Ginger is relatively pest-free; watch for rhizome rot in poorly drained
@@ -124,7 +124,7 @@ From rhizomes (primary method):
 
 ## Greenhouse and Container Growing
 
-For temperate climates, greenhouse or [[high-tunnel]] production is the most
+For temperate climates, greenhouse or high tunnel production is the most
 reliable approach:
 
 - Use large containers (minimum 10-15 gallons) or raised beds
@@ -142,9 +142,12 @@ danger passes. Harvest before first frost.
 
 ## Harvesting
 
+For fresh ginger:
+- "Green ginger" or baby ginger can be harvested 4-5 months after planting
+- At this stage, the skin is tender and does not need peeling
+- Simply dig around the plant and cut off desired pieces; the plant will
+  continue growing
 ## See Also
 
-- [[turmeric-growing-guide]] -- close relative with identical cultivation
-  approach and complementary medicinal uses
-- [[holy-basil-tulsi-guide]] -- pair fresh ginger with tulsi tea for
-  respiratory and digestive wellness
+- [[ginger-garlic-extract]]
+- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]

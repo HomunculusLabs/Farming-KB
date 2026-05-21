@@ -9,7 +9,7 @@ sources: []
 
 # Soil Testing and Analysis
 
-[[soil-testing]] is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, [[cation-exchange-capacity]], and how to interpret and act on results.
+Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results.
 
 ## Why Test Your Soil
 
@@ -22,7 +22,7 @@ sources: []
 
 ## pH Testing
 
-[[soil-ph]] affects [[nutrient-availability]], microbial activity, and root function. Most garden vegetables and annual flowers prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5.
+Soil pH affects nutrient availability, microbial activity, and root function. Most garden vegetables and annual flowers prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5.
 
 ### pH Test Methods
 
@@ -52,7 +52,7 @@ sources: []
 | pH Range | Classification | Common Issues | Typical Action |
 |---|---|---|---|
 | Below 5.0 | Strongly acidic | Aluminum and manganese toxicity, low calcium/magnesium, poor microbial activity | Apply lime (dolomitic if Mg needed) |
-| 5.0-5.5 | Moderately acidic | Reduced [[phosphorus-availability]] | Apply lime, monitor |
+| 5.0-5.5 | Moderately acidic | Reduced phosphorus availability | Apply lime, monitor |
 | 5.5-6.5 | Slightly acidic | Ideal for most crops | Usually no action needed |
 | 6.5-7.0 | Neutral | Ideal for most garden vegetables | No action needed |
 | 7.0-7.5 | Slightly alkaline | Iron, manganese, zinc deficiency likely | Add sulfur or organic matter |
@@ -66,7 +66,7 @@ sources: []
 - Soil N levels fluctuate rapidly due to microbial activity
 - Most soil tests report nitrogen as nitrate (NO3-N) for immediate availability
 
-Sources: compost, manure, [[blood-meal]], [[fish-emulsion]], feather meal, cover crops, legumes
+Sources: compost, manure, blood meal, fish emulsion, feather meal, cover crops, legumes
 
 Deficiency symptoms: pale yellow leaves (chlorosis) starting from older leaves, stunted growth
 
@@ -139,12 +139,17 @@ Beyond pH testing, several simple DIY assessments provide useful information:
 3. More than 10: healthy soil biology
 4. 5-10: moderate biological activity
 5. Fewer than 5: likely compacted, chemically treated, or low organic matter
+
+### Organic Matter Estimation
+Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy soil may be below 1%. For accurate organic matter percentage, use a commercial lab test.
+
+## Commercial Laboratory Testing
+
+For comprehensive analysis, send samples to a professional soil testing laboratory.
+
+### How to Collect a Representative Sample
 ## See Also
 
-- [[composting-methods-comparison]] -- building soil fertility through composting
-- soil testing and analysis -- understanding your soil before amending
-- [[soil-food-web-nutrient-cycling]]
-
-## Related
-
-- [[garden-soil-basics]]
+- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
+- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
+- [[soil-microscope-analysis]]

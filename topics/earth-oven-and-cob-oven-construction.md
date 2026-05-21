@@ -4,9 +4,6 @@ tags: [natural-building], cob, earth-oven, wood-fired-cooking, appropriate-techn
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Denzer, Kiko. Build Your Own Earth Oven: A Low-Cost, Wood-Fired mud-oven. 3rd ed., Hand Print Press, 2007."
-  - "Weisman, Max. Cob Cottage Company. cobcottage.com — workshops and building guides."
-  - "Evans, Ianto, Linda Smiley, and Michael G. Smith. The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Chelsea Green, 2002."
   - "Oikos comparison-windbreak-vs-thermal-mass of earthen materials to bake, roast, and slow-cook food. Cob ovens, a subset of earth oven construction using the mason-jar-preserving-guide test**: fill a jar 1/3 with soil, add water to the top, shake vigorously, and let settle for 24 hours. Sand settles first (bottom), then silt, then clay (top). You want roughly 20–30% clay content.
 ---
 

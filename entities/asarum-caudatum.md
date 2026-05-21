@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - G. A. Yatskievych (1999). "Asarum." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3. Oxford University Press.
-  - D. E. Moerman (1998). "Native psilocybin-north-america-pacific-northwest." University of Washington Press.
   - Royal Botanic Gardens, Kew. "Asarum caudatum Lindl." Plants of the World Online.
 ---
 

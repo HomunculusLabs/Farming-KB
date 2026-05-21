@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Arora, D. (1986). Mushrooms Demystified. Ten Speed Press.
   - Kuo, M. (2024). "Craterellus cornucopioides." MushroomExpert.com
 ---# Craterellus cornucopioides (Black Trumpet)
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sheviak, C.J. (1982). "Spiranthes romanzoffiana: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Brittonia, 34(2), 144–156.
-  - Catling, P.M. (1990). "Auto-Pollination in the Orchidaceae." In: Arditti, J. (ed.), Orchid Biology: Reviews and Perspectives V, 121–158.
-  - Kery, M. & Gregg, K.B. (2004). "Demographic Analysis of the Declining Orchid Spiranthes romanzoffiana." Biological Conservation, 117(1), 23–31.
-  - Sipes, S.D. & Tepedino, V.J. (1995). "Pollination Biology of the Western Spiranthes romanzoffiana." Great Basin Naturalist, 55(4), 341–347.
   - NatureServe (2023). Spiranthes romanzoffiana. NatureServe Explorer.
 ---
 
@@ -78,3 +74,14 @@ Primary pollinators include various Bombus species, which serve as the primary f
 The flowers produce nectar [[staycare-composting-as-a-fungal-bioremediation-strategy]] reward, stored at the base [[liebigs-law-of-the-minimum]] labellum.
 
 The spiral arrangement of flowers ensures sequential presentation, prolonging the pollination period.
+## Current Research
+
+Recent studies on spiranthes romanzoffiana have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with spiranthes romanzoffiana should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

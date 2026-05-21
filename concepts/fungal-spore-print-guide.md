@@ -67,7 +67,7 @@ Common genera with pink or salmon spores:
 
 Note: Pink spore prints can fade over time, so observe immediately after lifting the cap.
 
-### [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] Spore Print
+### Brown Spore Print
 
 The largest group of gilled mushrooms:
 - **Psilocybe**: Psychoactive mushrooms (P. cubensis, P. semilanceata)

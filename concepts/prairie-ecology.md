@@ -18,7 +18,7 @@ Prairies are grassland ecosystems dominated by native grasses and forbs (non-woo
 ### Tallgrass Prairie
 Found in areas with 30-40+ inches of annual precipitation:
 
-- Dominated by big bluestem ([[andropogon-gerardii]]), little bluestem, indiangrass, and switchgrass
+- Dominated by big bluestem (Andropogon gerardii), little bluestem, indiangrass, and switchgrass
 - Heights of 5-8 feet in peak season
 - Most biodiverse prairie type; can support 300+ plant species per acre
 - Historically maintained by frequent fire (every 1-5 years) and grazing
@@ -79,7 +79,7 @@ Prairie grasses allocate 60-80% of their biomass below ground, the inverse of mo
 Deep prairie root systems serve critical ecological functions:
 
 - **Drought resilience**: Deep roots access water unavailable to shallow-rooted species
-- **Soil building**: [[root-exudates]] feed soil microbes; dead roots add organic matter at depth
+- **Soil building**: Root exudates feed soil microbes; dead roots add organic matter at depth
 - **Carbon sequestration**: Prairie soils can store 1-3 tons of carbon per acre per year in root biomass and associated soil organic matter
 - **Soil structure**: Root channels create macropores for water infiltration
 - **Nutrient cycling**: Deep roots bring minerals from subsoil to the surface through leaf litter
@@ -104,9 +104,9 @@ Active during summer months; use the C4 photosynthetic pathway for high water-us
 ### Cool-Season Grasses
 Active during spring and fall; use the C3 photosynthetic pathway:
 
-- Canada wild rye ([[elymus-canadensis]]): Early-successional, provides quick cover
-- Prairie dropseed ([[sporobolus-heterolepis]]): Finest-textured native grass, fragrant seed heads
-- June grass ([[koeleria-macrantha]]): Compact, drought-tolerant, early-season
+- Canada wild rye (Elymus canadensis): Early-successional, provides quick cover
+- Prairie dropseed (Sporobolus heterolepis): Finest-textured native grass, fragrant seed heads
+- June grass (Koeleria macrantha): Compact, drought-tolerant, early-season
 - Western wheatgrass (Pascopyrum smithii): Rhizomatous, excellent for erosion control
 
 ## Native Forbs
@@ -116,7 +116,7 @@ Nitrogen-fixing forbs enrich prairie soil:
 
 - Purple prairie clover (Dalea purpurea): Deep taproot, high protein forage
 - White prairie clover (Dalea candida): Pollinator favorite
-- Round-headed bush clover ([[lespedeza-capitata]]): Wildlife food, nitrogen fixation
+- Round-headed bush clover (Lespedeza capitata): Wildlife food, nitrogen fixation
 - Showy tick trefoil (Desmodium canadense): Butterfly host plant
 
 ### Pollinator Forbs
@@ -148,3 +148,6 @@ Prairie birds are among the most rapidly declining bird groups in North America:
 - Bobolink: Nests in tall grass; neotropical migrant
 - Eastern meadowlark: Territory requires 6+ acres of grassland
 - Grasshopper sparrow: Specialist of dry, open prairie
+## See Also
+
+- [[prairie-dog-ecology]]

@@ -5,8 +5,6 @@ tags: [natural-farming, gardens, terracing, soil-preparation, hillside-agricultu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "4353-4395"
 type: concept
 ---

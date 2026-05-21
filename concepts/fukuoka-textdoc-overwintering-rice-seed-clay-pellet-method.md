@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: 5000-5018, 5290-5320
 type: concept
 ---

@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sherwood, A.M. et al. (2019). "Analytical characterization of novel synthetic tryptamines." Drug Testing and Analysis, 11(4), pp. 556-570.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews, 68(2), pp. 264-355.
-  - Halberstadt, A.L. (2015). "Behavioral pharmacology of 5-HT2A receptor agonists." Behavioural Pharmacology, 26(5), pp. 437-449.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
 ---
 

@@ -12,9 +12,6 @@ tags:
   - medicinal
   - apiaceae
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." 2nd ed. New York Botanical Garden.
-  - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - USDA NRCS. "Osmorhiza claytonii (Michx.) C.B. Clarke." PLANTS Database.
 ---
 

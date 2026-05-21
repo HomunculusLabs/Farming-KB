@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li, H. (1979). "Phytolaccaceae." In Flora Reipublicae Popularis Sinicae, Vol. 26. Science Press.
-  - He, S.A. et al. (2010). "Phytolacca esculenta." In The Plant List. http://www.theplantlist.org/
-  - Hu, S.Y. (2005). Food Plants of China. The Chinese University Press.
   - Duke, J.A. & Ayensu, E.S. (1985). Medicinal Plants of China, Vols. 1-2. Reference Publications.
 ---
 

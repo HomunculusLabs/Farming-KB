@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ferguson, A.R. (1999). "New temperate fruit crops from Actinidia." Acta Horticulturae, 498, 105-116.
-  - Shaw, J. (1990). Kiwifruit: Science and Management. Ray Richards.
-  - Royal Horticultural Society. "Actinidia arguta." RHS Plant Finder.
   - Chat, J. et al. (1996). "Genetic relationships in the genus Actinidia." Annals of Botany, 77(3), 235-242.
 ---
 

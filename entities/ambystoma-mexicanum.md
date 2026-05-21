@@ -13,9 +13,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, H.M. & Smith, R.B. (1971). "Synopsis of the Herpetofauna of Mexico." John Johnson.
-  - Voss, S.R. et al. (2015). "The axolotl genome and the evolution of key tissue formation regulators." Nature, 554, 50–55.
-  - Shubin, N., Tabin, C. & Carroll, S. (1997). "Fossils, genes and the evolution of animal limbs." Nature, 388, 639–648.
   - IUCN Red List (2019). "Ambystoma mexicanum." https://www.iucnredlist.org/species/1095/A79239966
 ---
 

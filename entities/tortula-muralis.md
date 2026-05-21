@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland, 2nd ed. Cambridge University Press.
-  - Zander, R.H. (1993). Genera of the Pottiaceae: Mosses of Harsh Environments. Buffalo Society of Natural Sciences.
-  - Glime, J.M. (2017). "Tortula muralis." Bryophyte Ecology, Vol. 2. Michigan Technological University.
-  - Bates, J.W. (1992). "Influence of chemical and physical factors on bryophytes in urban environments." In: Bryophytes and Lichens in a Changing Environment.
   - Porley, R. & Hodgetts, N. (2005). Mosses and Liverworts. HarperCollins.
 ---
 

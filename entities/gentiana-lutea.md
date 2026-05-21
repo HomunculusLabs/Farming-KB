@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L., & Albert, V. A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - European Medicines Agency (EMA). "Assessment report on Gentiana lutea L., radix." EMA/HMPC/4286.
-  - Aberham, A., et al. (2011). "Analysis of iridoids, secoiridoids and xanthones in Gentiana lutea." Journal of Pharmaceutical and Biomedical Analysis, 54(5), 1003-1009.
   - Hänsel, R., & Sticher, O. (2010). "Pharmacognosie — Phytopharmazie." Springer, Berlin.
 ---
 

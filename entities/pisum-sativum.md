@@ -17,10 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Muehlbauer, F.J. & McPhee, K.E. (2012). \"Pisum sativum L.\" In: Vegetable Crops, Springer, pp. 237-295."
-  - "Jensen, E.S. et al. (2010). \"Grain legume-cereal intercropping: The practical application of diversity.\" Field Crops Research 115(3): 185-195."
-  - "Sprent, J.I. (2009). \"Legume Nodulation: A Global Perspective.\" Wiley-Blackwell."
-  - "Trewavas, A. (2004). \"A critical assessment of organic farming-and-food assertions.\" Crop Protection 23(8): 757-781."
 aliases:
   - Garden Pea
   - Field Pea

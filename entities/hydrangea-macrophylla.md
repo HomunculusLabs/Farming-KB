@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Coulter, J.K. (1900). "Revision of growing-gourmet-north-american-reishi-species Hydrangeaceae." Contributions from the dmt-containing-plants-united-states-halpern National Herbarium, 7(1), 45-78.
-  - Reed, S.M. (2000). "Hydrangea macrophylla: taxonomy, cytology, and breeding." Horticultural Reviews, 24, 181-226.
-  - Chen, J., et al. (2007). "Molecular mechanisms of aluminum tolerance in Hydrangea macrophylla." Plant and Soil, 295(1-2), 167-175.
-  - Schreiber, H.D., et al. (2011). "Sequestered aluminum in Hydrangea macrophylla sepals." Journal of Agricultural and Food Chemistry, 59(16), 8740-8748.
   - Kudo, M. & Niimi, Y. (1999). "Relationship between flower color and aluminum accumulation in Hydrangea macrophylla." Journal of the Japanese Society for Horticultural Science, 68(4), 825-830.
 ---
 

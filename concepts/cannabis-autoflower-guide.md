@@ -147,3 +147,4 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 Direct sowing is preferred over starting in small pots. Autoflowers do not handle transplanting well due to their short life cycle. Plant seeds directly in their final container (3-5 gallon fabric pots are common).
 
 ### Light Schedule
+

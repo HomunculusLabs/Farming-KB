@@ -4,7 +4,6 @@ tags: [query, permaculture, water-management, earthworks, keyline]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/pa-yeomans-water-for-every-farm.md"
 ---
 

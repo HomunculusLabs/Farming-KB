@@ -18,9 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Thiers, H.D. (1975). "California boletes: the genus Suillus." Mycotaxon 2(2): 197–218.
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Ann Arbor: University of Michigan Press.
-  - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
 ---
 
@@ -79,3 +76,5 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 S. pungens forms obligate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the [[fungal-mycelium-hyphae-and-the-feeding-phase]] and host root
 system. The fungus aids in phosphorus and nitrogen uptake for the tree while
 receiving photosynthetically derived carbon compounds.
+Further research into suillus pungens continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind suillus pungens provides a foundation for both practical application and continued scientific inquiry.

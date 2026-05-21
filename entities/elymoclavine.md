@@ -11,14 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1978). "LSD — My Problem Child." McGraw-Hill.
-  - Schardl, C.L. et al. (2006). "claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids — Biology and
     molecular biology." Alkaloids: Chemical and Biological Perspectives.
-  - Gröger, D. & Floss, H.G. (1998). "Biochemistry of ergot alkaloids."
     European Journal of Plant Pathology.
-  - Taber, W.A. & Vining, L.C. (1963). "Clavine alkaloids in
     Aspergillaceae." Phytopathologische Zeitschrift.
-  - Flieger, M. et al. (1997). "Ergot alkaloids — Sources, structures
     and analytical-methods-psilocybin-psilocin-quantification." Folia Microbiologica.
 created: 2026-04-28---
 ---
@@ -81,3 +76,5 @@ strains optimized for elymoclavine accumulation.
 
 Elymoclavine is unscheduled in many countries but falls under
 analogue drug legislation in jurisdictions that control lysergamide
+Further research into elymoclavine continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind elymoclavine provides a foundation for both practical application and continued scientific inquiry.

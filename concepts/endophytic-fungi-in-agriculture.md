@@ -139,12 +139,15 @@ One of the most studied agricultural endophytes:
 - Maintains endophyte through vegetative propagation
 
 ## Crop Applications
+
+### Cereals and Grains
+- Endophyte-infected tall fescue and perennial ryegrass for pastures
+- Piriformospora indica increases rice and wheat yield under stress
+- Barley endophytes improve drought tolerance and grain quality
+
+### Vegetables
+- Tomato: Endophytes reduce Fusarium wilt, improve fruit quality
+- Pepper: Enhanced resistance to Phytophthora and aphids
 ## See Also
 
-- [[fungal-biopesticides]] -- external fungal biocontrol agents that complement endophytes
-- [[fungi-in-climate-change]] -- endophytes as tools for climate-resilient agriculture
-- [[mycorrhizal-networks-and-forest-communication]] -- related underground fungal networks
-
-## Related
-
-- [[fungal-pathogens-in-agriculture]]
+- [[endophytic-fungi-hidden-symbionts-within-plants]]

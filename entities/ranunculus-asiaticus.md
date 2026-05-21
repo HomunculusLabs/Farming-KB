@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Horovitz, A. et al. (2019). "Ranunculus asiaticus: cannabis-genetics-and-breeding of a model geophyte." Horticulture Research, 6, 123.
-  - De Benedetti, L. et al. (2020). "Advances in Ranunculus asiaticus breeding and biotechnology." Plant Cell Reports, 39, 1105-1118.
   - Kew Royal Botanic Gardens. "Ranunculus asiaticus L." Plants of the World Online.
 ---
 

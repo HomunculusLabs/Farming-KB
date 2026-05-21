@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowrie A (1987). "Carnivorous Plants of Australia." Kirstenbosch National Botanical Garden.
-  - Schlauer J (2001). "A dichotomous key to the genus Drosera L. (Droseraceae)." Schizandra 6: 7–33.
-  - Fleischmann A, Rivadavia F, Siuta S, et al. (2010). "Phylogeny and biogeography of the sundew genus Drosera." Molecular Phylogenetics and Evolution 56(2): 591–600.
   - Gibson TC (1991). "An anatomical study of the carnivorous plant Drosera binata." Annals of Botany 68(5): 433–438.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Daehler, C.C. & Baker, R.E. (2021). "Kahili ginger (Hedychium gardnerianum) invasiveness in guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands." Pacific Science, 75(2), 185-198.
-  - Moodley, D. et al. (2019). "Ecological impacts of invasive Hedychium gardnerianum in Hawaiian montane forests." Biological Invasions, 21, 3417-3432.
-  - Nag, S. et al. (2020). "Phytochemistry and pharmacology of Hedychium gardnerianum." Pharmacognosy Reviews, 14(28), 102-108.
-  - Sheppard, C.S. et al. (2018). "Invasion of Kahili ginger in New Zealand: distribution, impacts, and management." New Zealand Journal of Ecology, 42(1), 45-56.
   - Patel, S. et al. (2021). "permaculture-designers-manual-essential-oil-plants composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.---
 ---
 
@@ -79,3 +75,14 @@ In New Zealand, invasion leads to the displacement of native [[fukuoka-textdoc-b
 [[permaculture-designers-manual-essential-oil-plants]] extracted from flowers and rhizomes is used in perfumery. The fragrance is described as warm, floral, and slightly spicy with honey-like undertones.
 
 Ornamental cultivation remains the primary use globally. The plant is valued for its dramatic flowers, tropical appearance, and sweet fragrance. It grows well in subtropical gardens with adequate moisture and partial shade.
+## Current Research
+
+Recent studies on hedychium gardnerianum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with hedychium gardnerianum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

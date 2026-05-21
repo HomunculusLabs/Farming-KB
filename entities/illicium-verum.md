@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wang X, Li CY, Li YL, et al. (2011). "Chemical constituents and bioactivities of Illicium species." Chemistry & Biodiversity, 8(5), 865–886.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Pham HT, Nguyen TTH, Do TH, et al. (2020). "Star anise (Illicium verum): A review of traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 261, 113142.
   - Kouzi SA, McChesney JD (1991). "Illicium species: The commercial source of shikimic acid." Economic Botany, 45(3), 377–382.
 ---
 

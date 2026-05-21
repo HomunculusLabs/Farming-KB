@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Rice, G. & Strangman, E. (1993). "The Gardener's Guide to Growing Hellebores." Timber Press.
   - McLewin, W. & Mathew, B. (2018). "Hellebores: A mycelium-digestive-membrane-information-network — Helleborus argutifolius." USDA.
 ---
 

@@ -13,16 +13,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Houghton, P.J. (1999). "The scientific basis for the reputed effects of
     Herba Valerianae." Phytotherapy Research, 13(8), 696-699.
-  - Mennini, T. et al. (1993). "In vitro study of the interaction of extracts
     and pure compounds from Valeriana officinalis roots with GABA-A receptor."
     Phytotherapy Research, 7(4), 263-266.
-  - Bent, S. et al. (2006). "Valerian for Sleep: A Systematic Review and
     Meta-Analysis." American Journal of Medicine, 119(12), 1005-1012.
-  - ESCOP Monographs. (2003). "Valerianae radix." European Scientific
     Cooperative on Phytotherapy.
-  - Holzinger, F. et al. (2002). "Valerian." In: Handbook of Medicinal
     Herbs, 2nd ed. CRC Press.
 ---
 ## Valeriana officinalis

@@ -11,7 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Horn, W. (2018). "The Genus Adonis: A Taxonomic Revision." Willdenowia 48(2).
   - Kintzios, S.E. & Barberaki, M.G. (2004). "amanita-muscaria-chemistry-and-pharmacology." Natural Product Reports 37(6).
 ---
 

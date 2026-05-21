@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Corner EJH (1966). "A Monograph of Cantharellus and Craterellus." Transactions of the British Mycological Society.
-  - Petersen RH (1975). "The genus Cantharellus in psilocybin-north-america-pacific-northwest." Mycologia 67(5): 977-997.
-  - Arnolds E (1985). "Ecology and Coenology of Macrofungi in Grasslands and Moist Heathlands." PhD Thesis, Wageningen.
-  - Eyssartier G, Buyck B (2000). "The genus Cantharellus in western Africa." Mycotaxon 76: 163-194.
   - Danell E, Eberhardt U (2002). "Molecular phylogeny of Cantharellus." Mycological Research 106(4): 415-425.
 ---
 

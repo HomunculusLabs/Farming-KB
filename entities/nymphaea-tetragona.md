@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Heslop-Harrison, Y. (1955). "Nymphaea L." Journal of the Linnean Society of Botany, 55(359), 345–361.
-  - Cook, C.D.K. (1990). "Aquatic Plant Book." SPB Academic Publishing, The Hague.
-  - Borsch, T. et al. (2008). "Phylogeny and biogeography of Nymphaeaceae." Taxon, 57(4), 1131–1146.
   - Flora of China Editorial Committee (2001). "Nymphaea." Flora of China, 6, 117.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Judd, W.S. & Kron, K.A. (1995). "A Revision of Rhododendron Section Ponticum (Ericaceae)." Edinburgh Journal of Botany, 52(1), 1–54.
-  - Chamberlain, D.F. et al. (1996). "The Genus Rhododendron: Its Classification and Synopsis." Royal Botanic Garden Edinburgh.
-  - Argus, G.W. (1965). "The Biology of Alpine Plants." Oxford University Press.
   - Cox, P.A. & Cox, K.N.E. (1997). "The Encyclopedia of Rhododendron Species." Glendoick Publishing.
 ---
 

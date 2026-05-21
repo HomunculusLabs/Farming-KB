@@ -1,4 +1,5 @@
 ---
+
 title: Indigenous Microorganisms (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12
@@ -135,15 +136,19 @@ Microorganisms have two major functions in farming:
 
 **Process**:
 1. Mix 1 part IMO-3 with 1 part soil total
+2. Soil composition: 50% field soil + 20% anthill/termite mound soil + 30% additional field soil
+3. Mix on soil floor (NOT concrete)
+4. Create heap not more than 20 cm high
+5. Adjust moisture to 65-75% with diluted NF inputs (FPJ, FFJ, FAA, LAB at 1:1000)
+6. Add seawater for IMOs to work best when inoculated into soil
+7. Cover for 2 days
+8. Ready to apply — moisture may need adjusting before use (add nutrient liquids if dried)
+
+**Application**: Scatter IMO-4 in small lumps over the field (minimum 1500 kg per acre). Do not bury deeply — the deeper the soil, the richer it is, so don't bury IMO. Apply 2-3 hours before sunset. The lumps help soil build aggregated structure rapidly.
+
+## IMO Diversity Principles
 ## See Also
 
-- [[knf-preparations]] — all KNF inputs overview
-- [[bionutrients]] — Carandang's bionutrient system pairing with BIM
-- [[soil-food-web-nutrient-cycling]] — what IMO does in the soil
-- [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
-- [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
-- [[fermented-mixed-compost-fmc]] — FMC uses IMO-4 as base
-
-## Related
-
-- [[cho-han-kyu]]
+- [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
+- [[indigenous-microorganisms]]
+- [[beneficial-indigenous-microorganisms]]

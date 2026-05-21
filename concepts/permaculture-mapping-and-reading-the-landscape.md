@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 
 ## Overview
 
-[[reading-the-landscape]] is the first and most essential skill in [[permaculture-design]]. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
+Reading the landscape is the first and most essential skill in permaculture design. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
 
 ## Reading the Landscape
 
@@ -22,7 +22,7 @@ The landscape itself tells the story of its history and current health:
 - **Tree flagging and wind pruning** reveal prevailing wind directions and strength
 - **Erosion patterns** indicate water flow, soil instability, and past disturbance
 - **Vegetation types** indicate soil conditions, moisture levels, and microclimates
-- **[[soil-color]]** reveals organic matter content, drainage, and mineral composition
+- **Soil color** reveals organic matter content, drainage, and mineral composition
 - **Rock outcrops and stone placement** indicate geological history
 - **Animal trails and tracks** show movement patterns and wildlife corridors
 
@@ -82,7 +82,7 @@ Each overlay isolates one factor for analysis before combining them into a final
 
 ### Key Patterns to Identify
 
-- **Keylines** -- the line of maximum change in slope (where convex becomes concave), critical for [[water-management]] design
+- **Keylines** -- the line of maximum change in slope (where convex becomes concave), critical for water management design
 - **Ridge lines and drainage lines** -- the skeleton of the watershed
 - **Saddle points** -- low points on ridges, useful for road placement and dam sites
 - **Re-entrant corners** -- where water naturally concentrates, potential dam sites

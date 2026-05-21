@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
-  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A Field Guide." USDA Forest Service Research Paper PNW-143.
-  - Martin, W.H. et al. (1951). "bloomfield-ascospore-extreme-resilience-electron-microscope-survival and taxonomic studies of blueberry and huckleberry species." growing-gourmet-north-american-reishi-species Blueberry Research Council.
   - Höerdemann, M.L. (2018). "Huckleberries of the guzman-psilocybin-mushrooms-north-america. It is one of the most commercially and culturally important wild berry species in the Pacific Northwest and Rocky Mountain regions.
 ---
 

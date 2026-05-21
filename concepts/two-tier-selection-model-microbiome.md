@@ -1,7 +1,6 @@
 ---
 title: Two-Tier Selection Model (Microbiome)
 aliases:
-  - two-tier selection cannabis-endorhiza-bacterial-communities are
 assembled through two sequential filtering processes: first by soil environmental
 conditions (edaphic filtering), and second by host plant genotype (plant filtering).
 This model was articulated based on findings from the first comprehensive survey of the

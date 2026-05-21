@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilb., R. (2004). "Poroid fungi of psilocybin-north-america-pacific-northwest." Synopsis Fungorum 22.
-  - Fiasson, J.L. & Niemelä, T. (1984). "The Hymenochaetales: a revision of the European poroid taxa." Karstenia 24: 14-28.
-  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 45: 77-94.
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
-  - Gilbertson, R.L. & Ryvarden, L. (1987). "growing-gourmet-north-american-reishi-species Polypores." Vol. 2. Fungiflora, Oslo.
 created: 2026-05-07
 ---
 

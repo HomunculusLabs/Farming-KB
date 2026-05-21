@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hill, T. (2007). "The history of woad and the woad mill." Journal of the Royal Society of Arts.
-  - Huang, W.H. et al. (2018). "Isatis tinctoria: A review of its botany, ethnobotany and phytochemistry." Phytochemistry, 147, 1-18.
-  - Cardon, D. (2007). Natural Dyes: Sources, Tradition, Technology and Science. Archetype Publications.
   - Oberthür, C. et al. (2004). "Detoxification of benzoxazinoids: the plant's own weapons." Phytochemistry, 65(12), 1731-1737.
 ---
 

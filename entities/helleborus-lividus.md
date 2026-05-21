@@ -12,9 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Herrera J (2019). "Reproductive biology of Helleborus lividus (Ranunculaceae), a Balearic endemic." Plant Systematics and Evolution 305(7): 531–540.
-  - Mathew B (2020). "The genus Helleborus: taxonomy and cultivation." The Plantsman 19(3): 154–165.
-  - Rosselló JA, Sáez L (2021). "Conservation genetics of Balearic endemic hellebores." Annals of Botany 127(4): 543–556.
   - McLewin W, Mathew B (2007). Hellebores: A Comprehensive Guide. Timber Press, Portland.
 ---
 

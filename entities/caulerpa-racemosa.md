@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Klein, J. & Verlaque, M. (2008). "The Caulerpa racemosa invasion: a critical review." Marine Pollution Bulletin, 56(2), 205-225.
-  - Piazzi, L. et al. (2001). "Invasion of Caulerpa racemosa var. cylindracea in the Mediterranean Sea." Cryptogamie Algologie, 22(3), 221-228.
-  - Guiry, M.D. & Guiry, G.M. "Caulerpa racemosa (Forsskål) J.Agardh." AlgaeBase. https://www.algaebase.org/
   - Smith, C.M. & Walters, L.J. (1999). "Fragmentation as a strategy for *Caulerpa* species." Journal of Experimental Marine Biology and Ecology, 234(1), 67-76.
 ---
 

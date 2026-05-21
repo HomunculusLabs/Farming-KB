@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." 2nd ed., New York Botanical Garden.
-  - Warnock, M.J. (1995). "A Taxonomic Review of Delphinium in mollison-pdc-range-management-wildlife, 52(5): 474–480.
   - Pelletier, S.W. et al. (1981). "Diterpenoid Alkaloids of Delphinium exaltatum." Journal of Natural Products, 44(5): 575–582.
 ---
 

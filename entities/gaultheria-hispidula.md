@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Gaultheria in psilocybin-north-america-pacific-northwest." Canadian Journal of Botany 66: 2569-2614.
-  - Hultén, E. (1968). "Flora of Alaska and Neighboring Territories." Stanford University Press.
-  - Fernald, M.L. (1950). "Gray's Manual of Botany." American Book Company.
-  - USDA NRCS. "Gaultheria hispidula." https://plants.usda.gov/home/plantProfile?symbol=GAHI2
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." New York Botanical Garden.
 ---
 

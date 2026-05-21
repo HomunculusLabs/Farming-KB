@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Wetting Agent (JWA) — Natural Surfactant Recipe
 created: 2026-04-11
 updated: 2026-04-12
@@ -55,7 +56,7 @@ Solutions for hard water: collect rainwater (discard first 30 min), use a water 
 9. Add 60L soft water, stir thoroughly with clean wooden stick including the bottom
 10. Lumps will dissolve over 24 hours. JWA is complete
 
-**Storage**: Tightly sealed containers. No expiration -- quality improves with age. Do not [[solomon-mild-climate-disease-pest-buildup-without-hard-freeze]] (thaw if frozen). Remove any white film from top before use. Becomes darker with age; this is normal.
+**Storage**: Tightly sealed containers. No expiration -- quality improves with age. Do not freeze (thaw if frozen). Remove any white film from top before use. Becomes darker with age; this is normal.
 
 ## Scale Reference Table
 
@@ -84,7 +85,7 @@ Do NOT exceed 10L continuously -- can suppress growth and damage white powdery c
 
 - Aphids and mites (early stages)
 - Powdery mildew (early stages)
-- Can replace machine oil for winter fruit tree [[jadam-natural-pesticide-ultra-low-cost-pest-control]]
+- Can replace machine oil for winter fruit tree pest control
 - Moderately effective for improving fruit color and promoting maturity
 
 ## Safety

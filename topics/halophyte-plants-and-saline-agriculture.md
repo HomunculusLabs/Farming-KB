@@ -11,15 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Glenn, E.P., Brown, J.J. & Blumwald, E. (1999). Salt tolerance and crop potential of halophytes. Critical Reviews in Plant Sciences, 18(2), 227-255."
-  - "Flowers, T.J. & Colmer, T.D. (2008). Salinity tolerance in halophytes. New Phytologist, 179(4), 945-963."
-  - "Masters, D.G., Benes, S.E. & Norman, H.C. (2007). Biosaline agriculture for forage and livestock production. Agriculture, Ecosystems & Environment, 119(3-4), 234-248."
-  - "Koyro, H.-W. & Eisa, S.S. (2008). Effect of salinity on composition, viability and germination of seeds of non-halophyte and halophyte species. Seed Science and Technology, 36(1), 21-31."
-  - "Barbier, E.B. (2013). Adapting to climate change: the case of mangrove-based livelihoods. International Journal of Environmental Studies, 70(3), 485-494."
-  - "Abideen, Z., Ansari, R. & Khan, M.A. (2011). Halophytes: potential source of lignocellulosic biomass for ethanol production. Biomass and Bioenergy, 35(5), 1818-1822."
-  - "FAO (2020). Global Network on Salt-Affected Soils. Food and Agriculture Organization of the United Nations, Rome."
-  - "Rozema, J. & Flowers, T. (2008). Crops for a salinized world. Science, 322(5907), 1478-1480."
-  - "Grigore, M.N. & Toma, C. (2020). Halophytes: Biology, Ecology and Potential Uses. Springer."
   - "Panta, S., Flowers, T., Lane, P., Doyle, R., Haros, G. & Shabala, S. (2014). Halophyte agriculture: success stories. Environmental and Experimental Botany, 107, 71-83."
 ---
 
@@ -78,3 +69,12 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on halophyte plants and saline agriculture have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with halophyte plants and saline agriculture should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

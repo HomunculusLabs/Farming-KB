@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Trinajstić, I. (1975). "Additions to the flora of Istria." Acta Botanica Croatica 34: 81–86.
-  - Lakusić, R. & Kutle, A. (2000). "Chasmophytic vegetation of the Dinaric karst." Vegetatio 149(2): 95–106.
-  - Domac, R. (1994). Flora Hrvatske: Priručnik za determinaciju bilja. Školska knjiga, Zagreb.
-  - Nikolić, T. (2020). Flora Croatica Database. University of Zagreb.
   - Kovačić, S. & Milović, M. (2008). "Rare Campanula species of the Croatian karst." Natura Croatica 17(3): 185–198.
 ---
 

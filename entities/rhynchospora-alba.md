@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (1982). Sedges of the British Isles. Botanical Society of the British Isles.
   - Flora dmt-containing-plants-united-states-halpern to New Jersey and in the mountains to fukuoka-textdoc-composting-critique-futility-prepared-organic-matter from its rhizomes and culms.
 ---
 

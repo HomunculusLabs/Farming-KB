@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Chen, J.H. et al. (2012). "Aconitum carmichaelii Debeaux: A review of its phytochemistry, pharmacology, and toxicology." Journal of Pharmacy and Pharmacology, 64(10), 1407-1420.
-  - Singh, S. et al. (2021). "Aconitum: A review of phytochemistry and pharmacology." Phytomedicine, 86, 153544.
-  - Bisset, N.G. (1981). "Arrow Poisons in China." Journal of Ethnopharmacology, 2(1), 89-100.
-  - Ameri, A. (1998). "The effects of Aconitum alkaloids on the central nervous system." Progress in Neurobiology, 56(2), 211-235.
   - Jiang, Z.H. et al. (2022). "Processing of Aconitum roots in traditional Chinese medicine." Journal of Ethnopharmacology, 285, 114875.
 ---
 

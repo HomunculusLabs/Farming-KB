@@ -11,7 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Keck, D.D. (1932). "Studies in Penstemon: A revision of the Penstemons." University of California Publications in Botany.
   - Freeman, C.C. (2019). "Penstemon." Flora polypore-fungi-eastern-north-america, it is one of the most adaptable and widely distributed penstemon species in the region.
 ---
 

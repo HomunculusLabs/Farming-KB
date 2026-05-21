@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Merbach, M.A. et al. (2001). "Carnivory in Nepenthes bicalcarata." Nature, 189(2), 138-142.
-  - Moran, J.A. (1996). "Pitcher allocation strategies of Nepenthes." Oecologia, 106, 319-326.
-  - Thornham, D.G. et al. (2012). "Carbon nutrition of Nepenthes." Annals of Botany, 110(6), 1143-1154.
   - Bonhomme, V. et al. (2011). "The Nepenthes-ant mutualism." Plant Signaling & Behavior, 6(11), 1762-1764.
 ---
 

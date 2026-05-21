@@ -10,12 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Manach, C. et al. "Polyphenols: Food Sources and Bioavailability." American Journal of Clinical Nutrition, vol. 79, no. 5, 2004, pp. 727-747.
-  - Pandey, K.B. and Rizvi, S.I. "Plant Polyphenols as Dietary Antioxidants in Human Health and Disease." Oxidative Medicine and Cellular Longevity, vol. 2, no. 5, 2009, pp. 270-278.
-  - Grosso, G. et al. "Dietary Polyphenol and Polyunsaturated Fatty Acid Intakes and Their Food Sources in an Italian Population." International Journal of Food Sciences and Nutrition, vol. 65, no. 3, 2014, pp. 332-340.
-  - Pérez-Jiménez, J. et al. "Identification of the 100 Richest Dietary Sources of Polyphenols: An Application of the Phenol-Explorer Database." European Journal of Clinical Nutrition, vol. 64, supplement 3, 2010, pp. S112-S120.
-  - Vauzour, D. et al. "Methods for Characterization of the Impact of Dietary Polyphenols on the Human Gut Microbiota." In "Dietary Polyphenols: Properties, Characterization, and Measurement," CRC Press, 2021.
-  - Scalbert, A. et al. "Dietary Polyphenols and the Prevention of Diseases." Critical Reviews in Food Science and Nutrition, vol. 45, no. 4, 2005, pp. 287-306.
 type: query
 created: 2026-04-28
 ---

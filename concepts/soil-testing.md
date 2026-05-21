@@ -1,4 +1,5 @@
 ---
+
 title: Soil Testing
 created: 2026-04-11
 updated: 2026-04-12
@@ -130,20 +131,23 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 Bad sampling produces bad data. Follow this protocol:
 
+### Tools
+- Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
+- Plastic bucket (not metal for micronutrient samples)
+- Ziploc bags (clean)
+- Permanent marker
+
+### Method
+1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample
+2. **Take 10–15 subsamples per zone** — walk a zigzag pattern, collect from 0–6 inch depth (standard garden) or 0–8 inches (field crops)
+3. **Mix subsamples in the plastic bucket** — break up clods, remove rocks and roots
+4. **Fill sample bag** — take ~2 cups from the mixed sample
+5. **Label clearly** — date, location, depth, crop intended
+6. **Don't sample right after amendments** — wait 2–4 weeks after liming, fertilizing, or compost application
+7. **Don't sample wet soil** — soil should be moist enough to form a ball but dry enough to crumble
+
+### Sampling for Different Situations
 ## See Also
 
-- [[interpreting-soil-test-results]] — how to read your lab report and plan amendments
-- [[soil-fertility-management]] — comprehensive fertility framework, COF recipe
-- [[soil-food-web-nutrient-cycling]] — the biological engine that makes nutrients available
-- [[cannabis-plant-nutrition]] — cannabis-specific nutrient needs and organic sources
-- [[knf-preparations]] — biological inputs as alternative to mineral amendments
-- [[no-till-gardening-method]] — preserving soil structure and biology
-
-## Related
-
-- [[dynamic-accumulators]]
-- [[composting-systems]]
-- [[vermicomposting]]
-- [[effective-microorganisms-em]]
-- [[common-homestead-weeds]]
-- [[soil-health-indicators]]
+- [[soil-testing-methods-interpretation]]
+- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]

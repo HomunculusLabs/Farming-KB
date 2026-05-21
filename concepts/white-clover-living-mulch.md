@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [soil, gardening]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
 ## White Clover Living Mulch

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Moran, R. (1951). "A Revision of Dudleya (Crassulaceae)." PhD Dissertation, University of California.
-  - Bartel, J.A. (1993). "Dudleya." In: Hickman, J.C. (ed.), The Jepson Manual. University of California Press.
-  - Eggli, U. (2003). "Illustrated Handbook of Succulent Plants: Dicotyledons." Springer.
-  - Pilbeam, J. (1999). "Dudleya." British Cactus and Succulent Society.
   - Thomson, P.H. (1993). "The Dudleya Pages." Cactus and Succulent Journal 65(4): 163–176.
 ---
 

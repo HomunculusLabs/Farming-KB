@@ -5,8 +5,6 @@ tags: [organic-farming, deep-organic, coleman, soil-health, small-farm, compost,
 date: 2026-05-09
 updated: 2026-05-20
 sources:
-  - Eliot Coleman, "The New Organic Grower" (Chelsea Green, revised 2018)
-  - Eliot Coleman, "The Winter Harvest Handbook" (Chelsea Green, 2009)
 related_concepts:
   - coleman-deep-organic-farming-philosophy
   - coleman-deep-organic-vs-shallow-organic-farming

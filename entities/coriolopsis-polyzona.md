@@ -25,11 +25,6 @@ aliases:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Johansen, I. (1980). "A Preliminary Polypore Flora of East Africa." Fungiflora, Oslo.
-  - Dai, Y.C. et al. (2007). "A contribution to the current knowledge of the polypores in tropical China." Mycotaxon, 101, 81–90.
-  - Nogueira-Miranda, C. et al. (2020). "Coriolopsis species: A review on antifungal-secondary-metabolites-coprophilous-fungi and biological activities." Phytochemistry, 169, 112126.
-  - Moncalvo, J.M. & Ryvarden, L. (1997). "A nomenclatural study of the Polyporaceae." Synopsis Fungorum, 11, 1–76.
-  - Index Fungorum. "Coriolopsis polyzona (Pers.) Ryvarden." www.indexfungorum.org.
 created: 2026-04-28
 ---
 

@@ -20,7 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of elaeagnus-angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
   - Balandari, A. et al. (2020). "Nutritional and psilocybin-north-america-pacific-northwest where it is invasive in western riparian zones.
 ---
 

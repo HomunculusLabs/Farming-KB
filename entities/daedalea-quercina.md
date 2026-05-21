@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilb, G. (2004). "Mycena Species of the Northern Hemisphere." Fungiflora.
-  - Gilbertson, R.L. & Ryvarden, L. (1987). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora.
-  - Dai, Y.C. (2012). "Climatic constraints on the distribution of polypores in China." Mycosystema.
-  - Krief, A. et al. (2008). "Antimalarial compounds of the mushrooms Daedalea quercina." Journal of Ethnopharmacology 118(3): 331-335.
-  - Hernández, J.C. et al. (2003). "Antimicrobial activity of extracts from the white-rot fungus Daedalea quercina." Revista Iberoamericana de Micología 20(4): 153-156.
 created: 2026-04-28
 ---
 

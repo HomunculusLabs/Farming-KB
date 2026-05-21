@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
-  - Large, M.F. & Braggins, J.E. (2004). "Tree Ferns." Timber Press.
-  - CONABIO (2023). "Ficha técnica: Cibotium regale." Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
   - IUCN (2024). "The IUCN Red List of Threatened Species." iucnredlist.org.
 ---
 

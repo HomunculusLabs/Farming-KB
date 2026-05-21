@@ -143,8 +143,11 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 ### Plants for Amphibian Ponds
 | Plant | Type | Function |
 |-------|------|----------|
-| Blue flag iris ([[iris-versicolor]]) | Emergent | Egg-laying; cover; aesthetic |
-| Pickerelweed ([[pontederia-cordata]]) | Emergent | Cover; nectar for pollinators |
-| Soft rush ([[juncus-effusus]]) | Emergent | Egg attachment; cover |
-| Cattail ([[typha-latifolia]]) | Emergent | Cover; but can be aggressive—contain with barriers |
+| Blue flag iris (Iris versicolor) | Emergent | Egg-laying; cover; aesthetic |
+| Pickerelweed (Pontederia cordata) | Emergent | Cover; nectar for pollinators |
+| Soft rush (Juncus effusus) | Emergent | Egg attachment; cover |
+| Cattail (Typha latifolia) | Emergent | Cover; but can be aggressive—contain with barriers |
 | Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |
+## See Also
+
+- [[bird-habitat-creation]]

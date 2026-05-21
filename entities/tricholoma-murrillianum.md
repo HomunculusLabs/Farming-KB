@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Trudell, S.A. et al. (2017). "The growing-gourmet-north-american-reishi-species matsutake: Clarifying taxonomy, distribution, and nomenclature of an economically important fungal species complex." Mycologia, 109(5), 829–842.
-  - Redhead, S.A. & Norvell, L.L. (2006). "Tricholoma murrillianum, the correct name for the psilocybin-north-america-pacific-northwest Research Station, Portland.
-  - Pilz, D. & Molina, R. (2002). "Commercial harvests of edible mushrooms from the forests of the Pacific Northwest United States." Economic Botany, 56(3), 241–253.
 created: 2026-04-28
 ---
 

@@ -12,9 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Joshi, P., Dhawan, V. (2005). "swertia-chirayita — a review." Current Science,
     89(4), 635-641.
-  - Brahmachari, G. & Mondal, S. (2014). "The genus Swertia: A review of
     phytochemistry and pharmacology." Pharmacognosy Reviews, 8(16), 60-68.
   - Negi, J.S. et al. (2011). "phytochrome-red-far-red-light-switch-plant-pigments in traditional medicine.
 ---
@@ -79,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+Further research into swertia chirata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind swertia chirata provides a foundation for both practical application and continued scientific inquiry.

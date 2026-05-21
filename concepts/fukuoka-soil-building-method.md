@@ -1,4 +1,5 @@
 ---
+
 title: Fukuoka Soil Building Method
 created: 2026-04-12
 updated: 2026-04-12
@@ -137,13 +138,18 @@ Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds
 - Result: "In addition to being an effective means of controlling weeds, sowing vegetable seed among the weeds is also a powerful soil improvement technique"
 
 ## Soil Quality: Natural vs. Scientific Farming
+
+Fukuoka compares 30 years of natural farming with conventional methods:
+
+| Criterion | Natural Farming | Scientific Farming |
+|-----------|----------------|-------------------|
+| Organic matter | Increasing annually | Requires constant addition |
+| Micronutrients | No deficiencies observed | Requires testing and correction |
+| Soil acidity | Self-regulating | Requires lime application |
+| Physical structure | Improving, porous | Depends on tillage |
+| Tree lifespan | 2-3x longer | Declining |
 ## See Also
 
-- [[fukuoka-no-prune-fruit-tree-method]] — Orchard companion method
-- [[natural-farming-fukuoka]] — Full method overview
-- [[natural-farming-seed-balls]] — Seed protection technique
-- [[no-tillage-grain-systems]] — Modern no-till grain methods
-- [[cover-crop-termination]] — Cover crop management (modern approaches)
-- [[cannabis-living-soil-guide]] — Soil biology principles
-- [[one-straw-revolution-guide]] — Book context
-- [[natural-way-of-farming-guide]] — Detailed technical reference
+- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
+- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
+- [[fukuoka-soil-building-approach]]

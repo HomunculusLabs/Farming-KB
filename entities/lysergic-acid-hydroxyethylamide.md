@@ -19,13 +19,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1963). "The active principles of the seeds of Rivea
     corymbosa and Ipomoea tricolor." Planta Medica, 11(1), 84-90.
-  - Taber, W.A. & Heacock, R.A. (1962). "Lysergic acid hydroxyethylamide
     isolation." Nature, 196(4854), 500-501.
-  - Halpern, J.H. (2004). "Hallucinogens naturally growing in the US."
     Pharmacology & Therapeutics, 102(2), 131-138.
-  - Rechkemmer, G. et al. (2019). "Lysergamides: Chemistry and
     pharmacology." ACS Pharmacology & Translational Science, 2(4), 184-195.
   - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
 ---

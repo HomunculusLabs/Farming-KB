@@ -52,7 +52,7 @@ Rennet contains enzymes (chymosin) that coagulate milk proteins, forming curds:
 - Animal rennet: Traditional, from calf stomach. Strongest coagulation.
 - Vegetable rennet: From cardoon thistle or fig sap. Weaker coagulation.
 - Microbial rennet: Fermentation-derived. Consistent and widely available.
-- Rennet tablets vs liquid: Tablets have longer [[ingham-compost-tea-holding-time-shelf-life]]. Liquid is more precise for dosing.
+- Rennet tablets vs liquid: Tablets have longer shelf life. Liquid is more precise for dosing.
 
 ## Ricotta
 
@@ -121,7 +121,7 @@ Process:
 9. Heat whey (or water) to 170 F.
 10. Place curd in a bowl. Pour hot water over curds to reach 135 F.
 11. Stretch and fold the curd like taffy until smooth and glossy.
-12. Form into balls and drop into ice water [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]].
+12. Form into balls and drop into ice water to set.
 13. Store in brine (1 cup salt to 1 gallon water) or wrap and refrigerate.
 
 ## Using Whey

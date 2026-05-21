@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Lava Cake Weed Strain Information." Leafly.com.
-  - AllBud (2024). "Lava Cake Strain Review." AllBud.com.
-  - CannasOS (2023). "Lava Cake blesching-cannabis-strain-selection-receptor-targeting Genetics and Effects."
   - Cookies Fam (2022). "Strain Library: Lava Cake." Cookies Brand.
 ---
 ## Overview

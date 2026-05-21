@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sridhar, K.R. & Bhat, R. (2007). "Agronomic, nutritional, and medicinal attributes of Canavalia gladiata." Journal of Crop Improvement, 19(1), 109-145.
-  - Ezeagu, I.E. et al. (2003). "Nutritional assessment of Canavalia gladiata seeds." Plant Foods for Human Nutrition, 58(3), 1-9.
-  - Pugliese, A. et al. (2000). "Insecticidal activity of comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes: Evolution and Genetic Resources. Cambridge University Press.
-  - Ologhobo, A.D. & Fetuga, B.L. (1984). "Protein and mineral composition of some Nigerian legume seeds." Food Chemistry, 13(4), 303-310.
 created: 2026-04-28
 ---
 

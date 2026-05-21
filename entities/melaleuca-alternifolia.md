@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Carson, C.F. et al. (2006). "Melaleuca alternifolia (tea tree) oil: a review." Clinical Microbiology Reviews, 19(1), 50–62.
-  - Hammer, K.A. et al. (2012). "Antimicrobial activity of essential oils." International Journal of Aromatherapy, 22(3), 131–140.
-  - Brophy, J.J. et al. (1989). "The essential oil of Melaleuca alternifolia." Journal of Essential Oil Research, 1(2), 89–95.
-  - Homer, L.E. et al. (2000). "Genetic variation in Melaleuca alternifolia." Molecular Ecology, 9(10), 1475–1482.
   - Shellie, R.C. et al. (2002). "Tea tree oil." In: Essential Oils, Springer, pp. 239–267.
 ---
 

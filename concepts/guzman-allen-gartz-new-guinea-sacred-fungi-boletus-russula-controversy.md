@@ -13,7 +13,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi"
   - "Heim & Wasson (1958, 1965)"
   - "Heim (1963, 1965, 1978)"
   - "Corner (1972)"

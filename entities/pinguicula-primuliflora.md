@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Casper, S.J. (1966). "Monographie der Gattung Pinguicula L." Bibliotheca Botanica, 127/128, 1-209.
-  - Schlauer, J. (2005). "Carnivorous Plant Database." Published online.
-  - Cepaitis, A. (2004). "Growing Butterworts." Carnivorous Plant Newsletter, 33(2), 42-47.
   - D'Amato, P. (2013). "The Savage Garden." 2nd Edition. Ten Speed Press.
 ---
 

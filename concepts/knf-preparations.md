@@ -1,4 +1,5 @@
 ---
+
 title: KNF Preparations — Complete Input Guide
 created: 2026-04-10
 updated: 2026-04-12
@@ -122,28 +123,28 @@ Treats seeds to recover natural vitality before planting:
 Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before seeding/transplanting (14 days for repeated cultivation disorder). Apply 2-3 hours before sunset. See [[fermented-mixed-compost-fmc]] for FMC details.
 
 ## Pest Control Methods
-## See Also
 
-- [[indigenous-microorganisms-imo]] — step-by-step IMO collection (3 methods)
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed recipes
-- [[fish-amino-acid-faa]] — FAA recipe and application
-- [[oriental-herbal-nutrient-ohn]] — OHN recipe
-- [[lactic-acid-bacteria-lab]] — LAB serum recipe
-- [[soil-food-web-nutrient-cycling]] — why biological inputs work
-- [[jadam-methods]] — JADAM's parallel approach to self-made inputs
-- [[nutritive-cycle-theory]] — Cho's growth stage framework
-- [[fermented-mixed-compost-fmc]] — FMC recipe for soil building
-- [[water-soluble-calcium-wca]] — WS-Ca detailed preparation
-- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for changeover period
-- [[brown-rice-vinegar-brv]] — BRV as extraction solvent and growth stimulant
+KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for biological pest control.
 
-## Related
+### Aromatic Insect Attractant (AIA)
+- Slit open a PET bottle on two sides
+- Fill with rice wine and FPJ diluted 300 times (FFJ is best for attracting insects)
+- Hang at the height of fruits/leaves that moths/butterflies target
+- Install during egg-laying season — useless once insects have already laid eggs
+- Hang 4-6 bottles per fruit tree, at plant height for vegetables
 
-- [[knf-input-application-timing]]
+### Fluorescent Insect Attractant (FIA)
+- Hang fluorescent light vertically on an L-shaped zinc sheet
+- Place basin of water with gasoline/kerosene underneath
+- Insects attracted to light fall into water and drown
+- Most effective during peak reproductive growth and vegetative growth of leafy vegetables
 
-- [[knf-oha]]
+## Crack Prevention Treatment
 
-- [[knf-soap-water-and-hot-pepper]]
-- [[complete-knf-input-reference]] — complete input reference
-- [[knf-vs-jadam-vs-em]] — comparison
-- [[soil-amendment-reference]] — amendment quick-reference by nutrient
+For fruits/vegetables during drought (to prevent cracking when rains arrive):
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| BRV | 2 ml |
+| FPJ | 2 ml |

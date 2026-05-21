@@ -137,14 +137,14 @@ Food forests evolve over time through natural succession.
 - Soil biology is well-established; organic matter cycling increases
 
 ### Climax Stage (Years 10+)
-## See Also
+- Full canopy with productive understory; self-maintaining system
+- Maximum diversity and productivity; periodic management needed (pruning, thinning)
 
-- [[backyard-orchard-design]] for more focused orchard planning
-- [[urban-farming-methods]] for adapting food forest principles to small spaces
-- [[permaculture-principles]] for broader design principles
+## Maintenance
 
-## Related
+### Water Management
+- Design swales and berms to capture rainwater on contour
+- Mulch heavily (6-12 inches initially) to retain moisture
+- Drip irrigation for establishment; reduce over time
 
-- [[deer-fencing-and-deterrents]]
-- [[wildfire-preparedness-guide]]
-- [[backyard-food-forest-design]]
+### Pruning and Thinning

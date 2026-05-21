@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Halberstadt, A.L. et al. (2020). "Pharmacology of NBOMe hallucinogens." Pharmacology & Therapeutics 210: 107549.
-  - Brüne, S. et al. (2018). "Pharmacological profiling of NBOMe compounds at 5-HT2A and 5-HT2C receptors." Biochemical Pharmacology 158: 321-328.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
-  - Suzuki, J. et al. (2015). "25B-NBOMe-related death." Journal of Analytical Toxicology 39(8): 644-646.
   - EMCDDA (2014). "Risk assessment of 25i-nbome." EMCDDA-Europol.---
 ---
 
@@ -81,3 +77,5 @@ tremor, jaw clenching.
 ## See Also
 - [[serotonin]]
 - [[25c-nbome]]
+Further research into 25b nbome continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind 25b nbome provides a foundation for both practical application and continued scientific inquiry.

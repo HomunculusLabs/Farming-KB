@@ -11,10 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1997). "TiHKAL: The Continuation." Transform Press.
-  - Shulgin, A.T. et al. (2004). "5-Methoxy-N,N-dipropyltryptamine." Bioorganic & Medicinal Chemistry Letters, 14(22), 5563–5565.
   - Erowid. "5-MeO-DPT Vault." erowid.org.
-  - Dean, B.J. et al. (2023). "Pharmacological profiling of 5-MeO-substituted tryptamines." Journal of Psychopharmacology, 37(4), 389–402.
 created: 2026-04-28
 ---
 

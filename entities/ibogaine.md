@@ -6,11 +6,8 @@ tags:
 
   - psychedelic
     Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
-  - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical
     Dependence." The Ibogaine Story. Lotsof & Wachtel.
-  - Popik, P. et al. (1995). "Mechanisms of Action of Ibogaine."
     Pharmacology Biochemistry and Behavior, 51(2-3), 559-566.
-  - Glick, S.D. et al. (2001). "Ibogaine: Antiaddictive and
     Antiwithdrawal Effects." Handbook of Experimental Pharmacology,
     Vol. 154.
 ---

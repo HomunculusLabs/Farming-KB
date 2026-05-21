@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Courtecuisse, R. & Duhem, B. (1995). Mushrooms and Toadstools of Britain and Europe. HarperCollins."
-  - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland, Vol. 3. Verlag Mykologia."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
   - "Basso, M.T. (1999). Fungi Europaei, Vol. 1: Agaricus. Edizioni Candusso."
 ---

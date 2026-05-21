@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Graffiti, J. & Chamberlain, D.F. (2000). "Myosotis." Flora of Turkey and the East Aegean Islands, Vol. 11.
-  - RHS (2024). "Myosotis sylvatica — Gardening Advice." Royal Horticultural Society.
-  - USDA NRCS (2024). "PLANTS Profile: Myosotis sylvatica." plants.usda.gov.
   - Tutin, T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Tuli, H.S., et al. (2014). "Cordycepin and its Potential bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies from the host insect. C. militaris is the most commercially viable Cordyceps species due to its ability to be cultivated on artificial substrates, unlike the more famous bloomfield-mushroom-formation-fruiting-body-development-cultivation resembling a psilocybin-north-america-pacific-northwest.
 ---
 

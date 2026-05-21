@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). Primula. Timber Press, Portland.
-  - Hu, Q.M. & Kelso, S. (1996). "Primula (Primulaceae) in China." Edinburgh Journal of Botany 53(3): 323–351.
-  - The Alpine Garden Society. "Candelabra Primulas." alpinegardensociety.net.
-  - Grey-Wilson, C. (1989). "Primulas of Europe and America." Timber Press.
   - Ohba, H. (1999). "Primulaceae." In: Iwatsuki, K. et al. (eds.), Flora of Japan, Vol. IIb.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grau, J. (1978). "Revision of the genus Schizanthus (Solanaceae)." Botanische Jahrbücher für Systematik 99: 361-410.
-  - Cocucci, A.A. (1989). "Biología reproductiva de Schizanthus (Solanaceae)." Darwiniana 29: 23-36.
-  - Pérez, F. et al. (2013). "Floral diversification and pollination in Schizanthus." Annals of Botany 112(6): 1205-1216.
   - Hunziker, A.T. (2001). "Genera Solanacearum." ARG Gantner Verlag.
 ---
 

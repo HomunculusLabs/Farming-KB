@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H.A. & Anderson, L.E. (1981). Mosses of polypore-fungi-eastern-north-america. Columbia University Press.
-  - Murray, B.M. (1988). "Systematics of the Andreaeopsida." Journal of the Hattori Botanical Laboratory, 64, 65-78.
-  - Schofield, W.B. (1985). Introduction to Bryology. Macmillan Publishing.
-  - Glime, J.M. (2017). "Andreaea." Bryophyte Ecology, Vol. 2.
   - Goffinet, B. & Buck, W.R. (2004). "Systematics of the Bryophyta." Molecular Phylogenetics and Evolution, 33(3), 935-942.
 ---
 

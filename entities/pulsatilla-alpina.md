@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Akeroyd, J.R. (1993). "Pulsatilla." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Hultén, E. & Fries, M. (1986). Atlas of North European Vascular Plants. Koeltz Scientific Books.
   - Tammaro, F. & Pellegrino, G. (1977). "Il genere Pulsatilla in Italia." Annali di Botanica, 36, 71-92.
 ---
 

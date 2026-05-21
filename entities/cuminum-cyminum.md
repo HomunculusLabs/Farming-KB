@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bettaieb, I. et al. (2011). "Cumin (Cuminum cyminum L.) seeds: chemical composition and nutritional value." Industrial Crops and Products, 34(2), 1337-1344.
   - Johri, R.K. (2011). "Cuminum cyminum and permaculture-designers-manual-essential-oil-plants and its antioxidant activity." Journal of Food Science and Technology, 56(3), 1382-1390.
 ---
 

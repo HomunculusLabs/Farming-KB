@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Yoshida T. (1998). "Marine algae of Japan." Uchida Rokakuho Publishing, Tokyo.
-  - Ohno M. (2004). "Biology and technology of economic seaweeds." Uchida Rokakuho Publishing.
-  - Kawai H. (2006). "Seaweed resources of Japan." Japanese Journal of Phycology, 54, 15–30.
-  - Miura A. (1993). "Japanese seaweeds and their uses." Japan Fisheries Resource Conservation Association.
   - Fleurence J. (1999). "Seaweed proteins: biochemical and nutritional aspects." Trends in Food Science & Technology, 10, 25–28.
 ---
 

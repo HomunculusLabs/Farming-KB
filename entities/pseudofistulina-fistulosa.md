@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden L., Gilbourn C.L. (2004). "European polypores part 2." Synopsis Fungorum.
-  - Bernicchia A., Gorjón S.P. (2010). "Fungi Europaei: Polyporaceae s.l." Edizioni Candusso.
-  - Spirin V.A., Zmitrovich I.V. (2021). "Polyporoid and corticioid fungi of the Northern Hemisphere." — Nauka.
-  - Kotiranta H., Saarenoksa R. (2007). "Polyporales of Finland." — Finnish Museum of Natural History.
 created: 2026-04-28
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Tulloss RE, Yang ZL (2022). "Amanita in China." Mycotaxon.
-  - Neville P, Poumarat S (2004). "Amanitaceae." Fungi Europaei Vol. 9.
-  - Breitenbach J, Kränzlin F (1995). "Fungi of Switzerland Vol. 4." Verlag Mykologia.
   - Benjamin DR (1995). "Mushrooms: Poisons and Panaceas." WH Freeman.
 ---
 

@@ -13,9 +13,6 @@ tags:
   - psoralen
   - apiaceae
 sources:
-  - "Pathak, M.A. & Fitzpatrick, T.B. (1992). \"The history of psoralen compounds.\" Journal of Photochemistry and Photobiology B: Biology, 14(1–2), 3–21."
-  - "Musajo, L. & Rodighiero, G. (1972). \"Mode of photosensitizing action of furocoumarins.\" Photophysiology, 7, 149–200."
-  - "Stern, R.S. & Morison, W.L. (2011). \"PUVA (psoralen plus ultraviolet A) therapy.\" Journal of the American Academy of Dermatology, 64(4), 740–750."
   - "Ostertag, J. et al. (2018). \"Furanocoumarins: phototoxicity, photoprotection, and their role in plant defense.\" Comprehensive Natural Products II, 6, 299–322."
 ---
 

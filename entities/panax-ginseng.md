@@ -5,7 +5,6 @@ tags: [herbal-plant, adaptogen, traditional-medicine, ginsenosides, araliaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lee, F.C. et al. (2022). Ginsenosides: Pharmacological effects and clinical evidence. Journal of Ginseng Research, 46(1), 1-14."
   - "Kang, K.S. & Kim, H.Y. (2021). Botanical eleutherococcus-senticosus* (Siberian ginseng), which belongs to a different genus entirely despite the shared common name.
 ---
 

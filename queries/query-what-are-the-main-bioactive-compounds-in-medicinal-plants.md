@@ -5,7 +5,6 @@ tags: [phytochemistry, medicinal-plants, bioactive-compounds, herbalism, faq]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - title: Medicinal Plants and Their Bioactive Compounds
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959457/
   - title: WHO Monographs on Medicinal Plants
     url: https://www.who.int/publications/i/item/9789241545569

@@ -19,11 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gilbertson R.L., Ryvarden L. (1986). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora,
     Oslo, Vol. 1, pp. 156-159.
-  - Spirin W.A. et al. (2015). "Molecular phylogeny of the polypore genus
     Bondarzewia (basidiomycota, Russulales)." Mycological Progress 14: 102.
-  - Kuo M. (2024). "Bondarzewia berkeleyi." MushroomExpert.com.
   -=https://www.mushroomexpert.com/bondarzewia_berkeleyi.html
   -=https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=155001
 ---
@@ -79,3 +76,5 @@ Prefers mature hardwood forests on well-drained soils.
 classifying it as a brown-rot agent — modern studies confirm [[grifola-frondosa]]*** (Maitake) — Superficially similar multi-shelf
   appearance but in Meripilaceae; different pore structure, no amyloid spores.
 - ***[[decomposition]]
+Further research into bondarzewia berkeleyi continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind bondarzewia berkeleyi provides a foundation for both practical application and continued scientific inquiry.

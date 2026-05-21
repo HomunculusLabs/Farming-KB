@@ -13,10 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - J. Russell Smith, "Tree Crops: A Permanent Agriculture" (1953)
   - Mark Shepard, "Restoration Agriculture" (2013)
-  - Eric Toensmeier, "The Carbon Farming Solution" (2016)
-  - Wes Jackson, The Land Institute — perennial grain breeding research
   - USDA NASS Crop Reports and Nut Crop Statistics
   - Martin Crawford, "Creating a Forest Garden" (2010)
 type: comparison

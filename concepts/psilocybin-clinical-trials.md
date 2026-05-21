@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-After a decades-long research hiatus caused by prohibition, clinical trials of [[psilocybin]] have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant therapeutic potential across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence.
+After a decades-long research hiatus caused by prohibition, clinical trials of psilocybin have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant therapeutic potential across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence.
 
 ## Treatment-Resistant Depression
 
@@ -23,11 +23,11 @@ The strongest evidence base for psilocybin is in treatment-resistant depression 
 
 - **Carhart-Harris et al. (2016, Imperial College London)**: 12 patients with moderate-to-severe TRD received two doses of psilocybin (10mg and 25mg) one week apart. All 12 showed reductions in depressive symptoms at 1 week; 8 of 12 were in remission at 3 months. This was a proof-of-concept open-label study with no control group.
 
-- **Carhart-Harris et al. (2021, Imperial College London)**: Randomized controlled trial comparing [[psilocybin-therapy]] with escitalopram (SSRI) in 59 patients with moderate-to-severe depression. Both groups improved, but the psilocybin group showed faster onset, greater effect size, and more robust improvements in secondary measures (wellbeing, suicidality, anhedonia).
+- **Carhart-Harris et al. (2021, Imperial College London)**: Randomized controlled trial comparing psilocybin therapy with escitalopram (SSRI) in 59 patients with moderate-to-severe depression. Both groups improved, but the psilocybin group showed faster onset, greater effect size, and more robust improvements in secondary measures (wellbeing, suicidality, anhedonia).
 
 ### COMPASS Pathways Phase III
 
-**[[compass-pathways]]** is a mental health care company developing a synthesized psilocybin formulation (COMP360) for TRD:
+**COMPASS Pathways** is a mental health care company developing a synthesized psilocybin formulation (COMP360) for TRD:
 
 - **Phase IIb (2021)**: 233 patients across 22 sites in 10 countries. Single 25mg dose of COMP360 with psychological support showed rapid and sustained antidepressant effects. Response rate at 3 weeks: 29% (25mg), compared to 9% (1mg control) and 12% (10mg). Remission at 3 weeks: 9% (25mg) vs. 3% (1mg control).
 - **Phase III (2022-present)**: Two pivotal Phase III trials underway. Largest psilocybin clinical program globally. Primary endpoint: change in MADRS (Montgomery-Asberg Depression Rating Scale) at 6 weeks.
@@ -118,3 +118,10 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - **Canada**: Special Access Programme available for psilocybin under specific circumstances
 
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
+## See Also
+
+- [[psk-and-psp-clinical-trials-and-cancer-treatment-outcomes]]
+- [[mushroom-cancer-clinical-trials-overview]]
+- [[schizophyllan-cancer-clinical-trials]]
+- [[psilocybin-clinical-research-history]]
+- [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]

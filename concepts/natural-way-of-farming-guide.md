@@ -1,4 +1,5 @@
 ---
+
 title: The Natural Way of Farming — Book Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -138,12 +139,14 @@ Fukuoka's most radical claim: fruit trees do not need pruning if grown in their 
 Detailed semi-wild cultivation method integrated into orchards. See [[fukuoka-soil-building-method]] for soil-building context.
 
 ## Book IV: Nature Farming Throughout the World
+
+### Global Applications
+
+Fukuoka applied his methods across continents:
+
+**Somalia (1985)**: Vegetated desert slopes near the Indian Ocean using clay seed balls of desert grasses, then green manure crops, then fruit trees. Trees grew 12 feet in 2-3 years on previously barren land.
+
+**India**: In the state of Karnataka, helped restore degraded lands by direct-seeding native species in clay pellets.
 ## See Also
 
-- [[one-straw-revolution-guide]] — The narrative/philosophical companion
-- [[natural-farming-fukuoka]] — Combined practical summary
-- [[fukuoka-no-prune-fruit-tree-method]] — Detailed orchard technique
-- [[fukuoka-soil-building-method]] — Soil restoration from barren land
-- [[natural-farming-seed-balls]] — Clay pellet technique
-- [[masanobu-fukuoka]] — Biographical entity page
-- [[natural-farming-vs-organic-vs-conventional]] — Comparison with other methods
+- [[natural-farming-fpj-preparation]]

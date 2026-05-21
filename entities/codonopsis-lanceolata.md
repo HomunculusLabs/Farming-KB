@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong DY, Pan JT, Smit HG (2011). "Codonopsis." In: Flora of China Vol. 19. Science Press.
-  - Lee CB (2003). "Coloured Flora of Korea." Hyangmunsa, Seoul.
-  - Kim JH et al. (2014). "Anti-inflammatory Activity of Codonopsis lanceolata Root Extract." Journal of Ethnopharmacology 153(3): 670–677.
-  - Jang HI et al. (2016). "Deodeok (Codonopsis lanceolata) Cultivation in Korea." Horticultural Science Korea 34(2): 145–152.
   - Lee YN (1996). "Flora of Korea." Kyohak Publishing, Seoul.
 ---
 

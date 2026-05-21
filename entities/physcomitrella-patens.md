@@ -9,8 +9,6 @@ tags:
   - funariaceae
 date: 2026-05-10
 sources:
-  - Rensing, S.A. et al. (2008). "The Physcomitrella genome reveals evolutionary insights into the conquest of land by plants." Science, 319(5859), 64-69.
-  - Cove, D.J. et al. (2006). "The moss Physcomitrella patens: a model organism with a model genome." The Plant Journal, 45(4), 483-493.
   - Lang, D. et al. (2018). "The Physcomitrella patens chromosome-scale assembly reveals moss genome jeavons-climate-adaptation-growing-seasons.
 ---
 

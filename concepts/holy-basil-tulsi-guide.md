@@ -22,7 +22,7 @@ reducing properties.
 
 ## Botanical Profile
 
-- Scientific name: [[ocimum-sanctum]] (syn. O. tenuiflorum)
+- Scientific name: Ocimum sanctum (syn. O. tenuiflorum)
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 10-11 (grown as annual in all other zones)
 - Lifecycle: Tender perennial, grown as annual in temperate climates
@@ -37,7 +37,7 @@ Primary varieties:
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
   camphor-like aroma. More frost-tolerant than other varieties.
 
-Note: Tulsi is distinct from culinary sweet basil ([[ocimum-basilicum]]), though
+Note: Tulsi is distinct from culinary sweet basil (Ocimum basilicum), though
 they are in the same genus. Tulsi is more medicinal, more intensely aromatic,
 and has a different flavor profile.
 
@@ -45,7 +45,7 @@ and has a different flavor profile.
 
 Tulsi is classified as an adaptogen in Ayurvedic medicine, helping the body
 adapt to stress and maintain balance. Key active compounds include eugenol,
-caryophyllene, [[ursolic-acid]], rosmarinic acid, and linalool.
+caryophyllene, ursolic acid, rosmarinic acid, and linalool.
 
 Key medicinal applications:
 
@@ -142,9 +142,14 @@ Tulsi is one of the best herbs for daily tea consumption:
 
 For fresh tea:
 1. Harvest 8-10 fresh leaves per cup
+2. Pour boiling water over leaves
+3. Cover and steep 5-7 minutes
+4. Strain and enjoy plain or with honey and lemon
+
+For dried tea:
+1. Harvest leafy stems before flowering for the best flavor
 ## See Also
 
-- [[chamomile-growing-guide]] -- combine with tulsi in calming evening tea
-  blends
-- [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
-  comprehensive stress and wellness support
+- [[query-how-to-grow-tulsi-holy-basil-medicinal-garden]]
+- [[query-how-to-grow-and-use-basil-in-your-garden]]
+- [[comparison-mullein-vs-tulsi]]

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Carolin RC (1992). "Wahlenbergia." In: Flora of Australia, Vol. 35. AGPS Press, Canberra.
-  - Smith JE (2020). "Campanulaceae of the Southern Hemisphere." Systematic Botany Monographs 108: 1-245.
   - Thulin M (1975). "The genus Wahlenbergia in tropical Africa." Symbolae Botanicae Upsalienses 21(1): 1-52.
 ---
 

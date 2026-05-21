@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tutin, T.G. et al. (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Clapham, A.R. et al. (1987). Flora of the British Isles, 3rd ed. Cambridge University Press.
-  - Grime, J.P. et al. (2007). Comparative Plant Ecology, 2nd ed. Castlepoint Press.
-  - RHS (2024). "Lychnis flos-cuculi." Royal Horticultural Society Plant Finder.
   - Preston, C.D. & Hill, M.O. (1997). "The geographical relationships of British and Irish vascular plants." Botanical Journal of the Linnean Society 124: 1–20.
 ---
 

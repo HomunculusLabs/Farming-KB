@@ -66,14 +66,14 @@ Mushroom photography requires specific techniques different from general nature 
 
 ### Backlighting and Translucency
 - Many mushrooms are partially translucent when backlit
-- Position light source behind [[verticillium-malthousei-entity-the-mushroom-cultivator]] for dramatic glow effect
+- Position light source behind the mushroom for dramatic glow effect
 - Best with thin-fleshed species (chanterelles, oysters, parasols)
 - Expose for the bright background and let the mushroom silhouette slightly
 
 ## Composition
 
 ### Angles
-- **Ground level**: [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] mushroom photography angle; get down to the mushroom's level
+- **Ground level**: The most important mushroom photography angle; get down to the mushroom's level
 - **Slight upward angle**: Emphasizes the cap and makes mushrooms appear majestic
 - **Top-down**: Shows cap features, spore patterns, and growth rings
 - **Side profile**: Best for showing gills, pores, and overall form
@@ -88,9 +88,9 @@ Mushroom photography requires specific techniques different from general nature 
 
 ### Groupings and Patterns
 - Clusters of mushrooms create natural repetition and visual interest
-- [[fairy-rings-and-giant-mycelia]] arc patterns document ecological phenomena
+- Fairy rings and arc patterns document ecological phenomena
 - Sequence shots showing growth stages tell biological stories
-- Multiple species [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] frame shows community interactions
+- Multiple species in one frame shows community interactions
 
 ### Scale and Context
 - Include recognizable objects (leaves, acorns, fingers) for size reference
@@ -103,7 +103,7 @@ Mushroom photography requires specific techniques different from general nature 
 Mushrooms have depth (cap to stem base) that often exceeds the sharp zone at macro distances:
 - At 1:1 magnification, f/16 gives approximately 1-2mm depth of field
 - Entire mushrooms are rarely sharp in a single exposure
-- This [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] fundamental challenge of mushroom photography
+- This is the fundamental challenge of mushroom photography
 
 ### Focus Stacking
 The primary technique for sharp mushroom images:
@@ -118,7 +118,7 @@ Process:
 1. Mount camera on tripod; compose the shot
 2. Set manual exposure; use consistent lighting
 3. Set aperture to sharpest setting (often f/5.6-f/8 for macro lenses)
-4. Focus on the nearest point [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] mushroom; take a photo
+4. Focus on the nearest point of the mushroom; take a photo
 5. Move focus slightly deeper into the subject; take another photo
 6. Repeat until the farthest point is in focus
 7. Typically 15-50 images for a complete mushroom
@@ -133,7 +133,7 @@ Tips:
 ### Single-Shot Alternatives
 - Focus on the most important part (usually the cap/gills)
 - Use f/16-f/22 for maximum depth of field (accept some diffraction softening)
-- Position the camera so the mushroom's key features are [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] same focal plane
+- Position the camera so the mushroom's key features are in the same focal plane
 - Use wider focal lengths for more depth of field
 
 ## Specialized Techniques
@@ -143,8 +143,13 @@ For documentation and identification purposes:
 - Cap top (showing color, texture, any patterns)
 - Cap underside (gills, pores, teeth -- critical for identification)
 - Stem (base to top, any ring or volva)
+- Cross-section (cut in half vertically)
+- Habitat (surrounding trees, soil type, associated plants)
+- Spore print (if possible)
+
+### Time-Lapse
 ## See Also
 
-- [[mushroom-foraging-safety]] -- ethical practices while photographing in the field
-- [[mushroom-festivals-and-events]] -- photography competitions and workshops at events
-- [[edible-wild-mushrooms-by-region]] -- regional subjects for your photography
+- [[enclosed-ecosystem-mushroom-cultivation]]
+- [[community-garden-mushroom-integration]]
+- [[mushroom-composting-and-recycling]]

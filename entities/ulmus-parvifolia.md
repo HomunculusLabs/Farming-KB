@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ware, G.H. (1995). "Little-known Chinese Elms: Species and Cultivars." Arnoldia, 55(3), 44-55.
-  - Gilman, E.F. & Watson, D.G. (1993). "Ulmus parvifolia Fact Sheet." UF/IFAS Extension.
-  - Santamour, F.S. (1988). "Germplasm Resources of Asian Elms." Journal of Arboriculture, 14(9), 220-226.
-  - Townsend, A.M. et al. (2005). "Dutch Elm Disease Resistance in Asian Elms." HortScience, 40(3), 731-734.
   - Yang, Y. et al. (2019). "Phylogeny and Biogeography of Ulmus." Molecular Phylogenetics and Evolution, 138, 140-150.
 ---
 

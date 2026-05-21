@@ -19,7 +19,7 @@ Several fungal species have demonstrated coal-solubilizing activity:
 Lignite, the lowest rank of coal, is particularly susceptible to fungal solubilization due to its high oxygen content and relatively low degree of aromatic condensation. Lignite contains abundant carboxylic acid, phenolic, and other oxygen-containing functional groups that are targets for [[ph-and-nutrient-availability-garden-soils]] affect both fungal growth and coal solubilization. The size of coal particles influences the surface area available for fungal attack, with smaller particles generally being more readily solubilized.
 
 The presence of cosubstrates can enhance fungal growth and [[white-rot-fungi-bioremediation]]
-- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-overview]]
 - fungal-ligninolytic-enzymes-in-industrial-applications
 ## Practical Considerations
 

@@ -9,11 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." MBG Press.
-  - Goldblatt, P. (1992). "Phylogenetic Analysis of the Southern African Genus Sparaxis." Annals of the Missouri Botanical Garden, 79(1): 143-157.
-  - RHS (2024). "Sparaxis tricolor — Royal Horticultural Society Plant Finder." rhs.org.uk.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
-  - Snijman, D.A. (1984). "A Revision of the Genus Sparaxis Ker Gawler." Contributions from the Bolus Herbarium, 13: 1-48.
   - IUCN (2023). "Sparaxis tricolor. The IUCN Red List of Threatened Species." iucnredlist.org.
 ---
 

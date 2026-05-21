@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schultes, R.E. & Raffauf, R.F. (1990). *The Healing Forest: Medicinal and Toxic Plants of the Northwest Amazonia.* Dioscorides Press.
-  - Morton, J.F. (1987). "Genipap." In: *Fruits of Warm Climates*. Julia F. Morton, Miami, FL.
-  - Dharmananda, S. (2003). "Genipap (Genipa americana) — Ethnobotany and Pharmacology." Institute for Traditional Medicine.
-  - Ott, J. (1993). *Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History.* Natural Products Co.
   - Pennington, T.D. (1990). *Flora Neotropica Monograph 52: Rubiaceae (Part 2).* New York Botanical Garden Press.
 ---
 

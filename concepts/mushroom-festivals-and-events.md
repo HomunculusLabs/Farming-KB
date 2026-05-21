@@ -52,7 +52,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Fungi Festivals in France and Italy
 - France: Multiple regional mushroom exhibitions (Champignon fairs)
 - Italy: Feste dei funghi in various regions (Tuscany, Piedmont, Trentino)
-- Often coincide with truffle festivals (Alba [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] Truffle Festival)
+- Often coincide with truffle festivals (Alba White Truffle Festival)
 - Strong culinary tradition with wild mushroom focus
 
 ### Nordic Mycological Events
@@ -133,18 +133,18 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Conservation and Stewardship
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
-- Events promote sustainable foraging practices (see [[mushroom-foraging-safety]])
+- Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
 - Public education about fungal ecology and forest health
 - Advocacy for forest conservation and mycological research funding
 
 ### Cultural Traditions
 - Mushroom festivals connect people to seasonal rhythms
-- Many traditions tied to specific regional and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]s
+- Many traditions tied to specific regional and cultural contexts
 - Eastern European mushroom foraging traditions maintained through community events
 - Asian mycological societies preserve traditional mushroom knowledge
 - Indigenous mushroom traditions shared at cultural events
-## See Also
 
-- [[mushroom-foraging-safety]] -- ethical harvesting practices for forays
-- [[edible-wild-mushrooms-by-region]] -- regional species guides for foray planning
-- [[mushroom-photography-guide]] -- documenting your foray finds
+## Online and Virtual Events
+
+### Digital Forays and Webinars
+- Post-2020 expansion of virtual mycological programming

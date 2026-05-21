@@ -5,11 +5,8 @@ tags: [amanita, mycology, ethnobotany, psychedelic, ancient-religion, fly-agaric
 date: 2026-04-28
 updated: 2026-05-19
 sources:
-  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
-  - "raw/papers/hallucinogens-and-shamanism-harner-anthology.md"
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 related_concepts:
   - amanita-genus-morphology
@@ -22,7 +19,6 @@ related_concepts:
   - amanita-herb-norse-odin-berserkers
   - amanita-herb-greek-roman-culture
   - amanita-muscaria-eucharist-wafer-preparation
-  - amanita-muscaria-fly-agaric-history-and-pharmacology
   - amanita-muscaria-preparation-methods
   - amanita-phalloides-death-cap
   - harner-amanita-muscaria-siberian-shamanism

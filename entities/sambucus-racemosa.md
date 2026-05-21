@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
-  - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
-  - Charlebois, D. & Byers, P.L. (2000). "Elderberry (Sambucus) comparison-biochar-production-guide-vs-biochar-soil-amendment." University of Missouri Extension.
-  - USDA NRCS (2024). Plant Profile: Sambucus racemosa. plants.usda.gov.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
 ---
 

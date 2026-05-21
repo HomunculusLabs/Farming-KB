@@ -20,10 +20,8 @@ tags:
   - phase-II-metabolism
 related:
   - glutathione-and-cellular-antioxidant-defense
-  - structure-activity-relationship-medicinal-chemistry
   - fenton-reaction-chemistry-and-biochemistry
   - reactive-oxygen-species
-  - protein-folding-and-misfolding-diseases-biochemistry
 type: concept
 sources:
   - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"

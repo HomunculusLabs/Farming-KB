@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Kärnefelt, I. & Thell, A. (1994). "Cetraria." In: Nordic Lichen Flora, Vol. 1.
-  - Thomson, J.W. (1984). "American Arctic Lichens." Columbia University Press.
   - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
 ---
 

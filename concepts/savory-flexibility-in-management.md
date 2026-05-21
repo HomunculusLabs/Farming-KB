@@ -5,7 +5,6 @@ tags: [planning, adaptability, drought-response, decision-framework]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Flexibility in Management
 

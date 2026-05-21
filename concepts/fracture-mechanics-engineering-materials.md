@@ -5,7 +5,6 @@ tags: [engineering, materials-science, fracture-mechanics, fatigue, structural-i
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 type: concept
 ---
 

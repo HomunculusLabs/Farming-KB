@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Pelletier, V. (2001). "The Boston fern story." American Fern Journal 91(3): 113–118.
-  - Lellinger, D.B. (1985). A Field Manual of the Ferns and Fern-Allies of the United States and Canada. Smithsonian Institution Press.
   - USDA NRCS (2024). "Nephrolepis exaltata." PLANTS Database.
 ---
 

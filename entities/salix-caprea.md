@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Journal of Botany, 97(5), 797–821.
-  - Meikle, R.D. (1984). "Willows and Poplars of Great Britain and Ireland." Botanical Society of the British Isles, London.
-  - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
-  - Taller, J. & Bärlocher, F. (2006). "Willow leaf dighton-pine-needle-litter-decomposition-fungal-succession and fungal species composition." Canadian Journal of Botany, 84, 916–926.
   - Grime, J.P. et al. (1988). "Comparative Plant Ecology: A Functional Approach to Common British Species." Unwin Hyman, London.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
-  - Kossuth, S.V. & Michael, J.L. (1990). "Pitch Pine (Pinus rigida Mill.): A Bibliography." USDA Forest Service General Technical Report SE-68.
   - Ledig, F.T. & Kuser, J.E. (1992). "polypore-fungi-eastern-north-america. It is most recognized for its exceptional fire adaptation, including serotinous cones and basal sprouting ability. The species is a dominant tree of the Atlantic coastal pine barrens ecosystem.
 ---
 

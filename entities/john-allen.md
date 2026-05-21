@@ -11,7 +11,6 @@ aliases:
   - Mushroom John
 tags: [person, mycology, ethnomycology, psilocybe, photography]
 sources:
-  - concepts/allen-magic-mushrooms-australia-newzealand-species-guide.md
   - concepts/magic-mushrooms-australia-new-zealand.md
   - concepts/psilocybe-samuiensis-profile.md
   - concepts/copelandia-genus-species-guide.md

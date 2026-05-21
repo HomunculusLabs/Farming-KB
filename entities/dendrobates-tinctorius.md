@@ -12,9 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Daly, J.W. (1995). "The chemistry of poisons in amphibian skin." Proceedings of the National Academy of Sciences, 92(1), 9–13.
-  - Myers, C.W. & Daly, J.W. (1976). "Preliminary evaluation of skin toxins and vocalizations in taxonomic and evolutionary studies of poison-dart frogs." Toxicon, 14, 527–534.
-  - Grant, T. et al. (2006). "Phylogenetic systematics of dart-poison frogs and their relatives." Bulletin of the American Museum of Natural History, 299, 1–262.
   - IUCN Red List (2024). "Dendrobates tinctorius." https://www.iucnredlist.org/species/55037/17907965
 ---
 

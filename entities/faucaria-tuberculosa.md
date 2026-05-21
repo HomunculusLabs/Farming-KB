@@ -9,8 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Hammer, S. (1993). "The Genus Faucaria." Mesemb Study Group Bulletin.
-  - Smith, G.F. et al. (1998). "Mesembs of the World." Briza Publications.
   - International Plant Names Index (IPNI). "Faucaria tuberculosa (Rolfe) Schwantes."
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vaughan, D.A. et al. (2006). "The Asian Vigna: genus Vigna subgenus Ceratotropis genetic resources." Springer.
-  - Itoh, T. et al. (2020). "Health benefits of adzuki bean (Vigna angularis)." Food Science and Technology Research, 26(4), 477–485.
-  - Zou, B. et al. (2012). "In vitro antioxidant activity and in vivo anti-fatigue effect of adzuki bean." Journal of Agricultural and Food Chemistry, 60(19), 5011–5016.
   - Srinives, P. & Chitaree, N. (2003). "comparison-cowpea-vs-mung-bean, is an annual legume in the family Fabaceae. It is native to savory-growing-season-and-non-growing-season-management and adaptability to diverse climates have facilitated its spread to over 30 countries.
 ---
 

@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
   - Styles, B.T. & Khosla, P.K. (1976). "Cytology and guzman-allen-gartz-neurotropic-fungi-central-america-caribbean.
 ---
 

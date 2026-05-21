@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. (1976). "Jasione L." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Sell, P.D. & Murrell, G. (2006). "Flora of Great Britain and Ireland." Vol. 4. Cambridge University Press.
-  - Smissen, R.D. et al. (2002). "Phylogeny of Campanulaceae s.l. inferred from ITS sequences." Taxon, 51(1): 45–56.
   - Clapham, A.R., Tutin, T.G. & Warburg, E.F. (1987). "Flora of the British Isles." 3rd ed. Cambridge University Press.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
-  - Preston, C. D., Pearman, D. A. & Dines, T. D. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
-  - Tryon, R. M. (1960). "A Review of the Genus Cryptogramma." Contributions from the Gray Herbarium, 183: 45–56.
   - Jermy, A. C. & Camus, J. M. (1991). "The Illustrated polypore-fungi-eastern-north-america. In Europe, it is found from Iceland and the British Isles through Scandinavia to the Alps, Pyrenees, and Carpathians.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - García-Sosa J et al. (2024). "Phytochemical and Pharmacological Review of Kalanchoe Species." Journal of Ethnopharmacology.
-  - Gehrig H et al. (2001). "Molecular Phylogeny of the Genus Kalanchoe." Plant Systematics and Evolution.
-  - Moran, R. (2009). "Bryophyllum: The Walking Kalanchoes." Haseltonia 15: 78–95.
   - USDA NRCS Plant Database — Kalanchoe daigremontiana profile.
 ---
 

@@ -5,7 +5,6 @@ tags: [copelandia, panaeolus, mycology, mushroom-profile, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---

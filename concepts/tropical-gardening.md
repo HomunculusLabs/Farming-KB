@@ -38,11 +38,11 @@ In frost-free tropical climates, many crops produce year-round or in overlapping
 
 - Leafy greens: Harvest continuously by picking outer leaves
 - Root vegetables: Can be planted and harvested any month
-- [[perennial-vegetables]]: Chaya, cassava, taro, sweet potato produce for years
+- Perennial vegetables: Chaya, cassava, taro, sweet potato produce for years
 - Fruit trees: Multiple species fruit at different times, providing year-round harvest
 
 ### Succession Planting
-Because seasons are less distinct, [[succession-planting]] is driven by harvest cycles rather than seasonal changes:
+Because seasons are less distinct, succession planting is driven by harvest cycles rather than seasonal changes:
 
 - Plant new vegetable beds every 2-4 weeks for continuous production
 - Intercrop fast and slow-maturing species in the same bed
@@ -70,7 +70,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - Plant on raised beds or mounds to improve drainage
 - Use mulch to protect soil from rain impact
 - Apply slow-release organic fertilizers
-- Plant [[cover-crops]] in unused areas to prevent erosion
+- Plant cover crops in unused areas to prevent erosion
 
 ### Dry Season Challenges
 - Water scarcity for irrigation
@@ -110,10 +110,10 @@ Tropical gardens benefit enormously from emphasizing perennials:
 
 ### Perennial Vegetables
 - **Chaya (Cnidoscolus aconitifolius)**: Spinach substitute; must be cooked; extremely productive
-- **Moringa ([[moringa-oleifera]])**: Nutritious leaves, pods, and flowers; fast-growing tree
+- **Moringa (Moringa oleifera)**: Nutritious leaves, pods, and flowers; fast-growing tree
 - **Katuk (Sauropus androgynus)**: Shrub with edible leaves; grows in shade
-- **Egyptian spinach ([[corchorus-olitorius]])**: Molokhia; annual but self-seeds readily
-- **Pigeon pea ([[cajanus-cajan]])**: Perennial legume producing edible peas; nitrogen fixer
+- **Egyptian spinach (Corchorus olitorius)**: Molokhia; annual but self-seeds readily
+- **Pigeon pea (Cajanus cajan)**: Perennial legume producing edible peas; nitrogen fixer
 - **Winged bean (Psophocarpus tetragonolobus)**: Entire plant is edible; tropical climbing legume
 
 ### Tropical Annual Vegetables

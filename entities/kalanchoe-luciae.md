@@ -9,8 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Eggli, U. (2003). "Illustrated Handbook of Succulent Plants: Crassulaceae." Springer.
-  - Smith, G.F. et al. (2019). "Kalanchoe (Crassulaceae) in southern Africa: Classification, Biology, and Cultivation." Academic Press.
   - Descoings, B. (2003). "Flore du Gabon: Crassulaceae." Muséum National d'Histoire Naturelle, Paris.
 ---
 

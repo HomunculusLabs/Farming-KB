@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Murakami, N. & Nogami, S. (2004). "Asplenium." In: Iwatsuki, K. et al. (eds.), Flora of Japan, Vol. 1. Kodansha.
-  - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
   - Benl, G. (1988). "Asplenium nidus complex: taxonomy and distribution." American Fern Journal 78(1): 1–12.
 ---
 

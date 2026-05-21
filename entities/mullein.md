@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Turker, A.U. & Gurel, E. (2005). 'Common mullein (Verbascum thapsus L.): Recent advances in research.' Phytotherapy Research, vol. 19, no. 9, pp. 733-739."
-  - "Foster, S. & Duke, J.A. (2014). 'A Field Guide to Medicinal Plants and Herbs of Eastern and Central psilocybin-north-america-pacific-northwest.' 3rd ed. Houghton Mifflin Harcourt."
-  - "Upton, R. (2013). 'Verbascum thapsus: Monograph.' American Herbal Pharmacopoeia."
-  - "European Medicines Agency. 'Verbascum thapsus, folium et flos.' HMPC Monograph."
   - "PFAF. 'Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
 ---
 

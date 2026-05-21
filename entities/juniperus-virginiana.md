@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Adams, R.P. (2004). Junipers of the World: The Genus Juniperus. Trafford Publishing.
-  - Van Dersal, W.R. (1938). "Native woody plants of the United States." USDA Miscellaneous Publication No. 414.
-  - Hidayat, M. et al. (2022). "Phytochemistry and biological activities of Juniperus species." Molecules 27(14): 4543.
   - Little, E.L. (1979). Checklist of United States Trees (Native and Naturalized). USDA Forest Service Agriculture Handbook 541.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tutin, T.G. et al. (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Heywood, V.H. (1993). Flowering Plants of the World. Oxford University Press.
-  - RHS (2024). "Gypsophila elegans." Royal Horticultural Society Plant Finder.
-  - Barkoudah, Y.I. (1962). "A revision of Gypsophila, section Heterochroa." Candollea 18: 1–38.
   - Komarov, V.L. (1970). Flora of the USSR, Vol. 6. Israel Program for Scientific Translations.
 ---
 

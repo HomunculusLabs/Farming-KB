@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kew Royal Botanic Gardens. "Campanula fenestrellata." Plants of the World Online.
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanulaceae in Flora Europaea." Cambridge University Press.
-  - Stevens, C.E. (2003). "The genus Campanula in the Balkan Peninsula." Botanical Journal of the Linnean Society.
   - Matthews, V.A. (1986). "Campanula in Cultivation." Timber Press.
 ---
 

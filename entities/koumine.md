@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zhang YH, Wang F, Yang RH, et al. (2011). "Koumine attenuates anxiety-like behavior in mice." Pharmacology Biochemistry and Behavior, 98(2), 211-216.
-  - Jin GZ, Zhang JT. (1983). "Studies on the pharmacological actions of koumine." Acta Pharmacologica Sinica, 4(2), 90-94.
-  - Ma G, Chaudhary S, Wei X, et al. (2015). "Phytochemistry and pharmacology of Gelsemium alkaloids." Natural Product Reports, 32(7), 1014-1035.
-  - Xu YT, Zhang YH, Liang J, et al. (2012). "Anti-inflammatory effects of koumine on LPS-stimulated RAW 264.7 cells." Journal of Ethnopharmacology, 141(1), 546-552.
 created: 2026-04-28
 ---
 

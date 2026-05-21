@@ -69,7 +69,7 @@ A middle ground combining features of both extensive and intensive systems.
 ### Plant Selection for Green Roofs
 
 **Extensive roofs** (drought, wind, shallow soil):
-- Sedum species ([[sedum-acre]], S. album, S. kamtschaticum)
+- Sedum species (Sedum acre, S. album, S. kamtschaticum)
 - Delosperma (ice plant)
 - Allium cernuum (nodding onion)
 - Talinum calycinum (fameflower)
@@ -148,3 +148,5 @@ A middle ground combining features of both extensive and intensive systems.
 
 - [[vertical-gardening-guide]]
 - [[rain-garden-design]]
+- [[container-gardening-guide]]
+- [[xeriscaping-guide]]

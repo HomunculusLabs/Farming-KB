@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
-  - USDA NRCS. "Vaccinium fuscatum" PLANTS Database. https://plants.usda.gov/
-  - Camp, W. H. (1945). "The growing-gourmet-north-american-reishi-species blueberries with notes on other groups of Vacciniaceae." Brittonia.
   - Ballington, J. R. (2001). "Collection of native Vaccinium in the southeastern United States." HortScience.
 ---
 

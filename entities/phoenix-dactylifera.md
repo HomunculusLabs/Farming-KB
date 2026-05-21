@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Zaid, A. & de Wet, P.F. (2002). "Date Palm Cultivation." FAO Plant Production and Protection Paper 156.
-  - Chao, C.T. & Krueger, R.R. (2007). "The Date Palm (Phoenix dactylifera L.): Overview of Biology, Uses, and Cultivation." HortScience, 42(5), 1077–1083.
-  - Al-Shahib, W. & Marshall, R.J. (2003). "The Fruit of the Date Palm: Its Possible Use as the Best Food for the Future." International Journal of Food Sciences and Nutrition, 54(4), 247–259.
   - Barreveld, W.H. (1993). "Date Palm Products." FAO Agricultural Services Bulletin No. 101.
 ---
 
@@ -79,3 +76,5 @@ Date palm cultivation originated in Mesopotamia around 4000 BCE, making it among
 The palm is mentioned over 20 times in the Quran, where it is described as a symbol of God's bounty. Breaking the Ramadan fast with dates follows the prophetic tradition of the Prophet Muhammad.
 
 In ancient Egyptian religion, the date palm represented the god Huh, one of the four primordial deities. Palm fronds were used in [[entheogenic-folk-religious-ceremonies]] and as a symbol of triumph in Roman and [[natural-building-materials-guide]], and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.
+Further research into phoenix dactylifera continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind phoenix dactylifera provides a foundation for both practical application and continued scientific inquiry.

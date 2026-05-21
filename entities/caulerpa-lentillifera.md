@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Titlyanov, E.A. et al. (2014). "Cultivation of the green alga Caulerpa lentillifera." Russian Journal of Marine Biology, 40, 114–120.
-  - Paul, N.A. et al. (2014). "Seaweed as a source of protein." In: Tiwari, B.K. & Troy, D.J. (eds.), Seaweed Sustainability. Academic Press.
-  - Liao, I.C. & Chao, N.H. (1990). "Culture of benthic marine algae." In: Liao, I.C. & Hwang, J.H. (eds.), Proceedings of ROC-Japan Symposium on Mariculture. TML.
-  - Matsumoto, K. et al. (2017). "Caulerpenyne from Caulerpa lentillifera." Phytochemistry, 140, 99–105.
   - Dumilag, R.V. & Jamil, A.S. (2020). "Nutritional profile of Caulerpa lentillifera." Food Chemistry, 330, 127317.
 ---
 

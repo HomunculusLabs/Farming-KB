@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C. Thomas.
-  - Torres, C.M. & Repke, D.B. (2006). Anadenanthera. Visionary Plant Books.
-  - Trout, K. (2005). Sacred Cacti. 2nd ed. Trout's Notes.
   - Ogunbodede, O. et al. (2010). "trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
 ---
 

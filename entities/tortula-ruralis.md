@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Oliver, M.J. et al. (2005). "Desiccation tolerance in bryophytes." Annual Review of Plant Biology, 56, 361-385.
-  - Proctor, M.C.F. & Tuba, Z. (2002). "Poikilohydry and homoihydry." New Phytologist, 156(3), 327-349.
-  - Mishler, B.D. & Oliver, M.J. (1991). "Gametophytic phenology of Tortula ruralis." The Bryologist, 94(2), 145-152.
-  - Alpert, P. (2006). "Constraints of tolerance." Journal of Experimental Biology, 209(9), 1575-1584.
   - Zander, R.H. (1993). Genera of the Pottiaceae. Bulletin of the Buffalo Society of Natural Sciences, 32.
 ---
 

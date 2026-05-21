@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson, A. et al. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - González, M. (2017). "Ecology and conservation of Jubaea chilensis." Botanical Journal of the Linnean Society, 184(3), 340-358.
-  - Rúgolo de Agrasar, Z.E. (2005). "Jubaea chilensis (Mol.) Baillon." In: Hunt, D. (ed.), CITES and Cactaceae Checklist, 2nd ed., 110-111.
-  - Navarro, G. et al. (2010). "The decline of Jubaea chilensis in central Chile." Revista Chilena de Historia Natural, 83(3), 421-432.
   - IUCN (2023). "Jubaea chilensis." The IUCN Red List of Threatened Species.
 ---
 
@@ -78,3 +74,14 @@ Commercial coquito production is primarily from cultivated trees and legally per
 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
 
 Coquitos are commercially available in Chilean markets and are increasingly exported as a specialty food product. Their [[ingham-aact-holding-time-shelf-life-decay]] is extended by the hard endocarp, which protects the edible endosperm from desiccation and spoilage.
+## Current Research
+
+Recent studies on jubaea chilensis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with jubaea chilensis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

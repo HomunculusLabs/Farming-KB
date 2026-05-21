@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, A.J. (2003). "Primula." In: Kadereit, J.W. (ed.), The Families and Genera of Vascular Plants, Vol. 7. Springer.
-  - Halda, J.J. (1992). The Genus Primula in Cultivation and the Wild. Tethys Books.
   - Mast, A.R. et al. (2001). "Phylogenetic relationships in Primulaceae." American Journal of Botany, 88, 1454-1465.
 ---
 

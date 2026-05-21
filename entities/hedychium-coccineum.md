@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, J.E. (1804). "Exotic Botany." R. Taylor & Co., London.
-  - Srivastava, R.C. (2010). "Hedychium of India." Bishen Singh Mahendra Pal Singh, Dehra Dun.
-  - Sakai, A.K. et al. (2001). "The population biology of invasive species." Annual Review of Ecology and Systematics, 32, 305-332.
-  - Newman, M.F. et al. (2004). "Checklist of the Zingiberaceae of Malesia." Royal Botanic Garden Edinburgh.
   - Middleton, D.J. (2019). "The Zingiberaceae of Thailand." Thai Forest Bulletin, 47, 1-148.
 ---
 

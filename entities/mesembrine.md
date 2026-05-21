@@ -11,10 +11,6 @@ tags:
   - entheogen
   - south-africa
 sources:
-  - Harvey, A.L. et al. (2011). "sceletium-tortuosum as a natural source of mesembrine alkaloids." Journal of Ethnopharmacology, 137(1), 380–386.
-  - Gericke, N. & Viljoen, A.M. (2008). "Sceletium — a review update." Journal of Ethnopharmacology, 119(3), 653–663.
-  - Smith, M.T. et al. (1996). "Mesembrine alkaloids from Sceletium tortuosum." Phytochemistry, 42(3), 747–750.
-  - Patnella, J. (2016). "Sceletium tortuosum: A review of traditional use, phytochemistry, and pharmacology." Journal of Psychoactive Drugs, 48(4), 278–286.
   - Shikanga, E. et al. (2012). "Alkaloids from Sceletium species." Natural Product Communications, 7(3), 367–374.
 ---
 

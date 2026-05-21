@@ -17,10 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database. https://www.leafly.com/strains/bruce-banner-3
-  - "Strains: The Essential Guide to the World's Top Cannabis Varieties" (2022). Snoop Dogg (ed.). Chronicle Books.
-  - Cannabis Cup & Emerald Cup historical results (2010–2023).
-  - Smart, R. et al. (2017). "Cannabis: A complete guide." CRC Press.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
 ---
 

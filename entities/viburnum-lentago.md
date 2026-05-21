@@ -11,11 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
-  - Brand, M.H. (2001). "Viburnum." In: Encyclopedia of Plants and Flowers. DK Publishing.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - USDA NRCS (2024). Plant Profile: Viburnum lentago. plants.usda.gov.
   - Weeks, E.C. & weeks, S.D. (2011). "Fruit quality of nannyberry (Viburnum lentago)." HortScience 46(7): 1008–1012.
 ---
 

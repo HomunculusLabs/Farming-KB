@@ -5,7 +5,6 @@ tags: [casing-soil, microbial-interaction, fruiting-trigger, soil-science, agari
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: concept
 ---# Casing Soils and Microbial Fruiting Triggers
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Greuter, W. et al. (1986). Med-Checklist, Vol. 3. Conservatoire et Jardin Botaniques de Genève.
-  - Pignatti, S. (1982). Flora d'Italia, Vol. 2. Edagricole.
-  - Tutin, T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
-  - Novak, R. (2001). "Phytochemical review of Teucrium species." Journal of Ethnopharmacology 76(3): 249–261.
   - Navarro, T. & El Oualidi, J. (2000). "Taxonomic revision of Teucrium sect. Teucrium." Botanical Journal of the Linnean Society 134(4): 443–472.
 ---
 

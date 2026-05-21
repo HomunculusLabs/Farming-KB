@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Li, Y. et al. (2016). "Quercetin, inflammation and immunity." Nutrients, 8(3), 167.
-  - Davis, J.M. et al. (2009). "Quercetin reduces susceptibility to influenza infection following stressful exercise." American Journal of Physiology, 295(5), R1125-R1131.
-  - Xu, D. et al. (2019). "The role of quercetin in senescence and age-related diseases." European Journal of Pharmacology, 849, 31-39.
 aliases:
   - quercetine
   - sophoretin

@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tuli, H.S. et al. (2013). \"Cordycepin: A compound with metzner-ayahuasca-therapeutic-potential.\" Life Sciences, 93(23), 863-869."
-  - "Wang, Y. et al. (2016). \"Cordycepin: Pharmacological activities and underlying mechanisms.\" Frontiers in Pharmacology, 7, 492."
-  - "Yoshikawa, N. et al. (2004). \"Cordycepin (3'-deoxyadenosine) inhibits the growth of B16-BL6 mouse melanoma cells through the stimulation of adenosine A3 receptor.\" Cancer Chemotherapy and Pharmacology, 54(3), 229-234."
   - "Winterhoff, H. et al. (1996). \"Cordycepin, a constituent of Cordyceps, its chemical and pharmacological properties.\" Phytomedicine, 2(3), 221-230."
 ---
 

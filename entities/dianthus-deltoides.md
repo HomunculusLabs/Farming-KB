@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. et al. (1993). "Flora Europaea, Vol. 1." 2nd ed. Cambridge University Press.
-  - Royal Horticultural Society (2023). "Dianthus deltoides." RHS Plant Finder.
-  - Stern, F.C. (1957). "A Study of the Genus Paeonia." Royal Horticultural Society.
-  - Galbany-Casals, M. et al. (2014). "Phylogeny of Dianthus." Taxon.
   - Bloom, A. (1978). "ground-cover-plants." Faber & Faber.---
 ---
 

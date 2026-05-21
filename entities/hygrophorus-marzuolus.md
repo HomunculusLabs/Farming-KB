@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
-  - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland Vol. 3." Verlag Mykologia.
-  - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
-  - Basso, M.T. (1999). "Fungi Europaei Vol. 7: Hygrophorus." Edizioni Candusso.
-  - Arnolds, E. (2003). "The Genus Hygrophorus." Bibliotheca Mycologica.
 created: 2026-04-28
 ---
 

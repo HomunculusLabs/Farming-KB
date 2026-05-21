@@ -5,10 +5,8 @@ tags: [permaculture, food-forest, agroforestry, polyculture, guild-design, plant
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - gaia-garden-toby-hemenway.md
   - bill-mollison-permaculture-a-designers-manual.md
-  - bill-mollison-permaculture-two-practical-design-for-to.md
   - a-selection-permaculture-plants.md
   - food-forest-design-guide.md
   - food-forest-layers-and-species.md

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Veiga Junior, V.F. & Pinto, A.C. (2002). "The Copaifera L. genus." Química Nova, 25(2), 273-286.
-  - Gomes, N.M.B. et al. (2010). "Anti-inflammatory and analgesic activities of Copaifera langsdorffii." Journal of Ethnopharmacology, 127(2), 511-516.
-  - Cascon, V. & Gilbert, B. (2000). "Characterization of the chemical composition of oleoresins of Copaifera." Phytochemistry, 55(7), 773-778.
-  - Pieri, F.A. et al. (2012). "Biological activities of oleoresin from Copaifera." Evidence-Based Complementary and Alternative Medicine, 2012, 692032.
   - Leandro, L.M. et al. (2012). "Chemistry and biological activities of terpenoids from Copaifera." Molecules, 17(4), 3866-3890.
 ---
 

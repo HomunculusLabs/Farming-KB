@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 # Permaculture Climate Zones
 
-[[bill-mollison]] identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "[[permaculture]] Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
+Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 
 ## The Three Broad Climatic Regions
 
@@ -44,7 +44,7 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Key Arid Land Strategies
 - Start from up-stream, up-wind, and from oases -- plants generate moisture downstream, downwind, and locally
 - Run-off from bare or rocky areas increases effective precipitation
-- Modern [[drip-irrigation]] plus mulch will grow any domestic crop
+- Modern drip irrigation plus mulch will grow any domestic crop
 - Sheet mulch is the answer around settlements
 - Scattered leguminous trees (10-12 per ha) greatly assist nutrient recycling and soil stability
 - The "dead centre" of deserts is a myth -- many important crops will grow
@@ -64,19 +64,17 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 ## Related
 
 - [[permaculture-design-process]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
+## Current Research
 
-## Practical Applications
+Recent studies on permaculture climate zones have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
+## Practical Considerations
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Practitioners working with permaculture climate zones should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

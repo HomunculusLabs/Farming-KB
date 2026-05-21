@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). "Sedges of the British Isles." Botanical Society of Britain and Ireland.
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora growing-gourmet-north-american-reishi-species Flora, Vols. 18-19. New York Botanical Garden.
   - Pykälä, J. (2015). "Carex echinata in boreal mire ecosystems." Annales Botanici Fennici, 52(1-2), 15–28.
 ---
 

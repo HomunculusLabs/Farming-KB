@@ -13,10 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the United States." Pharmacology & Therapeutics 102(2): 131-138.
-  - Thompson AC, Nicollier GF, Pope DF (1987). "Indolealkylamines of Desmanthus illinoensis and their growth inhibition activity." Journal of Agricultural and Food Chemistry 35: 361-365.
-  - Barker RE, Hovin AW (1974). "Inheritance of indole alkaloids in reed canary grass (Phalaris arundinacea L.)." Crop Science 14: 50-53.
-  - Mack JPG, Mulvena DP, Slaytor M (1988). "N,N-Dimethyltryptamine production in Phalaris aquatica seedlings." Plant Physiology 88: 315-320.
   - Baxter C, Slaytor M (1972). "Biosynthesis and turnover of N,N-dimethyltryptamine and 5-methoxy-N,N-dimethyltryptamine in Phalaris tuberosa." Phytochemistry 11: 2767-2773.
 ---
 

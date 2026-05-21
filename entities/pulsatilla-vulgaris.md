@@ -11,10 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mraz, P. (2003). "Pulsatilla rubra and related taxa in the
     Balkans." Preslia, 75, 313-330.
-  - Barnes, J. et al. (2007). "Herbal Medicines." Pharmaceutical Press.
-  - European Medicines Agency (2016). "Assessment report on Pulsatilla
     vulgaris." EMA/HMPC/491243/2010.
 ---
 

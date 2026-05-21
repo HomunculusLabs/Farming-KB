@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Tseng, C.K. (1984). "Chinese seaweeds in childrens-herbal-medicine." In: Abbott, I.A. & Norris, J.N. (eds.), Taxonomy of Economic Seaweeds. California Sea Grant College.
-  - Hwang, E.S. et al. (2019). "Health benefits of Sargassum fusiforme: a review." Food Science and Biotechnology, 28, 1355–1364.
-  - Li, Y.X. et al. (2011). "Sargassum fusiforme: a review on its bioactivities." Journal of Applied Phycology, 23, 1–8.
-  - Zou, Y. et al. (2019). "Fucoidan from Sargassum fusiforme: extraction and bioactivity." Marine Drugs, 17(6), 341.
   - Mattio, L. & Payri, C.E. (2011). "1838–2008 was Sargassum taxonomy revised?" Botanica Marina, 54, 9–21.
 ---
 

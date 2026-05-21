@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [psychedelics, ethnobotany]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 

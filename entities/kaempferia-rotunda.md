@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Larsen, K., Lock, J.M., Maas, H. & Maas-van de Kamer, H. (2010). "Zingiberaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants. Springer.
-  - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Conference on Biodiversity and Bioresources.
-  - Gopalan, R. et al. (2013). "Phytochemical constituents and pharmacological activities of Kaempferia rotunda." Journal of Pharmacy Research.
-  - CSIR (1959). "The Wealth of India: A Dictionary of Indian Raw Materials and Industrial Products." Vol. V.
   - Wu, D.L. & Larsen, K. (2000). "Zingiberaceae." Flora of China, Vol. 24.
 ---
 

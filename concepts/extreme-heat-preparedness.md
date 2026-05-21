@@ -105,7 +105,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 
 ## Crops and Gardens
 
-- Mulch heavily around all plants to retain moisture and reduce [[soil-temperature]]
+- Mulch heavily around all plants to retain moisture and reduce soil temperature
 - Water deeply in early morning — avoid midday watering
 - Use shade cloth (30-50% block) over sensitive crops
 - Harvest ripe produce promptly — heat causes rapid spoilage

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pawlowski B. (1970). "Symphyandra A.DC." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Šilić Č. (1984). "Endemic Plants of Bosnia and Herzegovina." Svjetlost, Sarajevo.
-  - Lakušić D. & Šiler B. (2010). "Phylogenetic relationships within Campanulaceae s.l. in the Balkans." Plant Systematics and Evolution, 285(3–4): 187–203.
-  - Royal Horticultural Society (2023). "Symphyandra hoffmannii." RHS Plant Finder.
   - Grey-Wilson C. (2014). "The Genus Symphyandra." Alpine Garden Society Bulletin, 82(2): 198–211.
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
-  - Godfrey, R.K. & Wooten, J.W. (1981). "berry-growing.
   - Kuser, J.E. (2003). "Atlantic White Cedar Restoration." Journal of Forestry 101(3): 25-29.
 ---
 

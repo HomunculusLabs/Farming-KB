@@ -19,9 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "NM2AI, a new psychoactive substance." Forensic Science International 232(1–3): 39–45.
-  - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews 70(3): 677–702.
   - Halberstadt, A.L. et al. (2020). "Correlation between potency and efficacy of hallucinogens." ACS Pharmacology & Translational Science 3(1): 168–181.
 ---
 

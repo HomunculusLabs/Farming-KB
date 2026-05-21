@@ -11,7 +11,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Soil disturbance is one of the most significant threats to [[fungal-mycelial-networks-nutrient-translocation]] that connect plants to their fungal partners, reducing crop [[glomalin-and-soil-carbon]]
+Soil disturbance is one of the most significant threats to [[fungal-mycelial-networks-nutrient-translocation]] that connect plants to their fungal partners, reducing crop [[glomalin]]
 - Fall tilling is particularly destructive — damaged hyphae won't be available for cover crops or spring planting
 
 ### Plowing

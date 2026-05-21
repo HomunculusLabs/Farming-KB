@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Royal Botanic Gardens, Kew. "Cercidiphyllum japonicum." Plants of the World Online.
   - Xiang, Q.-Y. et al. (2019). "Phylogeny and biogeography of Cercidiphyllaceae." Botanical Journal of the Linnean Society.
 ---
 
@@ -78,3 +76,5 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into cercidiphyllum japonicum continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind cercidiphyllum japonicum provides a foundation for both practical application and continued scientific inquiry.

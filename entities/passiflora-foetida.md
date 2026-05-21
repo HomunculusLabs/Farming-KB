@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - C. Ulmer and J. MacDougal (2004). "Passiflora: Passionflowers of the World." Timber Press.
-  - K.R. Shivanna (2011). "Reproductive Ecology of Passiflora foetida." Current Science 100(2).
-  - A.K. Dhawan et al. (2004). "Anti-anxiety activity of aerial parts of Passiflora foetida." Indian Journal of Pharmacology 36(5).
-  - USDA NRCS (2024). "Passiflora foetida L." PLANTS Database.
   - P.E. Berry (2001). "Flora of Ecuador: Passifloraceae." Missouri Botanical Garden Press.
 ---
 

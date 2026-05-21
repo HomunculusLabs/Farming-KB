@@ -1,5 +1,4 @@
 ---
-title: Permaculture Sector Analysis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +11,6 @@ tags:
   - site-analysis
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
@@ -100,7 +98,7 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 
 ## Related Concepts
 
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-design-methods]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-site-analysis]]

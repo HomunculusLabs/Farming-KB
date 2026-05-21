@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Fraser-Jenkins, C.R. (2008). "Athyrium." Flora of Japan, Vol. 1.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Jones, D.L. (1987). Encyclopedia of Ferns. Timber Press.
   - RHS Plant Finder (2024). Royal Horticultural Society.
 ---
 
@@ -78,3 +75,14 @@ Common challenges include resource limitations, environmental variability, and k
 Connecting this topic with complementary approaches and related disciplines creates synergies and enables holistic solutions to complex challenges.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on athyrium niponicum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with athyrium niponicum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

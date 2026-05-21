@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Folklore and Culture
 created: 2026-04-11
 updated: 2026-04-12
@@ -25,7 +26,7 @@ sources:
 
 # Mushroom Folklore and Culture
 
-The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria]] for Amanita-specific traditions.
+The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria-guide]] for Amanita-specific traditions.
 
 ## Prehistoric and Ancient Roots
 
@@ -131,19 +132,19 @@ England has traditionally been mycophobic — mushrooms viewed as "poisonous, sl
 
 - Amateur mycological societies exist worldwide, offering forays, identification workshops, and specimen collections
 - The North American Mycological Association (NAMA) and British Mycological Society connect amateur and professional mycologists
+- Foraging culture combines culinary interest, naturalist observation, and in some cases, interest in psychoactive species
+- Modern foraging apps and online communities have democratized identification knowledge while also creating risks from misidentification
+
+## Mr. Bloomfield's Orchard
+
+The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belonging to the village milkman, whose century-old trees formed "a solid canopy, beneath which sickening fruits swelled and decayed." The orchard was consumed by "bitter rot, black rot, blossom end rot, canker, rust, powdery mildew, rubbery wood, and scab." Mushrooms of all colors sprouted under the diseased branches: "a pink-gilled Agaricus, scarlet waxy caps, and masses of ink-caps that bled into the grass." This image captures the essential paradox of fungi — simultaneously agents of destruction and beauty, decay and renewal.
+
 ## See Also
 
 - [[psychedelic-mushroom-history]] — Chronological timeline from prehistoric to modern
-- [[amanita-muscaria]] — Fly agaric identification, chemistry, and Siberian use
+- [[amanita-muscaria-guide]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
 - [[mushroom-identification-resources]] — Identification methods and safety
 - [[edible-wild-mushrooms-by-region]] — Regional foraging guide
 - [[nicholas-money]] — Author of Mr. Bloomfield's Orchard
 - [[christmas-mushroom-symbolism]] — Christmas traditions and Amanita connections
-- [[mythological-mushroom-symbolism]] — Mushroom symbolic vocabulary across cultures
-- [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
-- [[sacred-sacrament-mushroom-rites]] — Comparative sacramental mushroom rites
-
-## Related
-
-- [[psychedelic-integration]]

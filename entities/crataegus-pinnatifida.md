@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chang, H.M. & But, P.P.H. (1986). "Pharmacology and Applications of Chinese herbal-materia-medica, Volume 1." World Scientific.
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." People's Medical Publishing House.
-  - Phipps, J.B., O'Kennon, R.J., & Lance, R.W. (2003). "Hawthorns and Medlars." Royal Horticultural Society.
   - USDA ARS GRIN Taxonomy (2024). "Crataegus pinnatifida Bunge."
 ---
 

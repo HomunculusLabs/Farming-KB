@@ -22,11 +22,6 @@ aliases:
   - Lepista Personata
   - Clitocybe Saeva
 sources:
-  - Bon M (1987). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
-  - Phillips R (1981). "Mushrooms and Other Fungi of Great Britain and Europe." Pan Books.
-  - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland Vol 3." Verlag Mykologia.
-  - Courtecuisse R, Duhem B (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
-  - Lange M, Hora FB (1963). "Collins Guide to Mushrooms and Toadstools." Collins.
 created: 2026-04-28
 ---
 

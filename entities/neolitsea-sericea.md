@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Wei, F.N. & van der Werff, H. (2013). Neolitsea (Lauraceae). Flora of China, 7, 108-120."
-  - "Li, J. et al. (2008). Phylogenetic relationships of Litsea and related genera (Laureae) based on nrDNA ITS sequences. Botanical Journal of the Linnean Society, 158(4), 527-539."
-  - "Momose, K. et al. (1998). Pollination biology of a seasonal lowland-dipterocarp forest in Sarawak. Plant Species Biology, 13(2-3), 83-100."
   - "Kubitzki, K. & Renner, S. (1999). Lauraceae. In: Families and Genera of Vascular Plants, Vol. IV, Springer."
 ---
 

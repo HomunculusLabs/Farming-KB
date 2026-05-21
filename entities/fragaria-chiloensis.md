@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Darrow G.M. (1966). "The Strawberry: History, Breeding and Physiology." Holt, Rinehart and Winston.
-  - Finn C.E. et al. (2013). "The Genus Fragaria: A Model for Integrating Genomics into Plant Breeding." Horticultural Reviews 40: 163-206.
-  - USDA NRCS (2024). "Fragaria chiloensis (L.) Mill." PLANTS Database.
-  - Staudt G. (1999). "Systematics and Evolution of the Genus Fragaria." Acta Horticulturae 505: 23-33.
   - Goulão L. et al. (2012). "Phenolic Composition and Antioxidant Activity of Fragaria chiloensis Fruit." Food Chemistry 135(4): 2742-2749.
 ---
 

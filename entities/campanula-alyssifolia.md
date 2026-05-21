@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Damboldt, J. (1976). "Campanula L." In Davis, P.H. (ed.), Flora of Turkey and the East Aegean Islands, Vol. 6. Edinburgh University Press.
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
   - Royal Botanic Gardens, Kew. "Campanula alyssifolia." Plants of the World Online.
 ---
 

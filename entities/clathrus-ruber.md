@@ -11,11 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cortez, V. et al. (2022). "Morphology and molecular phylogeny of
     Clathrus species." Mycologia, 114(3), 456-472.
-  - Baseia, I.G. & Calonge, F.D. (2006). "Clathrus species from
     NE Brazil." Mycotaxon, 95, 127-134.
-  - Kuo, M. (2024). "Clathrus ruber." MushroomExpert.com.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
 ---
 

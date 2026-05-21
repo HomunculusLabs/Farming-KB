@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Nõmm, A. (2007). "Cytotaxonomy of the Genus Delphinium L. in the Baltic States." Estonian Academy of Sciences.
-  - Marriott, P. (1991). Delphiniums. B.T. Batsford Ltd.
   - Wang, W. & Warnock, M.J. (2001). "Delphinium." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China. Science Press.
 ---
 

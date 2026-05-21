@@ -1,5 +1,4 @@
 ---
-title: Permaculture Mapping And Base Maps
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,7 +16,7 @@ sources:
 
 # Permaculture Mapping and Base Maps
 
-Mapping is the foundational design tool in [[permaculture]]. [[william-ozier-williams]] provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
+Mapping is the foundational design tool in permaculture. William Ozier Williams provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
 
 ## What Is a Base Map?
 
@@ -131,7 +130,7 @@ After mapping contours, chart surface water flow:
 - Observe the site during and after rain
 - Map where water flows, pools, and exits the property
 - Note infiltration rates in different areas
-- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other [[water-management]] features
+- This data is essential for designing [[swale-construction-guide|swales]], [[permaculture-pond-and-water-garden|ponds]], and other water management features
 
 ## Scale Considerations
 
@@ -148,3 +147,7 @@ Modern permaculture designers increasingly use digital tools:
 - **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
 - **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
 - **CAD software**: Precise drafting for detailed designs
+- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
+## See Also
+
+- [[permaculture-beginners-guide-observation-and-mapping]]

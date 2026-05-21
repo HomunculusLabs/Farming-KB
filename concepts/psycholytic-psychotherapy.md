@@ -11,10 +11,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Passie, T. (1997). "Psycholytic Therapy." In T. Passie (Ed.), The Science of Psychedelic Therapy.
   - Grof, S. (1980). LSD Psychotherapy. Hunter House.
-  - Grof, S. (1985). Beyond the Brain. State University of New York Press.
   - Grinspoon, L. & Bakalar, J.B. (1979/1997). Psychedelics Reconsidered. Lindesmith Center.
 ---
 

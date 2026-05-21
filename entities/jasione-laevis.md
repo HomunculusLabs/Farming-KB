@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1976). "Jasione." In Tutin, T.G. et al. (eds.), Flora Europaea 4: 98–100. Cambridge University Press.
-  - Sales, F. & Hedge, I.C. (2001). "Jasione L." In Valdés, B. et al. (eds.), Flora of North Africa. CSIC.
   - RHS Plant Finder. Jasione laevis. Royal Horticultural Society.
 ---
 

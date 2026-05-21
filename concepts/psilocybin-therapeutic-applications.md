@@ -13,13 +13,12 @@ tags:
   - psilocybin
   - clinical-research
 sources:
-  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
   - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
 # Psilocybin Therapeutic Applications
 
-The clinical research on [[psilocybin]] for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress.
+The clinical research on psilocybin for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress.
 
 ## Overview
 
@@ -74,13 +73,13 @@ A small pilot study at the University of Arizona (2006) found that psilocybin re
 
 ## The Therapeutic Model
 
-Modern [[psilocybin-therapy]] does not simply administer a drug. The treatment model includes several critical components:
+Modern psilocybin therapy does not simply administer a drug. The treatment model includes several critical components:
 
 1. **Preparation sessions** (1-3 meetings): Building trust, discussing intentions, explaining what to expect, establishing rapport.
 2. **The psilocybin session** (6-8 hours): A supervised experience with one or two trained guides/therapists present throughout. The patient lies on a couch, wears an eye mask, and listens to a carefully curated music playlist.
 3. **Integration sessions** (1-3 meetings): Processing the experience, exploring insights, and translating them into behavioral and psychological changes in daily life.
 
-This model emphasizes **[[lsd-set-and-setting-framework]]** -- the psychological preparation and the physical/interpersonal environment -- as critical determinants of therapeutic outcome.
+This model emphasizes **set and setting** -- the psychological preparation and the physical/interpersonal environment -- as critical determinants of therapeutic outcome.
 
 ## Current Status (2026)
 
@@ -101,5 +100,5 @@ This model emphasizes **[[lsd-set-and-setting-framework]]** -- the psychological
 
 - [[psilocybin-psychological-mechanisms]] for the neuroscience
 - [[psychedelic-integration-practices]] for post-session integration
-- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting-framework]]
+- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-harm-reduction]] for safety considerations

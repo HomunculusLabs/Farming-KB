@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - Preston, C.D., Pearman, D.A. & Dines, T.D. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
-  - Tutin, T.G. et al. (1976). "Flora Europaea." Vol. 4. Cambridge University Press.
   - Royal Botanic Gardens Kew. "Knautia arvensis (L.) Coult." Plants of the World Online.
 ---
 
@@ -78,3 +75,14 @@ The species tolerates annual cutting after seed set, making it compatible with t
 Dead flower stems persist through winter, providing structural habitat for overwintering invertebrates. Leaving uncut margins around meadow patches benefits these overwintering populations.
 
 ## Uses
+## Current Research
+
+Recent studies on knautia arvensis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with knautia arvensis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

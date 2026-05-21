@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, [[salvia-divinorum]], [[psychotria-viridis]], and [[banisteriopsis-caapi]].
+Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and Banisteriopsis caapi.
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
@@ -20,7 +20,7 @@ Note: Growing these plants is legal in most jurisdictions when done for ornament
 ### Setup Requirements
 - Light: Full sun equivalent — grow lights (full spectrum LED or MH/HPS) at 200–400 µmol/m²/s, 12–14 hours/day
 - Temperature: 60–90°F (15–32°C) — can tolerate brief cold snaps down to 40°F
-- Soil: Well-draining cactus mix — 50% mineral (pumice, [[perlite]], sand) + 50% organic (potting soil, coco coir)
+- Soil: Well-draining cactus mix — 50% mineral (pumice, perlite, sand) + 50% organic (potting soil, coco coir)
 - Pots: Terracotta or fabric pots with drainage holes; tall pots accommodate taproot
 - Humidity: Low (20–40%) — San Pedro is adapted to arid conditions
 
@@ -148,3 +148,7 @@ From cuttings:
 
 ### Care
 - Provide a sturdy trellis or support structure — the vine will climb aggressively
+## See Also
+
+- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
+- [[psychedelic-safety-and-contra-indications]]

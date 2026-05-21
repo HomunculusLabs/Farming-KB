@@ -7,22 +7,13 @@ tags: [medicinal-mushrooms, cancer, immunotherapy, beta-glucans, clinical-trials
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 related_concepts:
   - cancer-medicinal-mushrooms-turkey-tail-psk-and-psp
-  - cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials
-  - cancer-medicinal-mushrooms-reishi-ganoderma-research
   - cancer-medicinal-mushrooms-maitake-d-fraction
-  - cancer-medicinal-mushrooms-immune-modulation-beta-glucans
   - cancer-medicinal-mushrooms-apoptosis-mechanisms
   - cancer-medicinal-mushrooms-psk-gastric-cancer
-  - cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides
-  - cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials
   - cancer-medicinal-mushrooms-ahcc-clinical-outcomes
-  - cancer-medicinal-mushrooms-submerged-fermentation-production
-  - cancer-medicinal-mushrooms-mixed-extracts-synergism
   - cancer-medicinal-mushrooms-hericium-erinaceus
-  - cancer-medicinal-mushrooms-chaga-and-birch-polypore
   - cancer-medicinal-mushrooms-pleurotus-ostreatus
   - cancer-medicinal-mushrooms-extraction-bioavailability
 ---

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mellichamp, T.L. & Case, F.W. (2009). "Sarracenia." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 8.
-  - USDA NRCS (2024). "Sarracenia georgiana." Natural Resources Conservation Service PLANTS Database.
-  - NatureServe (2023). "Sarracenia georgiana." NatureServe Explorer.
-  - McPherson, S. (2010). "Pitcher Plants of the Americas." Redfern Natural History Productions.
   - Ellison, A.M. et al. (2004). "Carnivorous plants: comparative ecology." Annual Review of Ecology, Evolution, and Systematics, 35, 267-290.
 ---
 

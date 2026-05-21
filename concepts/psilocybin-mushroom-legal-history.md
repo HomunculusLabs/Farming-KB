@@ -10,17 +10,16 @@ tags:
   - drug-policy
   - scheduling
 sources:
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
 # Psilocybin Mushroom Legal History
 
-The legal status of [[psilocybin-mushrooms]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
+The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
 
 ## Pre-Prohibition Era (Pre-1960s)
 
-Before the 1960s, [[psilocybin]] mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
+Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
 
 Indigenous mushroom use in Oaxaca, Mexico was unregulated and had been continuous for centuries.
 
@@ -75,7 +74,14 @@ A growing movement seeks to reverse prohibition:
 - [[magic-mushroom-history-timeline]] for the full chronological context
 - [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
+## Current Research
 
-Further research in this area has expanded our understanding
-of the underlying mechanisms and practical applications.
-These insights continue to inform both academic study and field practice.
+Recent studies on psilocybin mushroom legal history have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with psilocybin mushroom legal history should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

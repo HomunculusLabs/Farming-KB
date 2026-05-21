@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jonsell B., Karlsson T. (2001). "Caryophyllaceae." Flora Nordica. Swedish Museum of Natural History.
-  - Kephart S., Paladino J. (1997). "Demographic change and microhabitat variability in a population of Silene dioica." Journal of Ecology 85(2): 181-191.
-  - Royal Botanic Gardens Kew. "Silene dioica." Plants of the World Online. https://powo.science.kew.org/
   - Carlsson-Graner U., Elmqvist T. (1992). "Disease dynamics in a population of Silene dioica." Oikos 64(2): 245-256.
 ---
 

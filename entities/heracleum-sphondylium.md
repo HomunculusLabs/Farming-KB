@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - Tutin, T.G. et al. (1968). "Flora Europaea, Vol. 2." Cambridge University Press.
-  - "Heracleum sphondylium." USDA Natural Resources Conservation Service PLANTS Database.
-  - Tanaka, T. (1976). "Tanaka's Cyclopedia of Edible Plants of the World." Keigaku Publishing.
   - Schönfelder, I., Schönfelder, P. (2011). "The New Kosher Guide to Wild Edible Plants." Springer.
 ---
 

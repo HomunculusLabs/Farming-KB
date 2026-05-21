@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - USDA NRCS (2024). "Rhamnus purshiana DC. Plant Profile." plants.usda.gov.
-  - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs." 3rd ed., Haworth Press.
-  - McGuffin, M. et al. (1997). "American Herbal Product Association's Botanical Safety Handbook." CRC Press.
   - Bradley, P.R. (1992). "British Herbal Compendium, Vol. 1." British psilocybin-north-america-pacific-northwest.
 ---
 

@@ -20,10 +20,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Londoño, X. (1998). "Evaluation of Guadua angustifolia in Colombia." INBAR Working Paper No. 19.
-  - Liese, W. & Köhl, M. (2015). "Bamboo: The Plant and its Uses." Springer.
-  - Kleinhenz, V. & Midmore, D.J. (2001). "Aspects of Bamboo Agronomy." Adv. Agron., 74, 99–145.
-  - Gutierrez, J.A. (2000). "Structural Use of Bamboo in Housing." INBAR Technical Report No. 21.
 aliases:
   - Giant Bamboo
   - Colombian Bamboo

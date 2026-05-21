@@ -20,7 +20,6 @@ related_concepts:
   - tryptamine-hallucinogens-dmt-psilocybin-chemistry
   - plant-teachers-ayahuasca
   - amaringo-ayahuasca-visions-shipibo-iconography
-  - ayahuasca-divination-crime-witchcraft-disease-causation
   - amazonian-ayahuasca-purge-and-diet-practices
   - ayahuasca-churches-syncretic-ceremonies
   - peruvian-drug-war-and-ayahuasca-acceptance

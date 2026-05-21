@@ -5,7 +5,6 @@ tags: [ethnomycology, mexico, psilocybe, indigenous, sacred-mushrooms, ritual]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 type: concept
 ---
 

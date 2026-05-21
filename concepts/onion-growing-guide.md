@@ -9,7 +9,7 @@ sources: []
 
 # Onion Growing Guide
 
-Onions ([[allium-cepa]]) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage.
+Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage.
 
 ## Day-Length Types
 
@@ -73,7 +73,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 
 ### Fertilizing
 - Onions are heavy nitrogen feeders.
-- Side-dress with nitrogen-rich fertilizer ([[blood-meal]], composted manure, [[fish-emulsion]]) every 2-3 weeks until bulbs begin to swell.
+- Side-dress with nitrogen-rich fertilizer (blood meal, composted manure, fish emulsion) every 2-3 weeks until bulbs begin to swell.
 - Stop nitrogen when bulbs are 2/3 their final size — excess N delays maturity.
 - Apply phosphorus and potassium at planting (bone meal, kelp meal).
 
@@ -86,7 +86,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 - Onions bolt when exposed to temperature fluctuations (cold snap after warm period) or when planted from large sets.
 - Bolted onions produce a flower stalk — the bulb becomes unusable for storage (hollow core).
 - If bolting occurs: cut off the flower stalk immediately; use the onion promptly (won't store well).
-- Prevention: use transplants or seeds (not large sets), choose appropriate day-length type, mulch to stabilize [[soil-temperature]].
+- Prevention: use transplants or seeds (not large sets), choose appropriate day-length type, mulch to stabilize soil temperature.
 
 ## Harvesting
 
@@ -142,9 +142,11 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 | Thick necks (won't cure) | Excess nitrogen late in season, too much water | Stop N when bulbs are 2/3 mature, reduce watering |
 | Bolting | Temperature fluctuations, large sets | Use transplants/seeds, mulch, avoid large sets |
 | Thrips | Tiny insects sucking sap from leaves | Insecticidal soap, neem oil, encourage beneficials |
-| [[downy-mildew]] | Fungal disease in humid conditions | Good airflow, avoid overhead watering, copper spray |
+| Downy mildew | Fungal disease in humid conditions | Good airflow, avoid overhead watering, copper spray |
 
 ## Related Concepts
 
 - [[garlic-growing-guide]] — related allium with similar planting and curing methods
 - [[companion-planting-reference]] — carrots, beets, lettuce as onion companions; avoid beans
+- [[soil-amendment-reference]] — nitrogen and phosphorus sources for onion beds
+- [[mulching-guide]] — straw mulch for moisture retention and weed suppression

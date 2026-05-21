@@ -1,4 +1,5 @@
 ---
+
 title: Psychoactive Cacti Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -94,7 +95,7 @@ Peyote's slow growth rate makes grafting attractive. Pereskiopsis spathulata or 
 
 - [[psychedelic-compounds-reference]] for mescaline pharmacology and comparisons
 - [[entheogen-culture]] for broader context of ceremonial plant use
-- [[amanita-muscaria]] for another major entheogenic fungi
+- [[amanita-muscaria-guide]] for another major entheogenic fungi
 - [[richard-gottlieb]] — Author of peyote and psychoactive cacti cultivation guides
 
 ## Related

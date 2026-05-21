@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). Primula. Timber Press, Portland.
-  - Hu, Q.M. & Kelso, S. (1996). "Primula (Primulaceae) in China." Edinburgh Journal of Botany 53(3): 323–351.
-  - Grey-Wilson, C. (1989). "The Genus Primula in Cultivation and the Wild." Alpine Garden Society, Woking.
-  - Stapf, O. (1905). "Primula denticulata and its Allies." Bulletin of Miscellaneous Information, Royal Gardens, Kew 4: 145–152.
   - Lloyd, G.E. & Rice, G. (2005). Primula. Dorling Kindersley, London.
 ---
 

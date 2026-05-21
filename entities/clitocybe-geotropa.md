@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bon, M. (1990). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
-  - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia, Lucerne.
   - Phillips, R. (2006). "Mushrooms: A bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies that can reach 25 cm in cap diameter.
 ---
 

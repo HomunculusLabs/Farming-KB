@@ -1,4 +1,5 @@
 ---
+
 title: Selling Farm Products and Farm Business
 created: 2026-04-11
 updated: 2026-04-12
@@ -135,15 +136,15 @@ See also [[regenerative-agriculture-history]].
 ### Buying vs. Leasing
 
 - **Buying**: Full control, eligible for tax benefits and conservation programs, requires capital
-## See Also
+- **Leasing**: Lower entry cost, flexible, no equity build. Typical: $25–$100/acre/year
+- **Lease essentials**: Written contract, term length, permitted uses, maintenance, insurance, right of first refusal
 
-- [[homesteading-legal-considerations]] — Zoning, livestock, water rights, building permits
-- [[dairy-and-cheesemaking]] — Milk processing regulations and licensing
-- [[food-preservation-canning]] — Home food preservation and cottage food context
-- [[goat-keeping]] — Goat keeping and regulatory considerations
-- [[duck-keeping]] — Duck management and regulations
-- [[beekeeping-basics]] — Apiary regulations and registration
-- [[regenerative-agriculture-history]] — Principles aligned with conservation program incentives
-- [[homesteading-infrastructure]] — Infrastructure planning and permitting
-- [[seasonal-planning]] — Annual homesteading calendar
-- [[food-forest-design]] — Perennial systems and land use classification
+### Conservation Programs
+
+- **CRP (Conservation Reserve Program)**: USDA pays to remove sensitive land from production. 10–15 year contracts, annual rental + cost-share. Competitive enrollment
+- **EQIP (Environmental Quality Incentives Program)**: Financial/technical assistance for conservation practices (rotational grazing, cover crops, high tunnels, irrigation efficiency). Up to 75% cost-share. Good fit for regenerative homesteads
+- **Conservation easements**: Permanent development restrictions in exchange for tax benefits. Land stays private but cannot be subdivided/developed
+- **State programs**: Many states have Agricultural Preservation Restriction (APR), Agricultural Districts, Farmland Protection programs
+
+### Community Land Trusts
+

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Davis, A.P. et al. (2020). "Coffea arabica L. and C. canephora Pierre ex A. Froehner." In: Wild Crop Relatives: Genomic and Breeding Resources, Springer.
-  - Hamon, P. et al. (2019). "Genetic diversity of Coffea liberica." Tree Genetics & Genomes, 15, 53.
-  - Wintgens, J.N. (2009). Coffee: Growing, Processing, Sustainable Production. Wiley-VCH.
   - Charrier, A. & Berthaud, J. (1985). "Botanical classification of coffee." In: Clifford, M.N. & Willson, K.C. (eds.), Coffee: Botany, Biochemistry and Production of Beans and Beverage. Croom Helm.
 ---
 

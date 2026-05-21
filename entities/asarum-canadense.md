@@ -12,10 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Leopold, D.J. (2005). "Native Plants of the Northeast." Timber Press.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." New England Wild Flower Society.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - USDA NRCS (2024). "Asarum canadense Plant Guide." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." NY Botanical Garden.
 ---
 

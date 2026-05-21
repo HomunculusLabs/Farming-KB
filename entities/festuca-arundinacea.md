@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Buck, G.W., P.H. Dernoeden, & J.M. Vargas (2009). "Diseases and Disorders of Ornamental Palms." APS Press.
-  - Sleper, D.A. & Buckner, R.C. (1995). "The Fescues." Crop Science Society of America.
   - Bouton, J.H. (2009). "Endophyte-infected tall fescue and its use in oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

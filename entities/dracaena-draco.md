@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mägdefrau K. (1975). "Dracaena draco — a relict of the Tertiary." Flora 164: 553-564.
-  - Marrero Á. et al. (1998). "A new species of the wild dragon tree from Gran Canaria." Botanical Journal of the Linnean Society 128: 297-310.
   - González-Pérez M.A. et al. (2004). "psilocybe-global-biodiversity-hotspots." Springer.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Heywood, V.H. (1978). "Lysimachia L." In: Flora Europaea, Vol. 3, pp. 49-51. Cambridge University Press.
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - Weber, H.E. (2001). "Lysimachia." In: Illustrierte Flora von Mitteleuropa, Vol. IV, Part 3A. Blackwell.
-  - Rose, F. (2006). "The Wild Flower Key." Revised ed. Penguin.
   - www.britishwildflowers.info/plant/56/lys/lysima/nemorum.html
 ---
 

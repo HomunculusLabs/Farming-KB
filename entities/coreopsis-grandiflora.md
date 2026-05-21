@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - USDA NRCS (2024). "Coreopsis grandiflora." PLANTS Database.
-  - Lehm, D., O'Brien, M., & St. John, C. (2018). "Coreopsis." In: J.C. Runkle (ed.), "Flora of psilocybin-north-america-pacific-northwest." Oxford University Press.
-  - Armitage, A.M. (2001). "Armitage's Garden Perennials." Timber Press.
-  - Cullina, W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Xerces Society (2016). "Pollinator Plants of the Great Lakes Region."
 ---
 

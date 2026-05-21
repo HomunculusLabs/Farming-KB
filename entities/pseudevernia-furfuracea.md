@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). xanthoria-parietina." Fitoterapia 73(6): 503-505.
   - Huneck, S., Yoshimura, I. (1996). Identification of Lichen Substances. Springer.
 ---
 

@@ -9,17 +9,17 @@ sources: []
 
 ## Overview
 
-Pressure canning safety is about preventing botulism — a potentially fatal illness caused by [[clostridium]] botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Following proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
+Pressure canning safety is about preventing botulism — a potentially fatal illness caused by Clostridium botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Following proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
 
 ## Clostridium Botulinum
 
 ### The Organism
 
-Clostridium botulinum is a spore-forming bacterium found [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]] worldwide. The spores are extraordinarily resistant:
+Clostridium botulinum is a spore-forming bacterium found in soil worldwide. The spores are extraordinarily resistant:
 
 - Survive boiling water (212F) for hours
 - Found on virtually all raw agricultural products
-- Produce a neurotoxin (botulinum toxin) that [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most potent natural toxin known — a few nanograms can be fatal
+- Produce a neurotoxin (botulinum toxin) that is the most potent natural toxin known — a few nanograms can be fatal
 - Seven identified toxin types (A through G); types A, B, E, and F cause human illness
 
 ### Conditions for Toxin Production
@@ -36,7 +36,7 @@ The spores themselves are not harmful when ingested — they pass through the di
 
 High-acid foods (fruits, pickles, jams) have a pH below 4.6, which prevents C. botulinum growth. The acid inhibits spore germination even if spores survive the canning process.
 
-Low-acid foods (vegetables, meats, soups, beans) have a pH above 4.6. If spores survive canning, they can germinate and produce toxin [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] sealed jar. This is why low-acid foods MUST be processed at 240F (at sea level) — the only reliable way to destroy C. botulinum spores.
+Low-acid foods (vegetables, meats, soups, beans) have a pH above 4.6. If spores survive canning, they can germinate and produce toxin in the sealed jar. This is why low-acid foods MUST be processed at 240F (at sea level) — the only reliable way to destroy C. botulinum spores.
 
 ### The 240F Requirement
 
@@ -58,7 +58,7 @@ This distinction is critical:
 | Vent port | Yes, with locking mechanism | May not have proper vent |
 | Safe for canning | Yes | NO |
 
-Some modern "multi-cookers" (Instant Pot, etc.) market canning functions, but the USDA has not validated these for safe home canning. Do not [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] pressure canning.
+Some modern "multi-cookers" (Instant Pot, etc.) market canning functions, but the USDA has not validated these for safe home canning. Do not use them for pressure canning.
 
 ## Equipment Testing and Maintenance
 
@@ -66,7 +66,7 @@ Some modern "multi-cookers" (Instant Pot, etc.) market canning functions, but th
 
 Dial gauges must be tested annually for accuracy:
 
-- Testing is typically available at county extension offices (free or [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]])
+- Testing is typically available at county extension offices (free or low cost)
 - Gauges reading high are dangerous — the actual pressure is lower than indicated, potentially resulting in under-processing
 - Gauges reading low are safe but wasteful — you process at higher pressure than needed
 - Replace gauges that are off by more than 2 PSI
@@ -126,14 +126,12 @@ Before pressurizing, the canner must be vented:
 
 1. Bring water to a boil with the canner lid on but the vent pipe open (weight off, petcock open)
 2. Allow a full, steady stream of steam to escape from the vent pipe for 10 minutes
-3. This purges air from inside the canner — air remaining inside would [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] false pressure reading (the gauge would show the combined pressure of air + steam, not steam alone)
+3. This purges air from inside the canner — air remaining inside would create a false pressure reading (the gauge would show the combined pressure of air + steam, not steam alone)
 4. After 10 minutes, close the vent (place weight on vent pipe or close petcock)
 5. NOW begin watching the gauge for target pressure
 
-Skipping venting is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most dangerous errors in pressure canning. It can result in actual temperatures 20-30F lower than the gauge indicates, leaving botulism spores alive.
+Skipping venting is one of the most dangerous errors in pressure canning. It can result in actual temperatures 20-30F lower than the gauge indicates, leaving botulism spores alive.
 
-## See Also
-- [[comparison-root-cellaring-vs-dehydration]]
 ## Identifying Spoilage
 
 ### Warning Signs (Do Not Eat)
@@ -146,3 +144,11 @@ Skipping venting is one [[mckenna-food-of-the-gods-exopheromones-and-plant-commu
 ### The 10-Minute Boil Rule
 
 As an extra safety margin, the USDA recommends boiling all home-canned vegetables and meats for 10 minutes before tasting. This destroys any botulinum toxin that might be present:
+
+1. Open the jar
+2. Transfer contents to a saucepan
+3. Bring to a rolling boil
+## See Also
+
+- [[query-how-do-i-use-pressure-canning-to-safely-preserve-food-at-home]]
+- [[pressure-canning-food-preservation]]

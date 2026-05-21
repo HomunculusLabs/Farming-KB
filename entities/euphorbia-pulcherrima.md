@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Euphorbia World (2010). "Euphorbia pulcherrima: A Poinsettia Monograph." Euphorbia World Publications.
-  - Trejo, G. et al. (2012). "Taxonomy of the Poinsettia." Horticultural Reviews, 39, 269-311.
-  - Foote, H.E. (1893). "A Monograph of Euphorbia pulcherrima." Contributions from the National Herbarium, 3, 373-383.
-  - Curtis, J. (2015). "The Poinsettia: History and Production." Greenhouse Product News, 25(12), 22-28.
   - Hurt, R. & Rietveld, W. (1989). "Euphorbia pulcherrima: The Christmas Flower." Economic Botany, 43(4), 451-460.
 ---
 

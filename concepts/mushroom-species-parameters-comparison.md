@@ -4,7 +4,6 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: bulk-substrate-preparation
-- coprinus-atrementarius-entity-the-mushroom-cultivator (Stamets & Chilton, 1983), Chapters III-XII
 Updated: 2026-04-18
 - arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

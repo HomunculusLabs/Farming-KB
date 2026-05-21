@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Pieroni, A. (2000). "Medicinal and other useful plants from the tradition of the Albanians of southern Italy." Fitoterapia, 71(Suppl 1), S16–S22.
-  - Barros, L. et al. (2011). "Characterization of mycorrhizal-edible-mushroom-species-overview." Food Chemistry, 126(3), 1334–1340.
-  - EMA/HMPC (2014). "Assessment report on Juniperus communis L., fructus." European Medicines Agency.
-  - Altaf, R. et al. (2023). "A review on phytochemistry and pharmacological activities of Juniperus species." Journal of Pharmacy & Bioallied Sciences, 15(3), 261–272.
 created: 2026-04-28
 ---
 

@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - cannabis-strain-super-lemon-haze-greenhouse-seed-co. (2010). "The Green House Seed Co. Strain Guide." Green House Seeds.
-  - Leafly Staff (2023). "SFV OG blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
-  - AllBud (2023). "SFV OG Kush Strain Review." AllBud.com.
   - Soft Secrets (2019). "OG Kush Family Tree: Untangling the Lineage." Soft Secrets Magazine.
 ---
 

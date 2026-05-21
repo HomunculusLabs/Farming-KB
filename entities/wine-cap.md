@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (2000). "growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." 3rd ed. Ten Speed Press.
-  - Szudy, E. (2017). "Stropharia rugosoannulata: The Wine-Cap Mushroom, a Promising Species for Permaculture." Mycosphere, 8(4), 537-551.
-  - Zervakis, G., et al. (2012). "Cultivation of the bloomfield-boletus-satanus-edible-mushroom-hazards Stropharia rugosoannulata on Agro-Industrial Residues." Bioresource Technology, 114, 494-502.
-  - Piattoni, F., et al. (2014). "Soil Fertility and Mycological Properties as Affected by Stropharia rugosoannulata." Applied Soil Ecology, 73, 1-9.
   - Cleary, T., et al. (2019). "Optimization of comparison-maitake-vs-wine-cap-cultivation Cultivation on Hardwood Chips." fungal-education-curriculum-mushroom-science, 19(2), 167-178.---
 ---
 
@@ -81,3 +77,5 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
+Further research into wine cap continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind wine cap provides a foundation for both practical application and continued scientific inquiry.

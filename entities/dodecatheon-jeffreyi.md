@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hickman, J.C. (1993). "The Jepson Manual: Higher Plants of California." University of California Press.
   - Flora guzman-psilocybin-mushrooms-north-america. It is commonly known as Jeffrey's shooting star, tall shooting star, or Sierra shooting star.
 ---
 

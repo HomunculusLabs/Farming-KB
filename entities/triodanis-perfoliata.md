@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Shetler S.G., Morin N.R. (1986). "Campanulaceae." In: Flora of North America North of Mexico, Vol. 19. Oxford University Press.
-  - Gleason H.A., Cronquist A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
   - Weakley A.S. (2020). "Flora of the Southeastern United States." UNC Herbarium.
 ---
 

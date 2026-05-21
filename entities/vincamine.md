@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Szatmári I et al. (2006). "Synthesis of vincamine and related indole alkaloids." Current pericyclic-reactions-organic-chemistry, 10(13), 1613-1633.
-  - Hitzenberger G, Gasser G (1981). "Vincamine: pharmacology and pharmacokinetics of a cerebral vasodilator." International Journal of Clinical Pharmacology, Therapy and Toxicology, 19(8), 363-372.
-  - Bhatt J et al. (2020). "Vincamine: A comprehensive review of its pharmacology, toxicity, and pharmacokinetics." Phytotherapy Research, 34(12), 3090-3105.created: 2026-05-07
 
 created: 2026-05-07
 ---

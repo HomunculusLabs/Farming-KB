@@ -5,9 +5,6 @@ tags: [saffron, farming-guide, startup, specialty-crops, business-planning, quer
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Saffron: Science, Technology and Health — Mohammad Bagheri (2020)"
-  - "University of Vermont Extension: Saffron Production Guide (2022)"
-  - "FAO Technical Guide: Saffron Cultivation Practices (2021)"
 type: query
 ---
 *Last reviewed: 2026-04-28 | This is a query-style research document, not professional agricultural advice. Consult local extension services before making investment decisions.*

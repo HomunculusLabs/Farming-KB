@@ -11,8 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - Stamets, P. (1996). "psilocybe-azurescens-profile." Integration Journal 1: 68-71.
-  - Besl, H. et al. (1995). "Neue Erkenntnisse zur Verbreitung von Psilocybe azurescens." Mycologischer Bote 3: 14-16.
 created: 2026-04-28
 ---
 

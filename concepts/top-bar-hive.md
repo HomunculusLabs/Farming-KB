@@ -3,7 +3,7 @@ title: Top Bar Hive Beekeeping
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, animal-husbandry, insects, homestead-crafts]
+tags: [homesteading, animal-husbandry, insects, homestead-crafts, design]
 sources: []
 ---
 
@@ -86,7 +86,3 @@ Place the hive on a stand 18-24 inches off the ground, facing southeast for earl
 - [[candle-making]] for processing beeswax from crushed comb
 - [[herbal-salves-and-balms]] for using beeswax in salve recipes
 - [[wildlife-habitat-creation]] for planting bee forage
-## See Also
-- [[comparison-top-bar-hive-vs-warre-hive]]
-- [[comparison-beekeeping-basics-vs-top-bar-hive]]
-- [[bee-forage-hive-management-mollison]]

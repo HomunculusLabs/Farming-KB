@@ -4,12 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, storage, food, preservation, design, humidity]
-sources: ["raw/concepts/root-cellaring-guide.md"]
+sources: []
 ---
 
 # Root Cellaring Guide
 
-A root cellar is a cold-storage structure that uses the natural insulating properties [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] earth to maintain consistent [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] humidity for long-term food storage. [[comparison-root-cellaring-guide-vs-canning-and-preserving]] [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
+A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent temperature and humidity for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
 
 ## Ideal Conditions
 
@@ -31,7 +31,7 @@ Different crops have different storage requirements. Understanding these ranges 
 | Apples | 30-40 | 85-90 | 3-6 months |
 | Cabbage | 32-40 | 90-95 | 3-4 months |
 
-Note: Onions, garlic, and winter squash require lower humidity and should not be stored [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] same area as root vegetables. Potatoes and apples should not be stored together -- apples release ethylene gas which causes potatoes to sprout.
+Note: Onions, garlic, and winter squash require lower humidity and should not be stored in the same area as root vegetables. Potatoes and apples should not be stored together -- apples release ethylene gas which causes potatoes to sprout.
 
 ## Root Cellar Design Types
 
@@ -50,7 +50,7 @@ Key design elements:
 
 ### Basement Root Cellar
 
-An exterior basement room can function [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] root cellar if it meets temperature and humidity requirements. The room should have:
+An exterior basement room can function as a root cellar if it meets temperature and humidity requirements. The room should have:
 - Exterior walls (exposed to earth on at least two sides)
 - A window or vent for temperature control
 - A door that seals well
@@ -119,7 +119,7 @@ Onions, garlic, and braided corn can be hung from rafters for maximum airflow.
 
 - Check the root cellar weekly during storage season
 - Remove any spoiled items immediately
-- Monitor temperature and humidity daily during fall [[ice-house-and-spring-house]] transition periods
+- Monitor temperature and humidity daily during fall and spring transition periods
 - Check for rodents -- set traps or use wire mesh over vents
 - Ensure vents are clear of debris and frost
 

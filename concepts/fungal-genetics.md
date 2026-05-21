@@ -141,10 +141,14 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 - Many basidiomycetes are dikaryotic — two nuclei per cell complicates editing
 - Efficient transformation protocols are still being developed for many species
 - Some species have robust DNA repair systems that reduce editing efficiency
+- Regulatory concerns for genome-edited cultivated mushrooms
+
+## Epigenetics in Fungi
+
+- **DNA methylation**: Variable across fungal groups. Heavy in some basidiomycetes; minimal in S. cerevisiae (no detectable methylation)
+- **Repeat-Induced Point Mutation (RIP)**: A fungal-specific genome defense in Neurospora and related genera. Duplicates DNA sequences are mutated by C-to-T transitions during the sexual cycle, silencing transposons and duplicated genes
+- **Histone modifications**: H3K9 methylation, H3K27 methylation regulate gene expression
 ## See Also
 
-- [[fungal-biology-fundamentals]] for the genetic context of the fungal life cycle
-- [[mushroom-genetics-strain-selection]] for practical genetics in cultivation
-- [[fungal-sexual-reproduction]] for mating type systems
-- [[fungal-evolution]] for how fungal genomes have changed over time
-- [[agar-work-guide]] for techniques used in fungal culture work
+- [[fungal-genetics-and-mushroom-strain-improvement]]
+- [[gadd-fungal-mlst-population-genetics]]

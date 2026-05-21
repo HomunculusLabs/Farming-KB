@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Van Jaarsveld, E.J. (2002). "Portulacaria afra." In: PlantzAfrica, kanna-sceletium-south-african-narcotic National Biodiversity Institute.
-  - Walker, C.C. (2011). "The genus Portulacaria in cultivation." The Cactus and Succulent Journal, 83(2), 76-83.
   - Mills, A.J. & Cowling, R.M. (2006). "Rate of guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi)
 ---
 

@@ -11,9 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Lopez TA et al. (1999). "Toxic plants in Argentina." Veterinary and Human Toxicology.
-  - Vetter J (2004). "Poison hemlock (Conium maculatum L.)." Toxicon.
-  - Frøkiaer H et al. (2008). "Effects of the poisonous alkaloid coniine on nicotinic acetylcholine receptors." British Journal of Pharmacology.
   - Cockayne S (1926). "Hemlock Poisoning." British Medical Journal.
 ---
 

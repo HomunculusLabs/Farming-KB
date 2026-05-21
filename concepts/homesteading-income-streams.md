@@ -42,18 +42,18 @@ Direct-market vegetables are the backbone of many homestead incomes.
 - Farm stand: self-service or staffed. Works well in high-traffic rural areas.
 - Online ordering with farm pickup: growing model. Use platforms like Harvie, Barn2Door, or a simple website.
 
-Key strategies: focus on high-value crops (tomatoes, peppers, herbs, salad mix, microgreens), extend the season with greenhouse growing guide techniques, and grow varieties not available in grocery stores.
+Key strategies: focus on high-value crops (tomatoes, peppers, herbs, salad mix, microgreens), extend the season with [[greenhouse-growing-guide]] techniques, and grow varieties not available in grocery stores.
 
 ## Mushroom Production
 
 Gourmet mushrooms offer excellent profit margins and can be grown year-round.
 
-- [[oyster-mushrooms]] ([[pleurotus-ostreatus]]): easiest to grow, fruit in 2-4 weeks from inoculation. Sell at $10-16 per pound.
-- Shiitake ([[lentinula-edodes]]): grow on inoculated logs. $12-20 per pound. Logs produce for 3-5 years.
-- Lion's Mane ([[hericium-erinaceus]]): premium medicinal and culinary mushroom. $20-30 per pound.
-- [[wine-cap]] ([[stropharia-rugosoannulata]]): grow outdoors on wood chips. Low-maintenance, $10-15 per pound.
+- Oyster mushrooms (Pleurotus ostreatus): easiest to grow, fruit in 2-4 weeks from inoculation. Sell at $10-16 per pound.
+- Shiitake (Lentinula edodes): grow on inoculated logs. $12-20 per pound. Logs produce for 3-5 years.
+- Lion's Mane (Hericium erinaceus): premium medicinal and culinary mushroom. $20-30 per pound.
+- Wine Cap (Stropharia rugosoannulata): grow outdoors on wood chips. Low-maintenance, $10-15 per pound.
 
-Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety]] for safety considerations if also wild-foraging.
+Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety-guide]] for safety considerations if also wild-foraging.
 
 ## Medicinal Herbs and Herbal Products
 
@@ -119,4 +119,4 @@ Candles, soap, lip balm, fire starters, wreaths, dried arrangements, herbal wrea
 
 - [[homestead-dairy-guide]] for goat dairy income details
 - [[worm-farming-for-profit]] for vermicomposting business specifics
-- greenhouse growing guide for season extension to maximize vegetable income
+- [[greenhouse-growing-guide]] for season extension to maximize vegetable income

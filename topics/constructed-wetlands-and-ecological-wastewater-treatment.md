@@ -13,11 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Bill Mollison, Permaculture: A Designers Manual
-  - Bill Mollison, Permaculture: A Practical Design for a Sustainable Future
-  - Harbhajan Singh, Mycoremediation: staycare-composting-as-a-fungal-bioremediation-strategy
-  - Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and Sustainable
     Living
   - Toby Hemenway, Gaia's Garden
 related_concepts:
@@ -27,10 +23,8 @@ related_concepts:
   - graywater-wetland-marsh-filtration-systems
   - mollison-designers-wastewater-treatment-wetlands
   - mollison-designers-greywater-treatment-reedbeds
-  - singh-constructed-wetlands-fungal-wastewater-treatment
   - mollison-sewage-treatment-natural-processes
   - graywater-systems-for-homesteads
-  - mollison-designers-aquatic-edge-planted-wetland-design
   - mollison-greywater-domestic-water-recycling
   - mollison-reed-bed-wetland-treatment
   - permaculture-designers-manual-greywater-systems

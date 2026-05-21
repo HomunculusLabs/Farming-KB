@@ -23,10 +23,8 @@ sources:
     author: "Jeff Cox & Marie-Pierre Moine"
     type: book
     year: 2010
-  - title: "Royal Horticultural Society — Growing Herbs"
     url: "https://www.rhs.org.uk/herbs"
     type: website
-  - title: "University of Minnesota Extension — Growing Herbs at Home"
     url: "https://extension.umn.edu/horticulture/growing-herbs"
     type: website
 type: query

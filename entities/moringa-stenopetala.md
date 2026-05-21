@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jahn, S.A.A. (1991). "The traditional use of comparison-moringa-oleifera-vs-moringa-stenopetala and Moringa stenopetala." Economic Botany, 45(3), 310-319.
-  - Mekonnen, Y. et al. (1999). "Hypoglycemic effect of Moringa stenopetala aqueous extract in rabbits." Phytotherapy Research, 13(1), 44-47.
-  - Abuye, A. et al. (2003). "A processed complementary food supplement from Moringa stenopetala leaves." Plant Foods for Human Nutrition, 58(1), 1-9.
-  - Olson, M.E. & Carlquist, S. (2001). "Stem and * but produces larger leaves
 and greater leaf biomass per tree. In its native range, it serves as a staple
 leaf vegetable, dighton-fungal-communities-grassland-soils in southern Ethiopia rely on *M. stenopetala* as a primary
 micronutrient source during dry seasons. The tree is increasingly recognized

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li, J. et al. (2012). "Phylogeny and biogeography of Syringa (Oleaceae)." Botanical Journal of the Linnean Society, 168(2), 218-236.
-  - Fiala, J.L. (1988). Lilacs: The Genus Syringa. Timber Press.
-  - McKelvey, S.D. (1928). The Lilac: A Monograph. Arnold Arboretum, Harvard University.
   - Chen, X. et al. (2014). "Chemical composition and antioxidant activity of Syringa oblata essential oil." Journal of Agricultural and Food Chemistry, 62(45), 10920-10926.
 ---
 

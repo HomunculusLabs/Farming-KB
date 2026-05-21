@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ferguson, I.K. (1977). "The genus Viburnum in Europe." Botanical Journal of the Linnean Society, 75(1), 1-46.
-  - Winkworth, R.C. & Donoghue, M.J. (2005). "Viburnum phylogeny based on chloroplast trnK intron and nuclear ribosomal ITS DNA sequences." Systematic Botany, 30(1), 150-163.
-  - Huxley, A. (1992). The New RHS Dictionary of Gardening. Macmillan.
   - Tutin, T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
 ---
 

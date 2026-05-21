@@ -3,7 +3,6 @@ title: Jarrold Short Needle Vs Long Needle Mushroom Inoculation Methods
 topic: mushroom_cultivation
 source: "D.H. Jarrold, Indoor mushroom-spore-inoculation-technique
   - vermiculite filter
-  - flammability-hazard-alcohol-lysol-flame-sterilization-mycology
 created: 2026-05-10
 ---
 

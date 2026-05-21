@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wu ZY, Raven PH, Hong DY (2008). "Flora of China, Vol. 5." Science Press.
-  - Debelle FD, Vanherweghem JL, Nortier JL (2008). "Aristolochic acid nephropathy." Kidney International 74(2): 158-169.
-  - Grollman AP, Shibutani S, Moriya M et al. (2007). "Aristolochic acid and the etiology of endemic (Balkan) nephropathy." PNAS 104(29): 12129-12134.
   - Michel J, Jefferies TM (1987). "The Aristolochiaceae." Botanical Journal of the Linnean Society 95(1-2): 1-82.
 ---
 

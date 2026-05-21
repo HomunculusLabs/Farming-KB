@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hummer, K.E. (2010). "Rubus pharmacology: perennial medley of health benefits." Journal of Berry Research, 1(3), 139-151.
-  - Finn, C.E. et al. (2008). "Trailing blackberry breeding and genetics." HortScience, 43(6), 1858-1862.
-  - USDA NRCS. "Rubus ursinus Cham. & Schltdl., California blackberry." PLANTS Database.
   - Clark, J.R. & Moore, J.N. (1999). "Southern-type blackberries." Horticultural Reviews, 22, 167-201.
 ---
 

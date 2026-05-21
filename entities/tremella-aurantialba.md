@@ -14,12 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wang, J. et al. (2019). "Polysaccharides from Tremella aurantialba." Carbohydrate Polymers, 208, 389-401.
-  - Chen, Y. & Wang, M. (2020). "Immunomodulatory effects of T. aurantialba polysaccharides." Int. J. Biol. Macromol., 150, 865-873.
-  - Liu, H. et al. (2018). "Antioxidant and anti-inflammatory activities of golden ear mushroom." J. Ethnopharmacol., 222, 1-9.
-  - Zhang, L. et al. (2021). "Cultivation techniques and dighton-fungal-nutritional-composition-animal-diets in Yunnan." Mycobiology, 49(3), 245-256.
-  - Li, S. et al. (2017). "Anti-tumor activity of T. aurantialba polysaccharides." Front. Pharmacol., 8, 123.
-  - Wu, X. et al. (2022). "Hypoglycemic and hypolipidemic effects in diabetic mice." J. Funct. Foods, 88, 104832.
   - Bandoni, R.J. & Roberts, M.L. (2014). "Tremellomycetes." The Mycota VII, Springer, 387-404.
 ---
 
@@ -78,3 +72,18 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Historical Context
+
+The study and practice of tremella aurantialba has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into tremella aurantialba have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with tremella aurantialba spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

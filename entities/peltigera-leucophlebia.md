@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Brodo, I.M., Sharnoff, S.D., & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
-  - "Vitikainen, O. (1994). Taxonomic revision of Peltigera (Lichenes) in Europe. Acta Botanica Fennica, 152, 1-96."
   - "Miadlikowska, J. et al. (2003). Phylogenetic placement of the Peltigeraceae. Mycologia, 95(6), 1036-1050."
 ---
 

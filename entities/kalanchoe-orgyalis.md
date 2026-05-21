@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Descoings, B. (2003). "Kalanchoe (Crassulaceae) of Madagascar." Adansonia, 25(1): 37-48.
-  - Smith, G.F. & Figueiredo, E. (2012). "Kalanchoe of Southern and Eastern Africa." Bradleya, 30: 157-176.
-  - RHS (2023). "Kalanchoe orgyalis." Royal Horticultural Society Plant Finder.
   - Wickens, G.E. (2008). Economic Botany: Principles and Practices. Springer.
 ---
 

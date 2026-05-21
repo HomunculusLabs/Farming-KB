@@ -13,7 +13,6 @@ tags:
   - food-crop
   - bioenergy
 sources:
-  - Kays, S.J. & Nottingham, S.F. (2008). "Biology and Chemistry of comparison-jerusalem-artichoke-vs-potato." CRC Press.
   - Kosaric, N. et al. (1984). "The psilocybin-north-america-pacific-northwest. It is cultivated for its edible tubers, which store inulin rather than starch as their primary carbohydrate.
 ---
 

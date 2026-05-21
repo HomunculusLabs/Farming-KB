@@ -74,9 +74,14 @@ The dosage data in PIHKAL allows for direct comparison of compound potencies:
 | DOI | 0.5 mg | 1.5-3 mg | ~200x |
 
 See also: [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]], [[psychedelic-mushroom-set-and-setting]], [[phenethylamine-duration-and-timing]]
+## Current Research
 
-## Current Research Directions
+Recent studies on shulgin dosage guidelines have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the mechanisms involved.
-These developments have practical implications for both researchers and practitioners.
+## Practical Considerations
+
+Practitioners working with shulgin dosage guidelines should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

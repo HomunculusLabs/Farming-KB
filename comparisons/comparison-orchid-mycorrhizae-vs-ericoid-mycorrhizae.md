@@ -13,12 +13,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Smith SE, Read DJ. "bloomfield-mycorrhizal-symbiosis-and-fungal-ecology." 4th edition. Academic Press. 2008.
-  - Rasmussen HN. "Terrestrial Orchids: From Seed to Mycotrophic Plant." Cambridge University Press. 1995.
-  - Read DJ. "The structure and function of the ericoid mycorrhizal root." Annals of Botany. 1996.
-  - Dearnaley JDW. "Further advances in orchid mycorrhizal research." Mycorrhiza. 2007.
-  - Selosse MA, Martos F. "Do orchids really hijack fungi? The myco-heterotrophic challenge." New Phytologist. 2014.
-  - Cairney JWG, Meharg AA. "Ericoid mycorrhiza: a partnership that exploits harsh edaphic conditions." European Journal of Soil Science. 2003.
 type: comparison
 ---
 

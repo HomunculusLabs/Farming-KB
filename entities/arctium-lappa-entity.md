@@ -19,12 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
-  - Bown, D. (1995). "Encyclopaedia of Herbs and Their Uses." Dorling Kindersley.
-  - Chevallier, A. (2016). "The Encyclopedia of Medicinal Plants." DK.
-  - Wang, J. et al. (2018). "Arctium lappa L. — A Review of
     Phytochemistry." Molecules 23(8): 2037.
-  - Holzmüller, P. (1978). "Burdock." In: Medicinal Plants. Springer.
   - https://pfaf.org/user/Plant.aspx?LatinName=Arctium+lappa
 ---
 

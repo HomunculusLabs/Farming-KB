@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sauer J.D. (1967). "The grain amaranths and their relatives: a revised taxonomic and geographic survey." Annals of the Missouri Botanical Garden, 54, 103–137.
-  - Brenner D.M. et al. (2000). "The genetic resources of amaranths." In: Perspectives on New Crops and New Uses, ASHS Press, 211–218.
-  - Segura-Nieto M. et al. (1994). "Amaranth as a protein source." Plant Foods for Human Nutrition, 45, 75–85.
-  - National Research Council (2006). "Lost Crops of Africa: Volume II Vegetables." National Academies Press.
   - Tapia M.E. et al. (2016). "Amaranth: a millenary crop for modern agriculture." In: Advances in Plant Breeding Strategies, Springer.
 ---
 

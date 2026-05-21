@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
-  - Barkworth, M.E. et al. (2007). "Festuca L." in Flora psilocybe-genus-global-biodiversity Information Facility (GBIF). "Festuca rubra L." https://www.gbif.org/species/2706094
-  - USDA NRCS. "Plant Guide: Red Fescue (Festuca rubra)." USDA Natural Resources Conservation Service.
   - Humphreys, M.W. et al. (2010). "Festuca." in Wild Crop Relatives: Genomic and Breeding Resources, C. Kole ed. Springer.
 ---
 

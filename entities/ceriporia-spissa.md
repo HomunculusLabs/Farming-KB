@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden L, Gilbertson RL (1993). "European Polypores. Part 1." Synopsis Fungorum, 6, 1-387.
-  - Bernicchia A, Gorjón SP (2010). "Corticiaceae s.l. (Basidiomycota)." Fungi Flora Italica, 12.
-  - Floudas D et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.created: 2026-05-07
 
 created: 2026-05-07
 ---

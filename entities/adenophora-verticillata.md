@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Hong, D.Y. & Ma, L.M. (1994). "A revision of Adenophora (Campanulaceae) in China." Acta Phytotaxonomica Sinica, 32(3): 231-259.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. 1. China Medical Science Press.
-  - Plants of the World Online (2024). "Adenophora verticillata Fisch." Kew Science. https://powo.science.kew.org
   - Lee, Y.N. (2004). "Adenophora." In: Flora of Korea, Vol. 5A. Academy Publishing, Seoul.
 ---
 

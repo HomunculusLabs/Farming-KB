@@ -12,9 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
-  - Beck, D.E. (1990). *Liriodendron tulipifera* L.: Yellow-poplar. USDA Forest Service.
-  - Little, E.L. (1979). Checklist of dmt-containing-plants-united-states-halpern Trees. USDA Forest Service.
   - Duke, J.A. & Ayensu, E.S. (1985). Medicinal Plants of China. Reference Publications.
 ---
 

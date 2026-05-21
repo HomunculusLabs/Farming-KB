@@ -15,7 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jennings, W.B. (2018). "Strychnine: From medicine to murder." Journal of Forensic Sciences, 63(5), 1455-1462.
   - http://www.inchem.org/documents/pims/pharm/strychni.htm (WHO PIM)
 ---# Strychnine
 

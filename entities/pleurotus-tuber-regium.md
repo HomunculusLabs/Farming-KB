@@ -15,9 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Oso B.A. (1977). "Pleurotus tuber-regium (Fr.) Singer — Cultivation on Agricultural Wastes and the Fruiting Body Protein Content." Nigerian Journal of Plant Protection.
-  - Okhuoya J.A., Okogun J.I. (1992). "Nutritional Value of Pleurotus tuber-regium (Fr.) Singer." Mushroom Science, 14(2), 405-410.
-  - Akindahunsi A.A., Oyetayo F.L. (2006). "Nutritive and Antinutritive Evaluation of Pleurotus tuber-regium Sclerotium." Journal of Food Biochemistry, 30(1), 40-50.
   - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: palmer-edible-mushrooms-north-america for producing large underground **sclerotia** — dense, nutrient-storage masses that can exceed 1 kg in weight.
 ---
 

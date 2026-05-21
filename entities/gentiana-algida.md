@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
-  - Körner, C. (2003). Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems. Springer.
   - Urbatsch, L.E. et al. (2000). "Gentiana." In Flora jeavons-climate-adaptation-growing-seasons.
 ---
 

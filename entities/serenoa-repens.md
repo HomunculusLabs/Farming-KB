@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hendriks, W.H. et al. (2005). "The medicinal use of Serenoa repens." Planta Medica, 71(01), 5-10.
-  - Wilt, T.J. et al. (2000). "Saw palmetto extracts for treatment of benign prostatic hyperplasia." JAMA, 280(18), 1604-1609.
-  - USDA NRCS (2024). "Serenoa repens Plant Guide." USDA Natural Resources Conservation Service.
-  - Carrington, C.V.O. et al. (2011). "Ecological genetics of Serenoa repens." American Journal of Botany, 98(10), 1680-1688.
   - Sinclair, W.A. & Dyer, A.R. (1988). "Fire and the distribution of Serenoa repens." Ecology, 69(3), 753-759.
 ---
 

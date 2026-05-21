@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hardin, J.W. & Arena, J.M. (1974). Human Poisoning from Native and Cultivated Plants. Duke University Press.
-  - Lampe, K.F. & McCann, M.A. (1985). AMA Handbook of Poisonous and Injurious Plants. American Medical Association.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern tree-daturas-brugmansia-south-american-ethnobotany. Timber Press.
   - USDA NRCS. "Arisaema triphyllum." PLANTS Database.
 ---
 

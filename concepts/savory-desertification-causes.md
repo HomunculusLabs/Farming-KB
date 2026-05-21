@@ -6,7 +6,6 @@ tags: [desertification, land-degradation, overgrazing, overrest, soil-erosion]
 related: [savory-brittle-environments, savory-livestock-grazing-planning, savory-water-cycle-management]
 type: concept
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

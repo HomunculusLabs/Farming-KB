@@ -78,7 +78,7 @@ Species and applications:
 - **T. asperellum**: Root disease control; growth promotion
 - **T. atroviride**: Mycoparasite of other fungi; strong enzyme production
 
-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] of action:
+Mechanisms of action:
 - **Mycoparasitism**: Trichoderma coils around and penetrates pathogen hyphae, dissolving cell walls with chitinases and glucanases
 - **Antibiosis**: Produces secondary metabolites (trichodermin, gliotoxin, viridin) toxic to pathogens
 - **Competition**: Rapidly colonizes root zone, outcompeting pathogens for nutrients and space
@@ -144,7 +144,7 @@ Species and applications:
 - Apply Beauveria to compost piles to control fungus gnats and other pest flies
 
 ## Limitations
-## See Also
 
-- [[endophytic-fungi-in-agriculture]] -- fungi living inside plant tissues [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] resistance
-- [[mycoremediation-of-heavy-metals]] -- fungi in environmental cleanup (different but related application)
+- Slower action than chemical pesticides (days vs. hours)
+- Environmental conditions strongly affect efficacy
+- Generally more expensive per application than broad-spectrum chemicals

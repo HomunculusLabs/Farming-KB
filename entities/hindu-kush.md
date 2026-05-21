@@ -13,11 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany 26(3): 264–276.
-  - Small, E. & Cronquist, A. (1976). "A practical and natural taxonomy for Cannabis." Taxon 25(4): 405–435.
-  - McPartland, J.M. (2018). "Cannabis: Sativa, Indica, and the Origin of 'Kush'." Journal of vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015 1: 1.
-  - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Thomas.
 created: 2026-05-07---
 ---
 

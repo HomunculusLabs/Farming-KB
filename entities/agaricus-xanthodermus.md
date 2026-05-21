@@ -10,10 +10,6 @@ tags:
   - agaricus
   - mycology
 sources:
-  - Gene, J. (1972). "Agaricus xanthodermus and Related Species." Persoonia.
-  - Capelli, F. (1984). "Agaricus L. (Fungi, Basidiomycotina)." Quaderni della Civica Stazione di Milano.
-  - Kerrigan, R.W. (2016). "Agaricus of psilocybin-north-america-pacific-northwest." Memoirs of the New York Botanical Garden.
-  - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish british-mycological-society.---
 ---
 
@@ -81,3 +77,5 @@ autumn, with peak abundance in summer and early fall.
 The species has a strong association with human-altered landscapes and is rarely
 found in old-growth forests or undisturbed [[agaricus-arvensis]]
 - [[clitopilus-prunulus]]
+Further research into agaricus xanthodermus continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind agaricus xanthodermus provides a foundation for both practical application and continued scientific inquiry.

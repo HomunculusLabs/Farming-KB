@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Maxted, N. & Bond, D.A. (1991). "The role of Vicia species in agricultural systems." Genetic Resources and Crop Evolution, 38(1), 3–12.
-  - Enneking, D. (1995). "The toxicity of Vicia species to humans and animals." Vicia sativa: Taxonomy, Ecology, Agronomy. Springer.
-  - Van Emden, H.F. (2012). "Pest Control and Sustainable Agriculture." CSIRO Publishing.
-  - FAO (2010). "Grassland and Pasture Crops: Vicia species." FAO Plant Production and Protection Paper.
 created: 2026-04-28
 ---
 

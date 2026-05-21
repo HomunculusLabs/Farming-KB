@@ -8,7 +8,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/nutrient-and-dynamic-accumulators.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 related_concepts:
   - "cover-crops-and-green-manures"
   - "composting-and-soil-biology"

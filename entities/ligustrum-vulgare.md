@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Christensen, K.I. (1992). "Ligustrum L." In: Flora Europaea, Vol. 1, 2nd ed., Cambridge University Press.
-  - Reichard, S.H. & White, P. (2001). "Horticulture as a pathway of invasive plant introductions in the United States." Bioscience, 51(2), 103-113.
   - psilocybin-north-america-pacific-northwest and other guzman-psilocybin-mushrooms-north-america, L. vulgare has naturalized widely in the northeastern and midwestern United States, the Pacific Northwest, and parts of eastern Canada. It is particularly problematic in the Great Lakes region and the northeastern Appalachian corridor.
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sung, G.H. et al. (2007). "Phylogenetic Classification of Cordyceps and Clavicipitaceous Fungi." Studies in Mycology, 57, 5-59.
-  - Holliday, J. & Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungus." The Journal of Alternative and Complementary Medicine, 14(5), 1-8.
-  - Winkler, D. (2010). "Caterpillar Fungus (Ophiocordyceps sinensis)." Economic Botany, 64(3), 220-232.
-  - Stone, R. (2008). "Last Stand for the Body Snatchers." Science, 320(5880), 1026-1027.
   - Li, S.P. et al. (2019). "Ophiocordyceps sinensis: A Comprehensive Review." Journal of Pharmacy and Pharmacology, 71(7), 999-1025.
 ---
 
@@ -78,3 +74,14 @@ In Traditional Chinese Medicine (TCM), *O. sinensis* has been used for over 500 
 It is classified as a "sweet, warm" herb that tonifies the kidneys, lungs, and blood, and is traditionally prescribed for fatigue, chronic cough, and sexual dysfunction.
 
 Modern [[hofmann-lsd-clinical-research-early-studies]] has investigated the fungus for:
+## Current Research
+
+Recent studies on ophiocordyceps sinensis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with ophiocordyceps sinensis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

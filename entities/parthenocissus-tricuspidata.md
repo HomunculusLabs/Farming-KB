@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Mullins, M.G., Bouquet, A. & Williams, L.E. (1992). Biology of the Grapevine. Cambridge University Press."
-  - "Sternberg, G. & Wilson, J.W. (2004). Native Trees for growing-gourmet-north-american-reishi-species Landscapes. Timber Press."
-  - "Whitcomb, C.E. (1987). Know It and Grow It III: A Guide to the Identification and Use of Landscape Plants. Lacebark Press."
   - "Chen, J. et al. (2016). \"Adhesive Mechanism of Parthenocissus tricuspidata.\" Journal of the Royal Society Interface, 13(116), 20160273."
 ---
 

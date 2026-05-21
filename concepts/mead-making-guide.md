@@ -9,12 +9,12 @@ sources: []
 
 # Mead Making Guide
 
-Mead [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] simplest alcoholic beverages [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] and is an excellent use for homestead honey. With patience [[coleman-bed-preparation-and-minimal-tillage]] equipment, you can produce meads ranging from dry and complex to sweet and fruity.
+Mead is the world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one of the simplest alcoholic beverages to make at home and is an excellent use for homestead honey. With patience and minimal equipment, you can produce meads ranging from dry and complex to sweet and fruity.
 
 ## Mead Varieties
 
 ### Traditional Mead (Show Mead)
-Honey, water, and yeast only. The purest expression of mead. Quality depends entirely on the honey used. [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] traditional meads showcase the floral and aromatic qualities of the honey. Ferments to dry or semi-sweet depending on honey quantity and yeast choice.
+Honey, water, and yeast only. The purest expression of mead. Quality depends entirely on the honey used. The best traditional meads showcase the floral and aromatic qualities of the honey. Ferments to dry or semi-sweet depending on honey quantity and yeast choice.
 
 ### Melomel (Fruit Mead)
 Mead with fruit added. The most popular mead category. Fruit can be added as fresh, frozen, pureed, or juice.
@@ -26,7 +26,7 @@ Mead with fruit added. The most popular mead category. Fruit can be added as fre
 - Tropical meads: mango, pineapple, passion fruit
 
 ### Metheglin (Spiced Mead)
-Mead with spices [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] added. Historical meads often contained medicinal herbs.
+Mead with spices and herbs added. Historical meads often contained medicinal herbs.
 
 - Common additions: cinnamon, cloves, ginger, nutmeg, allspice, cardamom, vanilla
 - Herbal additions: rosemary, thyme, lavender, chamomile, hops (braggot if also includes malt)

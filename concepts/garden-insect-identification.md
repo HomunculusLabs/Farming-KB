@@ -33,7 +33,7 @@ At least two distinct species attack brassicas.
 Found throughout most of North America; can almost completely defoliate a potato crop.
 
 - **Identification**: Adults overwinter 12-18 inches below surface in or near the potato plot. They emerge in late spring, lay eggs on leaf undersides, and resume feeding. Both adults and larvae feed.
-- **Control**: Growing spuds on new ground reduces emergence. Straw mulching after planting provides habitat for ground [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]. Row covers work for small plots. Handpick adults when they first emerge. Crop rotation is essential.
+- **Control**: Growing spuds on new ground reduces emergence. Straw mulching after planting provides habitat for ground predators. Row covers work for small plots. Handpick adults when they first emerge. Crop rotation is essential.
 
 ## Corn Earworm (Helicoverpa zea)
 
@@ -46,7 +46,7 @@ Also known as the tomato fruitworm.
 
 North American pests about a quarter inch long. Striped ones have three parallel lines; spotted ones have various patterns.
 
-- **Life cycle**: Overwinter in spring, feed on seedlings and chew leaves. Favorite food is cantaloupe, then [[solomon-cucurbit-family-growing-squash-melons-cucumbers]], watermelon, and squash last.
+- **Life cycle**: Overwinter in spring, feed on seedlings and chew leaves. Favorite food is cantaloupe, then cucumbers, watermelon, and squash last.
 - **Damage**: Can transmit virus wilt disease that kills seedlings. Most damage is in spring.
 - **Control**: Sow cucurbits a few weeks later than most in your area so seedlings grow more vigorously. Plant four seeds, thin to two per spot after true leaves appear. Cover hills with floating row covers until plants begin blooming. Parasitic nematodes control larvae.
 

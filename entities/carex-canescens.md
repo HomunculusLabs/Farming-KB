@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). "The Illustrated Field Flora of the British Isles." BSBI.
-  - Akeroyd, J.R. (2014). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
-  - USDA NRCS (2024). "PLANTS Database — Carex canescens L." plants.usda.gov.
-  - Wheeler, B.D. (1980). "Plant Communities of Rich-fen Systems in England." PhD thesis, University of Cambridge.
   - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
 ---
 

@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [jadam, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 ## JADAM Natural vs Chemical Pesticide Distinction

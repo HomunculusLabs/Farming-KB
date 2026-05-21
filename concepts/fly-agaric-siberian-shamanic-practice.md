@@ -5,7 +5,6 @@ updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
   - "raw/papers/amanita-muscaria-herb-of-immortality.md"
 ---
 ## Fly-Agaric in fly agaric siberian shamanic practice

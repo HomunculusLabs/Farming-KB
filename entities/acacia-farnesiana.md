@@ -13,8 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pasiecznik, N.M. et al. (2001). "The prosopis-juliflora–Prosopis pallida complex." Oxford Forestry Institute.
-  - Arce, H. et al. (1993). "Chemical composition and forage quality of Acacia farnesiana." Tropical Grasslands, 27, 279–284.
   - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference dmt-containing-plants-united-states-halpern through guzman-psilocybin-mushrooms-south-america.
 ---
 

@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # THC Therapeutic Profile
 
-Delta-9-[[tetrahydrocannabinol]] (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
+Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
 
 ## Key Therapeutic Effects
 
@@ -20,7 +20,7 @@ Delta-9-[[tetrahydrocannabinol]] (THC) is the primary psychoactive compound in c
 
 ### Antiemetic (Anti-Nausea/Vomiting)
 - Strongest evidence for chemotherapy-induced nausea
-- FDA-approved synthetic THC ([[dronabinol]], nabilone) exists
+- FDA-approved synthetic THC (dronabinol, nabilone) exists
 - More effective than many conventional antiemetics for delayed nausea
 
 ### Appetite Stimulant
@@ -73,10 +73,18 @@ Delta-9-[[tetrahydrocannabinol]] (THC) is the primary psychoactive compound in c
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-for-chronic-pain]] — for pain applications
 - [[cannabis-for-cancer-patients]] — for antiemetic/appetite applications
+## Historical Context
 
-## Current Research Directions
+The study and practice of cannabis thc therapeutic profile has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into cannabis thc therapeutic profile have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with cannabis thc therapeutic profile spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

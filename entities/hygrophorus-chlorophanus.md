@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
-  - Arnolds, E. (2010). "The Hygrophorus of Europe." Koninklijke Nederlandse Mycologische Vereniging.
   - Kibby, G. (2012). "The genus Hygrophorus in Britain." Field 
 often leaving a fleeting ring or fibrillose zone.
 ---*Flesh:** Thin, white, rubbery and pliant. Odor mild or slightly

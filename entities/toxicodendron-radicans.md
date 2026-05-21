@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gillis, W.T. (1971). "The systematics and ecology of poison-ivy and the poison-oaks (Toxicodendron, Anacardiaceae)." Rhodora, 73(893), 72-159.
-  - Epstein, W.L. (1994). "Occupational poison ivy and oak dermatitis." Dermatologic Clinics, 12(3), 511-516.
-  - USDA NRCS. "Toxicodendron radicans (L.) Kuntze." PLANTS Database.
-  - Guin, J.D. & Gillis, W.T. (2001). "Toxicodendron radicans: poison ivy." Dermatology, 202(1), 83-88.
   - Ziska, L.H. et al. (2021). "Projected increase in poison ivy toxicity with rising atmospheric CO₂." PNAS, 118(23).
 ---
 

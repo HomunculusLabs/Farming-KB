@@ -5,7 +5,6 @@ tags: [food-of-the-gods, sugar, slavery, dominator-culture, addiction, mercantil
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T. Food of the Gods, Chapter 11: Complacencies of the Peignoir
 type: concept
 ---
 

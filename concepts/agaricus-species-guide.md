@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, species-profiles, food, foraging, agriculture]
-sources: ["raw/concepts/agaricus-species-guide.md"]
+sources: []
 ---
 
 # Agaricus Species Guide
@@ -13,7 +13,7 @@ The genus Agaricus contains some of the most commercially important and widely c
 
 ## Overview
 
-Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on [[spore-print]] color, bruising reactions, and habitat.
+Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat.
 
 ## Agaricus bisporus (Button, Cremini, Portobello)
 
@@ -33,10 +33,10 @@ What appears to be three different mushrooms are actually the same species at di
 
 A. bisporus cultivation is the most industrialized mushroom production system in the world:
 
-- Substrate: composted straw, horse manure, and/or [[chicken-manure]] with gypsum
-- Two-phase [[composting]]: Phase 1 (outdoor, [[thermophilic-composting]] for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
-- Spawn: [[grain-spawn]] (rye or millet); commercial spawn is highly selected
-- Casing layer: [[peat-moss]] and limestone applied over the colonized compost to trigger fruiting
+- Substrate: composted straw, horse manure, and/or chicken manure with gypsum
+- Two-phase composting: Phase 1 (outdoor, thermophilic composting for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
+- Spawn: grain spawn (rye or millet); commercial spawn is highly selected
+- Casing layer: peat moss and limestone applied over the colonized compost to trigger fruiting
 - Grow rooms: climate-controlled rooms with precise temperature, humidity, and CO2 management
 - Temperature: 55-62 F for fruiting
 - Yield: approximately 1 lb per square foot of growing surface per flush
@@ -76,7 +76,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 ### Look-alikes and Safety
 
 - Amanita species: some have white gills and are deadly; A. campestris has pink-to-brown gills, not white gills
-- [[agaricus-xanthodermus]] (Yellow Stainer): turns bright chrome yellow when the base is cut; has a chemical/phenol odor; causes GI distress
+- Agaricus xanthodermus (Yellow Stainer): turns bright chrome yellow when the base is cut; has a chemical/phenol odor; causes GI distress
 - Key safety check: cut the stem base and watch for yellow staining; if it stains bright yellow and smells like ink or chemicals, discard
 - Always verify chocolate brown spore print
 
@@ -148,3 +148,8 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 
 - Good edible, though less meaty than A. arvensis
 - Almond aroma is pleasant
+## See Also
+
+- [[agaricus-subrufescens]]
+- [[agaricus-melleus]]
+- [[growing-gourmet-button-mushroom-agaricus-cultivation]]

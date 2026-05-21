@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Palmer, D.D. (2003). Hawai'i's Ferns and Fern Allies. University of Hawai'i Press.
-  - Large, M.F. & Braggins, J.E. (2004). Tree Ferns. Timber Press.
-  - Lamoureux, C.H. (1975). "Ferns of Hawai'i." In National Tropical Botanical Garden Bulletin 7(1).
   - Smith, A.R. et al. (2006). "A classification for extant ferns." Taxon 55(3): 705-731.
 ---
 

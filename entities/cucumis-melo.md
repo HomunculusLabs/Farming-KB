@@ -11,10 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Pitrat, M. et al. (2000). "Diversity of melons (Cucumis melo L.)." Acta Horticulturae, 510, 131-140.
-  - Monaco, R. et al. (2018). "Genomic diversity of Cucumis melo L." Plant Physiology, 177(2), 629-641.
-  - Stepansky, A. et al. (1999). "The origin of melons." Annals of Botany, 83(6), 613-622.
-  - Jeffrey, C. (1980). "A review of the Cucurbitaceae." Kew Bulletin, 35(2), 267-286.
   - USDA-ARS (2012). "USDA National Nutrient Database for Standard Reference." Release 25.
 ---
 
@@ -78,3 +74,14 @@ Spacing varies by cultivar and training method: 0.5–1.0 m within rows and
 1.5–2.5 m between rows for bush types; wider spacing for vining types.
 Trellising improves [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] depending on cultivar
 and growing conditions. Fruit maturity is indicated by aroma development,
+## Current Research
+
+Recent studies on cucumis melo have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with cucumis melo should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

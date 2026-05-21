@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vitikainen O, Ahti T, Kuusinen M, Lommi S, Ulvinen T (2002). "Checklist of Lichens and Allied Fungi of Finland." Norrlinia, 12.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Goward T, McCune B, Meidinger D (1994). "The Lichens of British Columbia." BC Ministry of Forests.
-  - Nash TH III (2008). "Lichen Biology." Cambridge University Press, 2nd edition.
   - Scheidegger C, Werth S (2012). "mycelium-running-conservation-biology-and-fungi of lichenized fungi." In Lichen Biology (pp. 311–333). Cambridge University Press.
 ---
 

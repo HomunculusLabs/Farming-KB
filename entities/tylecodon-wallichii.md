@@ -10,8 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Tölken, H.R. (1985). "Crassulaceae." In: Leistner, O.A. (ed.), Flora of Southern Africa. Botanical Research Institute, Pretoria.
-  - Van Jaarsveld, E.J. (2002). "Cultivation of Tylecodon Species." Aloe, 39(1): 12-18.
   - Smith, G.F. et al. (2017). "Succulent flora of southern Africa." SANBI Publishing.
 ---
 

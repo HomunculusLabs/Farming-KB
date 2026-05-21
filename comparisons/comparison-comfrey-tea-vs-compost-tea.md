@@ -10,12 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ingham, E. (2015). *The Compost Tea Brewing Manual*. Soil Foodweb Inc., 5th ed."
-  - "Hills, L. (1976). *Comfrey: Fodder, Food & Remedy*. Henry Doubleday Research Association."
-  - "Rodale, J.I. (1974). *The Complete Book of Composting*. Rodale Press."
-  - "Brinton, W.F. (2008). 'Compost Teas: Active or Passive?' *Biocycle*, 49(12), 46-49."
-  - "Couplan, F. (1998). *The Encyclopedia of Edible Plants of North America*. Contemporary Books."
-  - "Sarrantonio, M. (1994). *Northeast cover-crop Handbook*. Rodale Institute."
 type: comparison
 ---
 

@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Brown Rice Vinegar (BRV) is a fundamental input in [[knf-yeast-preparation-detailed]] or natural wild yeast from the environment
+Brown Rice Vinegar (BRV) is a fundamental input in [[knf-yeast-preparation]] or natural wild yeast from the environment
 - [[knf-water-soluble-calcium]]
 
 ### Livestock Application
@@ -34,7 +34,7 @@ The organic acids in BRV (particularly acetic acid and citric acid) effectively 
 
 ## Relationship to Other KNF Inputs
 
-BRV is a core input that interacts with many others in the KNF system. It serves as a solvent for mineral inputs ([[knf-yeast-preparation-detailed]] as both are outputs of the same fermentation cascade. BRV can be thought of as the bridge between the biological inputs (IMO, FPJ, LAB) and the mineral inputs (WCA, WCP, WS-K).
+BRV is a core input that interacts with many others in the KNF system. It serves as a solvent for mineral inputs ([[knf-yeast-preparation]] as both are outputs of the same fermentation cascade. BRV can be thought of as the bridge between the biological inputs (IMO, FPJ, LAB) and the mineral inputs (WCA, WCP, WS-K).
 ## Practical Considerations
 
 When working with Brown Rice Vinegar (BRV), several practical factors should be

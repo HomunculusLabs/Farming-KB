@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Van Jaarsveld, E.J. (2007). "The Genus Gasteria: A Review of the Taxonomy." Aloe, 44(2-3), 42-55.
-  - Reynolds, G.W. (1950). "The Aloes of table-mountain-south-africa-mollison." The Aloes of  Book Fund, Johannesburg.
   - Zonneveld, B.J.M. & Van Jaarsveld, E.J. (2005). "Taxonomic implications of genome size in Gasteria." Plant Systematics and Evolution, 251(2-4), 217-227.---
 ---# Overview
 

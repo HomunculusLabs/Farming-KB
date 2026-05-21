@@ -10,10 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - University of California Cooperative Extension — Citrus Production Manuals
-  - University of Florida IFAS Extension — Citrus Horticulture
   - CRFG (California Rare Fruit Growers) — Fruit Facts
-  - Morton, J. 1987. Fruits of Warm Climates. Creative Media Systems.
   - FAO — Citrus Germplasm Resources
 ---
 
@@ -80,3 +77,5 @@ Rootstock selection is one of the most important decisions in citrus cultivation
 - [[loquat-cultivation-and-variety-guide]]
 - [[companion-planting-and-polycultures]]
 - [[fertilizer-npk-decoded]]
+Further research into citrus cultivation and variety guide continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind citrus cultivation and variety guide provides a foundation for both practical application and continued scientific inquiry.

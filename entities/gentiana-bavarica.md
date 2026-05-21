@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Körner, C. (2003). Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems. Springer.
-  - Favarger, C. (1949). "Contributions à la taxonomie des Gentianes alpines." Candollea 12: 1-52.
-  - Struwe, L. et al. (2002). "Gentianaceae." In: The Families and Genera of Vascular Plants. Springer.
   - European Floristic Database (Euro+Med PlantBase). gentianaceae.e-uropa.org.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ryder, E.J. (1999). "Lettuce, Endive and Chicory." CABI Publishing.
-  - Zohary, D. & Hopf, M. (2000). "Domestication of Plants in the Old World." Oxford University Press.
-  - Rubatzky, V.E. & Yamaguchi, M. (1997). "World Vegetables." Chapman & Hall.
-  - Mou, B. (2012). "Lettuce." In "Handbook of Plant Breeding." Springer.
   - FAO (2023). "FAOSTAT: Lettuce and chicory production data."
 ---
 

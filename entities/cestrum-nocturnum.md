@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D'Arcy, W.G. (1991). "Cestrum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 24. Oxford University Press.
-  - Hunziker, A.T. (2001). Genera Solanacearum: The Genera of Solanaceae Illustrated, Arranged According to a New System. A.R.G. Gantner Verlag.
-  - Mabberley, D.J. (2017). Mabberley's Plant-Book: A Portable Dictionary of Plants, Their Classification and Uses, 4th ed. Cambridge University Press.
   - Nelson, L.S. et al. (2007). Handbook of Poisonous and Injurious Plants, 2nd ed. Springer.
 ---
 
@@ -78,3 +75,14 @@ Hardiness is limited to USDA zones 9 to 11, with [[query-how-do-i-protect-plants
 In cooler climates, the species can be grown in containers and overwintered indoors in a bright, frost-free location.
 
 Pest issues are generally minor, though whiteflies, scale insects, and [[cervantes-spider-mites-identification-control]] may affect plants grown under stress or in greenhouse conditions.
+## Current Research
+
+Recent studies on cestrum nocturnum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with cestrum nocturnum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

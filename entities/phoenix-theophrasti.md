@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barrow, S.C. (1998). "A monograph of Phoenix L. (Palmae: Coryphoideae)." Kew Bulletin 53(3): 513-575.
-  - Christodoulou, C.S. (1992). "The fungal-diversity-mediterranean-ecosystems."
   - Greuter, W. (1967). "Flora der Insel Kythira." Botanische Jahrbücher 87: 1-140.---
 ---
 
@@ -79,3 +77,5 @@ The Preveli population is protected within a Natura 2000 site but faces ongoing 
 Genetic studies have revealed low [[dighton-fungal-responses-climate-change]] poses a long-term threat through increased drought frequency and rising sea levels. Many populations are within 100 meters of the coastline and could be affected by saltwater intrusion into the freshwater aquifers they depend on.
 
 Efforts to establish new populations through assisted migration within Crete have shown mixed results. Transplanted seedlings at inland sites have struggled with water availability compared to coastal source populations.
+Further research into phoenix theophrasti continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind phoenix theophrasti provides a foundation for both practical application and continued scientific inquiry.

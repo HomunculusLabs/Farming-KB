@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Jones D.L. (1996). "Palms Throughout the World." Smithsonian Institution Press.
-  - Dransfield J., Uhl N.W., Asmussen C.B., Baker W.J., Harley M.M., Lewis C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Australian Government Dept. of Agriculture (2023). "Weeds of National Significance: Archontophoenix spp."
   - IRNGD (2024). "International Register of Names and Cultivars of Palms."
 ---
 

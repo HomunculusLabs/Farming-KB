@@ -4,7 +4,6 @@ tags: [query, chickpeas, garbanzo-beans, grain-legumes, nitrogen-fixation, veget
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singh, K.B. et al. (1997). Chickpea: Botany, Production and Uses. CAB International
 created: 2026-05-07
 type: query
 --- How [[cover-crop]].

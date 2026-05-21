@@ -5,8 +5,6 @@ tags: [fukuoka, natural-farming, rice-paddy, paddy-construction, water-managemen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

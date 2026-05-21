@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, A.J. (2003). "Primula." Timber Press, 2nd edition.
-  - Smith, W.W. & Fletcher, H.R. (1948). "The Genus Primula: Sections Candelabra and Cortusoides." Transactions of the Royal Society of Edinburgh.
-  - Halda, J.J. (1992). "The Genus Primula in Cultivation and the Wild." Tetre Books.
   - European Garden Flora Editorial Committee (2000). "European Garden Flora, Vol. 5." Cambridge University Press.
 ---
 

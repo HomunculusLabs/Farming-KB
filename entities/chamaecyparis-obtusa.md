@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). A Monograph of Cupressaceae and Sciadopitys. Royal Botanic Gardens, Kew.
-  - Eckenwalder, J.E. (2009). Conifers of the World: The Complete Reference. Timber Press.
-  - Katsuki, T. et al. (2013). "A Revised Key to Japanese Conifers." Journal of Japanese Botany, 88(5), 250-264.
-  - Yamamoto, S. (1995). "Gap Dynamics and Stand Structure of a Subalpine Coniferous Forest, Central Japan." Ecological Research, 10, 271-280.
   - Hayashi, Y. (1960). "Studies on the 'Hinoki' (Chamaecyparis obtusa S. et Z.)." Bulletin of the Government Forest Experiment Station, Tokyo, 126, 1-137.
 ---
 

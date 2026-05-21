@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lowrie, A. & Conran, J.G. (2007). "A taxonomic review of Byblis (Byblidaceae) in Western Australia." Nuytsia, 17(1), 1–28.
-  - Hartmeyer, S. (2009). "The Rainbow Plants — a review." Carnivorous Plant Newsletter, 38(2), 50–60.
   - D'Amato, P. (2013). "The Savage Garden, Revised." Ten Speed Press.
 ---
 

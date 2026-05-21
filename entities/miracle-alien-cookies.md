@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2021). "Miracle Alien Cookies (MAC) blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
-  - AllBud (2023). "Miracle Alien Cookies Strain Review." AllBud.com.
-  - Dungeness Seeds (2022). "Capulator's MAC — Miracle Alien Cookies." Breeder catalog.
-  - "Cookies Family Lineage Guide." (2024). Growers Network Technical Series, 12(3).
 created: 2026-05-07
 ---
 

@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Agerbirk, N. et al. (2003). "Cyanogenic glucosides and glucosinolates in double defense against herbivores." Journal of plant-volatile-communication-chemical-ecology, 29(8), 1833-1842.
-  - Kuroki, G. et al. (2019). "Glucosinolate diversity in Barbarea species and their role in plant-insect interactions." Phytochemistry Reviews, 18, 389-411.
   - Couveur, M. & van Dam, N. (2019). "How to domesticate a wild plant species: the case of Barbarea vulgaris." In: oyster-mushroom-log-cultivation-temperate-regions-short-log-method.
 ---
 

@@ -4,7 +4,6 @@ tags: [mushroom, oyster, substrate, pasteurization, bag-cultivation, pleurotus, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - unknown-oyster-mushroom-cultivation.md
 created: 2026-05-07
 type: concept

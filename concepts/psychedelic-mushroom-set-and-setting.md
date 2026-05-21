@@ -7,11 +7,11 @@ tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, enthe
 sources: []
 ---
 
-# Psychedelic Mushroom [[set-and-setting|Set and Setting]]
+# Psychedelic Mushroom Set and Setting
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by [[timothy-leary]] and popularized through the counterculture movement. Set refers to the internal psychological state [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] person, while setting refers to the external physical and social environment. Together, they [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
@@ -37,12 +37,12 @@ Current mental health significantly affects the experience:
 - **Depression**: Clinical depression does not preclude therapeutic use but requires careful screening and professional guidance
 - **Anxiety disorders**: Generalized anxiety can be amplified; controlled settings with professional support are essential
 - **Bipolar disorder**: Risk of manic episodes; generally contraindicated without psychiatric supervision
-- **Psychosis risk**: Personal or family [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] psychotic disorders is a strong contraindication
+- **Psychosis risk**: Personal or family history of psychotic disorders is a strong contraindication
 - **Recent substance use**: Alcohol, stimulants, and other drugs can unpredictably interact; avoid for at least 24-48 hours before
 
 ### Preparation Practices
 
-Recommended preparation [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] days leading up to an experience:
+Recommended preparation in the days leading up to an experience:
 
 - **Meditation or mindfulness practice**: Develops the capacity to observe difficult experiences without being overwhelmed
 - **Journaling**: Clarify intentions, document current life situation, and create space for reflection
@@ -61,7 +61,7 @@ The physical space profoundly influences the experience:
 - **Familiar spaces**: Home or a well-known location provides safety and reduces anxiety
 - **Nature**: Natural environments (forests, gardens, beaches) are consistently rated as positive settings — connection to nature is often enhanced
 - **Dedicated ceremony spaces**: Rooms intentionally prepared with meaningful objects, art, and altars
-- **Clinical settings**: Structured, comfortable rooms designed for [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]] — increasingly used in clinical trials
+- **Clinical settings**: Structured, comfortable rooms designed for psychedelic therapy — increasingly used in clinical trials
 - **Avoid**: Unfamiliar, chaotic, crowded, or institutional environments
 
 ### Environmental Controls
@@ -80,7 +80,7 @@ Prepare the physical space for comfort and safety:
 
 Sensory input is amplified during psychedelic experiences:
 
-- **Music**: Often considered [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] element of setting. Instrumental music is generally preferred. A well-curated playlist should include gentle beginning pieces, more intense middle sections, and calming resolution music. Total duration should exceed the expected trip length
+- **Music**: Often considered the most important element of setting. Instrumental music is generally preferred. A well-curated playlist should include gentle beginning pieces, more intense middle sections, and calming resolution music. Total duration should exceed the expected trip length
 - **Visual art**: Meaningful images, mandalas, or visually rich environments can be stimulating or overwhelming — gauge based on expected dose
 - **Incense or essential oils**: Subtle aromas can enhance the atmosphere; avoid overpowering scents
 - **Textures**: Soft fabrics, comfortable surfaces, and tactile objects can be grounding
@@ -116,7 +116,7 @@ A trip sitter (also called a guide, facilitator, or sitter) is a sober, experien
 
 ## Integration
 
-Integration [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] process of making sense of and incorporating the insights, emotions, and perspectives from a psychedelic experience into daily life. It is increasingly recognized as essential to the therapeutic value of psychedelic experiences.
+Integration is the process of making sense of and incorporating the insights, emotions, and perspectives from a psychedelic experience into daily life. It is increasingly recognized as essential to the therapeutic value of psychedelic experiences.
 
 ### Integration Practices
 
@@ -147,4 +147,5 @@ Integration [[query-what-is-the-difference-between-fungal-dominant-and-bacterial
 - Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
 - Know your limits and respect them
 - Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
-## See Also
+
+See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to set and setting and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.

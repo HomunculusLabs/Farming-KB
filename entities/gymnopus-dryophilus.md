@@ -14,10 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Antonín, V. et al. (2013). "The genus Gymnopus (Basidiomycota, Agaricales) in the Czech Republic." Czech Mycology, 65(1), 7-51.
-  - Halling, R.E. (1983). "Cultural and morphological studies of Gymnopus dryophilus." Mycotaxon, 18, 469-478.
  (taxonomic classification)
-  - Kuo, M. (2024). "Collybia dryophila complex." MushroomExpert.com.
   - Royse, D.J. (2014). "Mycological and cultural characteristics of the edible Collybia dryophila group." Applied Microbiology, 28(4), 582-588.
 ---# Gymnopus dryophilus (Oak-loving Collybia)
 
@@ -80,3 +77,5 @@ The fruiting period varies by latitude: in Western Europe, *G. dryophilus* appea
 ## See Also
 
 [[gymnopus-peronatus]], [[gymnopus-liquidambaris]], [[gymnopus-junonius]]
+Further research into gymnopus dryophilus continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind gymnopus dryophilus provides a foundation for both practical application and continued scientific inquiry.

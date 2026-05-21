@@ -5,7 +5,6 @@ tags: [comparison, garden-beds, soil-preparation, permaculture, biointensive]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/john-jeavons-how-to-grow-more-vegetables.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+Further research into comparison sheet mulching vs double digging continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison sheet mulching vs double digging provides a foundation for both practical application and continued scientific inquiry.

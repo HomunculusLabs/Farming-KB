@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
   - Barkley, T.M. (1986). "Asteraceae." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee, Flora tropical-rainforest-seedling-mycorrhiza-ecological-restoration projects.
 ---
 

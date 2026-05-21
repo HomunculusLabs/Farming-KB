@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Moran, R.C. (1995). "Cheilanthes." In: Flora huckleberries-and-wild-berries-of-north-america, Vol. 2. Oxford University Press.
-  - Windham, M.D. & R.Y. Huiet (2007). "Systematics of the Cheilanthes yavapensis complex." American Fern Journal, 97(2), 71-94.
-  - Haufler, C.H., Windham, M.D. & R. Rabe (1995). "Reticulate evolution in the cheilanthoid ferns." Systematic Botany, 20(2), 230-243.
-  - United States Department of Agriculture, NRCS. "Cheilanthes lanosa (Michx.) D.C. Eaton." PLANTS Database.
   - Tryon, R.M. & A.F. Tryon (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

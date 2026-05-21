@@ -11,8 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Strain Database. "Kali Snacks." leafly.com.
-  - AllBud. "Kali Snacks blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
-  - Wikileaf. "Kali Snacks Strain Information." wikileaf.com.
 created: 2026-04-28
 ---
 

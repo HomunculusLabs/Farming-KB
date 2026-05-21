@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Farjon, A. (2013). "A Handbook of the World's Conifers." Brill.
-  - Richardson, D.M. (1998). "Ecology and Biogeography of Pinus." Cambridge University Press.
-  - Holtmeier, F.-K. (2009). "Mountain Timberlines: Ecology, Patchiness, and Dynamics." Springer.
-  - Bobek, B. (1972). "The ecology and distribution of Pinus cembra L." Plant Ecology, 25(1), 1–12.
   - USDA Forest Service. "Silvics of Pinus cembra."
 ---
 

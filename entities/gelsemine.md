@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Rujjanawate C, Kanjanapothi D, Panthong A. (2003). "Pharmacological effect and toxicity of alkaloids from Gelsemium elegans." Journal of Ethnopharmacology, 89(1), 91-95.
-  - Lynn KL, Ting GY, McCauley R, et al. (2010). "Fatal ingestion of Gelsemium elegans." Forensic Science International, 202(1-3), e1-e3.
-  - Ma G, Chaudhary S, Wei X, et al. (2015). "Phytochemistry and pharmacology of Gelsemium alkaloids." Natural Product Reports, 32(7), 1014-1035.
-  - König S, Schmoll HJ, Gutsch J, et al. (2015). "Gelsemine — chemistry, pharmacology, and toxicology of a plant-derived alkaloid." Pharmacology & Pharmacy, 6(12), 716-729.
 created: 2026-04-28
 ---
 

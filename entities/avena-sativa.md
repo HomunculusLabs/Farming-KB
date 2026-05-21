@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Welch, R.W. (1995). "The chemical-composition-of-hallucinogens oats." In The Oat Crop. Springer.
-  - Butt, M.S., Tahir-Nadeem, M., Khan, M.K.I., Shabir, R. & Butt, M.S. (2008). "Oat: unique among the cereals." European Journal of Nutrition, 47(2), 68-79.
   - FDA (1997). "Final rule: food labeling, health claims; oats and coronary psilocybe-cubensis-miniculture-production-data-and-flush-longevity for Avena sativa.
 ---
 
@@ -79,3 +77,5 @@ Oat oil, extracted from the bran, is rich in tocotrienols and unsaturated [[carb
 ## Ecological Role and Applications
 
 Oats are commonly grown as a [[cover-crop]] [[hamilton-composting-and-organic-matter-management]] and nutrients to soil.
+Further research into avena sativa continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind avena sativa provides a foundation for both practical application and continued scientific inquiry.

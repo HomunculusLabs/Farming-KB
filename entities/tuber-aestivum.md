@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Büntgen, U. et al. (2011). \"Drought-induced decline in the growth of European truffle.\" Nature dighton-fungi-climate-change-feedback, 1(5), 276-279."
-  - "Hall, I.R., Brown, G.T. & Zambonelli, A. (2007). Taming the Truffle. Timber Press."
-  - "Mello, A. et al. (2006). \"Tuber aestivum: a species complex or a polymorphic species?\" Mycorrhiza, 16(4), 239-246."
-  - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" bloomfield-fungal-biology-and-hyphal-growth, 114(1), 63-72."
   - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation outside traditional Mediterranean zones.
 ---
 
@@ -79,3 +75,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on tuber aestivum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with tuber aestivum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

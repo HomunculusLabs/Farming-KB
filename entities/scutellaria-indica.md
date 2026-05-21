@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Shang, X. et al. (2010). "Scutellaria baicalensis Georgi and Scutellaria indica L.: A review of chemistry, pharmacology and toxicology." African Journal of Pharmacy and Pharmacology, 4(10), 673-680.
-  - Li, H.B. & Jiang, Y. (2004). "Evaluation of antioxidant activity of Scutellaria indica." Food Chemistry, 87(3), 447-452.
-  - Zhang, J. et al. (2011). "Anti-inflammatory flavonoids from Scutellaria indica." Fitoterapia, 82(6), 813-818.
-  - Kim, H. et al. (2009). "Neuroprotective effects of Scutellaria indica on neuronal cell death." Journal of Ethnopharmacology, 126(2), 265-272.
   - Sun, Y. et al. (2015). "scutellaria-baicalensis but is distinguished by its lower stature, broader leaf base, and preference for warmer, more humid habitats. Despite its widespread traditional use, it has received less scientific attention than its Chinese relative.
 ---
 

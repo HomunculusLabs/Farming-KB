@@ -124,4 +124,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-neurotropic-inocybe-species]]
-- [[john-w-allen]]
+- [[john-allen]]

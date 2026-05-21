@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hubbard, C.E. (1984). "Grasses: A Guide to Their Structure, Identification, Uses and Distribution." 3rd ed. Penguin.
-  - Cope, T.A. & Gray, A. (2009). "Grasses of the British Isles." BSBI Handbook No. 13.
-  - Jonsell, B. & Karlsson, T. (2010). "Flora Nordica Vol. 6." The Bergius Foundation.
   - Grime, J.P. et al. (2007). "Biological Flora of the British Isles: Deschampsia flexuosa." Journal of Ecology 95: 1253-1273.
 ---
 

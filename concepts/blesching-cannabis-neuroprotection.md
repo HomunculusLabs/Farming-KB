@@ -5,7 +5,6 @@ tags: [cannabis, neuroprotection, cannabinoids, antioxidants, cbd]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]]
 research is U.S. Patent #6,630,507, assigned to the U.S. Department of

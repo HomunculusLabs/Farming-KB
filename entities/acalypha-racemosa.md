@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Burkill, H.M. (1994). "The Useful Plants of West Tropical Africa." 2nd Ed.
   - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa."
 ---# Acalypha racemosa
 

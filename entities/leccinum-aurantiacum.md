@@ -21,10 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan." University of Michigan Press.
-  - Watling, R. (1970). "British Fleshy Fungi." HMSO, London.
-  - Den Bakker, H.C. et al. (2004). "Phylogeny of Leccinum." Mycologia 96(5): 1007–1017.
-  - Kuo, M. (2024). "Leccinum aurantiacum." MushroomExpert.com.
 created: 2026-04-28
 ---# Overview
 

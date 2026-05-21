@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Richens, R.H. (1983). "Elm." Cambridge University Press.
-  - Collin, E. et al. (2000). "EUFORGEN Technical Guidelines for genetic conservation and use of Wych elm (Ulmus glabra)." International Plant Genetic Resources Institute.
-  - Cocker, P. & Cocker, C. (2022). "Britain's Trees: A Treasury of Forests, Woods & Coppices." Elliott & Thompson.
   - Mitchell, A.F. (1974). "A ghouled-field-guide-historical-context to the Trees of Britain and Northern Europe." Collins.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
   - Masanobu Fukuoka (1978). "The One-Straw Revolution." Rodale Press.
 ---
 

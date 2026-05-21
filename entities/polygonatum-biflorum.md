@@ -13,9 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moerman, D.E. (1998). *halpern-sacramental-peyote-and-native-american-church Ethnobotany*.
     Timber Press, Portland, OR.
-  - Foster, S., and Duke, J.A. (2014). *A guzman-magic-mushrooms-chemical-constituents and pharmacology."
     Molecules, 21(9), 1189.
 ---
 

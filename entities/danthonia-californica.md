@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hickman, J.C. (1993). "The Jepson Manual: Higher Plants of California." University of California Press.
-  - Barkworth, M.E. et al. (2007). "Flora field-guide-psilocybin-bluing-reaction-identification to the Grasses of Texas." Texas A&M University Press.
-  - Burcham, L.T. (1957). "California Range Grasses." California Division of Forestry.
   - George, M.R. et al. (2013). "Annual Grassland Productivity in California." Rangeland Ecology & Management 66(3): 300-307.
 ---
 

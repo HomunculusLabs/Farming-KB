@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Smith, C.W., Aptroot, A., Coppins, B.J., Fletcher, A., Gilbert, O.L., James, P.W. & Wolseley, P.A. (eds.) (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
   - Nash, T.H. III, Gries, C. & Bungartz, F. (eds.) (2002). Lichen Flora of the Greater Sonoran Desert Region. Vol. 1. Arizona State University.
 ---
 

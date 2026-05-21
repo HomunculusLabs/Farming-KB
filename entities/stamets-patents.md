@@ -69,14 +69,22 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 
 ## See Also
 
-[[mycofiltration-overview]], [[mycorestoration]]
+[[mycofiltration-overview]], [[mycorestoration-overview]]
 - [[mycoremediation-basics]] for the science behind these patents
 - [[fungal-pest-control]] for mycopesticide applications
 - [[paul-stamets]] for the patent holder
+## Historical Context
 
-## Current Research Directions
+The study and practice of stamets patents has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into stamets patents have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with stamets patents spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

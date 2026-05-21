@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Chen, X. et al. (2016). "Phytochemistry and Pharmacology of Polygonatum Species: A Review." Journal of Ethnopharmacology, 194, 1-22."
-  - "The Royal Botanic Gardens, Kew. (2024). Polygonatum odoratum. Plants of the World Online."
-  - "Li, T.S.C. (2014). "Medicinal Plants: Culture, Utilization and Phytopharmacology." CRC Press."
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 

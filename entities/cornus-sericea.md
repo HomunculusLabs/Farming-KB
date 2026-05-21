@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america
   - USDA NRCS Plant Guide
   - Royal Horticultural Society
 ---

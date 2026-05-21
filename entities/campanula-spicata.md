@@ -10,7 +10,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Flora Europaea, Vol. 4. Cambridge University Press.
   - Kovanda, M. (1970). "Polyploidy and variation in the fukuoka-european-distribution-system-critique. Close relatives include campanula-cenisia.
 ---
 

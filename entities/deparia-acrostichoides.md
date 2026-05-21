@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of guzman-psilocybin-mushrooms-north-america North of Mexico. Oxford University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern field-guide-psilocybin-bluing-reaction-identification to Ferns and Their Related Families. Houghton Mifflin.
   - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

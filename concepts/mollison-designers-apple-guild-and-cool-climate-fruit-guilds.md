@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 --- Apple Guild and Cool Climate Fruit Guilds
 The concept of the food guild is central to Mollison's approach to perennial

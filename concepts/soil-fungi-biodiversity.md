@@ -1,7 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Chs. 4-5, Bills/Christensen/Widden)
-sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
+sources: []
 tags:
 - soil-fungi
 - biodiversity
@@ -124,7 +124,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Structure
 - Mycelium binds soil particles into aggregates
-- AM fungi produce glomalin (see [[glomalin-and-soil-carbon]])
+- AM fungi produce glomalin (see [[glomalin]])
 - Hyphae stabilize macroaggregates (>250 um)
 - Improves water infiltration and retention
 

@@ -58,7 +58,7 @@ Cannabinoids have demonstrated significant anti-inflammatory properties:
 
 Cannabis provides analgesic effects through multiple mechanisms:
 
-- CB1 receptor activation modulates pain signaling in the central nervous [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
+- CB1 receptor activation modulates pain signaling in the central nervous system
 - CB2 receptor activation reduces inflammatory pain at peripheral sites
 - Endocannabinoid system modulation enhances natural pain-relief mechanisms
 - Terpene contributions: myrcene, linalool, and pinene have analgesic properties
@@ -96,7 +96,7 @@ In 2018, WADA removed CBD from prohibited substances. THC remains banned in comp
 
 ## Strain Selection for Recovery
 
-### For Anti-Inflammatory Benefits ([[harlequin-high-cbd-medical-sativa-strain]] and caryophyllene)
+### For Anti-Inflammatory Benefits (high CBD and caryophyllene)
 Harlequin, Cannatonic, ACDC, Sour Tsunami, Pennywise (1:1 CBD:THC).
 
 ### For Muscle Relaxation (indica-dominant, myrcene and linalool)
@@ -147,3 +147,4 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Le
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
+

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pradhan, D. et al. (2013). "Piper betle L.: A review on its ethnobotany, phytochemistry, and pharmacology." Pharmacognosy Reviews 7(14): 140-146.
-  - Arambewela, L.S.R. et al. (2005). "Anti-diabetic activities of Piper betle leaves." Journal of Ethnopharmacology 100(3): 274-279.
-  - Kumar, N. et al. (2014). "Biological activities of Piper betle." Asian Pacific Journal of Tropical Disease 4(Suppl 1): S266-S271.
-  - Nigam, S.S. et al. (1992). "Phytochemical investigation of Piper betle leaves." Fitoterapia 63(4): 343-346.
   - Guha, P. (2006). "Betel leaf: The neglected green gold of India." Journal of Human Ecology 19(2): 87-93.
 ---
 

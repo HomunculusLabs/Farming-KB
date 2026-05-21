@@ -11,10 +11,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Coppen JJW (1995). "Flavours and Fragrances of Plant Origin." Non-Wood Forest Products, FAO.
-  - Asbury FR (2005). "Benzoin Resin: Production, Trade and Uses." Economic Botany 59(2): 165-174.
-  - Lim TK (2012). "Edible Medicinal and Non-Medicinal Plants: Volume 4, Fruits." Springer.
-  - Houten JG (1934). "The Benzoin Industry." Bulletin of the Colonial Institute of Amsterdam.
   - Pinyopusarerk K (1994). "Styrax benzoin: A Tree for Reforestation in Indonesia." ACIAR Proceedings.
 ---
 

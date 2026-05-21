@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gupta, M.P. (1995). "270 Plantas Medicinales Iberoamericanas. CYTED, Bogotá.
-  - Martínez, M. (1969). Las Plantas Medicinales de México. Ediciones Botas.
   - Jirovetz, L. et al. (2002). "Chemical composition and antioxidant properties of Chenopodium ambrosioides guzman-psilocybin-mushrooms-south-america, with a natural range extending from Mexico through copelandia-cyanescens-pantropical-distribution-and-ecology is naturalized in southern Europe, Africa, South Asia, guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands. It is considered invasive in many of these regions.
 ---
 

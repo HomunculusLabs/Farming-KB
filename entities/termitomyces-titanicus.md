@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin.
-  - Fischer, E. &被子植物志 (2017). "The Termitomyces genus: taxonomy and ecology." Mycological Progress.
-  - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS.
-  - de Fine Licht, H.H. et al. (2005). "The competitive balance of sexual and asexual reproduction in Termitomyces." Molecular Ecology.
-  - Kandji, S.T. et al. (2001). "Termitomyces from tropical Africa." Mycotaxon.
 created: 2026-04-28
 ---
 

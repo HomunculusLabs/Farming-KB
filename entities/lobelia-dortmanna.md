@@ -11,7 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Lammers, T.G. (2011). "Revision of Lobelia sect. Lobelia." Journal of Botany, 89(2): 128–165.
   - Szmeja, J. (1994). "Effect of Disturbance on the guzman-psilocybin-mushrooms-north-america.
 ---
 

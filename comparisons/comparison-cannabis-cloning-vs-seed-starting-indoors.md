@@ -5,9 +5,6 @@ tags: [comparison, cannabis, propagation, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
-  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
-  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 type: comparison
 ---
 

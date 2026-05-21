@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Du Puy D, Cribb PJ (2007). "The Genus Cymbidium." Royal Botanic Gardens Kew, Richmond.
-  - Chen XQ, Liu ZJ, Zhu GH (2009). "Flora of China, Vol. 25: Orchidaceae." Science Press, Beijing.
   - Royal Botanic Gardens Kew. "Cymbidium ensifolium (L.) Sw." Plants of the World Online.
 ---
 
@@ -78,3 +76,5 @@ The species forms [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] use 
 Modern hybridization has produced numerous inter-specific crosses with other *Cymbidium* species. Commercial production is centered in China, Taiwan, Japan, and Thailand.
 
 Plants prefer bright indirect light, moderate humidity (50–70%), and regular watering with good drainage. They benefit from a rest period in winter with reduced watering.
+Further research into cymbidium ensifolium continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind cymbidium ensifolium provides a foundation for both practical application and continued scientific inquiry.

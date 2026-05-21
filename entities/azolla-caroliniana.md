@@ -15,10 +15,6 @@ tags:
   - symbiosis
   - cyanobacteria
 sources:
-  - Lumpkin, T.A. & Plucknett, D.L. (1980). "Azolla: Botany, Physiology, and Use as a Green Manure." Economic Botany, 34(2), 111–153.
-  - Bocchi, S. & Malgioglio, A. (2010). "Azolla-Anabaena as a biofertilizer for rice paddy fields." In: hamilton-organic-fertilizers-and-plant-nutrition. Springer.
-  - Wagner, G.M. (1997). "Azolla: A review of its biology and utilization." The Botanical Review, 63(1), 1–26.
-  - Shi, D.J. & Hall, D.O. (1988). "The Azolla-Anabaena association: lemon-cannabis-alchemy-historical-perspective-and-references." In: comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer. Springer.
   - Watanabe, I. & Liu, C.C. (1992). "Improving nitrogen-fixing systems and integrating them into sustainable rice farming." Plant and Soil, 141(1), 57–67.
 ---
 
@@ -81,3 +77,5 @@ The plant accumulates significant quantities of carotenoids, including lutein an
 Triterpenoids isolated from *Azolla* species have shown anti-inflammatory and hepatoprotective effects in animal models. These findings are preliminary and specific to *A. caroliniana* have not been extensively studied.
 
 ## Cultivation Methods
+Further research into azolla caroliniana continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind azolla caroliniana provides a foundation for both practical application and continued scientific inquiry.

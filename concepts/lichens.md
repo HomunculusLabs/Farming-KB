@@ -141,10 +141,15 @@ Functions of secondary metabolites:
 ### Traditional Uses
 
 - **Dyes**: Orchil (Roccella) produces purple dye (orcein). Used since ancient Mediterranean civilizations. Cudbear (Ochrolechia) produces red-purple. Historically significant before synthetic dyes
+- **Food**: Umbilicaria (rock tripe) eaten by indigenous peoples and during famines. Iwatake (rock tripe) is a delicacy in Japanese cuisine
+- **Medicine**: Usnic acid used in traditional medicine across cultures. Lobaria pulmonaria used for lung ailments (doctrine of signatures — it resembles lung tissue)
+- **Fiber**: Some lichens produce durable fiber (Icelandic "candles" from Cetraria islandica burned as wicks)
+
+### Modern Research
+
+- **Antibiotics**: Usnic acid, evernic acid studied for antimicrobial properties
 ## See Also
 
-- [[fungal-symbiosis-types]] for broader fungal symbiosis context
-- [[fungal-ecology]] for fungi in ecological systems
-- [[fungal-biodiversity]] for lichen diversity in the fungal kingdom
-- [[mycorrhizal-fungi]] for the other major fungal symbiosis type
-- [[fungal-evolution]] for the evolutionary origins of lichen symbiosis
+- [[lichens-primary-production]]
+- [[lichens-as-bioindicators]]
+- [[bloomfield-lichens-symbiosis-extreme-survival]]

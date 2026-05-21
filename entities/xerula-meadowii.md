@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Redhead, S.A. (1987). "The Xerulina taxa of psilocybin-north-america-pacific-northwest." Mycotaxon, 28, 425-438.
-  - Petersen, R.H. (2010). "Studies in Xerula and related genera." Journal of the Elisha Mitchell Scientific Society, 118, 1-24.
-  - Thorn, R.G. & Barron, G.L. (1990). "Carnivorous mushrooms." Mycologia, 82(1), 1-8.
-  - Index Fungorum (2024). "Xerula meadowii." www.indexfungorum.org.
 created: 2026-04-28
 ---
 

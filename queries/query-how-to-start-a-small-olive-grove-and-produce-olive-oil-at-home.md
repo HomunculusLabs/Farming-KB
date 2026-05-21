@@ -4,11 +4,6 @@ tags: [olive, olive-oil, orchard, homesteading, oil-production, permaculture, ge
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "UC Davis Olive Center — University of California Cooperative Extension"
-  - "International Olive Council (IOC) — Standards & Best Practices"
-  - "Texas A&M AgriLife Extension — Olive comparison-biochar-production-guide-vs-biochar-soil-amendment"
-  - "Oregon State University Extension Service — Olives for the Pacific Northwest"
-  - "Australian Olive Association — Small-Scale Production Manual"
   - "University of Georgia Cooperative Extension — Home Olive Growing"
 ---
 

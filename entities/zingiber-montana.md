@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - The Plant List (2023). "Zingiber montanum J.König ex Retz." Royal Botanic Gardens Kew.
-  - Sakai S & Nagamasu H (1998). "Systematics of the genus Zingiber in Japan." Journal of Plant Research, 111, 479-488.
   - Leong-Škorić J et al. (2015). "psilocybe-southeast-asia-pacific. Known as **jungle ginger** or **mountain ginger**, it is closely related to cultivated ginger (*Z. officinale*) but is primarily wild-harvested.
 ---
 

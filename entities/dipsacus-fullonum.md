@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Clapham, A.R. et al. (1987). "Flora of the British Isles." Cambridge University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States." New York Botanical Garden.
   - Grieve, M. (1931). "A Modern Herbal." Jonathan Cape.
 ---
 

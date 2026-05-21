@@ -11,14 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Crouch, I.J., and van Staden, J. (1993). "Effect of seaweed concentrates on the establishment and yield of greenhouse tomato plants." *Journal of Applied Phycology*, 5(1): 9-14.
-  - Khan, W. et al. (2009). "Seaweed extracts as biostimulants of plant growth and development." *Journal of Plant Growth Regulation*, 28(4): 386-399.
-  - Eyras, M.C. et al. (2008). "Biological evaluation of seaweed composting." *Journal of Applied Phycology*, 20(3): 287-293.
-  - Schmid, R. (2014). "Fish Amino Acids as complete-organic-fertilizer-cof-recipe-solomon." *ACIAR Proceedings*, 137: 132-138.
-  - Zodape, S.T. et al. (2010). "Seaweed sap as biostimulant for rice." *Journal of Plant Nutrition*, 33(12): 1748-1757.
-  - Muscolo, A. et al. (2013). "Vegetable-based protein hydrolysates as biostimulants." *Scientia Horticulturae*, 164: 442-450.
-  - Welbaum, G.E. et al. (2018). "Biostimulants in horticulture." *Scientia Horticulturae*, 236: 1-2.
-  - Rout, G.R. (2012). "Role of fertilizers and pesticides in agriculture." *Environmental Chemistry Letters*, 10(2): 89-92.
 type: comparison
 ---
 

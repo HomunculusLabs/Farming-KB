@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Abbott IA, Hollenberg GJ (1976). "Marine Algae of California." Stanford University Press.
-  - Druehl LD (1970). "The distribution of the genus Alaria along the Pacific coast of psilocybin-north-america-pacific-northwest." Syesis, 3, 251–261.
-  - Kelp Forest Monitoring Program (2023). "Species Profile: Alaria marginata." Partnership for Interdisciplinary Studies of Coastal Oceans.
   - Lindstrom SC (2009). "The biogeography of kelps (Laminariales, Phaeophyceae): a rhymed account." Botanica Marina, 52(3), 197–210.
 ---
 

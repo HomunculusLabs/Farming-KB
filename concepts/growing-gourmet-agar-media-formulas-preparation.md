@@ -9,7 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and cancer-medicinal-mushrooms, Paul Stamets, 1993, Chapter 12
 type: concept
 created: 2026-04-28
 ---

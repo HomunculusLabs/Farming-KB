@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/holmgren-tripartite-altruism-permaculture-principles-pathways-beyon.md"
 type: concept
 ---# Built Environment as Energy Storage and the Household Economy
 

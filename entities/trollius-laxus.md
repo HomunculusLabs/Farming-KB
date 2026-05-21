@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Parfitt, B.D. & Parker, W.H. (1984). "Taxonomic implications of flavonoid chemistry in Trollius (Ranunculaceae)." Brittonia, 36(2), 157-167.
-  - Brumback, W.E. (1985). "Element Stewardship Abstract for Trollius laxus." The Nature Conservancy.
-  - Hanners, A.M. & York, D.L. (1990). "Pollination and reproductive biology of Trollius laxus." Bulletin of the Torrey Botanical Club, 117(3), 276-281.
   - USDA NRCS PLANTS Database. "Trollius laxus Salisbury." https://plants.usda.gov
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Small, E. & Jomphe, M. (1989). "A revision of the genus Medicago (Leguminosae)." Canadian Technical Bulletin, Contribution 1347. Agriculture Canada.
-  - Lesins, K.A. & Lesins, I. (1979). Genus Medicago (Leguminosae): A Taxogenetic Study. Dr. W. Junk Publishers, The Hague.
-  - Frame, J. (2005. "Forage legumes for temperate grasslands." Science and Practice, 16(2), 111-125.
   - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press, New York.
 ---
 

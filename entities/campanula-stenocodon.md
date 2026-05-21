@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov A, Kovanda M (1978). "Campanula." In: Tutin TG et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Aeschimann D, Lauber K, Moser DM, Theurillat JP (2004). "Flora Alpina." Haupt Verlag.
-  - Garbari F (1978). "Taxonomic Revision of Campanula sect. Megalocalyx." Webbia, 33: 87–125.
-  - Kew Plants of the World Online (2026). "Campanula stenocodon Loret & Barrandon." https://powo.science.kew.org/
   - Tutin TG (1976). "Campanulaceae." In: Flora Europaea Notulae Systematicae. Botanical Journal of the Linnean Society, 71: 1–12.
 ---
 

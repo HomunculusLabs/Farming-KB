@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Holm, L.G. et al. (1977). The World's Worst Weeds: Distribution and Biology. Krieger Publishing.
-  - Willard, T. (1992). The Herbs of Life. Crossing Press.
-  - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
-  - Uddin, M.K. et al. (2014). "Cyperus rotundus L.: Traditional uses, phytochemistry, and pharmacological activities." Asian Pacific Journal of Tropical Disease, 4(Suppl 2), S674-S682.
   - Husain, S.S. et al. (2005). Cyperus rotundus L.: A potential weed. In "Weed Management for copelandia-cyanescens-pantropical-distribution-and-ecology is found in tropical, subtropical, and warm guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands.
 ---
 

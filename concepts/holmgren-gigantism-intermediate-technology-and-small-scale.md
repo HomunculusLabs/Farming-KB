@@ -7,7 +7,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 

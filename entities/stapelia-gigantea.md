@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bruyns PV (2005). "Stapeliads of Southern Africa and Madagascar." Umdaus Press.
-  - Meve U (2002). "Stapeliads — A new classification based on molecular phylogeny." Haseltonia 9.
   - Ollerton J et al. (2009). "A global test of the pollination syndrome hypothesis." Annals of Botany 103(9).
 ---
 

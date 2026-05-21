@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Project Drawdown, "Silvopasture" — drawdown.org/solutions/silvopasture
-  - Gold, M.A. & Garrett, H.E. (2009). Agroforestry: natures own technology. Temperate Agroforestry Systems, CAB International
   - USDA National Agroforestry Center — fs.usda.gov/nac
 ---# Silvopasture
 

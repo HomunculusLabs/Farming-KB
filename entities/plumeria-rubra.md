@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Woodson RE (1938). "Studies in the Apocynaceae IV: The American Genera of Echitoideae." Annals of the Missouri Botanical Garden.
-  - Gupta MP (ed.) (1995). "270 Plantas Medicinales Iberoamericanas." CYTED.
   - Lipp FJ (1989). "Methods of Ethnobotanical Research." Advances in Economic Botany.
 ---
 

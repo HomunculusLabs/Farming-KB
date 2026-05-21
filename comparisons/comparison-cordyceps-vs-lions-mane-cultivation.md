@@ -7,7 +7,6 @@ updated: 2026-04-25
 sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: comparison
 ---
 

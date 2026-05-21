@@ -29,7 +29,7 @@ Sources of organic matter include [[hamilton-kelp-and-seaweed-in-organic-gardeni
 
 **Manage water wisely:** Both too much and too little water affect [[cervantes-organic-amendments-chart]]
 2. Add organic matter regularly through compost, mulches, and green manures
-3. Grow [[glomalin-and-soil-carbon]]
+3. Grow [[glomalin]]
 - [[garden-nutrition-and-diet]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

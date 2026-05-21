@@ -12,10 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Large MF, Braggins JE (2004). "Tree Ferns." Timber Press.
-  - Korall P, Pryer KM, Metzgar JS, Schneider H, Conant DS (2006). "Tree ferns: relationships and evolution." Molecular Phylogenetics and Evolution 39(3): 737-755.
-  - CITES Appendices (2024). "Cibotium barometz." CITES.
-  - Liu Y, Yang MH, Wang XH (2012). "Cibotium barometz: a comprehensive review." Journal of Ethnopharmacology 145(1): 1-11.
   - Wu ZY, Raven PH, Hong DY (2013). "Flora of China Vol. 2-3 (Pteridophytes)." Science Press.
 ---
 

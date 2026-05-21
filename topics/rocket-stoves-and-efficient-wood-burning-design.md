@@ -4,10 +4,6 @@ tags: [rocket-stove, wood-burning, efficient-heating, natural-building, permacul
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Ianto Evans & Leslie Jackson, "query-what-is-a-rocket-mass-heater-and-how-does-it-work Heaters: Superefficient Woodstoves YOU Can Build" (2006)
-  - Larry Winiarski, Aprovecho Research Center holmgren-permaculture-twelve-design-principles-framework
-  - Peter van den Berg, experimental rocket stove research and publications
-  - Paul Wheaton, rocket mass heater forums and Permies.com community data
   - Ernie & Erica Wisner, rocket stove workshops and builder manuals
 ---
 

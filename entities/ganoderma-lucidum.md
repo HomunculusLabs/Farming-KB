@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Paterson RR. "Ganoderma – a therapeutic fungal biofactory." Phytochemistry. 2006.
-  - Wasser SP. "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Appl Microbiol Biotechnol. 2002.
 created: 2026-04-28
 ---# Ganoderma lucidum
 

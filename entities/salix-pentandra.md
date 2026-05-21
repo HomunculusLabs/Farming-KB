@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - K. H. C. B. Argus (2010). "Salix." In Flora of psilocybin-north-america-pacific-northwest, Vol. 7. Oxford University Press.
-  - R. D. Meikle (1984). "Willows and Poplars of Great Britain and Ireland." BSBI Handbook No. 2.
-  - C. A. Stace (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - J. G. Zsuffa et al. (1984). "Willow (Salix)." In J. Janick & J. E. Simon, eds., "Advances in New Crops." Timber Press.
   - R. W. Close (1990). "Salix pentandra L." Journal of Ecology 78(4): 1120–1133.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L., & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Tutin, T.G., et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Kohlein, F. (1991). "Gentians." Timber Press.
 ---
 
@@ -78,3 +76,5 @@ Common challenges include resource limitations, environmental variability, and k
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into gentiana acaulis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind gentiana acaulis provides a foundation for both practical application and continued scientific inquiry.

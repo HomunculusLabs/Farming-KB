@@ -16,11 +16,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Taiz, L. & Zeiger, E. (2022). Plant Physiology and Development. 7th ed. Sinauer Associates.
-  - Wasternack, C. & Strnad, M. (2019). "Jasmonates: Biosynthesis, Perception, fungal-environmental-sensing-signal-transduction-read and Action." Plant Physiology, 180(4), 1758-1781.
-  - Pieterse, C.M.J. et al. (2012). "Hormonal Modulation of Plant Immunity." Annual Review of Cell and Developmental Biology, 28, 489-521.
-  - Verma, V. et al. (2016). "ABA Signaling and Abiotic fungal-lichen-stress-tolerance-and-poikilohydry in Plants." Plant Signaling & Behavior, 11(10), e1217620.
-  - Ku, Y.S., Sintaha, M., Cheung, M.Y., & Lam, H.M. (2018). "Plant Hormone Signaling Crosstalk Network Between Auxin and Strigolactone." Frontiers in Plant Science, 9, 1489.
 type: query
 ---
 

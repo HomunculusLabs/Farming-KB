@@ -20,8 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mikiashvili N et al. (2006). "Enzymatic activity of selected white-rot basidiomycetes in cancer-medicinal-mushrooms-submerged-fermentation-production." World Journal of Microbiology and Biotechnology, 22(9), 991-998.
-  - Šnajdr J, Baldrian P (2007). "Temperature and culture medium affect the production and composition of  of the Northern Hemisphere. It is
 recognized as one of the most efficient lignin-degrading fungi known, producing powerful
 oxidative enzymes that break down woody substrates comprehensively.
 ---he species has attracted significant attention in applied mycology for bioremediation of

@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Callaway, J.C. (2004). "Hempseed as a nutritional resource." European Journal of Lipid Science and Technology, 106(7), 476-488.
-  - Andre, C.M. et al. (2016). "Hemp (*comparison-cannabis-sativa-vs-cannabis-indica* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
   - European Industrial Hemp Association (EIHA) crop variety database
 --- Carmagnola
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Harvey, H.T. & Shellhammer, H.S. (1968). "The Giant Sequoia of the Sierra Nevada." US National Park Service.
-  - Flint, W.D. (2002). "To Find the Biggest Tree." Sequoia Natural History Association.
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
   - NPS (2023). "Sequoia and Kings Canyon National Parks: Giant Sequoia." nps.gov/seki.
 ---
 

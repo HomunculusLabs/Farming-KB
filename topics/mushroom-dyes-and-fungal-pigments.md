@@ -4,13 +4,6 @@ tags: [mycology, natural-dyes, pigments, fungi, crafting, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bessette, A.E. & Bessette, A.R. (2018). The Rainbow Beneath My Feet: A Mushroom Dyer's Field Guide. Syracuse University Press.
-  - Hertzberg, M. (2021). "query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing and Their Applications." bloomfield-fungal-biology-and-hyphal-growth Reviews, 35(2), 110-132.
-  - Koller, G. & Aronson, B. (2019). "Dyeing with Mushrooms: An Overview of Species, Chemistry, and Methods." Economic Botany, 73(3), 289-305.
-  - Miranda, M. et al. (2020). "Sustainable Textile Dyeing with Fungal Extracts: Current State and Future Perspectives." Journal of Cleaner Production, 261, 121192.
-  - Rice, J. & DeMars, D. (2017). "Anthraquinone Pigments from Dermocybe and Cortinarius Species." Mycologia, 109(4), 612-629.
-  - Smith, J. & Wheeler, M. (2022). "The Chemistry of Fungal Pigments: From Nature to Industry." Natural Product Reports, 39(1), 45-68.
-  - Walters, T. (2018). "Growing Dye Mushrooms: Cultivation of Pigment-Producing Fungi for Small-Scale Applications." Mycoscience, 59(4), 278-293.
   - Østergaard, J. (2016). "Fungal Dyes — Historical Use and Modern Revival." Dyes and Pigments, 134, 247-254.---
 ---
 

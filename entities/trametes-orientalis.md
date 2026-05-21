@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Johansen, I. (1980). A Preliminary Polypore Flora of East Africa. Fungiflora, Oslo.
-  - Núñez, M. & Ryvarden, L. (2001). East Asian Polypores 2. Synopsis Fungorum, 14, 170-522.
-  - Dai, Y.C. et al. (2007). "Wood-inhabiting fungi in southern China." Mycotaxon, 101, 265-285.
-  - Zmitrovich, I.V. & Malysheva, V.F. (2013). "Towards a uniform system of the Polyporales." Mycosphere, 4(6), 1084-1101.
-  - Corner, E.J.H. (1989). Ad Polyporaceas V. Beih. Nova Hedwigia, 96, 1-188.
 created: 2026-04-28
 ---
 

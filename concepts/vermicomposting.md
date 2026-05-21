@@ -138,13 +138,16 @@ With stacking tray systems, simply remove the bottom tray (which contains the ol
 
 ## Vermicompost Tea
 
+Worm casting tea is made by steeping finished vermicast in aerated water:
+
+1. Add 1-2 cups of worm castings per 5 gallons of dechlorinated water.
+2. Aerate with an air pump and stone for 18-24 hours.
+3. Optionally add 1 tablespoon unsulfured molasses as microbial food.
+4. Apply as a soil drench (undiluted or diluted 1:1) or foliar spray.
+
+See [[compost-tea-brewing]] for detailed brewing guidance.
+
+## Troubleshooting
 ## See Also
 
-- [[composting-systems]] — Traditional thermophilic composting methods
-- [[compost-tea-brewing]] — Brewing aerated compost tea from your castings
-- [[soil-food-web-nutrient-cycling]] — The microbial ecology behind vermicomposting
-- [[homesteading]] — Worm composting as part of a homestead waste management system
-
-## Related
-
-- [[composting-systems-design-comparison]]
+- [[natural-farming-guide-vermicomposting-and-worm-based-soil-building]]

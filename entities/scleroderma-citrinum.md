@@ -20,14 +20,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Miller, O.K. & Miller, H.H. (2006). "growing-gourmet-north-american-reishi-species Mushrooms: A Field
     Guide to Edible and Inedible Fungi." Falcon Guide.
-  - Kuo, M. (2023). "Scleroderma citrinum." MushroomExpert.com.
-  - Watling, R. (1973). "The genus Scleroderma in Europe." Persoonia, 7(4),
     477-494.
-  - Kirk, P.M. et al. (2008). "Ainsworth & Bisby's Dictionary of the Fungi."
     10th Edition. CABI Publishing.
-  - Baseia, I.G. & Milanez, A.I. (2002). "Scleroderma species from Brazil."
     Mycotaxon, 84, 331-345.
 ---
 

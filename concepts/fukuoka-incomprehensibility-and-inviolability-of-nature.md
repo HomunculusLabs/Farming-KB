@@ -5,7 +5,6 @@ tags: [natural-farming, fukuoka, philosophy-of-nature, ecology, systems-thinking
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming, fukuoka-critique-of-scientific-agriculture agriculture and his advocacy for non-intervention.
 ---
 

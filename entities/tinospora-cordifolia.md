@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kapoor, L.D. (1990). 'Handbook of Ayurvedic Medicinal Plants.' CRC Press."
-  - "Singh, S.S. et al. (2003). 'The Stem of Tinospora cordifolia: A Comprehensive Review.' Pharmacognosy Reviews, 1(1), 43-51."
-  - "Bafna, A.R. & Mishra, S.H. (2005). 'Immunomodulatory Activity of Tinospora cordifolia.' Pharmaceutical Biology, 43(6), 509-514."
-  - "Chintalwar, G.J. et al. (1999). 'Immunomodulatory Activity of a Novel Polysaccharide from Tinospora cordifolia.' International Immunopharmacology, 1(6), 981-988."
   - "The Ayurvedic Pharmacopoeia of India, Part I, Vol. IV. (2001). Government of India."
 ---
 

@@ -127,7 +127,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[aact-glomalin-and-soil-aggregation-ingham]]
-- [[glomalin-and-soil-carbon]]
+- [[glomalin]]
 - [[ingham-glomalin-biological-soil-glues]]
 - [[query-what-is-glomalin-and-why-is-it-important-for-soil-health]]
 - [[teaming-with-microbes-humus-formation-and-glomalin]]

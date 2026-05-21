@@ -4,7 +4,6 @@ tags: [season-extension, protected-culture, cold-frames, greenhouses, high-tunne
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
   - Nearing, Helen and Scott. The Good Life. Schocken Books, 1970.
 ---# [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
 

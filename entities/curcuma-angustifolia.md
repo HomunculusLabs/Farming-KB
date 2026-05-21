@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Roxburgh, W. (1814). "Hortus Bengalensis." Serampore.
-  - Jain, S.K. (1991). "Dictionary of Indian Folk Medicine and Ethnobotany." Deep Publications.
-  - CSIR (1992). "The Wealth of India: Raw Materials, Vol. 3." Publications & Information Directorate.
-  - Sasikumar, B. (2005). "Genetic Resources of Curcuma in India." NBPGR, New Delhi.
   - Pandey, A.K. et al. (2019). "Curcuma angustifolia Roxb.: A review on phytochemistry and pharmacology." Journal of Ethnopharmacology, 245, 112177.
 ---
 

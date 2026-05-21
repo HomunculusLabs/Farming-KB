@@ -1,5 +1,4 @@
 ---
-title: Urban Permaculture Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -131,5 +130,5 @@ Cities are full of microclimates created by buildings, pavement, and infrastruct
 - [[container-gardening-guide]]
 - [[vertical-gardening-guide]]
 - [[square-foot-gardening]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[keyhole-garden-design]]

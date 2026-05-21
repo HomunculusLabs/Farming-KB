@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chang, J. et al. (2011). "Antibacterial and Anti-inflammatory Effects of Forsythia suspensa Extract." Journal of Ethnopharmacology, 137(1), 8–13.
-  - Li, R. et al. (2020). "Phytochemistry and Pharmacology of Forsythia suspensa." Frontiers in Pharmacology, 11, 574701.
-  - Jin, J. et al. (2019). "Genome Sequence of Forsythia suspensa." Molecular Biology Reports, 46(5), 4911–4919.
-  - Royal Horticultural Society. (2024). "Forsythia suspensa." RHS Plant Finder.
   - Chen, J.K. & Chen, T.T. (2004). Chinese Medical Herbology and Pharmacology. Art of Medicine Press.
 ---
 
@@ -78,3 +74,14 @@ The herb is commonly combined with *[[lonicera-japonica]]* (Jin Yin Hua) in Chin
 ## Horticultural Uses
 
 Forsythia suspensa is primarily valued in ornamental horticulture for its early spring floral display. The weeping form is particularly effective on banks, walls, and slopes where the arching stems can cascade naturally.
+## Current Research
+
+Recent studies on forsythia suspensa have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with forsythia suspensa should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

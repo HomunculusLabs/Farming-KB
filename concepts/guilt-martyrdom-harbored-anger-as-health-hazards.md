@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
-  - University of California. "Negative self-talk and pro-inflammatory cytokines."
   - Merriam-Webster Dictionary. Definitions of bias, discernment, guilt.
 ---
 

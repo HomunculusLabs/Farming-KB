@@ -19,10 +19,10 @@ Fungi produce a diverse array of toxic secondary metabolites known as mycotoxins
 
 Amatoxins are produced primarily by species in the genus Amanita, most notably:
 
-- **[[amanita-phalloides]]** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
-- **[[amanita-virosa]]** (Destroying Angel)
-- **[[amanita-verna]]** (Fool's Mushroom)
-- **[[amanita-bisporigera]]** (Eastern Destroying Angel)
+- **Amanita phalloides** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
+- **Amanita virosa** (Destroying Angel)
+- **Amanita verna** (Fool's Mushroom)
+- **Amanita bisporigera** (Eastern Destroying Angel)
 - Also found in some Galerina and Lepiota species
 
 ### Mechanism of Action
@@ -103,7 +103,7 @@ Orellanine poisoning has a uniquely long latency period:
 
 Gyromitrin is found in several species of false morels:
 
-- **[[gyromitra-esculenta]]** (False Morel) — the most significant source
+- **Gyromitra esculenta** (False Morel) — the most significant source
 - **Gyromitra gigas**, **Gyromitra infula**, and related species
 
 ### Mechanism of Action
@@ -137,7 +137,7 @@ Gyromitrin is volatile and water-soluble, making it partially removable through 
 
 ### Source
 
-Aflatoxins are produced by [[aspergillus-flavus]], A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
+Aflatoxins are produced by Aspergillus flavus, A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
 
 ### Mechanism of Action
 
@@ -147,3 +147,8 @@ Aflatoxins are difuranocoumarin compounds, with B1 being the most potent and pre
 - **DNA adduct formation**: The epoxide forms covalent bonds with DNA, primarily at the N7 position of guanine
 - **TP53 mutation**: Aflatoxin-DNA adducts cause a characteristic G-to-T transversion mutation in the TP53 tumor suppressor gene (codon 249), which is strongly associated with hepatocellular carcinoma
 - **Immunosuppression**: Aflatoxins suppress cell-mediated immunity and reduce antibody production
+## See Also
+
+- [[mycotoxins-and-fungal-toxins-in-food-agriculture-and-health]]
+- [[gyromitrin-and-fungal-hydrazine-toxins]]
+- [[fungal-research-compound-reference]]

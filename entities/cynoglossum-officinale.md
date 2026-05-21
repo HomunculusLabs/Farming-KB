@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - USDA NRCS (2026). "Cynoglossum officinale." PLANTS Database.
-  - Tutin, T.G. et al. (1972). "Flora Europaea Vol. 3." Cambridge University Press.
   - CABI (2026). "Cynoglossum officinale (hound's tongue)." Invasive Species Compendium.
 ---
 

@@ -5,7 +5,6 @@ updated: 2026-04-20
 type: concept
 tags: [organic-gardening, plants]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 ## Organic Rose Care and Growing

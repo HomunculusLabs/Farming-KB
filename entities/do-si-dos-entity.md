@@ -20,9 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. (2024). \"Do-Si-Dos blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
-  - "AllBud. (2024). \"Do-Si-Dos Weed Strain.\" AllBud.com."
-  - "Wikileaf. (2024). \"Do-Si-Dos Strain Review.\" Wikileaf.com."
   - "  strain bred by
 Archive Seed Bank in Oregon, crossing the legendary psilocybin-north-america-pacific-northwest by storm after its release in 2016,
 winning multiple awards and quickly becoming a parent strain for numerous

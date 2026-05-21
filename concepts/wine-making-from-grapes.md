@@ -9,7 +9,7 @@ sources: []
 
 # Wine Making From Grapes
 
-Making wine from grapes on the homestead connects you [[fukuoka-dharmic-law-all-things-return-to-one]] of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the [[fukuoka-four-principles-of-natural-farming]] winemaking are accessible to anyone with attention to detail and patience.
+Making wine from grapes on the homestead connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience.
 
 ## Grape Selection
 
@@ -21,7 +21,7 @@ Making wine from grapes on the homestead connects you [[fukuoka-dharmic-law-all-
 - Pinot Noir: light-bodied, earthy, red berry. Difficult to grow but rewarding.
 - Syrah/Shiraz: full-bodied, spicy, dark fruit. Heat-tolerant.
 - Zinfandel: bold, jammy, peppery. Very productive vine.
-- Concord/Niagara: North American labrusca varieties. Foxy flavor, disease-resistant, cold-hardy. Good for sweet wines [[query-how-do-i-make-jam-and-jelly-at-home]].
+- Concord/Niagara: North American labrusca varieties. Foxy flavor, disease-resistant, cold-hardy. Good for sweet wines and jelly.
 
 **White Wine Grapes**
 - Chardonnay: full-bodied, buttery, apple. Adaptable to many climates.
@@ -59,7 +59,7 @@ Making wine from grapes on the homestead connects you [[fukuoka-dharmic-law-all-
 - Titration kit for testing acid
 
 ### Nice-to-Have Equipment
-- Refractometer (measures sugar [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] vineyard)
+- Refractometer (measures sugar in the vineyard)
 - Oak barrels or oak chips for aging
 - Degassing wand
 - Floor corker (much easier than hand corkers)
@@ -97,7 +97,7 @@ Before fermentation, test and adjust the grape juice (must):
 
 ### Step 5: Secondary Fermentation (Aging)
 - Rack (siphon) the wine into a clean glass carboy fitted with an airlock
-- This [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] bulk aging phase where wine clarifies and flavors develop
+- This is the bulk aging phase where wine clarifies and flavors develop
 - Rack every 2-3 months to leave sediment behind
 - Add sulfite (potassium metabisulfite) at each racking to prevent oxidation and microbial spoilage: 1/4 teaspoon per 5 gallons
 - Age for 6-24 months depending on the wine style
@@ -105,7 +105,7 @@ Before fermentation, test and adjust the grape juice (must):
 ### Step 6: Finishing
 - Cold stabilization: chill wine to near freezing for 2-4 weeks. Causes tartrate crystals to precipitate (prevents crystals in the bottle).
 - Degassing: stir vigorously or use a vacuum pump to remove dissolved CO2
-- Clarification: most wines clear naturally with time. If needed, use fining agents ([[bentonite]] for proteins, sparkolloid for general clarification)
+- Clarification: most wines clear naturally with time. If needed, use fining agents (bentonite for proteins, sparkolloid for general clarification)
 - Final adjustments: taste and adjust acid, sweetness (backsweeten after stabilizing), or tannin to preference
 
 ### Step 7: Bottling
@@ -135,7 +135,7 @@ The most critical aspect of winemaking. Every surface that contacts wine must be
 
 ## Common Problems
 
-- Volatile acidity (vinegar smell): caused by acetic [[lactic-acid-bacteria-serum-cannabis-cannabinoid-production]]. Prevent with proper sulfiting and full vessels.
+- Volatile acidity (vinegar smell): caused by acetic acid bacteria. Prevent with proper sulfiting and full vessels.
 - Oxidation (brown color, flat taste): exposure to air. Minimize headspace, use sulfite.
 - Hydrogen sulfide (rotten egg smell): yeast nutrient deficiency during fermentation.
 - Refermentation in bottle: residual sugar ferments. Stabilize with potassium sorbate and sulfite before bottling sweet wines.

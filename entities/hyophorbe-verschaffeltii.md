@@ -11,7 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
   - Henderson, A., Galeano, G., & Bernal, R. (1995). "hyophorbe-lagenicaulis (bottle palm) of Round Island, Mauritius, and the extinct Hyophorbe amaricaulis of Mauritius.
 ---
 

@@ -19,11 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - National Research Council (1975). "The Winged Bean: A High-Protein Crop for the Tropics." National Academies Press, Washington, D.C.
-  - Khan, T.N. (1982). "Winged bean (Psophocarpus tetragonolobus): a protein-rich legume." In: International Workshop on Winged Bean, Los Baños, Philippines.
-  - Prakash, D. et al. (2013). "Psophocarpus tetragonolobus: a review on nutritional value and health benefits." Journal of Food Science and Technology, 50(4), 639-649.
-  - Eagleton, G.E. (1995). "Psophocarpus tetragonolobus (L.) DC." In: Smartt, J. (ed.), Evolution of Crop Plants, 2nd ed., Longman, London.
-  - Gopalakrishnan, N. et al. (2017). "Genetic resources of winged bean." Genetic Resources and Crop Evolution, 64(8), 1739-1750.
 aliases:
   - Winged Bean
   - Goa Bean

@@ -14,7 +14,7 @@ Proper drying and storage are essential for preserving mushroom potency, flavor,
 ## Why Dry Mushrooms
 
 - **Preservation**: Fresh mushrooms spoil within 3-7 days refrigerated. Dried mushrooms last years
-- **Potency retention**: Halts enzymatic degradation of [[psilocybin]]/psilocin and medicinal compounds
+- **Potency retention**: Halts enzymatic degradation of psilocybin/psilocin and medicinal compounds
 - **Weight reduction**: Mushrooms are 90% water. Drying reduces weight by approximately 90%
 - **Convenience**: Easy to store, transport, dose, and incorporate into preparations
 - **Concentration**: Dried material is ~10x more potent by weight than fresh
@@ -69,7 +69,7 @@ Traditional method; works in dry climates:
 
 The key concern with psilocybin-containing mushrooms:
 
-- **Psilocybin** is relatively heat-stable ([[decomposition]] starts above ~350°F / 177°C)
+- **Psilocybin** is relatively heat-stable (decomposition starts above ~350°F / 177°C)
 - **Psilocin** (the active metabolite) is much less stable and degrades at lower temperatures (~150-200°F / 66-93°C)
 - Fresh mushrooms contain both compounds; psilocin degrades rapidly after harvest
 - Most of the psilocin converts to or degrades during drying regardless of temperature
@@ -142,9 +142,14 @@ Desiccants absorb residual moisture after initial drying. Essential for long-ter
 
 ### Potency Preservation Tips
 
+- Get mushrooms cracker-dry as quickly as possible after harvest
+- Grind into a fine powder only when ready to use — powder oxidizes faster than whole pieces
+- Store whole dried mushrooms, not powder, for maximum longevity
+- Keep a food-safe desiccant packet inside every storage jar
+- Label with species, harvest date, and drying method
+- Avoid repeated opening and closing of storage containers
 ## See Also
 
-- [[mushroom-substrates]] for growing the mushrooms that need drying
-- [[monotub-cultivation]] for the most common growing method
-- [[mushroom-nutrition-guide]] for information on medicinal compounds to preserve
-- [[food-preservation-canning]] for broader preservation techniques on the homestead
+- [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]
+- [[psilocybin-mushroom-drying-and-storage-methods]]
+- [[palmer-mushroom-drying-preservation-methods]]

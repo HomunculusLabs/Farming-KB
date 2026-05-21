@@ -12,7 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Schmidt-Roach, S. et al. (2012). \"Bleaching resistance and the role of zooxanthellae.\" Molecular Ecology, 21, 705-723."
   - "Veron, J.E.N. (2000). Corals of the World. AIMS."
   - "Richmond, R.H. (1987). \"Energy trade-offs in coral reproduction.\" Coral Reefs, 6, 61-66."
 ---

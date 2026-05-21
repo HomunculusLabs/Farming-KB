@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Park, J.M. et al. (2006). "Phylogenetics of Campanulaceae s.str. based on chloroplast sequences." Molecular Phylogenetics and Evolution 38(2): 420–431.
-  - Richardson, I.B.K. (1975). "A revision of the Campanula versicolor complex." Botanical Journal of the Linnean Society 71: 201–230.
-  - Strid, A. & Tan, K. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
   - Kovanda, M. (1977). "Cytotaxonomy of the mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish, valued for its long June-to-August blooming period. The species was first introduced to British horticulture around 1810 from material collected in Greece.
 ---
 

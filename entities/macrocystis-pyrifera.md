@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - North, W.J. (1971). "Growth of individual fronds of the mature giant kelp Macrocystis pyrifera." Limnology and Oceanography, 16(4), 619–630.
-  - Foster, M.S. & Schiel, D.R. (1985). "The ecology of giant kelp forests in California: a community profile." U.S. Fish and Wildlife Service Biological Report, 85(7.2).
-  - Graham, M.H. et al. (2007). "Deep-water kelp refugia as potential hotspots of tropical marine diversity and productivity." Proceedings of the National Academy of Sciences, 104(43), 16576–16580.
-  - Aho, K. & Lees, D.C. (2014). "Macrocystis pyrifera." In Kangas, P. (Ed.), Encyclopedia of Tidepools and Rocky Shores. University of California Press.
   - Buschmann, A.H. et al. (2017). "Seaweed production: overview of the global state of exploitation, farming and emerging research activity." European Journal of Phycology, 52(4), 391–406.
 ---
 

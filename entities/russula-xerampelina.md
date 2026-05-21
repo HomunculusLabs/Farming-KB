@@ -6,10 +6,6 @@ tags: [species, fungi, basidiomycota, russulaceae, russula, edible-mushroom, myc
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kibby, G. (2011). \"The genus Russula in Great Britain.\" Published online."
-  - "Miller, S.L. & Miller, D. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A Field Guide to Edible and Inedible Fungi. Falcon Guide."
-  - "Romagnesi, H. (1967). Les Russules d'Europe et d'Afrique du Nord. Bordas, Paris."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to  in the family Russulaceae. It is widely regarded as one of the finest
 edible species within the genus *Russula*, prized by foragers for its mild flavor and
 distinctive seafood-like aroma reminiscent of cooked shrimp or crab when the flesh is
 cut or bruised. The species occurs across ectomycorrhizal-associations with both coniferous and hardwood trees.

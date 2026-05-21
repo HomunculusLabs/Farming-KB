@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Landolt, E. et al. (2010). "Flora Indicativa." Haupt Verlag.
-  - Körner, C. (2003). "Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems." Springer.
-  - Tutin, T.G. et al. (1993). "Flora Europaea Vol. 1." Cambridge University Press.
   - Bliss, L.C. (1971). "Arctic and Alpine Plant Life Cycles." Annual Review of Ecology and Systematics.
 ---
 

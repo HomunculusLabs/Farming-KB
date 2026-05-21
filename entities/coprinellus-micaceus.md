@@ -17,12 +17,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Arora, D. (1986). Mushrooms Demystified. Ten Speed Press.
-  - Redhead, S.A. & Vilgalys, R. (1999). "Coprinus persoon and the status
     of Coprinus sensu lato." Bibliotheca Mycologica, 190.
-  - Keirle, M.R. et al. (2004). "Coprinus sensu lato: molecular phylogeny
     and type studies." Mycologia, 96(1), 29-41.
-  - Ulloa, M. & Hanlin, R.T. (2012). Illustrated Dictionary of Mycology.
     APS Press.
 ---
 

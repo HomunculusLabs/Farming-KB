@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Large M.F., Braggins J.E. (2004). "Tree Ferns." Timber Press.
-  - Korall P. et al. (2007). "A molecular phylogeny of scaly tree ferns (Cyatheaceae)." American Journal of Botany 94(5): 873-886.
-  - Queensland Herbarium. "Cyathea cooperi (Hook. ex F.Muell.) Domin." Australian Plant Census.
   - Holttum R.E. (1963). "Cyatheaceae." Flora Malesiana Series II, 1(2): 65-176.
 ---
 

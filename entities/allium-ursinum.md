@@ -14,9 +14,6 @@ updated: 2026-04-28
 sources:
   - Mabey, R. (1998). "Food for Free." HarperCollins.
   - Bremness, L. (1994). "Herbs." DK Publishing.
-  - Rivera, D. et al. (2006). "Wild Edible Plants Used in the European Mediterranean." Economic Botany, 60(2).
-  - Koch, H.P. & Lawson, L.D. (1996). "Garlic: The Science and Therapeutic Application." Williams & Wilkins.
-  - Säre, S. et al. (2014). "Allium ursinum: A Review of Phytochemistry and Pharmacology." Journal of Functional Foods, 6, 1–11.
 created: 2026-04-28
 ---
 

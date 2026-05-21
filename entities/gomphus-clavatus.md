@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Miller, O.K. Jr. & Laursen, G.A. (1978). \"Gomphus clavatus in Alaska.\" Mycologia, 70(2), 326-332."
-  - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Kuo, M. (2024). \"Gomphus clavatus.\" MushroomExpert.com."
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy. Koeltz Scientific Books."
 ---
 

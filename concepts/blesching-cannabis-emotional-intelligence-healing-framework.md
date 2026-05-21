@@ -4,7 +4,6 @@ tags: [emotional-intelligence, mind-body-medicine, healthy-habits, unhealthy-hab
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Uwe Blesching, "The blesching-cannabis-health-index-autoimmune-conditions" (2017), pp. 1559-1859, 20573-21160created: 2026-05-07
 type: concept
 
 created: 2026-05-07

@@ -57,7 +57,7 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 **Materials with high thermal mass:**
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
-- Adobe and compressed [[mollison-designers-earth-building-cob-adobe-rammed-earth]] block
+- Adobe and compressed earth block
 - [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
 - Water: The highest volumetric heat capacity of any common material
 - Earthen plaster over straw bale: Moderate mass
@@ -97,7 +97,7 @@ Fixed overhangs are calculated to block summer sun while admitting winter sun.
 
 ### 5. Insulation and Air Sealing
 
-Even [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]] passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
+Even the best passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
 
 **Insulation recommendations by climate:**
 - Walls: R-20 to R-40 (higher in cold climates)
@@ -142,9 +142,9 @@ Even [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]] passi
 - Heavy floor or a water-filled thermal mass container
 - Minimal north-facing glazing
 - Overhangs sized for your latitude
-## See Also
+- Insulation priority: Tiny houses have high surface-to-volume ratio
 
-- [[radiant-floor-heating]]
-- [[masonry-heater-design]]
-- [[tiny-house-on-wheels]]
-- [[cob-building-basics-detailed]]
+### [[earthbag-building|Earthbag Structures]]
+
+- Thick earth walls provide excellent thermal mass
+- Small, well-placed windows on south side

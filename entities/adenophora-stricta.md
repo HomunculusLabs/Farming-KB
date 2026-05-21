@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong DY, Pan KL, Yu Y (1998). "Campanulaceae." In: Flora of China, Vol. 19. Science Press & Missouri Botanical Garden Press.
-  - Tang W, Eisenbrand G (1992). "Chinese Drugs of Plant Origin." Springer-Verlag, Berlin.
-  - Zhao YZ et al. (2010). "Triterpenoid saponins from Adenophora stricta." Journal of Natural Products 73(4): 721–725.
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. 1. China Medical Science Press.
 ---
 

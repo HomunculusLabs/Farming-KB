@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Melamede, R.J. (2005). "Cannabis and Cannabinoids." Journal of Cannabis Therapeutics 5(3-4): 1-20.
-  - Hazekamp, A. et al. (2016). "Cannabis: From Pot to Plot." Journal of Cannabis Research 1(1): 3.
   - Peace, M.R. et al. (2016). "Cannabinoid Profile of Cannabis Products." Journal of Analytical Toxicology 40(1): 30-38.
 ---
 

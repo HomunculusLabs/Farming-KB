@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohwi, J. (1965). "Flora of Japan." Smithsonian Institution.
-  - Wu, Z.Y. & Raven, P.H. (1994). "Flora of China, Vol. 13." Science Press.
   - Tanaka, T. (1976). "Tanaka's Cyclopedia of Edible Plants of the World." Keigaku Publishing.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Thorp, G. & Bieleski, R. (2002). "Feijoa: Origin, Botany, Cultivation and Uses." HortResearch.
-  - Sharpe, R.H. (1975). "Feijoas in Florida." Proceedings of the Florida State Horticultural Society, 88, 527–531.
-  - Basile, A. et al. (1997). "Antibacterial activity of Feijoa sellowiana." Journal of Ethnopharmacology, 56(2), 171–174.
-  - Crile, G. & Quiring, D.P. (1940). "Organ weights of the adult dog." American Journal of Anatomy, 67(2), 237–244.
   - Westphalen, S.L. et al. (2020). "guzman-psilocybin-mushrooms-south-america.
 ---
 

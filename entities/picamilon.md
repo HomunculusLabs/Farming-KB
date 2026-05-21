@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Shephard R.J. (1987). "The potential use of picamilon in neurology." Neuroscience and Behavioral Physiology, 17(5), 432-436.
-  - Mirzoian R.S. et al. (1989). "The mechanism of action of nicotinoyl-GABA." Bulletin of Experimental Biology and Medicine, 107(5), 603-605.
   - Wikipedia contributors. "Picamilon." Wikipedia, The Free Encyclopedia.
 ---
 

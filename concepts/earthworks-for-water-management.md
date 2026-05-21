@@ -9,13 +9,13 @@ sources: []
 
 # Earthworks for Water Management
 
-Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in [[regenerative-agriculture]], [[permaculture-design]], and [[homesteading]]. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
+Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in regenerative agriculture, permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
 
 ## Design Principles
 
 ### Slow, Spread, Sink
 
-The three imperatives of regenerative [[water-management]]:
+The three imperatives of regenerative water management:
 
 1. **Slow** the movement of water across the landscape. Fast water erodes, carries away topsoil, and delivers nothing to the soil profile.
 2. **Spread** water out across as much surface area as possible. Concentrated flow causes erosion; distributed flow infiltrates.

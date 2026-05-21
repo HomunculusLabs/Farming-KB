@@ -9,11 +9,11 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Cultivation
 
-[[julius-auboineau-palmer]]'s practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
+Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 
 ## Historical Context
 
-Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom ([[agaricus-campestris]] / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
+Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
 
 Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
 
@@ -75,7 +75,14 @@ Palmer recommended two methods:
 He also dried mushrooms for winter: "No better substitute for meat than fungus can be found. Neither its odor when cooking, nor the gravy it makes, resembles any form of vegetable food. This is but natural, since the plant absorbs oxygen from the air, after the manner of animals."
 
 See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
+## Current Research
 
-Further research in this area has expanded our understanding
-of the underlying mechanisms and practical applications.
-These insights continue to inform both academic study and field practice.
+Recent studies on nineteenth century mushroom cultivation have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with nineteenth century mushroom cultivation should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

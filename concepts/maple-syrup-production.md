@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Maple Syrup Production
 
-Maple syrup is made by boiling down the sap of sugar maple trees ([[acer-saccharum]]) into concentrated syrup. It requires specific weather conditions (freezing nights and thawing days), some basic equipment, and patience. A rewarding late-winter homestead activity that produces a valuable and delicious product. Drawn from [[nicole-faires]]' comprehensive manual.
+Maple syrup is made by boiling down the sap of sugar maple trees (Acer saccharum) into concentrated syrup. It requires specific weather conditions (freezing nights and thawing days), some basic equipment, and patience. A rewarding late-winter homestead activity that produces a valuable and delicious product. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Tree Requirements
 
@@ -18,11 +18,11 @@ Maple syrup is made by boiling down the sap of sugar maple trees ([[acer-sacchar
 | Species | Sugar Content | Sap Yield (gal/lb syrup) | Quality |
 |---------|--------------|--------------------------|---------|
 | Sugar Maple (Acer saccharum) | 2-3% | 30-40 | Best, standard for syrup |
-| Black Maple ([[acer-nigrum]]) | 2-3% | 30-40 | Excellent, similar to sugar maple |
-| Red Maple ([[acer-rubrum]]) | 1.5-2% | 50-60 | Usable but lower quality |
-| Silver Maple ([[acer-saccharinum]]) | 1-1.5% | 60-80 | Can be used, lower sugar |
-| Box Elder ([[acer-negundo]]) | 1% | 80-100 | Poor quality, buddy flavor early |
-| Norway Maple ([[acer-platanoides]]) | 1.5-2% | 50-60 | Acceptable |
+| Black Maple (Acer nigrum) | 2-3% | 30-40 | Excellent, similar to sugar maple |
+| Red Maple (Acer rubrum) | 1.5-2% | 50-60 | Usable but lower quality |
+| Silver Maple (Acer saccharinum) | 1-1.5% | 60-80 | Can be used, lower sugar |
+| Box Elder (Acer negundo) | 1% | 80-100 | Poor quality, buddy flavor early |
+| Norway Maple (Acer platanoides) | 1.5-2% | 50-60 | Acceptable |
 
 Sugar maples are strongly preferred. Other species produce less sugar per gallon of sap and may produce off-flavors.
 
@@ -148,3 +148,6 @@ All grades are the same quality -- the grade depends on when in the season the s
 
 ## Maple Sugar
 ## See Also
+
+- [[guttation-root-pressure-and-maple-sap-physiology]]
+- [[growing-gourmet-plug-spawn-production]]

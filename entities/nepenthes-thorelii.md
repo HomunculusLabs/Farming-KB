@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cheek, M. & Jebb, M. (2001). "A Revision of Nepenthes." Kew Bulletin, 56(4), 887-918.
-  - Clarke, C. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Mey, F.S. (2013). "Nepenthes thorelii ex situ." Carnivorous Plant Newsletter, 42(4), 120-126.
-  - Schlauer, J. (2020). "Nepenthes nomenclatural database." Carnivorous Plant Database.
   - McPherson, S.R. (2009). "Pitcher Plants of the 
 - nepenthes-lowii
 ---# Overview

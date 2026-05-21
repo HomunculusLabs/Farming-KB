@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Cappers, R.T.J. (2022). 'Ferula drudeana and the identity of the ancient-greek-mystery-cults-comparison drug silphium.' Economic Botany 76(4): 1–15."
-  - "Alphonso, A., et al. (2023). 'Phytochemical analysis of Ferula drudeana reveals psychoactive compounds.' Journal of Pharmacy and Pharmacology 75(2): 218–229."
-  - "Mabberley, D.J. (2017). Mabberley's Plant-Book (4th ed.). Cambridge University Press."
-  - "Hytten, J. (2023). 'The silphium mystery: could Ferula drudeana be the answer?' Mediterranean Botany 44(1): e78102."
 created: 2026-04-28
 ---
 

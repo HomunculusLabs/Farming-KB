@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hodel, D.R. (1992). "Chamaedorea Palms: The Species and Their Cultivation." Allen Press.
-  - Donahue, J. (2012). "Indoor Palms." Brooklyn Botanic Garden Guides.
-  - Cerny, T.A., Barfod, A.S. (2006). "A taxonomic revision of the Chamaedorea elegans complex." Palms 50(3): 131-146.
   - Montufar, R., Pintaud, J.C. (2010). "Phenology of Chamaedorea elegans in Mexican darkness-low-light-facilitation-entheogenic-ceremonies, dry air, and neglect made it ideal for the poorly lit, centrally heated rooms of the period.
 ---
 

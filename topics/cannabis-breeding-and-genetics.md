@@ -15,7 +15,6 @@ synthesized_from:
   - cannabis-backcrossing-breeding
   - cannabis-hybridization
   - cannabis-genetic-stability
-  - cannabis-landrace-conservation-breeding-genetic-diversity
   - cannabis-breeding-selection-principles-clarke
   - cannabis-breeding-techniques-acclimatization-trait-fixing-clarke
 ---

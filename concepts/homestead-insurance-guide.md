@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Insurance Guide
 
-Insurance protects homestead businesses from financial catastrophe. [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them y-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention y-how-to-manage-pests-and-diseases-in-mushroom-cultivation costs.
+Insurance protects homestead businesses from financial catastrophe. As a farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, and how to manage costs.
 
 ## Why Homestead Insurance Matters
 
@@ -53,10 +53,10 @@ Insurance protects homestead businesses from financial catastrophe. [[query-can-
 - Covered for fire, wind, hail, lightning, vandalism
 - NOT covered by standard homeowner's insurance if classified as farm structures
 - Replacement cost vs. actual cash value: replacement cost pays to rebuild; actual cash value pays depreciated amount (replacement cost recommended)
-- Cost: $500-2,000/year depending on number [[fukuoka-mu-economics-and-value-of-nothing-essay]] structures
+- Cost: $500-2,000/year depending on number and value of structures
 
 ### Equipment
-- Tractors, tools, processing equipment, [[irrigation-systems]]
+- Tractors, tools, processing equipment, irrigation systems
 - Covered for theft, fire, collision, vandalism
 - Schedule high-value items individually (list make, model, serial number)
 - Tractor: often requires separate policy or farm vehicle coverage
@@ -69,7 +69,7 @@ Insurance protects homestead businesses from financial catastrophe. [[query-can-
 - Non-insured Crop Disaster Assistance Program (NAP): for crops not covered by MPCI
 - NAP covers 50-65% of expected value at 50-55% of established price
 - Premium: minimal ($325 administrative fee + small premium based on coverage level)
-- Private crop insurance: some companies offer policies for specialty [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]] diversified farms
+- Private crop insurance: some companies offer policies for specialty crops and diversified farms
 
 ### Livestock
 - Mortality insurance: covers death from specified causes (fire, lightning, collision, drowning)
@@ -148,3 +148,6 @@ Insurance protects homestead businesses from financial catastrophe. [[query-can-
 | Umbrella policy | $200-500 | Recommended |
 
 Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].
+## See Also
+
+- [[homestead-permaculture-design]]

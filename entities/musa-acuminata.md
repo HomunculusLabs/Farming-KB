@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Daniells J et al. (2001). "Musa species (banana and plantain)." In: Tropical Fruits, Vol. 2. CAB International.
-  - D'Hont A et al. (2012). "The banana (Musa acuminata) genome and the evolution of monocotyledonous plants." Nature, 488, 213–217.
-  - FAO (2023). "FAOSTAT: Bananas — production quantity." Food and Agriculture Organization.
-  - Ploetz RC et al. (2015). "Banana." In: Compendium of Tropical Fruit Diseases. APS Press.
   - Robinson JC, Sauco VG (2010). Bananas and Plantains. 2nd ed. CABI Publishing.
 ---
 

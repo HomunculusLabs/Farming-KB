@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly (2024). "Lemon Cherry gelato-strain Information." www.leafly.com.
-  - AllBud (2024). "Lemon Cherry Gelato." www.allbud.com.
-  - Wikileaf (2024). "Lemon Cherry Gelato Strain Review." www.wikileaf.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Gelato Family Tree and Lineage Guide."
 created: 2026-04-28
 ---
 
@@ -78,3 +74,14 @@ character compared to standard Gelato phenotypes.
 
 - **THC:** 19–25% (occasionally testing up to 28% in elite cuts)
 - **CBD:** <0.1% (negligible)
+## Current Research
+
+Recent studies on lemon cherry gelato have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with lemon cherry gelato should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

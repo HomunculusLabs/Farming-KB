@@ -1,4 +1,5 @@
 ---
+
 title: Mycorrhizal Types
 created: 2026-04-11
 updated: 2026-04-12
@@ -38,7 +39,7 @@ The most common and agriculturally important type. Associated with ~70% of all t
 - **Spore viability:** Spores have ~7-10 days to reach a root before internal carbon supply runs out
 - **Network capacity:** Extraradical hyphae enable a plant to access 100,000x more soil volume than roots alone
 - **Nutrient transporters:** High-affinity transporter proteins in the interfacial apoplast (acidic H+ environment) move phosphate, ammonium (NH4+), nitrate (NO3-), and H+-ATPases. The plant membrane controls what enters — full plant control over nutrient transfer
-- **Special compound:** Produce [[glomalin-and-soil-carbon]], contributing 27-30% of soil carbon
+- **Special compound:** Produce [[glomalin]], contributing 27-30% of soil carbon
 - **Carbon exchange:** Plants provide ~20% of photosynthate to fungi; fungi convert to lipids for transport
 - **Signal:** Plants release strigolactones to attract fungi; fungi release Myc factors (lipo-chitooligosaccharides) to prevent plant defense response
 - **Relevant to cannabis:** This is the mycorrhizal type used by cannabis/hemp
@@ -108,7 +109,7 @@ These families do not form mycorrhizae and have alternative strategies:
 
 - [[mycorrhizal-fungi]] — Practical guide for gardeners
 - [[mycorrhizal-networks]] — How mycelial networks function
-- [[glomalin-and-soil-carbon]] — AMF soil carbon compound
+- [[glomalin]] — AMF soil carbon compound
 - [[soil-food-web-nutrient-cycling]] — Where mycorrhizae fit in the ecosystem
 - [[no-till-gardening-method]] — Protecting mycorrhizal networks
 - teaming-with-fungi-lowenfels — Source reference

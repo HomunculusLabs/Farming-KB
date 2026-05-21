@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barros, L. et al. (2013). "Bioactivity and chemical characterization of Ballota nigra L." Food Chemistry, 141(3), 2090-2097.
-  - Pieroni, A. et al. (2002). "Ethnopharmacology of Ballota nigra in southern Italy." Journal of Ethnopharmacology, 79(2), 165-175.
-  - Hendriks, H. et al. (1975). "The essential oil of Ballota nigra L." Planta Medica, 27(2), 151-156.
-  - Karioti, A. et al. (2007). "Composition and antimicrobial activity of the essential oil of Ballota nigra." Planta Medica, 73(9), 967-969.
   - Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific Publishers.
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, forage]
-sources: ["raw/concepts/pig-husbandry.md"]
+sources: []
 ---
 
 # Pig Husbandry
@@ -13,7 +13,7 @@ Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
 can be harnessed for land clearing and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
-[[hamilton-garden-fencing-and-boundaries]] thoughtful management.
+fencing and thoughtful management.
 
 ## Breed Selection
 
@@ -61,10 +61,10 @@ the most nutrient-rich available. Pigs are intelligent and require secure
 
 ## Fencing
 
-Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]] destroying fencing.
+Pigs are notorious for testing and destroying fencing.
 
 - Woven wire (hog panels — 34 inches tall, 4-inch squares) with an electric
-  wire at nose height [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] standard. See [[livestock-fencing-guide]].
+  wire at nose height is the standard. See [[livestock-fencing-guide]].
 - Two or three strands of hot wire at 6, 12, and 24 inches can work for
   older, trained pigs.
 - Pigs will root under fences. Bury wire 6-12 inches or place logs/rocks
@@ -77,16 +77,16 @@ Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]
 
 ### Pasture and Forage
 - Pigs are omnivores and excellent foragers. On good pasture, they can meet
-  30-50% of their nutritional needs from [[savory-short-duration-grazing-and-cell-systems]] rooting.
+  30-50% of their nutritional needs from grazing and rooting.
 - Excellent foragers on: clover, alfalfa, turnips, beets, field peas,
-  pumpkins, acorns, hickory nuts, apples, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] waste.
+  pumpkins, acorns, hickory nuts, apples, and food waste.
 - Rooting can be destructive — confine to designated areas or use nose
   rings (controversial) to limit damage.
 
 ### Grain Rations
 - Grower diet: 16% protein from weaning to ~120 lbs.
 - Finisher diet: 14% protein from 120 lbs to market weight (220-280 lbs).
-- Common grains: corn (energy), [[soybean-meal]] (protein), barley, oats, wheat.
+- Common grains: corn (energy), soybean meal (protein), barley, oats, wheat.
 - Feed conversion ratio: 2.5-4 lbs of feed per lb of gain (heritage breeds
   are less efficient, 3.5-4.5:1). See [[livestock-feed-formulation]].
 
@@ -104,7 +104,7 @@ Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]
 
 ### Common Issues
 - Respiratory disease (pneumonia) — ventilation is critical. Wet, ammonia-
-  filled environments [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] primary cause.
+  filled environments are the primary cause.
 - Parasites — internal (worms) and external (lice, mange). Rotate pastures,
   deworm strategically.
 - Erysipelas — bacterial disease causing diamond-shaped skin lesions,
@@ -122,7 +122,7 @@ Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]
 
 ### Biosecurity
 - Quarantine new animals for 30 days minimum.
-- All-in/all-out [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] farrowing and finishing groups.
+- All-in/all-out management for farrowing and finishing groups.
 - Control rodents and wild birds — disease vectors.
 
 ## Breeding
@@ -148,3 +148,5 @@ Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]
 - Process piglets (iron injection, clip needle teeth, dock tails, castrate
   males) within first 3 days.
 ## See Also
+
+- [[cattle-husbandry-and-permaculture-integration]]

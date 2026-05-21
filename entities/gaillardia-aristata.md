@@ -10,10 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - DeBolt A.M., Kartesz J.T. (2007). "Gaillardia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 21. Oxford University Press.
-  - Wold J.L., Shafii B., Price W.J. (2004). "Selection for seedling vigor in Gaillardia aristata." HortScience 39(6): 1288–1291.
   - USDA NRCS. "Gaillardia aristata." PLANTS Database.
-  - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Moerman D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Akhondzadeh, S., et al. (2003). "Melissa officinalis Extract in Mild-to-Moderate Alzheimer's Disease." Journal of Neurology, Neurosurgery & Psychiatry, 74(7), 863-866.
-  - Carnat, A., et al. (1998). "The Aromas of Melissa officinalis L." Journal of permaculture-designers-manual-essential-oil-plants Research, 10(6), 621-624.
-  - Shakeri, A., et al. (2016). "Melissa officinalis L.: A Review of Its Traditional Uses." Phytotherapy Research, 30(4), 543-554.
-  - Ulbricht, C., et al. (2005). "An Evidence-Based Systematic Review of comparison-echinacea-vs-lemon-balm." Journal of Herbal Pharmacotherapy, 5(2), 71-114.
   - Sedigheh, A., et al. (2011). "Melissa officinalis in the Treatment of Dementia." CNS Drugs, 25(8), 691-701.---
 ---
 
@@ -81,3 +77,5 @@ Melissa officinalis has a long history of use in European, Persian, and Islamic 
 **Anxiety and stress:** Multiple double-blind, placebo-controlled trials demonstrate significant anxiolytic effects. A standardized extract (80 mg/day, containing 500 µg citral) reduced anxiety scores comparable to low-dose benzodiazepines in clinical settings.
 
 **Sleep improvement:** Single-dose and repeated-dose studies show reduced insomnia severity, improved sleep latency, and increased sleep quality, particularly when combined with valerian (*[[psilocybin-clinical-trial-landscape-2020-2025]] demonstrated significant cognitive improvement in mild-to-moderate Alzheimer's disease patients after 16 weeks of Melissa extract (60 drops/day), with benefits in agitation reduction and cognitive scores.
+Further research into melissa officinalis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind melissa officinalis provides a foundation for both practical application and continued scientific inquiry.

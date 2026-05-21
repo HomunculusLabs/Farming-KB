@@ -12,8 +12,6 @@ tags:
   - pollinator-plant
 date: 2026-05-10
 sources:
-  - Allan, H.H., 1961. "Flora of New Zealand, Vol. I." Government Printer, Wellington.
-  - Connor, H.E. & Edgar, E., 1987. "Name changes in the indigenous New Zealand flora, 1960–1986." New Zealand Journal of Botany, 25: 115–170.
   - de Lange, P.J. et al., 2018. "dighton-fungal-responses-climate-change, browsing mammals, and habitat disturbance from recreational activities in mountain areas.
 ---
 

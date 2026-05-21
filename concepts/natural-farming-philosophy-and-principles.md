@@ -4,8 +4,6 @@ created: 2026-04-24
 tags: [agriculture, natural-farming, philosophy, sustainability]
 type: concept
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 updated: 2026-04-26
 ---
 

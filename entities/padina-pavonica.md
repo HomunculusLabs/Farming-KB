@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry, M.D. & Guiry, G.M. (2025). "Padina pavonica." AlgaeBase.
-  - Lüning, K. (1990). "Seaweeds: Their Environment, Biogeography, and Ecophysiology." Wiley.
-  - Bárbara, I. & Cremades, J. (1993). "The genus Padina (Dictyotales, Phaeophyceae) in the Iberian Peninsula." Botanica Marina, 36, 55-66.
   - Dawes, C.J. (1998). "Marine Botany." Wiley.
   - Atallah, M.A. & Zaki, M.M. (2020). "Antioxidant and antimicrobial activities of Padina pavonica." Egyptian Journal of Aquatic Research, 46, 231-237.
 ---

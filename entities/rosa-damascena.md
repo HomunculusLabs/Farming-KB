@@ -20,10 +20,6 @@ tags:
   - pollinator
   - hedgerow
 sources:
-  - Weiss, E.A. (1997). permaculture-designers-manual-essential-oil-plants Crops. CAB International.
-  - Baydar, H. & Gürel, A. (2013). "Agricultural and economical characteristics of rose oil." In: Essential Oil-Bearing Grasses, 2nd ed. CRC Press.
-  - Kumar, N. et al. (2019). "Rosa damascena: A comprehensive review." Phytotherapy Research, 33(7), 1657–1684.
-  - Rusanov, K. et al. (2005). "Molecular markers for rose cultivar identification." Molecular Breeding, 16, 171–179.
   - Lawrence, B.M. (2005). "The isolation of rose oil." In: Progressive comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap. Allured Publishing.
 ---
 

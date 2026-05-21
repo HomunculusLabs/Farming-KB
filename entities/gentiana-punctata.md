@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Aeschimann, D. et al. (2004). "Flora Alpina." Haupt Verlag, Bern.
-  - Hänsel, R. & K. Keller (1992). "Hagers Handbuch der Pharmazeutischen Praxis." Springer.
-  - Tutin, T.G. (1972). "Gentiana." Flora Europaea, Vol. 3: 59-63.
   - European Medicines Agency (2020). "Gentianae radix — Assessment report." EMA/HMPC.
 ---
 

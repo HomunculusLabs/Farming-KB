@@ -14,7 +14,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
-  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993), Chapter 1
 type: concept
 created: 2026-04-28
 ---

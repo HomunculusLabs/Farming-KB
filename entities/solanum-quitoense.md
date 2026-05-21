@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Heiser, C.B. (1985). "Solanum quitoense and its relatives." Solanaceae: Biology and Systematics, 361-372.
-  - Bohs, L. (2007). "Phylogeny of the Solanum section Lasiocarpa." Systematic Botany, 32(2), 361-374.
-  - National Research Council (1989). "Lost Crops of the Incas." National Academies Press, Washington, D.C.
-  - Angulo, R. et al. (2007). "Postharvest behavior of naranjilla fruits." Postharvest Biology and Technology, 45(1), 20-27.
   - France's, A. et al. (2014). "cannabis-pest-management-guide in Solanum quitoense cultivation." Crop Protection, 65, 30-38.
 ---
 

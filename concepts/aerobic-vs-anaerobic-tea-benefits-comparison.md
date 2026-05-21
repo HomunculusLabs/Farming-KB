@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 

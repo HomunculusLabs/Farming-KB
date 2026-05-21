@@ -12,10 +12,6 @@ tags:
   - wetland-ecology
   - permaculture
 sources:
-  - Beal, E.O. (1956). "Taxonomic Revision of the Genus Nuphar." Contributions from the Dudley Herbarium 5(2).
-  - Gessner, F. (1959). "Hydrobotanik: Die physiologischen Grundlagen der Pflanzenverbreitung im Wasser." VEB Deutscher Verlag.
-  - Erowid. "Nymphaea and Nuphar: The Water Lilies." Erowid.org.
-  - Cook, C.D.K. (ed.) (1974). "Water Plants of the World." Dr. W. Junk B.V.
   - USDA Natural Resources Conservation Service. "Nuphar lutea" PLANTS Database.
 ---
 

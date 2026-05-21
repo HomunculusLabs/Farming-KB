@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Izzo A.A., Borrelli F., Capasso R., Di Marzo V., Mechoulam R. (2009). "Non-psychotropic Plant Cannabinoids: New Therapeutic Opportunities from an Ancient Herb." Trends in Pharmacological Sciences, 30(10), 515-527.
-  - Amada N., Yamasaki Y., Williams H., et al. (2013). "Cannabidivarin (CBDV) Suppresses Pentylenetetrazole-Induced Seizures." British Journal of Pharmacology, 168(1), 79-97.
-  - Jones N.A., Hill A.J., Smith I., et al. (2010). "Cannabidivarin, a Non-psychoactive Cannabinoid, Inhibits Seizure Activity In Vivo and In Vitro." British Journal of Pharmacology, 160(5), 1232-1240.
-  - Anderson L.L., Absalom N., Sherif S.I., et al. (2019). "Pharmacokinetics of Cannabidivarin (CBDV) in Healthy Volunteers." British Journal of Clinical Pharmacology, 85(10), 2391-2400.
   - Cascio M.G., Gauson L.A., Stevenson L.A., Ross R.A., Pertwee R.G. (2010). "Evidence that the Plant Cannabinoid Cannabidivarin (CBDV) Is a Novel Anticonvulsant." British Journal of Pharmacology, 160(5), 1241-1249.
 ---
 

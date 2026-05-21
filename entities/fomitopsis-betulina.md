@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores, Part 1." Synopsis Fungorum 6.
-  - Niemelä, T. (2005). "Polypores of Finland." Finnish Museum of Natural History.
-  - Spirin, V. & Zmitrovich, I. (2018). "Polyporoid fungi of Russia." National Lincean Academy.
   - Smith, J.E. et al. (2002). "The medicinal value of the iceman-otzi-birch-polypore-prehistoric-mushroom-use** or **razor-strop fungus**.
 ---
 

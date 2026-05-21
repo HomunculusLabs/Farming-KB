@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wasser, S.P. (2014). \"Mushroom Biotechnology.\" In: biotechnology of higher fungi. Springer."
-  - "Wang, S. & Zhang, Y. (2020). \"Advances in cultivation of Cyclocybe cylindracea.\" Journal of Fungi, 6(4), 289."
-  - "Kawai, G. et al. (2018). \"dighton-fungal-nutritional-composition-animal-diets and gourmet-medicinal-mushroom-casing-layer-techniques ex agrocybe cylindracea ompounds of Agrocybe cylindracea.\" Food Chemistry, 245, 472-479."
-  - "Zhang, M. et al. (2019). \"Immunomodulatory effects of Cyclocybe cylindracea polysaccharides.\" International Journal of Biological Macromolecules, 132, 941-949."
   - Index Fungorum. "Agrocybe cylindracea (DC.) Maire." www.indexfungorum.org.
 ---
 

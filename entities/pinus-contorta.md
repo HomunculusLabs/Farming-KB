@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Critchfield, W.B. (1980). "Pinus contorta — Lodgepole Pine." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Lotan, J.E. & Critchfield, W.B. (1990). "Pinus contorta." In: Silvics of North America. USDA Forest Service Agriculture Handbook 654.
-  - Wheeler, N.C. & Guries, R.P. (1982). "Biogeography of Lodgepole Pine." Canadian Journal of Botany, 60(9), 1805–1814.
   - IUCN Red List (2023). "Pinus contorta."
 ---
 

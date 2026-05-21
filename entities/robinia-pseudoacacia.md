@@ -14,9 +14,6 @@ tags:
   - plant-systems
   - pollinator
 sources:
-  - Martin, J.L. & Sherman, R.E. (2013). "Black Locust." USDA Forest Service Silvics Manual.
-  - Jacke, D. & Toensmeier, E. (2005). Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests. Chelsea Green.
-  - Mabberley, D.J. (2017). Mabberley's Plant-Book. Cambridge University Press.
   - Rackham, O. (1986). The History of the Countryside. J.M. Dent & Sons.
 ---
 ## Robinia pseudoacacia

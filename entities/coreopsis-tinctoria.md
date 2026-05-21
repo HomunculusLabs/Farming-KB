@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, H.H. (1928). "Ethnobotany of the Meskwaki Indians." Bulletin of the Public Museum of the City of Milwaukee.
-  - USDA NRCS (2024). "Coreopsis tinctoria Nutt." PLANTS Database.
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
 ---
 

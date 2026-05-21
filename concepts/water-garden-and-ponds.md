@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water-management, ecology, wildlife, plants, design, permaculture]
-sources:
-  - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
+sources: []
 ---
 
 # Water Gardens and Ponds
@@ -143,8 +142,9 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 - Kill suspended algae (green water) by exposing it to ultraviolet light
 - Do not harm beneficial bacteria
 - Effective but not necessary if biological balance is maintained
-## See Also
 
-- [[rain-garden-design]]
-- [[xeriscaping-guide]]
-- [[native-plant-gardening]]
+## Wildlife Habitat
+
+A well-designed pond becomes a magnet for wildlife:
+
+- **Amphibians**: Frogs, toads, and salamanders will colonize naturally (no stocking needed)

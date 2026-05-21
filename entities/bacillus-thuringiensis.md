@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Crickmore, N. (2017). "cervantes-bacillus-thuringiensis-bt-control toxin nomenclature." http://www.btnomenclature.info/
-  - Bravo, A., et al. (2011). "Mode of action of Bacillus thuringiensis Cry and Cyt toxins." Toxicon, 58(1), 1-12.
-  - Sanahuja, G., et al. (2011). "Bacillus thuringiensis: A century of pest control." Plant Biotechnology Journal, 9(3), 283-300.
-  - US EPA. (1998). "Bacillus thuringiensis (Bt) Fact Sheet." https://www.epa.gov/biopesticides
-  - Schnepf, E., et al. (1998). "Bacillus thuringiensis and its pesticidal crystal proteins." Microbiology and Molecular Biology Reviews, 62(3), 775-806.
   - FAO/WHO. (2021). "Pesticide residues in food — Joint Meeting on Pesticide Residues (JMPR)." JMPR Report.
 ---
 ## Bacillus thuringiensis

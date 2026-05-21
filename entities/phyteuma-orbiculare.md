@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richardson, I.B.K. (1975). "A revision of the genus Phyteuma." Botanical Journal of the Linnean Society, 71(3), 223–286.
-  - Tutin, T.G. et al. (1976). Flora Europaea, Vol. 4. Cambridge University Press.
-  - Körner, C. (2003). Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems. Springer.
   - Royal Botanic Gardens Kew. "Phyteuma orbiculare." Plants of the World Online.
 ---
 

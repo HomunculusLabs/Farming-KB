@@ -5,7 +5,6 @@ tags: [cannabis, administration, pharmacokinetics, dosing, bioavailability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/cannabis-for-epilepsy-and-seizure-disorders-the-cannabis-health-index.md"
 type: concept
 ---# Cannabis Administration Methods
 

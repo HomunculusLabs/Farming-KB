@@ -5,8 +5,6 @@ updated: 2026-05-09
 type: entity
 tags: [species, fungi, basidiomycota, hymenogastraceae, psilocybe, psilocybin, new-zealand]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"
   - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 

@@ -28,7 +28,7 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 ### Nociceptive Pain
 - Musculoskeletal pain, headaches, menstrual cramps
 - Evidence level: Moderate
-- Whole-plant products (with [[terpenes]] like [[myrcene]] and caryophyllene) enhance analgesic effects
+- Whole-plant products (with terpenes like myrcene and caryophyllene) enhance analgesic effects
 
 ### Cancer Pain
 - Evidence level: Moderate to strong
@@ -56,8 +56,8 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 ## Key Terpenes for Pain
 - **Myrcene**: Muscle relaxant, sedative (found in indica strains)
 - **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in black pepper, cannabis)
-- **[[pinene]]**: Anti-inflammatory, bronchodilator
-- **[[linalool]]**: Analgesic, anxiolytic (found in lavender, cannabis)
+- **Pinene**: Anti-inflammatory, bronchodilator
+- **Linalool**: Analgesic, anxiolytic (found in lavender, cannabis)
 
 ## Opioid Crisis Context
 Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases.
@@ -67,16 +67,14 @@ Cannabis shows significant promise as an opioid alternative or adjunct. States w
 - [[cannabis-endocannabinoid-system]] — for mechanism of action
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific effects
 - [[cannabis-for-inflammatory-conditions]] — for inflammatory pain overlap
+## Current Research
 
-## Practical Applications
+Recent studies on cannabis for chronic pain have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
+## Practical Considerations
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Practitioners working with cannabis for chronic pain should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

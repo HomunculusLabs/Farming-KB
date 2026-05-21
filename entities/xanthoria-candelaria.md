@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Poelt, J. (1969). "Bestimmungsschlüssel europäischer Flechten." J. Cramer.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens oyster-mushroom-log-cultivation-temperate-regions-short-log-method.
 ---
 

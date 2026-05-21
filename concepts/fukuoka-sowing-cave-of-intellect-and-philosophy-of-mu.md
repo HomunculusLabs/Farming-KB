@@ -4,8 +4,6 @@ tags: [fukuoka, philosophy, epistemology, natural-farming, mu, nondiscrimination
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md"
 type: concept
 created: 2026-04-28
 ---

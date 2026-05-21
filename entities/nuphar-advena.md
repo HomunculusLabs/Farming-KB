@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Beal, E.O. (1956). "Taxonomic revision of the genus Nuphar Sm. huckleberries-and-wild-berries-of-north-america and Europe." Journal of the Elisha Mitchell Scientific Society, 72(2), 317-346.
-  - Wiersema, J.H. (1997). "Nuphar (Nymphaeaceae): new species and new combinations in the guzman-psilocybin-mushrooms-north-america." Sida, 21(2), 1001-1011.
   - Lippencott, E.L. (1992). "Vegetative reproduction in Nuphar advena." Aquatic Botany, 43(1-2), 115-123.
 ---
 

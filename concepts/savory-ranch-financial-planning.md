@@ -6,8 +6,6 @@ tags: [financial-planning, ranch-economics, gross-margin, wealth-generation, hol
 related: savory-livestock-grazing-planning
 type: concept
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

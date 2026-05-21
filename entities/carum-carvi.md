@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Franz, C. (2010). "Carum." Medicinal and Aromatic Plants, Springer.
-  - Ilic, S. et al. (2019). "Caraway (Carum carvi L.): ethnopharmacology, phytochemistry and biological activities." Industrial Crops and Products 130.
-  - Small, E. (2006). holzer-medicinal-and-culinary-herbs-compendium. NRC Research Press.
   - Bown, D. (1995). Encyclopedia of Herbs and Their Uses. DK Publishing.
 ---
 

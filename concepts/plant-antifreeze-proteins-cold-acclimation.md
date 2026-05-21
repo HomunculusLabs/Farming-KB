@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Griffith M, Yaish MW (2004). "Plant antifreeze proteins and other ice-binding proteins." Physiologia Plantarum, 120(3), 435-441.
-  - Duman JG (2001). "Antifreeze and ice nucleator proteins in terrestrial arthropods." Annual Review of Physiology, 63, 327-357.
-  - Thomashow MF (1999). "Plant cold acclimation: freezing tolerance genes and regulatory mechanisms." Annual Review of Plant Physiology and Plant Molecular Biology, 50, 571-599.
   - Guy CL (1990). "Cold acclimation and freezing stress tolerance: role of protein metabolism." Annual Review of Plant Physiology and Plant Molecular Biology, 41, 187-223.
 ---
 

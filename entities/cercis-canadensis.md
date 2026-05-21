@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sargent, C.S. (1965). "Manual of the Trees of psilocybin-north-america-pacific-northwest." Dover Publications.
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of polypore-fungi-eastern-north-america America and is widely planted as an ornamental for its showy pink-purple spring flowers.
 ---
 

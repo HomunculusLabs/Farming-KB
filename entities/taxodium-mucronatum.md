@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2010). "A Handbook of the World's Conifers, Vol. 1." Brill Academic Publishers.
-  - Eckenwalder, J.E. (2009). "Conifers of the World: The Complete Reference." Timber Press.
-  - Dvorak, W.S. & Donahue, J.K. (1992). "Mexican and Central American pines and cypresses." CAMCORE Cooperative.
   - Styles, B.T. (1993). "Genus Taxodium." In: Flora Mesoamericana, Vol. 6, Missouri Botanical Garden.
 ---
 

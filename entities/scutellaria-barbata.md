@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Li, C. et al. (2019). "Scutellaria barbata: A review of phytochemistry and pharmacology." Chinese Journal of Natural Medicines, 17(6), 427-449.
-  - Wang, X. et al. (2018). "Anticancer activities of Scutellaria barbata extracts." Journal of Ethnopharmacology, 221, 17-29.
-  - Zhou, L. et al. (2020). "Scutellarin from Scutellaria barbata: pharmacological effects and mechanisms." Phytomedicine, 67, 153161.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
   - Wu, W. et al. (2021). "scutellaria-baicalensis (Huang Qin) but differs in its preferred wetland habitat and phytochemical profile.
 ---
 

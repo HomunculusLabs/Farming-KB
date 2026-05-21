@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kovanda, M. (1970). "Polyploidy and Variation in the campanula-rotundifolia Complex." Preslia, 42, 142–155.
-  - Shetek WG, Rayner DA (1994). "Campanulas: A Gardener's Guide." Timber Press.
-  - Akeroyd JR (1993). "Campanula L." In: Tutin TG et al. (eds.), Flora Europaea, 2nd ed., Vol. 4. Cambridge University Press.
-  - Kiehn M (2005). "Cytogeography of the Campanula rotundifolia L. Aggregate in the Alps." Plant Systematics and Evolution, 253(1-4), 33–47.
   - Hoblyn E (1935). "Campanula cochleariifolia and Its Allies." Journal of the Royal Horticultural Society, 60, 400–407.
 ---
 

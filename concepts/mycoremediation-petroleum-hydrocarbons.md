@@ -13,14 +13,14 @@ Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil,
 
 ## How Fungi Degrade Petroleum
 
-The enzymes that [[white-rot-fungi]] use to break down lignin -- particularly [[lignin-peroxidase]], [[manganese-peroxidase]], and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
+The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, manganese peroxidase, and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
 
 Key species for petroleum remediation:
 
-- **[[oyster-mushroom]] ([[pleurotus-ostreatus]])**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, [[oyster-mushrooms]] fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
+- **Oyster mushroom (Pleurotus ostreatus)**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, oyster mushrooms fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
 - **Turkey tail (Trametes versicolor)**: White rot polypore with strong lignin-degrading enzyme production.
-- **Reishi ([[ganoderma-lucidum]])**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
-- **[[king-stropharia]] (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
+- **Reishi (Ganoderma lucidum)**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
+- **King stropharia (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
 
 ## Polycyclic Aromatic Hydrocarbons (PAHs)
 
@@ -49,36 +49,35 @@ The more surface area of substrate available to the mycelium, the faster the deg
 
 ## See Also
 
-- mycoremediation overview
-- mycoremediation heavy metals
+- [[mycoremediation-overview]]
+- [[mycoremediation-of-heavy-metals]]
 - [[mycoforestry-forest-restoration]]
 - [[paul-stamets]]
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of mycoremediation petroleum hydrocarbons has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+## Current Research
+
+Recent investigations into mycoremediation petroleum hydrocarbons have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with mycoremediation petroleum hydrocarbons spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of mycoremediation petroleum hydrocarbons.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into mycoremediation petroleum hydrocarbons continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

@@ -5,7 +5,6 @@ tags: [bioremediation, pulp-paper, decolorization, white-rot-fungi, wastewater]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 type: concept
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Strassman, R. (2001). DMT: The Spirit Molecule. Park Street Press.
-  - Szára, S. (1956). "Dimethyltryptamine: Its Metabolism in Man." Science.
   - Wallach, J.V. (2009). "Endogenous Hallucinogens." Alternative Therapies in Health and Medicine.
 ---# N,N-Dimethyltryptamine (DMT)
 

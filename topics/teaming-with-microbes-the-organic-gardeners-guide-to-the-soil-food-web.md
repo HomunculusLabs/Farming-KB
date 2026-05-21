@@ -5,8 +5,6 @@ tags: [soil-biology, soil-food-web, microbiology, composting, organic-gardening,
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 related_concepts:
   - teaming-with-microbes-overview
   - teaming-with-microbes-soil-food-web-overview
@@ -17,12 +15,8 @@ related_concepts:
   - teaming-with-microbes-fb-ratio
   - teaming-with-microbes-compost-mulch-tea
   - teaming-with-microbes-mycorrhizal-associations
-  - teaming-with-microbes-mineralization-and-immobilization
-  - teaming-with-microbes-earthworm-ecology-and-vermicomposting
   - teaming-with-microbes-humus-formation-and-glomalin
   - teaming-with-microbes-compost-tea-brewing-guide
-  - teaming-with-microbes-soil-food-web-trophic-structure-and-succession
-  - teaming-with-microbes-tilling-damage-to-fungal-networks
   - teaming-with-microbes-old-growth-forest
   - teaming-with-nutrients-essential-plant-nutrients
 ---

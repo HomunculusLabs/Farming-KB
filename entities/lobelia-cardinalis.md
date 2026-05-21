@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bowden, W.M. (1959). "Phylogenetic relationships and taxonomy of *Lobelia* cardinalis and *L. splendens*." Canadian Journal of Genetics and Cytology 1(1): 49–62.
-  - Gleason, H.A. & Cronquist, A. (1991). *Manual of Vascular Plants of Northeastern clarke-marijuana-botany-sex-determination-reproductive-biology of *Lobelia cardinalis*." In: Proceedings of the 17th growing-gourmet-north-american-reishi-species Prairie Conference.
   - Sutherland, S. (2004). "High rates of outcrossing in *Lobelia cardinalis*." International Journal of Plant Sciences 165(4): 705–710.
 ---
 

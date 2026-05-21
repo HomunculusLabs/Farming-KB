@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. 2nd ed. Cambridge University Press.
   - Crum, H.A. & Anderson, L.E. (1981). Mosses of mushroom-cultivator-species-growing-parameters-overview
 ---
 

@@ -10,13 +10,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Whalley, A.J.S. (1996). "The xylariaceous way of life." Mycological
     Research.
-  - Rogers, J.D. et al. (2005). "Xylariaceae: a systematic overview."
     Mycologia.
-  - Petrini, L.E. & Petrini, O. (1985). "Xylariaceous fungi as
     endophytes." Sydowia.
-  - Fröhlich, J. & Hyde, K.D. (2000). "Biodiversity of saprotrophic
     fungi." comparison-nutrient-cycling-vs-nutrient-dense-gardening in forest
 ecosystems.
 ---

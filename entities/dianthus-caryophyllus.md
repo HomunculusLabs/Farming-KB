@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Galbany-Casals, M. et al. (2014). "Phylogeny of the tribe Caryophylleae." Botanical Journal of the Linnean Society.
-  - Lloyd, C. (2000). "Dianthus: The Complete Guide." Timber Press.
-  - Valdés, B. (2005). "Caryophyllaceae." In: Regner, F. (ed.), Flora Iberica Vol. VII.
   - Royal Horticultural Society. "Dianthus caryophyllus." RHS Plant Database.
 ---
 

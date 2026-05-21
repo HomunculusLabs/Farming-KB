@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shulgin, A. & Shulgin, A. (1997). 'Tryptamines I Have Known and Loved (TIHKAL).' Transform Press."
-  - "Shulgin, A.T. et al. (1967). 'Psychotomimetic Agents.' Science, 158(3803), 877-880."
-  - "Ray, T.S. (2010). 'Psychedelics and the Human Receptorome.' PLoS ONE, 5(2), e9019."
-  - "Dean, A.C. et al. (2019). 'Psilocybin-Assisted Treatment . It is
 documented in TIHKAL (Tryptamines I Have Known and Loved) with a full
 self-experiment report.
 ---IPT is structurally related to DMT and DPT, differing by the N-alkyl

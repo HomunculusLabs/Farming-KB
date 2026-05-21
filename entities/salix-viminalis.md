@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kuzovkina, Y.A. & Quigley, M.F. (2005). "Willows beyond wetlands: uses of Salix L. species for environmental projects." Water, Air, and Soil Pollution, 162, 183–204.
-  - Nordh, N.E. & Verwijst, T. (2004). "Changes in above-ground biomass and shoot allocation patterns in Salix viminalis." Biomass and Bioenergy, 27, 473–479.
-  - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
-  - Smart, L.B. & Cameron, K.D. (2008). "Diversification of willow (Salix spp.) bioenergy crop production." CAB Reviews: Perspectives in Agriculture, 3(052), 1–16.
   - USDA Natural Resources Conservation Service. "Salix viminalis" Plant Profile.
 ---
 

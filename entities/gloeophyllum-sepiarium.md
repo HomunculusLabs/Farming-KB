@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbertson, R.L. (1993). European Polypores 1. Synopsis Fungorum, 6, 1-387.
-  - Schmidt, O. (2006). Wood and Tree Fungi: Biology, Damage, Protection, and Use. Springer-Verlag, Berlin.
-  - Ritschkoff, A.C. et al. (1996). "The effect of substrate composition on the production of lignin-modifying enzymes by wood-rotting fungi." Holzforschung, 50(4), 323-329.
-  - Binder, M. & Hibbett, D.S. (2006). "Molecular systematics and biological diversification of Boletales." Mycologia, 98(6), 971-981.
-  - Blanchette, R.A. (2000). "A review of microbial deterioration found in archaeological wood from different environments." International Biodeterioration & Biodegradation, 46(3), 189-204.
 created: 2026-04-28
 ---
 

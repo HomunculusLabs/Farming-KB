@@ -13,10 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Akiyama, K. (1965). "Studies on matsutake-mushroom-ecology-and-culture of Undaria pinnatifida." Bulletin of Tohoku Regional Fisheries Research Laboratory, 25, 91-124.
-  - Hay, C.H. & Luckens, P.A. (1987). "The Asian kelp Undaria pinnatifida found in a New Zealand harbour." New Zealand Journal of Botany, 25(2), 329-332.
-  - Saito, Y. (1975). "Undaria." In Tokida, J. & Hirose, H. (Eds.), Advance of Phycology in Japan (pp. 304-320). Koeltz.
-  - Casas, G. et al. (2004). "The invasive kelp Undaria pinnatifida reduces native seaweed diversity." Biological Invasions, 6(4), 411-416.
   - Maeda, H. et al. (2007). "Anti-obesity and anti-diabetic effects of fucoxanthin." Journal of Oleo Science, 56(12), 659-665.
 ---
 

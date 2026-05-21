@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry, M.D. & Guiry, G.M. (2026). "Gigartina pistillata (S.G.Gmelin) Stackhouse." AlgaeBase.
-  - McLachlan, J. (1977). "The role of carrageenan in the growth of marine plants." Aquatic Botany, 3, 139–153.
-  - Bunker, F. et al. (2017). "Seaweeds of Britain and Ireland." Wild Nature Press.
   - Craigie, J.S. (1990). "Cell walls." In Biology of the Red Algae, 221–257. Cambridge University Press.
 ---
 

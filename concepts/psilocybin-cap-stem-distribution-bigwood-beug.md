@@ -5,7 +5,6 @@ tags: [psilocybin, psilocin, mushroom, alkaloid-distribution, cap, stem, psilocy
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood & Beug (1982), "Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis," Journal of Ethnopharmacology 5:287-291
 type: concept
 ---
 

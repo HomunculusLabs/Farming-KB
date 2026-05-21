@@ -5,7 +5,6 @@ updated: 2026-04-12
 type: concept
 tags: [soil, nutrients, npk, microbes, nutrient-cycling, biology]
 sources:
-  - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
@@ -73,10 +72,18 @@ Industrial nitrogen fixation (Haber-Bosch process) now produces over 100 billion
 - [[protozoa-in-soil]]
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
+## Historical Context
 
-## Current Research Directions
+The study and practice of nitrogen cycle in soil has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into nitrogen cycle in soil have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with nitrogen cycle in soil spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

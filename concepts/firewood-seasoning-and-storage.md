@@ -9,7 +9,7 @@ sources: []
 
 # Firewood Seasoning and Storage
 
-Properly seasoned firewood is essential for efficient heating, reduced creosote buildup, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] cleaner burn. Green (freshly cut) wood can contain 50% or more moisture by weight and produces excessive smoke, low heat, and dangerous chimney deposits. This page covers wood species selection, BTU values, splitting techniques, stacking methods, seasoning timelines, and moisture measurement.
+Properly seasoned firewood is essential for efficient heating, reduced creosote buildup, and a cleaner burn. Green (freshly cut) wood can contain 50% or more moisture by weight and produces excessive smoke, low heat, and dangerous chimney deposits. This page covers wood species selection, BTU values, splitting techniques, stacking methods, seasoning timelines, and moisture measurement.
 
 ## Wood Species BTU Comparison
 
@@ -31,7 +31,7 @@ BTU (British Thermal Unit) values are measured per cord (128 cubic feet) of drie
 **Softwoods (good for kindling and quick fires):**
 | Species | BTU per Cord (million) | Splitting Difficulty | Seasoning Time |
 |---|---|---|---|
-| [[douglas-fir]] | 21.3 | Moderate | 6-12 months |
+| Douglas Fir | 21.3 | Moderate | 6-12 months |
 | Pine (Ponderosa) | 16.2 | Easy | 6 months |
 | Cedar | 12.8 | Easy | 6 months |
 | Spruce | 14.5 | Easy | 6 months |
@@ -48,7 +48,7 @@ Split wood seasons 2-3 times faster than round wood because surface area is dram
 - Use an 8-pound maul for most hardwoods
 - Start with the maul, switch to wedges for stubborn pieces
 - Strike with the grain, not across it
-- Let the weight [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] maul do the work
+- Let the weight of the maul do the work
 
 **Hydraulic Splitter:**
 - Worth the investment if processing more than 5 cords per year
@@ -56,7 +56,7 @@ Split wood seasons 2-3 times faster than round wood because surface area is dram
 - 30+ ton for knotty elm or large oak
 
 **Felling Axe vs. Splitting Maul:**
-- Felling axes are too thin — they wedge [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] wood
+- Felling axes are too thin — they wedge in the wood
 - Splitting mauls have a wider, heavier head designed to force wood apart
 - Never use an axe to split on a block — it damages the handle
 
@@ -68,7 +68,7 @@ Aim for pieces 3-6 inches across the widest face. This size dries efficiently an
 
 ### End-Stacked (Traditional)
 
-[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] method. Wood is stacked in parallel rows with the ends visible.
+The most common method. Wood is stacked in parallel rows with the ends visible.
 
 **Best practices:**
 - Stack on treated wood pallets or rails — never directly on dirt
@@ -119,9 +119,9 @@ Wood must dry to below 20% moisture content for optimal burning. Target seasonin
 
 ## Using a Moisture Meter
 
-A pin-type moisture meter [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
+A pin-type moisture meter is the only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
 
-**[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] y-how-to-use-cover-crops-for-heavy-clay-soil-improvement:**
+**How to use:**
 - Push pins into the split face, not the bark side
 - Take readings from multiple pieces in the stack
 - Measure the freshly split face for the most accurate reading
@@ -141,9 +141,14 @@ Once wood is seasoned, store it:
 - Accessible in winter — plan your stacking location for snow access
 - Separate from green/seasoning wood to avoid confusion
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
 ## Firewood Volume Measurements
 
 - **Cord:** 128 cubic feet (4x4x8 feet stacked)
+- **Face cord:** 4x8 feet, one-third the depth of a full cord (about 42 cubic feet)
+- **Rick:** Regional term, usually refers to a face cord
+- **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
+## See Also
+
+- [[pf-tek-spore-syringe-boiling-sterilization-storage-lifecycle]]
+- [[cannabis-seed-storage-and-viability]]
+- [[water-storage-scarp-wadi-landscapes]]

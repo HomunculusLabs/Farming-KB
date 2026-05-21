@@ -5,7 +5,6 @@ tags: [mycoremediation, biopile, soil-remediation, petroleum-hydrocarbons, ex-si
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Biopile Fungal Treatment of Contaminated Soil
 

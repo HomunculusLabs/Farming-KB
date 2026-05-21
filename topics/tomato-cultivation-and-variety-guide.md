@@ -9,15 +9,12 @@ sources:
   - "raw/concepts/growing-tomatoes-organically.md"
   - "raw/concepts/hamilton-tomato-growing-organic.md"
   - "raw/concepts/solomon-growing-tomatoes.md"
-  - "raw/concepts/tomato-pepper-eggplant-growing-guide.md"
-  - "raw/concepts/coleman-vertical-trellis-growing-greenhouse-tomatoes.md"
 related_concepts:
   - tomato-growing-guide
   - growing-tomatoes-organically
   - hamilton-tomato-growing-organic
   - solomon-growing-tomatoes
   - tomato-pepper-eggplant-growing-guide
-  - coleman-vertical-trellis-growing-greenhouse-tomatoes
   - coleman-greenhouse-tomato-vertical-growing
   - bloomfield-potato-blight-phytophthora-infestans
 ---

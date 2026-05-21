@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
-  - Reznicek, A.A. (2002). "Carex in berry-growing, Vol. 23. Oxford University Press.
-  - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
-  - Global Biodiversity Information Facility (GBIF). "Carex flacca Schreb." https://www.gbif.org/species/2723965
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
 ---
 

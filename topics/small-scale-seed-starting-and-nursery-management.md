@@ -5,20 +5,11 @@ tags: [seed-starting, nursery, propagation, greenhouse, transplants, organic-gar
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/concepts/faires-seed-starting-transplanting-guide.md"
-  - "raw/concepts/jadam-seed-treatment-and-nursery-management.md"
-  - "raw/concepts/hamilton-potting-compost-recipes-and-growing-media.md"
-  - "raw/concepts/hamilton-container-greenhouse-growing.md"
-  - "raw/concepts/coleman-unheated-greenhouse-design.md"
   - "raw/concepts/coleman-cool-greenhouse.md"
-  - "raw/concepts/coleman-greenhouse-soil-management.md"
   - "raw/concepts/greenhouse-growing-essentials.md"
   - "raw/concepts/greenhouse-growing-guide.md"
   - "raw/concepts/greenhouse-design.md"
-  - "raw/concepts/jeavons-shade-netting-mini-greenhouses.md"
-  - "raw/concepts/cannabis-clone-rooting-and-transplanting.md"
   - "raw/concepts/cannabis-transplanting-guide.md"
-  - "raw/concepts/cervantes-transplanting-potting-up.md"
 related_concepts:
   - faires-seed-starting-transplanting-guide
   - jadam-seed-treatment-and-nursery-management
@@ -85,3 +76,5 @@ labor demands. A tomato can tolerate potting up, while [[faires-seed-starting-tr
 - Coleman, Eliot. Four-season and unheated greenhouse writings.
 - Hamilton, Geoff and Nick Hamilton. Organic greenhouse and [[jadam-seed-treatment-and-nursery-management]] nursery management.
 - Cervantes, Jorge. Cannabis propagation and transplanting references.
+Further research into small scale seed starting and nursery management continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind small scale seed starting and nursery management provides a foundation for both practical application and continued scientific inquiry.

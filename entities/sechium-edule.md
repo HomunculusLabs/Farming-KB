@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Newstrom, L.E. (1991). "Evidence for the origin of chayote, Sechium edule." Economic Botany, 45(3), 410-421.
-  - Lira Saade, R. (1996). "Estudios taxonómicos y ecogeográficos de las Cucurbitaceae." UNAM, Mexico City.
-  - National Research Council (1989). "Lost Crops of the Incas." National Academies Press, Washington, D.C.
-  - Cadena-Iñiguez, J. et al. (2011). "Sechium edule: an underutilized crop." Genetic Resources and Crop Evolution, 58, 361-367.
   - León, J. (1987). "Botánica de los cultivos tropicales." IICA, San José, Costa Rica.
 ---
 

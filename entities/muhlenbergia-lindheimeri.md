@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Peterson, P.M. (2003). "Muhlenbergia." In: Flora of North America North of Mexico, Vol. 25. Oxford University Press.
-  - Hitchcock, A.S. (1951). "Manual of the Grasses of the United States." USDA Misc. Publ. 200.
-  - Taylor, D. (2010). "Landscape Plants for Dry Regions." Fisher Books.
   - USDA NRCS PLANTS Database. "Muhlenbergia lindheimeri." https://plants.usda.gov
 ---
 

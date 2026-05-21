@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pasiecznik, N.M. et al. (2001). The Prosopis juliflora–Prosopis pallida Complex: A Monograph. HDRA, Coventry, UK.
-  - Muthana, K.D. & Arora, G.D. (1983). "Pod yield variability and phenotypic selection in Prosopis juliflora." Indian Journal of Forestry, 6(3), 211-216.
-  - Felker, P. et al. (2001). "Forestation of arid and semi-arid lands with Prosopis species." Forest Ecology and Management, 150(1-2), 275-288.
-  - Harris, P.J.C. et al. (2003). "The prosopis pod: A potential famine food." Ecology of Food and Nutrition, 42(2), 109-121.
 created: 2026-04-28
 ---
 

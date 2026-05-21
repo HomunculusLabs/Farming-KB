@@ -12,10 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Son, M.J. et al. (2015). "Anti-inflammatory and antioxidant properties of Alpinia zerumbet." Journal of Ethnopharmacology, 171, 156-164.
-  - Nagumo, T. et al. (2001). "Diuretic and natriuretic effects of Alpinia zerumbet." Phytotherapy Research, 15(2), 173-175.
-  - Nakamura, Y. et al. (2003). "Antioxidant activity of Alpinia zerumbet leaves." Journal of Agricultural and Food Chemistry, 51(18), 5270-5274.
-  - Arfan, M. et al. (2009). "Antioxidant activity of Alpinia zerumbet." Journal of the Science of Food and Agriculture, 89(5), 879-885.
   - Chompoo, J. et al. (2012). "Alpinia zerumbet: a review of its traditional uses, phytochemistry, and pharmacology." Journal of Medicinal Plants Research, 6(29), 4378-4387.
 ---
 

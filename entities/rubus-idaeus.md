@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jennings, D.L. (1988). "Raspberries and Blackberries: Their Breeding, Diseases and Growth." Academic Press.
-  - Funt, R.C. et al. (2014). "Raspberry Production." OSU Extension Bulletin 782.
-  - Kafkas, E. et al. (2008). "Health Benefits of Raspberries." Critical Reviews in Food Science and Nutrition 48(1): 84-98.
   - Bobinaitė, R. et al. (2012). "Chemical Composition of Raspberry Cultivars." Food Chemistry 132(3): 1495-1501.
 ---
 

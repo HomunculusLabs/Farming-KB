@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Barkoudah, Y.I. (1962). "A revision of Gypsophila, section Heteranthema." Mededelingen van het Botanisch Museum en Herbarium, Utrecht.
-  - RHS (2024). "Gypsophila paniculata." Royal Horticultural Society Plant Finder.
-  - Madhani, H. et al. (2018). "Taxonomy of Gypsophila (Caryophyllaceae) in Iran." Phytotaxa, 374(1): 1–60.
   - Anderson, N.O. (2006). "Gypsophila." In: Anderson, N.O. (ed.) Flower guzman-psilocybin-mushrooms-north-america, where it is considered invasive in parts of the Great Lakes region and the clay-pellet-seed-dispersal from garden plantings and commercial flower operations.
 ---
 

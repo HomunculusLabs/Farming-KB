@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly (2024). \"GMO biscotti-cannabis-strain Information.\" leafly.com/strains/gmo."
-  - "AllBud (2024). \"GMO cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.\" Cannabis and Cannabinoid Research, 6(4), 371–382."
   - "WikiLeaf (2024). \"GMO Strain Review.\" wikileaf.com/strain/gmo."
 ---
 

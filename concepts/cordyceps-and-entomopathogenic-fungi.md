@@ -9,7 +9,7 @@ sources: []
 
 # Cordyceps and Entomopathogenic Fungi
 
-[[entomopathogenic-fungi]] are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
+Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
 
 ## Cordyceps and Ophiocordyceps
 
@@ -40,18 +40,18 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of [[cordycepin]] and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
 
-- Parasitizes larvae [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] ghost moth (Thitarodes/Hepialus) in the Himalayan plateau
+- Parasitizes larvae of the ghost moth (Thitarodes/Hepialus) in the Himalayan plateau
 - Found at elevations of 3,000-5,000 meters in Tibet, Nepal, Bhutan, and Sichuan
 - The "caterpillar fungus": the fruiting body emerges from a mummified caterpillar
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
 - Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
 - Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
-- CS-4 is a commercially available fermented [[mycelium]] product claimed to mimic wild C. sinensis
+- CS-4 is a commercially available fermented mycelium product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
 
 ## Beauveria
@@ -69,7 +69,7 @@ Extremely broad: over 700 insect host species documented, including:
 
 #### Mode of Action
 1. Conidia (spores) adhere to insect cuticle
-2. Germination triggered by cuticular [[primary-nutrients-and-mineral-sources-in-soils]] humidity
+2. Germination triggered by cuticular nutrients and humidity
 3. Germ tube penetrates cuticle using mechanical pressure and cuticle-degrading enzymes (proteases, lipases, chitinases)
 4. Fungus proliferates in hemocoel (body cavity), producing blastospores
 5. Insect death results from nutrient depletion, tissue damage, and fungal toxins (beauvericin, bassianolide)
@@ -122,7 +122,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 
 ### Lecanicillium lecanii
 - Effective against aphids, whiteflies, and scale insects
-- Also pathogenic on some [[fungal-plant-pathogens-and-climate-change]] (mycoparasitic)
+- Also pathogenic on some fungal plant pathogens (mycoparasitic)
 - Commercially available as Vertalec and Mycotal
 
 ### Isaria fumosorosea
@@ -144,7 +144,11 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 - Standard application rates: 10^12-10^13 conidia per hectare
 
 ### Attract-and-Infect (Auto-dissemination)
-- Stations containing fungal spores are placed [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
+- Stations containing fungal spores are placed in the environment
 - Insects are attracted to the station, pick up conidia, and spread them to nestmates
 - Used successfully for termites and cockroaches
 - Reduces total amount of inoculum needed
+## See Also
+
+- [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]

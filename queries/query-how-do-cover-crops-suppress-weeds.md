@@ -5,7 +5,6 @@ tags: [query, cover-crops, weeds, soil-health]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/eliot-coleman-the-new-organic-grower.md"
 type: query
 ---
 

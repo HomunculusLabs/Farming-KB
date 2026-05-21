@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richens, R.H. (1947). "The History of Auricula Culture." Journal of the Royal Horticultural Society 72: 213–228.
-  - Hu, Q.M. & Kelso, S. (1996). "Primula (Primulaceae) in China." Edinburgh Journal of Botany 53(3): 323–351.
-  - Richards, J. (2003). Primula. Timber Press, Portland.
-  - Wolf, S.J. & Ronsdorf, R. (2007). "Phylogeny and Biogeography of Primula Section Auricula." Botanical Journal of the Linnean Society 154(3): 389–404.
   - The Alpine Garden Society. "Auriculas: History and Cultivation." alpinegardensociety.net.
 ---
 

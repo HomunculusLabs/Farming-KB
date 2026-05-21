@@ -9,11 +9,11 @@ sources: []
 
 # Chanterelle Guide
 
-Chanterelles are among the most prized wild [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]] — making them an ideal target for beginning foragers.
+Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
 
 ## Overview
 
-"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most commercially important groups of wild-foraged mushrooms worldwide.
+"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one of the most commercially important groups of wild-foraged mushrooms worldwide.
 
 ## Major Species
 
@@ -27,7 +27,7 @@ The most widely known and collected chanterelle:
 - Stem: solid, tapers downward, same color as cap
 - Flesh: firm, white to pale yellow
 - Odor: distinctive — fruity, apricot-like
-- [[spore-print]]: pale yellow to cream
+- Spore print: pale yellow to cream
 - Habitat: mixed forests, primarily with oak, beech, birch, spruce, and Douglas-fir
 - Season: June through October (varies by region)
 - Distribution: widespread across North America, Europe, and Asia
@@ -69,18 +69,18 @@ The most widely known and collected chanterelle:
 
 ## Mycorrhizal Ecology
 
-All chanterelle species form [[ectomycorrhizal-associations]] with trees:
+All chanterelle species form ectomycorrhizal associations with trees:
 
 - They form a sheath around fine root tips of compatible host trees
-- Exchange soil minerals [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] for photosynthetic sugars
-- Can form extensive [[fungal-pulsatile-nutrient-transport-mycelial-networks]] connecting multiple trees
+- Exchange soil minerals and water for photosynthetic sugars
+- Can form extensive mycelial networks connecting multiple trees
 - Fruiting is triggered by specific environmental cues:
   - Adequate soil moisture (after rain events)
   - Moderate temperatures (55-70 F for most species)
   - Adequate light reaching the forest floor
   - Seasonal cues (photoperiod changes)
 - Productive chanterelle spots can produce for decades
-- They often fruit [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] same locations year after year
+- They often fruit in the same locations year after year
 
 ### Tree Associations
 
@@ -126,15 +126,13 @@ The most dangerous chanterelle look-alike:
 
 ### Key Identification Rules
 
-1. True chanterelles have FALSE GILLS (shallow, blunt, forking ridges that [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] same texture as the cap flesh)
+1. True chanterelles have FALSE GILLS (shallow, blunt, forking ridges that are the same texture as the cap flesh)
 2. False chanterelles have TRUE GILLS (thin, separate, blade-like structures)
 3. True chanterelles grow from soil (mycorrhizal with tree roots), not from wood
 4. True chanterelles have solid stems (not hollow)
 5. True chanterelles have a distinctive fruity/apricot odor
 6. When cut, the flesh is pale yellow to white — never bright colors
 
-## See Also
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 ## Foraging Techniques
 
 ### Habitat
@@ -146,3 +144,12 @@ The most dangerous chanterelle look-alike:
 - Check the same spots annually — chanterelles are site-loyal
 
 ### Timing
+
+- After sustained rain (2+ inches over several days)
+- 2-7 days after significant rainfall
+- Morning foraging is best (mushrooms are fresh before insects and heat)
+## See Also
+
+- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
+- [[query-how-do-i-identify-and-forage-chanterelle-mushrooms]]
+- [[comparison-morel-vs-chanterelle]]

@@ -5,7 +5,6 @@ tags: [mycorrhizae, root-exudates, signaling, organic-acids, rhizosphere]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Mycorrhizal Exudates and Root Exudate Interactions
 

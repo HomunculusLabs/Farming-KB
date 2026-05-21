@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
-  - Preston, C. D., Pearman, D. A. & Dines, T. D. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
   - Wagner, W. H. & Wagner, F. S. (1993). "Ophioglossaceae." In Flora guzman-psilocybin-mushrooms-north-america. It grows in damp meadows, pastures, and open woodlands on neutral to slightly acidic soils.
 ---
 

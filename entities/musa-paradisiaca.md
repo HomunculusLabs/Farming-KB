@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Simmonds, N.W. & Shepherd, K. (1955). "The taxonomy and origins of the cultivated bananas." Journal of the Linnean Society of London (Botany), 55(359), 302-312.
-  - Robinson, J.C. & Saúco, V.G. (2010). Bananas and Plantains. 2nd ed. CABI.
-  - Pillay, M. et al. (2004). "Molecular characterization of Musa germplasm." In: Banana Improvement: Cellular, Molecular Biology, and Induced Mutations, Science Publishers.
   - D'Hont, A. et al. (2012). "The banana (Musa acuminata) genome and the evolution of monocotyledonous plants." Nature, 488, 213-217.
 ---
 

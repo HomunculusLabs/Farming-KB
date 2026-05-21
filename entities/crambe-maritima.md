@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Akeroyd, J.R. (1993). "Crambe L." In Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Francis, C.M. & Warwick, S.I. (2009). "The Biology of Canadian Weeds. 142. Crambe maritima L." Canadian Journal of Plant Science, 89(4), 799-809.
   - Corak, K. et al. (2009). "Crambe maritima L.: A New fukuoka-natural-farming-temperate-climates." Genetic Resources and Crop Evolution, 56(1), 137-143.
 ---
 

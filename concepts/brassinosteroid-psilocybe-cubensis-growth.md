@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Gartz, Adam & Vorbrodt 1990 - plant-growth-promoting-rhizobacteria Effect of a Brassinosteroid in Mycelial Cultures of brassinosteroid-growth-promotion-psilocybe-cubensis"
 created: 2026-05-07
 type: concept
 ---

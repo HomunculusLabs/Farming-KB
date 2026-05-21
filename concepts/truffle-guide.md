@@ -50,7 +50,7 @@ Truffles are hypogeous (underground) fungi that produce their spores below the s
 
 ### Other Notable Species
 
-- [[tuber-borchii]] (Whitish Truffle): central Italy, moderate value
+- Tuber borchii (Whitish Truffle): central Italy, moderate value
 - Tuber gibbosum (Oregon White Truffle): Pacific Northwest, growing market
 - Tuber oregonense (Oregon Winter Truffle): Pacific Northwest, excellent quality
 - Tuber indicum (Chinese Truffle): widely harvested and exported; lower value, sometimes fraudulently sold as European species
@@ -71,9 +71,9 @@ Successful truffle orchards require careful site assessment:
 
 ### Host Trees
 
-- Hazelnut ([[corylus-avellana]]): preferred for T. melanosporum; produces truffles in 4-7 years
-- English oak ([[quercus-robur]]): traditional host, reliable but slower
-- Holm oak ([[quercus-ilex]]): excellent host in Mediterranean climates
+- Hazelnut (Corylus avellana): preferred for T. melanosporum; produces truffles in 4-7 years
+- English oak (Quercus robur): traditional host, reliable but slower
+- Holm oak (Quercus ilex): excellent host in Mediterranean climates
 - Downy oak (Quercus pubescens): good host for calcareous soils
 - Pine species: used for some Tuber species
 
@@ -82,19 +82,19 @@ Successful truffle orchards require careful site assessment:
 1. Obtain inoculated seedlings from certified nurseries
 2. Soil test and amend as needed (lime to raise pH, ensure drainage)
 3. Plant trees on a grid: typically 5-8 meters apart (150-400 trees/hectare)
-4. Irrigation system installation ([[drip-irrigation]] preferred)
+4. Irrigation system installation (drip irrigation preferred)
 5. Weed control (mowing or mulching, not herbicides near tree roots)
 6. Protect from livestock and wildlife
 7. Monitor mycorrhizal colonization through root sampling
 
 ### Maintenance
 
-- Annual [[soil-testing]] and liming as needed
+- Annual soil testing and liming as needed
 - Irrigation during dry periods (critical for truffle development)
 - Prune trees to maintain open canopy (70% sunlight to soil surface)
 - Control competing vegetation within the root zone
 - Monitor for tree diseases and pests
-- [[soil-aeration]] in the root zone (some practitioners use roto-tilling)
+- Soil aeration in the root zone (some practitioners use roto-tilling)
 
 ### Time to Production
 
@@ -148,3 +148,7 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 
 ## Foraging Safety
 ## See Also
+
+- [[truffle-evolution-and-hypogeous-fungi]]
+- [[asian-truffle-species]]
+- [[stamets-truffle-orchard-failure-lessons-perigord-cultivation]]

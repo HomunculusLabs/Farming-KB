@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Lewinsky, J. (1993). "A Revision of the Orthotrichaceae." Opera Botanica, 127, 1–159.
-  - Gradstein, S.R. et al. (2001). "Bryophyte Diversity of the Tropical Andes." Memoirs of the New York Botanical Garden, 86.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
 ---
 

@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, C.L. (2004). "European Polyporales." Fungiflora.
-  - Bernicchia, A. & Gorjón, S.P. (2010). "Corticiaceae s.l." Fungiflora.
-  - Kuo, M. (2024). "Trametes gibbosa." MushroomExpert.com.
 created: 2026-04-28
 ---# Overview
 

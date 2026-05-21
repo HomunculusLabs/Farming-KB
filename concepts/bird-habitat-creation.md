@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Creating bird habitat on the homestead provides ecological benefits including insect [[fukuoka-fruit-tree-disease-pest-control-natural-predators]], pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
+Creating bird habitat on the homestead provides ecological benefits including insect pest control, pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
 
 ## Habitat Requirements
 
@@ -129,7 +129,7 @@ Different feeders attract different birds:
 ### Trees
 - **Oaks (Quercus spp.)**: Support 500+ caterpillar species; acorns feed jays, woodpeckers, turkeys
 - **Serviceberry (Amelanchier spp.)**: Early summer berries; eaten by 40+ bird species
-- **Cherry (Prunus spp.)**: Fruit eaten by many species; caterpillar host [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
+- **Cherry (Prunus spp.)**: Fruit eaten by many species; caterpillar host plant
 - **Dogwood (Cornus spp.)**: Fall berries; important for fall migration fuel
 - **Eastern red cedar (Juniperus virginiana)**: Winter berries; cover for many species
 - **Pine (Pinus spp.)**: Year-round cover; seeds for crossbills, finches, and chickadees

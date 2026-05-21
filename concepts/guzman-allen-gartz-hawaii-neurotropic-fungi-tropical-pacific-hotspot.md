@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
-  - "Allen (1998) - Magic mushrooms of the Hawaiian Islands"
   - "Merlin & Allen (1993)"
 type: concept
 ---

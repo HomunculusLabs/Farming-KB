@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae in Flora of China." Science Press.
-  - Takhtajan, A. (1986). "Floristic Regions of the World." University of California Press.
-  - Yamahara, J. et al. (1991). "Pharmacological Studies on Swertia japonica." Journal of Ethnopharmacology.
   - Kew Royal Botanic Gardens. "Swertia japonica." Plants of the World Online.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pérez-Vera, I. (2005). "Liquenes Epifitos de la Laurisilva Canaria." Universidad de La Laguna.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Krog, H. & James, P.W. (1977). "The genus Ramalina in East Africa." "Norwegian Journal of Botany" 24: 267–294.
   - Kirschbaum, U. & Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
 ---
 

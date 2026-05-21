@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Armisen, R. & Galatas, F. (2000). "Agar." In: Handbook of Hydrocolloids, Woodhead Publishing, 21-40.
   - Santelices, B. & Doty, M.S. (1989). "A Review of Gelidiales." Hydrobiologia.
 ---
 # Taxonomy and . The genus is particularly diverse along the Pacific coasts

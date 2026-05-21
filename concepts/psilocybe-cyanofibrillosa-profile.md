@@ -12,8 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide african-neurotropic-fungi-distribution-gaps-exploration-potential"
   - "Stamets (1996)"
 type: concept
 ---

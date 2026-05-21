@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cannabis Now Magazine. "Gelato: The Story Behind the Strain." cannabismagazine.com.
-  - Leafly Staff. "Gelato #33 Strain Information." Leafly, 2023.
-  - Dronkers, J. (2018). "The Cookie Family: A Genetic History." Soft Secrets.
-  - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Chemotaxonomy of Cannabis." Cannabis and Cannabinoid Research, 3(1), 78-88.
 created: 2026-05-07
 ---
 

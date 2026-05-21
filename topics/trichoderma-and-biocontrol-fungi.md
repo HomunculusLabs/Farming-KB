@@ -4,17 +4,6 @@ tags: [trichoderma, biocontrol, fungi, integrated-pest-management, soil-biology,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Harman GE, Howell CR, Viterbo A, Chet I, Lorito M. Trichoderma species — opportunistic, avirulent plant symbionts. Nature Reviews Microbiology. 2004;2(1):43-56.
-  - Vinale F, Sivasithamparam K, Ghisalberti EL, Marra R, Woo SL, Lorito M. Trichoderma–plant–pathogen interactions. Soil Biology and Biochemistry. 2008;40(1):1-10.
-  - Druzhinina IS, Seidl-Seiboth V, Herrera-Estrella A, et al. Trichoderma: the genomics of opportunistic success. Nature Reviews Microbiology. 2011;9(10):749-759.
-  - Mukherjee PK, Horwitz BA, Kenerley CM. Secondary metabolism in Trichoderma — a genomic perspective. Microbiology. 2012;158(Pt 1):35-45.
-  - Woo SL, Ruocco M, Vinale F, et al. Trichoderma-based products and their widespread use in agriculture. The Open Mycology Journal. 2014;8:71-126.
-  - Hermosa R, Rubio MB, Cardoza RE, et al. The contribution of Trichoderma to the control of plant pathogens. Phytopathology Mediterranean. 2013;52(2):273-285.
-  - Lorito M, Woo SL, Harman GE, et al. Translational research on Trichoderma: from omics to the field. Annual Review of Phytopathology. 2010;48:229-251.
-  - Benítez T, Rincón AM, Limón MC, Codón AC. Biocontrol mechanisms of Trichoderma strains. International Microbiology. 2004;7(4):249-260.
-  - Shoresh M, Harman GE, Mastouri F. endophytic-mycorrhizal-induced-systemic-resistance resistance and plant responses to fungal biocontrol agents. Annual Review of Phytopathology. 2010;48:21-43.
-  - Mukherjee PK, Buensanteai N, Horwitz BA, Kenerley CM. Functional characterization of Trichoderma virens genes involved in mycoparasitism. Molecular Plant-Microbe Interactions. 2013;26(6):625-635.
-  - Alabouvette C, Olivain C, Steinberg C. Biological control of plant diseases: the European situation. European Journal of Plant Pathology. 2006;114(2):165-174.
   -Contreras-Cornejo HA, Macías-Rodríguez L, Cortés-Penagos C, López-Bucio J. Trichoderma-induced plant immunity likely involves both hormonal- and camalexin-dependent mechanisms in Arabidopsis thaliana and confers resistance against necrotrophic fungus Botrytis cinerea. Plant Signaling & Behavior. 2009;4(11):1081-1082.
 ---
 

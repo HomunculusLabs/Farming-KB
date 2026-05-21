@@ -49,7 +49,7 @@ Budget for these recurring costs:
 - Property taxes: $500-$5,000+ (reduced significantly with agricultural exemption)
 - Insurance (home, farm, liability): $1,000-$4,000
 - Animal feed and supplies: $500-$3,000
-- Seeds, plants, and [[gaias-garden-many-gardens-garden-design-process]] supplies: $200-$1,000
+- Seeds, plants, and garden supplies: $200-$1,000
 - Fuel and utilities: $2,000-$6,000
 - Equipment maintenance and replacement: $500-$3,000
 - Veterinary care: $200-$1,500
@@ -88,7 +88,7 @@ Most homesteads do not generate significant profit in the first 3-5 years. Plan 
 
 If you operate your homestead as a business (even a small one), you may deduct ordinary and necessary business expenses. Consult a tax professional, but common deductions include:
 
-- **Schedule F (Farm Income)** — if you report farm income, you can deduct farm expenses: feed, seed, [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], veterinary care, equipment, fuel, repairs, insurance, depreciation
+- **Schedule F (Farm Income)** — if you report farm income, you can deduct farm expenses: feed, seed, fertilizer, veterinary care, equipment, fuel, repairs, insurance, depreciation
 - **Home office deduction** — if you have a dedicated space for farm business administration
 - **Vehicle expenses** — mileage or actual expenses for farm-related travel
 - **Depreciation** — equipment, buildings, fencing, and improvements depreciated over their useful life (3-20 years depending on asset)

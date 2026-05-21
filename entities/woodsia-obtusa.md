@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Woodsia." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
-  - Windham, M.D. (1993). "Woodsia." In: Flora of North America Editorial Committee (ed.), Pteridophytes and Gymnosperms. Oxford University Press.
-  - Cobb, B. (1984). A Field Guide to Ferns and Their Related Families. Houghton Mifflin.
   - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben GJH, Denton OA (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Odhav B, Beekrum S, Akulab U et al. (2007). "Preliminary assessment of nutritional value of traditional leafy vegetables in KwaZulu-Natal, South Africa." Journal of Food Composition and Analysis 20(5): 430-435.
-  - Sridhar KR, Bhagya B (2007). "Nutritional and antinutritional significance of four unconventional leafy vegetables consumed by tribals of western ghats." Journal of Food Science and Technology 44(6): 639-642.
   - Makinde O, Oyetayo FL (2014). "Phytochemical and antimicrobial activities of Celosia argentea Linn. leaf extracts." International Journal of Plant Research 4(2): 42-48.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Magyar K. et al. (2010). "Deprenyl: from psilocin-chemical-synthesis to neuroprotection." Journal of Neural Transmission, 117(10), 1085-1100.
-  - Weinreb O. et al. (2011). "Applying the proteasome inhibitor MG-132..." Neurochemical Research, 36(11), 2041-2047.
-  - Riederer P. et al. (2007). "The role of MAO-B inhibitors in the treatment of Parkinson's disease." Journal of Neural Transmission, 114(2), 229-235.
   - Wikipedia contributors. "Selegiline." Wikipedia, The Free Encyclopedia.
 ---
 

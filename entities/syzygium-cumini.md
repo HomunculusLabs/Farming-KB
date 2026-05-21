@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Morton, J. (1987). "Syzygium cumini." Fruits of Warm Climates. Julia Morton.
-  - Baliga, M.S. et al. (2013). "Syzygium cumini — A multifaceted ethnobotanical plant." Journal of Food Science and Technology, 50(5), 849–860.
-  - Ayyanar, M. & Subbarayan, P. (2012). "Syzygium cumini — A review." Pharmacognosy Reviews, 6(11), 37–43.
   - Chaudhary, A. et al. (2020). "Phytochemistry and pharmacological activities of Syzygium cumini." Phytomedicine Plus, 1(1), 100012.
 ---
 

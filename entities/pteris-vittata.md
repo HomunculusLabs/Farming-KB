@@ -12,10 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ma, L.Q. et al. (2001). "A fern that hyperaccumulates arsenic." Nature 409: 579.
-  - Singh, N. et al. (2006). "Arsenic tolerance and accumulation in Pteris vittata." bloomfield-environmental-pollution-overcollection-impact-fungi 143: 261–267.
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2.
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.---
 ---
 
@@ -80,3 +76,5 @@ Modern pharmacological research has focused primarily on the arsenic transport m
 P. vittata is widely cultivated as an ornamental fern in tropical and subtropical gardens. Its upright arching habit, dark green fronds, and tolerance of a range of light conditions make it a versatile landscape plant.
 
 Garden cultivation requires well-drained soil in partial shade to full sun. The fern is remarkably drought-tolerant once established and tolerates poor, sandy, or calcareous soils where many other ferns fail to thrive.
+Further research into pteris vittata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pteris vittata provides a foundation for both practical application and continued scientific inquiry.

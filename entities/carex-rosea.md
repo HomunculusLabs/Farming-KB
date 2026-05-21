@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 254–572.
-  - Bryson, C.T. & DeBarros, D.S. (2018). "Sedges (Cyperaceae) of the Southern United States." USDA NRCS.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Hurd, P.D. Jr., Linsley, E.G. & Whitaker, T.W. (1980). "Cyperaceae as Host Plants for Bees." Journal of the Kansas Entomological Society 53(1): 136–139.
   - NatureServe. (2024). "Carex rosea." NatureServe Explorer.
 ---
 

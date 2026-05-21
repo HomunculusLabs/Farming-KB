@@ -8,7 +8,6 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 related_concepts:
   - urban-permaculture-and-guerrilla-gardening
   - container-gardening-techniques

@@ -14,10 +14,6 @@ tags:
   - southern-beech
   - nitrogen-fixing-companion
 sources:
-  - Donoso, P. (2006). "Las especies arbóreas de los bosques templados de Chile y Argentina." Marisa Cúneo Ediciones.
-  - Veblen, T.T., Hill, R.S., Read, J. (1996). "The Ecology and Biogeography of Nothofagus Forests." Yale University Press.
-  - Premoli, A.C. et al. (2012). "Phylogeography of Nothofagus obliqua." Molecular Ecology, 21(20), 4978-4992.
-  - Hechenleitner, P. et al. (2005). "Árboles nativos de Chile." Valdivia: Marisa Cúneo Ediciones.
   - https://www.worldagroforestry.org/tree/N0F
 ---
 

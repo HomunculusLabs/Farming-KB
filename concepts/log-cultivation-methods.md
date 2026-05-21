@@ -1,4 +1,5 @@
 ---
+
 title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
 updated: 2026-04-13
@@ -136,14 +137,18 @@ Using multiple inoculation strategies simultaneously:
 
 ## Bunker Spawn — Scalable Habitat Restoration
 
+Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
+
+### Making Bunker Spawn
+1. Fill burlap sacks with fresh wood chips
+2. Inoculate with: pure culture plug spawn (100-200 per sack), sawdust spawn, recycled kit substrate, stem butts, or cardboard sheet spawn
+3. Stack 3 high on pallets or cardboard in shade
+4. Incubate 6-12 months; colonized bags become snow-white
+5. Select bags fused together by interconnecting rhizomorphs — these have the most vigorous mycelium
+6. Use to inoculate more bags (10-100x expansion), or place directly in the landscape
+
+### Applications
 ## See Also
 
-- [[mushroom-cultivation-basics]] — The 10-step cultivation process
-- [[inoculation-methods]] — Spore, spawn, and stem butt techniques
-- [[straw-cultivation-methods]] — Pasteurization and low-tech straw growing
-- [[mushroom-species-guide]] — Species-specific wood preferences and growth parameters
-- [[fungal-ecology]] — Natural decomposition succession on wood
-
-## Related
-
-- [[outdoor-mushroom-bed-preparation]]
+- [[shiitake-cultivation-log-method]]
+- [[shiitake-log-vs-sawdust-cultivation]]

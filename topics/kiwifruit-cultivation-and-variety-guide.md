@@ -12,10 +12,7 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Ferguson AR (1999). "New Zealand kiwifruit: breeding and genetics." Acta Horticulturae.
   - USDA NRCS Plant Guide: Actinidia deliciosa
-  - Cornille A et al. (2014). "New insights into the history of kiwifruit." Annals of Botany.
-  - Oregon State University Extension: Growing Kiwifruit in the Home Garden
   - Badulescu L et al. (2021). "Kiwifruit (Actinidia spp.) — a review of cultivation." Agriculture.
 ---
 

@@ -5,7 +5,6 @@ tags: [collaboration, word-processing, document-review, microsoft-word]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

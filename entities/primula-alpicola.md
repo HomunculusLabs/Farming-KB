@@ -7,10 +7,6 @@ type: species
 family: Primulaceae
 order: Ericales
 sources:
-  - Richards, J. (2003). Primula, 2nd edition. Timber Press, Portland.
-  - Hu, C.M. & Kelso, S. (1996). Primula. In: Flora of China, Vol. 15, 99-170.
-  - Wendelbo, P. (1961). A monograph of the genus Primula L. in the Himalaya. Årbok for Universitetet i Bergen, Mat.-Naturv. Serie, 11, 1-165.
-  - Royal Botanic Garden Edinburgh. (2024). Primula alpicola — specimen data and distribution.
   - Chen, Y. et al. (2018). Phylogeny and biogeography of Primula (Primulaceae). Molecular Phylogenetics and Evolution, 126, 50-62.
 ---
 

@@ -5,7 +5,6 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, biology, mycelium, fungal-ecology]
 sources:
-  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
   - Gadd, G.M. (2001). . A single mycelial network can
 cover enormous areas and persist for centuries. Networks of Armillaria
 species have been documented exceeding 900 hectares and estimated at

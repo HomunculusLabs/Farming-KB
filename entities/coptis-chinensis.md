@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Vol. I.
-  - Kumar, S. et al. (2015). "Biological activities and medicinal properties of Coptis chinensis." Chinese Medicine, 10, 44.
-  - Jiang, Z.Y. et al. (2015). "Alkaloids from Coptis chinensis." American Journal of Chinese Medicine, 43(4), 753-766.
-  - Kuo, C.L. et al. (2004). "Berberine and Coptis chinensis." American Journal of Chinese Medicine, 32(6), 947-957.
   - Tang, J. et al. (2009). "Antimicrobial activity of Coptis chinensis." Journal of Ethnopharmacology, 126(3), 510-513.
 ---
 

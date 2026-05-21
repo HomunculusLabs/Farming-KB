@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov A.A., Kovanda M. (1978). "Campanula L." In: Tutin T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda M. (1970). "Polyploidy and Variation in the Campanula rotundifolia Complex." Preslia, 42: 142-155.
   - Kew Science (2024). "Plants of the World Online: Campanula pusilla." https://powo.science.kew.org/
 ---
 

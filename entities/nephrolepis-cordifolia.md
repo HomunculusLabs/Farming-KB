@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Nitta, J.H. et al. (2020). "A genus-level phylogenetic classification of the fern family Nephrolepidaceae." Journal of Systematics and Evolution, 58(5), 489-498.
-  - PPG I (2016). "A community-derived classification for extant lycophytes and ferns." Journal of Systematics and Evolution, 54(6), 563-603.
   - Randall, R.P. (2017). "A Global Compendium of Weeds." 3rd ed. Department of Agriculture and Food, Western Australia.
 ---
 

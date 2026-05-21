@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mark, A. F.; Adams, N. M. (1995). "New Zealand Alpine Plants." Canterbury University Press.
-  - Wardle, P. (1991). "Vegetation of New Zealand." Cambridge University Press.
-  - New Zealand Plant Conservation Network. "Ranunculus lyallii." nzpcn.org.nz.
-  - Heads, M. (1998). "Biogeography and taxonomy of New Zealand Ranunculus." NZ Journal of Botany, 36(4).
   - Johnson, P. N.; Brooke, P. A. (1989). "Wetland Plants in New Zealand." DSIR Publishing.
 ---
 

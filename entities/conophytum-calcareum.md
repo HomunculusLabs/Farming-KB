@@ -12,9 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - N.E. Br. (1925). "Conophytum calcareum." Gardeners' Chronicle, 78, 468.
-  - Hammer, S.A. (1993). The Genus Conophytum: A Conograph. Succulent Plant Trust.
-  - Royal Horticultural Society (2023). "Conophytum calcareum." RHS Plant Finder. https://www.rhs.org.uk/Plants
   - Opel, M.R. (2005). "A morphometric analysis of the Conophytum calcareum complex." Aloe, 42(3), 68-75.
 ---
 

@@ -6,8 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shurtleff & Aoyagi, "The Book of Koji" (2019)
-  - Dufresne & Farnworth, "Tea Kombucha and Fungi" in "Food Research International" (2000)
-  - Villas-Boas et al., "Kombucha Tea: Microbiology, Composition and Beneficial Effects" (2016)
   - Kodo, "The Art of Koji Making" (2016)
 type: comparison
 ---

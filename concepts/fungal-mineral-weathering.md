@@ -21,10 +21,10 @@ Fungi are among the most significant biological agents of mineral weathering —
 
 ### Chemical Weathering
 - **Organic acid exudation**: Oxalic, citric, gluconic acids dissolve minerals
-  - [[oxalic-acid]] is the most important — complexes with Ca, Fe, Al
-  - Forms metal-oxalate crystals (calcium oxalate, iron oxalate) visible on [[fungal-hyphae]]
+  - Oxalic acid is the most important — complexes with Ca, Fe, Al
+  - Forms metal-oxalate crystals (calcium oxalate, iron oxalate) visible on fungal hyphae
 - **Proton extrusion**: Fungi pump H+ ions into their environment, lowering pH and dissolving minerals
-- **[[siderophore]] production**: Low-molecular-weight chelators that bind and solubilize iron from minerals
+- **Siderophore production**: Low-molecular-weight chelators that bind and solubilize iron from minerals
 - **CO2 respiration**: Fungal respiration produces carbonic acid (H2CO3) in soil solution
 - **Extracellular enzymes**: Oxidoreductases (laccases, peroxidases) that attack mineral structures
 
@@ -43,8 +43,8 @@ Fungi are among the most significant biological agents of mineral weathering —
 
 ### Phosphate Minerals
 - Apatite: phosphorus release (critical for plant nutrition)
-- [[rock-phosphate]]: fungal weathering makes P bioavailable
-- [[mycorrhizal-fungi]] are particularly important for P solubilization
+- Rock phosphate: fungal weathering makes P bioavailable
+- Mycorrhizal fungi are particularly important for P solubilization
 
 ### Metal-Bearing Minerals
 - Iron oxides: siderophore-mediated dissolution
@@ -61,7 +61,7 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Plant Nutrition
 - Mycorrhizal fungi weather minerals to access phosphorus, potassium, calcium
 - This is why mycorrhizal plants can grow in nutrient-poor soils
-- Fungal weathering in the [[rhizosphere]] directly feeds plant roots
+- Fungal weathering in the rhizosphere directly feeds plant roots
 
 ### Carbon Sequestration
 - Fungal weathering of silicate minerals draws down atmospheric CO2 through the long-term carbon cycle
@@ -71,10 +71,18 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Metal Mobility
 - Fungal weathering mobilizes metals from minerals into soil solution
 - Can be beneficial (nutrient release) or problematic (toxic metal contamination)
-- Fungal [[siderophores]] and oxalates mediate metal mobility
+- Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- mycoremediation overview — fungal weathering for bioremediation
+- [[mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
-Understanding fungal mineral weathering provides a foundation for further exploration and practical application.
+Further research into fungal mineral weathering continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind fungal mineral weathering provides a foundation for both practical application and continued scientific inquiry.
+## See Also
+
+- [[dighton-fungal-rock-weathering-mineral-dissolution]]
+- [[fungal-mineral-transformations-biogeochemical-cycles]]
+- [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]
+- [[fungal-oxalate-secretion-and-mineral-dissolution]]
+- [[mycorrhizal-mineral-weathering]]

@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 ---# Robert Graves and the British Magic Mushroom Connection
 

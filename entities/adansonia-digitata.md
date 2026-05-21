@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wickens, G.E. & Lowe, P. (2008). "The Baobabs: Pachycauls of Africa, Madagascar and Australia." Springer.
-  - Sidibe, M. & Williams, J.T. (2002). "Baobab — Adansonia digitata." International Centre for Underutilised Crops, Southampton.
-  - Buchmann, C. et al. (2010). "Adansonia digitata L. — A review of the taxonomic, phytochemical, pharmacological and traditional uses." Journal of Pharmacy and Pharmacology, 62(5), 617–628.
   - Kaboré, D. et al. (2011). "Adansonia digitata L.: ethnobotanical knowledge, nutritional value and uses of leaves." Fruits, 66(5), 363–372.
 ---
 

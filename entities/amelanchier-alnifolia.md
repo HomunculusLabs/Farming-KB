@@ -19,10 +19,6 @@ tags:
   - juneberry
   - drought-tolerant
 sources:
-  - St-Pierre, R.G. (1997). "Growing Saskatoons: A Manual for Orchardists." University of Saskatchewan.
-  - USDA NRCS. "Amelanchier alnifolia Plant Guide." plants.usda.gov
-  - Kershaw, L. (2000). "Trees of the Rocky Mountains and Intermountain West." Lone Pine Publishing.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Morgan, J. & Carter, M. (2013). "The Permaculture Promise." Timber Press.
 ---
 

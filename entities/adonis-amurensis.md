@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohwi, J. (1965). "Flora of Japan." Smithsonian Institution.
-  - Lee, Y.N. (1996). "Flora of Korea." Kyo-Hak Publishing Co.
-  - Tamura, M. (1995). "Ranunculaceae — Flora of Japan Vol. IIa." Kodansha.
   - RHS (2023). "Adonis amurensis — Plant Finder." Royal Horticultural Society.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kouno, I. & Shimotori, H. (2002). "Illicium Species: A Review of their Phytochemistry and Biological Activities." Heterocycles, 57(3), 565–586.
-  - Nakamura, T. et al. (1996). "Anisatin, a Neurotoxic Sesquiterpene from Illicium anisatum." Phytochemistry, 42(1), 177–180.
-  - Oh, S.Y. et al. (2015). "Illicium Species: Traditional Uses, Phytochemistry, and Pharmacology." Journal of Ethnopharmacology, 173, 44–66.
-  - Sangun, M.K. et al. (2007). "A Review of Illicium verum." Pharmacognosy Reviews, 1(2), 380–385.
   - Kubo, M. et al. (1994). "Toxic Components of Illicium anisatum." Natural Toxins, 2(5), 264–269.
 ---
 

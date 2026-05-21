@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Vol. I.
 - Ji, L.L., et al. (2013). "Tetrandrine: A review of its pharmacological effects." Journal of Asian Natural Products Research, 15(1), 1–14.
 - Li, J., et al. (2019). "Stephania tetrandra S. Moore: A review of its traditional uses, phytochemistry, allegro-amanita-muscaria-properties-and-pharmacology." Frontiers in Pharmacology, 10, 1149.
 - Kuo, S.C., Chen, C.M. (1992). "The alkaloids of Stephania tetrandra." Journal of Natural Products, 55(7), 963–966.

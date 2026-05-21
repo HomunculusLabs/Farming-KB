@@ -9,8 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Corner EJH (1966). "A Monograph of Cantharellus and Allied Genera." Nova Hedwigia Beihefte 33.
-  - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland, Vol. 3: Boletes and Agarics." Verlag Mykologia.
   - Kibby G (2016). "Mushrooms and Toadstools of Britain and Europe." cantharellus-cibarius-entity*), though the two share a superficial resemblance in the field.
 ---
 

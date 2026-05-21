@@ -18,11 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Liu, J.S. et al. (1986). "Studies on the constituents of huperzia-serrata." Acta Chimica Sinica, 44(10), 1035-1040.
-  - Zhang, Z. et al. (2008). "Huperzine A in the treatment of Alzheimer's disease." Current Alzheimer Research, 5(4), 398-405.
-  - Li, J. et al. (2018). "Huperzine A for Alzheimer's disease: a systematic review and meta-analysis." Journal of Neurology, Neurosurgery & Psychiatry, 89(9), 958-967.
-  - Ma, X. et al. (2007). "The effects of Huperzine A on cognitive function in patients with Alzheimer's disease." American Journal of Chinese Medicine, 35(4), 623-631.
-  - Wang, R. & Tang, X.C. (2005). "Neuroprotective effects of huperzine A." Neurosignals, 14(2), 71-82.
 aliases:
   - HupA
   - Huperzine-A

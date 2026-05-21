@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Green, P.S. (1958). "A Monograph of the Genus Osmanthus." Journal of the Royal Horticultural Society 83.
-  - Chang, H.T. & Chiu, C.S. (1990). "Osmanthus." Flora Reipublicae Popularis Sinicae 61: 106–125.
-  - Gu, Z.Y. et al. (2019). "Volatile Compounds of Osmanthus fragrans Flowers." Journal of Agricultural and Food Chemistry 67(12).
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
   - Heywood, V.H. et al. (2007). Flowering Plant Families of the World. Royal Botanic Gardens Kew.
 ---
 

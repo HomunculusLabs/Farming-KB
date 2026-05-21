@@ -5,7 +5,6 @@ tags: [chemistry, psilocybin, psilocin, synthesis, phosphorylation, shirota-haka
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shirota, O., Hakamata, W. & Goda, Y. (2003). Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis, Principal Hallucinogenic Constituents of "Magic Mushroom". Journal of Natural Products, 66(6), 885-887.
 type: concept
 ---
 

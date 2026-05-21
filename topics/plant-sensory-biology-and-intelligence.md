@@ -7,9 +7,6 @@ tags: [plant-biology, sensory-ecology, plant-intelligence, botany,
 date: 2026-05-19
 updated: 2026-05-19
 sources:
-  - "Chamovitz D (2012) What a Plant Knows. Oneworld Publications."
-  - "Karban R (2015) Plant Sensing and Communication. Univ of Chicago Press."
-  - "Tompkins P, Bird C (1973) The Secret Life of Plants."
   - "McKenna T (1992) Food of the Gods. Bantam."
 related_concepts:
   - plant-sensory-systems

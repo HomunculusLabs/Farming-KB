@@ -147,3 +147,4 @@ Many states have implemented social equity provisions to address disproportionat
 - Community reinvestment requirements and expungement provisions
 
 ## Interstate Issues
+

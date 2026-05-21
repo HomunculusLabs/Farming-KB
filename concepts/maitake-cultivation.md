@@ -1,5 +1,4 @@
 ---
-title: Maitake Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +8,7 @@ tags:
   - gourmet-mushrooms
   - medicinal-mushrooms
   - grifola
-sources: ["raw/concepts/maitake-cultivation-guide.md"]
+sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
@@ -118,7 +117,7 @@ Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake|medicinal
 
 ## See Also
 
-- Maitake detailed cultivation guide
+- [[maitake-cultivation-guide|Maitake detailed cultivation guide]]
 - [[maitake-mushroom-research|Maitake research summary]]
 - [[medicinal-mushroom-guide-maitake|Maitake medicinal properties]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

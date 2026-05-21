@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (2000). "Clematis: The Genus." Timber Press.
-  - Johnson, M. (2001). "The Genus Clematis." The Royal Botanic Gardens, Kew.
-  - Tison, J.-M. & de Foucault, B. (2014). "Flora Gallica." Biotope Éditions.
   - RHS (2023). "Clematis flammula — Plant Finder." Royal Horticultural Society.
 ---
 

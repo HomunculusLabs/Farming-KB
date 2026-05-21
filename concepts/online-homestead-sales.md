@@ -9,7 +9,7 @@ sources: []
 
 # Online Homestead Sales
 
-Selling homestead products online extends reach beyond local [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] creates passive income streams. Platforms like Etsy, Shopify, [[permaculture-community-philosophy-and-social-structure]] media enable direct-to-consumer sales of shelf-stable and value-added products. This guide covers platforms, [[fungal-culture-shipping-regulations]], photography, and marketing.
+Selling homestead products online extends reach beyond local markets and creates passive income streams. Platforms like Etsy, Shopify, and social media enable direct-to-consumer sales of shelf-stable and value-added products. This guide covers platforms, shipping regulations, photography, and marketing.
 
 ## Product Categories for Online Sales
 
@@ -18,11 +18,11 @@ Selling homestead products online extends reach beyond local [[magic-mushroom-re
 - Hot sauce and fermented products (see [[fermented-hot-sauce-guide]])
 - Preserves: jam, jelly, canned goods (pH below 4.6 only)
 - Baked goods: shipped breads, cookies, granola
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]] herbal remedies
+- Tinctures and herbal remedies
 - Salves, balms, body care products
 - Beeswax candles and wraps
 - Mushroom products: dried, powders, grow kits (see [[homestead-mushroom-business]])
-- Seeds [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] starts (seasonal)
+- Seeds and plant starts (seasonal)
 - Wool, yarn, fiber products
 - Soap (cold process, hot process)
 - Eggs: NOT shippable (perishable)
@@ -37,9 +37,9 @@ Selling homestead products online extends reach beyond local [[magic-mushroom-re
 ## Platform Comparison
 
 ### Etsy
-- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: handmade goods, small batches, craft products
+- Best for: handmade goods, small batches, craft products
 - Fees: $0.20/listing (4 months), 6.5% transaction fee + 3% + $0.25 payment processing
-- Pros: built-in audience (90+ million buyers), easy setup, good [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
+- Pros: built-in audience (90+ million buyers), easy setup, good for beginners
 - Cons: saturated marketplace, fee structure, limited branding control
 - Ideal products: salves, candles, dried herbs, tea blends, soap
 

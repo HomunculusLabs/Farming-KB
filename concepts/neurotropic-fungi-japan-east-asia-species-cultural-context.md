@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - Guzmán G, Allen JW, Gartz J (1998) A worldwide psilocybe-geographical-distribution-patterns
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept---

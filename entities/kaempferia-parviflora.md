@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sutthanut K. et al. (2007). "Effects of Kaempferia parviflora extracts on reproductive parameters..." Journal of Ethnopharmacology.
-  - Chaturapanich G. et al. (2012). "Pharmacology of Kaempferia parviflora." Phytomedicine.
-  - Temkitthawon P. et al. (2011). "Flavonoids from Kaempferia parviflora." Phytochemistry.
-  - Rujjanawate C. et al. (2005). "Antinociceptive and anti-inflammatory activities of Kaempferia parviflora." Songklanakarin Journal of Science and Technology.
   - Tewtrakul S. et al. (2008). "Anti-allergic and anti-inflammatory activities of polymethoxyflavones from Kaempferia parviflora." Planta Medica.
 ---
 

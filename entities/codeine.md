@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jaffe, J.H. & Martin, W.R. (1985). "Opioid analgesics and antagonists." In Goodman & Gilman's The Pharmacological Basis of Therapeutics (7th ed.). Macmillan.
-  - Smith, H.S. (2009). "Opioid metabolism." Mayo Clinic Proceedings, 84(7), 613-624.
-  - Robison, L.M. et al. (2004). "National prevalence of regular NSAID and analgesic use." Pharmacoepidemiology and Drug Safety, 13(5), 327-335.
   - Lotsch, J. et al. (2004). "Pharmacokinetics of non-intravenous formulations of codeine." European Journal of Clinical Pharmacology, 60(4), 233-243.
 ---
 

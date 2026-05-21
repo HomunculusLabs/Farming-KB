@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Padgett DJ (2007). "Nuphar (Nymphaeaceae): A New Species from Western Mexico and a Key to the Mexican Species." Novon 17(2): 200–206.
-  - Hickey M, King C (2000). "The Cambridge Illustrated Glossary of Botanical Terms." Cambridge University Press.
-  - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
-  - Wiegleb G (1988). "Analysis of Flora and Vegetation in Rivers." In: "Vegetation of Inland Waters." Kluwer Academic.
   - IUCN (2021). "Nuphar pumila." The IUCN Red List of Threatened Species.
 ---
 

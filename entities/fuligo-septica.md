@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stephenson SL, Stempen H. "Myxomycetes: A Handbook of slime-molds." Timber Press, 1994.
-  - Keller HW, Braun KL. "Myxomycetes of Ohio: Their Systematics, Biology, and Use in Teaching." Ohio Biological Survey, 1999.
-  - Walker LM, Stephenson SL. "The Myxomycetes of Tennessee." University of Tennessee Press, 2022.
-  - Cite: Hoppe T, Schwantes HO. "Biosystematics of the Didymiaceae." Mycologia Memoir, 1981.
 created: 2026-04-28
 ---
 

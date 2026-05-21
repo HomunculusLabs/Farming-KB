@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Moberg, R., Holmäsen, I. (1990). "Lav- och svampflora." Interpublishing, Stockholm.
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Nimis, P.L., Martellos, S. (2017). "ITALIC – The Information System on Italian Lichens." University of Trieste.
 ---
 

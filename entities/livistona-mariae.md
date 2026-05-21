@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dowe, J.L. (2009). "A Taxonomic Account of Livistona R.Br. (Arecaceae)." Ph.D. thesis, James Cook University.
-  - Dixon, D.J., Jackes, B.R. & Dowe, J.L. (2020). "Livistona mariae (Arecaceae): A Central Australian Palm." Austrobaileya 10(1): 33-47.
-  - Latz, P.K. (1995). "Bushfires and Bush Tucker." IAD Press, Alice Springs.
   - Bowman, D.M.J.S. & Panton, W.J. (1993). "Decline of Cabbage Palms in Finke Gorge." Pacific what-a-plant-knows-phytochrome-red-far-red-light-switchly ovoid drupe, 1.5 to 2 cm in diameter, ripening from green to dark brown or black. The mesocarp is thin and fibrous, enclosing a single globose seed.
 ---
 

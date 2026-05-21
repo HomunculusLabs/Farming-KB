@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jaffe JH, Martin WR (1985). "Opioid analgesics and antagonists." The Pharmacological Basis of Therapeutics. McGraw-Hill.
-  - Schmidt H, Thede RE (1969). "Thebaine conversion to oripavine." Journal of controlled-substances-act-and-psychedelic-research and Their Derivatives."
   - Dedov VN et al. (2001). "Orvinols as leads for novel analgesics." Natural Product Reports 18(5): 513-527.
 ---
 

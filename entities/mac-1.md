@@ -20,10 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database. "MAC (miracle-alien-cookies)." https://www.leafly.com/strains/mac
-  - AllBud. "MAC 1 Strain Information." https://www.allbud.com/mac-1
-  - Wikileaf. "MAC 1 blesching-cannabis-strain-selection-receptor-targeting." https://www.wikileaf.com/strain/mac-1
-  - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
   - "Chemotaxonomic analysis of query-what-are-cannabis-terpenes-and-why-do-they-matter." Frontiers in Plant Science, 2020.
 ---
 ## MAC 1 ([[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - K. Larsen (1998). "Zingiberaceae." In K. Kubitzki (ed.), The Families and Genera of Vascular Plants, Vol. IV. Springer.
-  - Sirirugsa P. (1999). "Thai Zingiberaceae: Taxonomy and Ethnobotany." Thai Studies in Biodiversity, 3, 39-57.
-  - Wood J. (2000). The Orchid and Ginger Garden. Singapore Botanic Gardens.
   - Staples G. & Herbst D. (2005). A Tropical Garden Flora. Bishop Museum Press.
 ---
 

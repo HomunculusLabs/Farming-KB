@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Liu, S.W. (1990). "A Worldwide Monograph of Gentiana." Science Press, Beijing.
-  - Yuan, Y.M. & Küpfer, P. (1995). "Molecular phylogenetics of Gentiana section Chondrophyllae." Plant Systematics and Evolution, 196(1-2), 83-98.
-  - Royal Horticultural Society (2023). "Gentiana veitchiorum." RHS Plant Finder.
   - Favre, A. et al. (2014). "History and Biogeography of Gentianaceae." Springer.
 ---
 

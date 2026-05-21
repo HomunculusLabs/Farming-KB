@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Proctor, G.R. (1977). "Flora of the Lesser Antilles: Pteridophyta." Arnold Arboretum, Harvard University.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press, Portland.
-  - Conant, D.S. et al. (1995). "Phylogenetic and evolutionary patterns in the Cyatheaceae." Annals of the Missouri Botanical Garden, 82(2): 228-244.
   - IUCN Red List. Cyathea arborea. https://www.iucnredlist.org
 ---
 

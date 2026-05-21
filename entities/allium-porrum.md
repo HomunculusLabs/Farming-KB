@@ -8,9 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." Allium brassinosteroid-anti-stress-effects-crop-science.
-  - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
-  - Kamenetsky, R. (2007). "Allium." Handbook of Plant Breeding, Springer.
   - McCollum, G.D. (1976). "Onions and allies." Horticulture 283, USDA.
 ---
 
@@ -80,3 +77,5 @@ Mounding soil around the developing pseudostem is essential for producing
 long, well-blanched white shafts. This is repeated 2–3 times during the
 [[comparison-brown-rot-vs-white-rot-bioremediation]] (*Sclerotium
 cepivorum*), and [[cervantes-downy-mildew-fungal-blight]] (*[[peronospora]] destructor*).
+Further research into allium porrum continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind allium porrum provides a foundation for both practical application and continued scientific inquiry.

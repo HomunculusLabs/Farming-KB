@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schulman, E. (1958). "Bristlecone Pine: Oldest Known Living Thing." National Geographic, 113(3), 355–372.
-  - Richardson, D.M., Rundel, P.W. (1998). "Ecology and Biogeography of Pinus." Cambridge University Press, pp. 297–311.
-  - Ewers, F.W., Schmid, R. (1981). "Longevity of Needle Fascicles of Pinus longaeva (Bristlecone Pine) and Other growing-gourmet-north-american-reishi-species Pines." Oecologia, 51(1), 107–115.
-  - Earle, C.J. (2024). "The Gymnosperm Database — Pinus longaeva." www.conifers.org.
   - Lanner, R.M., Connor, K.F. (2001). "Does Bristlecone Pine Senesce?" Experimental Gerontology, 36(4–6), 675–685.
 ---
 

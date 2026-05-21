@@ -9,13 +9,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wiegleb, G. & Kaplan, Z. (1998). "An Account of the Species of
     Potamogeton L." Folia Geobotanica 33(3): 241–276.
-  - Haynes, R.R. (1979). "Revision of North and Central American
     Potamogeton." Rhodora 81: 558–617.
-  - USDA NRCS (2024). "Potamogeton perfoliatus Plant Guide." Natural
     Resources Conservation Service.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological Life Histories of the
     Three Aquatic Macrophytes." Technical Bulletin 162, Wisconsin DNR.
 ---
 

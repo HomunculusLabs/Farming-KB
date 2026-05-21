@@ -6,7 +6,6 @@ tags: [paradigm-shift, consciousness, counterculture, leary,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 --- Paradigm Shifting and the Psychedelic Revolution
 

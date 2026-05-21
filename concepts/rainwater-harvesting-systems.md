@@ -10,7 +10,7 @@ sources: []
 # Rainwater Harvesting Systems
 
 Rainwater harvesting captures and stores precipitation for domestic,
-agricultural, and landscape use. [[query-how-to-start-beekeeping-on-a-homestead]], it reduces dependence on
+agricultural, and landscape use. On a homestead, it reduces dependence on
 well or municipal water, provides backup supply, and reduces stormwater
 runoff. This guide covers system components, design, sizing, filtration,
 and potability considerations.
@@ -18,7 +18,7 @@ and potability considerations.
 ## System Components
 
 ### Catchment Surface
-The roof [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them catchment surface. Metal roofing is ideal
+The roof is the most common catchment surface. Metal roofing is ideal
 (smooth, non-toxic, long-lasting). Asphalt shingles are acceptable but
 release particles and chemicals. Avoid unsealed wood, tar, and treated
 materials.
@@ -31,7 +31,7 @@ materials.
 - Gutters must be sized for the roof area and rainfall intensity
 - Seamless aluminum or galvanized steel gutters are most durable
 - Leaf guards or screens reduce debris entering the system
-- Downspouts direct flow to the first flush diverter [[mollison-designers-water-purification-and-storage-principles]]
+- Downspouts direct flow to the first flush diverter and storage
 
 ### First Flush Diverter
 The first 0.02 inches of rain per square foot of catchment washes dust,
@@ -57,7 +57,7 @@ events. See sizing section below.
 - **Polyethylene (poly) tanks** — most common for residential; lightweight,
   UV-stabilized, 200-10,000+ gallons; food-grade available
 - **Ferro-cement** — DIY-friendly; cement and wire mesh over a frame; very
-  durable and low-cost at [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+  durable and low-cost at large scale
 - **Steel tanks** — corrugated galvanized or stainless; durable but heavy
   and expensive
 - **Cisterns** — underground concrete or poly; saves space and keeps water
@@ -68,7 +68,7 @@ events. See sizing section below.
 **Tank placement considerations:**
 - Elevate tanks (at least 2 feet) for gravity-fed distribution
 - Place on a level, compacted surface (concrete pad, gravel bed)
-- Site in shade to reduce algae growth [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] heating
+- Site in shade to reduce algae growth and water heating
 - Protect from freezing in cold climates (insulation, heat tape, or bury)
 
 ### Filtration and Treatment
@@ -128,7 +128,7 @@ meets EPA drinking water standards in most cases. Key risks:
 - **Mosquito breeding** — in improperly sealed tanks
 
 ### Legal Status
-- **Legal everywhere [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] US** for outdoor, non-potable use
+- **Legal everywhere in the US** for outdoor, non-potable use
 - **Colorado** — restrictions were lifted in 2016; two rain barrels (110
   gallons total) allowed without permit
 - **Some western states** — water rights laws may restrict large-scale
@@ -139,11 +139,16 @@ meets EPA drinking water standards in most cases. Key risks:
 Test water annually for: coliform bacteria, E. coli, pH, turbidity, lead,
 and nitrate. Use a state-certified laboratory.
 
-## See Also
-- [[greywater-systems-detailed]]
-- [[well-drilling-and-maintenance]]
-- [[wicking-bed-construction]]
 ## Maintenance Schedule
 - **Monthly** — check gutters, screens, and first flush diverter
 - **Quarterly** — inspect tank for sediment, algae, and mosquito larvae
 - **Annually** — clean tank interior, replace sediment filters, test water
+  quality, inspect all fittings and seals
+- **After major storms** — clean gutters and screens of debris
+
+## Off-Grid Integration
+## See Also
+
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[mollison-designers-rainwater-harvesting-swale-systems]]
+- [[urban-permaculture-rainwater-harvesting-graywater]]

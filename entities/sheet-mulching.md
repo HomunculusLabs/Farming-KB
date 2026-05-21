@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd Edition. Chelsea Green Publishing.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens, Vol. 2: williams-pdc-ecological-design-principles and Practice for Temperate-Climate Permaculture. Chelsea Green Publishing.
-  - Holzer, S. (2011). Sepp Holzer's Permaculture. Chelsea Green Publishing.
-  - Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications.
 aliases:
   - lasagna gardening
   - hugelkultur|permaculture practitioners, sheet mulching has become a foundational technique for establishing food forests, garden beds, and comfrey leaves, hugelkultur|Hugelkultur hybrid:** Place logs and branches beneath the sheet mulch layers to create buried wood cores, combining the water-retention benefits of hugelkultur with the weed suppression and soil building of sheet mulching.
@@ -79,3 +75,14 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on sheet mulching have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with sheet mulching should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

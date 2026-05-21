@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (1988). The Genus Cyclamen. Timber Press, Portland, Oregon.
-  - Mathew, B. (2013). "Cyclamen." In: Cullen, J. et al. (eds.), The European Garden Flora, Vol. II, Cambridge University Press.
-  - Davis, P.H. (1965). Flora of Turkey and the East Aegean Islands, Vol. 1, Edinburgh University Press.
-  - Compton, J.A. et al. (2004). "Phylogeny of Cyclamen (Primulaceae) based on nuclear ribosomal DNA sequences." Plant Systematics and Evolution, 246, 31–42.
   - Yeo, P.F. (1985). "Cyclamen." In: Walters, S.M. et al. (eds.), The European Garden Flora, Vol. III, Cambridge University Press.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A. et al. (1995). field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas. Princeton University Press.
-  - May, P.H. et al. (1985). "babassu-palm in the agroforestry Systems of Brazil's Mid-North Region." Agroforestry Systems 3(3).
-  - Lorenzi, H. et al. (2010). Brazilian Flora: Arecaceae (Palms). Instituto Plantarum.
   - Balick, M.J. (1986). "Taxonomy and Ecology of the Babassu Palm." Advances in Economic Botany 3.---
 ---
 
@@ -79,3 +76,5 @@ The growing interest in babassu biodiesel has sparked both economic opportunity 
 Babassu plays a keystone ecological role in the transitional forests of Maranhão. The dense canopy of babassuais modifies understory microclimate, reducing [[soil-temperature]] and increasing humidity compared to open pasture.
 
 Fruits are consumed and dispersed by tapirs, peccaries, agoutis, and large rodents. The hard endocarp protects seeds from most predators, but agoutis are capable of gnawing through it. Seed predation by bruchid beetles (Pachymerus spp.) can destroy 30–60% of seeds before germination.
+Further research into attalea speciosa continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind attalea speciosa provides a foundation for both practical application and continued scientific inquiry.

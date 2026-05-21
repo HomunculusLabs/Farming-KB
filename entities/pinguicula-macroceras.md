@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Casper, S.J. (1966). "Monographie der Gattung Pinguicula L." Bibliotheca Botanica 127/128.
-  - Schlauer, J. (2005). "A dichotomous key to the genus Pinguicula." Carnivorous Plant Newsletter 34(1): 4-11.
-  - Cieslak, T. et al. (2005). "Evolution of genome size in Pinguicula." Plant Biology 7(1): 58-65.
-  - Rice, B.A. (2006). "Growing Carnivorous Plants." Timber Press.
   - Heslop-Harrison, Y. (2004). "Biochemistry and physiology of carnivorous higher plants." Annals of Botany 93(6): 621-629.
 ---
 

@@ -9,7 +9,7 @@ sources: []
 
 # Potato Growing Guide
 
-Potatoes ([[solanum-tuberosum]]) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, container growing, harvest timing, storage, and popular varieties.
+Potatoes (Solanum tuberosum) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, container growing, harvest timing, storage, and popular varieties.
 
 ## Seed Potatoes
 
@@ -36,7 +36,7 @@ Potatoes ([[solanum-tuberosum]]) are a high-yielding, calorie-dense staple crop 
 
 ### Timing
 - Plant 2-4 weeks before average last frost date.
-- [[soil-temperature]] should be at least 45°F.
+- Soil temperature should be at least 45°F.
 - Potatoes are frost-tolerant; new shoots may die back from a light freeze but will regrow.
 
 ### Soil Preparation
@@ -90,7 +90,7 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 - **Watering**: 1-2 inches per week. Consistent moisture is critical during tuber formation (when plants flower). Irregular watering causes knobby or split tubers.
 - **Fertilization**: Potatoes are moderate feeders. Side-dress with compost or a balanced organic fertilizer when hilling. Avoid excess nitrogen — promotes foliage over tubers.
 - **Pest management**: Colorado potato beetle is the most common pest. Hand-pick adults and larvae. Neem oil or spinosad for heavy infestations. Floating row covers prevent early-season infestation.
-- **Disease**: Early blight and [[late-blight]] are the main threats. Remove affected foliage. Do not plant potatoes near tomatoes (shared disease complex).
+- **Disease**: Early blight and late blight are the main threats. Remove affected foliage. Do not plant potatoes near tomatoes (shared disease complex).
 
 ## Harvesting
 
@@ -138,13 +138,15 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 | Problem | Cause | Prevention |
 |---------|-------|------------|
 | Green potatoes | Sunlight exposure | Hill adequately, keep tubers covered |
-| Scab (brown corky spots) | High [[soil-ph]], fresh manure | Keep pH 5.0-6.0, avoid lime, use aged compost |
+| Scab (brown corky spots) | High soil pH, fresh manure | Keep pH 5.0-6.0, avoid lime, use aged compost |
 | Knobby tubers | Inconsistent watering | Water consistently, especially during tubering |
 | Hollow heart | Rapid growth after dry period | Consistent watering |
 | Wireworm holes | Wireworms in soil | Rotate crops, avoid planting after grass sod |
-| Late blight | [[phytophthora-infestans]] | Fungicide (copper), remove infected plants, good airflow |
+| Late blight | Phytophthora infestans | Fungicide (copper), remove infected plants, good airflow |
 
 ## Related Concepts
 
 - [[tomato-growing-guide]] — related nightshade, shared disease management
 - [[companion-planting-reference]] — beans, cabbage, horseradish as potato companions
+- [[soil-amendment-reference]] — phosphorus for tuber development
+- [[mulching-guide]] — straw mulching as an alternative to soil hilling

@@ -53,9 +53,9 @@ A wood-fired hot tub consists of four main components:
 ## Heater Systems
 
 ### External Wood-Fired Stove (Recommended)
-A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via [[thermosiphon]] (natural convection) or a small pump.
+A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via thermosiphon (natural convection) or a small pump.
 
-- **How it works**: The stove heats the coil, which heats the water. Hot water rises out [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] coil back into the tub; cool water flows from the tub into the coil. No pump required if the system is properly designed with adequate rise (12-18 inches minimum between stove output and tub inlet).
+- **How it works**: The stove heats the coil, which heats the water. Hot water rises out of the coil back into the tub; cool water flows from the tub into the coil. No pump required if the system is properly designed with adequate rise (12-18 inches minimum between stove output and tub inlet).
 - **Heating time**: 2-4 hours from 50F to 104F for a 250-gallon tub with a well-designed system
 - **Fuel**: small-diameter dry hardwood (similar to [[rocket-stove-design]] fuel). A wheelbarrow load of wood per heating session.
 - **Cost**: $500-$2,000 for a complete system
@@ -73,7 +73,7 @@ Build from a steel barrel (30 or 55 gallon) with welded plumbing fittings:
 2. Weld or thread fittings for water input (bottom) and output (top)
 3. Install a stainless steel coil inside the barrel (or weld a water jacket around the firebox)
 4. Connect with CPVC or copper pipe to the tub
-5. Ensure proper clearances [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] non-combustible base
+5. Ensure proper clearances and a non-combustible base
 
 This requires welding skills but costs as little as $100-200 in materials.
 
@@ -83,9 +83,9 @@ Wood-fired tubs typically do not use conventional pool chemicals (chlorine is un
 
 ### Non-Chemical Methods
 - **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management|water]] systems.
-- **[[enzyme]] treatment** — commercial enzyme products (like Spa Marvel) break down body oils [[hamilton-composting-and-organic-matter-management]]. Add weekly. Extends water life to 2-4 weeks.
-- **Hydrogen peroxide** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water [[aact-brewing-techniques-and-oxygen-management]].
-- **[[cervantes-ozone-generators-negative-ion-odor]]** — small 12V ozone units reduce contaminants. Effective but require electricity.
+- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) break down body oils and organic matter. Add weekly. Extends water life to 2-4 weeks.
+- **Hydrogen peroxide** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
+- **Ozone generators** — small 12V ozone units reduce contaminants. Effective but require electricity.
 
 ### Filtration
 - A simple cartridge filter run periodically keeps water clearer
@@ -117,7 +117,7 @@ A full tub weighs 2,000-4,000+ pounds. The foundation must support this weight.
 
 - **Temperature**: Never exceed 104F (40C). Prolonged exposure above this causes heat stroke and can be fatal. Use a floating thermometer. Soaking time should not exceed 15-20 minutes at maximum temperature.
 - **Children**: Never allow unsupervised access. Children under 5 should not use hot tubs. Cover with a rigid, locking cover when not in use.
-- **Alcohol**: Do not combine hot tubbing with alcohol — it impairs judgment [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] body's ability to regulate temperature.
+- **Alcohol**: Do not combine hot tubbing with alcohol — it impairs judgment and the body's ability to regulate temperature.
 - **Pregnancy**: Avoid temperatures above 100F during pregnancy, especially in the first trimester.
 - **Burn risk**: External heater surfaces reach extreme temperatures. Install a guard or barrier. Keep children away from the stove.
 - **Wood smoke**: Position the heater chimney so smoke does not enter nearby windows or buildings.
@@ -141,3 +141,10 @@ A cover is essential — it retains heat between uses (reducing heating time and
 - Once at temperature, maintain with a small fire or let it cool naturally — the tub holds heat for several hours
 
 A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
+## See Also
+
+- [[wood-decay-fungi]]
+- [[fungal-succession-wood]]
+- [[preserving-wood-timber-framing]]
+- [[wood-rot-fungi-white-rot-brown-rot-and-decay-mechanisms]]
+- [[mycorrhizal-networks-and-the-wood-wide-web]]

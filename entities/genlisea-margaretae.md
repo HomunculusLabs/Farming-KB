@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barthlott, W., Porembski, S., Fischer, E. & Gemmel, B. (1998). "First protozoa trap for plants: the pitcher plant Nepenthes." Nature, 392, 134–135.
-  - Fleischmann, A. (2012). "Carnivorous plants of Brazil." Proceedings of the 4th International Carnivorous Plant Society Conference.
   - Taylor, P. (1989). "The genus Genlisea." Kew Bulletin, 44(3), 489–523.
 ---
 

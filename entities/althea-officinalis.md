@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Barnes, J. et al. (2007). "Herbal Medicines." Pharmaceutical Press, 3rd ed.
-  - Blumenthal, M. et al. (2000). "Herbal Medicine: Expanded Commission E Monographs." Integrative Medicine Communications.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers, 4th ed.
-  - European Medicines Agency (2012). "Assessment report on Althaea officinalis." EMA/HMPC/244774/2009.
-  - Bradley, P.R. (1992). "British Herbal Compendium." British Herbal Medicine Association.
 created: 2026-05-07
 ---
 

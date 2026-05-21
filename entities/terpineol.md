@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Breitmaier E (2006). "Terpenes: Flavors, Fragrances, Pharmaca, Pheromones." Wiley-VCH.
-  - De Cássia da Silveira e Sá R et al. (2014). "A Review on Anti-Inflammatory Activity of Monoterpenes." Molecules 19(1): 131-171.
   - Schwob I et al. (2002). "Antimicrobial and Antioxidant Activities of Terpineol." Journal of Essential Oil Research 14(4): 276-279.
 ---
 
@@ -79,3 +77,5 @@ The food and beverage industry uses terpineol as a flavoring agent in citrus, be
 In aromatherapy, terpineol is valued for its reported calming and sedative effects. Diffused terpineol-containing oils are used to promote relaxation and improve sleep quality.
 
 Pharmaceutical applications include use as a penetration enhancer in topical formulations. It also serves as an intermediate in the synthesis of other terpenoid compounds and pharmaceuticals.
+Further research into terpineol continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind terpineol provides a foundation for both practical application and continued scientific inquiry.

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - El-Shazly, A. (2002). "Chemistry and biological activities of the secondary metabolites of Heliotropium species." Pharmazie, 57(1), 1-10.
-  - Molyneux, R.J. et al. (2011). "Pyrrolizidine alkaloids in honey: A risk to health." Food Addit. Contam., 28(2), 162-170.
-  - USDA PLANTS Database. "Heliotropium europaeum L." https://plants.usda.gov
   - Fu, P.P. et al. (2004). "Pyrrolizidine alkaloids — genotoxicity, metabolism, and chemical structure–activity relationships." Drug Metab. Rev., 36(1), 1-55.
 ---
 

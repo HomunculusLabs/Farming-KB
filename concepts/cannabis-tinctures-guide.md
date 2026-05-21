@@ -27,7 +27,7 @@ When swallowed or added to food, tinctures are processed through the digestive s
 
 ### Alcohol Tinctures (Green Dragon)
 
-Alcohol is the most efficient solvent for cannabis tinctures, extracting a full spectrum of cannabinoids and [[terpenes]]. High-proof [[ethanol]] (190-proof or Everclear) is ideal.
+Alcohol is the most efficient solvent for cannabis tinctures, extracting a full spectrum of cannabinoids and terpenes. High-proof ethanol (190-proof or Everclear) is ideal.
 
 **Cold Method (Long Extraction)**:
 1. Decarboxylate 1 ounce (28g) cannabis at 240 F for 35 minutes
@@ -106,7 +106,7 @@ To estimate tincture potency, you need to know the starting cannabis percentage:
 
 **Example**:
 - 28g (1 oz) cannabis at 20% THC = 5,600 mg total THC
-- [[decarboxylation]] converts ~85-90% of THCA to THC: ~4,760-5,040 mg THC
+- Decarboxylation converts ~85-90% of THCA to THC: ~4,760-5,040 mg THC
 - Extraction efficiency: 70-80% for alcohol, 50-60% for glycerin
 - Assuming 75% extraction efficiency: ~3,570 mg THC extracted
 - Dissolved in 475 ml (16 oz) of alcohol
@@ -141,9 +141,15 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
-## See Also
-- [[cannabis-metabolic-syndrome-research]]
-- [[cannabis-reefers-and-tincture-preparation]]
 ## Storage
 
 - Store all tinctures in dark glass bottles (amber or cobalt)
+- Keep in a cool, dark place
+- Alcohol tinctures: shelf stable at room temperature for 1-2 years
+- Glycerin tinctures: 6-12 months at room temperature
+- MCT oil tinctures: 3-6 months; do not refrigerate
+## See Also
+
+- [[cervantes-cannabis-tinctures]]
+- [[blesching-cannabis-tinctures-infused-oils-topical-preparations]]
+- [[query-how-to-make-cannabis-tinctures-at-home]]

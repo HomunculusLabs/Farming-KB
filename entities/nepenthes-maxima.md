@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Murphy, D.J. (2017). "Carnivorous Plants of the World." Timber Press.
-  - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique.
   - McPherson, S.R. (2009). "Pitcher Plants of the oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian radiation.
 ---
 

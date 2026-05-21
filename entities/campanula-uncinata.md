@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Damboldt J. (1976). "Campanula." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Contandriopoulos J. (1984). "Endemisme dans la flore de la Grece." Botanika Chronika.
-  - Royal Botanic Gardens Kew (2024). "Plants of the World Online: Campanula uncinata." powo.science.kew.org
   - Tan K., Iatrou G. (2001). "Endemic Plants of Greece." Gads Publishers.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Xiang, Q.Y. et al. (2006). "Phylogeny of Cornus (Cornaceae) based on matK and ITS sequences." Systematic Botany, 31(2), 318-330.
-  - Cappiello, P. & Shadow, D. (2005). "Dogwoods: The Genus Cornus." Timber Press.
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan Press.
 ---
 

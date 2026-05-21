@@ -5,7 +5,6 @@ tags: [comparison, soil-management, cover-crops, living-mulch, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 

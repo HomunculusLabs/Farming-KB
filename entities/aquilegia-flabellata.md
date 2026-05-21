@@ -12,10 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Nold, R. (2003). Columbines: Aquilegia, Paraquilegia, and Semiaquilegia. Timber Press.
-  - Ohwi, J. (1965). Flora of Japan. Smithsonian Institution, Washington D.C.
-  - Iwatsuki, K. et al. (1993). Flora of Japan, Vol. IIa. Kodansha, Tokyo.
-  - RHS Plant Finder. "Aquilegia flabellata." Royal Horticultural Society.
   - Kew Science POWO. "Aquilegia flabellata Siebold & Zucc." https://powo.science.kew.org
 ---
 

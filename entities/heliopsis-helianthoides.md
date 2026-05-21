@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "LeBlanc, D.C. (1970). \"Cytotaxonomic study of the genus Heliopsis (Compositae).\" Rhodora, 72, 397-418."
-  - "Wells, T.C. & Bohm, B.A. (1994). \"Flavonoids of Heliopsis (Asteraceae).\" Biochemical Systematics and Ecology, 22(6), 577-584."
-  - "Moldenke, A.L. (1976). \"California pollination ecology and vegetation types.\" Phytologia, 34(4), 305-361."
   - "Pringle, J.S. (1973). \"The taxonomy of Heliopsis (Compositae-Heliantheae).\" Rhodora, 75, 145-175."
 ---
 

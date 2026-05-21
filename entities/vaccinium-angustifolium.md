@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smolinski, B. & Luby, J.J. (2011). "biodiversity-fungal-genetic-diversity and relationships among wild and cultivated Vaccinium angustifolium populations." Journal of the American Society for Horticultural Science, 136(5), 376-382.
-  - Kalt, W., Ryan, D.A.J., Duy, J.C. et al. (2001). "Interspecific variation in anthocyanins, phenolics, and antioxidant capacity among genotypic lines of lowbush blueberry." Journal of Agricultural and Food Chemistry, 49(10), 4761-4767.
-  - Yarborough, D.E. (2009). "Wild Blueberry Culture in Maine." University of Maine Cooperative Extension Bulletin 2253.
-  - Percival, D. & Sanderson, K. (2004). "Maine Wild Blueberry Research and Extension." University of Maine Fact Sheet.
   - USDA NRCS (2024). "Vaccinium angustifolium Plant Guide." Natural Resources Conservation Service.
 ---
 

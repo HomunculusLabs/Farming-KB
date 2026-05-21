@@ -13,7 +13,7 @@ The Matsutake is arguably the most valuable mushroom in the world by weight, wit
 
 ## Overview
 
-Matsutake ([[tricholoma-matsutake]], "pine mushroom") is an ectomycorrhizal mushroom that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to North America to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
+Matsutake (Tricholoma matsutake, "pine mushroom") is an ectomycorrhizal mushroom that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to North America to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
 
 ## Species Profile
 
@@ -25,8 +25,8 @@ Matsutake ([[tricholoma-matsutake]], "pine mushroom") is an ectomycorrhizal mush
 - Stem: thick, solid, white with a prominent skirt-like ring
 - Flesh: white, firm, dense
 - Odor: unmistakable — spicy, cinnamon-pine, described as "a cross between dirty socks and the Redwood forest" by Western foragers; revered in Japan as complex and intoxicating
-- [[spore-print]]: white
-- Mycorrhizal partner: primarily Japanese red pine ([[pinus-densiflora]]), also other Pinus species
+- Spore print: white
+- Mycorrhizal partner: primarily Japanese red pine (Pinus densiflora), also other Pinus species
 
 ## Ecology and Mycorrhizal Biology
 
@@ -65,9 +65,9 @@ Matsutake requires a living host tree to complete its life cycle. Unlike saprotr
 The shiro ecosystem involves interactions with:
 
 - Specific soil chemistry (pH, mineral composition)
-- Competing [[mycorrhizal-fungi]]
+- Competing mycorrhizal fungi
 - Specific bacterial communities
-- Soil [[microarthropods]]
+- Soil microarthropods
 - Root exudate chemistry of host trees
 
 Reproducing these conditions artificially has proven intractable.
@@ -148,3 +148,6 @@ Look for matsutake in:
 
 - Tricholoma pardinum (Trivial Angel): poisonous, causes severe GI distress; cap is more silvery-gray with concentric scales
 - Amanita species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)
+## See Also
+
+- [[tricholoma-matsutake]]

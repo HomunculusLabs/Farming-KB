@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Preissel, U. & Preissel, H.G. (2002). "Brugmansia and Datura: Angels' Trumpets and Thorn Apples." Timber Press.
-  - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." Charles C. Thomas.
-  - Lockwood, T.E. (1973). "Generic recognition of Brugmansia." Botanical Museum Leaflets, 23(3), 45-55.
-  - Buckingham, J. (2003). "Brugmansia: The Grower's Guide." Timber Press.
   - Hajos, Z. & Buchloh, G. (1962). "Die Gattung Datura L." Feddes Repertorium, 67, 53-92.
 ---
 

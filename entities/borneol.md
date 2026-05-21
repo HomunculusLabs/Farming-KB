@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Breitmaier E (2006). "Terpenes: Flavors, Fragrances, Pharmaca, Pheromones." Wiley-VCH.
-  - Chen N et al. (2015). "Borneol: A Potentiator for CNS Drugs." Journal of Drug Targeting 23(7): 594-603.
   - Graindorge P et al. (2002). "Borneol: Chemistry, Biochemistry, and Pharmacology." Phytochemistry Reviews 1(3): 261-274.
 ---
 

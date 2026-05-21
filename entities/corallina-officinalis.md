@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Irvine, L.M. & Chamberlain, Y.M. (1994). "Seaweeds of the British Isles, Vol. 1. Rhodophyta, Part 2B." HMSO.
-  - Johansen, H.W. (1981). "Coralline Algae: A First Synthesis." CRC Press.
   - Adey, W.H. & McKibbin, D.L. (1970). "Studies on the Maerl Species Phymatolithon calcareum and Lithothamnion corallioides." Journal of Ecology, 58(1), 265-277.
 ---
 

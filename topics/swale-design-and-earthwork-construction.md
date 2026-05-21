@@ -6,8 +6,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
   - "raw/papers/holzer-desert-or-paradise.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 related_concepts:

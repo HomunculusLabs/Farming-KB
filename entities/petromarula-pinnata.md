@@ -9,12 +9,9 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Turland NJ, Chilton L, Press JR (1993). "Flora of the Cretan Area:
     Annotated Checklist and Atlas." HMSO, London.
-  - Eddie WMM et al. (2003). "Phylogeny of Campanulaceae s.str. inferred from
     ITS sequences of nuclear ribosomal DNA." Molecular Phylogenetics and
     Evolution 27(2): 190-207.
-  - Strid A, Tan K (1991). "Mountain Flora of Greece Vol. 2." Edinburgh
     University Press.
 ---
 

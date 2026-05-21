@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry, M.D. & Guiry, G.M. (2026). "Dictyota dichotoma (Huds.) J.V.Lamour." AlgaeBase.
-  - de Paula, J.C. et al. (2011). "Antifouling potential of diterpenes from the Brazilian brown alga Dictyota dichotoma." Botanica Marina, 54(4), 347–353.
-  - Barbosa, J.P. et al. (2004). "Diterpenes from the marine brown alga Dictyota dichotoma." Journal of Natural Products, 67(3), 453–455.
   - Coll, J.C. et al. (1982). "Natural products chemistry of some marine organisms from the Great Barrier Reef, Australia." Tetrahedron, 38(12), 1745–1752.
 ---
 

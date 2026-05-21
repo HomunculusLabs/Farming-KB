@@ -45,7 +45,7 @@ Mushrooms within a single flush do not all mature simultaneously. However, it is
 
 ### Twist and Pull (Recommended)
 
-The standard harvesting method for [[monotub-cultivation]]:
+The standard harvesting method for monotub cultivation:
 
 1. Grasp the mushroom at the base of the stem, as close to the substrate as possible.
 2. Gently twist the mushroom while pulling upward.
@@ -79,7 +79,7 @@ Aborts are small mushrooms that have stopped growing and begun to die. They are 
 - Caps may darken or develop a bluish tint.
 - Stems may appear shriveled or thin compared to healthy mushrooms.
 
-**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because [[psilocybin]]/[[psilocin]] concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
+**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because psilocybin/psilocin concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
 
 ## Drying
 
@@ -108,7 +108,7 @@ A food dehydrator is the fastest and most reliable drying method:
 
 For cultivators without a dehydrator:
 
-1. Place mushrooms on a wire rack over a bed of [[desiccant]] (silica gel, DampRid, or indicating silica gel).
+1. Place mushrooms on a wire rack over a bed of desiccant (silica gel, DampRid, or indicating silica gel).
 2. Seal in an airtight container (Tupperware, gallon jar).
 3. Replace desiccant when it changes color (for indicating gel) or becomes saturated.
 4. This method takes 3-7 days and may not achieve cracker-dry consistency in humid environments.
@@ -123,8 +123,6 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 3. After 24-48 hours, the mushrooms will have lost 60-80% of their water content and will feel leathery but not cracker dry.
 4. Transfer to a dehydrator or desiccant chamber for final drying.
 
-## See Also
-- [[mushroom-toxins-and-poisoning]]
 ## Storage
 
 ### Short-Term Storage (Weeks to Months)
@@ -147,3 +145,10 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 - **Light**: UV light accelerates degradation. Store in opaque containers or dark locations.
 - **Heat**: Elevated temperatures accelerate chemical degradation. Store below 70F (21C).
 - **Moisture**: Residual moisture promotes enzymatic degradation. Ensure cracker-dry before storage.
+
+### Expected Shelf Life
+## See Also
+
+- [[water-harvesting-and-conservation-in-permaculture]]
+- [[mushroom-potency-harvesting-drying]]
+- [[faires-permaculture-water-harvesting]]

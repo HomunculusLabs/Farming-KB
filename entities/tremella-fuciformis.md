@@ -11,13 +11,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Liu, X. et al. (2016). "Tremella fuciformis: a review of its pharmacological
     activities." Journal of Ethnopharmacology.
-  - Wang, Y. et al. (2019). "Polysaccharides from Tremella fuciformis: structure
     and bioactivity." Carbohydrate Polymers.
-  - Wasser, S.P. (2014). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive in human health." Journal of
     Pharmacy and Pharmacology.
-  - Kuo, Y.C. et al. (2020). "Immunomodulatory properties of Tremella
     fuciformis polysaccharides." International Journal of Biological Macromolecules.
 ---
 

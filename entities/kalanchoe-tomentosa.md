@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Descoings, B. (2003). "Kalanchoe (Crassulaceae) de Madagascar." Flora of Madagascar, 134: 1-162.
-  - Smith, G.F. et al. (2019). "Kalanchoe of Madagascar." Kew Publishing, Royal Botanic Gardens.
-  - Royal Horticultural Society. Kalanchoe tomentosa RHS Plant Finder record.
   - Eggli, U. & Newton, L.E. (2004). Etymological Dictionary of Succulent Plant Names. Springer.
 ---
 

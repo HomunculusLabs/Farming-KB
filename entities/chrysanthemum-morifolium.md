@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li S, Lin Y, Zhong Z, et al. (2020). "A review of the phytochemistry and pharmacological activities of Chrysanthemum morifolium." Journal of Pharmacy and Pharmacology, 72(12), 1721–1736.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Lin LZ, Harnly JM (2010). "Identification of the phenolic components of chrysanthemum flower (Chrysanthemum morifolium Ramat)." Journal of Agricultural and Food Chemistry, 58(19), 10807–10817.
   - Zhao D, Huang Y, Wang Y, et al. (2019). "Chrysanthemum morifolium: An ethnopharmacological review." Phytotherapy Research, 33(10), 2525–2545.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Liu, S.W. (1990). "Gentianaceae." In: Flora Reipublicae Popularis Sinicae, Vol. 62. Science Press, Beijing.
-  - Pringle, J.S. (1978). "Gentiana." In: Flora of Bhutan, Vol. 2. Royal Botanic Garden Edinburgh.
-  - Kelly, D.L. (2012). "Gentiana of the Himalaya." Edinburgh Journal of Botany, 69(3): 401–425.
   - Niu, Y.T. et al. (2020). "Ethnobotanical survey of Gentiana species in Tibetan medicine." Journal of Ethnopharmacology, 258: 112914.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gillis, W.T. (1971). "The systematics and ecology of poison-ivy and the poison-oaks (Toxicodendron, Anacardiaceae)." Rhodora, 73(893), 72-159.
-  - Miller, A. et al. (2012). "Toxicodendron vernix (poison sumac) dermatitis: a report of two cases and review of the literature." Journal of Dermatology, 39(10), 876-879.
-  - USDA NRCS. "Toxicodendron vernix (L.) Kuntze." PLANTS Database.
   - Sauer, J.D. (1955). "Toxicodendron vernix in the eastern polypore-fungi-eastern-north-america. It inhabits acidic wetlands, bogs, swamps, and peatlands across the eastern United States and southeastern Canada.
 ---
 

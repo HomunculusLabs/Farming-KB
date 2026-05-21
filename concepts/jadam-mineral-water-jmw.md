@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Mineral Water (JMW) — Rock and Leaf Mold Extraction
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 
 # JADAM Mineral Water (JMW)
 
-JMW is made by immersing leaf mold in water with rocks. It slowly extracts minerals and microbial diversity from both the rock and the decomposed leaf matter. Used as a nutrient source [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] drench in the [[jadam-methods]] system. Part of the foundational trio alongside [[jadam-microorganism-solution-jms]] and sea water/phyllite solution.
+JMW is made by immersing leaf mold in water with rocks. It slowly extracts minerals and microbial diversity from both the rock and the decomposed leaf matter. Used as a nutrient source and soil drench in the [[jadam-methods]] system. Part of the foundational trio alongside [[jadam-microorganism-solution-jms]] and sea water/phyllite solution.
 
 ## Why Mineral Water?
 
@@ -103,6 +104,6 @@ This combination provides both organic (microbe-processed) and inorganic (direct
 ## See Also
 
 - [[jadam-microorganism-solution-jms]] — the microbial component always applied with JMW
-- [[jadam-methods]] — full JADAM soil management and nutrition [[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]]
+- [[jadam-methods]] — full JADAM soil management and nutrition philosophy
 - [[soil-food-web-nutrient-cycling]] — the biology these mineral inputs support
 - [[dynamic-accumulators]] — plants that mine minerals as living alternative

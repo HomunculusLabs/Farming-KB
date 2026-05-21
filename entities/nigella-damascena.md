@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grey-Wilson, C. (1983). "The Genus Nigella." The Alpine Garden Society.
-  - Tozer, B. (2007). "The Complete Book of Vegetables, Herbs and Fruit." Kyle Cathie Ltd.
-  - Uphof, J.C.T. (1968). "Dictionary of Economic Plants." Cramer Verlag.
-  - RHS. "Nigella damascena." Royal Horticultural Society. https://www.rhs.org.uk/plants/10884/nigella-damascena/details
   - Bremness, L. (2001). "Herbs." DK Publishing.
 ---
 

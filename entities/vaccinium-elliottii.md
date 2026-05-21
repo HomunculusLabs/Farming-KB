@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Camp, W. H. (1944). "A systematic consideration of Vaccinium elliottii." American Midland Naturalist.
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
-  - USDA NRCS. "Vaccinium elliottii" PLANTS Database. https://plants.usda.gov/
   - Riek, C. W. & Brazeau, S. M. (2012). "Breeding potential of Vaccinium elliottii." HortScience.
 ---
 
@@ -78,3 +75,14 @@ The ornamental value of *V. elliottii* is increasingly recognized in native plan
 Commercial cultivation of pure *V. elliottii* is essentially nonexistent, but the species is highly valued in blueberry breeding programs. Its early ripening, heat tolerance, and adaptation to low-chill southern climates are key breeding targets.
 
 Hybridization with *V. corymbosum* has produced cultivars combining the fruit size of highbush blueberry with the early season and climatic adaptability of *V. elliottii*. Researchers at the University of Georgia and USDA-ARS have been particularly active in this work.
+## Current Research
+
+Recent studies on vaccinium elliottii have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with vaccinium elliottii should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

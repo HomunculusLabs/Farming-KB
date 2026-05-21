@@ -13,10 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - "raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md"
-  - "raw/papers/the-effect-of-light-upon-basidiocarp-initiation-in-psilocybe-cubensis.md"
-  - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
-  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 related_concepts:
   - mushroom-cultivation-fundamentals

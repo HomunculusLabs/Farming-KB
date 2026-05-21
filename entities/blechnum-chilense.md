@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tryon, R.M. & A.F. Tryon (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Rodríguez, R. (1995). "Pteridophyta de Chile." Gayana Botanica, 52(1).
-  - de Groot, G.A. (2012). "Biogeography of Southern Hemisphere Blechnum." Journal of Biogeography, 39(7).
   - World Ferns (2025). "Blechnum chilense." World Ferns Database. https://www.worldferns.com
 ---
 

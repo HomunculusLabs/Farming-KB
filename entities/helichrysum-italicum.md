@@ -16,7 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Appending, G. (2013). The permaculture-designers-manual-essential-oil-plants of Helichrysum italicum. International Journal of Clinical Aromatherapy.
   - Sneader, W. (2005). Drug Discovery: A History. Wiley.
 ---# Helichrysum italicum (Curry Plant, Immortelle)
 

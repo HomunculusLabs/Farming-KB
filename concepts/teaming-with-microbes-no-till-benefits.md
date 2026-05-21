@@ -13,7 +13,7 @@ sources:
 
 The [[teaming-with-microbes-cover-crops-soil-health]]
 
-- [[glomalin-and-soil-carbon]]
+- [[glomalin]]
 - [[teaming-with-nutrients-availability-factors]]
 
 - [[teaming-with-nutrients-fertilizer-sources]]

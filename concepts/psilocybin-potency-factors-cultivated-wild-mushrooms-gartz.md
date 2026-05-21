@@ -10,7 +10,6 @@ tags:
   - pf-tek
   - potency
 sources:
-  - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 

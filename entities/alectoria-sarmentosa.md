@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Goward, T. (1999). "Lichens of British Columbia." Royal BC Museum.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Catalogue." Museo Regionale di Scienze Naturali.
 ---
 

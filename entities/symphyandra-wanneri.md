@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Damboldt J, Phitos D (1978). "Symphyandra." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda M (1970). "Taxonomic and nomenclatural notes on Symphyandra." Preslia 42: 208-215.
   - Stevanovic V et al. (1999). "The red data book of flora of Serbia." Ministry of Environment, Belgrade.
 ---
 

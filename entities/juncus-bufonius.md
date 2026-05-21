@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kirschner, J. & Reznicek, A.A. (2002). "Juncus." In Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23. Oxford University Press.
-  - Brooks, R.E. (2000). "Juncus." In Flora of Alberta, 2nd edition. University of Alberta Press.
-  - Cope, T.A. (1982). "Juncaceae." In Flora of Pakistan, No. 142. University of Karachi.
-  - Raunkiaer, C. (1934). "The Life Forms of Plants and Statistical Plant Geography." Oxford University Press.
   - Willby, N.J., Abernethy, V.J. & Demers, C.L. (2000). "Attributing variance in large-scale patterns of macrophyte diversity in shallow lakes." Freshwater Biology 44(4): 715-731.
 ---
 

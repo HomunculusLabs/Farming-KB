@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, entheogen, mesoamerica, religion]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
+sources: []
 ---
 
 # Psychedelic Mushroom History
@@ -17,7 +17,7 @@ The history of psychedelic mushroom use spans millennia, from indigenous ceremon
 
 ### Mesoamerican Mushroom Cultures
 
-Archaeological evidence suggests that [[psilocybin-mushrooms]] have been used ceremonially in Mesoamerica for at least 3,000 years, possibly much longer. The cultural epicenter of mushroom use was the highlands of central and southern Mexico, particularly among:
+Archaeological evidence suggests that psilocybin mushrooms have been used ceremonially in Mesoamerica for at least 3,000 years, possibly much longer. The cultural epicenter of mushroom use was the highlands of central and southern Mexico, particularly among:
 
 - **Mazatec** people of Oaxaca (the best-documented living tradition)
 - **Nahua** communities in the states of Mexico, Puebla, and Morelos
@@ -40,17 +40,17 @@ The most famous archaeological artifact is the **"Mushroom Stones"** of highland
 
 ### Colonial Suppression
 
-Spanish colonizers in the 16th century actively suppressed indigenous mushroom use. Catholic missionaries, particularly [[bernardino-de-sahagun]], documented the practice but condemned it as diabolical. The Spanish Inquisition targeted mushroom ceremonies, driving the practice underground. Despite nearly 500 years of suppression, several indigenous communities (most notably the Mazatec) maintained unbroken traditions of ceremonial mushroom use into the modern era.
+Spanish colonizers in the 16th century actively suppressed indigenous mushroom use. Catholic missionaries, particularly Bernardino de Sahagun, documented the practice but condemned it as diabolical. The Spanish Inquisition targeted mushroom ceremonies, driving the practice underground. Despite nearly 500 years of suppression, several indigenous communities (most notably the Mazatec) maintained unbroken traditions of ceremonial mushroom use into the modern era.
 
 ## Wasson and the Rediscovery (1952-1957)
 
 ### R. Gordon Wasson
 
-Robert [[gordon-wasson]] (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife [[valentina-pavlovna-wasson]], he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
+Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife Valentina Pavlovna Wasson, he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
 
 ### The 1955 Velada
 
-On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **[[maria-sabina]]** (1888-1985) in [[huautla-de-jimenez]], Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a Mazatec mushroom ceremony.
+On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **Maria Sabina** (1888-1985) in Huautla de Jimenez, Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a Mazatec mushroom ceremony.
 
 ### Life Magazine Article (1957)
 
@@ -62,7 +62,7 @@ Maria Sabina became internationally famous following Wasson's publication, which
 
 ### Identification and Isolation (1957-1958)
 
-Following Wasson's report, [[roger-heim]] (French mycologist) identified the mushrooms and sent specimens to [[albert-hofmann]] at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
+Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
 
 ## The Harvard Psilocybin Project (1960-1962)
 
@@ -133,3 +133,10 @@ Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 - Academic conferences and training programs for psychedelic therapists
 
 See [[psychedelic-mushroom-taxonomy]] for the scientific classification of these fungi and [[psilocybin-clinical-trials]] for current research status.
+## See Also
+
+- [[psychedelic-psychotherapy-history]]
+- [[psychedelic-research-legal-history-united-states]]
+- [[metzner-psychedelic-psychotherapy-clinical-history]]
+- [[psychedelic-ancient-history]]
+- [[psychedelic-substances-comparison]]

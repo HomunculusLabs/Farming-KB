@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vanderplank, J. (1996). "Passion Flowers and Passion Fruit." MIT Press, 3rd edition.
   - Cerqueira-Silva, C.B. et al. (2014). "The haze-plum-purple-passion-medical-sativa-strain fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
 ---
 

@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brand Miller J, et al. (1993). "The vitamin C content of Australian fruits." Food Chemistry, 46(4), 329-332.
-  - Konczak I, et al. (2004). "Health benefits of Australian native foods." Food Australia, 56(7), 320-324.
-  - Isbell BF, Humphreys FR. (1983). "Use of Terminalia ferdinandiana as a food source by Aborigines." Australian Aboriginal Studies, 1, 51-57.
-  - Tan Y, et al. (2011). "Antioxidant and cytotoxic activities of Terminalia ferdinandiana." Journal of Agricultural and Food Chemistry, 59(1), 365-372.
-  - http://www.anbg.gov.au/gnp/interns-2005/terminalia-ferdinandiana.html
 created: 2026-04-28
 ---
 

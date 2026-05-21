@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Walls K, et al. (2023). "shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization of 2-fluorodeschloroketamine." Drug soil-testing-and-analysis.
-  - Zawilska JB, et al. (2020). "ArFloxyketamine and other new arylcyclohexylamines: An emerging class of dissociative drugs." Drug and cultural-evolution-and-psychoactive-substances: Global markets, glocal threats and the COVID-19 pandemic." European Monitoring Centre for Drugs and Drug Addiction.
   - Kolecki P, et al. (2023). "Clinical toxicology of novel dissociative substances." Clinical Toxicology.
 ---
 

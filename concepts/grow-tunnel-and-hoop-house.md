@@ -20,11 +20,11 @@ The simplest and cheapest season extension structure:
 - **Height:** 12-24 inches above the crop
 - **Width:** 24-48 inches, covering one or two rows
 - **Frame:** 9-gauge galvanized wire hoops, PVC pipe, or fiberglass rods bent into arches, spaced 3-5 feet apart
-- **Cover:** [[floating-row-cover]] fabric (spun-bonded polypropylene) or clear polyethylene film
-- **Anchoring:** Bury the edges [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] cover [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]], or use sandbags, earth staples, or clips
+- **Cover:** Floating row cover fabric (spun-bonded polypropylene) or clear polyethylene film
+- **Anchoring:** Bury the edges of the cover in soil, or use sandbags, earth staples, or clips
 - **Cost:** Very low — $20-50 for a 50-foot row
 - **Season extension:** 2-4 weeks in spring and fall
-- **[[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]:** Early spring greens, fall lettuce, protecting seedlings from frost, insect exclusion
+- **Best for:** Early spring greens, fall lettuce, protecting seedlings from frost, insect exclusion
 
 ### High Tunnels (Hoop Houses)
 
@@ -63,15 +63,15 @@ A hybrid between low and high tunnels:
 
 ### Assembly
 
-1. **Prepare the bed:** Amend soil [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] or transplant before installing the tunnel
+1. **Prepare the bed:** Amend soil and plant or transplant before installing the tunnel
 2. **Insert hoops:** Push hoop ends 6-8 inches into the soil on both sides of the row, spacing hoops 3-5 feet apart
 3. **Drape the cover:** Pull the cover over the hoops, leaving 12-18 inches of extra material on each side for anchoring
 4. **Anchor the edges:** Bury the excess material in soil, or secure with earth staples every 2-3 feet
-5. **Ventilation:** For [[coleman-row-cover-fabric-management]], ventilation is generally not needed (the fabric breathes). For poly film, lift or roll up the sides on warm days.
+5. **Ventilation:** For row cover fabric, ventilation is generally not needed (the fabric breathes). For poly film, lift or roll up the sides on warm days.
 
 ### Low Tunnel Tips
 
-- **Row cover weights:** 0.5 oz provides light [[mollison-frost-protection-and-thermal-belt-design]] insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
+- **Row cover weights:** 0.5 oz provides light frost protection and insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
 - **Slugs:** The humid environment under low tunnels can increase slug activity — use organic slug controls.
 - **Heat management:** On sunny days, temperatures under poly film low tunnels can exceed 100°F quickly. Ventilate or switch to shade cloth in summer.
 
@@ -115,7 +115,7 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ## Choosing Between Low and High Tunnels
 
-| Feature | Low Tunnel | [[high-tunnel]] |
+| Feature | Low Tunnel | High Tunnel |
 |---------|-----------|-------------|
 | Cost | $20-50 | $500-5,000+ |
 | Season extension | 2-4 weeks | 6-12+ weeks |
@@ -125,13 +125,11 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 | Lifespan | 1-3 seasons | 10-20+ years |
 | Labor to install | Minutes | Days to weeks |
 
-## See Also
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Crops and Planting Schedule
 
 ### Spring (Using High Tunnel)
 
-- **February-March:** Plant cold-hardy greens (spinach, kale, [[arugula]], lettuce, Asian greens), radishes, turnips, carrots
+- **February-March:** Plant cold-hardy greens (spinach, kale, arugula, lettuce, Asian greens), radishes, turnips, carrots
 - **March-April:** Plant warm-season crops (tomatoes, peppers, cucumbers, squash, beans)
 - **Advantage:** 4-8 weeks ahead of outdoor planting dates
 
@@ -146,3 +144,12 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 - **September-October:** Plant cool-season greens for winter harvest
 - **October-November:** Add a second layer of row cover inside the tunnel for double protection
 - **Advantage:** Extend harvest 4-8 weeks past first frost
+
+### Winter
+
+- In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, claytonia) with row cover inside the tunnel
+## See Also
+
+- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]
+- [[growing-gourmet-shade-house-hoop-house-structures]]
+- [[fire-resistant-house-design-and-siting]]

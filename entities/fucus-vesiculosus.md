@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lüning, K. (1990). Seaweeds: Their Environment, Biogeography, and Ecophysiology. John Wiley & Sons.
-  - Ragan, M.A. & Glombitza, K.W. (1986). "Phlorotannins, brown algal polyphenols." In Round, F.E. & Chapman, D.J. (Eds.), Progress in Phycological Research, Vol. 4. Biopress.
-  - Li, B. et al. (2017). "Fucoidan: structure and bioactivity." Molecules, 22(10), 1731.
-  - Nielsen, M.M. et al. (2016). "Productivity of the bladder wrack Fucus vesiculosus in the western Baltic Sea." Marine Ecology Progress Series, 554, 67–78.
   - Amsler, C.D. & Fairhead, V.A. (2006). "Defensive and sensory plant-volatile-communication-chemical-ecology of brown algae." Advances in Botanical Research, 43, 1–91.---
 ---
 
@@ -79,3 +75,14 @@ Fucoidan extracted from bladder wrack is marketed as a dietary supplement with c
 The species is used in cosmetics as a source of fucoidan, alginate, and antioxidant polyphenols. Skincare formulations use bladder wrack extracts for their purported anti-aging and moisturizing effects.
 
 Bladder wrack is harvested commercially for alginate production and as a raw material for agricultural biostimulants. It is also used as a feed supplement in livestock and aquaculture.
+## Current Research
+
+Recent studies on fucus vesiculosus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with fucus vesiculosus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

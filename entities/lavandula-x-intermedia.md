@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
-  - Lis-Balchin, M. (2002). "Lavender: The Genus Lavandula." Taylor & Francis.
   - Charles, D.J. & Simon, J.E. (1990). "Comparison of Oil Content and Composition of Lavandin Cultivars." Journal of lavandula-angustifolia (English lavender) and Lavandula latifolia (spike lavender). The hybrid occurs naturally where the parent species overlap in range and has been extensively cultivated for essential oil production.
 ---
 

@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Noordeloos, M.E. (1992). Entoloma s.l. Fungi Europaei, Vol. 5. Saronno, Italy.
-  - Grande, F., et al. (2014). "Entoloma sinuatum poisoning: a case series and review." Clinical Toxicology, 52(2), 139–143.
-  - Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman and Company.
-  - Court, W.A., Kavanagh, F. (1976). "The toxicity of Entoloma sinuatum." Mycologia, 68(5), 1014–1020.
   - Watling, R., Turnbull, E. (1998). "The occurrence of Entoloma sinuatum in Scotland." Mycologist, 12(2), 68–70.
 ---
 

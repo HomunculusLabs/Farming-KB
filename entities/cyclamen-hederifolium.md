@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grey-Wilson, C. (1988). "The Genus Cyclamen." Timber Press.
-  - Mathew, B. (2013). "Cyclamen: A Guide for Gardeners, Horticulturists and Botanists." Royal Botanic Gardens, Kew.
-  - Debussche, M. et al. (2004). "Mediterranean Landscape Ecology." Oxford University Press.
-  - International Bulb Society (various authors). "Cyclamen hederifolium." Pacific Bulb Society.
   - Arènes, J. (1955). "Les Cyclamens du bassin méditerranéen." Naturalia Monspeliensia.
 ---
 

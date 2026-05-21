@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gross, R. et al. (1988). "Lupinus mutabilis — a high-protein crop for the highlands of tropical America." In: Recent Advances of Research in Antinutritional Factors in Legume Seeds, pp. 307–321.
-  - Jacobsen, S.-E. & Mujica, A. (2006). "The genetic resources of Andean grain lupins." In: Lupins for Health and Wealth, pp. 1–9.
-  - National Research Council (1989). Lost Crops of the Incas. National Academies Press, Washington.
   - Caligari, P.D.S. et al. (2000). "Tarwi (Lupinus mutabilis)." In: Smartt, J. & Simmonds, N.W. (eds.), Evolution of Crop Plants, 2nd ed.
 ---
 

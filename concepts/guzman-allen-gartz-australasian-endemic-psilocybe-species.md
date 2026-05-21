@@ -13,8 +13,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi"
   - "Allen, Merlin & Jansen (1991)"
   - "Johnston & Buchanan (1995)"
   - "Margot & Watling (1981)"

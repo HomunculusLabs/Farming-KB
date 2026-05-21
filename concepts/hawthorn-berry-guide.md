@@ -15,7 +15,7 @@ Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
 widely distributed across North America, Europe, and Asia. Revered as a
 heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
-are among the most important [[cardiovascular-herbs]] in modern herbal practice.
+are among the most important cardiovascular herbs in modern herbal practice.
 The berries are also used in preserves, wines, and vinegars.
 
 ## Botanical Profile
@@ -29,7 +29,7 @@ The berries are also used in preserves, wines, and vinegars.
 - Fruit: Red to dark red berries (haws), September to October
 
 Common species for cultivation:
-- [[crataegus-monogyna]] (European hawthorn, one-seed hawthorn): Traditional
+- Crataegus monogyna (European hawthorn, one-seed hawthorn): Traditional
   medicinal species, widely naturalized in North America
 - C. oxyacantha (English hawthorn): Closely related to C. monogyna, similar
   medicinal properties
@@ -43,7 +43,7 @@ Common species for cultivation:
 ## Medicinal Uses
 
 Hawthorn is the preeminent cardiovascular tonic in Western herbalism. Active
-compounds include oligomeric procyanidins (OPCs), flavonoids ([[quercetin]],
+compounds include oligomeric procyanidins (OPCs), flavonoids (quercetin,
 rutin, vitexin), and triterpenoid acids.
 
 Key medicinal applications:
@@ -101,7 +101,7 @@ and suitable for hedgerows and windbreaks.
 ### Care and Maintenance
 - Water regularly during the first year; minimal irrigation needed after
   establishment
-- Minimal fertilizer requirements; a spring application of [[compost]] is sufficient
+- Minimal fertilizer requirements; a spring application of compost is sufficient
 - Mulch annually to retain moisture and suppress weeds
 - Hawthorns are generally disease-resistant when healthy and well-sited
 
@@ -147,3 +147,7 @@ Hawthorn vinegar:
 - Cover with apple cider vinegar
 - Steep 4-6 weeks in a cool, dark place
 - Strain and bottle; use as a daily tonic (1 tablespoon in water)
+## See Also
+
+- [[comparison-hawthorn-vs-valerian]]
+- [[comparison-hawthorn-vs-tulsi]]

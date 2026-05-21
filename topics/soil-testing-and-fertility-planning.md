@@ -5,7 +5,6 @@ tags: [soil-testing, soil-fertility, minerals, organic-matter, compost, regenera
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - concepts/soil-testing.md
   - concepts/soil-testing-and-analysis.md
   - concepts/soil-testing-and-interpretation.md
@@ -17,9 +16,6 @@ sources:
   - concepts/lowenfels-soil-minerals-nutrients.md
   - concepts/solomon-soil-mineral-depletion.md
   - concepts/jadam-soil-mineral-replenishment.md
-  - concepts/holmgren-mineral-balance-soil-fertility.md
-  - concepts/coleman-compost-and-organic-fertility-management.md
-  - concepts/mollison-designers-tropical-soils-and-cation-exchange-management.md
   - concepts/jeavons-soil-fertility.md
   - concepts/fukuoka-natural-soil-fertility.md
 related_concepts:

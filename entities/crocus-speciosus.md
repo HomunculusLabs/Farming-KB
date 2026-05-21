@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1982). "The Crocus: A Revision of the Genus Crocus." B.T. Batsford, London.
-  - Brickell, C. (1999). "Crocuses: A Gardener's Guide to the Genus." Timber Press.
   - Kerndorff, H. & Pasche, E. (1994). "Crocus speciosus and its allies." The Plantsman, 15(4).
 ---
 

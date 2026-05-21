@@ -10,10 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3, Part 2: Leguminosae." University of North Carolina Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
   - USDA NRCS. "The PLANTS Database." plants.usda.gov.
-  - Weakley, A.S. (2015). "Flora of the Southern and Mid-Atlantic States."
   - Kindscher, K. (1987). "Edible Wild Plants of the Prairie." University Press of Kansas.
 ---
 

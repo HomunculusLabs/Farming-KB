@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pringle, J.S. (1967). "Taxonomy of Gentiana, Section Pneumonanthe." Rhodora 69: 1–78.
-  - Hultén, E. (1968). Flora of Alaska and Neighboring Territories. Stanford University Press.
   - USDA NRCS Plants Database. "Gentiana linearis." https://plants.usda.gov
 ---
 

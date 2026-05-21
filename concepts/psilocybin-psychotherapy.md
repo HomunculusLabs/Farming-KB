@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Psychotherapy
 created: 2026-04-12
 updated: 2026-04-12
@@ -35,9 +36,9 @@ The "psycholytic" (mind-loosening) approach was developed primarily in Europe:
 
 - **Method:** Low to moderate doses (1-3 tablets of synthetic psilocybin) administered in a series of sessions over weeks or months, accompanied by psychotherapy
 - **Pioneers:** H. Leuner (Germany), S. Kurland (USA, Maryland Psychiatric Research Center), R. Sandison (UK)
-- **Target conditions:** Neuroses, personality disorders, PTSD, [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]], depression, anxiety disorders, obsessive-compulsive disorder
+- **Target conditions:** Neuroses, personality disorders, PTSD, alcoholism, depression, anxiety disorders, obsessive-compulsive disorder
 - **Approach:** The psychedelic experience was viewed as a tool to access unconscious material and facilitate psychotherapeutic processing. Sessions were followed by extensive discussion and integration work.
-- **Results:** Many [[hofmann-lsd-clinical-research-early-studies]] reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
+- **Results:** Many studies reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
 
 ### Psychedelic Therapy
 
@@ -140,10 +141,10 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 - Support long-term integration of new perspectives
 
 ## Gartz on the Promise and Perils
-## See Also
 
-- [[psilocybin-mushroom-chemistry]] — Pharmacology and toxicity
-- [[psilocybin-mushroom-chemistry]] — Chemical composition and analysis
-- [[psychedelic-mushroom-history]] — Historical timeline
-- [[jochen-gartz]] — Researcher who documented European psycholytic therapy
-- [[albert-hofmann]] — Discoverer of psilocybin
+Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
+
+- **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
+- **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
+- **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases
+- **Caution with diagnoses:** Schizophrenia-spectrum patients generally did not benefit and could be harmed; careful screening was essential

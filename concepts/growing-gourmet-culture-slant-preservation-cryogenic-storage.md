@@ -9,7 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - paul-stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28

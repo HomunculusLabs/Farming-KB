@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kuo, M. (2024). \"Boletes of psilocybin-north-america-pacific-northwest.\" MushroomExpert.com."
-  - "Watling, R. (1970). \"British Boletes.\" J. Cramer, Lehre."
-  - "Hall, I.R. et al. (1998). \"Edible and palmer-poisonous-mushrooms-deadly-species of the World.\" Timber Press."
-  - "Kumar, T.K.A. & Manimohan, P. (2005). \"Boletes from Kerala State, India.\" Kavaka, 33, 53–76."
-  - "Krieglsteiner, G.J. (2000). \"Die Großpilze Baden-Württembergs." Eugen Ulmer Verlag."created: 2026-05-07
 
 created: 2026-05-07
 ---

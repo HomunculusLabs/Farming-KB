@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Shiitake Cultivation - Log Method
 
-Shiitake ([[lentinula-edodes]]) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
+Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
 ## Selecting Logs
 
@@ -24,7 +24,7 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 
 ### Using Sawdust Spawn
 1. Drill holes 1 inch deep, spaced 6 inches apart in a diamond pattern around the log
-2. Fill each hole with [[sawdust-spawn]]
+2. Fill each hole with sawdust spawn
 3. Seal with melted wax (cheese wax, beeswax, or specialized sealing wax)
 4. Waxing prevents desiccation and protects against contaminants
 
@@ -61,7 +61,7 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - Low startup cost (logs are free or cheap; minimal equipment needed)
 - Low maintenance after inoculation
 - Produces high-quality, thick-capped mushrooms preferred by chefs
-- No [[sterilization]] required (wax sealing prevents contamination)
+- No sterilization required (wax sealing prevents contamination)
 - Logs can be integrated into garden landscapes
 
 ## See Also
@@ -70,11 +70,12 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - [[oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
+## Current Research
 
-## Practical Applications
+Recent studies on shiitake cultivation log method have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Understanding shiitake cultivation log method provides a foundation for further exploration and practical application.
+## Practical Considerations
+
+Practitioners working with shiitake cultivation log method should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

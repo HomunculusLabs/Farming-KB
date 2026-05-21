@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Huo, M. et al. (2017). "Phytochemical Characteristics and Hypoglycemic Activity of Zanthoxylum bungeanum Maxim." Journal of Ethnopharmacology, 199, 3–9.
-  - Yang, X. (2008). "Aroma Constituents and Alkylamides of Red and Green Huajiao (Zanthoxylum bungeanum and Zanthoxylum schinifolium)." Journal of Agricultural and Food Chemistry, 56(5), 1689–1696.
-  - Zhang, M. et al. (2017). "The Genus Zanthoxylum: A Comprehensive Review on Traditional Uses, Phytochemistry, and Pharmacological Activities." American Journal of Chinese Medicine, 45(7), 1363–1405.
   - Chen, Q. et al. (2013). "permaculture-designers-manual-essential-oil-plants Composition of Zanthoxylum bungeanum from China." Chemistry of Natural Compounds, 49(2), 328–331.
 ---
 
@@ -79,3 +76,5 @@ Examining this topic alongside related approaches reveals complementary strategi
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into zanthoxylum bungeanum continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind zanthoxylum bungeanum provides a foundation for both practical application and continued scientific inquiry.

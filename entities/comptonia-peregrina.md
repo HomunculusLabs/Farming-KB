@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - Swanson, R.E. (1994). "A Field Guide to the Trees and Shrubs of the Southern Appalachians." dighton-mycorrhizal-diversity-ecosystem-function." Plant and Soil.
 ---
 

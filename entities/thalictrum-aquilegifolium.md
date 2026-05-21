@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1993). "Thalictrum." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - RHS (2023). "Thalictrum aquilegifolium." Royal Horticultural Society Plant Finder.
   - Boivin, B. (1944). "American Thalictra and Their thalictrum-delavayi and neurotropic-fungi-japan-east-asia-species-cultural-context. These species share similar tall, airy flower panicles and columbine-like foliage.
 ---
 
@@ -79,3 +77,5 @@ Examining this topic alongside related approaches reveals complementary strategi
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 Further research may reveal additional applications and ecological relationships.
+Further research into thalictrum aquilegifolium continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind thalictrum aquilegifolium provides a foundation for both practical application and continued scientific inquiry.

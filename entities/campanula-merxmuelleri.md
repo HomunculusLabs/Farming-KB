@@ -12,9 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Phitos, D. & Damboldt, J. (1972). "Campanula merxmuelleri, a new species from Greece." Botanische Notiser, 125: 312-316.
-  - Strid, A. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
-  - Phitos, D. et al. (1995). The Red Data Book of Rare and Threatened Plants of Greece. WWF Greece, Athens.
   - Plants of the World Online (2024). "Campanula merxmuelleri Phitos." Kew Science. https://powo.science.kew.org
 ---
 

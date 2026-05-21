@@ -36,7 +36,7 @@ Cool season annuals:
 - Brassicas (radish, turnip): Late-season food source. Leaves browsed in fall, roots dug in winter.
 
 Perennials:
-- White and [[red-clover]]: Long-lived, provides years of forage.
+- White and red clover: Long-lived, provides years of forage.
 - Chicory: Deep-rooted, drought-tolerant, high protein.
 - Alfalfa: Excellent forage but requires well-drained soil.
 
@@ -52,7 +52,7 @@ Choose species native to your specific ecoregion. Key categories:
 - Native grasses: Little bluestem, big bluestem, switchgrass, Indian grass. Provide nesting cover, winter cover, and seed.
 - Native shrubs: Elderberry, serviceberry, viburnum, chokecherry, dogwood, hazelnut. Provide berries, cover, and nesting sites.
 - Native trees: Oak (supports 500+ caterpillar species), cherry, willow, birch, maple, pine. Provide food, cover, and nesting.
-- Fruit-bearing plants: American persimmon, [[pawpaw]], mulberry, blackberry, raspberry, wild plum.
+- Fruit-bearing plants: American persimmon, pawpaw, mulberry, blackberry, raspberry, wild plum.
 
 ### Establishing Native Plantings
 
@@ -100,7 +100,7 @@ Water is the most limiting resource for wildlife. Even a small water feature dra
 - Depth: Minimum 8-10 feet in the deepest part to prevent winter kill and summer overheating
 - Shelves: Sloped edges with shallow shelves (0-2 feet) for emergent vegetation and amphibian breeding
 - Edges: Leave vegetated buffer (minimum 30 feet) around the pond to filter runoff and provide cover
-- Stocking: Native fish species ([[bluegill]], bass) provide food for herons, otters, and raptors
+- Stocking: Native fish species (bluegill, bass) provide food for herons, otters, and raptors
 - Attract: Waterfowl, amphibians, dragonflies, mammals (deer, raccoons)
 
 ### Smaller Water Features
@@ -148,3 +148,6 @@ Invasive plants degrade habitat by outcompeting natives and providing poor food 
 - Multiflora rose: Forms impenetrable thickets. Mow or treat.
 - Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
 - Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
+## See Also
+
+- [[amphibian-habitat-creation]]

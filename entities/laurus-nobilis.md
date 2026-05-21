@@ -12,10 +12,6 @@ tags:
   - evergreen
   - mediterranean
 sources:
-  - Rivera, D. et al. (2006). " aromatic and Medicinal Plants of the Mediterranean." Birkhäuser.
-  - Ali, S.I. & Jafri, S.M.H. (1976). "Flora of Libya." Al Faateh University.
-  - Barcelo, M.C. et al. (2000). "Laurus nobilis L.: Phytochemistry and Pharmacology." Phytotherapy Research.
-  - Owen, P.L. & Johns, T. (1999). "Antioxidant Activity in the Lauraceae." Journal of Agricultural and Food Chemistry.
   - Ložienė, K. et al. (2007). "Chemical Composition of Laurus nobilis Essential Oil." Chemija.
 ---
 

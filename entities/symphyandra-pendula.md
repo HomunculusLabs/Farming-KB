@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Shetekauri S, Gagnidze R (2004). "Campanula in the Caucasus." Botanical Journal, 89(3): 201–218.
-  - Fedorov A (1978). "Symphyandra." In: Tutin TG et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Contandriopoulos J (1984). "The Genus Symphyandra." Boissiera, 38: 13–28.
-  - Kew Plants of the World Online (2026). "Symphyandra pendula Bompas." https://powo.science.kew.org/
   - Davis PH (1978). "Flora of Turkey and the East Aegean Islands." Vol. 6. Edinburgh University Press.
 ---
 

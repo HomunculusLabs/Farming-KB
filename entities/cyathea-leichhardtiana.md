@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Holttum, R.E. (1963). "Cyatheaceae." Flora Malesiana Series II, 1(2): 65-176.
-  - Bostock, P.D. & Spokes, T.M. (1998). "Cyatheaceae." Flora of Australia, 48: 178-206.
-  - Queensland Herbarium (2024). "Cyathea leichhardtiana." Australia Plant Census. https://biodiversity.org.au/nsl/services/apc
   - White, C.T. (1942). "Contributions to the Queensland Flora." Proceedings of the Royal Society of Queensland, 53: 30-45.
 ---
 

@@ -10,13 +10,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Singer R. "The Agaricales in Modern Taxonomy." 4th ed. Koeltz
     Scientific Books, 1986.
-  - Watling R, Gregory NM. "British Fungus Flora: Agarics and
     Boleti, Vol. 3." Royal Botanic Garden Edinburgh, 1989.
-  - Phillips R. "Mushrooms: A Comprehensive Guide to Mushroom
     Identification." Macmillan, 2006.
-  - Arnolds E. "Ecology and coenology of macrofungi in grasslands
     and moist heathlands." Bibliotheca Mycologica, 1982.
   - Redhead SA, Gulden G. "Tubaria." In: Systema Ascomycetum, 1987.
 ---

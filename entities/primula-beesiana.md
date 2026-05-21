@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Royal Horticultural Society. "Primula beesiana." RHS Plant Finder.
-  - Chen, S. et al. (2016). "Phylogeny of Primula section Proliferae." Botanical Journal of the Linnean Society, 180(4), 617–634.
   - The American Primrose Society. "Growing Candelabra Primroses." primula.org.
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvesting, plant-growth, ethnobotany]
-sources: [raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: []
 ---
 
 # Medicinal Herb Growing
@@ -66,7 +66,7 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 - Seed: many herbs grow readily from seed. Stratify per species requirements. Start indoors 6-8 weeks before last frost.
 - Cuttings: softwood cuttings in spring for mint, rosemary, lavender, thyme. Root in water or damp potting mix with humidity dome.
-- Division: divide perennials in early spring or fall. Chamomile, echinacea, [[yarrow]], valerian, marshmallow all divide well.
+- Division: divide perennials in early spring or fall. Chamomile, echinacea, yarrow, valerian, marshmallow all divide well.
 - Layering: bend a low stem to the ground, pin it, and cover with soil. Roots form at the node in 4-8 weeks.
 
 ## Harvesting and Drying
@@ -91,6 +91,6 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## Related Concepts
 
-- [[greenhouse-growing]] -- many medicinal herbs can be grown year-round in a greenhouse
+- [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens

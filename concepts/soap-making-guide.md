@@ -57,7 +57,7 @@ Superfatting is adding more oil than the lye can convert, leaving free oil in th
 - Silicone spatula
 - Soap molds (silicone, wooden, or repurposed containers)
 - Thermometer (infrared or instant-read)
-- Freezer paper or [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] wrap for lining molds
+- Freezer paper or plastic wrap for lining molds
 
 ## Basic Recipe
 
@@ -92,7 +92,7 @@ This produces a balanced bar with good lather and conditioning. Always verify ly
 
 - Soap seized (hardened instantly): Too much fragrance or certain essential oils (clove, cinnamon). Work quickly and pour at thinner trace.
 - Soda ash (white powdery surface): Caused by sodium carbonate formation. Spray with rubbing alcohol or cover with plastic wrap during curing.
-- [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] soap: Not enough hard oils, insufficient cure time, or too much superfat.
+- Soft soap: Not enough hard oils, insufficient cure time, or too much superfat.
 - Lye heavy soap (burning skin): Insufficient oil or incorrect SAP calculation. Discard or rebatch.
 - DOS (dark orange spots): Rancidity from excess soft oils. Use antioxidants or reformulate.
 

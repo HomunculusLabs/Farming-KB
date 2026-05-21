@@ -9,11 +9,11 @@ sources: []
 
 # Cider Making Guide
 
-Hard cider is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most accessible and rewarding homestead fermentation projects. If you have apple trees, you have the primary ingredient. Hard cider has a long history in rural [[homesteading]] and is experiencing a major renaissance. The process is simpler than [[beer-brewing-basics]] or [[wine-making-from-grapes]] but produces a beverage of equal complexity and character.
+Hard cider is one of the most accessible and rewarding homestead fermentation projects. If you have apple trees, you have the primary ingredient. Hard cider has a long history in rural homesteading and is experiencing a major renaissance. The process is simpler than [[beer-brewing-basics]] or [[wine-making-from-grapes]] but produces a beverage of equal complexity and character.
 
 ## Apple Varieties for Cider
 
-[[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] cider is made from a blend of apple types. Single-variety ciders can be excellent, but blending gives you control over sweetness, acidity, tannin, and flavor.
+The best cider is made from a blend of apple types. Single-variety ciders can be excellent, but blending gives you control over sweetness, acidity, tannin, and flavor.
 
 ### Categories
 
@@ -51,7 +51,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 - Pick your own or harvest from existing trees
 - Scavenge from abandoned orchards (with permission)
 - Buy from local orchards -- many press and sell fresh juice
-- Cider apples are available from specialty nurseries [[making-hills-for-planting]]
+- Cider apples are available from specialty nurseries for planting
 - Avoid supermarket apples -- often treated with post-harvest chemicals that inhibit fermentation
 
 ## Equipment
@@ -88,7 +88,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 
 ### Step 3: Testing the Juice
 - Measure specific gravity with a hydrometer. Target: 1.045-1.065 (SG) for a standard cider (5-8% ABV).
-  - Below 1.045: the cider will be thin and low-alcohol. Add sugar or apple juice concentrate [[query-how-to-raise-quail-in-a-permaculture-system]] SG.
+  - Below 1.045: the cider will be thin and low-alcohol. Add sugar or apple juice concentrate to raise SG.
   - Above 1.065: will produce a strong cider. Dilute with water or accept a higher-ABV product.
 - Measure pH if possible. Target: 3.2-3.8. Below 3.2 is too sour; above 3.8 risks bacterial spoilage.
 - Measure titratable acidity if possible. Target: 0.45-0.75%.
@@ -96,7 +96,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 ### Step 4: Choosing Your Yeast Approach
 
 **Wild Fermentation (Traditional)**
-- Use no added yeast -- rely on wild yeasts naturally present on the apples and [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition
+- Use no added yeast -- rely on wild yeasts naturally present on the apples and in the environment
 - Results in complex, funky, terroir-driven cider
 - Less predictable -- can produce off-flavors or fail entirely
 - More consistent with unwashed, organic apples from old orchards
@@ -105,7 +105,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 **Cultured Yeast (Reliable)**
 - Pitch a specific commercial yeast strain
 - More predictable, cleaner fermentation
-- Recommended [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
+- Recommended for beginners
 - Popular strains:
   - Nottingham Ale: clean, neutral, reliable. Good all-purpose cider yeast.
   - Lalvin 71B: fruity, enhances apple character. Good for sweet cider.
@@ -148,3 +148,5 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
 - Store at 50-60F, on their side if corked, away from light
 ## See Also
+
+- [[comparison-beer-brewing-vs-cider-making]]

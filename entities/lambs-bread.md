@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
-  - Emboden, W. (1972). "Ritual Use of cannabis-sativa L." Economic Botany.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
 ---# Lambs Bread
 

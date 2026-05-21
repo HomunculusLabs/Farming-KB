@@ -5,8 +5,6 @@ tags: [fukuoka, natural-farming, orchard, ground-cover, clover, alfalfa, acacia,
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

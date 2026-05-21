@@ -5,12 +5,6 @@ tags: [fermentation, microbiology, food-preservation, wild-yeast, starter-cultur
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Katz, Sandor Ellix. *Wild Fermentation*. Chelsea Green, 2003.
-  - Wolfe, Benjamin E., and Rachel J. Dutton. "Fermented Foods as Experimentally Tractable Microbial Ecosystems." *Cell* 161, no. 1 (2015): 49–55.
-  - De Vuyst, Luc, and Peter Vandamme. *Bacteria and Yeasts in the Production of Fermented Foods and Beverages*. Springer, 2018.
-  - Marco, Maria L., et al. "The ISAPP Consensus Statement on Fermented Foods." *Nature Reviews Gastroenterology & Hepatology* 18 (2021): 196–208.
-  - Porter, Nicholas T., et al. "The Diversity and Function of Sourdough Microbiota." *Microbiome* 12 (2024): 66.
-  - Steinkraus, Keith H. *Handbook of Indigenous Fermented Foods*. 2nd ed. Marcel Dekker, 1996.
 type: comparison
 ---
 

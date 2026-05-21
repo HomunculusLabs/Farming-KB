@@ -17,13 +17,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dutt V, Rawal R, Satti NK, et al. (2015). "Antimicrobial activity of
     berberine from Mahonia aquifolium." Phytomedicine.
-  - Van Wyk BE, Wink M. (2017). "Medicinal Plants of the World." CABI.
   - USDA NRCS. "Mahonia aquifolium" Plant Profile.
-  - Müller K, Ziereis K. (1994). "The antipsoriatic Mahonia aquifolium."
     Phytomedicine.
-  - Tilford GL. (1997). "Edible and Medicinal Plants of the West."
     Mountain Press.
 ---
 

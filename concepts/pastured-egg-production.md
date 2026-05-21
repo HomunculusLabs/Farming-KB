@@ -13,21 +13,21 @@ Pastured eggs come from hens raised on living pasture with access to fresh forag
 
 ## Mobile Coop Systems
 
-The cornerstone of pastured egg production [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
+The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
 
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
 - Roosting space inside, nesting boxes on one side
-- Moved behind grazing cattle (birds spread manure, eat [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]])
+- Moved behind grazing cattle (birds spread manure, eat fly larvae)
 - Floorless or slatted floor (manure drops directly on pasture)
 - Requires a portable electric fence perimeter
 
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]] ter-mushroom-growing-house-design-site-selection-tropical-climates
+- A-frame or hoop house design
 - Lightweight materials: PVC, cattle panels, plywood
-- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] homestead-scale production
+- Best for homestead-scale production
 
 ### Hoop Coop on Skids
 - Larger permanent-feeling structure (50-200 birds)
@@ -67,12 +67,12 @@ The cornerstone of pastured egg production [[query-what-is-the-difference-betwee
 ## Breed Selection
 
 ### Top Pasture Breeds
-- [[rhode-island-red]]: hardy, good layers (250-300 eggs/year), brown eggs
+- Rhode Island Red: hardy, good layers (250-300 eggs/year), brown eggs
 - Sussex: excellent foragers, calm, 250+ eggs/year, dual purpose
 - Plymouth Rock (Barred Rock): cold-hardy, good layers, friendly, 200-280 eggs/year
 - Wyandotte: cold-hardy, beautiful, 200-250 eggs/year, good foragers
 - Orpington: docile, cold-hardy, good mothers, 200-280 eggs/year
-- [[australorp]]: record layers, calm, heat-tolerant, 250-300 eggs/year
+- Australorp: record layers, calm, heat-tolerant, 250-300 eggs/year
 - Easter Egger (Ameraucana crosses): blue/green eggs (marketing advantage), 200-250/year
 - Heritage breeds: slower laying but better foragers and longer productive life
 
@@ -86,7 +86,7 @@ The cornerstone of pastured egg production [[query-what-is-the-difference-betwee
 ### Yolk Color
 - Deep orange yolks indicate high xanthophyll intake (grass, forage, bugs)
 - Pale yellow yolks = confinement diet, corn-heavy
-- Supplement with [[alfalfa-meal]], kale, marigold petals for color
+- Supplement with alfalfa meal, kale, marigold petals for color
 - Pastured eggs naturally achieve deep color without supplements
 
 ### Nutritional Differences
@@ -122,7 +122,7 @@ Pastured eggs vs. conventional:
 
 ### Water
 - 1 gallon per 5 hens per day (more in heat)
-- Heated waterers [[weed-control-in-winter-greenhouses]]
+- Heated waterers in winter
 - Clean and refill daily
 
 ## Economics
@@ -148,3 +148,7 @@ Pastured eggs vs. conventional:
 - Net profit: $2,000-5,000/year for 50-hen flock
 - Labor: 15-30 minutes/day feeding, watering, collecting
 - Most profitable at direct-sale price points ($6+/dozen)
+## See Also
+
+- [[pastured-pork-production]]
+- [[mollison-designers-poultry-forage-design-pastured-systems]]

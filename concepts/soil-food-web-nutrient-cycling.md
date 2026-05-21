@@ -1,4 +1,5 @@
 ---
+
 title: Soil Food Web Nutrient Cycling
 created: 2026-04-10
 updated: 2026-04-12
@@ -33,7 +34,7 @@ sources:
 
 Detailed treatment of the nutrient cycling engine, the predator-prey model, glomalin and soil aggregation, and methods for building soil biology including KNF bionutrient effects. See soil food web nutrient cycling for the overview of trophic levels and bacterial vs. fungal dominance.
 
-Related: soil food web nutrient cycling, [[mycorrhizal-networks]], [[bionutrients]], [[compost-tea-guide]]
+Related: soil food web nutrient cycling, [[mycorrhizal-networks]], [[bionutrients-guide]], [[compost-tea-guide]]
 
 ## Nutrient Cycling
 
@@ -65,7 +66,7 @@ Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contri
 
 ### Bionutrient Effects on Soil Biology
 
-Bionutrient preparations (see [[bionutrients]]) directly feed and shape soil microbial communities:
+Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape soil microbial communities:
 
 - **FPJ (fermented plant juice)**: Provides plant growth hormones (gibberellins, auxins, cytokinins) that stimulate bacterial and fungal activity. Fast-growing plant extracts (kangkong, kelp) trigger microbial blooms that accelerate decomposition and nutrient cycling.
 - **FAA (fish amino acid)**: High-nitrogen input causes rapid bacterial population growth, which protozoa then graze — releasing plant-available ammonium through the microbial loop. Essential for bacterial-dominated soils (vegetables, annuals).
@@ -88,7 +89,7 @@ Bionutrient preparations (see [[bionutrients]]) directly feed and shape soil mic
 - soil food web nutrient cycling — Overview of trophic levels and bacterial vs. fungal dominance
 - soil food web nutrient cycling — Detailed nutrient cycling and fungal ecology
 - [[mycorrhizal-networks]] — Types, carbon flow, "wood wide web", glomalin
-- [[bionutrients]] — Bionutrient effects on soil microbial communities
+- [[bionutrients-guide]] — Bionutrient effects on soil microbial communities
 - [[compost-tea-guide]] — Complete AACT manual
 - [[effective-microorganisms-em]] — EM consortium and application
 - [[knf-preparations]] — KNF inputs for soil biology

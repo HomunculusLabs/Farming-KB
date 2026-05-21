@@ -10,9 +10,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Flora Europaea, Vol. 4. Cambridge University Press.
-  - Grossheim, A.A. (1949). "Flora Kavkaza." Vol. 5. Baku: AzFAN.
-  - Oganesian, M.E. (1995). "The genus Campanula in the Caucasus." Takhtajania, 1: 32-55.
   - WCSP. "Campanula tridentata Schreb." World Checklist of Selected Plant Families. Kew.
 ---
 

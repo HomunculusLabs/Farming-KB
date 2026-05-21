@@ -1,4 +1,5 @@
 ---
+
 title: Nutritive Cycle Theory — Cho's Growth Stage Framework
 created: 2026-04-11
 updated: 2026-04-12
@@ -130,20 +131,20 @@ Apply 15 days and 2 days before harvest.
 5. **Stop nitrogen for flowering**: This is the most common mistake in biological agriculture
 6. **Calcium prevents overgrowth**: WS-Ca is the "brake" that keeps vegetative growth in check
 
-## See Also
+## Practical Application Chart
 
-- [[knf-preparations]] — complete input guide with growth stage schedules
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ recipes for each stage
-- [[fish-amino-acid-faa]] — nitrogen input for vegetative stage
-- [[oriental-herbal-nutrient-ohn]] — immune support across all stages
-- [[water-soluble-calcium-wca]] — WS-Ca for changeover and reproductive stages
-- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for the critical changeover period
-- [[brown-rice-vinegar-brv]] — BRV sour nutrient for changeover
-- [[indigenous-microorganisms-imo]] — IMO for soil building across all stages
-- [[cannabis-living-soil-guide]] — cannabis-specific application
+| Input | Vegetative | Changeover | Reproductive |
+|-------|-----------|------------|-------------|
+| FPJ | 1:800-1000 | 1:1000 | 1:1000 (sparingly) |
+| FFJ | — | 1:1000 (sour) | 1:1000 (ripe) |
+| FAA | 1:1000 | STOP | STOP |
+| OHN | 1:1000 | 1:1000 | 1:1000 |
+| LAB | 1:1000 | Reduce | Reduce |
+| WS-Ca | Avoid | 1:1000 | 1:1000 |
+| WS-K | 1:30 (if weak) | — | 1:30 |
+| WS-PA | — | 1:30 | — |
+| WS-CaPo | — | 1:500-1000 | — |
+| BRV | — | 1:200-500 | — |
+| Seawater | — | — | 1:30 |
+| IMO | Soil drench | Soil drench | Soil drench |
 
-## Related
-
-- [[knf-input-application-timing]]
-
-- [[complete-knf-input-reference]] — complete input reference

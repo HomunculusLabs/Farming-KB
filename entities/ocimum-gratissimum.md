@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Makinde, J.M. et al. (1996). "Antimalarial activity of Ocimum gratissimum leaf extract." Phytotherapy Research, 10(7), 539-541.
-  - Nakamura, C.V. et al. (1999). "Antibacterial activity of Ocimum gratissimum permaculture-designers-manual-essential-oil-plants." Memórias do Instituto Oswaldo Cruz, 94(5), 675-678.
-  - Ijeh, I.I. et al. (2005). "Anti-diarrheal activity of Ocimum gratissimum leaf extract." Journal of Ethnopharmacology, 99(2), 307-310.
-  - Okafor, J.C. (1980). "Medicinal plants indigenous to Nigeria." Nigerian Field, 45, 49-55.
-  - Grayer, R.J. et al. (1996). "Leaf flavonoid aglycones of Ocimum gratissimum." Biochemical Systematics and Ecology, 24(4), 297-299.
 created: 2026-04-28
 ---
 

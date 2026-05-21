@@ -5,10 +5,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "USDA Natural Resources Conservation Service — Vitis Species Profiles (plants.usda.gov)"
-  - "Penn State Extension — Wine and Table Grape Production (extension.psu.edu)"
-  - "University of California Cooperative Extension — Grape Pest Management (anrcatalog.ucanr.edu)"
-  - "Cornell University College of Agriculture — Grape Growing Guide (fruit.cornell.edu)"
   - "American Viticulture and Enology National Center of Excellence (aven.org)"
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Kostermans, A.J.G.H. (1973). The South Indian species of Actinodaphne. Reinwardtia, 9(1), 1-35."
-  - "van der Werff, H. & Richter, H.G. (1996). Toward an improved classification of Lauraceae. Annals of the Missouri Botanical Garden, 83(4), 409-418."
-  - "Rohwer, J.G. (1993). Lauraceae. In: The Families and Genera of Vascular Plants, Vol. II, Springer."
   - "Wei, F.N. et al. (2010). Lauraceae of China: taxonomy, distribution and conservation. Blumea, 55(2), 123-138."
 ---
 

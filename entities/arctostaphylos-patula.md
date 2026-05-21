@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wells, P. V. (1968). "The manzanitas of California." University of California Publications in Botany.
-  - Parker, V. T. & Kelly, V. R. (1989). "Seed banks in California chaparral." In "The California Chaparral." Mad River Press.
-  - USDA NRCS. "Arctostaphylos patula" PLANTS Database. https://plants.usda.gov/
   - Keeley, J. E. (2006). "Fire management of California shrubland landscapes." Springer.
 ---
 

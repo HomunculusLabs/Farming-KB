@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "Runtz: A Complete Guide to the Runtz blesching-cannabis-strain-selection-receptor-targeting." Leafly.
-  - AllBud (2021). "Runtz Strain Information." AllBud.com.
-  - Zamnesia (2022). "The Runtz Family Tree: A Guide to the Most Popular Runtz Phenotypes." Zamnesia Blog.
   - Cookies Fam (2020). Official strain information, Cookies brand catalog.
 ---
 

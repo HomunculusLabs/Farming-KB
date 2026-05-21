@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hubbard, C.E. (1984). "Grasses: A Guide to Their Structure, Identification, Uses and Distribution." 3rd edition. Penguin Books.
-  - Conert, H.J. (1998). "Schedonorus." In Gustav Hegi, Illustrierte Flora von Mitteleuropa, Band I, Teil 3. Blackwell Wissenschafts-Verlag.
-  - CABI. (2024). "Invasive Species Compendium — Arrhenatherum elatius." CAB International.
-  - Tallowin, J.R.B. & Jefferson, R.G. (1999). "The occurrence of tall oat-grass (Arrhenatherum elatius) in British semi-natural grasslands." Grass and Forage Science 54(3): 193-200.
   - Grime, J.P., Hodgson, J.G. & Hunt, R. (1988). "Comparative Plant Ecology." Unwin Hyman.
 ---
 

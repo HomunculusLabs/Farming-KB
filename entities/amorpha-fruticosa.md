@@ -8,10 +8,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Isely, D. (1990). Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Leguminosae. University of north-carolina-mycodiversity Press.
-  - Roloff, A. & Bärtels, A. (2006). Flora of the Mediterranean. Timber Press.
-  - Clewell, A.F. (1966). "Revision of the genus Amorpha (Leguminosae: Papilionoideae: Amorpheae)." Annals of the Missouri Botanical Garden, 53(4), 486-494.
-  - Ogle, D. & St. John, L. (2006). "Indiangrass, sideoats grama, and false indigo." USDA NRCS Plant Guide.
   - USDA NRCS. "Amorpha fruticosa L." PLANTS Database. https://plants.usda.gov
 ---
 

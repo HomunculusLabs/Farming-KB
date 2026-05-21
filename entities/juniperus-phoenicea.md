@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Quézel, P. & Médail, F. (2003). "Ecologie et Biogéographie des Forêts du Bassin Méditerranéen." Elsevier.
-  - Le Floc'h, E. (2012). "Juniperus phoenicea." In: IUCN Red List of Threatened Species.
   - Pignatti, S. (1982). "Flora d'Italia." Edagricole, Bologna.
 ---
 

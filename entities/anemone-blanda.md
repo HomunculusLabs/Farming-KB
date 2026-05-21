@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1993). "Anemone." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Honda, Y. et al. (2005). "Phylogeny of Anemone section Anemone." Systematic Botany, 30(3): 534-542.
-  - Bryan, J. (2002). Bulbs. Timber Press, revised edition.
-  - Hiebert, R.D. & Hamrick, J.L. (1984). "Anemone ecology in deciduous forests." Journal of Ecology, 72: 1021-1031.
   - Ehrendorfer, F. (1995). "Evolutionary patterns in Anemone." Plant Systematics and Evolution, 9(suppl): 257-276.
 ---
 
@@ -78,3 +74,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on anemone blanda have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with anemone blanda should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Semple, J.C. et al. (2017). "Solidago." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 20-21.
-  - USDA NRCS (2024). "Solidago speciosa Nutt." PLANTS Database.
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
 ---
 

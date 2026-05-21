@@ -12,10 +12,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Mathew, B. (1989). "The Iris." Batsford, London.
-  - Royal Horticultural Society (2023). "Iris reticulata — RHS Plant Finder." rhs.org.uk.
-  - WCSP (2024). "World Checklist of Selected Plant Families: Iris reticulata." Kew Royal Botanic Gardens.
-  - Rix, E.M. & Philips, R. (1981). "The Bulb Book." Pan Books, London.
-  - ISHS (2020). "Ornamental Geophytes: From Gene to Market." Acta Horticulturae 1288.
   - Hall, A. (2021). "The Plant Lover's Guide to Iris." Timber Press.
 ---
 

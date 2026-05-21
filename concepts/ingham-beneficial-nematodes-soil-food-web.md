@@ -5,7 +5,6 @@ tags: [nematodes, soil-food-web, nutrient-cycling, compost-tea, ingham]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: concept
 ---# Beneficial Nematodes in the Soil Food Web
 

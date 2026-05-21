@@ -13,16 +13,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - concepts/humanure-composting.md
   - concepts/humanure-composting-systems.md
   - concepts/graywater-systems.md
   - concepts/graywater-systems-for-homesteads.md
   - concepts/greywater-systems-detailed.md
-  - concepts/graywater-wetland-marsh-filtration-systems.md
   - concepts/constructed-wetland-design.md
-  - concepts/constructed-wetlands-wastewater-treatment.md
-  - concepts/wetland-ecology.md   - concepts/vermicomposting.md
 related_concepts:
   - humanure-composting
   - humanure-composting-systems

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia Magnum Opus." Redfern Natural History Productions.
-  - Plachno, B.J. et al. (2006). "Drosera scorpioides morphology." Acta Botanica Gallica, 153(2), 147-152.
-  - Rivadavia, F. et al. (2003). "Phylogeny of Drosera." American Journal of Botany, 90(1), 123-134.
-  - D'Amato, P. (2013). "The Savage Garden: The Revised and Expanded Edition." Ten Speed Press.
   - Schlauer, J. (2020). "Drosera nomenclatural database." Carnivorous Plant Database.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Baardseth, E. (1970). "A Synopsis of the Distribution of Benthic Marine Algae in the North Atlantic." Gunnardia, 4.
-  - Birkett, D.A. et al. (1998). "The distribution of brown seaweeds around the British Isles." Journal of the Marine Biological Association, 78, 1–28.
-  - Kraan, S. (2012). "Alaria esculenta." In: Seaweed: Edible, Available and Sustainable. Chicago Review Press.
   - Marinho-Soriano, E. et al. (2006). "Chemical composition and physiological responses." Journal of Applied Phycology, 18, 411–418.
 ---
 

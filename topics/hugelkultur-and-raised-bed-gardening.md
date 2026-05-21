@@ -10,7 +10,6 @@ sources:
   - hugelkultur
   - "raw/papers/holzer-desert-or-paradise.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 related_concepts:
   - hugelkultur
   - hemenway-hugelkultur-guide

@@ -15,12 +15,9 @@ updated: 2026-04-28
 sources:
   - "Eucalyptol." PubChem Compound Summary, NCBI.
     https://pubchem.ncbi.nlm.nih.gov/compound/Eucalyptol
-  - "Santos, F.A. & Rao, V.S. (2000). \"Antiinflammatory and
     antinociceptive effects of 1,8-cineole.\" Phytomedicine,
     7(4), 331-338."
-  - "Juergens, U.R. et al. (2003). \"Anti-inflammatory activity
     of 1,8-cineole.\" Clinical Experimental Allergy, 33(4), 477-480."
-  - "Cermelli, C. et al. (2008). \"Activity of tea tree oil and
     eucalyptol against clinical strains.\" Planta Medica, 74(2), 181."
 ---
 

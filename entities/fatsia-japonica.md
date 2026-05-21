@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohwi, J. (1965). "Flora of Japan." Smithsonian Institution.
-  - Huxley, A. (1992). "The New Royal Horticultural Society Dictionary of Gardening." Macmillan.
   - Lee, Y.N. (2004). "Korean Medicinal Plants." Keimyung University Press.
 ---
 

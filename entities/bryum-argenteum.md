@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
-  - Spence, J.R. (2005). "Bryaceae." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 27.
   - Jovan, S. & McCune, B. (2004). "Regional Variation in Epiphytic Macrolichen Communities in Northern California." The Bryologist 107(3): 328-339.
 ---
 

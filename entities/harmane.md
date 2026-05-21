@@ -13,12 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hahn, R.A. et al. (2021). "β-Carbolines: From pharmacological
     properties to clinical applications." Pharmacology & Therapeutics
     226: 107877.
-  - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloids of
     Banisteriopsis caapi." J. Psychoactive Drugs 43(3): 203-215.
-  - Glennon, R.A. et al. (2000). "5-HT2B agonist activity of
     β-carbolines." Pharmacol. Biochem. Behav. 66(2): 309-313.
 ---
 

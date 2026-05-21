@@ -7,17 +7,13 @@ tags: [mycology, ecology, decomposition, carbon-cycle, nutrient-cycling,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
   - "raw/papers/unknown-biodiversity-of-fungi.md"
-  - "raw/papers/fungi-and-sustainability-fungi-magazine.md"
   - "raw/papers/symbiotic-fungi.md"
   - "raw/papers/teaming-with-fungi-lowenfels.md"
 related_concepts:
   - mycelium-networks-and-fungal-ecology
   - mycorrhizal-fungi
   - the-soil-food-web
-  - the-rhizosphere-ecology-and-plant-microbe-interactions
   - bioremediation-using-fungi
   - composting-and-soil-biology
   - endophytic-fungi-hidden-symbionts-within-plants

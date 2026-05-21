@@ -12,13 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Persaud, S.J. et al. (1999). "Gymnema sylvestre stimulates insulin
     release in vitro." Journal of Endocrinology, 163(2), 207-212.
-  - Kanetkar, P. et al. (2007). "Gymnema sylvestre: a memoir." Journal
     of Clinical Biochemistry and Nutrition, 41(2), 77-81.
-  - Tiwari, P. et al. (2014). "Gymnema sylvestre: a comprehensive
     review." Pharmacognosy Reviews, 8(16), 73-78.
-  - Stohs, S.J. & Ray, S.D. (2017). "Gymnema sylvestre — mechanism of
     action on blood glucose." Phytotherapy Research, 31(9), 1336-1341.
 ---
 

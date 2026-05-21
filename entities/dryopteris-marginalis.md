@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Dryopteris." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2.
-  - Montgomery J.D. (2000). "The genus Dryopteris in the eastern . It is one of
 the most common woodland ferns in its range, valued for its durable, leathery
 fronds that persist through winter.
 ---he species epithet "marginalis" refers to the position of the sori (spore-

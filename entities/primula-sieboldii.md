@@ -11,9 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Halda, J.J. (1992). "The Genus Primula in Cultivation and the Wild." Tethys Books.
-  - The American Primrose Society. "Growing Primula sieboldii." primrose.org.
-  - Chen, S. et al. (2020). "Phylogeny and biogeography of Primula sect. Cortusoides." Botanical Journal of the Linnean Society.
   - Ohba, H. (2015). "Flora of Japan Vol. IVa." Kodansha.
 ---
 

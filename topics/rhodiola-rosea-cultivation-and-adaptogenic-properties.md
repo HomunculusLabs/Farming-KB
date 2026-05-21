@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Panossian A, Wikman G. "Evidence-based efficacy of Rhodiola rosea L. in stress and fatigue." Phytomedicine, 2022.
-  - Brown RP, Gerbarg PL, Ramazanov Z. "Rhodiola rosea: A phytomedicinal overview." HerbalGram, 2002.
-  - Matuszkiewicz R et al. "Rhodiola rosea in stress induced fatigue — a double blind cross-over study." Phytomedicine, 2018.
-  - European Medicines Agency (EMA). HMPC Monograph: Rhodiolae roseae rhizoma et radix, 2011.
-  - Kucinskaite A et al. "Evaluation of biologically active compounds in Rhodiola rosea." Medicina, 2020.
   - USDA NRCS Plant Profile: Rhodiola rosea L.
 ---
 ## Rhodiola Rosea Cultivation and Adaptogenic Properties

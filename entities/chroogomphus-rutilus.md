@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2023). "Chroogomphus rutilus." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A  in the family Gomphidiaceae (order
 Boletales). It is easily recognized by its viscid, wine-red to orange-brown
 cap and its decurrent, grayish-purple gills that develop a distinctive
 cinnamon-brown color at maturity. The species is widely distributed across

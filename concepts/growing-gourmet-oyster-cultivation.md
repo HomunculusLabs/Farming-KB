@@ -6,7 +6,6 @@ type: concept
 tags: [mushrooms, cultivation, oyster, gourmet, pleurotus]
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - label: "Growing Gourmet and  of the genus Pleurotus are described by Paul Stamets as "by far the easiest and least expensive to grow." They demonstrate unparalleled adaptability, aggressiveness, and productivity among  thrive on nearly all hardwoods and an enormous range of agricultural by-products:
 - Hardwood sawdust, wood chips, and pulp sludge
 - All cereal straws (wheat, rice, oat, barley)
 - Corn stalks and corn cobs

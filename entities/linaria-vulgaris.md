@@ -12,9 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Arnold, H. et al. (2014). \"Linaria vulgaris: A review of its phytochemistry and pharmacology.\" Pharmaceutical Biology, 52(7), 892-897."
-  - "Sanchez-Moreiras, A.M. et al. (2003). \"Allelopathic potential of Linaria vulgaris.\" Allelopathy Journal, 12(1), 43-52."
-  - "Nadeau, L.B. & King, J.R. (1991). \"Seed dispersal and seedling establishment of Linaria vulgaris.\" Canadian Journal of Plant Science, 71, 711-722."
   - "Vranová, V. et al. (2011). \"Allelopathic activity of essential oils from invasive Linaria vulgaris.\" Journal of 
 and other cordyceps-cancer-bioactive-compounds, including
 iridoid glycosides (particularly picroside I and antirrhinoside) and

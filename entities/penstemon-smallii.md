@@ -9,11 +9,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Freeman, C.C. (2019). "Penstemon." Flora huckleberries-and-wild-berries-of-north-america, 17, 310–356.
-  - USDA NRCS Plants Database: Penstemon smallii. https://plants.usda.gov
-  - Kew Plants of the World Online: Penstemon smallii. https://powo.science.kew.org
   - Nold, R. (1999). "Penstemons." Timber Press.
-  - Way, D. & James, P. (2006). "The Gardener's Guide to Growing Penstemons." Timber Press.
   - Lennon, J. et al. (2021). "Pollination ecology of southern Appalachian Penstemon." Journal of Pollination Ecology, 28(4), 112-125.
 ---
 

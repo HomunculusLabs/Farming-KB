@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Morton, J.K. (2005). "Silene." In: Flora of North America Editorial Committee, Flora of North America, Vol. 5. Oxford University Press.
-  - Cochrane, T.S. (1993). "Status of Silene regia in Wisconsin." The Michigan Botanist 32: 81–86.
-  - Rabinowitz, D. et al. (1989). "Conservation priorities for Silene regia." Conservation Biology 3(3): 254–258.
-  - RHS (2024). "Silene regia." Royal Horticultural Society Plant Finder.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden.
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Quercus macrocarpa." USDA Forest Service Agriculture Handbook 654.
-  - Peattie, D.C. (1953). A Natural History of Trees of Eastern and Central North America. Houghton Mifflin.
-  - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). The Ecology and Silviculture of Oaks. CABI Publishing.
-  - Nixon, K.C. (1997). "Quercus." In: Flora of North America, Vol. 3. Oxford University Press.
   - Iverson, L.R. et al. (1999). "An Atlas of Current and Potential Future Distributions of Common Trees of the Eastern US." USDA Forest Service.
 ---
 

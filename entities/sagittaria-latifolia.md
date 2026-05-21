@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Sculthorpe, C.D. (1967). The Biology of Aquatic Vascular Plants. Edward Arnold."
-  - "Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
-  - "Kubin, W. & Melzer, A. (1996). \"Aquatic Macrophytes as Bioindicators.\" Archiv für Hydrobiologie, 135(3), 389-407."
   - "Yeo, R.R. (1965). \"Life History of Sagittaria latifolia.\" Ecology, 46(3), 444-448."
 ---
 

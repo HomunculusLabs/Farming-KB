@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohwi, J. (1965). "Flora of Japan." Smithsonian Institution, Washington.
-  - Iwatsuki, K. et al. (1993). "Flora of Japan, Vol. IIIa." Kodansha, Tokyo.
-  - Kadota, Y. (2006). "Gentianaceae." Journal of Japanese Botany, 81(2): 67–89.
   - Cardon, D. (2007). "Natural Dyes: Sources, Tradition, Technology and Science." Archetype Publications.
 ---
 

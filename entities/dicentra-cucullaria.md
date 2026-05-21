@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ownbey, G.B. (1947). "A Monograph of the growing-gourmet-north-american-reishi-species Species of Dicentra." Brittonia, 6(1), 1–53.
-  - Kindscher, K. (1992). *Medicinal Wild Plants of the Prairie.* University Press of Kansas.
-  - Facchini, P.J. (2001). "Alkaloid Biosynthesis in Plants: Biochemistry, Cell Biology, Molecular Regulation, and Metabolic Engineering Applications." Annual Review of Plant Physiology and Plant Molecular Biology, 52, 29–66.
-  - USDA NRCS (2023). "Dicentra cucullaria — Plant Guide." plants.usda.gov.
   - Stermitz, F.R. (1968). "Alkaloids of Dicentra Species." Lloydia, 31(4), 367–380.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Nold, R. (2003). Columbines: Aquilegia, Paraquilegia, and Semiaquilegia. Timber Press.
-  - Aeschimann, D. et al. (2004). Flora Alpina. Haupt Verlag.
-  - Tutin, T.G. et al. (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - Kew Science Plants of the World Online. "Aquilegia alpina L." https://powo.science.kew.org
 ---
 

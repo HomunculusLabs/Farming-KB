@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hubbard, C.E. (1984). Grasses: A Guide to Their Structure, Identification, Uses and Distribution in the British Isles. Penguin Books.
-  - Hitchcock, A.S. (1950). Manual of the Grasses of the guzman-psilocybin-mushrooms-north-america." Native Plants Journal, 11(1), 5-16.
   - Duru, M. et al. (2010). "How does sward management type affect the environmental and nutritional value of pasture herbage?" Grass and Forage Science, 65(3), 335-345.
 ---
 

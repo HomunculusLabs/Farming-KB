@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Strid, A. & Tan, K. (1997). "Dianthus." Flora Hellenica, Vol. 1. Koeltz Scientific Books.
-  - RHS (2024). "Dianthus plumarius — Plant Profile." Royal Horticultural Society.
-  - Bittrich, V. (1993). "Caryophyllaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants, Vol. 2.
   - Tümen, G. et al. (2011). "Essential Oil Composition of Dianthus plumarius." Chemistry of Natural Compounds, 47(3): 452–454.
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, D.J., et al. (1984). "Monoamine oxidase inhibitors in chiric-caspi-brunfelsia-south-american-hallucinogen hallucinogenic plants." Journal of Ethnopharmacology 12(2): 179–211.
-  - Samoylenko, V., et al. (2010). "ayahuasca-and-banisteriopsis-caapi: a challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of the Amazonian psychoactive beverage ayahuasca." Phytochemistry Letters 3(3): 77–81.
-  - Riba, J., et al. (2003). "Increasing tryptamine dose in ayahuasca." Psychopharmacology 166(1): 63–70.
-  - Yritia, M., et al. (2005). "Determination of tryptamine, N-methyltryptamine, and N,N-dimethyltryptamine in ayahuasca." Journal of Chromatography B 820(2): 259–266.created: 2026-05-07
 
 created: 2026-05-07
 ---

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Erhardt, W. (1992). Hemerocallis. In: The RHS Dictionary of Gardening, Vol. 2. Macmillan."
-  - "Tomlinson, P.B. (2014). "Hemerocallis fulva: The Tawny Daylily." Plants of the World Online, Kew."
-  - "Morton, J.F. (1981). "Atlas of Medicinal Plants of Middle America." Springer."
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 

@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. (2023). Mendo Breath blesching-cannabis-strain-selection-receptor-targeting Information. https://www.leafly.com/strains/mendo-breath"
-  - "AllBud. (2023). Mendo Breath Strain Review. https://www.allbud.com/marijuana-strains/indica/mendo-breath"
-  - "Mendoza, R. (2020). The Leaf Detective's Handbook. Green Candy Press."
-  - "Wikileaf. (2023). Mendo Breath Strain. https://www.wikileaf.com/strain/mendo-breath"
   - "Eaze Wellness. (2023). Mendo Breath: The Ultimate Relaxation Strain. https://www.eaze.com/strains/mendo-breath"
 ---
 

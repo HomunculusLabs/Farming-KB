@@ -18,10 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Davies, P.J. (2010). Plant Hormones: Biosynthesis, fungal-environmental-sensing-signal-transduction-read, Action! 3rd ed. Springer.
-  - Taiz, L. & Zeiger, E. (2022). Plant Physiology and Development. 7th ed. Sinauer Associates.
-  - Wasternack, C. & Strnad, M. (2019). "Jasmonates: Biosynthesis, Perception, Signal Transduction and Action." Plant Physiology, 180(4), 1758-1781.
-  - Ku, Y.S., Sintaha, M., Cheung, M.Y., & Lam, H.M. (2018). "Plant Hormone Signaling Crosstalk Network Between Auxin and Strigolactone in Plant Development." Frontiers in Plant Science, 9, 1489.
   - Ruyter-Spira, C. et al. (2013). "Phytohormone Interactions in Root Development." Plant Molecular Biology, 82(6), 533-548.
 ---
 

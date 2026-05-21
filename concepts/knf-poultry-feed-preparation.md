@@ -82,7 +82,7 @@ to inform current best practices and research directions.
 
 ## See Also
 - [[permaculture]]
-- [[knf-yeast-preparation-detailed]]
+- [[knf-yeast-preparation]]
 - [[knf-fpj-preparation-and-precautions]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

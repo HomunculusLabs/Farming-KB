@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fleischmann, A. (2012). "A monograph of Genlisea." Redfern Natural History Productions.
-  - Barthlott, W. et al. (1998). "Genlisea — a unique carnivorous plant." Botanical Journal of the Linnean Society.
-  - Reut, M.S. & Barthlott, W. (2005). "Trapping in Genlisea." Carnivorous Plant Newsletter.
-  - Müller, K. & Borsch, T. (2005). "Phylogenetics of Lentibulariaceae." Plant Biology.
   - Plachno, B.J. et al. (2007). "Ultrastructure of Genlisea traps." Annals of Botany.
 ---
 

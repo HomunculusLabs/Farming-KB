@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kohlein, F. (1991). "Gentians." Timber Press, Portland.
-  - Pan, S.L. et al. (2016). "Gentiana scabra: A comprehensive review of phytochemistry and pharmacology." Journal of Ethnopharmacology 193: 1–15.
-  - Zhao, Y.L. et al. (2018). "Iridoid glycosides from Gentiana scabra and their hepatoprotective activity." Phytochemistry 148: 21–30.
   - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
 ---
 

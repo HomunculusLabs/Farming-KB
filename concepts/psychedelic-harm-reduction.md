@@ -12,8 +12,6 @@ tags:
   - ssri
   - trip-sitting
 sources:
-  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
@@ -29,13 +27,13 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Why Test?
 
-- Natural mushrooms can be confused with toxic lookalikes (see psilocybin mushroom identification guide).
+- Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification-guide]]).
 - Synthetic substances sold as psychedelics may be adulterated or misidentified.
 - Testing services such as **Erowid's DrugsData**, **DanceSafe**, **Energy Control**, and **MAPS** provide analytical testing of submitted samples.
 
 ### Testing Methods
 
-- **Reagent testing**: Chemical reagent kits (Ehrlich, Marquis, Hofmann, Hofmann Freebase) can provide preliminary identification of compounds. Ehrlich reagent turns purple in the presence of indoles ([[psilocybin]], LSD, DMT) but cannot distinguish between them or detect adulterants.
+- **Reagent testing**: Chemical reagent kits (Ehrlich, Marquis, Hofmann, Hofmann Freebase) can provide preliminary identification of compounds. Ehrlich reagent turns purple in the presence of indoles (psilocybin, LSD, DMT) but cannot distinguish between them or detect adulterants.
 - **Laboratory testing**: GC/MS or HPLC analysis provides definitive identification of compounds and their concentrations. This is the gold standard but requires sending samples to a lab.
 - **Spore identification**: For mushrooms, microscopic examination of spores can confirm genus and species.
 
@@ -43,7 +41,7 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Psilocybin Mushrooms
 
-Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (the most commonly available species):
+Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *Psilocybe cubensis* (the most commonly available species):
 
 | Level | Dose (dried *P. cubensis*) | Effects |
 |---|---|---|
@@ -132,7 +130,7 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 ## Related Topics
 
-- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting-framework]]
+- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-integration-practices]] for post-experience care
-- psilocybin mushroom identification guide for [[mushroom-identification]] safety
-- psychedelic integration guide for detailed integration guidance
+- [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
+- [[psychedelic-integration-guide]] for detailed integration guidance

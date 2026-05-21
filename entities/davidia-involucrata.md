@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Sun, H. et al. (2019). "Phylogeography of Davidia involucrata (Nyssaceae) inferred from chloroplast DNA." Frontiers in Plant Science, 10, 687.
-  - Lancaster, R. (2008). "Plantsman's Paradise: Travels in China." Timber Press.
   - Grimshaw, J. & Bayton, R. (2009). "New Trees: Recent Introductions to Cultivation." Kew Publishing.
 ---
 

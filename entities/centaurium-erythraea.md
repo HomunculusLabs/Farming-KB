@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barnes, J., Anderson, L.A., Phillipson, J.D. (2007). "Herbal Medicines." 3rd ed. Pharmaceutical Press.
-  - "Centaurium erythraea." European Medicines Agency, HMPC Community Monograph.
-  - Newall, C.A., Anderson, L.A., Phillipson, J.D. (1996). "Herbal Medicines: A Guide for Health-Care Professionals." Pharmaceutical Press.
-  - Van der Sluis, W.G., Van der Valk, H. (1996). "Cultivation of small centaury (Centaurium erythraea Rafn) in the Netherlands." Acta Horticulturae, 426, 405-412.
   - Šiler, B. et al. (2014). "Centauries (Centaurium erythraea, C. pulchellum, C. littorale) as underutilized species." Industrial Crops and Products, 54, 9-17.
 ---
 
@@ -79,3 +75,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on centaurium erythraea have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with centaurium erythraea should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

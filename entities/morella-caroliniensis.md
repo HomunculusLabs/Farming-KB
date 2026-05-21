@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Weakley, A.S. et al. (2023). "Flora of the Southeastern United States." University of north-carolina-mycodiversity Herbarium.
-  - USDA NRCS (2024). "PLANTS Database — Myrica caroliniensis." United States Department of Agriculture.
-  - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of the Southeastern United States." University of Georgia Press.
   - Kartesz, J.T. (2024). "The Biota of psilocybin-north-america-pacific-northwest Program (BONAP)." North Carolina Botanical Garden.
 ---
 

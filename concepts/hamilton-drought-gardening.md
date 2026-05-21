@@ -5,7 +5,6 @@ updated: 2026-04-20
 type: concept
 tags: [organic-gardening, plants]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 ## Drought Gardening and Water-Wise Strategies

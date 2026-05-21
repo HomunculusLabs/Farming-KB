@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). "Primula." Timber Press, Portland, OR.
-  - Hu, C.M. & Kelso, S. (1996). "Primulaceae." In: Flora of China, Vol. 15. Science Press, Beijing.
-  - Smith, W.W. & Fletcher, H.R. (1948). "The Genus Primula: Section Candelabra." Transactions of the Royal Society of Edinburgh, 61: 1–58.
   - Press, J.R. et al. (2000). "Annotated Checklist of the Flowering Plants of Nepal." The Natural History Museum, London.
 ---
 

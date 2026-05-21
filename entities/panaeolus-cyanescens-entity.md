@@ -14,10 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon.
-  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
  (taxonomic classification)
-  - La Bar, G. (1971). "Observations on the cultivation of ** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the * |
 | **Norbaeocystin** | Trace | Minor tryptamine alkaloid |
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |

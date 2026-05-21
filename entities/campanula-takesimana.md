@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Chung, Y.M. & Chang, K.S. (2019). "Flora of Korea." National Institute of Biological Resources.
-  - Fedorov, A.A. (1998). "Campanulaceae." In: Flora of the USSR, Vol. 24. Botanical Institute.
-  - Royal Horticultural Society (2023). "Campanula takesimana." RHS Plant Finder.
-  - Eguchi, T. (2006). "Campanula species of East Asia." Journal of Japanese Botany, 81(2), 89-102.
   - Kim, Y.D. & Kim, J.H. (2021). "Endemic and rare plants of the Korean Peninsula." Korea University Press.
 ---
 

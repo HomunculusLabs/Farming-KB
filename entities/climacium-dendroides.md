@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 2.
-  - Nyholm, E. (1969). "Illustrated Moss Flora of Fennoscandia II." Swedish Natural Science Research Council.
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
 ---
 

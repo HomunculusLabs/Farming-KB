@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Nicely, K.A. (1965). "A Monographic Study of Calycanthaceae." Castanea, 30(2), 78-119.
-  - Weaver, R.E. (1972). "Calycanthaceae." In: Flora of North America Editorial Committee, Flora of North America.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
   - USDA NRCS Plants Database: Calycanthus floridus profile.
 ---
 

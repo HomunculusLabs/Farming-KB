@@ -4,21 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Chemistry
 
 ## Overview
 
-Psychedelic mushrooms produce a family of [[tryptamine]] alkaloids, with [[psilocybin]] being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
+Psychedelic mushrooms produce a family of tryptamine alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
 
 ## Primary Compounds
 
 ### Psilocybin
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-[[dimethyltryptamine]]) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
 
 Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver.
 
@@ -30,11 +29,11 @@ Psilocin is present in smaller quantities in fresh mushrooms but can increase as
 
 ### Baeocystin
 
-[[baeocystin]] (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from [[psilocybe-baeocystis]].
+Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from Psilocybe baeocystis.
 
 ### Norbaeocystin
 
-[[norbaeocystin]] (4-phosphoryloxytryptamine) lacks both N-methyl groups and is the least studied of the four major tryptamine alkaloids in psychedelic mushrooms. It is present at very low concentrations and its psychoactive contribution, if any, remains unclear. Some researchers speculate it may modulate the effects of other compounds or serve as a biosynthetic intermediate.
+Norbaeocystin (4-phosphoryloxytryptamine) lacks both N-methyl groups and is the least studied of the four major tryptamine alkaloids in psychedelic mushrooms. It is present at very low concentrations and its psychoactive contribution, if any, remains unclear. Some researchers speculate it may modulate the effects of other compounds or serve as a biosynthetic intermediate.
 
 ## Biosynthetic Pathway
 
@@ -49,14 +48,14 @@ This gene cluster has been identified in multiple distantly related fungal gener
 
 ## The Blueing Reaction
 
-When [[psilocybin-mushroom]] tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
+When psilocybin mushroom tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
 
 1. Tissue damage exposes cellular contents to air
 2. Endogenous phosphatases dephosphorylate psilocybin to psilocin
 3. Psilocin is oxidized by polyphenol oxidase (PPO) enzymes to quinone intermediates
 4. These quinones polymerize into blue-colored compounds
 
-The intensity of blueing does not reliably correlate with potency. Some highly potent species (like [[psilocybe-semilanceata]]) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
+The intensity of blueing does not reliably correlate with potency. Some highly potent species (like Psilocybe semilanceata) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
 
 ## Stability and Degradation
 
@@ -114,3 +113,10 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
+## See Also
+
+- [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+- [[psilocybin-chemistry-stability]]
+- [[pyridoxal-phosphate-coenzyme-chemistry]]
+- [[psilocybin-chemistry]]
+- [[supramolecular-chemistry]]

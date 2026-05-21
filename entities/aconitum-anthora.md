@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. & Heywood, V.H. (1964). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants." 2nd ed., Manson Publishing.
-  - Ameri, A. (1998). "Effects of Aconitum Alkaloids on the Central Nervous System." Progress in Drug Research, 50: 121–158.
-  - Singhuber, J. et al. (2009). "Aconitum in Traditional Chinese Medicine." Journal of Ethnopharmacology, 126(1): 1–9.
   - Kondo, Y. et al. (1993). "Constituents of Aconitum Species." Chemical & Pharmaceutical Bulletin, 41(2): 358–362.
 ---
 

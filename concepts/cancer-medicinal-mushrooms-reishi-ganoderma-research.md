@@ -6,14 +6,8 @@ sources:
   - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 type: concept
 tags: [medicine]
-  - LZ-8 protein mediates T soil-aggregate-formation-fungal-contributions and proliferation
-  - Ganoderan beta-D-glucan and GLB increase MHC class II molecule
     expression on antigen-presenting macrophages
-  - Activates both classical and alternative complement pathways
   - Activates the reticuloendothelial system
-  - Increases haemolytic plaque forming cells in spleen of mice
-  - Increases serum C3 levels in clinical studies (aged patients, 6 weeks)
-  - Influences humoral (B cell) immunity: repeat LZ-8 administration
     reduces antibody production in mice
 ---
 

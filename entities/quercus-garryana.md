@@ -12,7 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Stein, J.D. (1990). "Quercus garryana." In: Silvics of psilocybin-north-america-pacific-northwest, Vol. 2, Agriculture Handbook 654, USDA Forest Service, 650-660.
   - Devine, W.D. & Harrington, C.A. (2007). "Restoration of Oregon white oak woodlands in the fungal-diversity-fire-ecology of Pacific Northwest Forests." Island Press, Washington, D.C.
 ---
 

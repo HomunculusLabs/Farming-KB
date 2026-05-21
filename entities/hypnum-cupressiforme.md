@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
-  - Frahm, J.P. & Frey, W. (1992). "Moosflora." Ulmer Verlag.
   - Crundwell, A.C. (1976). "A Checklist of British Mosses." Journal of Bryology 9(1): 1-54.
 ---
 

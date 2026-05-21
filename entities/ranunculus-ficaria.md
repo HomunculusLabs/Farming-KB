@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hulén, E. & Fries, M. (1986). "Atlas of North European Vascular Plants." Koeltz Scientific Books.
-  - Sell, P. & Murrell, G. (2018). "Flora of Great Britain and Ireland, Vol. 1." Cambridge University Press.
-  - Robertson, D.J. et al. (1999). "The biology of Canadian weeds: Ranunculus ficaria L." Canadian Journal of Plant Science, 79(1), 167–179.
   - Akeroyd, J.R. (1993). "Ranunculus subgenus Ficaria." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
 ---
 

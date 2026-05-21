@@ -5,7 +5,6 @@ tags: [soil-science, soil-foodweb, ecological-succession, bacteria, fungi, compo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 type: concept
 ---
 

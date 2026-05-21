@@ -111,4 +111,4 @@ For tissue cloning and grain spawn production:
 - [[garden-mushroom-growing]] for companion planting strategies
 - [[mycoremediation-techniques]] for pollution cleanup deployment
 - [[fungal-pest-control]] for insect control applications
-- [[mycorestoration]] for the broader framework
+- [[mycorestoration-overview]] for the broader framework

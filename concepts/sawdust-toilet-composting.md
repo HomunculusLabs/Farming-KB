@@ -91,8 +91,8 @@ The primary health concern is destroying human pathogens. Key facts:
 
 ## Relationship to Other Systems
 
-A sawdust toilet integrates with broader off-grid waste management. See [[humanure-composting-systems]] for the Jenkins method in detail and [[greywater-systems-detailed]] for handling sink and shower water separately. The finished compost feeds back into [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]] and [[composting-methods-comparison]] garden fertility programs.
+A sawdust toilet integrates with broader off-grid waste management. See [[humanure-composting-systems]] for the Jenkins method in detail and [[greywater-systems-detailed]] for handling sink and shower water separately. The finished compost feeds back into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] garden fertility programs.
 
 ## Legal Considerations
 
-Humanure composting is legally restricted or regulated in many jurisdictions. Some areas prohibit it outright; others allow it under specific conditions (e.g., minimum composting times, distance from water sources, no [[fukuoka-straw-mulch-decomposition-microbial-soil-food-web]] crop application). Always check local regulations before implementing a system. The finished compost integrates into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] practices on the homestead.
+Humanure composting is legally restricted or regulated in many jurisdictions. Some areas prohibit it outright; others allow it under specific conditions (e.g., minimum composting times, distance from water sources, no food crop application). Always check local regulations before implementing a system. The finished compost integrates into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] practices on the homestead.

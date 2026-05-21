@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. (1995). "Halenia." Flora of China, Vol. 16. Science Press.
-  - Liu, Y. et al. (2018). "Xanthones from Halenia elliptica and their anti-inflammatory activity." Journal of Natural Products, 81(4).
-  - Kew Royal Botanic Gardens. "Halenia elliptica." Plants of the World Online.
   - Yang, Y. et al. (2020). "Ethnobotanical survey of medicinal Gentianaceae in southwestern China." Journal of Ethnopharmacology, 254.
 ---
 

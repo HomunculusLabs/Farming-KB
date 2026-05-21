@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Winston ME et al. (2014). "Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome." PLoS ONE 9(6): e99641.
-  - Maffei ME (2014). "An omics-based approach to study plant-microbe interactions." Frontiers in Plant Science 5: 496.
   - Chaparro JM et al. (2014). "Root exudation of phytochemicals in response to colonization by beneficial bacteria." Frontiers in Plant Science 5: 288.
 ---
 

@@ -5,7 +5,6 @@ tags: [pf-tek, humidity, troubleshooting, fruiting, terrarium, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
 type: concept
 ---
 

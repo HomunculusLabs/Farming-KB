@@ -12,7 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dutton, B.E. & Keener, C.S. (2004). "Flora huckleberries-and-wild-berries-of-north-america: Anemone." Oxford University Press.
   - Meyer, F.G. (1960). "root-foraging-behavior of Native Bees on Anemone." American Journal of Botany, 80(4), 398–405.
 ---
 

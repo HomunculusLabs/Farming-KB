@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Identification
 created: 2026-04-11
 updated: 2026-04-12
@@ -127,5 +128,5 @@ Essential diagnostic tool. Place cap gills-down on half white/half black paper, 
 
 See also: [[fc-ghouled]] — author of early North American psilocybin identification guide.
 - [[mushroom-toxicity-identification-warnings]]
-- [[mushroom-foraging-safety]]
+- [[mushroom-foraging-safety-guide]]
 - [[mushroom-poisoning-guide]]

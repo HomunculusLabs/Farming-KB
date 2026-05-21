@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - SARE (2023). "Cover Crops for Sustainable Crop Rotations." Sustainable Agriculture Research and Education.
-  - Clark, A. (2007). "Managing Cover Crops Profitably." 3rd Edition. SARE Handbook Series 9.
-  - Magdoff, F. & van Es, H. (2009). "Building Soils for Better Crops." 3rd Ed. SARE.
   - Kassam, A. et al. (2019). "Global spread of conservation agriculture." International Journal of Environmental Studies 76(1): 29-51.
 ---
 

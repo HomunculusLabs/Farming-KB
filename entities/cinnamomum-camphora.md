@@ -22,9 +22,6 @@ aliases:
   - Japanese camphor
   - shiu-wood
 sources:
-  - Chen, W. et al. (2021). "Cinnamomum camphora: A comprehensive review of traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 275, 114113.
-  - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora permaculture-designers-manual-essential-oil-plants." Molecules, 20(9), 16757–16767.
-  - Floyd, A.G. (1989). "Rainforest Trees of Mainland South-eastern Australia." Inkata Press.created: 2026-05-07
 
 created: 2026-05-07
 ---

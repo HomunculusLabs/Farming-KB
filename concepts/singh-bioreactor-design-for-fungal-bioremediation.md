@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Bioreactor Design for [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] maintained above critical
   thresholds (typically >2 mg/L).

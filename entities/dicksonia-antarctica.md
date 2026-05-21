@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Large M.F., Braggins J.E. (2004). "Tree Ferns." Timber Press.
-  - Brock J.M. (2001). "Dicksonia antarctica (soft tree fern) in Tasmania." Papers and Proceedings of the Royal Society of Tasmania 135: 41-46.
-  - Hunt M. (2004). "Tree Ferns in Australia." Australian Plants online, ASGAP.
   - Tropicos.org. Missouri Botanical Garden. "Dicksonia antarctica Labill."
 ---
 

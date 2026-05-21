@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sea Buckthorn: Production and Utilization — Thomas S.C. Li, 2003"
-  - "Aronia: Native Berries with Emerging Health Benefits — K. Kulling & M. Rawel, 2008"
-  - "The Encyclopedia of Fruit and Nuts — Jules Janick & Robert E. Paull, 2008"
-  - "USDA NRCS Plant Guides: Hippophae rhamnoides & Aronia melanocarpa"
-  - "Journal of Agricultural and Food Chemistry — comparative polyphenol studies, 2019–2024"
 type: comparison
 ---
 

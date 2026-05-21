@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cope, T.A. & Gray, A. (2009). "Grasses of the British Isles." BSBI Handbook No. 13.
-  - Hubbard, C.E. (1984). "Grasses: A Guide to their Structure, Identification, Uses and Distribution." Penguin Books.
-  - Clayton, W.D. et al. (2006 onward). "World Grass Species - Online." Royal Botanic Gardens, Kew.
-  - Tutin, T.G. et al. (1980). "Flora Europaea Vol. 5." Cambridge University Press.
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
 ---
 

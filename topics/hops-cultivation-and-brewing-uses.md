@@ -14,11 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Homebrewer's Garden, Joe Fisher & Dennis Fisher (2012)"
   - "For the Love of Hops, Stan Hieronymus (2012)"
-  - "Hops: Their Cultivation, Commerce, and Uses in Various Countries, P.L. Simmonds (1877, historical reference)"
   - "USDA Plant Hardiness Zone Map"
-  - "American Homebrewers Association brewing guidelines"
   - "Permaculture: A Designers' Manual, Bill Mollison (1988)"
 ---
 

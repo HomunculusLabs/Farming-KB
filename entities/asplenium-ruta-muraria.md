@@ -10,7 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Rush, G.E. & Slee, A. (2005). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Flora of North America Editorial Committee (1993). "Flora of North America, Vol. 2: Pteridophytes and Gymnosperms." Oxford University Press.
 ---
 

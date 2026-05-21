@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia." Magnum Opus Press.
-  - Hartmeyer, S. (2003). "Cephalotus follicularis — The Albany Pitcher Plant." Carnivorous Plant Newsletter 32(3): 82–88.
-  - Lloyd, F.E. (1942). "The Carnivorous Plants." Chronica Botanica.
-  - Ellison, A.M. & Adamec, L. (2018). "Carnivorous Plants: Physiology, Ecology, and Evolution." Oxford University Press.
   - Plachno, B.J. et al. (2007). "Distribution and Structure of Digestive Glands in Cephalotus." Annals of Botany 99(6): 1157–1162.
 ---
 

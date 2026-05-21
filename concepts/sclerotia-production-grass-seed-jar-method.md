@@ -5,7 +5,6 @@ tags: [sclerotia, psilocybe-mexicana, psilocybe-tampanensis, grass-seed-substrat
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Cultivation of fruitbodies and sclerotia on sterilised grass seed (GUID, Exotic Cultivation Series)"
 type: concept
 ---
 

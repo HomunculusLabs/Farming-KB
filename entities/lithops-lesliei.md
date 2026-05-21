@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cole DT & Cole NA (2005). "Lithops: Flowering Stones." Cactus & Co. Verlag.
-  - Hammer S (2010). "Mesembs: The Twitter Generation." Brittonia 62(3).
-  - Opel MR (2005). "Phylogenetic relationships of Lithops." Botanical Journal of the Linnean Society.
   - IUCN Red List (2024). "Lithops lesliei assessment."
 ---
 

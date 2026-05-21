@@ -16,14 +16,14 @@ Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-
 Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing requirement and the most common reason for failure.
 
 ### Testing and Targeting pH
-- Test [[soil-ph]] before planting — most garden soils are too alkaline (pH 6.0-7.5)
+- Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
 - Target pH 4.5-5.0 for optimal growth and nutrient uptake
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 
 ### Lowering Soil pH
 - **Elemental sulfur**: Most effective; 1-2 lbs per 100 sq ft in sandy soil, 5-6 lbs in clay. Apply 3-6 months before planting
-- **[[peat-moss]]**: Mix 2-4 inches into planting hole; naturally acidic (pH 3.5-4.5)
+- **Peat moss**: Mix 2-4 inches into planting hole; naturally acidic (pH 3.5-4.5)
 - **Pine needles and bark**: Acidic mulch that slowly lowers pH
 - **Ferrous sulfate**: Lowers pH and adds iron — useful for correcting chlorosis
 - Avoid aluminum sulfate (toxic buildup) and lime/ash near blueberries
@@ -143,8 +143,12 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Avoid chlorides (blueberries are chloride-sensitive)
 
 ### Schedule
+- Year 1: No fertilizer at planting; first application 4-6 weeks after planting with 1 tablespoon of ammonium sulfate
+- Year 2: Apply in early spring and again in late spring — 2 tablespoons per plant per application
+- Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
+- Stop fertilizing by mid-summer to allow new growth to harden before winter
 ## See Also
 
-- [[strawberry-growing-guide]] for companion small fruit management
-- [[apple-tree-care]] for companion orchard tree care
-- [[backyard-orchard-design]] for integrating blueberries into orchard layouts
+- [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]
+- [[blueberry-cultivation-and-variety-guide]]
+- [[blueberry-cannabis]]

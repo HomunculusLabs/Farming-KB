@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zhou, L.W. et al. (2016). "Sanghuangporus: a new genus of Hymenochaetaceae." Mycosistema.
-  - Dai, Y.C. et al. (2019). "Species diversity of Sanghuangporus in arbuscular-mycorrhizal-fungal-diversity.
-  - Wang, X. & Wang, D.M. (2020). "Phylogenetic diversity and medicinal value of Sanghuangporus." Journal of Fungi.
   - Wu, F. et al. (2021). "Triterpenoids and polysaccharides from Sanghuangporus species." Natural Product Reports.
 ---
 

@@ -11,13 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jacke, D. & Toensmeier, E. (2005). *Edible Forest Gardens* (Vols. 1–2). Chelsea Green Publishing.
-  - Shein, C. (2013). *The Permaculture Handbook: Garden Farming for Town and Country*. New Society Publishers.
-  - Whitefield, P. (2004). *The Earth Care Manual: A Permaculture Handbook for Britain & Other Temperate Climates*. Permanent Publications.
-  - Holzer, S. (2011). *Sepp Holzer's Permaculture: A Practical Guide to Small-Scale, Integrative Farming and Gardening*. Chelsea Green Publishing.
-  - Yeomans, P.A. (1971). *The Keyline Plan*. Keyline Publishing.
-  - Toensmeier, E. (2016). *The Carbon Farming Solution: A Global Toolkit of Perennial Crops and Regenerative Agriculture Practices*. Chelsea Green Publishing.
-  - Mollison, B. & Holmgren, D. (1978). *Permaculture One: A Perennial Agriculture for Human Settlements*. Tagari Publications.
 type: query
 ---
 ## Step-by-Step Design Process

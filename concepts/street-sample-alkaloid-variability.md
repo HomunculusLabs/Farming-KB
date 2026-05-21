@@ -4,7 +4,6 @@ date: 2026-04-28
 updated: 2026-04-28
 tags: [psilocybin, psilocin, street-samples, variability, dosing, psilocybe-cubensis, harm-reduction]
 sources:
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 type: concept
 ---
 

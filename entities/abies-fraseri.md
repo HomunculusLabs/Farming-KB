@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Winstead, J.E. et al. (2001). "Balsam Woolly Adelgid in the Southern Appalachians." USDA Forest Service Report.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook 541.
   - White, P.S. et al. (2012). "Vegetation of the Southern Blue Ridge." University of North Carolina Herbarium.
 ---
 

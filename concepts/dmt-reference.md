@@ -5,7 +5,6 @@ updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, consciousness, ethnobotany, culture]
 sources:
-  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
   - raw/papers/shulgin-a-tihkal.md
 ---
 
@@ -136,12 +135,17 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - Users should lie down before taking a hit — inability to stand is immediate
 - Smoking technique is critical; burning destroys DMT and produces harsh smoke
 - Set and setting are extremely important due to intensity
+- Integration time is needed after the experience despite its short duration
+- Contra-indicated with SSRIs, MAOIs, and many psychiatric medications
+- Cardiovascular effects: transient increases in blood pressure and heart rate
+- Psychological risk: overwhelming experiences can be traumatic without proper preparation
+
 ## See Also
 
 - [[psychedelic-compounds-reference]] — Broader compounds table
 - [[psychedelic-mushroom-history]] — Psilocybin (4-OH-DMT) history
 - [[entheogen-culture]] — Religious and spiritual use of psychoactive plants
-- [[amanita-muscaria]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
+- [[amanita-muscaria-guide]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
 - [[soma-hypothesis]] — Ancient psychoactive plant use
 
 ## Related

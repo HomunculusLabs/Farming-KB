@@ -7,8 +7,6 @@ tags:
 
   - aquatic-plant
   the most distinctive morphological feature
-- **Petioles:** Thick, spongy, 1–3 m long, anchored in substrate
-- **Roots:** Fibrous system in muddy bottom; spread covers 1–3 m²
 ---
 
 ### Reproductive Structures
@@ -79,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+Further research into euryale ferox continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind euryale ferox provides a foundation for both practical application and continued scientific inquiry.

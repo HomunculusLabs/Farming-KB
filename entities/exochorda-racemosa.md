@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bean, W.J. (1981). Trees and Shrubs Hardy in the British Isles, 8th ed. John Murray.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
-  - Royal Horticultural Society. "Exochorda racemosa." RHS Plant Finder.
   - Valder, P. (1999). The Garden Plants of China. Timber Press.
 ---
 

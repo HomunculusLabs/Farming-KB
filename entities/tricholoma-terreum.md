@@ -10,9 +10,6 @@ tags:
   - edible-mushroom
   - mycorrhizal
 sources:
-  - Kühner R, Romagnesi H. (1953). "Flore analytique des champignons supérieurs." Masson.
-  - Bon M. (1987). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
-  - Consiglio G, Contu M. (2002). "Il genere Tricholoma in Sardegna." Revista de Micología.
   - Breso E, Vizzini A. (2014). "ectomycorrhizal-mushroom-fruiting-ecology found primarily under conifers, especially pine (Pinus spp.), across Europe and parts of Asia.
 ---
 

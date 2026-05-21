@@ -8,8 +8,6 @@ tags:
   - superfruit
   - vitamin-c
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
-  - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
-  - Akter, M.S. et al. (2011). "Camu-Camu: Composition medicinal-mushroom-compounds-and-health-benefits."
     Journal of Food Composition compost-quality-standards-and-analysis 24(4): 564-569.
 ---
 

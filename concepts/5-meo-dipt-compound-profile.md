@@ -83,7 +83,6 @@ that can amplify overall effectiveness.
 - [[dom-compound-profile]]
 - [[dpt-compound-profile]]
 - [[mda-compound-profile]]
-- [[mda-compound-profile]]
 - [[tma-2-compound-profile]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Klackenberg, J. (1985). "Revision of the Genus Exacum." Symbolae Botanicae Upsalienses, 25(1).
-  - Kew Royal Botanic Gardens. "Exacum bicolor." Plants of the World Online.
-  - Dassanayake, M.D. (1996). "A Revised Handbook to the Flora of Ceylon." Balkema, Vol. X.
   - Das, A.P. & Mandal, S. (2018). "Gentianaceae of the Indian Subcontinent: Diversity and Distribution." Springer.
 ---
 

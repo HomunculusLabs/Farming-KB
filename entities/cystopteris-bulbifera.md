@@ -10,7 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Flora of North America Editorial Committee (1993). "Flora of North America, Vol. 2: Pteridophytes and Gymnosperms." Oxford University Press.
   - Haufler, C.H. et al. (2006). "Cystopteridaceae." In: Smith et al., "A classification for extant ferns." Taxon 55(3): 705–731.
 ---
 

@@ -16,7 +16,6 @@ related:
   - no-till-farming-and-conservation-agriculture
   - mycorrhizal-fungi
   - the-soil-food-web
-  - nitrogen-fixing-bacteria-and-biological-nitrogen-fixation
   - sheet-mulching-and-no-dig-gardening
   - biofumigation-and-brassica-cover-crops-for-pest-management
 ---

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (1997). "Cyclamen: A Guide for Gardeners, Horticulturists and Botanists." Timber Press.
-  - Compton, J.A. et al. (2004). "Phylogeny of Cyclamen." In: Monocots: Systematics and Evolution. CSIRO Publishing.
-  - Debussche, M. et al. (2004). "Comparative ecology of Mediterranean Cyclamen species." Botanical Journal of the Linnean Society, 145(1), 13-31.
   - Royal Horticultural Society. "Cyclamen repandum." RHS Plant Explorer.
 ---
 

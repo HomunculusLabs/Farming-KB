@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Palmer R (2004). "A review of the use of GBL and its metabolism to GHB." Journal of Toxicology.
-  - van Amsterdam JGC, et al. (2012). "The medical use of gamma-hydroxybutyric acid (GHB)." Current Drug Abuse Reviews.
-  - ACMD (2008). "GBL and 1,4-BD: Report of the Advisory Council on the Misuse of Drugs." UK Home Office.
   - European Monitoring Centre for Drugs and Drug Addiction (2022). "GBL: Drug profile." EMCDDA.
 ---
 

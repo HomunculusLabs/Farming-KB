@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Correas, E. et al. (2021). "The Unique Carnivorous Plant Drosophyllum lusitanicum." Annals of Botany 128(2): 167–180.
-  - Paniagua, C. et al. (2017). "Phylogeny and Evolution of Carnivorous Plants." Botanical Journal of the Linnean Society 184(4): 551–572.
-  - Fleischmann, A. et al. (2010). ". Recent genomic evidence suggests its carnivorous habit evolved
 independently from other Droseraceae.
 ---# Taxonomy and Morphology
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Welsh, S.L. et al. (2015). "A Utah Flora." Brigham Young University.
-  - Van Pelt, R. (2001). "Conifers of the psilocybin-north-america-pacific-northwest." Oregon State University Press.
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2." Oxford University Press.---
 ---
 
@@ -79,3 +76,5 @@ Horticultural selections continue to be developed for ornamental use, with over 
 Creeping juniper is secure across most of its range and is not considered threatened. The species is widespread and locally abundant in boreal and montane habitats. However, populations in the Great Lakes sand dunes have declined in some areas due to habitat loss from development, recreational use, and invasive species competition.
 
 [[juniperus-communis]]
+Further research into juniperus horizontalis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind juniperus horizontalis provides a foundation for both practical application and continued scientific inquiry.

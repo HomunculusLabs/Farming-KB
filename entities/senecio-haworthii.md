@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Jacobsen H (1960). "A Handbook of Succulent Plants." Blandford Press.
-  - Tölken H (1977). "The Senecio articulatus complex." Journal of South African Botany 43: 177-195.
-  - Rowley GD (1994). "Succulent Compositae: Senecio and Othonna." Strawberry Press.
   - Smith GF et al. (2017). "Conservation status of the succulent flora of southern Africa." Bradleya 35: 178-196.
 ---
 

@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 15: Taylor, J.W., Turner, E., Pringle, A., Dettman, J. & Johannesson, H. "Fungal species: thoughts on their recognition, maintenance and selection."
 created: 2026-04-28
 type: concept
 ---

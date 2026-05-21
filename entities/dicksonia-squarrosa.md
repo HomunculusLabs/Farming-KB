@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Large MF, Braggins JE (2004). "Tree Ferns." Timber Press.
-  - New Zealand Plant Conservation Network (2024). "Dicksonia squarrosa." NZPCN.
-  - Dawson JW (1988). "Forest Vines to Snow Tussocks." Victoria University Press.
-  - Wardle P (1991). "Vegetation of New Zealand." Cambridge University Press.
   - Agnew LR (2005). "New Zealand Ferns and Allied Plants." David Bateman Ltd.
 ---
 

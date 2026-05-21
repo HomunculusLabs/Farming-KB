@@ -10,7 +10,6 @@ tags:
   - agricultural-waste
   - rural-enterprise
 sources:
-  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 source_chunks:
   - source: unknown-oyster-mushroom-cultivation.md
     chunk_id: 6

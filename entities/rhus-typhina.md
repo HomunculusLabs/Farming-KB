@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Coupland, R.T. & Cavers, P.B. (1978). \"Rhus typhina in Canada.\" Canadian Journal of Botany, 56(7), 737-745."
-  - "USDA NRCS. (2024). \"Rhus typhina Plant Guide.\" USDA Natural Resources Conservation Service."
-  - "Kershaw, L. (2001). Trees of Michigan. Lone Pine Publishing."
   - "Martin, A.C., Zim, H.S., & Nelson, A.L. (1951). American Wildlife and Plants. McGraw-Hill."
 ---
 

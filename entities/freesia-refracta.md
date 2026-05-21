@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J. (2008). "The Iris Family: Natural History & Classification." Timber Press.
-  - Manning, J.C. & Goldblatt, P. (2010). "Iridaceae of southern Africa." Strelitzia, 28, 1–200.
-  - Kew Plants of the World Online: Freesia refracta. https://powo.science.kew.org
-  - Du Plessis, H. & Duncan, G. (2006). "Grow Bulbs." Kirstenbosch Gardening Series.
   - Imsic, R. (2010). "Freesia cultivation kanna-sceletium-south-african-narcotic National Biodiversity Institute.
 ---
 

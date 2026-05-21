@@ -5,7 +5,6 @@ tags: [mycology, taxonomy, agaricaceae, edible-fungi, identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - [raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 --- Edible Agarics
 The Agaricaceae constitute the majority of conspicuous fleshy fungi,

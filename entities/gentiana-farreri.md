@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentiana." Flora of China, Vol. 16. Science Press.
-  - Marriott, J. (2021). "Alpine Gentians: Cultivation and Classification." Alpine Garden Society Bulletin.
-  - Kew Royal Botanic Gardens. "Gentiana farreri." Plants of the World Online.
   - Grey-Wilson, C. (2014). "Alpine Plants of Europe: A Gardener's Guide." Timber Press.
 ---
 

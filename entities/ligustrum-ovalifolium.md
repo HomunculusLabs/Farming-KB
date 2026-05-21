@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Green, P.S. (1995). "A revision of Ligustrum (Oleaceae)." Kew Bulletin 50: 367-416.
-  - Christen, D.C. & Matlack, G.R. (2009). "The habitat and functional traits of invasive Ligustrum ovalifolium." Biological Invasions 11: 1861-1874.
-  - Reichard, S.H. (1997). "Potential of invasive woody plants in psilocybin-north-america-pacific-northwest." In Assessment and Management of Plant Invasions, Springer.
   - Bailey, L.H. & Bailey, E.Z. (1976). "Hortus Third." Macmillan, New York.
 ---
 

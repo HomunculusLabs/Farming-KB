@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2024). "Katsu Bubba Weed Strain Information." Leafly.com.
-  - AllBud (2024). "Katsu Bubba Marijuana Strain." AllBud.com.
-  - Mammen, T. et al. (2018). "Cannabis Chemotaxonomy: A Review." Cannabis and Cannabinoid Research 3(1): 52-64.
-  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
 created: 2026-05-07
 ---
 

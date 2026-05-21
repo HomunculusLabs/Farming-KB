@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Clewell, A.F. (1966). "Revision of the genus Lespedeza section Lespedeza." Brittonia 18(1): 56-100.
-  - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
-  - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
-  - USDA NRCS (2024). "Plant Guide: Roundhead lespedeza." USDA Natural Resources Conservation Service.
   - Millar, B.D. & Baden, C. (2015). "Lespedeza." In: Flora comparison-prairie-restoration-vs-silvopasture, and cannabis-controlled-pollination-seed-production.
 ---
 

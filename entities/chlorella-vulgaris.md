@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Safi C, et al. (2014). "Screening of microalgae for biodiesel and biogas production." Renewable and Sustainable Energy Reviews, 31, 790-799.
-  - Borowitzka MA (2013). "High-value products from microalgae — their development and commercialisation." Journal of Applied Phycology, 25, 743-756.
-  - Wijffels RH, et al. (2013). "Potential of sponges and microalgae for marine biotechnology." Trends in Biotechnology, 31(2), 79-88.
-  - Spolaore P, et al. (2006). "Commercial applications of microalgae." Journal of Bioscience and Bioengineering, 101(2), 87-96.
   - Bleakley S, Hayes M (2011). "Algal proteins: extraction, application, and challenges concerning production." Foods, 2(1), 16-39.
 ---
 

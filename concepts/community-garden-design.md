@@ -5,7 +5,6 @@ updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 

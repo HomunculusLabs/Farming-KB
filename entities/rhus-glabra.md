@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brinkman, K.A. (1974). "Rhus glabra L." Silvics huckleberries-and-wild-berries-of-north-america, USDA Forest Service.
-  - Peacock, J. et al. (1998). "Post-fire succession in Rhus glabra-dominated grassland." American Midland Naturalist, 139(1), 132-146.
   - USDA NRCS. "Rhus glabra L." PLANTS Database.
   - Riddell, J.B. (1835). "Synopsis of the Flora of the Western States." American Journal of Science and Arts, 28, 307-339.
 ---

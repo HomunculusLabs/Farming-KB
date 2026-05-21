@@ -9,8 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Vlot AC, Dempsey DA, Klessig DF (2009). "Salicylic Acid, a Multifaceted Hormone to Combat Disease." Annual Review of Phytopathology 47:177-206.
-  - Durner J, Shah J, Klessig DF (1997). "Salicylic Acid and Disease Resistance in Plants." Trends in Plant Science 2:266-274.
   - Raskin I (1992). "Role of Salicylic Acid in Plants." Annual Review of Plant Physiology 43:439-463.
 ---
 

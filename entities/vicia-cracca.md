@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Fredrickson, E.L. et al. (1991). "Vicia cracca: A Review of the Taxonomy, Ecology, and Control." Weed Technology, 5(3): 613-619.
-  - Tutin, T.G. et al. (1968). "Flora Europaea, Volume 2." Cambridge University Press.
-  - United States Department of Agriculture, NRCS. "Vicia cracca L." PLANTS Database.
   - CABI Invasive Species Compendium. "Vicia cracca (tufted vetch)." CAB International.
 ---
 

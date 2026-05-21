@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Magrath, R. & Osbourn, A. (2005). "Glucosinolates and their breakdown products." In Plant antifungal-secondary-metabolites-coprophilous-fungi. Blackwell.
-  - Dixon, G.R. (2007). Vegetable Brassicas and Related Crucifers. CABI Publishing.
-  - FAO (2023). FAOSTAT: Crops and livestock products. Food and Agriculture Organization.
-  - Song, L. & Thornalley, P.J. (2007). "Effect of storage, processing and cooking on glucosinolate content of Brassica vegetables." Food Chemistry, 105(4), 2187-2197.
   - Cartea, M.E. & Velasco, P. (2008). "Glucosinolates in Brassica foods: bioavailability in food and significance for human health." Phytochemistry Reviews, 7(2), 213-229.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bean, W.J. (1973). nitrogen-fixing-trees-and-shrubs Hardy in the British Isles, 8th ed. John Murray.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
-  - Royal Horticultural Society (2024). "Kolkwitzia amabilis." https://www.rhs.org.uk/
   - Phillips, R. & Rix, M. (2002). The Botanical Garden, Vol. II. Firefly Books.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Kimnach, M. (2003). "Echeveria lilacina." Haseltonia, 10: 28-31.
-  - Pilbeam, J. (2008). The Genus Echeveria. British Cactus and Succulent Society.
-  - Uhl, C. (1992). "Chromosomes of Mexican Crassulaceae." American Journal of Botany, 79(5): 551-562.
   - Reyes, J. & Gonzalo, R. (2010). "Crassulaceae of Northern Mexico." Cactáceas y Suculentas Mexicanas, 55(3): 78-95.
 ---
 

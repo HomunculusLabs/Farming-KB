@@ -19,10 +19,6 @@ aliases:
   - Chestnut Pholiota
   - Phaeolepiota aurea
 sources:
-  - Kühner, R. & Romagnesi, H. (1953). "Flore analytique des champignons supérieurs." Masson.
-  - Breitenbach, J. & Kränzlin, F. (1991). "Champignons de Suisse, Tome 3." Mykologia.
-  - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
-  - Noordeloos, M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13.
   - Begerow, D. et al. (2020). "bloomfield-boletus-satanus-edible-mushroom-hazards in Central and Eastern Europe, where it has a long history of collection. It is distinguished by its golden-brown, conspicuously scaly cap and stipe, its clustered growth habit, and its rusty-brown spore print.
 ---
 

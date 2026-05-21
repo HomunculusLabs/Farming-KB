@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Abbott I.A., Hollenberg G.J. (1976). "Marine Algae of California." Stanford University Press.
-  - Doty M.S. (1973). "Farming the red seaweed Eucheuma for carrageenans." Micronesica, 9, 59–73.
-  - Bixler H.J., Porse H. (2011). "A decade of change in the seaweed hydrocolloids industry." Journal of Applied Phycology, 23, 321–335.
-  - Hayashi L. et al. (2007). "Carra-geenan characteristics of the red alga Eucheuma." Journal of Applied Phycology, 19, 525–531.
   - Hurtado A.Q. et al. (2015). "Development of new strains of Kappaphycus/Eucheuma." Journal of Applied Phycology, 27, 2165–2175.
 ---
 

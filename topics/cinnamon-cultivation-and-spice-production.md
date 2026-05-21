@@ -11,17 +11,11 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - title: "Cinnamon (Cinnamomum verum) - Purdue University Center for New Crops and Plant Products"
     url: "https://hort.purdue.edu/newcrop/CropFactSheets/cinnamon.html"
-  - title: "Cinnamomum Species: Ethnobotany, Phytochemistry, and Pharmacology"
     url: "https://doi.org/10.3390/molecules24061140"
-  - title: "FAO Trade Data - Cinnamon and Cinnamon (Cassia)"
     url: "https://www.fao.org/faostat/en/#data/TCL"
-  - title: "Kew Royal Botanic Gardens - Cinnamomum verum"
     url: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:592804-1"
-  - title: "Spice Board of India - Cinnamon Statistics"
     url: "https://www.indianspices.com/spice-catalogue/cinnamon.html"
-  - title: "Ravindran PN et al. Cinnamon and Cassia: The Genus Cinnamomum. CRC Press, 2004"
     url: "https://www.routledge.com/Cinnamon-and-Cassia-The-Genus-Cinnamomum/Ravindran-Babu-Shylaja/p/book/9780415317554"
 ---
 

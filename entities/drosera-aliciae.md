@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia." Vol. 1–3. Redfern Natural History Productions.
-  - Fleischmann, A. et al. (2018). "Droseraceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants. Springer.
-  - Slack, A. (2000). "Carnivorous Plants." Revised Edition. MIT Press.
   - Rhoades, P. (2022). "Drosera aliciae cultivation profile." International Carnivorous Plant Society.
 ---
 

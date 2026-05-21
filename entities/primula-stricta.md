@@ -10,9 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Hultén, E. & Fries, M. (1986). "Atlas of North European Vascular Plants." Koeltz Scientific Books.
-  - Nordiska Ministerrådet (2004). "Nordens Flora." Wahlström & Widstrand.
-  - Aiken, S.G. et al. (2007). "Flora of the Canadian Arctic Archipelago." NRC Research Press.
   - Taliev, V.I. (1954). "Flora of Murmansk Oblast." Academy of Sciences USSR.
 ---
 

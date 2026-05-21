@@ -5,7 +5,6 @@ updated: 2026-05-10
 type: concept
 tags: [biological-control, entomopathogenic-nematodes, ipm, soil-pests]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 
 ---
 ## Entomopathogenic Nematodes

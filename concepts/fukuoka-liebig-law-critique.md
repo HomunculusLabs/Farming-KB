@@ -5,7 +5,6 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Fukuoka's Critique of Liebig's Law of Minimum

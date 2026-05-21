@@ -6,7 +6,6 @@ tags: [the-other, sentient-presence, gaian-mind, psilocybin, visionary-experienc
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 --- The Other and Sentient Presence
 

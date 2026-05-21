@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Clewell, A.F. (1985). "Guide to the Vascular Plants of the Florida Panhandle." Florida State University Press.
-  - Clinebell, R.R. et al. (2004). "Pollinator Preference for Flower Color." American Journal of Botany 91(7).
-  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of North Carolina Press.
   - Tallamy, D.W. (2007). Bringing Nature Home. Timber Press.
 ---
 

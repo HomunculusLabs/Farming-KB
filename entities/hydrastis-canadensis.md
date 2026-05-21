@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing, 2nd Ed. CRC Press."
-  - "Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier."
-  - "USDA, NRCS. (2024). The PLANTS Database. plants.usda.gov."
-  - "Upton, R. et al. (2001). Goldenseal Root: Analytical, Quality Control, and Therapeutic Monograph. American Herbal Pharmacopoeia."
-  - "Bone, K. & Mills, S. (2013). The  American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
 Overharvested in the wild to near commercial extinction, cultivated supply chains are essential.
 Berberine receives significant clinical attention for metabolic and antimicrobial applications.
 ---# Taxonomy

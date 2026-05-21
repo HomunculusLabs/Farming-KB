@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gotsch, E. (2020). "Life in Syntropy." Film documentary. Agendagotsch.
-  - Gotsch, E. (2015). "A Renascência da Agricultura: Minha História com Ernst Götsch." (in Portuguese).
-  - Ferreira, T.A.G. et al. (2019). "Syntropic farming: a new approach to agriculture." Acta Scientiarum Agronomy 41(1): e39539.
-  - Wilkinson, A. et al. (2020). "Agroforestry as a pathway to sustainable intensification." Frontiers in Plant Science 11: 566044.
 created: 2026-05-07
 ---
 

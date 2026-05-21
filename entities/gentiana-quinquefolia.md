@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wood, J.G. & Weaver, R.E. (1982). "The Gentians huckleberries-and-wild-berries-of-north-america." Journal of the Arnold Arboretum 63: 241–290.
-  - Pringle, J.S. (1978). "Section Pneumonanthe of Gentiana." Sida 7: 234–267.
   - USDA NRCS Plants Database. Gentiana quinquefolia. https://plants.usda.gov
 ---
 

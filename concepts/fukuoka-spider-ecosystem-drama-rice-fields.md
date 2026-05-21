@@ -12,7 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-fukuoka.md
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hermann, R.K. & Lavender, D.P. (1990). "Pseudotsuga menziesii." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Franklin, J.F. & Dryness, C.T. (1973). Natural Vegetation of Oregon and Washington. USDA Forest Service General Technical Report PNW-8.
-  - Klinka, K. et al. (2000). "Towards a taxonomic classification of humus forms." Forest Science 46(4): 1-49.
   - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
 ---
 

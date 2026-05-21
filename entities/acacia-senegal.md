@@ -27,7 +27,6 @@ aliases:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brenan, J.P.M. (1983). "Manual on Taxonomy of Acacia Species." FAO, Rome.
   - Maundu, P. & Tengnäs, B. (2005). "Useful comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer, and provision of fodder, fuelwood, and gum in marginal agricultural environments. It forms a classic component of traditional parkland systems across Sudan, Senegal, and Niger.
 ---
 

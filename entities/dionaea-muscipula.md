@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Darwin, C. (1875). "Insectivorous Plants." John Murray, London.
-  - Ellison, A.M. & Gotelli, N.J. (2009). "Ecophysiological traits of terrestrial and aquatic carnivorous plants." Oecologia, 160(3), 501-509.
-  - Williams, S.E. et al. (2017). "Ecology and conservation of the Venus flytrap." Carnivorous Plant Newsletter, 46(4), 120-128.
   - Kruse, J. et al. (2014). "Firing properties of Dionaea muscipula trap: energetics and dynamics." Plant Physiology, 166(1), 326-336.
 ---
 

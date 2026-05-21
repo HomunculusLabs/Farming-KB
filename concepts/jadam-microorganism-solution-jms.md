@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Microorganism Solution (JMS) — Microbe Culture Recipe
 created: 2026-04-11
 updated: 2026-04-12
@@ -30,7 +31,7 @@ Collect from mountains near your farm. The best spots have thick layers of soft,
 
 Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming dry is not serious. You will use ~500g per batch.
 
-**No leaf mold available?** Pile [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] on bare soil, keep moist. Microbes propagate on the grass/soil surface. Soil becomes soft in ~3 weeks. Use as starter.
+**No leaf mold available?** Pile wild grass on bare soil, keep moist. Microbes propagate on the grass/soil surface. Soil becomes soft in ~3 weeks. Use as starter.
 
 ## Recipe: 500L (132 gal) Batch
 
@@ -118,4 +119,4 @@ When pest pressure requires more than prevention, add JHS to JMS:
 - [[jadam-wetting-agent-jwa]] — required for foliar application of JMS
 - [[jadam-herb-solution-jhs]] — add to JMS for pest control
 - [[indigenous-microorganisms-imo]] — KNF's 4-stage IMO method for comparison
-- [[jadam-methods]] — JADAM system overview and soil management [[jadam-organic-farming-ultra-low-cost-agriculture-philosophy]]
+- [[jadam-methods]] — JADAM system overview and soil management philosophy

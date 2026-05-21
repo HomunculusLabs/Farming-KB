@@ -138,13 +138,17 @@ Proper distance between the light source and the canopy is critical:
 | LED (quality, 200-300W) | 18-24 inches | 12-18 inches |
 | HPS 600W | 24-36 inches | 18-24 inches |
 | CMH 315W | 24-30 inches | 18-24 inches |
+| T5 fluorescent | 2-4 inches | N/A (not for flower) |
+
+Use a PAR meter if available to measure PPFD at the canopy level. If you don't have one, observe your plants: leaves reaching upward and praying (flat, wide) indicate good intensity. Leaves curling down or bleaching means too close.
+
+## Canopy Management and Light Distribution
+
+- **Even coverage**: Position lights so PPFD varies by no more than 30% across the canopy.
+- **Reflective walls**: Use mylar (95% reflectivity) or flat white paint to maximize light utilization.
+- **Light movers**: Rail systems that move lights back and forth can improve coverage in larger areas.
+- **Defoliation and training**: See [[cannabis-topping-training]] for techniques to create an even canopy that maximizes light absorption.
 ## See Also
 
-- [[cannabis-topping-training]] — Training techniques to optimize light absorption
-- [[cannabis-vegetative-stage]] — Lighting requirements during veg
-- [[cannabis-living-soil-guide]] — Integrating lighting with a living soil grow
-- [[cannabis-flowering-stage]] — Lighting adjustments for the flowering phase
-
-## Related
-
-- [[led-vs-hps-grow-lights]]
+- [[cannabis-grow-lighting-hid-systems]]
+- [[green-cannabis-lighting-guide]]

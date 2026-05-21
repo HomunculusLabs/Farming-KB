@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Duval, H.A. (1809). "Haworthia retusa." Plantae Succulentae, 11.
-  - Bayer, M.B. (1999). Haworthia Revisited: A Revision of the Genus. Umdaus Press.
-  - Royal Horticultural Society (2023). "Haworthia retusa." RHS Plant Finder. https://www.rhs.org.uk/Plants
   - Scott, C.L. (1985). The Genus Haworthia. Aloe Books.
 ---
 

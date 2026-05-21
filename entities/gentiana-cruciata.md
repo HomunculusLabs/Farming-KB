@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L., & Albert, V. A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Müller, J., et al. (2016). "Pollination ecology of Gentiana cruciata." Plant Ecology, 217(5), 527-538.
   - McGee, J., & Malcolm, A. (2006). "Gentians." Timber Press, Portland.
 ---
 

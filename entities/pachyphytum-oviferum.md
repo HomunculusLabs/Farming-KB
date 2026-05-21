@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Moran, R. (1963). "Pachyphytum, Section Diotostemon." Cactus and Succulent Journal 35: 147-156.
-  - Pilbeam, J. (2008). "The Genus Pachyphytum." British Cactus and Succulent Society.
-  - Anderson, E.F. (2001). The Cactus Family. Timber Press.
-  - Royal Botanic Gardens Kew. "Pachyphytum oviferum." Plants of the World Online.
   - Meyrán García, J. & López, C. (2003). Las Suculentas del Desierto Chihuahuense. CONABIO.
 ---
 

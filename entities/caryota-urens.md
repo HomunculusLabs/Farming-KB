@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
   - Johnson, D.V. (1998). "Non-wood arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science, 20(1), 57-69.
 ---
 

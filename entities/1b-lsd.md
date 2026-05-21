@@ -12,8 +12,6 @@ tags:
   - 5-ht2a-agonist
   - tryptamine-derived
 sources:
-  - Brandt, S.D. et al. (2019). "The newer wave of lysergamide-based shulgin-designer-drugs-analysis." Drug soil-testing-and-analysis, 11(9), 1265-1276.
-  - Grigoryev, A. et al. (2021). "cultural-evolution-and-psychoactive-substances."
   - https://isomerdesign.com/PiHKAL/view.php?id=11265
 ---
 

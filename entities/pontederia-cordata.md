@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowden, R.M. (1973). "Revision of the genus Pontederia L." Rhodora, 75(802), 426-490.
-  - Graham, S.A. & Graham, S.A. (2014). "Pontederiaceae." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 24, pp. 29-39. Oxford University Press.
-  - Hardin, E.D. & Wistendahl, W.A. (1983). "The effects of fire on vegetation of a river margin in southeastern Ohio." Ohio Journal of Science, 83(2), 60-68.
-  - Tanner, C.C. (1996). "Plants for comparison-constructed-wetlands-vs-bioswales in New Zealand." Journal of the Royal Society of New Zealand, 26(4), 499-510.
   - Snow, A.A. & Snow, D.W. (1988). "Pollination and seed production in pickerelweed, Pontederia cordata." Oecologia, 76(3), 392-396.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Dong TTX, Cui XM, Huang ZH, et al. (2018). "Chemotaxonomy, quality control, and metabolomics of Atractylodes medicinal plants." Journal of Chromatography B, 1083, 83–91.
-  - Wang Y, Liu M, Wang Y, et al. (2019). "A review of the pharmacological effects of Atractylodes macrocephala." Biomedicine & Pharmacotherapy, 112, 108617.
   - Li CY, Wong KL, Liu ZQ, et al. (2021). "Atractylodes macrocephala: A review of its traditional uses, phytochemistry, and pharmacology." Frontiers in Pharmacology, 12, 639546.
 ---
 

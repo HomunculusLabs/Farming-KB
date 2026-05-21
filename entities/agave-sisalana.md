@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Purseglove, J.W. (1972). "mollison-specialist-tropical-crops-forest-products: Monocotyledons." Longman.
-  - Lock, G.W. (1962). "Sisal: Twenty-five Years' Sisal Research in East Africa." Longman.
-  - FAO (2021). "FAOSTAT: Fibres of Vegetable Origin — Sisal." Food and Agriculture Organization.
   - Gibson, A.C. (2002). "Agaves of Continental agave-americana.
 ---
 

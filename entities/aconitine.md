@@ -15,7 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Chan, T.Y. (2016). "Aconitine poisoning: a global perspective." Clinical Toxicology, 54(1), 7-16.
   - Ameri, A. (1998). "The effects of aconitum alkaloids on the central nervous system." Progress in Neurobiology, 56(2), 211-235.
 ---# Aconitine
 
@@ -78,3 +77,5 @@ Management of aconitine poisoning focuses on cardiovascular stabilization and ar
 ## Safety and Regulation
 
 Due to its extreme toxicity, aconitine is regulated in most countries and requires specialized handling protocols in research settings.
+Further research into aconitine continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind aconitine provides a foundation for both practical application and continued scientific inquiry.

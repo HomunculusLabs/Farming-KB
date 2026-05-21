@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L. & Albert, V. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Davis, P.H. (1978). "Flora of Turkey and the East Aegean Islands, Vol. 6." Edinburgh University Press.
-  - Kew Royal Botanic Gardens. "Gentiana elwesii." Plants of the World Online. https://powo.science.kew.org/
   - Grey-Wilson, C. (2014). "Gentians of the World." Royal Botanic Garden Edinburgh.
 ---
 

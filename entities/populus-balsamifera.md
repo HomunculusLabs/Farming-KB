@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eckenwalder, J.E. (1996). "Systematics and Evolution of Populus." In Stettler, R.F. et al. (eds), Biology of Populus. NRC Research Press.
-  - Boreal Forest Network (2020). "Populus balsamifera: Ecology and Silvics." Forestry Compendium.
-  - Moss, E.H. (1983). Flora of Alberta. University of Toronto Press.
-  - Viereck, L.A. & Little, E.L. (1972). "Alaska Trees and Shrubs." USDA Forest Service Agriculture Handbook No. 410.
   - Rood, S.B. et al. (2007). "Instream Flow for Cottonwood Forest Restoration." River Research and Applications, 23(2), 135-144.
 ---
 

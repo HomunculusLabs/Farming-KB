@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hughes, C.E. (1998). Leucaena: A Genetic Resources Handbook. Oxford Forestry Institute, Oxford University Press."
-  - "Shelton, H.M. et al. (2005). \"Leucaena leucocephala — what we know and what we don't know.\" Tropical Grasslands, 39(4), 1-14."
   - "Brewbaker, J.L. (1987). \"Leucaena: A mollison-tree-crop-systems-permaculture for the Tropics, 2nd ed. National Academies Press."
 ---
 

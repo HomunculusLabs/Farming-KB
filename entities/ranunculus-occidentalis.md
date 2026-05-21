@@ -10,10 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Whittemore, A.T. (1997). "Ranunculus." Flora of North America North of Mexico, Vol. 3. Oxford University Press.
-  - Ertter, B. (2023). "Ranunculus occidentalis Complex." Journal of the Botanical Research Institute of Texas, 17(1): 23–41.
-  - USDA NRCS PLANTS Database. "Ranunculus occidentalis Nutt." https://plants.usda.gov
-  - Klinkenberg, B. (2020). E-Flora BC: Electronic Atlas of the Plants of British Columbia. University of British Columbia.
   - Nesom, G.L. (2022). "Taxonomy of the Ranunculus occidentalis Group (Ranunculaceae)." Phytoneuron, 2022(4): 1–18.
 ---
 

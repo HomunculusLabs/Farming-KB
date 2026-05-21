@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). "Primula." Timber Press, Portland, OR.
-  - Hu, C.M. & Kelso, S. (1996). "Primulaceae." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China, Vol. 15. Science Press, Beijing.
   - Royal Horticultural Society (2023). "Primula vialii." RHS Plant Finder. https://www.rhs.org.uk
 ---
 

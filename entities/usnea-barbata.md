@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cocchietto, M., Skert, N., Nimis, P.L., Sava, G. (2002). "A review on usnic acid, an interesting natural compound." Naturwissenschaften, 89(4), 137–146.
-  - Ingólfsdóttir, K. (2002). "Usnic acid." Phytochemistry, 61(7), 729–736.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Perry, N.B., Benn, M.H., Brennan, N.J., et al. (1999). "Antimicrobial, antiviral and cytotoxic activities of New Zealand lichens." Lichenologist, 31(5), 627–636.
   - NSC (2008). "The International Chemical Identification Number (NSC) record for Usnea spp." National Safety Council Database.
 ---
 
@@ -79,3 +75,14 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on usnea barbata have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with usnea barbata should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

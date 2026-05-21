@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Treseder, N.G. (1978). "Magnolias: A Gardener's Guide." Faber & Faber.
-  - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
-  - Godfrey, R.K. & Wooten, J.W. (1981). "Aquatic and Wetland Plants of Southeastern United States." University of Georgia Press.
-  - USDA NRCS Plant Database: Magnolia macrophylla profile.
   - Figlar, R.B. & Nooteboom, H.P. (2004). "Notes on Magnoliaceae IV." Blumea 49: 87–100.
 ---
 

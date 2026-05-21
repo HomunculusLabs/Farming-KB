@@ -75,7 +75,7 @@ Best for large, meaty mushrooms:
 For tough or woody species:
 - Cook low and slow in liquid
 - Aromatics, wine, stock, or cream as braising liquid
-- Works well for: hen of the woods, [[chicken-of-the-woods]] (young), hedgehogs
+- Works well for: hen of the woods, chicken of the woods (young), hedgehogs
 - Stewed mushrooms are traditional in Eastern European, Asian, and Mediterranean cuisines
 
 ### Frying
@@ -144,7 +144,10 @@ Preservation method that also creates flavor:
 - Tear into pieces along natural segments
 - Best methods: roasting, braising, tempura, soups
 - Pair with: soy sauce, butter, sage, roasted meats
+- Crisps beautifully when roasted at high heat
+
+### Chicken of the Woods (Laetiporus sulphureus)
+- Chicken-like texture and mild flavor when young
 ## See Also
 
-- [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with
-- [[mushroom-foraging-safety]] -- ethical harvesting for the kitchen
+- [[comparison-charcoal-production-for-cooking-vs-rocket-stove-design]]

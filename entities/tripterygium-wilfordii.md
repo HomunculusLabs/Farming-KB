@@ -11,8 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tao X., Lipsky P.E. (2000). "Tripterygium wilfordii Hook F." Expert Opinion on Investigational Drugs.
-  - Brinker A.M., et al. (2007). "Tripterygium wilfordii: A review." Journal of Ethnopharmacology.
   - Lv H., et al. (2019). "Triptolide: A promising immunosuppressant." Frontiers in Pharmacology.
 ---
 

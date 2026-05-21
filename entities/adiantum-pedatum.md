@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Lellinger, D.B. (1985). "A Field Manual of the Ferns and Fern-Allies of the United States and Canada." Smithsonian Institution Press.
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora polypore-fungi-eastern-north-america America and eastern Asia. The disjunct distribution between the two continents is a classic example of the Arcto-Tertiary geoflora pattern shared by many temperate forest plants.
 ---
 

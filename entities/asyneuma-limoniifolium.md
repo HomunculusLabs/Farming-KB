@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Damboldt, J. (1970). "Zur Taxonomie und Chorologie der Gattung Asyneuma." Botanische Jahrbücher, 89: 226-256.
-  - Fedorov, A.A. (1957). "Campanulaceae." In: Komarov, V.L. (ed.), Flora URSS, Vol. 24. Moscow-Leningrad.
-  - Strid, A. & Tan, K. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
   - Plants of the World Online (2024). "Asyneuma limoniifolium (L.) Bornm." Kew Science. https://powo.science.kew.org
 ---
 

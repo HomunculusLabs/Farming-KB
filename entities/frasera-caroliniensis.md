@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L. & Albert, V. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Kew Royal Botanic Gardens. "Frasera caroliniensis." Plants of the World Online. https://powo.science.kew.org/
   - Cooperrider, T.S. (1995). "The Dicotyledoneae of Ohio: Part 2." Ohio State University Press.
 ---
 

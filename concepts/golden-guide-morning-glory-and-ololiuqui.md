@@ -6,7 +6,6 @@ tags: [hallucinogenic-plants, lsa, morning-glory, ololiuqui, ethnobotany,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 

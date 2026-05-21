@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Rubel, W. & Arora, D. (2008). A Study of Cultural Bias in Field Guide Determinations of mushroom-edibility-testing-safety-protocols Using the Iconic Taxon, Amanita muscaria. Economic Botany, 62(3), 331-344."
   - "Ott, J. (1976). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History."
 ---# Amanita muscaria
 

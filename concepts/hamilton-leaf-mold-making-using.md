@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 type: concept
 ---# Leaf Mold — Making and Using It
 

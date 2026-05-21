@@ -80,7 +80,7 @@ Shake jars vigorously after loading to distribute grain evenly. Some growers als
 
 ### Pressure Canning
 
-Grain MUST be sterilized in a [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] or autoclave. Boiling water cannot reach temperatures high enough to kill bacterial endospores, which survive at 212F (100C). A pressure cooker at 15 PSI reaches 250F (121C), which is sufficient.
+Grain MUST be sterilized in a pressure cooker or autoclave. Boiling water cannot reach temperatures high enough to kill bacterial endospores, which survive at 212F (100C). A pressure cooker at 15 PSI reaches 250F (121C), which is sufficient.
 
 Standard schedule:
 - Quart jars: 90-120 minutes at 15 PSI
@@ -96,7 +96,7 @@ Grain is dense and packed tightly in jars. Heat penetration is slow. Insufficien
 After jars have cooled completely to room temperature (overnight is safest), they are ready for inoculation. See [[mushroom-sterile-technique-detailed]] for full sterile procedure.
 
 Inoculation sources:
-- **[[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]**: 1-2 cc per quart jar. Slower colonization (2-4 weeks) because spores must germinate first. Genetic variability is high.
+- **Spore syringe**: 1-2 cc per quart jar. Slower colonization (2-4 weeks) because spores must germinate first. Genetic variability is high.
 - **Agar wedge**: Transfer a small piece of colonized agar into the jar. Faster and cleaner than spores.
 - **Liquid culture**: 5-10 cc per quart jar. Fastest colonization (7-14 days) because you are introducing living mycelium directly.
 

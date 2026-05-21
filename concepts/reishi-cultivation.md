@@ -1,5 +1,4 @@
 ---
-title: Reishi Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +8,7 @@ tags:
   - medicinal-mushrooms
   - ganoderma
   - reishi
-sources: ["raw/concepts/reishi-cultivation-guide.md"]
+sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
@@ -125,7 +124,7 @@ Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi|medicin
 
 ## See Also
 
-- Reishi detailed cultivation guide
+- [[reishi-cultivation-guide|Reishi detailed cultivation guide]]
 - [[reishi-mushroom-medicinal-research|Reishi medicinal research]]
 - [[medicinal-mushroom-guide-reishi|Reishi medicinal properties]]
 - [[mushroom-drying-storage|mushroom drying and storage]]

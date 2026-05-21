@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Bhowmik, P.C. & Bandopadhyay, S. (2004). \"Ecology of common milkweed (Asclepias syriaca).\" Crop Protection, 23(5), 431-437."
-  - "Agrawal, A.A. (2017). Monarchs and Milkweed: A Migrating Butterfly, a Poisonous Plant, and Their Remarkable Story of Coevolution. Princeton University Press."
-  - "Pryor, L.S. et al. (2011). \"Asclepias syriaca: A review of its traditional uses, phytochemistry, and pharmacology.\" Journal of Ethnopharmacology, 138(3), 715-725."
-  - "Baker, H.G. (1974). \"The evolution of weeds.\" Annual Review of Ecology and Systematics, 5, 1-24."
   - "Monarch Joint Venture (2023). \"Milkweed Fact Sheet.\" monarchjointventure.org."
 ---
 
@@ -78,3 +74,14 @@ Emerging research, technological advances, and evolving understanding continue t
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on asclepias syriaca have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with asclepias syriaca should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

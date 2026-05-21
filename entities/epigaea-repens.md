@@ -13,7 +13,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA PLANTS Database
-  - Flora of psilocybin-north-america-pacific-northwest
   - Lady Bird Johnson Wildflower Center
 ---
 

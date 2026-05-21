@@ -5,7 +5,6 @@ updated: 2026-04-17
 type: concept
 tags: permaculture, design, agriculture]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 

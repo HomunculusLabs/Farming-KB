@@ -19,11 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Nichols, D.E. (2014). "Psychedelics." Pharmacological Reviews, 66(1), 136–191.
-  - EMCDDA (2014). "NBOMe Series: 25b-nbome, 25C-NBOMe." EMCDDA-Europol Joint Report.
-  - Zuba, D. et al. (2013). "Identification and characterization of NBOMe compounds." Forensic Science International, 233(1-3), 48–56.
   - Erowid (2024). "25C-NBOMe Vault." Erowid.org.
-  - Suzuki, J. et al. (2015). "Agitation and death after 25C-NBOMe exposure." Journal of Addiction Medicine, 9(6), 469–471.
 created: 2026-05-07
 ---
 

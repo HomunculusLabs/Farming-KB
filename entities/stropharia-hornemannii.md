@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Noordeloos, M.E. (2011). Strophariaceae s. lato. Fungi Europaei, Vol. 13. Candusso Alba.
-  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Gartz, J. (1994). "Distribution and habitat of guzman-psilocybin-mushrooms-north-america.
 ---
 

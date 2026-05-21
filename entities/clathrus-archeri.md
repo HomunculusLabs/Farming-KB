@@ -12,10 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dring, D.M. (1980). "Contributions towards a monograph of
     Phallales IV." Persoonia 11(2): 169-176.
-  - Archer, M.C. (2005). "Clathrus archeri." Fungimap Newsletter 23.
-  - Kasuya, T. et al. (2014). "Molecular phylogeny of Clathraceae."
     Mycoscience 55(3): 185-195.
 ---
 

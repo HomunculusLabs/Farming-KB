@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Landolt, E. (1986). "The Family of Lemnaceae — A Monographic Study." Veröffentlichungen des Geobotanischen Institutes der ETH, Stiftung Rübel, Zürich, 71, 1-566.
-  - Crosa, G. et al. (2006). "constructed-wetland-design in Tropical and Subtropical Regions." Water Science and Technology, 54(11-12), 307-316.
-  - Appenroth, K.J. et al. (2017). "Recommendation of Guidelines for the Definition of Duckweed Species." Aquatic Botany, 140, 83-87.
-  - Ceschin, S. et al. (2015). "Aquatic Macrophyte Communities in Mediterranean Wetlands." Hydrobiologia, 762, 277-292.
   - Ziegler, P. et al. (2015). "The Duckweeds: A Valuable Model for Ecological and Genomic Studies." Journal of Plant Physiology, 175, 22-28.
 ---
 

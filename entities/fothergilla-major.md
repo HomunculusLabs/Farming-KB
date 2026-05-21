@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Lane, C. (2006). "Hamamelidaceae: A Monograph of the Witch Hazel Family." Kew Publishing.
-  - Weakley, A.S. (2020). "Flora of the Southeastern United States." University of North Carolina Press.
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan Press.
 ---
 

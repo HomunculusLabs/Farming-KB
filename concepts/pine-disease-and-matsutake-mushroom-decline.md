@@ -5,7 +5,6 @@ tags: [forest-ecology, mycology, pine-disease, matsutake, soil-microbiology, eco
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - title: "The Natural Way of Farming"
     author: "masanobu-fukuoka-natural-farming-philosophy"
     pages: "407-410, 3544-3597"

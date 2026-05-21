@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Raccuia, S.A. (2013). "Genus Cynara L. (Asteraceae): A Review of Its Phytochemistry and Pharmacology." Evidence-Based Complementary and Alternative Medicine.
-  - Fouad, A.M. et al. (2020). "Cynara cardunculus: A Comprehensive Review of Its Traditional Uses, Phytochemistry, and Pharmacological Activities." Journal of Pharmacy and Pharmacology.
-  - Pignone, D. & Sonnante, G. (2011). "Cynara cardunculus L." In: Wild Crop Relatives: Genomic and Breeding Resources, Springer.
   - FAO (2023). "Cynara cardunculus: Cultivation and Uses." FAO Traditional Food Plants Database.
 ---
 

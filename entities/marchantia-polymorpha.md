@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crandall-Stotler, B. et al. (2005). "Morphology and Classification of the Marchantiophyta." In Bryophyte Biology, 2nd ed. Cambridge University Press.
-  - Shimamura, M. (2016). "Marchantia polymorpha: A Model System for Plant Biology." Annual Review of Plant Biology, 67, 669-688.
   - Bowman, J.L. et al. (2017). "Insights into Land Plant Evolution from the Marchantia Genome." Cell, 171(2), 287-304.
 ---
 

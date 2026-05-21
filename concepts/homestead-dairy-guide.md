@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Dairy Guide
 
-Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]-scale [[homesteading]].
+Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading.
 
 ## Choosing a Dairy Goat Breed
 
@@ -25,7 +25,7 @@ Keeping dairy goats on the homestead provides a reliable supply of fresh milk, c
 - Butterfat: 4-5% (high)
 - Size: 130-175 pounds
 - Advantages: high butterfat, distinctive floppy ears, loud and vocal, friendly personality
-- Disadvantages: seasonal breeders (milk production drops [[weed-control-in-winter-greenhouses]]), loud
+- Disadvantages: seasonal breeders (milk production drops in winter), loud
 
 ### Alpine
 - Milk production: 1-2.5 gallons per day
@@ -48,7 +48,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Dry, draft-free shelter with good ventilation
 - Minimum 15-20 square feet per goat indoors
 - Access to outdoor space: 200+ square feet per goat minimum
-- Bedding: straw, wood shavings, or deep bedding ([[composting]] pack)
+- Bedding: straw, wood shavings, or deep bedding (composting pack)
 - Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists.
 - Separate kidding area if breeding
 
@@ -73,10 +73,10 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Freshen (give birth) once per year. Milk for approximately 10 months, then dry off 2 months before next kidding.
 
 ### Milking Process
-1. Secure the goat [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] milking stand with grain to keep her occupied
-2. Clean the udder with warm water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] clean cloth or udder wash
+1. Secure the goat in a milking stand with grain to keep her occupied
+2. Clean the udder with warm water and a clean cloth or udder wash
 3. Strip the first few squirts from each teat into a strip cup (discard -- contains high bacteria count)
-4. Milk by hand: squeeze the base [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] teat with thumb and forefinger, then squeeze down with the other fingers. Do not pull.
+4. Milk by hand: squeeze the base of the teat with thumb and forefinger, then squeeze down with the other fingers. Do not pull.
 5. Milk until flow stops (typically 3-8 minutes per goat)
 6. Post-milking: dip teats in teat dip (iodine-based or chlorhexidine) to prevent mastitis
 7. Strain milk through a filter into a sanitized container
@@ -88,7 +88,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 
 ## Sanitation
 
-Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoilage, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] safety risks.
+Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoilage, and food safety risks.
 
 - Clean and sanitize all milking equipment after every use (wash with hot soapy water, rinse, then sanitize with a dairy sanitizer or dilute bleach solution)
 - Chill milk to 38F within 30 minutes of milking
@@ -98,7 +98,7 @@ Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoila
 
 ## Cheese Making
 
-Cheese [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most rewarding value-added product from goat milk. The high butterfat content of goat milk makes excellent cheese.
+Cheese is the most rewarding value-added product from goat milk. The high butterfat content of goat milk makes excellent cheese.
 
 ### Fresh Cheeses (Beginner, Same Day)
 
@@ -141,8 +141,15 @@ Aged cheeses require a cheese press, aging space, and more patience but produce 
 - Cheese press (for aged cheeses): $50-200 or build your own
 - Aging space: cool (50-55F), humid (80-95% RH), well-ventilated
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Butter
 
 Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike cows) and delicious.
+
+1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
+2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
+3. Chill cream to 50-55F
+## See Also
+
+- [[homestead-dairy-equipment]]
+- [[fermented-dairy-and-cultured-milk-products]]
+- [[home-cheesemaking-and-dairy-fermentation]]

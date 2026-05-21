@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
   - Foster, S. & Duke, J.A. (1990). "A polypore-fungi-eastern-north-america America and has become widely naturalized in medicinal-herb-growing 1.5–3 meters tall from a large, fleshy, parsnip-like taproot.
 ---
 

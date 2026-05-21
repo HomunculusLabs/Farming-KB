@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Peters, C.M. & Pardo-Tejeda, E. (1982). "Brosimum alicastrum (Moraceae): A Promising Subsistence Crop for the Humid Tropics." Economic Botany, 36(2), 173-184.
-  - Standley, P.C. & Steyermark, J.A. (1946). "Flora of Guatemala." Fieldiana: Botany, 24(5).
-  - Pennington, T.D. & Sarukhán, J. (1968). "Arboles Tropicales de México." Instituto Nacional de Investigaciones Forestales.
-  - CABI (2023). "Invasive Species Compendium: Brosimum alicastrum." CAB International.
   - Berg, C.C. (1972). "Olmedieae, Brosimeae (Moraceae)." Flora Neotropica, Monograph No. 7.
 ---
 

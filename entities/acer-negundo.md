@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schopmeyer, C.S. (1990). "Acer negundo L." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
-  - Farrar, J.L. (1995). Trees of the Northern United States and Canada. Iowa State University Press.
-  - Bunting, S.C. (1971). "Boxelder — weedy tree or valuable ornamental?" Journal of Forestry, 69(11), 790-792.
-  - Johnson, W.C. (1994). "Woodland expansions in the Platte River, Nebraska." Ecological Applications, 4, 531-536.
   - DeGomez, T., Wagner, M.R. (2001). "Boxelder (Acer negundo) health and management." University of Arizona Extension.
 ---
 

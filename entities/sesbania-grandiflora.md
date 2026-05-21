@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Evans, D.O. (1990). "Sesbania grandiflora (L.) Pers." permplant-leucaena-tropical-nitrogen-fixing-tree Research Reports, 8, 75–82.
-  - National Research Council (1980). "Firewood Crops: Shrubs and Tree Species for Energy Production." National Academies Press.
-  - Datta, B.K., Das, P.K. (2000). "Ethnobotanical uses of Sesbania grandiflora in Bangladesh." Journal of Economic and Taxonomic Botany, 24(2), 367–371.
-  - Semagn, K., Bjørnstad, Å., Stedje, B. (2006). "A review of the role of Sesbania in soil fertility." In: Biological Approaches to Sustainable Soil Systems. CRC Press.
   - Orwa, C., Mutua, A., Kindt, R., Jamnadass, R., Simons, A. (2009). "Sesbania grandiflora." Agroforestree Database. ICRAF.
 ---
 

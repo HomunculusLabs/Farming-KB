@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A., Galeano, G., & Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Zona, S. (1990). "A Monograph of Pseudophoenix (Palmae: Arecoideae)." Systematic Botany Monographs, 29, 1–78.
-  - U.S. Fish and Wildlife Service. (1984). "Endangered and Threatened Wildlife and Plants; Determination of Endangered Status for Pseudophoenix sargentii." Federal Register, 49(216), 43970–43974.
-  - Govaerts, R., & Dransfield, J. (2005). "World Checklist of Palms." Royal Botanic Gardens, Kew.
   - IUCN. (2023). "Pseudophoenix sargentii." The IUCN Red List of Threatened Species.
 ---
 

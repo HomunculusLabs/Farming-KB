@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - "raw/papers/leary-t-the-psychedelic-experience.md"
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---

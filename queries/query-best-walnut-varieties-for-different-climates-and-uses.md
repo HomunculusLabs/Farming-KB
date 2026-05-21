@@ -4,11 +4,6 @@ tags: [walnuts, varieties, climate-zones, nut-trees, orchard-planning, query]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "UC Davis Fruit & Nut Research and Information Center — Walnut Cultivar Recommendations"
-  - "Oregon State University Extension Service — Growing Walnuts in the Pacific Northwest"
-  - "University of Missouri Extension — Black Walnut Culture"
-  - "Cornell University College of Agriculture and Life Sciences — Hardiness & Pollination Guides"
-  - "California Walnut Board — Commercial Varieties & Production Guidelines"
   - "University of Minnesota Extension — Growing comparison-nut-trees-vs-grain-farming-for-caloric-staple-production in Cold Climates"
 ---
 

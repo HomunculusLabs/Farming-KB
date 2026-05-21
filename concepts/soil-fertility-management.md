@@ -1,4 +1,5 @@
 ---
+
 title: Soil Fertility Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 
 # Soil Fertility Management
 
-[[steve-solomon]]'s "[[gardening-when-it-counts]]" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
+Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 
 ## The Complete Organic Fertilizer (COF)
 
@@ -33,7 +34,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 |------------|--------|----------|
 | Seed meal (canola, soy, cottonseed, or linseed) | 4 parts | Nitrogen, phosphorus, some trace minerals |
 | Agricultural lime (ag lime) | 1 part | Calcium, raises pH |
-| [[rock-phosphate]] (phosphate rock, colloidal phosphate) | 1/2 part | Slow-release phosphorus |
+| Rock phosphate (phosphate rock, colloidal phosphate) | 1/2 part | Slow-release phosphorus |
 | Gypsum | 1/2 part | Calcium + sulfur (does not raise pH) |
 
 **Application rate**: 4-6 quarts per 100 sq ft, worked into top 4-6 inches of soil before planting.
@@ -58,7 +59,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 - Drives leafy growth; most plants show dramatic response to N
 - **Deficiency**: Pale yellowing leaves (chlorosis), stunted growth
 - **Excess**: Excessive foliage, delayed flowering, soft growth susceptible to pests
-- **Organic sources**: Seed meal (most concentrated), [[blood-meal]], [[fish-meal]], well-rotted manure, legume [[cover-cropping-guide]]
+- **Organic sources**: Seed meal (most concentrated), blood meal, fish meal, well-rotted manure, legume [[cover-cropping-guide]]
 - Seed meal provides 5-7% N — the highest practical concentration from organic sources
 
 ### Phosphorus (P)
@@ -78,7 +79,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 ## pH: The Master Variable
 
 ### Why pH Matters
-[[soil-ph]] (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
+Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
 
 ### Key pH Relationships
 - **Below 5.5**: Aluminum and manganese become toxic; phosphorus, calcium, and magnesium become unavailable

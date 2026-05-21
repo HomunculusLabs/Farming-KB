@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
-  - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
-  - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics of Carex section Paludosae." *Botanical Journal of the Linnean Society* 158: 1-22.
   - palmer-mushroom-hunting-field-identification.
 ---
 

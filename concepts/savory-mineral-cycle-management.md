@@ -9,7 +9,6 @@ related: [savory-ecosystem-foundation-blocks, savory-soil-carbon-sequestration,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Mineral Cycle Management
 

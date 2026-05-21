@@ -4,7 +4,6 @@ tags: [comparison, root-crops, potatoes, sweet-potatoes, solanaceae, convolvulac
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dean, B.B. (1994). Sweetpotato: An Untapped Food Resource. Cambridge University Press
 created: 2026-05-07
 type: comparison
 ---# Potato vs Sweet Potato Cultivation

@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. [[permaculture]] aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 

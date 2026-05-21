@@ -14,10 +14,6 @@ tags:
   - native-american-ethnobotany
   - passifloraceae
 sources:
-  - Dhawan, K. et al. (2004). "Passiflora: A review update." Journal of Ethnopharmacology, 94(1), 1-23.
-  - Movafegh, A. et al. (2008). "Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients." Anesthesia & Analgesia, 106(6), 1728-1732.
-  - Elsas, S.M. et al. (2014). "Passionflower in the treatment of opiate withdrawal: A case report." Journal of Alternative and Complementary Medicine, 20(2), 153-155.
-  - Grundmann, O. et al. (2008). "Anxiolytic effects of a passion flower extract in the elevated plus maze." Phytomedicine, 15(9), 676-682.
   - Appel, K. et al. (2011). "Comparative study of Passiflora incarnata and plants-of-the-gods-piper-methysticum-kava (kava-kava)." Phytotherapy Research, 25(2), 257-262.
 ---
 

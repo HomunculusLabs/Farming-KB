@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Salleh, M.N. et al. (2016). "Garcinia atroviridis: a review of phytochemistry and pharmacology." Pharmacognosy Reviews, 10(20), 118-124.
-  - Jiao, X. et al. (2013). "Anti-obesity and hypolipidemic effects of Garcinia atroviridis extract." Journal of Ethnopharmacology, 149(1), 271-278.
-  - Burkill, I.H. (1966). "A Dictionary of the Economic Products of the Malay Peninsula." Ministry of Agriculture, Kuala Lumpur.
-  - Nie, L. et al. (2015). "Xanthones from Garcinia atroviridis and their bioactivities." Phytochemistry, 117, 274-280.
   - MacKinnon, K. et al. (1996). "The Ecology of Kalimantan." Periplus Editions, Singapore.
 ---
 

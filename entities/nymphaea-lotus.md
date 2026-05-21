@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Borsch T, Sosef MSM, Hellquist CE (2020). "Classification of Nymphaeaceae." Systematic Botany 45(2): 320–337.
-  - Hickey M, King C (2000). "The Cambridge Illustrated Glossary of Botanical Terms." Cambridge University Press.
-  - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
-  - Hanelt P (2001). "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops." Springer.
   - Wiersema JH (2022). "Nymphaea (Nymphaeaceae)." In: Flora psilocybe-southeast-asia-pacific.
 ---
 

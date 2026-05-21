@@ -10,7 +10,6 @@ related: [savory-ecosystem-foundation-blocks, savory-water-cycle-management,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Energy Flow and Solar Capture
 

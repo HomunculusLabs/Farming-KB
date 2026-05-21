@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Page, C.N. (1997). "Ferns: Their Habits in the British and Irish Landscape." Collins New Naturalist.
-  - Montgomery, J.D. & P. G. Davison (2008). "Polystichum." Flora of North America North of Mexico, Vol. 2.
-  - Prelli, R. (2001). "Les Fougères de France." Éditions Belin.
   - World Ferns (2025). "Polystichum aculeatum." World Ferns Database. https://www.worldferns.com
 ---
 

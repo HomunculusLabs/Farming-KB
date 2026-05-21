@@ -13,9 +13,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jaffe, J.H. & Martin, W.R. (1985). "Opioid analgesics and antagonists." In: Goodman & Gilman's The Pharmacological Basis of Therapeutics, 7th ed. McGraw-Hill.
-  - Ritter, A. et al. (2021). "Heroin-assisted treatment: the state of the evidence." International Journal of Drug Policy, 93, 103187.
-  - White, J.M. & Irvine, R.J. (1999). "Mechanisms of fatal opioid overdose." Addiction, 94(7), 961–972.
   - Fischer, B. et al. (2015). "The 'opioid flood' and its socio-economic correlates." Drug and morphine by acetylation of the 3-hydroxyl and 6-hydroxyl groups. It was first synthesized in 1874 by Charles Romley Alder Wright at St. Mary's Hospital Medical School in London, though its analgesic properties were not recognized until Heinrich Dreser at Bayer Pharmaceuticals began commercial marketing in 1898 under the trade name Heroin (from the German *heroisch*, meaning heroic).
 ---
 

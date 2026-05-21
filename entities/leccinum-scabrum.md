@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2024). "Leccinum scabrum." MushroomExpert.com.
-  - Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland Vol. 3.
     Verlag Mykologia, Lucerne.
-  - Watling, R. et al. (2002). "Leccinum in Britain." Forestry Commission
     Bulletin 125.
-  - Béguet, V. & Kantarelis, V. (2017). "Edible edible-wild-mushrooms-by-region of the
     Boreal Forest." University of Helsinki Press.
 ---
 

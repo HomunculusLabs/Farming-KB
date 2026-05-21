@@ -13,9 +13,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Terence McKenna (1992). "Food of the Gods: The Search for the Original Tree of Knowledge." Bantam Books.
-  - McKenna, T. & McKenna, D. (1975). "The Invisible Landscape: Mind, Hallucinogens, and the I Ching." Seabury Press.
-  - Eisler, R. (1987). "The Chalice and the Blade: Our History, Our Future." Harper & Row.
   - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods: Origins of Hallucinogenic Use." McGraw-Hill.
 ---
 

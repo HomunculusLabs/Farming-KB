@@ -15,10 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Dewick, P.M. (2002). Medicinal Natural Products: A Biosynthetic Approach (3rd ed.). Wiley."
-  - "Csupor, D. et al. (2009). Recent advances in the research of Colchicum species. Acta Pharmaceutica Hungarica, 79(4), 157–166."
-  - "Muller, A.L. et al. (2019). Colchicine for acute gout: time to believe the hype. Annals of the Rheumatic Diseases, 78(4), 432–433."
-  - "Leighton, M.P. et al. (2022). Colchicine: a guide for the internist. Journal of Clinical Medicine, 11(12), 3440."
   - "Niel, E. & Scherrmann, J.M. (2006). Colchicine today. Joint Bone Spine, 73(6), 672–678."
 ---
 

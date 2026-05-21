@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Hooker, J.D. (1854). "Himalayan Journals." John Murray.
-  - Royal Horticultural Society. "Primula sikkimensis." RHS Plant Explorer.
   - Chen, S. et al. (2016). "Molecular phylogeny of Primula section Proliferae." Botanical Journal of the Linnean Society, 181(3), 457-473.
 ---
 

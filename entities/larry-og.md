@@ -12,9 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Staff. \"Larry OG blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud. \"Larry OG Strain Review.\" AllBud.com."
-  - " cannabis-data.org. Strain database entry for Larry OG."
   - "Smart, R. et al. (2017). \"green-cannabis-potency-maximizing.\" Addiction, 112(5), 778-786."
 ---
 

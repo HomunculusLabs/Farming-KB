@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of North America North of Mexico."
   - "Kew Science. Plants of the World Online. oxyria-digyna."
 ---
 

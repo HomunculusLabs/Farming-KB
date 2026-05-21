@@ -15,8 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Watling, R. (1970). "The genus Xerocomus." Notes from the Royal Botanic Garden Edinburgh, 30(2), 207-235.
-  - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan." University of Michigan Press.
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "guzman-psilocybin-mushrooms-north-america.
 ---
 

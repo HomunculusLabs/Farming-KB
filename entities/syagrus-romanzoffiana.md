@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lorenzi, H. et al. (2010). "Flora Brasileira Lorenzi: Arecaceae (Palmeiras)." Instituto Plantarum de Estudos da Flora.
-  - Glassman, S.F. (1987). "Revision of the Palm Genus Syagrus Mart. and Other Selected Genera." Fieldiana: Botany, New Series 17.
   - Henderson, A., Galeano, G. & Bernal, R. (1995). "berry-growing North of Mexico, Vol. 22. Oxford University Press.
 ---
 

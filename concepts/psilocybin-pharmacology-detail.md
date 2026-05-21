@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Pharmacology Detail
 created: 2026-04-12
 updated: 2026-04-12
@@ -132,18 +133,19 @@ From clinical and self-report data compiled by Gartz:
 4. **Substance testing** — Verify species identification; toxic lookalikes exist (Galerina marginata, Conocybe filaris)
 5. **Medication interactions** — Research interactions with any medications, especially psychiatric drugs
 6. **Integration** — Allow time for processing the experience afterward
+7. **Abstain from driving** — Impaired coordination and perception for 6-12 hours after dosing
+
+## Legal Status
+
+Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic Substances (1971). However, the legal status of the mushrooms themselves varies by country:
+
+- **Prohibited:** Most countries criminalize both psilocybin and psilocybin-containing mushrooms
+- **Decriminalized:** Several US cities (Denver, Oakland, Santa Cruz, Ann Arbor, Washington DC, Somerville, Cambridge, Northampton, Seattle)
+- **Legal/regulated:** Netherlands (sclerotia/truffles are legal; fruiting bodies are not since 2008); Oregon (regulated therapeutic use since 2020); Colorado (decriminalized 2022); several indigenous contexts in Mexico
+- **Legal gray area:** In many countries, the mushrooms are not specifically scheduled but psilocybin is, creating legal ambiguity
+- **Spores:** In many jurisdictions, spores contain no psilocybin and are legal to possess (but cultivation becomes illegal once mycelium produces alkaloids)
+
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Detailed chemical composition and analysis methods
-- [[psilocybin-mushroom-cultivation]] — Growing techniques
-- [[psychedelic-mushroom-history]] — Historical timeline
-- [[psilocybin-psychotherapy]] — Clinical and therapeutic applications
-- [[jochen-gartz]] — Researcher who compiled much of this data
-- [[inocybe-aeruginascens]] — Species containing aeruginascin
-
-## Related Pages
-
-- [[psilocybin-mushroom-chemistry]] -- Dosage, effects, acute data
-- [[psilocybin-mushroom-chemistry]] -- Chemical profiles
-- [[psilocybin-mushroom-chemistry]] -- Geographic distribution
-- [[jochen-gartz]] -- Primary researcher
+- [[psilocybin-5ht2a-receptor-pharmacology]]

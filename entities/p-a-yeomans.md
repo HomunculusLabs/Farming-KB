@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Yeomans, P.A. (1954). "Water for Every Farm: A Practical Irrigation Plan for Every Australian Property." K.G. Murray Publishing.
-  - Yeomans, P.A. (1958). "The Challenge of Landscape." Water Right Publishing.
-  - Yeomans, P.A. (1965). "The City Forest." Water Right Publishing.
-  - Yeomans, P.A. (1971). "The Keyline Plan." Second edition. Soil and Health Publishing.
   - Howell, T.A. (2000). "The Keyline system: An Australian approach to land management." Journal of Soil and Water Conservation, 55(1), 1-4.
 ---
 

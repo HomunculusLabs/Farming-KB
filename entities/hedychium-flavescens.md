@@ -10,10 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Prince, L.M. & Kress, W.J. (2006). "Phylogenetic relationships in the ginger family (Zingiberaceae)." Botanical Journal of the Linnean Society.
-  - Newman, M.F., Lhuillier, A. & Poulsen, A.D. (2000). "Checklist of the Zingiberaceae of Malesia." Royal Botanic Garden Edinburgh.
   - Pendry, C.A. (2000). "Hedychium." Flora of Bhutan.
-  - USDA ARS (2024). Germplasm Resources Information Network (GRIN).
   - Wagner, W.L., Herbst, D.R. & Sohmer, S.H. (1999). "Manual of the Flowering Plants of Hawai'i."
 ---
 

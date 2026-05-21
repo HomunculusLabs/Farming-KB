@@ -1,5 +1,4 @@
 ---
-title: Plant Macronutrient Functions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -142,9 +141,13 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 - **Plant defense:** Sulfur-containing compounds contribute to flavor molecules that protect plants from herbivory
 
 ### Deficiency Symptoms
+
+- Yellowing in younger leaves (sulfur is immobile in plants -- distinguishable from nitrogen deficiency, which yellows older leaves)
+- Reduced growth
+
+### Soil Behavior
+
+Released from organic material by microbial activity and weathered from gypsum rock. Historically, acid rain provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
 ## See Also
 
-- [[plant-nutrient-mobility-in-soil|nutrient mobility]]
-- [[plant-micronutrient-functions|micronutrient functions]]
-- [[plant-nutrient-deficiency-guide|nutrient deficiency guide]]
-- [[nitrogen-cycle-in-soil|nitrogen cycle]]
+- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

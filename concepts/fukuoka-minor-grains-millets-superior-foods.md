@@ -2,7 +2,6 @@
 title: "Minor Grains and Millets as Superior Foods"
 source: masanobu-fukuoka-the-road-back-to-nature.md
 topics:
-  - masanobu-fukuoka, in *The Road Back to Nature*, argues that primitive small-seed
 crops — millets, azuki beans, and buckwheat — are the most suitable foods for
 human health. He traces this conclusion through fukuoka-road-critique-of-modern-science agriculture's "bigger is better"
 mentality extends from fruits to grains, challenging the assumption that larger

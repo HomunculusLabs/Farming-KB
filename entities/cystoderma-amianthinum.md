@@ -10,9 +10,6 @@ tags:
   - edible-mushroom
   - saprotrophic
 sources:
-  - Singer R. (1986). "The Agaricales in Modern Taxonomy." 4th edition. Koeltz Scientific Books.
-  - Arnolds E. (2001). "The genus Cystoderma in the Netherlands." Persoonia 17(2): 181-197.
-  - Candusso M, Dahncke RM. (1990). "Fungi Europaei: Agaricales, Vol. 3." Giovanna Biella.
   - Bon M. (1988). "Guide des champignons d'Europe." Delachaux et Niestlé.
 ---
 

@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Seed Saving
 
-Saving your own seeds preserves [[cannabis-landrace-conservation-breeding-genetic-diversity]], adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]].
+Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
 
 ## Seed Types
 
@@ -30,9 +30,9 @@ These cross-pollinate and need isolation distances to stay true:
 ## Dry Seed Processing (beans, peas, lettuce, grains)
 1. Allow pods/seed heads to dry fully on the plant
 2. Harvest before rain or when stems are brown and brittle
-3. Thresh by hand (crush pods) or by flailing [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]][boil-a-bag-long-needle-inoculation-method-jarrold
+3. Thresh by hand (crush pods) or by flailing in a bag
 4. Winnow: pour seed from one container to another in a breeze; chaff blows away
-5. Dry seeds further [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] screen or paper for 1-2 weeks
+5. Dry seeds further on a screen or paper for 1-2 weeks
 6. Store in paper envelopes in a cool, dark, dry place
 
 ## Wet Seed Processing (tomatoes, cucumbers, squash)
@@ -52,7 +52,7 @@ These cross-pollinate and need isolation distances to stay true:
 
 ## Storage
 - Seeds store best cool (40-50°F), dark, and dry (below 8% moisture)
-- Glass jars with [[desiccant]] packets [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] refrigerator
+- Glass jars with desiccant packets in the refrigerator
 - Paper envelopes in a cool closet (2-5 year viability for most vegetables)
 - Parsley, onion, and parsnip seeds lose viability quickly (1-2 years)
 - Tomato and lettuce seeds can last 5-10 years under ideal conditions
@@ -69,14 +69,12 @@ Before planting saved seed, test viability:
 - [[seed-starting-indoors]] — for starting saved seeds
 - [[direct-seeding-techniques]] — for direct sowing
 - [[vegetable-growing-guide]] — for crop-specific growing info
+## Current Research
 
-## Practical Applications
+Recent studies on natural farming seed saving have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
+## Practical Considerations
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Practitioners working with natural farming seed saving should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

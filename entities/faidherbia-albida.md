@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wickens, G.E., Seif el Din, A.G., Sita, G. & Nahal, I. (1995). "Role of Acacia species in the rural economy of dry Africa and the Near East." FAO Conservation Guide 27.
-  - Vandenbeldt, R.J. (1992). "Faidherbia albida in the West African semi-arid tropics." ICRAF, Nairobi.
-  - Barnes, R.D. & Fagg, C.W. (2003). Faidherbia albida. Tropical Forestry Papers 41. Oxford Forestry Institute.
-  - Sileshi, G.W. et al. (2011). "Fertilizer tree values for smallholder farmers." Field Crops Research 126: 19-29.
-  - Kho, R.M. (2000). "A general tree-environment-crop interaction model." Agroforestry Systems 50: 107-131.
 created: 2026-04-28
 ---
 

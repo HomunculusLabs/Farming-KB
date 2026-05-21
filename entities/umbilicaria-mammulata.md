@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Llano, G.A. (1950). "A Monograph of the Lichen Family Umbilicariaceae in the Western Hemisphere." Office of Naval Research.
-  - Hestmark, G. (1990). "Umbilicaria in Europe." Sommerfeltia 11: 1-75.
   - Nash, T.H. III et al. (2002). berry-growing, Supplement.
 ---
 

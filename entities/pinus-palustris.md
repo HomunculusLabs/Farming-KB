@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jose, S., Jokela, E.J. & Miller, D.L. (2007). "The Longleaf Pine Ecosystem." Springer.
-  - Landers, J.L., Van Lear, D.H. & Haines, W.D. (1995). "Longleaf Pine: Ecology, Silviculture, and Restoration." USDA FS.
-  - Peet, R.K. & Allard, D.J. (1993). "Longleaf Pine Vegetation." Vegetatio 104-105.
   - Outcalt, K.W. (2000). "The Longleaf Pine Ecosystem of the Southeast." Native Plants Journal 1(2).
 ---
 

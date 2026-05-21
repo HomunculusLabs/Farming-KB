@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Calabrò, L. et al. (2016). "The controversial history of Citrus bergamia Risso." Journal of Agricultural and Food Chemistry, 64(52), 9798-9805.
   - Servili, M. et al. (2014). "citrus-aurantium (sour orange), though some studies propose hamilton-vegetative-propagation is required to maintain cultivar characteristics, and clonal selection has produced numerous named varieties.
 ---
 

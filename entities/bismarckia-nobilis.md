@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J. et al. (2008). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
-  - Rakotoarisoa, S.E. et al. (2023). "The Palms of Madagascar." Kew Publishing.
-  - Hodel, D.R. (2019). "Bismarckia nobilis: Biology, Cultivation, and Landscape Uses." Palms 63(2): 67-82.
   - IUCN (2023). "Bismarckia nobilis." The IUCN Red List of Threatened Species.
 ---
 

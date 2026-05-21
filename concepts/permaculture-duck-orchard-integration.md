@@ -7,7 +7,6 @@ tags: [permaculture, poultry, ducks, orchard, pest-control,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-ultimate-guide-to-natural-farming-and-"
     sustainable-living.md]
 type: concept
 --- Permaculture Duck Integration for Orchards and Gardens

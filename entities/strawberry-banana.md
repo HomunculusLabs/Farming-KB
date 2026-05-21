@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "Strawberry Banana Strain Information." Leafly.com.
-  - Cannabis Cup Archives (2015). "Best U.S. Flower." High Times.
-  - Merry Jane (2019). "Strawberry Banana: The Complete Guide." MerryJane.com.
-  - MJBizDaily (2022). "Top-Selling Strains in California Dispensaries."
-  - Wikileaf (2021). "Strawberry Banana Strain Review." Wikileaf.com.
 created: 2026-04-28
 ---
 

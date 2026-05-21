@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fady, B., et al. (2004). "EUFORGEN Technical Guidelines for Genetic Conservation and Use for Stone Pine (*Pinus pinea*)." International Plant Genetic Resources Institute, Rome.
-  - Mutke, S., Gordo, J., Gil, L. (2005). "Variability of Mediterranean Stone Pine cone and seed morphometry and its relation to climatic conditions." Silvae Genetica, 54(4–5), 160–172.
-  - Loewe, M.V., Delgado, P. (2005). "The stone pine (*Pinus pinea* L.): a threatened Mediterranean conifer." Investigación Agraria: Sistemas y Recursos Forestales, 14(2), 149–157.
-  - Earle, C.J. (2024). "The Gymnosperm Database — Pinus pinea." www.conifers.org.
   - Ehrich, D. (2009). "The Mediterranean Stone Pine (*Pinus pinea* L.): Past, Present and Future." Genetic Resources and Crop Evolution, 56, 311–319.
 ---
 

@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Buchbauer, G. et al. (1993). \"Fragrance compounds as permaculture-designers-manual-essential-oil-plants components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
   - "Jirovetz, L. et al. (1992). \"Analysis of  of
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds

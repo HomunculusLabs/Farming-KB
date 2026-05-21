@@ -12,10 +12,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Morton JF. Fruits of Warm Climates. 1987. Purdue University.
-  - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
-  - Battle I, Tous J. Carob Tree: tamarindus-indica: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
-  - El Boushihi M et al. Carob (Ceratonia siliqua L.) Products. J Food Sci Technol. 2021.
 type: comparison
 created: 2026-05-03
 ---

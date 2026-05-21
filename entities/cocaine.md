@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kuhar, M.J. et al. (1988). "Cocaine receptors in dopamine transporter." Journal of Neuroscience, 8(12), 4844-4850.
-  - Ricaurte, G.A. et al. (1991). "Neurotoxicity of cocaine." Pharmacology & Therapeutics, 48(2), 231-244.
-  - Benowitz, N.L. (1993). "Clinical pharmacology and toxicology of cocaine." Pharmacology & Therapeutics, 60(3), 523-540.
-  - Woods, J.H. & Winger, G. (1987). "Abuse liability of cocaine." NIDA Research Monograph, 81, 42-60.
   - Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed. (2017).
 ---
 

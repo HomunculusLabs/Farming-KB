@@ -7,7 +7,6 @@ sources:
   - adaptogenic-herbs-guide.md (concept)
   - adaptogenic-herbs-overview.md (concept)
   - holy-basil-tulsi-guide.md (concept)
-  - ashwagandha-cultivation-uses-and-adaptogenic-properties.md (topic)
   - rhodiola-rosea-cultivation-and-adaptogenic-properties.md (topic)
 ---
 

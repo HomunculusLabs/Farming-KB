@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "Animal Cookies blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
-  - AllBud (2023). "Animal Cookies Strain Review." AllBud.com.
   - "query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis strain created by crossing the legendary Girl Scout Cookies with Fire OG. Also known as Animal Crackers, it was bred by the Canadian seed company Boreal Genetics, though the genetic combination was also developed independently by other breeders.
 ---
 

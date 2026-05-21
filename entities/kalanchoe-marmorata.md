@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Engler, A. (1891). Die Pflanzenwelt Ost-Afrikas und der Nachbargebiete. Reimer.
-  - Descamps, P. (1975). "Kalanchoe marmorata." National Cactus and Succulent Journal, 30(2), 32.
-  - Royal Horticultural Society (2023). "Kalanchoe marmorata." RHS Plant Finder. https://www.rhs.org.uk/Plants
   - Descoings, B. (2003). "Kalanchoe." In Eggli, U. (ed.), Illustrated Handbook of Succulent Plants. Springer.
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Holmgren, D. (2002). "Permaculture: Principles and Pathways Beyond Sustainability." Holmgren Design Services.
-  - Mollison, B. (1988). "Permaculture: A Designer's Manual." Tagari Publications.
-  - Toensmeier, E. (2016). "The Carbon Farming Solution." Chelsea Green Publishing.
-  - Jacke, D. & Toensmeier, E. (2005). "Edible Forest Gardens." Chelsea Green Publishing.
 created: 2026-04-28
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Grauke, L.J. & Heering, J.D. (2011). "Carya ovata." In: USDA NRCS Plant Guide.
-  - McCarthy, B.C. & Wistendahl, W.A. (1988). "Identifying hickories by bark and twig features." Ohio Journal of Science, 88(2), 36-40.
   - Woodroof, J.G. (1967). "Tree Nuts: Production, Processing, Products." AVI Publishing Company.
 ---
 

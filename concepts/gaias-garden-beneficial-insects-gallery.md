@@ -13,7 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 created: 2026-05-07
 type: concept
 ---

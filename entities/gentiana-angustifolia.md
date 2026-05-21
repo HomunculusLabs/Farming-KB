@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kohlein, F. (1991). "Gentians." Timber Press, Portland.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Grey-Wilson, C. (2014). "Alpine Plants of Europe." Timber Press.
   - Körner, C. (2003). "Alpine Plant Life." Springer.
 ---
 

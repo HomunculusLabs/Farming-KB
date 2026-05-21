@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Laffoley, D.d'A., et al. (2011). "The Gulf of Mexico: Its Origin, Waters, and Marine Life." Wiley-Blackwell.
-  - Schell, J.M., et al. (2015). "Sargassum spp. as a Food Source for Fish." Journal of Applied Phycology, 27(1), 1-6.
-  - Louime, B., et al. (2017). "Sargassum Seaweed: A Potential Biomass Resource." Bioresource Technology, 244, 654-660.
-  - Wang, W.L., et al. (2019). "The Great Atlantic Sargassum Belt." Science, 364(6436), 83-87.
   - https://www.algaebase.org/search/genus/detail/?genus_id=Sargassum
 ---
 

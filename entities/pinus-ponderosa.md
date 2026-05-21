@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Oliver, W.W. & Ryker, R.A. (1990). "Pinus ponderosa." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Peet, R.K. (2000). "Forests and meadows of the Rocky Mountains." In: Barbour, M.G. & Billings, W.D. (eds.), growing-gourmet-north-american-reishi-species Terrestrial Vegetation. Cambridge University Press.
   - Sieg, C.H. et al. (2017). "Variable-retention harvest in ponderosa pine forests." Forest guzman-psilocybin-mushrooms-north-america. It is the most widely distributed pine species in the United States, spanning from British Columbia to Mexico and from the Pacific coast to the Great Plains.
 ---
 

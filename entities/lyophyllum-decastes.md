@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigelow, H.E. & Barr, D.P.S. (1977). "The genus Lyophyllum in psilocybin-north-america-pacific-northwest." Mycologia Memoir 6: 1–60.
-  - Consiglio, G. & Contu, M. (2001). "The genus Lyophyllum in Sardinia." Bollettino del Gruppo Micologico G. Bresadola 44: 19–28.
-  - Kalamees, K. (2004). "Lyophyllum (Tricholomataceae) in Estonia." Folia Cryptogamica Estonica 41: 43–56.
   - Hibbett, D.S. et al. (2014). "Agaricomycetes." In: The Mycota VII Part A, Springer.
 ---
 

@@ -22,7 +22,7 @@ Chapter 12 of the Designers' Manual addresses the cool temperate and cold climat
 
 ### Bimodal Growth Curve
 
-The net product of grassland in a cool humid climate has a [[bimodal-growth-curve]] with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
+The net product of grassland in a cool humid climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
 
 Strategies to overcome seasonal deficits:
 - **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like tagasaste may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
@@ -61,14 +61,14 @@ Seed mixes for sod-seeding include clovers for the specific site, spikeroots (da
 ### Ice and Snow Management
 
 - Pipes must be buried to 1 metre to prevent bursting, or allowed to trickle continuously
-- [[mollison-designers-soil-water-storage-in-forest-systems]] within house cellar structure provides heat store and prevents freezing
+- Water storage within house cellar structure provides heat store and prevents freezing
 - Ponds that freeze to 15-90 cm lose that depth for winter use; storages need slope-sided or open-topped design for ice expansion
 - Snow is stored three-dimensionally on fences and hedgerows, directed to heap in mounds for spring melt into swales or cisterns
 - Snow acts as reflector for house heating at low sun angles, adding 60-70% more heat to walls
 
 ### Avalanche Prevention
 
-Best defenses: preservation of high-slope [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], placement of essential services in tunnels, V-shaped barriers to split avalanche front, and prevention of settlement in high-risk areas. Aspen strips and blow-down patterns indicate avalanche history.
+Best defenses: preservation of high-slope forests, placement of essential services in tunnels, V-shaped barriers to split avalanche front, and prevention of settlement in high-risk areas. Aspen strips and blow-down patterns indicate avalanche history.
 
 ## Season Extension
 

@@ -1,5 +1,4 @@
 ---
-title: Plant Micronutrient Functions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -26,13 +25,13 @@ Micronutrients are mineral elements required by plants in trace amounts, yet the
 - **Electron carrier:** Iron atoms serve as carriers of electrons that can be easily passed between them, making iron essential for respiration and oxidation-reduction reactions
 - **Chlorophyll function:** Although not part of the chlorophyll molecule itself, iron is required to make chlorophyll and helps it function properly
 - **Nitrogen fixation:** Critical to nitrogen fixation; conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes
-- **[[enzyme]] component:** A component of important enzymes and proteins
+- **Enzyme component:** A component of important enzymes and proteins
 
 Plants are so dependent on iron that they have developed a system to release ions into the soil to lower pH, preventing iron from becoming unavailable.
 
 ### Deficiency Symptoms
 
-- Interveinal [[chlorosis]] (yellowing between veins) -- iron is immobile, so symptoms appear on young leaves first
+- Interveinal chlorosis (yellowing between veins) -- iron is immobile, so symptoms appear on young leaves first
 - Young leaves may become bleached while older leaves and veins remain green
 - Older leaves eventually lose color at margins
 - Iron deficiency is one of the most common micronutrient deficiencies worldwide
@@ -46,7 +45,7 @@ Common in most soils from weathered minerals, but becomes unavailable at high pH
 ### Functions
 
 - **Oxygen liberation:** Accepts electrons from water during photosynthesis, playing a critical role in splitting water molecules to release oxygen
-- **[[carbohydrate]] metabolism:** Works with certain enzymes to break apart carbohydrates
+- **Carbohydrate metabolism:** Works with certain enzymes to break apart carbohydrates
 
 ### Deficiency Symptoms
 
@@ -84,7 +83,7 @@ Zinc availability decreases at high pH and in soils with high phosphorus levels 
 
 - **Enzyme component:** Key component in enzymes used in oxidation reactions, photosynthesis, and respiration
 - **Amino acid metabolism:** Involved in enzymes that build amino acids into proteins
-- **[[lignin]] synthesis:** Plays a key role in the synthesis of lignin, the structural polymer that gives rigidity to plant cell walls
+- **Lignin synthesis:** Plays a key role in the synthesis of lignin, the structural polymer that gives rigidity to plant cell walls
 
 ### Deficiency Symptoms
 
@@ -137,13 +136,18 @@ Easily leached from sandy soils. The ore of boron is borax (Na2B4O7).
 
 More commonly a concern than deficiency. Excess chlorine causes yellowing of leaf margins, particularly in older leaves. Can occur from irrigation with saline water or excessive chloride-based fertilizers.
 
-## See Also
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Molybdenum (Mo)
 
 ### Functions
 
 - **Phosphorus utilization:** Necessary for the synthesis of organic phosphorus compounds once phosphorus enters the plant
-- **Nitrogen fixation:** Essential for [[rhizobia]] and [[frankia]] bacteria to fix atmospheric nitrogen in root nodules of legumes
+- **Nitrogen fixation:** Essential for Rhizobia and Frankia bacteria to fix atmospheric nitrogen in root nodules of legumes
 
 ### Deficiency Symptoms
+
+- Chlorosis in older leaves (molybdenum is mobile)
+- "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
+## See Also
+
+- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
+- [[jeavons-compost-functions-soil-building]]

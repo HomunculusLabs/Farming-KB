@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schultes, R.E. (1969). "Virola as an Orally Active Hallucinogen." Botanical Museum Leaflets, Harvard University, 22(7), 229-240.
-  - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers." Healing Arts Press.
-  - Agurell, S. et al. (1969). "Identity of Amazonian Snuff." Science, 165(3894), 642-643.
   - Prance, G.T. (1972). "Ethnobotanical Notes from Amazonian Brazil." Economic Botany, 26(3), 221-237.
 ---
 

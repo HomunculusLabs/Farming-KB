@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chang, M.E. & Chang, C.S. (1997). "A taxonomic revision of Forsythia (Oleaceae)." Journal of the Arnold Arboretum 78: 1-26.
-  - Kim, Y.S. et al. (2002). "Lignans from the fruits of Forsythia viridissima." Chemistry of Natural Compounds 38: 246-248.
-  - Lee, D. et al. (2011). "Anti-inflammatory effects of Forsythia viridissima fruits." Journal of Ethnopharmacology 133: 1082-1087.
   - Royal Horticultural Society (2024). "Forsythia viridissima." RHS Plant Finder.
 ---
 

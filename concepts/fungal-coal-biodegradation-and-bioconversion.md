@@ -5,7 +5,6 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, bioremediation, coal, bioconversion]
 sources:
-  - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
     Chapter 1, Section 1.7
 ---
 ## Fungal Coal Biodegradation and Bioconversion

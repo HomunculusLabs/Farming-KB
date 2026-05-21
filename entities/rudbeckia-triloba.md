@@ -10,10 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch L.E., Cox P.B. (2006). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 21. Oxford University Press.
-  - Barnes T.G., Swanson S.J. (2004). "Selection of native warm-season grasses for use in riparian zones." Native Plants Journal 5(1): 5–11.
   - USDA NRCS. "Rudbeckia triloba." PLANTS Database.
-  - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Tallamy D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 
@@ -80,3 +77,5 @@ The cultivar 'Prairie Glow' is a widely available selection noted for its deeper
 *R. hirta* (black-eyed Susan) is an annual or short-lived biennial with coarser stem pubescence, fewer but larger flower heads (5–10 cm), and unlobed leaves. *R. hirta* prefers full sun and drier conditions.
 
 *R. fulgida* (orange coneflower) is a long-lived perennial with glossy, unlobed leaves and flower heads with more elongated rays. *R. fulgida* var. *sullivantii* 'Goldsturm' is one of the most widely planted native perennials worldwide.
+Further research into rudbeckia triloba continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind rudbeckia triloba provides a foundation for both practical application and continued scientific inquiry.

@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
   - Lakusic, D. & Lakusic, R. (2007). "query-how-do-i-use-cover-crops-in-a-no-till-cannabis-gardens and alpine troughs.
 ---
 

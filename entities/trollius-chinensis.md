@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wang, W.T. & Li, L.Q. (2001). "Ranunculaceae." In: Flora of China, Vol. 6. Science Press.
-  - Zhu, Y.P. (1998). "Chinese aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham and antioxidant activity of Trollius chinensis." Journal of Ethnopharmacology, 254, 112694.
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." China Medical Science Press.
 ---
 

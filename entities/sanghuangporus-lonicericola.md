@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Zhou, L.W. et al. (2016). "Sanghuangporus gen. nov. (Hymenochaetaceae) inferred from morphological and molecular evidence." Fungal Diversity, 80, 143–158.
-  - Dai, Y.C. & Cui, B.K. (2011). "Morphological and molecular evidence for a new species of Sanghuangporus from China." Mycologia, 103(5), 1071–1079.
   - Wu, F. et al. (2019). "Species diversity and phylogeny of Sanghuangporus from East Asia." Frontiers in Microbiology, 10, 2294.
 ---
 

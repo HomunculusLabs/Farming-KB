@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schadel, M. et al. (1996). "dextromethorphan pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
-  - Werder, S.F. (2014). "Dextromethorphan abuse: a new cause of psychosis." Primary Care Companion for CNS Disorders 16(1).
-  - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
   - FDA (2023). "Dextromethorphan 
 and PCP.
 ---n 2022, the FDA approved a combination of dextromethorphan and bupropion

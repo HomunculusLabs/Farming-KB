@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Haufler, C.H. et al. (2000). "Phylogeny of Adiantum based on rbcL sequences." American Fern Journal.
-  - Khan, M.A. et al. (2019). "Adiantum capillus-veneris: A review of ethnobotany, phytochemistry, and pharmacology." Journal of Ethnopharmacology.
   - USDA NRCS. "Adiantum capillus-veneris L." PLANTS Database.
 ---
 

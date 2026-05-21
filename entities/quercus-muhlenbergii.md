@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stein, J.D. (1990). "Quercus muehlenbergii." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3. Oxford University Press.
   - Burns, R.M. & Honkala, B.H. (1990). Silvics of dmt-containing-plants-united-states-halpern Trees. USDA Forest Service Agriculture Handbook 541.
 ---
 

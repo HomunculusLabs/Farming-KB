@@ -12,10 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Storey's Guide to Raising Ducks, Dave Holderread, 3rd Edition
   - The Small-Scale Poultry Flock, Harvey Ussery
   - Permaculture: A Designers' Manual, bill-mollison
-  - The Duck Commander Family, Phil Robertson (breed and habitat references)
   - USDA Extension: Duck Production and Management (extension.umn.edu)---
 ---
 

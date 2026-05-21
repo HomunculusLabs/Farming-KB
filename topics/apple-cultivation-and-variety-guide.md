@@ -6,7 +6,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Gaia's Garden, Toby Hemenway (2009)
-  - Permaculture: A Designers' Manual, Bill Mollison (1988)
   - Sepp Holzer's Permaculture, Sepp Holzer (2004)
   - Mr. Bloomfield's Orchard, Nicholas P. Money (2002)
   - The Apple Grower, Michael Phillips (2005)
@@ -14,9 +13,7 @@ sources:
 related_concepts:
   - apple-tree-care
   - apple-guild-design-guide
-  - mollison-designers-apple-guild-and-cool-climate-fruit-guilds
   - hemenway-apple-tree-guild-design
-  - bloomfield-apple-orchard-fungal-disease-devastation
   - holzer-pear-and-apple-pollination-and-harvesting
   - fruit-tree-pruning-and-training-systems
   - fruit-tree-care-and-orchard-management

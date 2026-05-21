@@ -12,9 +12,6 @@ tags:
   - foraging-hazard
   - north-american-flora
 sources:
-  - "Knoppel, M.L. (1972). \"A monograph of Cicuta (Umbelliferae).\" Ph.D. dissertation, University of Michigan."
-  - "U.S. Forest Service (2023). \"Cicuta maculata.\" Fire Effects Information System (FEIS)."
-  - "Panter, K.E. et al. (2013). \"Cicutoxin toxicosis in waterfowl.\" Journal of Veterinary Diagnostic Investigation, 25(1), 88–93."
   - "Frank, B.S. et al. (1995). \"Isolation and structure of cicutoxin from Cicuta maculata.\" Journal of Natural Products, 58(7), 1091–1093."
 ---
 

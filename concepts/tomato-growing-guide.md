@@ -4,12 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, troubleshooting]
-sources: ["raw/concepts/tomato-growing-guide.md"]
+sources: []
 ---
 
 # Tomato Growing Guide
 
-Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
+Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -36,8 +36,8 @@ Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This 
 - Nighttime temperatures should be consistently above 50°F.
 - Plant deep: bury stem up to the first set of true leaves — tomatoes root from the stem. Up to 2/3 of the plant can be buried.
 - Space determinates 18-24 inches apart; indeterminates 24-36 inches apart (closer with trellising).
-- Add a handful of bone meal or [[rock-phosphate]] to each planting hole.
-- Water in well with diluted compost tea or [[fish-emulsion]].
+- Add a handful of bone meal or rock phosphate to each planting hole.
+- Water in well with diluted compost tea or fish emulsion.
 - Install supports (stakes or cages) at planting time — root damage from later installation can set plants back.
 
 ## Pruning Suckers (Indeterminate Only)
@@ -96,7 +96,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - Consistent, deep watering is critical — fluctuations cause blossom end rot and fruit cracking.
 - Target 1-2 inches per week from rain and irrigation combined.
 - Water at the base, not overhead — wet foliage promotes blight and other diseases.
-- [[drip-irrigation]] is ideal.
+- Drip irrigation is ideal.
 - Mulch heavily (3-4 inches) to maintain consistent soil moisture.
 
 ## Common Diseases
@@ -148,3 +148,4 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - [[companion-planting-reference]] — basil, marigolds, borage as tomato companions
 - [[seed-starting-reference]] — indoor starting schedule and techniques
 - [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources
+- [[pepper-growing-guide]] — related nightshade crop with similar requirements

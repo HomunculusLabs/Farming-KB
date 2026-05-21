@@ -10,10 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "A worldwide
     geographical distribution of the neurotropic fungi, an analysis
     and discussion." *Ann. Mus. civ. Rovereto*, 14: 189-280.
-  - Guzmán, G. (1997). "Nombres usados en México para los hongos
     neurotrópicos." *Rev. Mex. Mic.*.
 related_concepts:
   - psilocybe-global-biodiversity-hotspots

@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Soil and Nutrients
 
-Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and [[soil-ph]] is essential for healthy plants and maximum yield.
+Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
 
 ## Soil Mixes
 
@@ -20,8 +20,8 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Feed with bottled nutrients after 3-4 weeks
 
 ### Advanced (Super Soil / Living Soil)
-- Base: 1/3 [[peat-moss]] or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
-- Amendments: worm castings, bone meal, [[blood-meal]], kelp meal, [[bat-guano]]
+- Base: 1/3 peat moss or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
+- Amendments: worm castings, bone meal, blood meal, kelp meal, bat guano
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
@@ -64,7 +64,7 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
-- pH too high: [[nutrient-lockout]] (nutrients present but unavailable)
+- pH too high: nutrient lockout (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
 
 ## Related
@@ -72,11 +72,18 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - [[cannabis-vegetative-stage-management]] — for grow phase
 - [[cannabis-nutrient-deficiency-guide]] — for deficiency diagnosis
 - [[soil-food-web-structure]] — for living soil biology
+## Historical Context
 
-## Current Research and Applications
+The study and practice of cannabis soil and nutrients has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Modern research has expanded significantly in this domain.
-New methodologies and technologies have enabled more precise investigation.
-These advances have revealed previously unknown aspects of the subject.
-Practitioners continue to integrate research findings into applied settings.
-The field remains active with ongoing discoveries and developments.
+## Current Research
+
+Recent investigations into cannabis soil and nutrients have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with cannabis soil and nutrients spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

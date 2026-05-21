@@ -9,7 +9,7 @@ sources: []
 
 # MDMA Reference
 
-MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves [[serotonin]] release and reuptake inhibition rather than direct receptor agonism.
+MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 
 ## Chemistry
 
@@ -23,19 +23,19 @@ MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compo
   - R-MDMA has more dopaminergic effects
   - Racemic MDMA (50/50 mixture) is the form typically encountered
 - Physical form: white crystalline powder or pressed tablets
-- Synthesis: typically from [[safrole]] or piperonal via reductive amination
+- Synthesis: typically from safrole or piperonal via reductive amination
 
 MDMA is structurally related to:
 - MDA (3,4-methylenedioxyamphetamine): more psychedelic, longer-lasting
 - MDEA (methylenedioxyethylamphetamine): gentler, shorter duration
 - Amphetamine and methamphetamine (without the methylenedioxy group)
-- [[mescaline]] (shares the 3,4-methylenedioxy pattern)
+- Mescaline (shares the 3,4-methylenedioxy pattern)
 
 ## History
 
 - First synthesized in 1912 by Merck chemist Anton Köllisch (patented as an intermediate for blood-clotting compounds)
 - Psychoactive effects not recognized until the 1970s
-- [[alexander-shulgin]] rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
+- Alexander Shulgin rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
 - Zeff introduced MDMA to hundreds of therapists in the late 1970s and early 1980s
 - MDMA was used as an adjunct to psychotherapy before it was scheduled (estimated 1,000+ therapists used it)
 - Gained popularity in recreational settings in the early 1980s
@@ -86,8 +86,8 @@ The serotonin release mechanism is the key differentiator. While classical psych
 - Typical therapeutic dose in clinical trials: 80-120 mg, with optional supplemental half-dose at 1.5-2 hours
 
 Note: street MDMA varies enormously in purity and content. Pills may contain:
-- [[methylone]], [[mephedrone]], or other cathinones (NPS — novel psychoactive substances)
-- MDMA mixed with amphetamine, [[caffeine]], or other substances
+- Methylone, mephedrone, or other cathinones (NPS — novel psychoactive substances)
+- MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
 - Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction
 
@@ -144,7 +144,11 @@ This is the most advanced clinical application:
 ### Acute Risks
 
 - Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
+- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
+- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
+- Cardiovascular events: dangerous for those with cardiovascular conditions
 ## See Also
 
-- [[lsd-reference]] for comparison with a classical psychedelic
-- [[ketamine-reference]] for another drug with breakthrough psychiatric applications
+- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
+- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
+- [[mdma-qualitative-effects-phenomenology]]

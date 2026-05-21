@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Potterat, O. (2010). "Goji (lycium-barbarum and L. chinense): Phytochemistry, ayahuasca-pharmacology-and-safety in the Perspective of Traditional Uses and Recent Popularity." Planta Medica, 76(1), 7-19.
-  - Yao, R. et al. (2018). "Lycium chinense: A Review of Its Traditional Uses, Phytochemistry, and Pharmacology." American Journal of Chinese Medicine, 46(2), 229-264.
   - Amagase, H. & Farnsworth, N.R. (2011). "A Review of Botanical Characteristics, Phytochemistry, Clinical Relevance in Efficacy and Safety of functional-foods-medicinal-mushrooms, 59, 234-243.
 ---
 

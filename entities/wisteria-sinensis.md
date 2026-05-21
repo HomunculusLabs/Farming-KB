@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Valder, P. (1995). "Wisterias: A Comprehensive Guide." Timber Press.
-  - Ma, J. et al. (2019). "Phytochemistry and pharmacology of the genus Wisteria." Journal of Ethnopharmacology 245: 112158.
-  - RHS. "Wisteria sinensis." Royal Horticultural Society.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Chen, X. et al. (2015). "Molecular phylogeny of Wisteria (Fabaceae)." Botanical Journal of the Linnean Society 178(1): 37-48.
 ---
 

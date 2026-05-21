@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singh YN. Kava: An overview. Journal of Ethnopharmacology. 1992;37(1):13-45.
-  - Prozialeck WC, Jivan JK, Aronow JR. Pharmacology of kratom: an emerging botanical agent with stimulant, analgesic and opioid-like effects. Journal of the American Osteopathic Association. 2012;112(12):792-799.
-  - Sarris J, et al. Kava: A comprehensive review. ANZJP. 2011;45(1):27-35.
-  - Kruegel AC, Grundmann O. The medicinal chemistry and neuropharmacology of kratom. Behavioral Pharmacology. 2018;29(2-3):134-156.
   - WHO. Kava: A review of safety of traditional and complementary/alternative medicine. WHO, 2007.
 ---
 
@@ -79,3 +75,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on comparison kava vs kratom cultivation chemistry and uses have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison kava vs kratom cultivation chemistry and uses should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

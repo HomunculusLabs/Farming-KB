@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Della Rocca, G. (2005). "Cupressus sempervirens in the Mediterranean basin." Flora Mediterranea, 15, 261–270.
-  - Turland, N.J. et al. (1993). "Flora of Crete: A Supplement." HMSO.
   - Poljakoff-Mayber, A. (1960). "The cypress tree." Economic Botany, 14, 279–286.
 ---
 

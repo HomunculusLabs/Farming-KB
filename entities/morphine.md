@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brownstein, M.J. (1993). "A turner-brief-history-psychedelics-ancient-to-modern of Opiates, Opioid Peptides, and Opioid Receptors." PNAS 90(12): 5391-5393.
-  - Trescot, A.M. et al. (2008). "Opioid Pharmacology." Pain Physician 11(2S): S133-S153.
-  - Lippincott, W. & Williams (2020). "Goodman & Gilman's The Pharmacological Basis of Therapeutics." 14th ed. McGraw-Hill.
-  - United Nations Office on Drugs and Crime (2023). "World Drug Report." United Nations Publications.
   - Matsumoto, K. et al. (2014). "Isolation and Structure of Morphine." Journal of Organic Chemistry 79(2): 704-712.
 ---
 

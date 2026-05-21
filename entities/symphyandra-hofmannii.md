@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pantocsek J. (1874). "Symphyandra." Oesterreichische Botanische Zeitschrift, 24: 36–38.
-  - Damboldt J., Phitos D. (1976). "Symphyandra." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Royal Botanic Gardens Kew (2024). "Plants of the World Online: Symphyandra hofmannii." powo.science.kew.org
   - Kovanda M. (1978). "Chromosome Numbers in Campanulaceae." Preslia, 50: 129–140.
 ---
 

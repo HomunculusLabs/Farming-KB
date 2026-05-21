@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[mycoremediation]] of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste.
+Mycoremediation of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste.
 
 ## The Plastic Problem
 
@@ -23,7 +23,7 @@ Global plastic production exceeds 400 million tonnes annually. Key challenges:
 ## Pestalotiopsis microspora -- The Breakthrough Species
 
 ### Discovery
-In 2011, Yale University researchers led by Scott Strobel discovered [[pestalotiopsis-microspora]] in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic.
+In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiopsis microspora in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic.
 
 ### Mechanism
 - Produces a serine hydrolase enzyme that cleaves polyurethane bonds
@@ -49,13 +49,13 @@ In 2011, Yale University researchers led by Scott Strobel discovered [[pestaloti
 - Multiple species show activity against polystyrene and polyethylene
 
 ### White-rot Basidiomycetes
-- **[[pleurotus-ostreatus]]**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
+- **Pleurotus ostreatus**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
 - **Trametes versicolor**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
-- **[[phanerochaete-chrysosporium]]**: [[lignin-peroxidase]] attacks aromatic structures in some plastics
-- **[[schizophyllum-commune]]**: Degrades polyethylene under pre-oxidation conditions
+- **Phanerochaete chrysosporium**: Lignin peroxidase attacks aromatic structures in some plastics
+- **Schizophyllum commune**: Degrades polyethylene under pre-oxidation conditions
 
 ### Other Notable Species
-- **[[cladosporium-cladosporioides]]**: Isolated from marine plastic debris; degrades polyethylene
+- **Cladosporium cladosporioides**: Isolated from marine plastic debris; degrades polyethylene
 - **Engyodontium album**: Breaks down polypropylene in laboratory settings (2022 discovery)
 - **Xepiculopsis sp.**: Found degrading plastic in mangrove environments
 
@@ -102,7 +102,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 
 ### Waste Treatment
 - Landfill bioreactors inoculated with plastic-degrading fungi
-- [[composting]] facilities processing biodegradable plastics alongside organic waste
+- Composting facilities processing biodegradable plastics alongside organic waste
 - Industrial pre-treatment of plastic waste before recycling
 
 ### Environmental Cleanup
@@ -125,3 +125,8 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 
 - [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
 - [[mycoremediation-of-heavy-metals]] -- fungal biosorption and immobilization of toxic metals
+- [[lakeland-plastics-boil-bag]]
+- [[staycare-mycoremediation-of-pharmaceutical-contaminants]]
+- [[mycoremediation-fungal-biodegradation-toxic-waste]]
+- [[mycoremediation-education-projects]]
+- [[mycoremediation-explosive-contaminants]]

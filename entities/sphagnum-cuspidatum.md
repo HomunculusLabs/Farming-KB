@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H.A. (1984). "Sphagnopsida, Sphagnaceae." North American Flora, Series II, Part 11.
-  - Rydin, H. & Jeglum, J.K. (2013). "The Biology of Peatlands." Oxford University Press.
-  - Daniels, R.E. & Eddy, A. (1985). "Handbook of European Sphagna." Institute of Terrestrial Ecology.
   - Andrus, R.E. (1986). "Some Aspects of Sphagnum Ecology." Canadian Journal of Botany, 64(2), 416-426.
 ---
 

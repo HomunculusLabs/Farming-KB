@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (2002). "Carex sect. Vignea." Flora of guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 23.
-  - Bryson, C.T. & DeWalt, S. (2009). "Carex (Cyperaceae) in the southeastern United States." Sida, Botanical Miscellany, 34.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
 ---
 

@@ -9,14 +9,14 @@ sources: []
 
 # Micro Hydro Power
 
-Micro hydro power generates electricity from flowing water [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable renewable energy source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
+Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable renewable energy source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
 
 ## Why Micro Hydro Is Special
 
 - **Continuous power**: Produces electricity 24/7, unlike solar (daylight only) or wind (variable)
 - **Predictable output**: Flow rates are more consistent than sun or wind
 - **High capacity factor**: 50-90% (vs. 15-25% for solar, 20-35% for wind)
-- **[[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] per kWh**: Often the cheapest renewable energy source over its lifetime
+- **Low cost per kWh**: Often the cheapest renewable energy source over its lifetime
 - **Long lifespan**: Equipment lasts 25-50 years with minimal maintenance
 - **Small footprint**: Minimal land use compared to solar arrays or wind towers
 
@@ -42,7 +42,7 @@ The volume of water flowing past a point per unit time. Measured in gallons per 
 
 1. **Surveyor's level or transit**: Most accurate
 2. **GPS altitudes**: Measure elevation at intake and turbine — subtract for head
-3. **Pressure gauge**: Attach to a pipe at the bottom [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] fall; every 2.31 psi = 1 foot of head
+3. **Pressure gauge**: Attach to a pipe at the bottom of the fall; every 2.31 psi = 1 foot of head
 4. **Water level method**: Run a hose filled with water from intake to turbine; measure the height difference
 5. **Topographic maps**: Approximate for initial assessment
 
@@ -70,7 +70,7 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 ### High Head (100+ feet): Pelton Wheel
 
 - Impulse turbine — water jets hit cup-shaped buckets on a wheel
-- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] high head, low flow situations
+- Best for high head, low flow situations
 - Very efficient (80-90%)
 - Can handle debris in water
 - Simple, reliable, long-lasting
@@ -126,14 +126,14 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 
 ### Turbine and Generator
 
-- Turbine converts [[desert-house-water-energy-conservation]] to mechanical rotation
+- Turbine converts water energy to mechanical rotation
 - Generator converts mechanical rotation to electricity
 - Direct-drive (generator on turbine shaft) or belt-drive (gears up speed)
 - Permanent magnet alternator (PMA): Most common for micro hydro — no external field excitation needed
 
 ### Power Conditioning
 
-- **Controller**: Regulates voltage [[cannabis-watering-techniques-and-frequency]]
+- **Controller**: Regulates voltage and frequency
 - **Dump load**: Diverts excess power when batteries are full (water heating element)
 - **Inverter**: Converts DC to AC for household use (if battery-based system)
 - **Battery bank**: Stores energy for peak demand periods
@@ -143,7 +143,13 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 - Channel that returns water to the stream below the turbine
 - Must meet environmental regulations (fish passage, water temperature)
 
+## Permitting and Regulations
+
+- **Water rights**: Many states require water rights or permits to divert stream flow
+- **Fish and wildlife**: Federal and state agencies protect aquatic habitat
+- **Dam safety**: Even small diversions may require permits
 ## See Also
-- [[biodiversity-power-natural-regeneration]]
-- [[coaxial-power-splitter-waveguide-microwave-sterilization]]
+
 - [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
+- [[comparison-micro-hydro-power-vs-solar-cooking-methods]]
+- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]

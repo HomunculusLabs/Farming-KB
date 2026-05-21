@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mason jar preserving — canning — [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] process of heat-processing food in glass jars to [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] vacuum seal that prevents microbial spoilage. Two primary methods exist: water bath canning (for high-acid foods) and pressure canning (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
+Mason jar preserving — canning — is the process of heat-processing food in glass jars to create a vacuum seal that prevents microbial spoilage. Two primary methods exist: water bath canning (for high-acid foods) and pressure canning (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
 
 ## Water Bath Canning
 
@@ -30,17 +30,17 @@ Water bath canning is used for high-acid foods (pH below 4.6): fruits, pickles, 
 1. **Prepare jars:** Wash jars, lids, and rings in hot soapy water. Rinse thoroughly. Keep jars hot (in simmering water or a warm oven) until ready to fill.
 2. **Prepare food:** Follow a tested recipe exactly. Do not modify ingredient ratios for safety.
 3. **Fill jars:** Pack food into hot jars, leaving the specified headspace (space between food and lid). Headspace varies: typically 1/4 inch for jams, 1/2 inch for fruits and pickles, 1 inch for tomatoes and juices.
-4. **Remove air bubbles:** Run a non-metallic spatula around the inside [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] jar to release trapped air bubbles.
+4. **Remove air bubbles:** Run a non-metallic spatula around the inside of the jar to release trapped air bubbles.
 5. **Clean rims:** Wipe the jar rim with a clean, damp cloth. Any food on the rim prevents a proper seal.
 6. **Apply lids:** Place the flat lid on the jar, then screw on the band until fingertip tight (do not overtighten).
-7. **Process:** Place jars on the rack [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] canner. Ensure jars are covered by 1-2 inches of water. Bring to a rolling boil and process for the time specified in the recipe.
+7. **Process:** Place jars on the rack in the canner. Ensure jars are covered by 1-2 inches of water. Bring to a rolling boil and process for the time specified in the recipe.
 8. **Cool:** Remove jars with the jar lifter and place on a towel. Do not disturb for 12-24 hours.
 9. **Check seals:** Press the center of each cooled lid. It should be concave and not flex. Remove bands, wipe jars, label with date and contents.
 10. **Store:** Store in a cool, dark, dry place. Properly sealed jars keep for 12-18 months.
 
 ## Pressure Canning Specifics
 
-Pressure canning is required for all low-acid foods (pH above 4.6): vegetables, meats, poultry, seafood, soups, stews, beans, and plain tomatoes. The temperature inside the canner must reach 240F (at sea level) to destroy [[clostridium]] botulinum spores — the organism that causes botulism. Boiling water only reaches 212F, which is insufficient.
+Pressure canning is required for all low-acid foods (pH above 4.6): vegetables, meats, poultry, seafood, soups, stews, beans, and plain tomatoes. The temperature inside the canner must reach 240F (at sea level) to destroy Clostridium botulinum spores — the organism that causes botulism. Boiling water only reaches 212F, which is insufficient.
 
 See [[pressure-canning-safety]] for detailed botulism prevention and equipment testing.
 
@@ -52,14 +52,14 @@ See [[pressure-canning-safety]] for detailed botulism prevention and equipment t
 
 ### Pressure Canning Process
 
-1. **Prepare jars [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]** as described above, following a tested recipe
+1. **Prepare jars and food** as described above, following a tested recipe
 2. **Add water** to the canner: 2-3 inches (dial gauge) or per manufacturer instructions (weighted gauge)
 3. **Load jars** on the rack, ensuring jars do not touch each other or the sides of the canner
 4. **Seal the canner** and vent steam through the vent pipe for 10 minutes (critical step — purges air from the canner)
 5. **Close the vent** (place weight on vent pipe or close petcock)
 6. **Bring to pressure:** Wait for the gauge to reach the target pressure (see altitude adjustment below)
 7. **Process** for the time specified in the recipe, maintaining steady pressure
-8. **Turn off heat** and let pressure [[emcdda-return-to-nature-megatrend-mushroom-appeal]] zero naturally (do not force-cool). Wait 10 additional minutes
+8. **Turn off heat** and let pressure return to zero naturally (do not force-cool). Wait 10 additional minutes
 9. **Open canner** away from your face, remove jars, and cool as for water bath
 
 ## Altitude Adjustments
@@ -95,7 +95,7 @@ Water boils at lower temperatures as altitude increases, which affects both meth
 
 ## Jar Sizing Guide
 
-| Jar Size | Volume | [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] |
+| Jar Size | Volume | Best For |
 |----------|--------|----------|
 | 4 oz (jelly jar) | 1/2 cup | Jellies, jams, gift items |
 | Half-pint (8 oz) | 1 cup | Jams, jellies, relishes, sauces |
@@ -142,8 +142,13 @@ Common homestead recipes include:
 | Cloudy liquid | Minerals in water, starch from food | Use soft water, blanch vegetables before canning |
 | Discolored food | Iron in water, reaction with metal | Use soft water, do not use aluminum cookware |
 
-## See Also
-- [[comparison-root-cellaring-vs-dehydration]]
 ## Storage and Shelf Life
 
 - Store jars in a cool (50-70F), dark, dry location
+- Do not store above 95F or below freezing
+- Remove rings before storage to detect seal failure
+- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
+## See Also
+
+- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
+- [[canning-and-preserving]]

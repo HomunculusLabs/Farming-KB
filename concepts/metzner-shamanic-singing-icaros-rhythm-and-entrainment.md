@@ -13,8 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in hallucinogenic-drugs-in-psychotherapy-and-shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Luna, L.E. (1986). Vegetalismo: Shamanism Among the Mestizo Population of the  Church, and ndzamba among the Bwiti — serve as
 both navigational guides through metzner-three-distinctive-features-shamanic-entheogenic-ceremonies ceremonies, noting that
 the rhythmic, percussive driving quality of the singing helps to sustain
 the altered state and deepen the experience.

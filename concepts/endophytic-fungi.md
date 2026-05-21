@@ -1,4 +1,5 @@
 ---
+
 title: Endophytic Fungi — Hidden Symbionts in Plant Tissues
 created: 2026-04-11
 updated: 2026-04-12

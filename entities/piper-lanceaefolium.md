@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Martínez, M. (1969). Las Plantas Medicinales de México. Ediciones Botas, México.
-  - Argueta, A. (1994). Atlas de las Plantas de la Medicina Tradicional Mexicana. Instituto Nacional Indigenista.
-  - Dyer, L.A. & Palmer, A.G. (2004). "Piper: A model genus for studies of ecology, evolution, and natural products." Chemoecology, 14, 9-19.
   - Parmar, V.S. et al. (1997). "Phytochemistry of the genus Piper." Phytochemistry, 46(4), 597-673.
 ---
 

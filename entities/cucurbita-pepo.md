@@ -12,10 +12,6 @@ tags:
   - medicinal-herb
   - edible-seeds
 sources:
-  - Andres, T.C. (2004). "Diversity in Cucurbita pepo." In: Proceedings of Cucurbitaceae 2004. ASHS Press.
-  - Paris, H.S. (1996). "Historical Records, Origins, and Development of the Edible Cultivar Groups of Cucurbita pepo." Horticultural Reviews 19.
-  - Decker-Walters, D.S., Walters, T.W., Cowan, C.W., Smith, B.D. (1993). "Isozymic Characterization of Wild Populations of Cucurbita pepo." Journal of Ethnobiology 13(1).
-  - Merrick, L.C. (1995). "Systematics and Evolution of a Domesticated Squash, Cucurbita argyrosperma." In: Prehistoric Agriculture in the Americas.
   - Nabhan, G.P. (1985). "Native Crop Diversity in Arid America." Economic Botany 39(4).
 ---
 

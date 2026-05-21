@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). "The Illustrated Field Flora of the British Isles." BSBI.
-  - Akeroyd, J.R. (2014). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
-  - USDA NRCS (2024). "PLANTS Database — Carex montana L." plants.usda.gov.
-  - Ellenberg, H. (1988). "Vegetation Ecology of Central Europe." Cambridge University Press.
   - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
 ---
 

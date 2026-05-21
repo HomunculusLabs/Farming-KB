@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Weakley, A.S. (2023). "Flora of the Southeastern United States." University of North Carolina.
-  - Hu, Q. et al. (2019). "Flora of China: Primulaceae." Science Press.
-  - Manns, U. & Anderberg, A.A. (2009). "Molecular phylogeny of Lysimachia." Taxon.
   - Rhoads, A.F. & Block, T.A. (2007). "The Plants of Pennsylvania." University of Pennsylvania Press.
 ---
 

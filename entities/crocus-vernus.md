@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1982). "The Crocus: A Revision of the Genus Crocus." Batsford, London.
-  - Royal Horticultural Society (2023). "Crocus vernus — RHS Plant Finder." rhs.org.uk.
-  - Harpke, D. et al. (2016). "Phylogeny of Crocus." Molecular Phylogenetics and Evolution 103: 71–86.
-  - Ruksans, J. (2014). "The World of Crocuses." Latvian Academy of Sciences.
   - WCSP (2024). "World Checklist: Crocus vernus." Kew Royal Botanic Gardens.
 ---
 

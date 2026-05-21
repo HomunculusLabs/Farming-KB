@@ -13,10 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-05-10
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Hart, Robert (1996) — Forest Gardening
-  - Jacke, D. & Toensmeier, E. (2005) — Edible Forest Gardens (Vol. I & II)
-  - Mollison, B. (1988) — Permaculture: A Designer's Manual
   - Crawford, M. (2010) — Creating a Forest Garden
 ---
 

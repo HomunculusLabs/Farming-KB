@@ -4,12 +4,6 @@ tags: [cacao, black-pepper, tropical-crops, agroforestry, spice-crops, permacult
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "FAO. Ecocrop Database. Food and Agriculture Organization of the United Nations. http://www.fao.org/agriculture/crops/core-collection/theme/ecocrop/en/"
-  - "ICCO. Quarterly Bulletin of Cocoa Statistics. International Cocoa Organization. https://www.icco.org/"
-  - "Spice Board of India. Pepper Production and Post-Harvest Guidelines. https://www.indianspices.com/"
-  - "Wood, G.A.R. & Lass, R.A. (2001). Cacao, 4th ed. Blackwell Science."
-  - "Ravindran, P.N. (2000). Black Pepper: Piper nigrum. Harwood Academic Publishers."
 type: comparison
 created: 2026-05-03
 ---

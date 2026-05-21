@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hu, Q. (1994). "A revision of the genus Lysimachia (Primulaceae) in China." Bulletin of the Missouri Botanical Garden.
-  - Weber, H.E. (1985). "Lysimachia." In: Hegi, G., Illustrierte Flora von Mitteleuropa.
-  - Chen, S. et al. (1996). "Primulaceae." In: Flora of China, Vol. 15.
-  - Stace, C.A. (2010). "New Flora of the British Isles." C&M Floristics.
   - Preston, C.D. et al. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
 ---
 

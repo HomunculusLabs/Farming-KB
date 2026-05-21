@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Calixto, J.B. et al. (1998). "A collective review of the pharmacological effects of Phyllanthus niruri." Phytotherapy Research 12(8): 563-574.
-  - Unander, D.W., Blumberg, B.S. (1991). "In vitro activities of Phyllanthus (Euphorbiaceae) species against the DNA polymerase of hepatitis viruses." Antiviral Research 18(1): 91-105.
-  - Patel, S., Gheewala, T., Patel, A. (2011). "In-vitro cytotoxicity activity of Solanum nigrum extract against Hep-2 cell line and Vero cell line." International Journal of Pharma and Bio Sciences 2(1): 348-356.
-  - Bagalkotkar, G., Sagineedu, S.R., Saad, M.S., Stanslas, J. (2006). "Phytochemicals from Phyllanthus niruri Linn. and their pharmacological activities." Journal of Pharmacy and Pharmacology 58(12): 1559-1570.
-  - WHO Monographs on Medicinal Plants, Volume 4 (2009). World Health Organization.
 created: 2026-04-28
 ---
 

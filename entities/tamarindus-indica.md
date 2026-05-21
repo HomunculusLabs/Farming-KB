@@ -12,10 +12,6 @@ tags:
   - africa
   - india
 sources:
-  - Shankaracharya, N.B. (1998). "Tamarind — Chemistry, Technology and Uses." Indian Institute of Technology, Mumbai.
-  - Bhadoria, P.B.S. et al. (2011). "Tamarind (Tamarindus indica) Seed Polysaccharide." In: Natural Polymers, Springer.
-  - Fowden, L. & Lea, P.J. (1979). "The Biochemistry of Plants: Amino Acids and Derivatives." Academic Press.
-  - El-Siddig, K. et al. (2006). "Tamarindus indica L." In: Fruits for the Future 1, ICUC, Southampton.
   - https://uses.plantnet-project.org/en/Tamarindus_indica_(PROTA)
 ---
 

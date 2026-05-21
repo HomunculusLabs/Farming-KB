@@ -10,9 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Hultén, E. (1968). Flora of Alaska and Neighboring Territories. Stanford University Press.
-  - Whittemore, A.T. (1997). "Anemone." Flora of North America North of Mexico, Vol. 3. Oxford University Press.
-  - Mosquin, D. (2021). "Anemone parviflora in the Canadian Arctic." Canadian Field-Naturalist, 135(2): 145–153.
   - Porsild, A.E. & Cody, W.J. (1980). Vascular Plants of Continental Northwest Territories, Canada. National Museum of Canada.
 ---
 

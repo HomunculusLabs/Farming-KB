@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ward, D.B. (2007). "Catalpa (Bignoniaceae): A Review of the Taxonomy, Distribution, and Natural History." Castanea, 72(2), 71-89.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Little, E.L. (1979). Checklist of United States Trees (Native and Naturalized). USDA Forest Service Agriculture Handbook 541.
-  - Sternberg, G. & Wilson, J. (2004). Native Trees for North American Landscapes. Timber Press.
   - USDA NRCS. (2024). "Catalpa speciosa." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=CASP2
 ---
 

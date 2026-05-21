@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Küpfer P. (1974). "Recherches sur les liens de parenté entre Gentiana L." Boissiera, 23, 1–210.
-  - Hunt D. (2008). "Gentians in cultivation." The Plantsman, 7(2), 84–89.
   - Kozuharova E. et al. (2020). "Gentiana in Balkan traditional medicine." Journal of Ethnopharmacology, 252, 112570.
 ---
 

@@ -5,7 +5,6 @@ tags: [comparison, propagation, genetics, seed-saving, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
 type: comparison
@@ -78,3 +77,5 @@ Examining this topic alongside related approaches reveals complementary strategi
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+Further research into comparison tissue culture vs seed saving continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison tissue culture vs seed saving provides a foundation for both practical application and continued scientific inquiry.

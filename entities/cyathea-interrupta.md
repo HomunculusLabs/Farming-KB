@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Palmer, D.D. (2003). "Hawai'i's Ferns and Fern Allies." University of Hawai'i Press, Honolulu.
-  - Lamoureux, C.H. (1975). "Pteridophytes." In: Wagner, W.L. & Herbst, D.R. (eds.), Manual of the Flowering Plants of Hawai'i.
-  - Aguraiuja, R. et al. (2008). "Conservation of Hawaiian tree ferns." Biological Conservation, 141(3): 765-774.
   - IUCN Red List. Cibotium spp. and Cyathea spp. in Hawai'i. https://www.iucnredlist.org
 ---
 

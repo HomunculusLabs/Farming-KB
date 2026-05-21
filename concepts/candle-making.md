@@ -9,19 +9,19 @@ sources: []
 
 # Candle Making
 
-Candle making is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
+Candle making is one of the oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
 
 ## Wax Types
 
 ### Beeswax
 
-Beeswax [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] premium homestead candle wax. It burns clean with [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] honey scent, produces a warm flame, and has the highest melting point of common candle waxes (144-147 F). Beeswax candles drip less, burn longer, and release negative ions when burned. Raw beeswax should be filtered before use to remove debris and propolis.
+Beeswax is the premium homestead candle wax. It burns clean with a natural honey scent, produces a warm flame, and has the highest melting point of common candle waxes (144-147 F). Beeswax candles drip less, burn longer, and release negative ions when burned. Raw beeswax should be filtered before use to remove debris and propolis.
 
-Rendering beeswax: Melt cappings and crushed comb [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] double boiler. Strain through cheesecloth or a fine mesh filter into molds. Pour wax into blocks for storage. One pound of beeswax yields approximately 20 taper candles or 4-6 pillars.
+Rendering beeswax: Melt cappings and crushed comb in a double boiler. Strain through cheesecloth or a fine mesh filter into molds. Pour wax into blocks for storage. One pound of beeswax yields approximately 20 taper candles or 4-6 pillars.
 
 ### Tallow
 
-Rendered beef or sheep tallow was the traditional candle fuel before paraffin became common. Tallow candles are economical but produce more smoke and have a lower melting point than beeswax. They [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] for emergency lighting or historical reproduction.
+Rendered beef or sheep tallow was the traditional candle fuel before paraffin became common. Tallow candles are economical but produce more smoke and have a lower melting point than beeswax. They are best for emergency lighting or historical reproduction.
 
 ### Plant Waxes
 
@@ -31,7 +31,7 @@ Soy wax and coconut wax are modern alternatives. Soy wax has a lower melting poi
 
 ### Taper Candles
 
-Taper candles are the simplest [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. Dip a wick repeatedly into melted wax, allowing each layer to cool between dips. A mold can also be used. Tapers require medium-weight wicking and burn 8-12 hours depending on thickness.
+Taper candles are the simplest to make. Dip a wick repeatedly into melted wax, allowing each layer to cool between dips. A mold can also be used. Tapers require medium-weight wicking and burn 8-12 hours depending on thickness.
 
 ### Pillar Candles
 
@@ -39,7 +39,7 @@ Pillar candles are free-standing candles poured into molds. They require harder 
 
 ### Container Candles
 
-Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] and are popular gifts.
+Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles for beginners and are popular gifts.
 
 ### Votives and Tealights
 

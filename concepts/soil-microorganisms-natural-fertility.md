@@ -5,9 +5,6 @@ tags: [soil-science, microorganisms, nitrogen-fixing, mycorrhiza, natural-farmin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "masanobu-fukuoka, The Natural Way of Farming (1975), chapters on no cultivation, no fertilizer, and fukuoka-pine-rot-root-cause"
-  - "masanobu-fukuoka, The One-Straw Revolution (1978)"
 type: concept
 ---
 

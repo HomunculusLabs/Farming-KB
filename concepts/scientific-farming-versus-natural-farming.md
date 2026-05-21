@@ -5,7 +5,6 @@ tags: [farming, agriculture, philosophy, ecology, critique]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

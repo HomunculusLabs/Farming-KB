@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A (1976). "Campanula L." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Frajman B, Oxelman B (2007). "Reticulate phylogenetics and phytogeographical structure of Campanula section Campanula." Molecular Phylogenetics and Evolution, 44: 886–903.
-  - Eggenberg S, Möhl A (2013). Flora Vegetativa. Haupt Verlag, Bern.
   - Aeschimann D, Lauber K, Moser DM, Theurillat JP (2004). Flora Alpina. Haupt Verlag, Bern.
 ---
 

@@ -24,7 +24,7 @@ appreciating how the entire soil ecosystem contributes to plant water
 resilience.
 
 From a practical perspective, growers can leverage this relationship by
-minimizing practices that damage [[glomalin-and-soil-carbon|Glomalin production]] by mycorrhizal fungi improves soil
+minimizing practices that damage [[glomalin|Glomalin production]] by mycorrhizal fungi improves soil
   aggregation, boosting water infiltration and retention capacity
 - Colonized plants show better stomatal regulation and osmotic
   adjustment during water stress

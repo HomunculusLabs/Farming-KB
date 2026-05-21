@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wendel, J.F., Brubaker, C.L. & Alvarez, I. (2009). "Cladistics and reticulation in the evolution of New World cottons." Taxon, 58(4), 1191-1206.
-  - Lee, J.A. (1984). "Cotton as a world power: A study in the economic interpretation of history." Texas A&M University Press.
-  - Smith, C.W. & Cothren, J.T. (1999). "Cotton: Origin, History, Technology, and Production." John Wiley & Sons.
-  - International Cotton Advisory Committee (2023). "Cotton: World Statistics." ICAC, Washington, D.C.
   - Wendel, J.F. et al. (2010). "Polyploidy and the evolutionary history of cotton." Advances in Agronomy, 105, 139-186.
 ---
 

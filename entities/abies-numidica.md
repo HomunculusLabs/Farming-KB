@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed., Brill.
-  - IUCN (2023). "Abies numidica." The IUCN Red List of Threatened Species.
-  - Debazac, E.F. (1964). "Réflexions sur les problèmes phytogéographiques des forêts de l'Afrique du Nord." Annales de l'ENEF, Nancy.
-  - Quézel, P. & Médail, F. (2003). "Écologie et biogéographie des forêts du bassin méditerranéen." Elsevier.
   - Barbero, M. et al. (1998). "Les forêts méditerranéennes." In: Biodiversité et biogéographie des montagnes méditerranéennes.
 ---
 

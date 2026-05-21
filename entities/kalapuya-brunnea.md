@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Trappe JM, Molina R, Castellano MA (2007). "Kalapuya, a new genus of truffle." Mycotaxon 100: 437-447.
-  - Trappe JM, Castellano MA, Molina R (2010). "The Oregon truffles: Kalapuya brunnea and K. fibuliformis." growing-gourmet-north-american-reishi-species Truffling Society.
   - Palfner G, et al. (2019). "query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with of berry-growing, where it fruits in association with Douglas-fir and other conifers.
 ---
 

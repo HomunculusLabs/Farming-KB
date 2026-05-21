@@ -66,7 +66,7 @@ Save from multiple plants (minimum 20-50 for outcrossing species) to maintain ge
 - Allow seeds to fully mature on the plant
 - Harvest on dry days
 - Dry seeds to 10-15% moisture content before storage
-- [[coleman-quick-hoops-low-cost-season-extension-structures-design]] by wet fermentation (tomatoes, cucumbers), dry threshing (beans, grains), or winnowing (brassicas, lettuce)
+- Process by wet fermentation (tomatoes, cucumbers), dry threshing (beans, grains), or winnowing (brassicas, lettuce)
 - Store in cool, dark, dry conditions — sealed jars in the refrigerator or freezer for longest viability
 
 ### Viability

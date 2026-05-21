@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Niwa K. et al. (2009). "biodiversity-fungal-genetic-diversity of the red alga porphyra-yezoensis (Bangiales, Rhodophyta) from the coast of Japanese archipelago." Fisheries Science.
-  - Miura A. (1975). "Porphyra cultivation in Japan." In Tokida J. & H. Hirose (eds.), Advances in Phycology in Japan.
-  - Sutherland J. E. et al. (2011). "A new look at an ancient order: generic revision of the Bangiales." Journal of Phycology.
   - "Pyropia tenera." AlgaeBase. https://www.algaebase.org/
 ---
 

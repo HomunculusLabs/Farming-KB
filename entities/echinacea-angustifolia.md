@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Barnes J., Anderson L.A., Gibbons S., Phillipson J.D. (2005). "Echinacea Species (E. purpurea, E. angustifolia, E. pallida): A Review of Their Chemistry, Pharmacology and Clinical Properties." Journal of Pharmacy and Pharmacology, 57(8), 929-954.
-  - Bauer R. (1998). "Echinacea: Biological Effects and Active Principles." Phytomedicine, 5(4), 299-306.
-  - Kindscher K. (1989). "Ethnobotany of Purple Coneflower (Echinacea angustifolia, Asteraceae) and Other Echinacea Species in the Great Plains." Economic Botany, 43(4), 497-507.
-  - Miller S.C. (2005). "Echinacea: A Miracle Herb Against Aging and Cancer? Evidence In Vivo in Mice." Evidence-Based Complementary and Alternative Medicine, 2(3), 309-314.
   - European Medicines Agency (2015). "Assessment Report on Echinacea angustifolia DC., Radix." HMPC Monograph, EMA/HMPC/601527/2014.
 ---
 

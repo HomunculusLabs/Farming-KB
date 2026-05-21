@@ -1,4 +1,5 @@
 ---
+
 title: Vegetable Garden Harvest and Storage
 created: 2026-04-11
 updated: 2026-04-12
@@ -43,7 +44,7 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 ### Cold, Moist (45-50F, 80-90% RH)
 - **Cucumbers**: Harvest before seeds are half-size (1.5-2.5 inches diameter). Store up to 1 week.
 - **Eggplant**: Harvest when nearly full grown but color still bright. Store about 1 week.
-- **Greens** (chard, collards, [[query-how-do-i-grow-cool-season-brassicas-cabbage-broccoli-cauliflower-kale]], mustard, spinach): Harvest leaves at suitable size. Store up to 2 weeks.
+- **Greens** (chard, collards, kale, mustard, spinach): Harvest leaves at suitable size. Store up to 2 weeks.
 - **Lettuce**: Store up to 2 weeks.
 - **Green beans**: Most tender when seed is 1/4 mature. Store up to 1 week.
 - **Okra**: Harvest at 2-3 inches (over-mature = woody). Store about 1 week.
@@ -87,7 +88,7 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 - **Collards, Kale, Mustard, Spinach**: Harvest whole plant or outer larger leaves. Up to 2 weeks in refrigerator; freeze surplus.
 - **Endive/Escarole**: Harvest whole plant, wash thoroughly, tie leaves with rubber band. Up to 3 weeks.
 - **Lettuce**: Head, semi-head, and leaf types all store up to 2 weeks in perforated bags.
-- **Parsley**: Snip stems close to ground; never cut more than half the plant at once. Overwinters in protected places ([[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]). Can be lifted with soil ball before freeze, potted indoors. Up to 1+ weeks in refrigerator.
+- **Parsley**: Snip stems close to ground; never cut more than half the plant at once. Overwinters in protected places (cold frames). Can be lifted with soil ball before freeze, potted indoors. Up to 1+ weeks in refrigerator.
 
 ### Legumes
 - **Lima Beans**: Harvest when pods filled. A bit immature for tender limas; dry and mature for "meaty" limas. Shelled: up to 1 week refrigerated.

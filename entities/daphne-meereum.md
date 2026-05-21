@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists." 2nd ed., Timber Press.
-  - Tomlinson, R.H. & Mabry, T.J. (1970). "Daphnane orthoesters: toxic principles of Daphne species." Tetrahedron Letters, 11(33), 2869–2872.
   - Csurka, Š. et al. (2011). "nitrogen-fixing-trees-and-shrubs Hardy in the British Isles." 8th ed., Vol. II, John Murray.
 ---
 

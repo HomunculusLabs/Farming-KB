@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Haufler, C.H. et al. (1993). "Systematics of the Asplenium trichomanes complex." American Fern Journal.
-  - Reichstein, T. (1981). "Aspleniaceae." In: Illustrierte Flora von Mitteleuropa, Vol. 1.
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - USDA NRCS. "Asplenium trichomanes L." PLANTS Database.
 ---
 

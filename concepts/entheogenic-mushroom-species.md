@@ -11,7 +11,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - a-golden-guide-to-hallucinogenic-plants.md
-  - magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 

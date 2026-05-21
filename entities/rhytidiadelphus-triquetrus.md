@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Vol. 1. Michigan Technological University.
   - Lawton, E. (1971). "Moss Flora of the Pacific Northwest." Hattori Botanical Laboratory.
 ---
 

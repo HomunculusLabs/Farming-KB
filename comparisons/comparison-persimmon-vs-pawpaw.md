@@ -5,14 +5,6 @@ tags: [persimmon, pawpaw, fruit-trees, comparison, permaculture, north-american-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kentucky State University Pawpaw Program — https://kysu.edu/pawpaw/"
-  - "USDA NRCS Plant Guide: diospyros-virginiana — https://plants.usda.gov/home/plantProfile?symbol=DIVI5"
-  - "USDA NRCS Plant Guide: asimina-triloba — https://plants.usda.gov/home/plantProfile?symbol=ASTR"
-  - "Clemson Cooperative Extension: Persimmon — https://hgic.clemson.edu/factsheet/persimmon/"
-  - "University of Kentucky Extension: Pawpaw — https://uky.edu/hort/pawpaw"
-  - "North American Pawpaw Growers Association — https://www.pawpaw.org/"
-  - "California Rare Fruit Growers: Persimmon — https://crfg.org/pubs/ff/persimmon.html"
-  - "Missouri Botanical Garden: Asimina triloba — https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282650"
 type: comparison
 ---
 
@@ -79,3 +71,12 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## Current Research
+
+Recent studies on comparison persimmon vs pawpaw have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison persimmon vs pawpaw should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

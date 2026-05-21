@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pringle, J.S. (1967). "Taxonomy of Gentiana, Section Pneumonanthe." Rhodora 69: 1–78.
-  - Weakley, A.S. (2022). Flora of the Southeastern north-carolina-mycodiversity Herbarium.
   - USDA NRCS Plants Database. "Gentiana ochroleuca." https://plants.usda.gov
 ---
 

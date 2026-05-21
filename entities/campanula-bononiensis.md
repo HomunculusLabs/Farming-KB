@@ -10,9 +10,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Flora Europaea, Vol. 4. Cambridge University Press.
-  - Pignatti, S. (1982). Flora d'Italia, Vol. 2. Bologna: Edagricole.
-  - Tutin, T.G. et al. (1964-1980). Flora Europaea. Cambridge University Press.
   - Conti, F. et al. (2005). An Annotated Checklist of the Italian Vascular Flora. Rome: Ministero dell'Ambiente.
 ---
 
@@ -79,3 +76,5 @@ Plants resent root disturbance and are best started in situ or transplanted whil
 Campanula bononiensis has no significant ethnobotanical or [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]] documented in the literature. It has occasionally been gathered as a wildflower for informal bouquets in rural Italy.
 
 The species has limited ornamental use but shows potential for wildflower meadows and naturalistic garden designs. Its pale flowers and airy habit blend well with other dry-meadow perennials.
+Further research into campanula bononiensis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind campanula bononiensis provides a foundation for both practical application and continued scientific inquiry.

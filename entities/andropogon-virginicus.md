@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Campbell, J.J.N. (1985). "Andropogon." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
-  - Hitchcock, A.S. & A. Chase (1950). Manual of the Grasses of the United States, 2nd ed. USDA Miscellaneous Publication No. 200.
   - Peet, R.K. & T.R. Wentworth (1998). "Old-Field Vegetation Succession in the fukuoka-textdoc-agricultural-land-law-obstruction-return-farming.
 ---
 

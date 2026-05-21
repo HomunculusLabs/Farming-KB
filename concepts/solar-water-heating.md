@@ -12,7 +12,7 @@ sources: []
 Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
-This guide covers system types, design principles, [[laminar-flow-hood-diy-construction]], and
+This guide covers system types, design principles, DIY construction, and
 sizing for the homestead.
 
 ## Why Solar Water Heating
@@ -32,15 +32,15 @@ The simplest and cheapest solar water heater.
 
 **How it works:**
 - Cold water flows into the tank from the supply line
-- Sun heats the water directly [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] tank
-- Hot water is drawn from the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] tank for use
-- Cold water from the supply replaces [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] drawn
+- Sun heats the water directly in the tank
+- Hot water is drawn from the top of the tank for use
+- Cold water from the supply replaces what is drawn
 
 **Advantages:**
 - Simple to build — essentially a water tank in a box
 - No pumps, controllers, or moving parts
 - Passive operation — no electricity required
-- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] ($200-500 DIY)
+- Low cost ($200-500 DIY)
 
 **Disadvantages:**
 - Heat loss overnight — water cools when sun is not shining
@@ -53,7 +53,7 @@ The simplest and cheapest solar water heater.
    outer shell and insulation, repaint the tank black with high-heat paint
 2. Build an insulated box from 2x4 lumber and rigid foam insulation (R-20+)
 3. Glaze the top with tempered glass or twin-wall polycarbonate
-4. Mount the tank inside the box [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] south-facing roof or ground stand
+4. Mount the tank inside the box on a south-facing roof or ground stand
 5. Plumb cold water in (bottom) and hot water out (top)
 6. Install a tempering valve on the output to prevent scalding
 7. Tilt the collector at latitude + 15 degrees for winter optimization
@@ -61,7 +61,7 @@ The simplest and cheapest solar water heater.
 ### Thermosiphon System
 
 A separate collector panel heats water that rises by natural convection
-(natural [[thermosiphon]] effect) to an insulated storage tank mounted above
+(natural thermosiphon effect) to an insulated storage tank mounted above
 the collector.
 
 **How it works:**
@@ -86,7 +86,7 @@ the collector.
 ### Active Closed-Loop System
 
 A pump circulates a heat-transfer fluid (propylene glycol) through the
-collector [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] heat exchanger in the storage tank. A differential
+collector and a heat exchanger in the storage tank. A differential
 controller activates the pump when the collector is hotter than the tank.
 
 **How it works:**
@@ -136,9 +136,6 @@ cloudy days. For 60 gallons/day demand, use an 80-120 gallon storage tank.
   degrees for summer emphasis; latitude + 15 for winter emphasis
 - **Shading**: collector must have full sun from 9AM-3PM year-round
 
-## See Also
-- [[solar-radiation-and-plant-light-responses]]
-- [[solar-and-electric-food-drying-methods]]
 ## Freeze Protection
 
 In climates with freezing temperatures, freeze protection is essential:
@@ -147,3 +144,12 @@ In climates with freezing temperatures, freeze protection is essential:
   stops; collector is empty when not producing heat
 - **Glycol loop** — antifreeze solution circulates through collector;
   requires a double-walled heat exchanger for potable water safety
+- **Recirculation** — pump runs briefly to circulate warm tank water
+  through the collector during freezing conditions (wastes some heat)
+
+## Maintenance
+## See Also
+
+- [[mollison-designers-solar-water-heating-systems]]
+- [[mollison-designers-passive-solar-heating-building-design]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

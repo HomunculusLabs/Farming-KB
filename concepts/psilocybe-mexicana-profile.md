@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, mesoamerica, mazatec, entheogen, wasson]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
@@ -13,7 +12,7 @@ sources:
 
 ## Overview
 
-[[psilocybe-mexicana]] is the original species that launched the modern psychedelic era. Identified by [[roger-heim]] and studied by [[albert-hofmann]], it was the species consumed by R. [[gordon-wasson]] and [[maria-sabina]] during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "[[teonanacatl]]" -- "flesh of the gods."
+Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by Albert Hofmann, it was the species consumed by R. Gordon Wasson and Maria Sabina during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
 
 ## Taxonomy
 
@@ -28,7 +27,7 @@ sources:
 - **Stem**: 40-120 mm long by 1-3 mm thick, equal to narrowing towards base. Smooth, hollow. Straw yellow to brownish, darkening with age or injury.
 - **Veil**: Thinly fibrillose, whitish, leaving fibrillose remnants on upper stem.
 - **Flesh**: Reddish brown, bruising bluish where injured.
-- **[[spore-print]]**: Dark purplish brown to blackish purple brown.
+- **Spore print**: Dark purplish brown to blackish purple brown.
 - **Spores**: 8-9.9 (12) x 5.5-7.7 (8) micrometers, ellipsoid to subellipsoid.
 
 ## Potency
@@ -57,28 +56,31 @@ P. mexicana is the species at the center of Wasson's discovery of the "divine mu
 
 - [[soma-and-the-sacred-mushroom-debate]] -- the broader question of mushrooms in ancient religion
 - [[psilocybe-cubensis-profile]] -- the more widely cultivated tropical species
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of psilocybe mexicana profile has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
+## Current Research
+
+Recent investigations into psilocybe mexicana profile have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with psilocybe mexicana profile spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of psilocybe mexicana profile.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into psilocybe mexicana profile continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

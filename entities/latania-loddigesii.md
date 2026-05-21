@@ -11,7 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
   - Henderson, A., Galeano, G., & Bernal, R. (1995). "soil-temperature-plant-growth-rate-doubling-rule is moderate, with mature trees producing approximately 4–6 new leaves per year. The trunk retains old leaf bases for several years before they are shed, giving the upper trunk a characteristic bearded appearance.
 ---
 

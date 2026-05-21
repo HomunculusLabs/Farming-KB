@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rao, B.V. et al. (2011). "Phytochemical and pharmacological profile of Murraya koenigii." Pharmacognosy Reviews, 5(10), 149-156.
-  - Gupta, S. et al. (2010). "Hepatoprotective effect of Murraya koenigii leaves on paracetamol induced hepatic damage in rats." Indian Journal of Experimental Biology, 48(4), 351-356.
-  - Bhandari, P.R. (2012). "Curry leaf (Murraya koenigii) — a multipurpose green leafy vegetable." International Journal of Pharmaceutical Sciences and Research, 3(4), 1035.
-  - Tachibana, Y. et al. (2001). "Aqueous extracts of curry leaf (Murraya koenigii) and fenugreek (Trigonella foenum-graecum) as antioxidants." Food Science and Technology Research, 7(2), 151-155.
   - Samanta, A.K. et al. (2018). "A comprehensive review on curry leaf (Murraya koenigii) and its metzner-ayahuasca-therapeutic-potential." Journal of Applied Pharmaceutical Science, 8(10), 146-157.---
 ---
 

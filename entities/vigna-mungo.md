@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fuller, D.Q. (2007). "Contrasting patterns in crop domestication." In R. Cappers (Ed.), Fields of Change. Barkhuis.
-  - Tomooka, N. et al. (2002). "The Vigna radiata - Vigna mungo complex." In Adances in Legume Systematics. Kew.
-  - Kaur, G. et al. (2020). "Nutritional and health benefits of black gram." Journal of Food Science and Technology, 57(6), 1985-1996.
   - Gopalan, C. et al. (2017). Nutritive Value of Indian Foods. National Institute of Nutrition.
 ---
 

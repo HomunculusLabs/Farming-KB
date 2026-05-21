@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Meinesz, A. (1999). "Killer Algae: The True Tale of a Biological Invasion." University of Chicago Press.
-  - Jousson, O. et al. (2000). "Invasive alga reaches California." Nature 408: 157-158.
-  - Williams, S.L. & Grosholz, E.D. (2002). "Exotic marine algae introductions and their spread." Invasive Species in a Changing World, 209-232.
   - Gómez Garreta, A. et al. (2001). "Survey of Caulerpa taxifolia in the Mediterranean Sea." Botanica Marina 44: 373-379.
 ---
 
@@ -79,3 +76,5 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+Further research into caulerpa taxifolia continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind caulerpa taxifolia provides a foundation for both practical application and continued scientific inquiry.

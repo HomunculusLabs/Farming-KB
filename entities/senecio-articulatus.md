@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Smith, G.F. et al. (1999). "Succulents of South Africa." Umdaus Press.
-  - Jacobsen, H. (1986). "A Handbook of Succulent Plants." Blandford Press.
-  - Rowley, G.D. (1994). "Succulent Compositae." Strawberry Press.
   - PlantZAfrica — SANBI. "Senecio articulatus." https://pza.sanbi.org
 ---
 

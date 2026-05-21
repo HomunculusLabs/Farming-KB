@@ -4,13 +4,6 @@ tags: [turmeric, ginger, rhizome, tropical-crops, spice, cultivation, permacultu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ravindran, P.N. et al. (2007). Turmeric: The Genus Curcuma. CRC Press."
-  - "Peter, K.V. (2012). Handbook of Herbs and Spices, 2nd ed. Woodhead Publishing."
-  - "Parry, J.W. (1962). Spices: Their Morphology, Histology, and Chemistry. Chemical Publishing Co."
-  - "FAO (2020). Traditional Spices and Medicinal Plants. FAO Plant Production and Protection Paper."
-  - "Kandiannan, K. et al. (2003). Agronomic Management of Turmeric. Indian Journal of Arecanut, Spices & Medicinal Plants, 5(2), 45-56."
-  - "University of Hawaii CTAHR (2015). Ginger Root comparison-biochar-production-guide-vs-biochar-soil-amendment. Extension Bulletin."
-  - "Purseglove, J.W. et al. (1981). Spices, Vol. 1. Longman."
   - "Sasikumar, B. (2005). Genetic Resources of Curcuma: Diversity, Characterization and Utilization. Plant Genetic Resources, 3(2), 230-251."
 ---
 

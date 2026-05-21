@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dai, Y.C. et al. (2019). "Sanghuangporus (Hymenochaetaceae, Hymenochaetales), a genus new to science characterized by medicinal polypores." Mycoscience, 60(4), 263-275.
-  - Zhou, L.W. et al. (2016). "Global diversity of hymenochaetoid polyporoid fungi." Fungal Diversity, 80(1), 387-406.
-  - Wang, X.M. & Xing, J.H. (2015). "Antitumor polysaccharides from sanghuang mushrooms." Journal of Ethnopharmacology, 174, 443-451.
   - Zhu, M. et al. (2019). "psilocybe-genus-diversity-and-taxonomy of Sanghuangporus in East Asia." Mycologia, 112(3), 572-586.
 ---
 

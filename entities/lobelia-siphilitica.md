@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Bowden, W.M. (1959). \"Phylogenetic relationships of twenty-two species of Lobelia.\" Canadian Journal of Genetics and Cytology, 1(2), 138-153."
-  - "Pringle, J.S. (1967). \"Taxonomy of the genus Lobelia in psilocybin-north-america-pacific-northwest.\" Rhodora, 69(777), 245-266."
-  - "Moerman, D. (1998). \"halpern-sacramental-peyote-and-native-american-church Ethnobotany.\" Timber Press."
   - "USDA NRCS. \"Lobelia siphilitica L.\" PLANTS Database."
 ---
 

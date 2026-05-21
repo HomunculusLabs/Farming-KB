@@ -13,9 +13,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Cannabible" (2001). Jason King. Green Candy Press.
-  - "The Green Room" strain database. https://www.leafly.com/strains/master-kush
-  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Smart, R. et al. (2017). "Cannabis: A Complete Guide." CRC Press.
 ---
 

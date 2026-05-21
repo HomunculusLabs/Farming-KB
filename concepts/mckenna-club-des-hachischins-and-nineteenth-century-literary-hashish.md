@@ -11,10 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, T. (1992). "Food of the Gods." Bantam Books.
-  - Moreau de Tours, J.J. (1845). "Du Hachisch et de l'Aliénation Mentale."
   - Ludlow, F.H. (1857). "The Hasheesh Eater."
-  - Abel, E.L. (1980). "Marihuana: The First Twelve Thousand Years." Plenum Press.
 type: concept
 ---
 

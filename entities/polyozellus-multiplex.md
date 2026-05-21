@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Zang, M. & Petersen, R.H. (1989). \"Polyozellus, a Genus of the Thelephoraceae.\" Mycotaxon, 34, 717–725."
-  - "Lee, I.K. et al. (2008). \"Polyozellus multiplex as a Source of Thelephoric Acid.\" Journal of Natural Products, 71(5), 893–896."
-  - "Lee, I.K. et al. (2007). \"New Polyozellin Derivatives from Polyozellus multiplex.\" Journal of Natural Products, 70(7), 1192–1194."
-  - "Kuo, M. (2024). \"Polyozellus multiplex.\" MushroomExpert.com."
   - "Smith, A.H. & Morse, E.E. (1947). \"The Genus Polyozellus.\" Papers of the Michigan Academy of Science, 31, 57–68."
 ---
 

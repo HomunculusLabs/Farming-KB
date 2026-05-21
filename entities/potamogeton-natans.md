@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wiegleb, G. & Kaplan, Z. (1998). "A conspectus of Potamogetonaceae." Folia Geobotanica, 33(1), 1–19.
-  - Preston, C.D. (1995). "Aquatic plants in Britain and Ireland." Harley Books.
-  - Hollingsworth, P.M. et al. (2002). "Molecular systematics of Potamogeton." Botanical Journal of the Linnean Society, 140(2), 147–193.
   - Crow, G.E. & Hellquist, C.B. (2000). "permaculture-plants-aquatic-and-wetland-species Plants of Northeastern psilocybin-north-america-pacific-northwest." University of Wisconsin Press.
 ---
 

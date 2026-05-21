@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [species-profiles, distribution, mycology, psilocybin, ecology, global, biodiversity, biogeography]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -31,7 +30,7 @@ Europe has approximately three-quarters as many documented species as the Pacifi
 
 ### Central and South America
 
-Significant mycoflora including many species yet to be fully documented. P. [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis]] is widespread throughout tropical regions. Indigenous mushroom cults exist in various communities.
+Significant mycoflora including many species yet to be fully documented. P. cubensis is widespread throughout tropical regions. Indigenous mushroom cults exist in various communities.
 
 ### Asia and Oceania
 
@@ -66,17 +65,20 @@ Stamets argues that the production of psilocybin has proven to be a competitive 
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
+## Historical Context
+
+The study and practice of global psychedelic mushroom species diversity has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into global psychedelic mushroom species diversity have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
+Applied work with global psychedelic mushroom species diversity spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

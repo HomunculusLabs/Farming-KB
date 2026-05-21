@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ercisli, S. (2007). "Chemical Composition of Fruits of Some Rose Species." Food Chemistry 104(4): 1379-1384.
-  - Uggla, M. et al. (2003). "Changes in Carotenoids and Phenolics in Rose Hips." Journal of the Science of Food and Agriculture 83(13): 1355-1361.
-  - Chrubasik, S. et al. (2008). "Rose Hip (Rosa canina): A Systematic Review." Phytotherapy Research 22(6): 725-733.
-  - Wissemann, V. & C. Ritz (2005). "The Genus Rosa." In: Flowering Plants: Dicotyledons, Springer.
   - Daels-Rakotoarison, D.A. et al. (2002). "Nitric Oxide-Mediated Relaxation by Rose Hip Extract." Journal of Cardiovascular Pharmacology 39(6): 876-884.
 ---
 

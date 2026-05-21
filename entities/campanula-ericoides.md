@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov A, Kovanda M (1978). "Campanula." In: Tutin TG et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Shetekauri S, Gagnidze R (2004). "Campanula in the Caucasus." Botanical Journal, 89(3): 201–218.
-  - Davis PH (1978). "Flora of Turkey and the East Aegean Islands." Vol. 6. Edinburgh University Press.
-  - Kew Plants of the World Online (2026). "Campanula ericoides C.A. Mey." https://powo.science.kew.org/
   - Kolakovsky AA (1985). "Flora of the Colchis." Nauka, Moscow.
 ---
 

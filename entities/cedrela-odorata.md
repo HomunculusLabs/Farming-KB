@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pennington, T.D. & Sarukhán, J. (1968). "Arboles Tropicales de México." FAO/INIF.
-  - Styles, B.T. & Khosla, P.K. (1976). "Cedrela: a revision." Kew Bulletin, 31(3), 339-405.
-  - Marín, E.A. & Barajas, M.G. (1996). "Cedrela odorata: Useful Trees of Tropical America." CATIE Technical Series.
   - Newton, A.C. et al. (1993). "Genetic variation in Cedrela odorata." Forest guzman-allen-gartz-neurotropic-fungi-central-america-caribbean to northern mollison-designers-legume-shade-tree-pasture-systems, windbreak, and timber crop in diversified tropical plantings.
 ---
 

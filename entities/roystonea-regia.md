@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zona, S. (1990). "A monograph of Roystonea (Arecaceae: Arecoideae)." Brittonia, 42(2), 128-153.
   - Henderson, A., Galeano, G. & Bernal, R. (1995). "guzman-allen-gartz-neurotropic-fungi-caribbean-central-america and the Caribbean. It is one of the most iconic ornamental palms in tropical landscapes, recognized by its smooth, gray-white trunk, massive green crownshaft, and gracefully arching pinnate leaves.
 ---
 

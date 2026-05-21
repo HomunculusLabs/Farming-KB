@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benowitz, N.L. (2009). "Pharmacology of nicotine: addiction, therapeutics, and toxicology." Annual Review of Pharmacology and Toxicology, 49, 57-71.
-  - Dani, J.A. & Bertrand, D. (2007). "Nicotinic acetylcholine receptors and nicotinic cholinergic mechanisms of the central nervous system." Annual Review of Pharmacology and Toxicology, 47, 699-729.
-  - Henningfield, J.E. et al. (2009). "The nicotine dependence syndrome." In: R. Palmer (Ed.), Nicotine and the Tobacco Smoking Habit. Oxford University Press.
   - Wonnacott, S. (1990). "The paradox of nicotinic acetylcholine receptor upregulation by nicotine." Trends in Pharmacological Sciences, 11(6), 216-219.
 ---
 ## Nicotine

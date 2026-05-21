@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook 541.
-  - Earle, C.J. (2023). "The Gymnosperm Database." www.conifers.org.
   - Tomback, D.F. & Linhart, Y.B. (1990). "The Evolution of Bird-Dispersed Pines." BioScience 40(3): 168-174.
 ---
 

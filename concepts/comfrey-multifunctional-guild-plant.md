@@ -5,7 +5,6 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 ## Comfrey as Multifunctional Guild Plant

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch, L.E. & Cox, P.B. (2006). "Rudbeckia." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 21, Oxford University Press.
-  - Armitage, A.M. (2008). "Herbaceous Perennial Plants: A Treatise on Their Identification, Culture, and Garden Attributes." 3rd ed., Timber Press.
-  - Perdue, R.E. (1959). "A monograph of the genus Rudbeckia." Castanea, 24(3), 91–113.
-  - Ernst, W.H.O. (1998). "The origin of the cultivar 'Goldsturm'." HortScience, 33(1), 142–143.
   - Tallamy, D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 

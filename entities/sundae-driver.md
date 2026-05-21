@@ -20,10 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly. "Sundae Driver Strain Information." leafly.com.
-  - AllBud. "Sundae Driver blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
-  - Wikileaf. "Sundae Driver Strain Review." wikileaf.com.
-  - Cannabitoasis Genetics. Breeder information and strain data.
   - GrowDiaries. "Sundae Driver Grow Reports." growdiaries.com.
 ---
 

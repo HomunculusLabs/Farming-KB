@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Crum, H. & Anderson, L.E. (1981). "Mosses of Eastern North America." Columbia University Press.
-  - Frahm, J.-P. & Frey, W. (1992). "Moose flora." Gustav Fischer Verlag.
   - Glime, J.M. (2017). "Bryophyte Ecology." Volume 1. Physiological Ecology. Michigan Technological University.
 ---
 

@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kreisel, H. (1967). "Die Pilzflora der Großen DDR." Gustav Fischer Verlag.
-  - Calonge, F.D. (1998). "Gasteromycetes (Lycoperdales, Nidulariales, Phallales, Sclerodermatales, Tulostomatales)." Flora Mycologica Iberica.
-  - Kuo, M. (2024). "Lycoperdon pyriforme." MushroomExpert.com.
 created: 2026-04-28
 ---# Overview
 

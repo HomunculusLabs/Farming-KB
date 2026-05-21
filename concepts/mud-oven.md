@@ -24,13 +24,13 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 
 | Material | Quantity | Purpose |
 |----------|----------|---------|
-| [[clay-soil]] | 150-200 lbs (test for clay content) | Primary building material |
+| Clay soil | 150-200 lbs (test for clay content) | Primary building material |
 | Sharp sand | 200-300 lbs | Thermal mass, prevents cracking |
 | Straw | 1-2 bales | Fiber reinforcement (tensile strength) |
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |
 | Gravel/crushed rock | 2-3 cubic feet | Insulation base |
 | Empty glass bottles | 20-30 | Insulation layer under floor |
-| Sawdust or [[perlite]] | 2-3 cubic feet | Insulation around dome |
+| Sawdust or perlite | 2-3 cubic feet | Insulation around dome |
 | Newspaper | 1 stack | Mold for the oven dome |
 | Water | 5-10 gallons | Mixing |
 
@@ -48,15 +48,15 @@ Not all soil has enough clay. Test by:
 - 1 part clay soil
 - 2-3 parts sharp sand
 - Enough straw to hold together when squeezed (a handful per mixing session)
-- Mix by foot [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] tarp: sand + clay first, then fold in straw
+- Mix by foot on a tarp: sand + clay first, then fold in straw
 - Correct consistency: holds shape when squeezed in hand, doesn't crumble, doesn't stick to your hand excessively
 
 ## Construction Steps
 
 ### Step 1: Foundation and Base
 
-1. [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]] level site protected from rain (under a roof overhang or build a shelter later)
-2. [[query-how-to-build-a-raised-bed-garden]] platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
+1. Choose a level site protected from rain (under a roof overhang or build a shelter later)
+2. Build a raised platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
 3. Platform should be 48-52 inches in diameter (for a 22-24 inch interior oven)
 4. Height: 36-40 inches (comfortable working height)
 5. Top the platform with a level bed of sand or gravel
@@ -74,7 +74,7 @@ Not all soil has enough clay. Test by:
 1. Lay firebricks tightly on the sand bed (no mortar needed)
 2. The bricks must be perfectly level -- use a straight board and level
 3. Sweep fine sand into any gaps between bricks
-4. The hearth [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] cooking surface; no cracks or unevenness
+4. The hearth is the cooking surface; no cracks or unevenness
 
 ### Step 4: Build the Sand Mold (Form)
 
@@ -97,7 +97,7 @@ Not all soil has enough clay. Test by:
 ### Step 6: Cut the Door Opening
 
 1. After the dome has dried for 2-3 days
-2. Cut an arched doorway: 10-12 inches wide, 8-10 inches tall (at the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] arch)
+2. Cut an arched doorway: 10-12 inches wide, 8-10 inches tall (at the top of the arch)
 3. Door height: 63% of the dome interior height (this ratio ensures proper heat circulation)
 4. Dig out the sand mold through the door
 5. Remove all sand and newspaper
@@ -128,7 +128,7 @@ Not all soil has enough clay. Test by:
 
 - A mud oven does not strictly need a chimney (smoke exits through the door during firing)
 - A small chimney (4-6 inches diameter) at the top of the dome can reduce smoke
-- Build from a salvaged steel pipe embedded [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] cob at the top
+- Build from a salvaged steel pipe embedded in the cob at the top
 
 ## Curing the Oven
 
@@ -142,8 +142,13 @@ This is critical -- do not skip or rush.
 6. After a week of graduated fires, the oven is ready for full use
 7. Rushing this step causes cracks
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Repairing Cracks
 
 - Small hairline cracks are normal and seal themselves during the next firing
+- Larger cracks: mix a small batch of clay slip (clay + water) and push it into the crack
+- Major cracking: usually caused by insufficient curing or wrong clay-to-sand ratio
+- Structural cracks: may need to rebuild the affected section
+## See Also
+
+- [[comparison-solar-cooking-vs-cob-oven]]
+- [[comparison-cob-oven-vs-rocket-stove]]

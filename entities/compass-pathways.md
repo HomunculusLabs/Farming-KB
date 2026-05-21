@@ -14,7 +14,6 @@ tags:
 
 sources:
   - concepts/psilocybin-clinical-trials.md
-  - concepts/psilocybin-depression-anxiety-treatment.md
   - concepts/psychedelic-research-timeline.md
   - concepts/psilocybin-psychotherapy.md
 ---

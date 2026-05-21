@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
   - Abaimov, A.P. (2010). "berry-growing: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
 ---
 

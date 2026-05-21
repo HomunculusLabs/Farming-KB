@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowden RM (1982). "A revision of the genus Vallisneria (Hydrocharitaceae)." Contributions from the Royal Ontario Museum, Life Sciences Miscellaneous Publication.
-  - Korschgen CE, Green WL (1988). "American wildcelery (Vallisneria americana): Ecological considerations for restoration." U.S. Fish and Wildlife Service Technical Report 19.
-  - Moore KA, Wetzel RL (2000). "Seasonal variations in eelgrass (Zostera marina L.) responses to nutrient enrichment and reduced light availability in experimental ecosystems." Journal of Experimental Marine epiphyte-biology-and-ecology 244(1): 1-26.
-  - Larkum AWD, Orth RJ, Duarte CM (2006). "Seagrasses: Biology, Ecology and Conservation." Springer.
   - USDA NRCS (2024). "Vallisneria americana Michx." PLANTS Database.---
 ---
 

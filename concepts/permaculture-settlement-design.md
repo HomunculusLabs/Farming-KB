@@ -77,10 +77,5 @@ The Devonport (Auckland) model demonstrates total solid waste recycling returnin
 - [[permaculture-currency-and-economics]] -- LETS systems, bioregional economics, land trusts
 - [[permaculture-fire-management]] -- community fire planning
 - [[permaculture-pond-construction]] -- community water supply
-
-Permaculture Settlement Design represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[zone-two-and-zone-three-design-permaculture]]
-- [[zone-one-garden-design-permaculture]]
-- [[zone-and-sector-planning-permaculture-design]]
+Further research into permaculture settlement design continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind permaculture settlement design provides a foundation for both practical application and continued scientific inquiry.

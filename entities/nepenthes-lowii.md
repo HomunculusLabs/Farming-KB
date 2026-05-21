@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Clarke, C.M., Lee, C.C. (2004). "Pitcher Plants of Sarawak." Natural History Publications.
-  - Greenwood, M. et al. (2011). "The unique mutualism between Nepenthes lowii and mountain tree shrews." Biology Letters, 7(3), 436-438.
-  - Chin, L. et al. (2010). "Tree shrew lavatories: a novel nitrogen sequestration strategy in a tropical pitcher plant." Biology Letters, 6(5), 644-647.
   - Phillips, A., Lamb, A. (1996). "Pitcher-Plants of Borneo." Natural History Publications.
 ---
 
@@ -80,3 +76,5 @@ The species requires very pure water (reverse-osmosis, distilled, or rainwater).
 - [[nepenthes-mirabilis]]
 - [[nepenthes-villosa]]
 - [[nepenthes-rajah]]
+Further research into nepenthes lowii continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind nepenthes lowii provides a foundation for both practical application and continued scientific inquiry.

@@ -6,7 +6,6 @@ tags: [cannabis-strains, sativa, energizing, cultivation, terpene-profile, chemd
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/cannabis-genetics-and-chemotaxonomy-clarke.md"
   - "raw/papers/the-cannabis-grow-bible-cestnik.md"
 ---
 

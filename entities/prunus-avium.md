@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Iezzoni AF (2008). "Cherry." In: Breed. uncommon-specialty-fruit-crops-for-permaculture. Springer.
-  - Whiting MD et al. (2005). "Cherry." In: Horticultural Reviews 31. Wiley.
-  - Webster AD (1996). "Cherry rootstocks." In: Rootstock Guide. East Malling Research.
   - FAO (2023). "FAOSTAT: Cherries, sweet — psilocybe-cubensis-miniculture-production-data-and-flush-longevity."
 ---
 

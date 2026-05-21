@@ -6,13 +6,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
   - "raw/papers/symbiotic-fungi.md"
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
   - "raw/papers/teaming-with-fungi-lowenfels.md"
-  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
 related_concepts:
   - mycorrhizal-fungi
-  - the-rhizosphere-ecology-and-plant-microbe-interactions
   - the-soil-food-web
   - mycelium-networks-and-fungal-ecology
   - plant-sensory-biology-and-intelligence

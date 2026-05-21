@@ -109,7 +109,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
-- [[knf-yeast-preparation-detailed]]
+- [[knf-yeast-preparation]]
 - [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
 - [[wild-yeast-bread-baking]]
 - [[yeast-biology]]

@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong D.Y., Pan K.Y., Yu S.X. (2011). "Campanulaceae." In: Flora of China, Vol. 19. Science Press.
-  - Kitamura S., Murata G. (1979). "Coloured Illustrations of Herbaceous Plants of Japan." Hoikusha.
   - Lee T.B. (2003). "Lineamenta Florae Koreae." Academy Publishing, Seoul.
 ---
 

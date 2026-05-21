@@ -14,10 +14,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Ferguson AR (1999). "New Zealand kiwifruit: marijuana-horticulture-cervantes-cannabis-breeding-and-genetics." Acta Horticulturae.
-  - Latocha P et al. (2020). "Hardy kiwifruit (actinidia-arguta) — a review of genetic resources." Plants.
-  - Oregon State University Extension: Growing Kiwifruit in the cool-climate-home-garden-mollison.
-  - University of Minnesota Extension: Hardy Kiwi in Minnesota.
 type: query
 created: 2026-05-03---
 ---

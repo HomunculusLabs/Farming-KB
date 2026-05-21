@@ -6,7 +6,6 @@ tags: [dreams, waking-dreams, REM-sleep, serotonin, psilocybin,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 --- Sleeping Dreams and Waking Dreams
 

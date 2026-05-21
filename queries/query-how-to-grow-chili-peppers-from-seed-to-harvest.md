@@ -15,11 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bosland & Votava, *Peppers: Vegetable and Spice Capsicums*, 2nd ed., 2012
-  - DeWitt & Bosland, *The Complete Chile Pepper Book*, 2009
   - Ashworth, *Seed to Seed*, 2nd ed., 2002
-  - Jeavons, *How to Grow More Vegetables*, 9th ed., 2017
-  - NMSU Chile Pepper Institute, growing guides and cultivar database
 type: query
 ---
 

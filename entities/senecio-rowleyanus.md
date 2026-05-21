@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jacobsen, H. (1960). "A Handbook of Succulent Plants." Blandford Press.
-  - Nordenstam, B. (2003). "Senecioneae." In: Kadereit, J.W. & Jeffrey, C. (eds.), Families and Genera of Vascular Plants. Springer.
-  - Raal, A. & Raal, R. (2011). "Senecio rowleyanus in Cultivation." Cact. Succ. J. 83: 112-116.
   - Rowley, G.D. (1958). "String-of-beads: Senecio rowleyanus." Nat. Cact. Succ. J. 13: 32.
 ---
 

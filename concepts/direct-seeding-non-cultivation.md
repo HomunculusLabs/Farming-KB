@@ -4,7 +4,6 @@ tags: [agriculture, rice-farming, no-till, direct-seeding, grain-production, sus
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-fukuoka.md
 created: 2026-04-28
 type: concept

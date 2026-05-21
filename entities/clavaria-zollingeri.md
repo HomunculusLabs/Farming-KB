@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Corner, E.J.H. (1950). A Monograph of Clavaria and Allied Genera. Oxford University Press."
-  - "Petersen, R.H. (1988). \"The clavarioid fungi of New Zealand.\" DSIR Bulletin, 236."
-  - "Birkebak, J.M. et al. (2013). \"A systematic overview of Clavaria.\" Mycologia, 105(3), 563-579."
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
 ---
 

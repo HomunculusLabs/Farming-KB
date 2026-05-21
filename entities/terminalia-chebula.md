@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Anonymous (2003). "The Ayurvedic Pharmacopoeia of India." Government of India, Ministry of Health.
-  - Chattopadhyay, D. et al. (2014). "Terminalia chebula: update on its phytochemistry and therapeutic roles." Chinese Journal of Integrative Medicine, 20(7), 554-563.
-  - Saleem, A. et al. (2002). "Hepatoprotective effects of ethanolic extract of Terminalia chebula." Phytomedicine, 9(4), 321-325.
-  - Lee, H.S. et al. (2014). "Chebulagic acid and chebulinic acid from Terminalia chebula." Natural Product Sciences, 20(1), 45-50.
 created: 2026-04-28
 ---
 

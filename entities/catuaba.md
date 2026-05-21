@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Schultes, R.E. & Raffauf, R.F. (1990). \"The Healing Forest: Medicinal and Toxic Plants of the Northwest Amazonia.\" Dioscorides Press."
-  - "Elisabetsky, E. & Costa-Campos, L. (2006). \"Ethnopharmacology of Brazilian Amazonian Plants.\" In Eloff (Ed.), Medicinal Plant Research in Africa. Bentham Science."
-  - "Antunes, E. et al. (2008). \"Pharmacological Basis for the Use of Catuaba.\" Planta Medica, 74(13), OC3."
-  - "Steinert, J. et al. (2007). \"Catuama: A Functional Food Supplement.\" Journal of Ethnopharmacology, 109(1), 22–28."
-  - "Carlini, E.A. (2003). \"Plants and the Central Nervous System.\" Pharmacology & Biochemistry of Behavior, 75(3), 501–512."created: 2026-05-07
 
 created: 2026-05-07
 ---

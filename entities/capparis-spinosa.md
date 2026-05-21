@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Inocencio C, Rivera D, Alcaraz F, Obón C (2006). "A systematic revision of Capparis section Capparis (Capparaceae)." Annals of the Missouri Botanical Garden, 93(1), 122–149.
-  - Rivera D, Inocencio C, Obón C, Alcaraz F (2003). "Review of food and medicinal uses of Capparis L. subgenus Capparis." Economic Botany, 57(4), 515–534.
-  - Eryılmaz N (2021). "Phytochemical constituents and biological activities of Capparis spinosa." Journal of Pharmacy & Pharmacognosy Research, 9(1), 1–16.
   - Fici S (2001). "Intraspecific variation and evolutionary trends in Capparis spinosa L. (Capparaceae)." Plant Systematics and Evolution, 228(3–4), 167–174.
 ---
 

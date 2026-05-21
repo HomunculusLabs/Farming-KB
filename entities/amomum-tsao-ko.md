@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wu, D. & Larsen, K. (2000). "Zingiberaceae." In: Flora of China, Vol. 24. Science Press & Missouri Botanical Garden Press.
   - Xia, Q. et al. (2018). "Chemical composition and antibacterial activity of green-cannabis-grow-bible-pre-flowering-and-sexing-plants plant in the Zingiberaceae family, native to the mountainous regions of southern China and northern Vietnam.
 ---
 

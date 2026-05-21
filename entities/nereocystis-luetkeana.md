@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Abbott, I.A. & Hollenberg, G.J. (1976). "Marine Algae of California." Stanford University Press.
-  - Druehl, L.D. (1970). "The pattern of Nereocystis luetkeana." Journal of Phycology, 6, 87-93.
-  - Foreman, R.E. (1970). "Physiology, ecology, and development of the brown alga Nereocystis luetkeana." PhD thesis, University of California, Berkeley.
-  - Klinger, T. (2015). "Bull kelp and dighton-fungi-climate-change-feedback." Proceedings of the California Academy of Sciences, 42, 1-12.
   - Spring, A. et al. (2022). "Recovery of Nereocystis luetkeana." Ecology, 103, e3641.
 ---
 

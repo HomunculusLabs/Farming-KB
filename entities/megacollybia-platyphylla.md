@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Breitenbach, J. & Kränzlin, F. (1995). "Fungi of Switzerland," Vol. 4. Verlag Mykologia.
-  - Noordeloos, M.E. (1995). "Tricholomataceae." Fungi Europaei, Vol. 5. Edizioni Candusso.
-  - Halling, R.E. (2013). "Agaricales of the Southern Appalachians." Memoirs of the New York Botanical Garden.
   - Stamets, P. (2005). "Mycelium Running." Ten Speed Press.
 ---
 

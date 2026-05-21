@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmacology, safety, biochemistry, methods, psychopharmacology, potency, mushrooms]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+sources: []
 ---
 
 # Psilocybin Extraction Guide
@@ -31,10 +30,10 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 ## Mushroom Sources
 
 ### Common Cultivated Species
-- **[[psilocybe-cubensis]]** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
-- **[[psilocybe-cyanescens]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
-- **[[psilocybe-azurescens]]** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
-- **[[psilocybe-semilanceata]]** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
+- **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
+- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
+- **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 
 ### Potency Variation
 Potency varies enormously based on:
@@ -102,7 +101,7 @@ Water extraction is efficient because psilocybin is highly water-soluble. The pr
 
 ## Method 4: Psilocybin Crystallization (Advanced)
 
-Converting [[mushroom-extract]] into purified psilocybin crystals:
+Converting mushroom extract into purified psilocybin crystals:
 
 ### Overview
 1. Perform ethanol extraction as described above
@@ -148,3 +147,8 @@ Converting [[mushroom-extract]] into purified psilocybin crystals:
 - Start with low doses — potency is unpredictable without testing
 - A sitter is recommended, especially at higher doses
 - Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
+- Avoid if personal or family history of psychosis or schizophrenia
+## See Also
+
+- [[psilocybin-methyl-alcohol-extraction-technique]]
+- [[psilocybin-alcohol-extraction]]

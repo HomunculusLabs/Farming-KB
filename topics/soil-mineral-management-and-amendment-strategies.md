@@ -16,7 +16,6 @@ related_concepts:
   - rock-dust-soil-remineralization
   - basalt-rock-dust-agriculture
   - mollison-designers-soil-ph-and-mineral-amendments
-  - teaming-with-microbes-soil-minerals-cation-exchange
   - jadam-soil-mineral-replenishment
   - garden-soil-fertility-mineral-balance-solomon
   - holmgren-mineral-balance-soil-fertility

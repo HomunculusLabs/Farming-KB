@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Shen-Miller J (2002). "Long-living lotus: germination and soil irradiation of centuries-old fruits from a habitable lake." American Journal of Botany.
-  - Mukherjee PK et al. (2009). "Studies on anti-inflammatory, analgesic and antipyretic properties of Nelumbo nucifera rhizome extract." Journal of Ethnopharmacology.
-  - Sridhar KR, Bhat R (2007). "Aquatic macrophytes as sources of food and nutrition." Journal of Food Science and Technology.
   - Tung YT et al. (2008). "Anti-inflammatory activities of hamilton-vegetative-propagation structure.
 ---
 

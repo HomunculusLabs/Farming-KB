@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Franklin, J.F. & Dryness, C.T. (1973). Natural Vegetation of Oregon and Washington. USDA Forest Service General Technical Report PNW-8.
-  - Krajina, V.J., Klinka, K. & Worrall, J. (1982). Distribution and Ecological Characteristics of Trees and Shrubs of British Columbia. UBC Press.
-  - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
   - Hunt, R.S. & von Hagen, B. (2006). "Abies grandis." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
 ---
 

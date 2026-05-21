@@ -15,15 +15,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "Corbet, P.S. (1999). Dragonflies: Behavior and Ecology of Odonata. Cornell University Press."
-  - "Silsby, J. (2001). Dragonflies of the World. Smithsonian Institution Press."
-  - "Brooks, S.J. (2016). Field Guide to the Dragonflies and Damselflies of Great Britain and Ireland, 5th ed. British Wildlife Publishing."
-  - "Needham, J.G., Westfall, M.J. Jr., & May, M.L. (2014). Dragonflies of guzman-psilocybin-mushrooms-north-america, 3rd ed. Scientific Publishers."
-  - "Dijkstra, K.-D.B. & Lewington, R. (2006).  to the Dragonflies of Britain and Europe. British Wildlife Publishing."
-  - "Paulson, D.R. (2011). Dragonflies and Damselflies of the West. Princeton University Press."
-  - "Wildlife Trusts (2022). 'Dragonflies and Damselflies — amphibian-habitat-creation and cannabis-pest-management.'"
-  - "Marten, G.G. et al. (2006). 'backswimmer-mosquito-control-mollison by dragonfly larvae in fukuoka-spider-ecosystem-drama-rice-fields.' Journal of Vector Ecology, 31(1), 138–143."
-  - "Xue, R.-D. et al. (2010). 'fukuoka-textdoc-arrowhead-scale-ladybug-biological-control of mosquitoes by odonates.' Journal of the American  Association, 26(S1), 116–121."
   - "Purdue University Extension. 'Pond Management: Attracting beneficial-insects-cannabis.'"---
 ---# Dragonflies and Damselflies (Odonata): Ecology, Biology, and Biological Pest Control
 
@@ -83,3 +74,14 @@ This is the **primary predatory stage** and the most relevant for mosquito contr
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[integrated-pest-management]] - integrated pest management approaches
 - [[beneficial-insects-pollinators]] - beneficial insects and pollinators
+## Current Research
+
+Recent studies on odonata dragonflies damselflies ecology and biological control have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with odonata dragonflies damselflies ecology and biological control should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

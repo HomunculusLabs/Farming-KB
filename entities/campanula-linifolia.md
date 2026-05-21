@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1957). "Campanula L." In: Flora USSR, Vol. 24. Academy of Sciences USSR.
-  - de Candolle A.P. (1830). "Monographie des Campanulées." Veuve Desray, Paris.
-  - Tutin T.G. (1972). "Campanula L." In: Flora Europaea, Vol. 3. Cambridge University Press.
-  - Royal Horticultural Society (2023). "Campanula linifolia." RHS Plant Finder.
   - Jones A. (2021). "Campanulas: A Gardener's Guide." Timber Press, Portland.
 ---
 

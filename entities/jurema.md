@@ -16,10 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pires, A.P., et al. (2019). "Mimosa tenuiflora (Willd.) Poiret: A Review of Ethnobotanical, Phytochemical, and Pharmacological Aspects." Journal of Ethnopharmacology, 245, 112176.
-  - Meira, M.R., et al. (2012). "Dimethyltryptamine from Mimosa tenuiflora Bark." Phytotherapy Research, 26(2), 275-280.
-  - Rêgo, T.J., et al. (2009). "Jurema Preta (Mimosa tenuiflora) in Northeastern Brazil." Economic Botany, 63(3), 347-356.
-  - Barros, G.S.G., et al. (2018). "Antimicrobial and Antioxidant Activities of Mimosa tenuiflora Bark Extracts." Evidence-Based Complementary and Alternative Medicine, 2018, 5460218.
   - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Products Co.
 ---
 

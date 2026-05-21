@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). "Primula." B.T. Batsford, London.
-  - Hultén, E. & Fries, M. (1986). "Atlas of North European Vascular Plants." Koeltz.
-  - Akeroyd, J.R. & Briggs, D. (1983). "Genecological studies of Primula farinosa." New Phytologist, 94, 561-574.
   - Nordal, I. & Jonsell, B. (1999). "Flora Nordica Vol. 1." Bergius Foundation.
 ---
 

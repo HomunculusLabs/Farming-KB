@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 ---# Andrija Puharich and The Sacred Mushroom (1959)
 

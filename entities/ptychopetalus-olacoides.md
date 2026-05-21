@@ -20,13 +20,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - da Cruz M.P. et al. (2023). "Ptychopetalum olacoides: A comprehensive
     review of phytochemistry, pharmacology, and traditional uses."
     Journal of Ethnopharmacology 303: 116053.
-  - Siqueira I.R. et al. (2004). "Ptychopetalum olacoides, a traditional
     Amazonian 'nerve tonic', possesses antioxidant properties."
     Redox Report 9(4): 179-183.
-  - Espinola E.B. et al. (2005). "Pharmacological screening of plants
     recommended by ancient Mayan for treatment of age-related cognitive
     disorders." Journal of Ethnopharmacology 97(3): 533-538.
   -=https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:712797-1

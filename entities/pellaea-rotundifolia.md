@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jones, D.L. (1998). Encyclopaedia of Ferns. Timber Press.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora guzman-psilocybin-mushrooms-north-america North of Mexico. Oxford University Press.
   - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hueck, K. (1972). "Die Wälder Südamerikas." Fischer Verlag.
-  - IUCN (2023). "Araucaria angustifolia." The IUCN Red List of Threatened Species.
-  - Rambo, B. (1956). "A flora fanerogâmica dos Aparecidos do Rio Grande do Sul." Sellowia, 7, 1–314.
-  - Klein, R.M. (1960). "O aspecto dinâmico do pinheiro brasileiro." Sellowia, 12, 17–44.
   - Carvalho, P.E.R. (2003). "Espécies arbóreas brasileiras." Embrapa Informação Tecnológica.
 ---
 

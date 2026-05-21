@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polystichum." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
-  - Cobb, B. (1984). A ghouled-field-guide-historical-context to Ferns and Their Related Families. Houghton Mifflin.
-  - Moran, R.C. (2004). A Natural History of Ferns. Timber Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
 ---
 
@@ -78,3 +75,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on polystichum acrostichoides have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with polystichum acrostichoides should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

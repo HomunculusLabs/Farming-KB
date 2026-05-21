@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bedigian, D. (2010). "Sesamum indicum L." In: cultivated species and their wild relatives, Springer.
-  - Namiki, M. (2007). "Nutraceutical functions of sesame: a review." Critical Reviews in Food Science and Nutrition.
-  - Pathak, N. et al. (2014). "Sesame as a functional food and its effects on lipid profile." Journal of Food Science and Technology.
   - Ashri, A. (2007). "Sesame (Sesamum indicum L.)." In: Oil Crops, Springer.
 ---
 

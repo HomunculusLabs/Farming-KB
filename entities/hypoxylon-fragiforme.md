@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Julich, K. (1982). \"Higher taxa of Xylariaceae.\" Notes Royal Botanic Garden Edinburgh, 41(2), 349–364."
-  - "Pouzar, Z. (1972). \"New or less known Xylariaceae.\" Ceska Mykologie, 26, 228–237."
-  - "Laessøe, T. & Spooner, B. (1994). \"British Pyrenomycetes.\" Royal Botanic Gardens, Kew."
-  - "Denison, W.C. (1973). \"Notes on the genus Hypoxylon.\" Mycologia, 65(4), 929–941."
   - "Fungal Records Database of Britain and Ireland (FRDBI). https://www.fieldmycology.net/FRDBI/"
 ---
 

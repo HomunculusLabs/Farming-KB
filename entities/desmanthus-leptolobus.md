@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers." Healing Arts Press.
-  - Ott, J. (1998). "Pharmacotopia: DMT and the Visionary Roots of Human Culture." Natural Products Co.
-  - Smith, J.E. (1791). "Observations on the Genus Desmanthus." Transactions of the Linnean Society of London, 1, 177-186.
   - OConnella, J.F. & McClatchey, W.C. (2012). "Desmanthus (Fabaceae: Mimosoideae) in the United States." Sida, Botanical Miscellany, 44, 1-23.
 ---
 

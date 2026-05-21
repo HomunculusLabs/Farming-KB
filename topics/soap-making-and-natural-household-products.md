@@ -8,7 +8,6 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - soap-making-guide.md
   - permaculture-designers-manual-soap-making.md
-  - permaculture-designers-manual-soap-candle-making.md
   - knf-pest-control-and-soap-water.md
   - knf-soap-water-and-hot-pepper.md
 related_concepts:

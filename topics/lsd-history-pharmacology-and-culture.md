@@ -7,7 +7,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
   - "raw/papers/leary-t-the-psychedelic-experience.md"
-  - "raw/papers/turner-d-m-the-essential-psychedelics-guide.md"
   - "raw/papers/powell-s-g-the-psilocybin-solution.md"
 related_concepts:
   - lsd-discovery-and-history

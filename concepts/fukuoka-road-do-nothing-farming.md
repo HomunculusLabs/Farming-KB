@@ -5,7 +5,6 @@ updated: 2026-04-25
 type: concept
 tags: [farming, philosophy, mu, non-action, natural-farming, fukuoka]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka's Philosophy of Do-Nothing Farming

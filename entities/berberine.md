@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kumar, A. et al. (2015). \"Berberine: a potential phytochemical for anticancer therapy.\" Current Molecular Medicine, 15(8), 756-771."
-  - "Lan, J. et al. (2015). \"Meta-analysis of berberine in type 2 diabetes.\" Journal of Ethnopharmacology, 161, 69-81."
-  - "Imenshahidi, M. & Hosseinzadeh, H. (2016). \"Berberine effects on the CNS.\" Phytotherapy Research, 30(4), 521-529."
-  - "Cicero, A.F.G. & Baggioni, A. (2016). \"Berberine and chronic disease.\" Advances in Experimental Medicine and Biology, 928, 27-45."
   - "Kumar, S. et al. (2019). \"Berberine: pharmacology, toxicity, drug delivery.\" Phytomedicine, 62, 152969."
 ---
 

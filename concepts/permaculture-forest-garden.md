@@ -7,11 +7,9 @@ tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principl
 
 - What stage is this plant from?
 - Is it a pioneer plant, or a Stage 2 or 3 plant?
-- Is it deciduous (lose its leaves in the fall) or evergreen?
 - How high does it grow?
 - Do its roots invade the space of other plants?
 - How quickly does it grow and die?
-- Are the leaves dense and shade the ground, or do they allow light in?
 - Is it disease resistant?
 - Is it sensitive to pruning?
 - Will it work in my climate and soil?
@@ -19,11 +17,6 @@ tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principl
 - Is it common or rare?
 - Is it useful to me?
 - Will it grow too big for the space I have for it?
-- Will it take too much work for what I will get out of it?
-- Can I pick species that produce at different times of the year for more yield?
-- Will it produce something for a longer period of time?
-- Will it produce more than one product, like leaves, roots, seeds, or fruit?
-- Will it store itself, like nuts or roots that are harvested when I need them?
 
 Just like the inventory of elements on cards you made in the beginning, species should be recorded and indexed on 3 x 5 cards. All of the above answers should be noted, as well as the general growing instructions, such as type of soil or amount of sunlight the species likes. You should also write down what it is specifically used for, such as the type of food, the animal that eats it, the type of nutrient it puts into the soil, or what color dye it makes.
 

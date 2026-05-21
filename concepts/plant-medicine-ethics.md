@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, [[psilocybin-mushrooms]], peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
+The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
 
 ## Cultural Appropriation vs. Cultural Appreciation
 
@@ -20,10 +20,10 @@ The growing global interest in psychedelic and entheogenic plant medicines — a
 Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
 
 - Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
-- Peyote: [[native-american-church]] members, Huichol (Wixarika) people of Mexico
+- Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
-- Psilocybin mushrooms: [[mazatec-people]] of Oaxaca, Mexico; various Mesoamerican cultures
-- San Pedro ([[echinopsis-pachanoi]]): Andean indigenous traditions
+- Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
+- San Pedro (Echinopsis pachanoi): Andean indigenous traditions
 
 When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of cultural context, several harms occur:
 
@@ -47,7 +47,7 @@ Distinguish appropriation from appreciation:
 
 ### Peyote Crisis
 
-[[lophophora-williamsii]] (peyote) is experiencing severe population decline:
+Lophophora williamsii (peyote) is experiencing severe population decline:
 
 - Overharvesting driven by both Native American Church use and recreational/neo-shamanic demand
 - Slow growth rate: peyote takes 10-30 years to reach maturity in the wild
@@ -57,14 +57,14 @@ Distinguish appropriation from appreciation:
 
 ### Ayahuasca Supply Chain
 
-- Chacruna ([[psychotria-viridis]]) and ayahuasca vine ([[banisteriopsis-caapi]]) are increasingly harvested from wild populations
+- Chacruna (Psychotria viridis) and ayahuasca vine (Banisteriopsis caapi) are increasingly harvested from wild populations
 - Commercial cultivation exists but wild harvesting continues due to demand
 - Deforestation in the Amazon threatens the long-term viability of wild sources
 - Some retreat centers harvest unsustainably to meet tourist demand
 
 ### Iboga
 
-- [[tabernanthe-iboga]] is slow-growing and overharvested in Gabon
+- Tabernanthe iboga is slow-growing and overharvested in Gabon
 - Some estimates suggest wild populations could be depleted within decades at current rates
 - The Bwiti tradition depends on iboga access for coming-of-age ceremonies
 - Cultivation programs exist but are insufficient to meet global demand
@@ -143,8 +143,13 @@ The facilitator-participant relationship involves inherent power asymmetry:
 - This dynamic has been exploited in cases of sexual abuse, financial exploitation, and spiritual manipulation
 
 Ethical facilitation requires:
+
+- Clear boundaries and informed consent
+- Trauma-informed training
+- Accountability structures (oversight, peer review)
+- Transparency about facilitator's training, experience, and limitations
 ## See Also
 
-- [[entheogenic-ceremony-preparation]] — practical preparation including ethical considerations
-- plant medicine ethics — this page
-- [[psychedelic-research-timeline]] — historical context of indigenous knowledge and Western adoption
+- [[cannabis-as-medicine-clinical-reference]]
+- [[query-what-is-ergot-and-how-has-it-shaped-history-medicine-and-agriculture]]
+- [[magical-illness-peruvian-amazon-folk-medicine]]

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ragone, D. (2006). "Artocarpus altilis (breadfruit)." In: Elevitch, C.R. (ed.), Species Profiles for Pacific Island Agroforestry. earthcare-ethics-and-permanent-agriculture Resources.
-  - Zerega, N.J.C. et al. (2004). "Systematics and Species Limits of Breadfruit (Artocarpus altilis, Moraceae)." Systematic Botany, 29(3), 603-615.
-  - Purseglove, J.W. (1968). "Tropical Crops: Dicotyledons." Longman.
-  - Jones, A. et al. (2011). "Morphological Diversity in Breadfruit (Artocarpus altilis, Moraceae): New Perspectives on Domestication, Human Dispersal, and Cultivar Diversity." Economic Botany, 65(4), 343-355.
   - Morton, J.F. (1987). "Breadfruit." In: Fruits of Warm Climates. Julia F. Morton.
 ---
 

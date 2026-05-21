@@ -18,9 +18,7 @@ sources:
     author: "Harry Baker"
     publisher: "Royal Horticultural Society"
     year: 2015
-  - title: "Cornell University — Berry Production Guides"
     url: "https://fruit.cornell.edu/berry/"
-  - title: "Oregon State University Extension — Growing Berries"
     url: "https://catalog.extension.oregonstate.edu/em9161"
   - title: "The Holistic Orchard"
     author: "Michael Phillips"

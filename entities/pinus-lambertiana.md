@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Tomback, D.F. & Linhart, Y.B. (1990). "The Evolution of Bird-Dispersed Pines." BioScience 40(3): 168-174.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook 541.
   - Earle, C.J. (2023). "The Gymnosperm Database." www.conifers.org.
 ---
 
@@ -79,3 +76,5 @@ Artificial regeneration is possible but challenging due to the species' specific
 Blister rust resistance breeding programs have identified and propagated resistant genotypes. Field trials in California and Oregon have demonstrated that resistant stock can survive and grow in areas where susceptible trees have been eliminated.
 
 The species is classified as Least Concern by the IUCN, though individual populations face significant threats from blister rust, fire suppression, and climate change. Drought-related mortality has increased markedly since 2010 in the southern Sierra Nevada.
+Further research into pinus lambertiana continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pinus lambertiana provides a foundation for both practical application and continued scientific inquiry.

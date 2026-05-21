@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hermann, M. (1997). "Arracacha (Arracacia xanthorrhiza Bancroft)." In: Andean Roots and Tubers: Ahipa, Arracacha, Maca and Yacon. IPGRI, Rome.
-  - National Research Council (1989). Lost Crops of the Incas. National Academies Press, Washington.
-  - León, J. (1964). Plantas Alimenticias Andinas. IICA, Bogotá.
   - Sørensen, M. (1996). "Yam bean (Pachyrhizus DC.) — a future crop?" In: Advances in Agronomy, Vol. 56.
 ---
 

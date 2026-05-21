@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mosyakin, S.L. & Yena, A.V. (2019). "Campanula rapunculoides." In: Euro+Med PlantBase.
-  - USDA NRCS (2024). "Creeping Bellflower Profile." PLANTS Database.
   - Haber, E. (1999). "Invasive Plants of Canada: Campanula rapunculoides." Canadian Botanical Association.
 ---
 

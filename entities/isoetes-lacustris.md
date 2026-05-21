@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. (1990). "Isoetaceae." In: Flora Europaea, Vol. 1, 2nd ed.
-  - Taylor, W.C. & Hickey, R.J. (1992). "Isoetes." In: Flora guzman-psilocybin-mushrooms-north-america." Ph.D. thesis, University of Michigan.
   - https://www.iucnredlist.org/
 ---
 

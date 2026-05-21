@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
-  - Schubert, B.G. (1943). "A revision of the genus Desmodium for guzman-psilocybin-mushrooms-north-america." Brittonia 4(2): 91-123.
-  - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
-  - USDA NRCS (2024). "Plant Guide: Illinois tick-trefoil." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden Press.---
 ---
 

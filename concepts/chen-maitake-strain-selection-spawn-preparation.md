@@ -5,7 +5,6 @@ tags: [maitake, mushroom-cultivation, spawn, strain-selection, grifola-frondosa]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 type: concept
 ---
 

@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheogen, ethnomycology]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Taxonomy
@@ -22,12 +21,12 @@ As of 2026, over 180 species within Psilocybe are recognized as containing psilo
 
 ### Key Species Groups
 
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
-- **[[psilocybe-semilanceata]]** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
-- **[[psilocybe-cyanescens]]** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
-- **[[psilocybe-azurescens]]** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.
-- **[[psilocybe-mexicana]]** — The species used in traditional Mazatec ceremonies and the first [[psilocybin-mushroom]] identified by Western science. Native to highland Mexico.
-- **[[psilocybe-allenii]]** — Found in the Pacific Northwest, closely related to P. cyanescens but with distinct morphological features.
+- **Psilocybe cubensis** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
+- **Psilocybe semilanceata** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
+- **Psilocybe cyanescens** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
+- **Psilocybe azurescens** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.
+- **Psilocybe mexicana** — The species used in traditional Mazatec ceremonies and the first psilocybin mushroom identified by Western science. Native to highland Mexico.
+- **Psilocybe allenii** — Found in the Pacific Northwest, closely related to P. cyanescens but with distinct morphological features.
 - **Psilocybe weilii** — Discovered in Georgia, USA, found in red clay soils beneath Loblolly Pine.
 - **Psilocybe bohemica / serbica** — European species found in Central and Southeastern Europe, growing on woody debris.
 

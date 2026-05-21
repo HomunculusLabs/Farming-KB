@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Heinrich, M. & Teoh, H.L. (2004). \"Galanthamine from snowdrop — the development of a modern drug against Alzheimer's disease from local Caucasian knowledge.\" Journal of Ethnopharmacology, 92(2-3), 147-162."
-  - "Marco-Contelles, J. et al. (2006). \"Recent advances in the pharmacology of galantamine.\" Current Pharmaceutical Design, 12(19), 2387-2404."
-  - "López, S. et al. (2002). \"Galantamine in Alzheimer's disease.\" Drugs, 62(1), 83-92."
   - "Berkov, S. et al. (2020). \"Amaryllidaceae alkaloids: A review of pharmacological properties." Phytochemistry Reviews, 19, 1347-1381."
 ---
 

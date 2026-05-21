@@ -4,7 +4,6 @@ tags: [natural-farming, seed-pellets, desert-revegetation, fukuoka, direct-seedi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 created: 2026-04-28

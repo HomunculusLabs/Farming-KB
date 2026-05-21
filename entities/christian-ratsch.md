@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Rätsch C. "The Encyclopedia of Psychoactive Plants." Inner Traditions, 2005.
-  - Rätsch C. "Plants of Love." Inner Traditions, 1997.
-  - Rätsch C, Müller-Ebeling C. "Witchcraft Medicine." Inner Traditions, 2003.
-  - Rätsch C. "Sacred Mushrooms of the Goddess." Green Magic, 2006.
 created: 2026-04-28
 ---
 

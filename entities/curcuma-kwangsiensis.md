@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li X, et al. (2011). "Chemical composition and bioactivities of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap from Curcuma kwangsiensis." Journal of Agricultural and Food Chemistry, 59(14), 7787–7794.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Beijing: China Medical Science Press.
-  - Joshi RK, et al. (2015). "Chemical composition and antimicrobial activity of the rhizome essential oil of Curcuma kwangsiensis." Natural Product Communications, 10(6), 987–990.
   - Ji HF, et al. (2012). "Chemotaxonomy of Chinese Curcuma species." Biochemical Systematics and Ecology, 44, 262–267.
 ---
 

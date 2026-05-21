@@ -5,10 +5,7 @@ tags: [permaculture, sheet-mulching, no-till, soil-building, lasagna-gardening, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md"
-  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 related_concepts:
   - sheet-mulching
   - sheet-mulching-guide
@@ -22,7 +19,6 @@ related_concepts:
   - urban-rooftop-gardening-and-sheet-mulching
   - mollison-pdc-sheet-mulching-versus-composting
   - natfarm-sheet-mulching-garden-preparation
-  - natural-farming-guide-sheet-mulching-no-dig-garden-preparation
   - permaculture-sheet-mulch-detailed-guide
 ---# Sheet Mulching and No-Dig Gardening
 

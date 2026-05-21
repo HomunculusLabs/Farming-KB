@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Argel, P.J., Lascano, C.E. (1998). "Gliricidia sepium (Jacq.) Steud." Tropical Forages. CIAT/FAO.
-  - Simons, A.J., Stewart, J.L. (1994). "Gliricidia sepium — a multipurpose forage tree legume." In: Forage Tree Legumes in Tropical Agriculture. CAB International.
-  - Glover, N., Brewbaker, J.L. (1992). "Gliricidia sepium — management and improvement." Nitrogen Fixing Tree Research Reports, 10, 1–12.
-  - Orwa, C., Mutua, A., Kindt, R., Jamnadass, R., Simons, A. (2009). "Gliricidia sepium." Agroforestree Database. World Agroforestry Centre (ICRAF).
   - Hughes, C.E. (1987). "Biological considerations in designing a seed orchard for Gliricidia sepium." Nitrogen Fixing Tree Research Reports, 5, 45–48.
 ---
 

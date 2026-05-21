@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Krukoff, B.A. & Barneby, R.C. (1974). "A Synopsis of the American Species of Erythrina." Brittonia.
-  - Burkart, A. (1987). "Leguminosae, Faboideae, Phaseoleae-Erythrininae." Flora Ilustrada Argentina.
-  - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae." University of Wisconsin Press.
   - Rizzini, C.T. (1971). "Árvores e Madeiras Úteis do Brasil." Editora Edgard Blücher.
 ---
 

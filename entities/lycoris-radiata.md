@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D.E. Flagg and G.L. Kirchoff (2014). "The phylogeny of Amaryllidaceae." American Journal of Botany 101(4).
-  - J. Bastida and F. Viladomat (2002). "Amaryllidaceae alkaloids." In "The Alkaloids," Vol. 58. Academic Press.
-  - H. Takahashi et al. (2013). "Galantamine in Lycoris radiata." Natural Product Communications 8(12).
-  - R. Wang et al. (2015). "Ethnobotany of Lycoris species in China." Journal of Ethnopharmacology 162.
   - Royal Horticultural Society (2024). "Lycoris radiata." RHS Plant Finder.
 ---
 

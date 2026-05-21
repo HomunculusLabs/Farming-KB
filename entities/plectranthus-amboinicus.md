@@ -22,7 +22,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lukhoba, C.W. et al. (2006). "Plectranthus: A review of ethnobotanical uses." Journal of Ethnopharmacology 103(1): 1-24.
   - Omidbaigi, R. et al. (2009). "permaculture-designers-manual-essential-oil-plants composition of Plectranthus amboinicus." Journal of medicinal-herbs-for-livestock in warm climates.
 ---
 

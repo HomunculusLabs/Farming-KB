@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2: Hardwoods." USDA Forest Service.
-  - Stein, J. et al. (2003). "Native Trees of the Midwest." Purdue University Press.
   - Nixon, K.C. (2021). "Quercus nigra." Flora of hemenway-backyard-wildlife-habitat.
 ---
 

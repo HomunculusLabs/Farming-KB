@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman."
-  - "Vetter, J. (1998). \"Toxins of Amanita phalloides.\" Toxicon, 36(1), 13-24."
-  - "Karlson-Stiber, C. & Persson, H. (2003). \"Cytotoxic fungi—an overview.\" Toxicon, 42(4), 339-349."
-  - "Santi, L. et al. (2012). \"Amatoxins: chemistry, biogenesis, biodegradation, and detection.\" In Fungal Metabolites. Springer."
   - "Enjalbert, F. et al. (1993). \"Amatoxin and phallotoxin composition in Amanita phalloides.\" Mycologia, 85(4), 569-574."
 ---
 

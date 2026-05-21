@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Coprophilous Fungi
 
-Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and [[decomposition]] of herbivore waste.
+Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
 
 ## Overview
 
@@ -59,10 +59,10 @@ The Zygomycetes include 10 orders with coprophilous representatives. Key genera:
 
 **Other orders**:
 - Basidiobolus (Basidiobolales)
-- [[dimargaris]], Dispira (Dimargaritales) - obligate coprophiles
+- Dimargaris, Dispira (Dimargaritales) - obligate coprophiles
 - Coemansia, Kickxella (Kickxellales)
 - Helicocephalum, Rhopalomyces (Zoopagales) - predators of other fungi
-- [[piptocephalis]], [[syncephalis]] ([[piptocephalidaceae]]) - mycoparasites
+- Piptocephalis, Syncephalis (Piptocephalidaceae) - mycoparasites
 
 **Reproductive biology**: Most coprophilous Zygomycetes are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. Sexual reproduction (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
 
@@ -83,14 +83,14 @@ The most species-rich group of coprophilous fungi, spanning 15+ orders:
 
 *Xylariales*:
 - Xylaria, Poronia, Hypocopra, Podosordaria, Wawelia
-- [[poronia-punctata]] - the distinctive "nail fungus" with stalked stromata on horse dung
+- Poronia punctata - the distinctive "nail fungus" with stalked stromata on horse dung
 
 *Leotiales*:
 - Thelebolus, Ascozonus, Caccobius (Thelebolaceae)
 - Martininia, Coprotinia (Sclerotiniaceae)
 
 *Eurotiales*:
-- Talaromyces, Emericella, Eupenicillium, Neosartorya, [[aspergillus]] teleomorphs
+- Talaromyces, Emericella, Eupenicillium, Neosartorya, Aspergillus teleomorphs
 
 *Onygenales*:
 - Onygena, Auxarthron, Gymnoascus, Amauroascus
@@ -148,3 +148,8 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Biogeography
 
 Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:
+## See Also
+
+- [[coprophilous-fungi-succession]]
+- [[coprophilous-fungi-biodiversity-indicators]]
+- [[coprophilous-fungi-taxonomic-groups-distribution]]

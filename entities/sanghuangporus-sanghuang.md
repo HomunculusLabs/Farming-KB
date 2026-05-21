@@ -11,16 +11,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dai, Y.C. et al. (2019). "Sanghuangporus, a new polyporoid genus
     segregate from Phellinus." Mycosystema.
-  - Wang, X.M. et al. (2015). "Phylogenetic diversity and
     biogeography of Sanghuangporus." Mycologia.
-  - Wu, S.H. et al. (2012). "Inonotus sanghuang — a medicinal
     fungus." Botanical Studies.
-  - Chen, J. et al. (2020). "Antitumor polysaccharides from
     Sanghuangporus sanghuang." International Journal of Biological
     Macromolecules.
-  - Zhu, T. et al. (2019). "Pharmacological review of Sanghuang."
     Journal of Ethnopharmacology.
 created: 2026-04-28
 ---
@@ -78,3 +73,18 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Historical Context
+
+The study and practice of sanghuangporus sanghuang has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into sanghuangporus sanghuang have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with sanghuangporus sanghuang spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

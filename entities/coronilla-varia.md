@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Henson, J.F. (1962). "Crownvetch for permplant-willows-salix-erosion-control-fodder." USDA Leaflet 529.
-  - Shear, G.M. & Marten, G.C. (1969). "Coronilla varia, a Versatile Forage and Soil Conservation Legume." Advances in Agronomy 21: 151-182.
-  - Petersen, J.C. et al. (1996). "Crownvetch: Biology and Management." USDA Technical Bulletin 1848.
   - USDI, BLM (2008). "Coronilla varia (Crown Vetch): Invasive Species Assessment." Bureau of Land Management.
 ---
 

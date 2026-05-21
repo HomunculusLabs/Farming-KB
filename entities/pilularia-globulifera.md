@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
-  - Preston, C. D. & Croft, J. M. (1997). "Aquatic Plants in Britain and Ireland." BSBI.
   - Jermy, A. C. & Camus, J. M. (1991). "The Illustrated berry-growing, Vol. 2. Oxford University Press.
 ---
 

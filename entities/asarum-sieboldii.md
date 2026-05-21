@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lee, C.H. et al. (2009). "Chemical constituents of Asarum species." Journal of Ethnopharmacology, 126(2), 258-265.
-  - Zhu, Y.P. (1998). Chinese Materia Medica: Chemistry, Pharmacology and Applications. CRC Press.
-  - Sugawara, T. et al. (2012). "Phylogeny of Asarum (Aristolochiaceae) based on chloroplast DNA sequences." Botanical Journal of the Linnean Society, 168(2), 181-198.
-  - Wang, J. et al. (2016). "Aristolochic acid analogues in Asarum: occurrence and safety evaluation." Phytomedicine, 23(12), 1375-1382.
   - Kampo Guide. "Saishin (細辛)." Japanese Pharmacopoeia.
 ---
 

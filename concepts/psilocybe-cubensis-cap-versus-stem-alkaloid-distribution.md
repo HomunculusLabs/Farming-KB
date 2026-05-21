@@ -5,7 +5,6 @@ tags: [psilocybin, psilocin, psilocybe-cubensis, cap, stem, alkaloid-distributio
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 type: concept
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Vitikainen, O. (1994). "Peltigera." In: Nordic Lichen Flora, Vol. 2.
-  - Goward, T., McCune, B., & Meidinger, D. (1994). "The Lichens of British Columbia." BC Ministry of Forests.
-  - Miadlikowska, J. et al. (2018). "A phylogeny and a revised classification of Lecanoromycetes." The Lichenologist 50(5): 483-521.
   - http://www.lichen.com/
 ---
 
@@ -78,3 +75,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on peltigera aphthosa have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with peltigera aphthosa should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Sell, P.D. & Murrell, G. (2009). Echium. In Flora of Great Britain and Ireland. C&M Floristics."
-  - "Stace, C.A. (2019). New Flora of the British Isles. C&M Floristics."
-  - "Bishop, J. & Cooke, S. (2001). Collins Wild Flower Guide. HarperCollins."
   - "Fenster, C.B. et al. (2004). Pollination ecology of Echium vulgare. Functional Ecology, 18(6), 851-860."
 ---
 

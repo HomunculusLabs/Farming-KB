@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Casper, S.J. & Stimper, R. (2009). "Pinguicula (Lentibulariaceae) in psilocybin-north-america-pacific-northwest." Harvard Papers in Botany, 14(2), 297–336.
-  - Correa, A. (2020). "Carnivorous plants of the Iberian Peninsula." Botanical Journal of the Linnean Society, 192(3), 451–472.
   - D'Amato, P. (2013). "The Savage Garden, Revised." Ten Speed Press.
 ---
 

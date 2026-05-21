@@ -21,7 +21,7 @@ Terence McKenna's central argument that psychoactive plants and fungi have funda
 
 ## Core Argument
 
-In *Food of the Gods: The Search for the Original Tree of Knowledge* (1992), McKenna proposed that the relationship between humans and psychoactive plants is not peripheral but central to understanding [[partnership-and-dominator-cultures-in-human-history]]. He argued that what he called "[[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]" are the source of "the oldest of human religions" and have profoundly influenced the development of language, social organization, religion, and cultural values.
+In *Food of the Gods: The Search for the Original Tree of Knowledge* (1992), McKenna proposed that the relationship between humans and psychoactive plants is not peripheral but central to understanding human history. He argued that what he called "plant hallucinogens" are the source of "the oldest of human religions" and have profoundly influenced the development of language, social organization, religion, and cultural values.
 
 McKenna framed his thesis as a choice between what he called two fundamental models of human social organization:
 

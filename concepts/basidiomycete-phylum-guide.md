@@ -69,7 +69,7 @@ Basidiomycetes are the primary decomposers of woody material. White rot fungi (e
 Many basidiomycetes form ectomycorrhizal associations with forest trees. Amanita, Boletus, Russula, Lactarius, Cantharellus, and Tricholoma are all predominantly ectomycorrhizal. These relationships are essential for forest health and tree nutrition.
 
 ### Plant Pathogens
-Rust fungi ([[rust-fungi]]) and smut fungi ([[smut-fungi]]) are basidiomycetes that cause enormous agricultural losses. Armillaria (honey fungus) is a major root rot pathogen of trees. Heterobasidion annosum causes butt rot in conifers.
+Rust fungi ([[rust-fungi-guide]]) and smut fungi ([[smut-fungi-guide]]) are basidiomycetes that cause enormous agricultural losses. Armillaria (honey fungus) is a major root rot pathogen of trees. Heterobasidion annosum causes butt rot in conifers.
 
 ### Symbiosis and Parasitism
 Some basidiomycetes are parasites on other fungi. Tremella species parasitize Stereum and other wood-decay fungi. Some species form complex tripartite relationships with plants and insects.

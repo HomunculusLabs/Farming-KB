@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - McLewin, W. & Mathew, B. (2007). "Hellebores: A allen-australian-psilocybe-species-comprehensive-guide." Timber Press.
-  - European Medicines Agency (2010). "Assessment Report on Helleborus niger L., Radix." EMA/HMPC.
-  - Delprete, P. (2021). "Ranunculaceae: Taxonomy and Phytochemistry." Springer.
   - RHS (2025). "Helleborus niger — Plant Profile." Royal Horticultural Society.
 ---
 

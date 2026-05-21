@@ -5,11 +5,6 @@ tags: [pomegranate, persimmon, diospyros, fruit-trees, comparison, cultivation, 
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "California Rare Fruit Growers. Pomegranate Fact Sheet. crfg.org."
-  - "California Rare Fruit Growers. Persimmon Fact Sheet. crfg.org."
-  - "Morton, J. 1987. Pomegranate. In: Fruits of Warm Climates. Purdue University."
-  - "Morton, J. 1987. Persimmon. In: Fruits of Warm Climates. Purdue University."
-  - "USDA NRCS Plant Guide: Diospyros virginiana (American Persimmon). plants.usda.gov."
 type: comparison
 ---
 

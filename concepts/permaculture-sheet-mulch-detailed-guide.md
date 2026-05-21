@@ -1,5 +1,4 @@
 ---
-title: Permaculture Sheet Mulch Detailed Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -148,3 +147,4 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - [[no-till-gardening-method]]
 - [[mulching-guide]]
 - [[compost-building-guide]]
+- comfrey-plant-guide

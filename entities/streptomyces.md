@@ -19,7 +19,6 @@ sources:
 related_concepts:
   - actinomycetes-soil-biology
   - decomposition
-  - mycorrhizal-helper-bacteria-mycorrhizosphere-interactions
   - amphotericin-b-antifungal
 date: 2026-05-02
 updated: 2026-05-02

@@ -17,9 +17,7 @@ sources:
   - "Schultes, Hofmann, Ratsch - Plants of the Gods"
   - "R.G. Wasson - The Wondrous Mushroom"
 related_concepts:
-  - plants-of-the-gods-overview-hallucinogenic-plant-use
   - plants-of-the-gods-geography-hallucinogenic-plants
-  - plants-of-the-gods-chemical-structures-hallucinogens
   - plants-of-the-gods-phytochemistry-sacred-plants
   - plants-of-the-gods-hallucinogens-medicine
   - plants-of-the-gods-banisteriopsis-ayahuasca

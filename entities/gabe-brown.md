@@ -12,9 +12,6 @@ tags:
   - grazing
   - farming
 sources:
-  - Brown, G. (2018). "Dirt to Soil: One Family's Journey into biochar-in-regenerative-agriculture." Chelsea Green Publishing.
-  - Brown, G. (2021). "Regenerative Agriculture: A Practical Whole-Farm Approach." Chelsea Green Publishing.
-  - Brown, G., Bagnall, J., & Williams, A. (2019). "For the Love of Soil." Chelsea Green Publishing.
   - USDA NRCS. "Soil Health Resources." nrcs.usda.gov.
   - Kiss the Ground. "Gabe Brown." kisstheground.com.
 ---

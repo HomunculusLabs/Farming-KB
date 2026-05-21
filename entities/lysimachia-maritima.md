@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - Rodwell, J.S. (2000). "British Plant Communities, Vol. 5: Maritime Communities and Vegetation of Open Habitats." Cambridge University Press.
-  - Anderberg, A.A. et al. (2007). "Phylogeny of Lysimachia (Myrsinaceae)." Taxon, 56(1), 115-130.
   - Bocher, T.W. (1954). "Salt marsh and dune vegetation of the Danish Wadden Sea." Botanisk Tidsskrift, 51(1), 29-54.
 ---
 

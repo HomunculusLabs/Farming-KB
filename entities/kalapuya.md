@@ -21,8 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Phylos Bioscience. "Kalapuya Strain Profile." https://phylosbioscience.com
-  - Leafly. "Kalapuya Strain Information." https://www.leafly.com
   - AllBud. "Kalapuya psilocybin-north-america-pacific-northwest query-how-does-no-till-cannabis-cultivation-work.
 ---
 

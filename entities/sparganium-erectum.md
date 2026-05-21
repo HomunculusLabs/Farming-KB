@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cook, C.D.K. & Nicholls, M.S. (1986). "A monographic study of the genus Sparganium (Sparganiaceae). Part 1." Botanische Jahrbücher für Systematik, 106(4), 483-518.
-  - Preston, C.D. & Croft, J.M. (1997). Aquatic Plants in Britain and Ireland. Harley Books.
-  - Hroudová, Z. & Zákravský, P. (2003). "Genetic differentiation of Sparganium erectum populations." Aquatic Botany, 77(2), 99-108.
   - Ceska, A. & Ceska, O. (1986). "Sparganium (Typhaceae) in British Columbia." Canadian Journal of Botany, 64(7), 1537-1542.
 ---
 

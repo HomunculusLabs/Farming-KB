@@ -5,7 +5,6 @@ tags: [rice, plant-morphology, high-yield, natural-farming, tillering, panicle-s
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzman-Allen-Gartz-Worldwide-Distribution-of-Neurotropic-Fungi
 type: concept
 ---
 

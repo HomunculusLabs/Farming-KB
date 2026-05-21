@@ -11,13 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cohen, V.M. & Vogel, S. (1986). "Arylcyclohexylamines: Structure-
     Activity Relationships." J. Med. Chem. 29: 339–343.
-  - Wallach, J.V. & Cole, C. (2011). "3-Methoxyphencyclidine." Erowid.
-  - European Monitoring Centre for Drugs and Drug Addiction (2023).
     "EMCDDA-Europol Joint Report on NPS."
-  - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Sci.
-  - Palenicek, T. et al. (2016). "Neurotoxicity of Dissociative
     Anesthetics." Front. Pharmacol. 7: 226.
 ---
 

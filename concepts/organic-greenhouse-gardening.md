@@ -1,4 +1,5 @@
 ---
+
 title: Organic Greenhouse Gardening
 created: 2026-04-11
 updated: 2026-04-12
@@ -8,7 +9,7 @@ tags:
 - gardening
 - indoor
 - equipment
-- plant-query-how-does-soil-temperature-affect-plant-growth-and-how-can-i-manage-it
+- plant-growth
 - organic
 - lighting
 - design
@@ -91,7 +92,7 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] system
+- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[greenhouse-design]] -- Structure design and construction
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar

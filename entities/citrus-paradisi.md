@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gmitter, F.G. et al. (2020). "Citrus genomics." Annual Review of Plant Biology, 71, 565-595.
-  - Nicolosi, E. et al. (2000). "Citrus phylogeny and genetic origin of important species." Theoretical and Applied Genetics, 100(8), 1155-1166.
-  - Bailey, D.G. et al. (1998). "Grapefruit juice-drug interactions." British Journal of Clinical Pharmacology, 46(2), 101-110.
   - Manners, J.G. (2007). mollison-designers-avocado-mango-and-subtropical-tree-crops in the family Rutaceae. It is believed to be a hybrid of the sweet orange (*C. sinensis*) and the pomelo (*C. maxima*), originating in Barbados during the seventeenth century.
 ---
 

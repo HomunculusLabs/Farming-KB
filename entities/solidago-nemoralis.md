@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Semple, J.C. et al. (1999). \"The goldenrods of Ontario.\" University of Waterloo Biology Series."
-  - "Barkley, T.M. (2006). \"Solidago.\" Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 20."
-  - "Motten, A.F. (1986). \"Pollination ecology of the spring wildflower community of a temperate deciduous forest.\" Ecological Monographs, 56(1), 21-42."
   - "USDA NRCS. \"Solidago nemoralis Ait.\" PLANTS Database."
 ---
 

@@ -8,9 +8,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grey-Wilson, C. (2000). Clematis: The Genus. Timber Press.
-  - Matthews, V. (2004). "A review of Clematis montana and its cultivars." The Plantsman, 3(1), 32-45.
-  - Royal Horticultural Society. "Clematis montana." RHS Plant Finder.
   - Toomey, M. & Everett, L. (2001). An Illustrated Encyclopedia of Clematis. Timber Press.
 ---
 

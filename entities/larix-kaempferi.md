@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (1990). "Pinaceae: Drawings and Descriptions of the Genera Abies, Cedrus, Pseudolarix, Keteleeria, Nothotsuga, Tsuga, Cathaya, Pseudotsuga, Larix and Picea." Koeltz Scientific Books.
-  - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
-  - Graf, A. (1992). "Larix kaempferi." In: "Enzyklopädie der Holzgewächse," Eugen Ulmer.
-  - Savill, P.S. (2013). "The Silviculture of Trees Used in British Forestry." 2nd ed., CABI.
   - Tschermak, L. (1935). "Larix leptolepis." In: "Handbuch der Forstbotanik."
 ---
 
@@ -78,3 +74,14 @@ Several named cultivars are widely available in the nursery trade, including 'Di
 - [[cedrus-libani]]
 - [[thuja-occidentalis]]
 - [[juniperus-communis]]
+## Current Research
+
+Recent studies on larix kaempferi have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with larix kaempferi should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

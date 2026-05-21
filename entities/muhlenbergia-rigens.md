@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hickman, J.C. (1993). "The Jepson Manual: Higher Plants of California." University of California Press.
-  - Keator, G. (1998). "California Native Plants for the Garden." Cachuma Press.
-  - Baldwin, B.G. et al. (2012). "The Jepson Manual: Vascular Plants of California." 2nd ed. UC Press.
   - Smith, S.A. & DeBano, L.F. (2005). "Muhlenbergia rigens (Poaceae): A California Native Grass for Revegetation." Native Plants Journal 6(2): 45-51.
 ---
 

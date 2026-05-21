@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. (1976). "Phyteuma L." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Schulz, M. (2003). "Die Brombeeren (Rubus fruticosus-Agg.) und Rampions (Phyteuma) in der Naturheilkunde." Zeitschrift für Phytotherapie, 24(3): 123–130.
-  - Clapham, A.R., Tutin, T.G. & Warburg, E.F. (1987). "Flora of the British Isles." 3rd ed. Cambridge University Press.
   - Körner, C. (2003). "Alpine Plant Life." 2nd ed. Springer, Berlin.
 ---
 

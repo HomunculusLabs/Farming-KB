@@ -18,9 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pareek, A. et al. (2011). "Feverfew (Tanacetum parthenium L.): a systematic review." Phytomedicine 18(8–9): 680–697.
-  - Johnson, E.S. et al. (1985). "Efficacy of feverfew as prophylactic treatment of migraine." British Medical Journal 291: 569–573.
-  - Heinrich, M. et al. (2020). "Feverfew." In: Medicinal and Aromatic Plants of the World. Springer.
   - Pfaffenrath, V. et al. (2002). "Migraine prevention with feverfew." Cephalalgia 22(7): 522–530.
 ---
 

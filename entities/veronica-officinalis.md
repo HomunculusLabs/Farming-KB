@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tutin TG et al. (1964–1980). "Flora Europaea." Cambridge University Press.
-  - Barnes J, Anderson LA, Phillipson JD. (2007). "Herbal Medicines." Pharmaceutical Press, 3rd ed.
-  - Wichtl M. (2004). "Herbal Drugs and Phytopharmaceuticals." CRC Press, 3rd ed.
-  - Newall CA, Anderson LA, Phillipson JD. (1996). "Herbal Medicines: A Guide for Health-Care Professionals." Pharmaceutical Press.
   - Albach DC, Grayer RJ, Jensen SR, Øzgökçe F, Veitch NC. (2004). "Veronica: Phytochemistry and Chemotaxonomy." Biochemical Systematics and Ecology, 32(12), 1183-1201.
 ---
 

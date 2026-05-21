@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, L.M. (2004). "European Polyporales." Fungiflora.
-  - Zmitrovich, I.V. & Malysheva, V.F. (2013). "Polyporoid fungi of Russia." KMK Scientific Press.
-  - Cao, R. et al. (2020). "Antioxidant and anti-inflammatory activities of Trametes pubescens extracts." Journal of Ethnopharmacology, 254, 112680.
-  - Šašek, V. (2003). "The genus Trametes in the Czech Republic." Czech Mycology, 55(3-4), 217-240.
 created: 2026-05-07
 ---
 

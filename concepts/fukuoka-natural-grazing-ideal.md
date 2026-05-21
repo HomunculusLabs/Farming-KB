@@ -2,7 +2,6 @@
 title: Fukuoka Natural Grazing Ideal
 created: 2026-04-28
 tags: [fukuoka, comparison-natural-farming-vs-permaculture, pigs, in the prejudiced view that seesdoc- permaculture]
-- fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming
 ---
 
 ## Overview

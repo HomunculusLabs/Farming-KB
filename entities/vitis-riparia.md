@@ -11,10 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Moore, M.O. (1991). "Classification and Systematics of polypore-fungi-eastern-north-america American Vitis." University of Michigan Herbarium.
-  - Wan, Y. et al. (2008). "The Vitis Genome: Sequencing and Annotation." Nature Genetics.
-  - Einset, J. & Pratt, C. (1975). "Grapes." In Janick, J. & Moore, J.N. (eds.), Advances in Fruit Breeding. Purdue University Press.
-  - Galet, P. (1979). A Practical Ampelography: Grapevine Identification. Cornell University Press.
   - Reisch, B.I. et al. (2012). "Grape." In Badenes, M.L. & Byrne, D.H. (eds.), Fruit Breeding. Springer.
 ---
 

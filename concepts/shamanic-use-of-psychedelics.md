@@ -12,7 +12,6 @@ tags:
   - cross-cultural
   - ceremony
 sources:
-  - raw/particles/harner-j-hallucinogens-and-shamanism.md
   - raw/papers/mckenna_t-food_of_the_gods.md
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
@@ -61,10 +60,10 @@ See [[maria-sabina-mazatec-mushroom-ceremony]] for detailed coverage of the Maza
 
 ### San Pedro / Huachuma (Andean South America)
 
-- *Echinopsis pachanoi* ([[san-pedro-cactus-curandero-altar-mesa-ceremony-andean-tradition]]) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
+- *Echinopsis pachanoi* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
 - Healers (curanderos) use San Pedro in ceremonies called *mesadas* to diagnose illness, cleanse negative energies, and promote healing.
 
-### Fly-Agaric / [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] (Siberia and Northern Europe)
+### Fly-Agaric / Amanita Muscaria (Siberia and Northern Europe)
 
 See [[amanita-muscaria-ethnobotany]] for detailed coverage.
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Contandriopoulos, J. (1984). "Contribution à l'étude cytologique des Campanulacées de Grèce." Biologie Gallo-Hellenica, 11: 33–46.
-  - WCSP (2024). "World Checklist of Selected Plant Families: Campanula." Royal Botanic Gardens, Kew.
   - Strid, A. & Tan, K. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
 ---
 

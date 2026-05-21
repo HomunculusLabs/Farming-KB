@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12
@@ -141,9 +142,13 @@ Perhaps the most underappreciated cultivation method:
 ### Making Cardboard Spawn from Stem Butts
 1. Gather fresh mushrooms with stem bases and rhizomorphs intact
 2. Clip base just above where stem narrows; keep rootlike rhizomorphs attached
+3. Soak cardboard; place 1 stem butt per ~16 sq inches between panels
+4. Soak, place in box/tub, cover with wood chips
+5. Incubate in shade on the ground 4-5 months
+6. Use each colonized sheet as a mycelial footprint for outdoor beds
+
+### Making Dowel Spawn from Stem Butts
 ## See Also
 
-- [[mushroom-cultivation-basics]] — The 10-step cultivation process, sterile technique
-- [[straw-cultivation-methods]] — Substrate preparation for straw-based growing
-- [[log-cultivation-methods]] — Plug spawn inoculation of logs and stumps
-- [[fungal-ecology]] — Understanding where mushrooms grow naturally
+- [[short-needle-vs-long-needle-mushroom-inoculation-methods]]
+- [[mushroom-inoculation-techniques-stamets]]

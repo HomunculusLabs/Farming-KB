@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Nold, R. (2003). Columbines: Aquilegia, Paraquilegia, and Semiaquilegia. Timber Press.
-  - Tucker, A.O. (2008). "Aquilegia: A Taxonomic and Horticultural Review." Horticultural Reviews 35: 141–180.
   - Hobhouse, P. (2004). Plants in Garden History. Pavilion Books.
 ---
 

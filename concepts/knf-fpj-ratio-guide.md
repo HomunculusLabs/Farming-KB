@@ -11,7 +11,7 @@ sources:
 
 # KNF FPJ Ratio Guide
 
-[[fermented-plant-juice]] (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 

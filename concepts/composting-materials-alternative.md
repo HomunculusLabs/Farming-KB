@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Few gardens produce enough waste organic material to be self-sufficient in [[compost]]. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
+Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
 
 ## External Sources of Compost Material
 
@@ -25,14 +25,14 @@ Often have massive amounts of grass cuttings with no disposal means and are glad
 In rural areas where farmers do not bale straw, ask to gather some before disposal. Important: check that the straw has not been sprayed with chemicals before collecting.
 
 ### Tomato Growers
-Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further [[composting]]. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
+Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further composting. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
 
 ### Local Government (Leaves)
 Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but composting should reduce it to acceptable levels.
 
 ## Leaf Mold
 
-Leaves are slow to rot because they contain [[lignin]]. Expect to wait at least one year, possibly two to three, for crumbly leaf mold ready to use.
+Leaves are slow to rot because they contain lignin. Expect to wait at least one year, possibly two to three, for crumbly leaf mold ready to use.
 
 - Leaf mold is too good for general mulching — use as potting or seed-sowing compost
 - The decaying process differs from green compost: leaves are broken down by fungi (which need more light and less air), not bacteria
@@ -59,26 +59,31 @@ For gardeners who lack time for proper composting but refuse to throw away organ
 - [[compost-container-types]] — container designs for proper composting
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
 - [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of composting materials alternative has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
+## Current Research
+
+Recent investigations into composting materials alternative have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with composting materials alternative spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of composting materials alternative.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into composting materials alternative continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

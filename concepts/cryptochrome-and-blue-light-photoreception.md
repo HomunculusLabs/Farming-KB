@@ -5,7 +5,6 @@ tags: [botany, photobiology, photoreceptors, cryptochrome, blue-light, phototrop
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "What a Plant Knows by daniel-chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 

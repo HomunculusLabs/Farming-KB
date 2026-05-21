@@ -5,7 +5,6 @@ tags: [query, permaculture, zone-planning, site-design, permaculture-principles]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -78,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into query what are permaculture zones and how do i use them continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind query what are permaculture zones and how do i use them provides a foundation for both practical application and continued scientific inquiry.

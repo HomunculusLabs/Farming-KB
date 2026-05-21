@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schreiber, H.D. et al. (2012). "Amphicarpaea bracteata: A Unique Amphicarpic Legume." Castanea, 77(2): 120-129.
   - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of tree-daturas-brugmansia-south-american-ethnobotany." Timber Press.
 ---
 

@@ -4,13 +4,7 @@ tags: [olive, olea-europaea, mediterranean, fruit-trees, oil-production, permacu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - International Olive Council (IOC) — www.internationaloliveoil.org
-  - FAO — Olive Cultivation Technical Guidelines (faoschool.org)
   - UC Davis Olive Center — olivecenter.ucdavis.edu
-  - Vossen, P. (2007). "Olive Oil: History, Production, and Characteristics." UC ANR Publication 8163
-  - Barranco, D. et al. (2010). Olea europaea (Olive). In Wild Crop Relatives: Genomic and Breeding Resources
-  - Loussert, R. & Brousse, G. (1978). L'Olivier. G.P. Maisonneuve & Larose
-  - Lavee, S. (1990). "Olive." In Fruits of Tropical and Subtropical Origin. S. Nagy et al.
   - Mortensen, J. (2019). The Olive Oil Companion. Interlink Books
 ---
 

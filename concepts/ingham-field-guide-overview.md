@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 

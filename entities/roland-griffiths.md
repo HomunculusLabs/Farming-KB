@@ -18,7 +18,6 @@ sources:
   - concepts/psilocybin.md
   - concepts/psychedelic-research-timeline.md
   - concepts/mystical-experience.md
-  - concepts/psilocybin-depression-anxiety-treatment.md
   - concepts/psilocybin-and-death-anxiety.md
   - concepts/lsd-history.md
   - concepts/psilocybin-assisted-therapy.md

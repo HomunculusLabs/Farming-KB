@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America Editorial Committee (1993). "Phegopteris." Flora of North America North of Mexico, Vol. 2.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Jermy, A.C. & Camus, J.M. (1991). "The Illustrated Field Guide to Ferns and Allied Plants of the British Isles." Natural History Museum Publications.
   - USDA NRCS (2024). "Phegopteris connectilis." PLANTS Database.
 ---
 

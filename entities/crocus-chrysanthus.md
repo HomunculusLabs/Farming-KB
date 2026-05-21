@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1982). The Crocus: A Revision of the Genus Crocus. B.T. Batsford.
-  - Petersen, G., Seberg, O., et al. (2008). "A phylogeny of the genus Crocus (Iridaceae)." Molecular Phylogenetics and Evolution 49(3): 910–921.
   - RHS Plant Finder. Crocus chrysanthus. rhs.org.uk.
 ---
 

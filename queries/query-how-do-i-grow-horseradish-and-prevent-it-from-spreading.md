@@ -5,9 +5,6 @@ tags: [query, horseradish, invasive-plants, root-vegetables, perennial-vegetable
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - 'Mazurek, B. & Pączkowski, C. (2021). "Glucosinolates in armoracia-rusticana." Phytochemistry Reviews, 20, 415–434.'
-  - 'U.S. Department of Agriculture — Natural Resources Conservation Service: Armoracia rusticana'
-  - 'Kårlund, A., et al. (2014). "Antioxidant and anti-inflammatory activities of horseradish." J. Agric. Food Chem., 62(12), 2530–2540.'
 type: query
 ---
 

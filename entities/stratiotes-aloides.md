@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cook, C.D.K. (1974). "Water Plants of the World." Dr. W. Junk B.V., The Hague.
-  - Preston, C.D. & Croft, J.M. (1997). "Aquatic Plants in Britain and Ireland." Harley Books.
-  - Simpson, D.A. (1990). "Phylogeny and Classification of the Alismatanae." In: Families and Genera of Monocotyledons, Springer.
-  - USDA NRCS. "Stratiotes aloides L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=STAL2
   - Kadono, Y. (2004). "Aquatic Plants of Japan." Tokai University Press.
 ---
 

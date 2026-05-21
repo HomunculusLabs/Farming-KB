@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens huckleberries-and-wild-berries-of-north-america." Yale University Press.
-  - Halonen, P. et al. (1998). "The genus Usnea in eastern Fennoscandia." Annales Botanici Fennici, 35, 151–165.
-  - Esseen, P.A. et al. (1996). "Epiphytic lichen biomass in managed and old-growth boreal forests." Ecological Applications, 6(1), 89–95.
   - Nash III, T.H. (2008). "Lichen Biology, 2nd ed." Cambridge University Press.
 ---
 

@@ -9,17 +9,17 @@ sources: []
 
 # Off-Grid Electricity Basics
 
-Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters.
+Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, and the ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters.
 
 ## Daily Watt-Hour Calculation
 
-The first step in system design is calculating daily energy consumption. Every appliance has a power draw (watts) [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] usage duration (hours). The product is watt-hours (Wh).
+The first step in system design is calculating daily energy consumption. Every appliance has a power draw (watts) and a usage duration (hours). The product is watt-hours (Wh).
 
 ### Common Appliance Wattages
 
 - LED light bulb: 5-10 watts
 - Laptop computer: 50-100 watts
-- Refrigerator (ENERGY STAR): 150-400 watts (runs ~30% [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] time)
+- Refrigerator (ENERGY STAR): 150-400 watts (runs ~30% of the time)
 - Well pump (1/2 HP): 800-1200 watts (runs 1-2 hours/day)
 - Chest freezer: 100-200 watts (runs ~30% of the time)
 - Washing machine: 400-800 watts
@@ -63,14 +63,14 @@ This means approximately six 330W panels or eight 250W panels.
 
 - Monocrystalline: Highest efficiency (18-22%), best performance per square foot, most expensive
 - Polycrystalline: Moderate efficiency (15-18%), good value
-- Thin-film: Lowest efficiency, flexible, [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] curved surfaces or mobile applications
+- Thin-film: Lowest efficiency, flexible, best for curved surfaces or mobile applications
 
 ### Mounting
 
 - Roof mount: Saves ground space, uses existing structure. Harder to clean and adjust angle.
 - Ground mount: Easier to install, clean, and optimize angle. Takes up space.
 - Pole mount: Can be adjusted seasonally. Good for small arrays.
-- Adjustable tilt: Set angle to latitude for year-round, or adjust seasonally (latitude -15 in summer, +15 [[weed-control-in-winter-greenhouses]]).
+- Adjustable tilt: Set angle to latitude for year-round, or adjust seasonally (latitude -15 in summer, +15 in winter).
 
 ## Batteries
 
@@ -106,7 +106,7 @@ Higher system voltage means lower current for the same power, allowing smaller w
 Charge controllers regulate voltage and current from solar panels to batteries, preventing overcharging.
 
 - PWM (Pulse Width Modulation): Simple, inexpensive, less efficient. Suitable for small systems.
-- MPPT (Maximum Power Point Tracking): More efficient (10-30% more power harvest), higher cost, required for larger [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] mismatched panel/battery voltages.
+- MPPT (Maximum Power Point Tracking): More efficient (10-30% more power harvest), higher cost, required for larger systems and mismatched panel/battery voltages.
 
 Size the charge controller to handle the total solar array amperage plus 25% safety margin.
 
@@ -131,12 +131,8 @@ A typical off-grid system flows:
 
 Solar panels --> Charge controller --> Battery bank --> Inverter --> AC breaker panel --> Household circuits
 
-All DC wiring (panels to controller, controller to batteries) should use appropriate gauge wire with fusing. All AC wiring should follow standard electrical code (NEC [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] US).
+All DC wiring (panels to controller, controller to batteries) should use appropriate gauge wire with fusing. All AC wiring should follow standard electrical code (NEC in the US).
 
-## See Also
-- [[solar-water-heating]]
-- [[micro-hydro-power]]
-- [[homestead-internet-options]]
 ## Cost Estimates
 
 A basic 2-4 kW off-grid system:
@@ -147,3 +143,12 @@ A basic 2-4 kW off-grid system:
 - Inverter (3000W pure sine): $500-1500
 - Wiring, fuses, mounting: $500-1500
 - **Total: $5700-$11,600**
+
+Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
+
+## Conservation First
+## See Also
+
+- [[cervantes-electricity-consumption-cost-management]]
+- [[tompkins-electricity-plants-historical-discoveries]]
+- [[cervantes-grow-room-electricity-basics]]

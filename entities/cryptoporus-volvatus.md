@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gilbertson, R.Y. & Ryvarden, L. (1987). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora, Oslo.
-  - Burdsall, H.H. & Banik, M.T. (2001). "Forest Pathology and Wood Decay of Cryptoporus volvatus." Mycologia, 93(1), 1-7.
-  - Spirin, W. et al. (2018). "Polyporales of the USA." Institute of Microbiology, Russian Academy of Sciences.
   - Kuo, M. (2023). "Cryptoporus volvatus — the Veiled Polypore." MushroomExpert.com.
 ---
 

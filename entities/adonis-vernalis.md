@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mabberley, D.J. (2017). Mabberley's Plant-Book, 4th ed. Cambridge University Press.
-  - European Medicines Agency (2010). "Assessment Report on Adonis vernalis L., herba." EMA/HMPC/625423.
   - Tutin, T.G. (1993). "Ranunculaceae." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1. Cambridge University Press.
 ---
 

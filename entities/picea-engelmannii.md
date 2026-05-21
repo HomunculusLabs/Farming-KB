@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Alexander, R.R. (1987). "Silvics huckleberries-and-wild-berries-of-north-america: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Earle, C.J. (2023). "The Gymnosperm Database." www.conifers.org.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook 541.
   - Krajina, V.J. (1969). "Ecology of Forest Trees in British Columbia." University of British Columbia Ecology of Western North America Series.
 ---
 

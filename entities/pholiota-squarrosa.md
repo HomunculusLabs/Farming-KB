@@ -19,9 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Noordeloos, M.E. (2011). "Strophariaceae s.l." Funga Europaea 13: 1–636.
-  - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
-  - Kuo, M. (2024). "Pholiota squarrosa." MushroomExpert.com. https://www.mushroomexpert.com/pholiota_squarrosa.html
   - Stamets, P. (1996). " of the Northern
 Hemisphere.
 ---lthough P. squarrosa is technically edible after thorough cooking, it is

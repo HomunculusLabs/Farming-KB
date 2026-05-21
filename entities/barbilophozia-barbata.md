@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schuster, R.M. (1969). "The Hepaticae and Anthocerotae huckleberries-and-wild-berries-of-north-america, Vol. 2." Columbia University Press.
-  - Damsholt, K. (2002). "Illustrated Flora of Nordic Liverworts and Hornworts." Nordic Bryological Society.
-  - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Söderström, L. et al. (2016). "World checklist of hornworts and liverworts." PhytoKeys, 59, 1–89.
 ---
 

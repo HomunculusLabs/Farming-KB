@@ -5,7 +5,6 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, seeds, plant-breeding, food-security, homesteading]
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 

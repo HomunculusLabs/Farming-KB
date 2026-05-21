@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Reynolds, G.W. (1966). "The Aloes of South Africa." Balkema, Cape Town.
-  - Carter, S. et al. (2011). "Aloes: The Definitive Guide." Kew Publishing.
-  - Hargreaves, B.J. (1992). "Aloes of Lesotho." National University of Lesotho.
-  - IUCN Red List (2020). "Aloe polyphylla Assessment." IUCN.
   - Grace, O.M. et al. (2008). "Ethnobotanical survey of Aloe in southern Africa." Journal of Ethnopharmacology.
 ---
 

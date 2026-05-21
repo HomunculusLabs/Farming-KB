@@ -6,11 +6,8 @@ date: 2026-05-02
 updated: 2026-05-19
 sources:
   - "raw/concepts/straw-bale-construction.md"
-  - "raw/concepts/mollison-designers-straw-bale-building-techniques.md"
   - "raw/concepts/natural-building.md"
   - "raw/concepts/natural-building-materials-guide.md"
-  - "raw/concepts/earth-plaster-and-natural-finishes.md"
-  - "raw/concepts/mollison-designers-lime-and-cement-natural-building.md"
 related_concepts:
   - straw-bale-construction
   - mollison-designers-straw-bale-building-techniques

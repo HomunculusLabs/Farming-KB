@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Thomson, J.W. (1997). "American Arctic Lichens. 2. The Microlichens." University of Wisconsin Press.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens fukuoka-natural-farming-in-tropical-regions.
 ---
 

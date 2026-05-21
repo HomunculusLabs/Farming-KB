@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tutin, T.G. et al. (1964). "Flora Europaea Vol. 1." Cambridge University Press.
-  - Rothmaler, W. (2005). "Exkursionsflora von Deutschland, Band 4." Spektrum Akademischer Verlag.
   - Jalas, J. & Suominen, J. (1989). "Atlas Florae Europaeae, Vol. 8." Committee for Mapping the Flora of Europe.
 ---
 

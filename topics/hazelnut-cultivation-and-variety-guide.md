@@ -4,7 +4,6 @@ tags: [hazelnut, filbert, corylus, nut-crops, orchard, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Thomas, B. (2009). *Growing Urban Orchards*. New Society Publishers.
   - Reich, L. (2001). *Landscaping with Fruit*. Storey Publishing.
 ---# Hazelnut Cultivation and Variety Guide
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. Charles C. Thomas, Springfield.
-  - Prance, G.T. (1972). "Virola and the Use of Hallucinogenic Snuffs by Amazonian Indians." Economic Botany, 26(3), 249-258.
-  - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Paresi Indians of Brazil." Economic Botany, 23(4), 355-357.
-  - Farnsworth, N.R. (1968). "Hallucinogenic Plants." Science, 162(3860), 1400-1405.
   - Holmstedt, B. & Lindgren, J.E. (1967). "fungal-biodiversity-tropical-forests.
 ---
 

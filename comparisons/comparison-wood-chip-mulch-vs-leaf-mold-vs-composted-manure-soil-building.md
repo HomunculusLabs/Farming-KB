@@ -14,11 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Teaming with Microbes, Jeff Lowenfels & Wayne Lewis (2010)"
   - "The Woodchip Handbook, Ben Raskin (2021)"
   - "Building Soils Naturally, Phil Nauta (2012)"
   - "Start with the Soil, Grace Gershuny (1993)"
-  - "Compost, waste reduction, and soil health — USDA NRCS technical notes"
   - "Mycorrhizal Planet, Michael Phillips (2017)"
 created: 2026-04-28
 type: comparison
@@ -79,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into comparison wood chip mulch vs leaf mold vs composted manure soil building continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison wood chip mulch vs leaf mold vs composted manure soil building provides a foundation for both practical application and continued scientific inquiry.

@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Vinegar
 
-Vinegar is a sour liquid produced by the oxidation of [[ethanol]] (alcohol) into acetic acid by acetic acid bacteria ([[acetobacter]] species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
+Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
 
 The vinegar-making process involves two distinct stages of fermentation:
 
@@ -20,7 +20,7 @@ For home vinegar making, you can start from an alcoholic beverage (wine, beer, c
 
 ## Mother of Vinegar
 
-The "mother" is a gelatinous, [[cellulose]]-based biofilm that forms on the surface of fermenting vinegar. It consists of Acetobacter bacteria and their cellulose matrix. The mother is not required for vinegar production (acetobacter are naturally present in the environment) but significantly speeds up the process and protects the vinegar from contamination.
+The "mother" is a gelatinous, cellulose-based biofilm that forms on the surface of fermenting vinegar. It consists of Acetobacter bacteria and their cellulose matrix. The mother is not required for vinegar production (acetobacter are naturally present in the environment) but significantly speeds up the process and protects the vinegar from contamination.
 
 ### Obtaining a Mother
 
@@ -34,7 +34,7 @@ The "mother" is a gelatinous, [[cellulose]]-based biofilm that forms on the surf
 - Store in a non-metallic container (glass, ceramic, or food-grade plastic)
 - Keep submerged in vinegar or alcoholic liquid — never let it dry out
 - Room temperature storage is fine; refrigeration slows activity
-- The mother grows and multiplies — share extras or [[compost]] them
+- The mother grows and multiplies — share extras or compost them
 - A healthy mother is cloudy, slightly gelatinous, and has a mild vinegar smell
 - Dark spots or mold indicate contamination — discard
 
@@ -143,8 +143,12 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Raspberry vinegar: 1/2 cup fresh raspberries per cup of vinegar
 - Garlic and herb vinegar: garlic cloves, rosemary, thyme, bay leaf
 - Hot pepper vinegar: whole chili peppers (jalapeno, habanero, Thai bird's eye)
+- Lemon or citrus vinegar: lemon peel, zest, or juice
+- Rosemary vinegar: 2-3 sprigs fresh rosemary
+- Mint vinegar: fresh mint leaves
+- Vanilla vinegar: 1 split vanilla bean
 ## See Also
 
-- [[kombucha-brewing]] — related acetic acid fermentation producing a different beverage
-- [[pickle-making]] — vinegar as the primary acid in quick pickles
-- [[hot-sauce-making]] — vinegar as a key ingredient in hot sauce
+- [[jam-and-jelly-making]]
+- [[cannabis-hashish-making-methods]]
+- [[wine-making-from-grapes]]

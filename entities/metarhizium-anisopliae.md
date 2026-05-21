@@ -12,10 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zimmermann, G. (2007). "A review of fifty years of fukuoka-textdoc-biological-control-fallacy-pheromone-critique with Metarhizium anisopliae." Biocontrol Science and Technology, 17(7), 671–686.
-  - Bischoff, J.F., et al. (2009). "A multilocus phylogeny of the Metarhizium anisopliae lineage." Mycologia, 101(4), 512–530.
-  - Lovett, B. & St. Leger, R.J. (2015). "Genetically engineering better fungal biocontrol agents." Nature Biotechnology, 33, 929–932.
-  - Hu, G. & St. Leger, R.J. (2002). "Field trials using Metarhizium anisopliae." Applied and Environmental Microbiology, 68(7), 3412–3418.
   - Wang, C. & Feng, M.G. (2014). "Advances in genomic studies of Metarhizium." Applied Microbiology and Biotechnology, 98, 8435–8444.
 ---
 

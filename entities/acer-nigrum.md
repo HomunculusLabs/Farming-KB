@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - de Jong, P.C. (1976). "Flowering and cannabis-sex-expression-hermaphrodite-breeding-clarke in Acer L.: a biosystematic study." Mededelingen Landbouwhogeschool Wageningen, 76(2).
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics . USDA Forest Service Agriculture Handbook 654.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States. New York Botanical Garden.
   - Preston, R.J. (1976). mollison-course-coppice-forest-management, black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
 ---# Cultivation
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Davis, A.P. (1999). "The Genus Galanthus: A Botanical Magazine Monograph." Royal Botanic Gardens, Kew.
-  - Heinrich, M. & Teoh, H.L. (2004). "Galanthamine from snowdrop — the development of a modern drug against Alzheimer's disease from local Caucasian knowledge." Journal of Ethnopharmacology 92(2-3): 147-162.
-  - Sekeroglu, N. et al. (2013). "Galanthus species: a comprehensive review of traditional use, phytochemistry, and pharmacological properties." Pharmaceutical Biology 51(12): 1522-1537.
   - USDA NRCS (2024). "PLANTS Database: Galanthus nivalis." plants.usda.gov.
 ---
 

@@ -14,13 +14,11 @@ updated: 2026-04-28
 sources:
   - concepts/cheese-making-basics.md
   - concepts/dairy-and-cheesemaking.md
-  - concepts/faires-dairy-processing-cheese-and-butter.md
   - concepts/faires-yogurt-and-sourdough-making.md
   - concepts/goat-cheese-making.md
   - concepts/homestead-dairy-equipment.md
   - concepts/homestead-dairy-guide.md
   - concepts/kefir-making.md
-  - concepts/mollison-designers-goat-dairy-and-cheese-production.md
   - concepts/small-scale-dairy-guide.md
 related_concepts:
   - cheese-making-basics
@@ -31,7 +29,6 @@ related_concepts:
   - homestead-dairy-equipment
   - homestead-dairy-guide
   - kefir-making
-  - mollison-designers-goat-dairy-and-cheese-production
   - small-scale-dairy-guide
 --- Home Cheesemaking and Dairy Fermentation
 Home cheesemaking and dairy fermentation are household-scale practices that

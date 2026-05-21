@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gleason HA & Cronquist A. 1991. Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - GBIF. 2026. Scirpus cyperinus (L.) Kunth. https://www.gbif.org/species/2718791
-  - Yatskievych G. 1999. Steyermark's Flora of Missouri. Missouri Department of Conservation.
   - USDA NRCS. 2026. The PLANTS Database, Scirpus cyperinus. https://plants.usda.gov/home/plantProfile?symbol=SCCY2
 ---
 

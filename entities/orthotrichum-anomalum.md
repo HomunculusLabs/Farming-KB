@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland, 2nd ed. Cambridge University Press.
-  - Lewinsky, J. (1993). A Revision of the Orthotrichaceae (Bryopsida). Opera Botanica 127.
-  - Glime, J.M. (2017). "Orthotrichum anomalum." Bryophyte Ecology, Vol. 2. Michigan Technological University.
-  - Vitt, D.H. (1971). "A taxonomic revision of the genus Orthotrichum in psilocybin-north-america-pacific-northwest." University of Michigan Herbarium.
   - Bates, J.W. & Proctor, M.C.F. (1998). "Epiphytic bryophytes on trees." In: Bryology for the Twenty-First Century (ed. J.W. Bates).
 ---
 

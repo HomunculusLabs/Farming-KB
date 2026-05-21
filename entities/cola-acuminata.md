@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Burkill, H.M. (1985). "The Useful Plants of West Tropical Africa." Royal Botanic Gardens, Kew.
-  - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa." Cambridge University Press.
   - Atawodi, S.E. et al. (2005). "Extracts of fungal-biodiversity-tropical-forests of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep coffea-arabica: 1.0–1.5%).
 ---
 

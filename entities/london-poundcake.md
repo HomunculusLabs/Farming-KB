@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "London Poundcake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
-  - AllBud (2021). "London Poundcake Strain Review." AllBud.com.
-  - Weedmaps (2022). "London Poundcake: Strain Info, Lineage, and More." Weedmaps.
   - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Exotic london-pound-cake or LPC) is an indica-dominant hybrid cannabis strain bred by Cookies Fam Genetics. It is renowned for its intensely sweet, dessert-like aroma and powerful sedating effects.
 ---
 

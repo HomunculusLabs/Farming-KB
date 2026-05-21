@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Nechwatal, J. et al. "The tinder fungus: Biology, ecology, and ethnobotany." Mycological Progress, 2021.
-  - Peintner, U. et al. "The 'Iceman's' fungi." Mycological Research, 1998.
-  - Stjepanović, P. et al. "A traditional gourmet-medicinal-mushroom-casing-layer-techniques with modern pharmacological potential." Journal of Ethnopharmacology, 2023.
 created: 2026-04-28
 ---# Fomes fomentarius
 

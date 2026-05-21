@@ -1,4 +1,5 @@
 ---
+
 title: Fukuoka No-Prune Fruit Tree Method
 created: 2026-04-12
 updated: 2026-04-12
@@ -139,11 +140,15 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 - Pre-WWII: not a major problem (controlled by lime-sulfur, which also preserved predators)
 - Post-WWII: organophosphate pesticides destroyed predators, creating uncontrollable outbreaks
 - "If man had left the mite alone, it would never have become a major pest"
+- Solution: restore biodiversity; mites are "even more sensitive to microclimatic changes in the tree than are scales"
+
+**Cottony-Cushion Scale**:
+- Was one of three major citrus pests before vedalia ladybug release (~40 years prior)
+- Disappeared naturally with biological control
+- Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
+- In Fukuoka's unsprayed orchard: "almost no damage"
 ## See Also
 
-- [[fukuoka-soil-building-method]] — Soil restoration for orchards
-- [[natural-farming-fukuoka]] — Full method overview
-- [[natural-farming-vs-organic-vs-conventional]] — Comparison with other approaches
-- [[one-straw-revolution-guide]] — Book context
-- [[natural-way-of-farming-guide]] — Detailed technical reference
-- [[masanobu-fukuoka]] — Biographical entity page
+- [[shock-method-fruit-tree]]
+- [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
+- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]

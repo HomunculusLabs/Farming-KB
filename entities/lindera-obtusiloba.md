@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lee YS, Lee DH, Kim CH et al. (2009). "Anti-inflammatory and antioxidant activities of Lindera obtusiloba." Journal of Ethnopharmacology 124(1): 100-107.
-  - Wu ZY, Raven PH, Hong DY (2008). "Flora of China, Vol. 7." Science Press.
-  - Oh WK, Lee MY, Lee JY et al. (2009). "Lignans from Lindera obtusiloba." Archives of Pharmacal Research 32(4): 533-538.
   - Kim YS, Kim JS, Choi SU et al. (2004). "Cytotoxic lignans from the bark of Lindera obtusiloba." Planta Medica 70(1): 71-76.
 ---
 

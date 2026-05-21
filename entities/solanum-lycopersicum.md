@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bai, Y. & Lindhout, P. (2007). "Domestication and Breeding of Tomatoes: What Have We Gained and What Can We Gain in the Future?" Annals of Botany, 100(5), 1085-1094.
-  - Bombarely, A. et al. (2011). "Insights into the Evolution of the Solanaceae from the Domesticated Genome of Tomato." Nature Genetics, 43, 676-682.
-  - USFDA (2019). "Tomatoes — Raw." FoodData Central, fdc.nal.usda.gov.
-  - Peralta, I.E. & Spooner, D.M. (2007). "History, Origin and Early Cultivation of Tomato." in , it was domesticated in Mesoamerica
 by pre-Columbian peoples and subsequently spread globally following Spanish colonization.
 ---omato is the second-most-consumed [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
 

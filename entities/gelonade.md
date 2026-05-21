@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2021). "Gelonade blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
-  - AllBud (2022). "Gelonade Weed Strain Review." AllBud.com.
-  - Cookies Fam Genetics. "Strain Library: Gelonade." cookiesfam.com.
-  - MJApe (2022). "Gelonade Strain Review and Grow Info." MjApe.com.
 created: 2026-04-28
 ---
 

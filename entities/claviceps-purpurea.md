@@ -8,7 +8,6 @@ tags: [mycology, species]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "- "raw/papers/j-gartz-narrenschwamme.md" --- --- title: Claviceps purpurea type: species tags: [ergot, plants-of-the-gods-claviceps-ergot-alkaloids, lysergic-acid, parasitic-fungi]"
   - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 

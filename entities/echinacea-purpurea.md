@@ -11,8 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA NRCS Plant Profile (Echinacea purpurea)
-  - Kligler, B. (2003). "Echinacea." American Family Physician.
-  - Barnes, J. et al. (2005). "Echinacea Species." Cochrane Database.
   - European Medicines Agency HMPC Monograph on Echinacea purpurea
 ---
 

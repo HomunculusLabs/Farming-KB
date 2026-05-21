@@ -5,7 +5,6 @@ tags: [sprouting, seedlings, early-season, nutrition, seed-germination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---
 

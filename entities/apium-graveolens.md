@@ -11,9 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Kooti W, Daraei N (2017). "A review of the antioxidant activity of celery (Apium graveolens L.)." Journal of Evidence-Based Complementary & Alternative Medicine, 22(4), 1029–1034.
-  - Sowbhagya HB (2014). "Chemistry, technology, and nutraceutical functions of celery (Apium graveolens L.): an overview." Critical Reviews in Food Science and Nutrition, 54(3), 389–398.
-  - Moghaddam PS, et al. (2013). "Celery (Apium graveolens) essential oil: a review of its phytochemistry and pharmacology." Journal of Medicinal Plants Research, 7(34), 2495–2503.
   - US Department of Agriculture (2024). "USDA FoodData Central: Celery, raw." https://fdc.nal.usda.gov/
 ---
 
@@ -80,3 +77,5 @@ Celery was introduced to China via the Silk Road and is now one of the most wide
 ## Notable Cultivars and Varieties
 
 The three major cultivar groups of celery reflect distinct selection pressures. Stalk celery (var. *dulce*) includes green varieties like 'Pascal' and self-blanching gold types like 'Golden Self-Blanching'. Modern [[cervantes-hybrid-varieties-types]] such as 'Tango' and 'Conquistador' offer improved disease resistance, uniformity, and reduced stringiness.
+Further research into apium graveolens continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind apium graveolens provides a foundation for both practical application and continued scientific inquiry.

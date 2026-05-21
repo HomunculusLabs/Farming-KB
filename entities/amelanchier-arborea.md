@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants." New York Botanical Garden.
   - USDA NRCS. "Amelanchier arborea" Plant Profile. plants.usda.gov.
 ---
 

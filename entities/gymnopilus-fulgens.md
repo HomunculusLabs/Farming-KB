@@ -6,7 +6,6 @@ tags: [fungi, cortinariaceae, psychoactive, gymnopilus, wood-inhabiting, basidio
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=194849"
 ---
 ## Gymnopilus fulgens
@@ -78,3 +77,5 @@ Adherence to established safety protocols and best practices minimizes risks whi
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into gymnopilus fulgens continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind gymnopilus fulgens provides a foundation for both practical application and continued scientific inquiry.

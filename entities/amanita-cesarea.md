@@ -9,9 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hall, I.R. et al. (2003). "Edible mycorrhizal-mushrooms and Their Cultivation." CRC Press.
-  - Tulloss, R.E. (1998). "Amanita — distribution, taxonomy, & usage." https://www.amanitaceae.org
-  - Boa, E. (2004). "Wild Edible Fungi: A Global Overview of Their Use and Importance to People." FAO.
   - Consiglio, G. et al. (2002). "edible-wild-mushrooms-by-region in European gastronomy.
 ---
 

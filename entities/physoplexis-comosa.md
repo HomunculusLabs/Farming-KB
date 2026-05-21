@@ -9,11 +9,8 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fischer MA, Oswald K, Adler W (2005). "Exkursionsflora für Österreich,
     Liechtenstein und Südtirol." Land Oberösterreich.
-  - Körner C (2003). "Alpine Plant Life: Functional Plant Ecology of High
     Mountain Ecosystems." Springer.
-  - Eddie WMM et al. (2003). "Phylogeny of Campanulaceae s.str. inferred from
     ITS sequences." Molecular Phylogenetics and Evolution 27(2): 190-207.
 ---
 

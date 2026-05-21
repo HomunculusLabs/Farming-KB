@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Cookies Fam Genetics. Official strain database." cookiesfam.com.
-  - Leafly Staff. "Cereal Milk Strain Information." Leafly, 2023.
-  - Wikileaf. "Cereal Milk blesching-cannabis-strain-selection-receptor-targeting Review." wikileaf.com, 2023.
-  - Blettel C. "Cereal Milk: A Cookies Cross Worth Trying."
     Weedmaps News, 2022.
   - AllBud. "Cereal Milk Marijuana Strain." allbud.com, 2023.
 ---

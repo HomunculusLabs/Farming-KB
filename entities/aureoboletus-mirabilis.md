@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Both BE (1998). "Aureoboletus mirabilis." In: A Taxonomic and Phylogenetic Study of the genus Aureoboletus. Mycotaxon 67: 291-310.
-  - Arora D (1986). Mushrooms Demystified. Ten Speed Press.
-  - Kuo M (2024). "Boletus mirabilis." MushroomExpert.com.
-  - Siegel NS, Schwarz B (2018). "The genus Aureoboletus (Boletales)." Mycologia 110(1): 1-25.
   - Trudell SA, Ammirati JF (2009). Mushrooms of the Pacific Northwest. Timber Press.
 ---
 

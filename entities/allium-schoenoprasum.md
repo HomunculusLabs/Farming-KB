@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." In: Allium brassinosteroid-anti-stress-effects-crop-science.
-  - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
-  - Hanelt, P. (1990). "Taxonomy, evolution and history." In: Onions and Allied Crops, Vol. 1.
-  - Krest, I. et al. (2000). "Antimicrobial activity of  of Europe, Asia,
 and holzer-medicinal-and-culinary-herbs-compendium globally.
 ---hives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both

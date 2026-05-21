@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Aronson, R.B. et al. (2008). \"Phase shifts, herbivory, and the resilience of Caribbean coral reefs.\" Ecology Letters, 11, 423-432."
-  - "NOAA Fisheries. \"Elkhorn Coral (Acropora palmata).\" Species Directory, 2024."
   - "Bruckner, A.W. (2002). \"Priorities for effective management of coral diseases.\" NOAA Technical Memorandum."
 ---
 

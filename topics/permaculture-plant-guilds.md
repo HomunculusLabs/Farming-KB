@@ -5,28 +5,21 @@ tags: [permaculture, guild-design, companion-planting, polyculture, ecology, pla
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - concepts/permaculture-guilds.md
   - concepts/permaculture-guild-design.md
   - concepts/fruit-tree-guild-roles.md
-  - concepts/hemenway-guild-member-roles-and-species-selection.md
-  - concepts/mollison-co-action-analysis-and-species-interaction-in-guild-design.md
   - concepts/gaias-garden-three-sisters-guild.md
   - concepts/gaias-garden-super-guild-design.md
   - concepts/super-guild-design-inter-connections.md
-  - concepts/permaculture-plant-stacking-vertical-guilds.md
-  - concepts/mollison-designers-apple-guild-and-cool-climate-fruit-guilds.md
 related_concepts:
   - permaculture-guilds
   - permaculture-guild-design
   - fruit-tree-guild-roles
   - hemenway-guild-member-roles-and-species-selection
-  - mollison-co-action-analysis-and-species-interaction-in-guild-design
   - gaias-garden-three-sisters-guild
   - gaias-garden-super-guild-design
   - super-guild-design-inter-connections
   - permaculture-plant-stacking-vertical-guilds
-  - mollison-designers-apple-guild-and-cool-climate-fruit-guilds
   - companion-planting-and-polycultures
   - forest-gardening-and-food-forests
   - dynamic-accumulators

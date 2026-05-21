@@ -4,7 +4,6 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: permaculture-design-course-methodology, rattan and other climbing palms are integrated into:
-- Mixed-species mollison-pdc-forest-management-products areas
 ---
 
 ## Species and Growth Habits

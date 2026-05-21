@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L., & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Tutin, T.G., et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Oostermeijer, J.G.B. (1996). "Population viability of Gentiana pneumonanthe." PhD Thesis, University of Amsterdam.
 ---
 

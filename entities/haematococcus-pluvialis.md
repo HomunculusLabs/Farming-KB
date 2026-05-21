@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lemoine Y, Schoefs B (2010). "Secondary ketocarotenoid astaxanthin biosynthesis in algae." Applied Microbiology and Biotechnology, 87, 417-429.
-  - Guerin M, Huntley ME, Olaizola M (2003). "Haematococcus astaxanthin: applications for human health and nutrition." Trends in Biotechnology, 21(5), 210-216.
-  - Shah MM, et al. (2016). "Astaxanthin-producing green microalga Haematococcus pluvialis." Bioresource Technology, 214, 467-476.
-  - Li J, et al. (2011). "Challenges and opportunities in the commercial production of astaxanthin." Journal of Biomolecular Engineering, 28, 267-274.
   - Han D, et al. (2013). "Life-cycle analysis of Haematococcus astaxanthin production." Algal Research, 2, 358-366.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - USDA NRCS. "Wisteria frutescens." The PLANTS Database.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
-  - Wister, L. (1790). "Wisteria frutescens." Transactions of the American Philosophical Society.
   - Royal Horticultural Society. "Wisteria frutescens." RHS Plant Finder.
 ---
 

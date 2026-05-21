@@ -14,9 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "Shepard, M. (2013). Restoration Agriculture: Real-World Permaculture for Farmers. Acres U.S.A."
-  - "Shepard, M. (2018). Water for Any Farm: Applying Restoration Agriculture. Acres U.S.A."
-  - "Shepard, M. (2021). The Restoration Agriculture Development Handbook. Acres U.S.A."
   - "Voisin, A. (1959). Grass Productivity (Shepard cites as foundational influence). Philosophical Library."
 ---
 

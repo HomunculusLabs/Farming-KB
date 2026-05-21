@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Luken, J.O. & Thieret, J.W. (1996). "Amur Honeysuckle, its Fall from Grace." BioScience 46(1): 18-24.
-  - USDA NRCS (2024). "Lonicera maackii" PLANTS Database. https://plants.usda.gov/
-  - Hutchinson, T.F. & Vankat, J.L. (1997). "Influence of Disturbance on Lonicera maackii." Biological Invasions 1(1): 35-41.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
 ---
 

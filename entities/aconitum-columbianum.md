@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brink, D.E. (1982). "The taxonomy of Aconitum (Ranunculaceae) in western guzman-psilocybin-mushrooms-north-america." Ph.D. dissertation, University of Michigan.
-  - Turner, N.J. (1996). "Food Plants of Interior First Peoples." UBC Press.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
-  - USDA NRCS. "Aconitum columbianum Nutt. — Columbian monkshood." PLANTS Database.
   - Mead, J.W. (1972). "The aconitum-napellus.
 ---
 

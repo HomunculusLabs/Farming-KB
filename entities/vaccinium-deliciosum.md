@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
-  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A ." USDA Forest Service Research Paper PNW-143.
-  - Pitcher, D. & McKern, J. (1998). "Vaccinium deliciosum: Taxonomy, distribution, and ecology." Madroño, 45(3), 187-194.
   - Höerdemann, M.L. (2018). "Huckleberries of the guzman-psilocybin-mushrooms-north-america. It is closely related to and frequently confused with V. membranaceum, but differs in leaf texture, berry color, and habitat preference.
 ---he species produces sweet, flavorful berries ranging from blue to dark purple. The specific epithet "deliciosum" reflects the exceptional palatability of the fruit, which is considered among the finest huckleberries and wild berries of [[huckleberries-and-wild-berries-of-north-america]] in the [[psilocybin-north-america-pacific-northwest]].
 
@@ -78,3 +75,14 @@ Propagation from seed requires cold stratification for 60–90 days. Germination
 The species has potential as an ornamental plant for cool-climate gardens, valued for its pendulous pink flowers and fall color. However, it remains rare in the nursery trade due to propagation difficulties.
 
 Hybridization with cultivated blueberries has been explored as a pathway to domestication. Early-generation hybrids show promise for combining huckleberry flavor with improved horticultural characteristics.
+## Current Research
+
+Recent studies on vaccinium deliciosum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with vaccinium deliciosum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

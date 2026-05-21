@@ -16,9 +16,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shurtleff & Aoyagi, *The Book of Miso*, 1976/2001
-  - Shurtleff & Aoyagi, *The Book of Tempeh*, 1979/2001
-  - Steinkraus, *Handbook of Indigenous Fermented Foods*, 2nd ed., 1996
-  - Nout & Aidoo, "Asian Fungal Fermented Food," in *Industrial Applications*, 2002
   - Farnworth, *Handbook of Fermented Functional Foods*, 2nd ed., 2008
 ---
 

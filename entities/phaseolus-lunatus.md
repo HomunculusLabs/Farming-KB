@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Baudoin, J.P. et al. (1997). "Phaseolus lunatus." In Plant Resources of Tropical Africa 1: Cereals and Pulses. PROTA Foundation.
-  - Sauer, J.D. (1993). Historical Geography of Crop Plants. CRC Press.
-  - Gentry, H.S. (1969). "Origin of the common bean." Economic Botany, 23(1), 55–69.
   - Broughton, W.J. et al. (2003). "Beans (Phaseolus spp.) — model food legumes." Plant and Soil, 252(1), 1–35.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pilbeam, J. (2008). "Echeveria." British Cactus and Succulent Society.
-  - Eggli, U. (2003). "Illustrated Handbook of Succulent Plants: Crassulaceae." Springer.
-  - Poole, R.T. & Conover, C.A. (1989). "Container and Field Production of Echeveria." Proc. Fla. State Hort. Soc. 102: 286-288.
   - Kimnach, M. (2003). "A New Species of Echeveria from Oaxaca." Cact. Succ. J. (Los Angeles) 75: 84-87.
 ---
 

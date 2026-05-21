@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - C. L. Huang (1996). "Chloranthaceae." In: Flora of China, Vol. 4. Science Press & Missouri Botanical Garden Press.
-  - J. Murata (1994). "Chloranthaceae." In: Flora of Japan, Vol. IIIb. Kodansha.
-  - K. Todzia (1988). "Chloranthaceae: Hedyosmum, Ascarina, Chloranthus." Flora Neotropica, 48, 1-137.
-  - Royal Botanic Gardens, Kew. "Chloranthus oldhamii Solms." Plants of the World Online.
   - Q. Y. Xiang et al. (2012). "Chloranthaceae phylogeny and evolution." Botanical Journal of the Linnean Society, 169(4), 555-577.
 ---
 

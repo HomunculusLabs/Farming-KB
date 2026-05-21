@@ -11,11 +11,11 @@ sources: []
 
 ## Overview
 
-Echinacea, commonly known as purple coneflower, is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most
+Echinacea, commonly known as purple coneflower, is one of the most
 commercially important medicinal herbs in North America. Native to the
 prairies and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
-widely used immune-supporting herbs in Western [[herbal-medicine]]. Three species
+widely used immune-supporting herbs in Western herbal medicine. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 
 ## Species Comparison
@@ -29,9 +29,9 @@ are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 | Hardiness | Zones 3-9 | Zones 3-8 | Zones 3-8 |
 | Flower color | Purple-pink | Purple-pink | Pale pink |
 
-E. purpurea [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most commonly cultivated due to its vigor and ease of
+E. purpurea is the most commonly cultivated due to its vigor and ease of
 growth. E. angustifolia is considered by many herbalists to produce the most
-potent medicine, particularly [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] root, but is slower growing and more
+potent medicine, particularly in the root, but is slower growing and more
 demanding.
 
 ## Medicinal Uses
@@ -67,9 +67,9 @@ but performs best in moderately fertile, slightly alkaline to neutral soil
 (pH 6.0-7.0). Once established, plants are highly drought-tolerant.
 
 ### Soil Preparation
-Prepare beds by loosening [[nutrient-movement-through-soil-to-plant-roots]] a depth of 12-18 inches. For root harvest
-species (E. angustifolia), deeper [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] (18-24 inches) encourages
-the development of large, harvestable taproots. Incorporate [[compost]] but avoid
+Prepare beds by loosening soil to a depth of 12-18 inches. For root harvest
+species (E. angustifolia), deeper soil preparation (18-24 inches) encourages
+the development of large, harvestable taproots. Incorporate compost but avoid
 excessive nitrogen, which promotes foliage at the expense of root development.
 
 ### Propagation
@@ -114,14 +114,14 @@ Echinacea is relatively trouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.
-- [[powdery-mildew]]: Improve air circulation and avoid overhead watering.
+- Powdery mildew: Improve air circulation and avoid overhead watering.
 - Root rots: Prevent by ensuring excellent drainage.
 
 ## Harvesting
 
 Aerial parts (E. purpurea):
 - Harvest flowers and upper leaves during peak bloom
-- Cut stems above the lowest set of healthy [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] allow regrowth
+- Cut stems above the lowest set of healthy leaves to allow regrowth
 - Best potency when harvested on dry, sunny days
 
 Roots:
@@ -131,8 +131,6 @@ Roots:
 - Use a digging fork to lift roots without breaking them
 - Older roots (4+ years) become woody and less medicinally active
 
-## See Also
-- [[echinacea-purpurea]]
 ## Processing and Storage
 
 Roots:
@@ -147,3 +145,11 @@ Aerial parts:
 - Bundle stems and hang upside down to dry, or spread on screens
 - Dry away from direct sunlight to preserve compounds
 - Store dried herb in airtight containers
+- Properly stored echinacea retains potency for 1-2 years
+
+## Yields
+## See Also
+
+- [[comparison-echinacea-vs-calendula]]
+- [[comparison-ashwagandha-vs-echinacea]]
+- [[comparison-echinacea-vs-yarrow]]

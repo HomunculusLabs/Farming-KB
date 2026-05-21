@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A. A. (1957). "Campanulaceae." In: Flora URSS, Vol. 24. Moscow.
-  - Richards, A. J. (1982). "The pollination of Campanula species in the Cambridge University Botanic Garden." Botanical Journal of the Linnean Society, 85, 45-54.
   - Hoblyn, T. N. (1950). "Campanula lactiflora and its garden forms." Journal of the Royal Horticultural Society, 75, 340-345.
 ---
 

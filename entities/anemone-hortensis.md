@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ehrendorfer F, et al. (2009). "Anemone and related genera (Ranunculaceae) in the Mediterranean." Flora Mediterranea 19: 1-24.
-  - Blamey M, Grey-Wilson C (2004). Wild Flowers of the Mediterranean. Domino Books.
   - Royal Horticultural Society (2023). "Anemone hortensis." RHS Plant Finder.
 ---
 

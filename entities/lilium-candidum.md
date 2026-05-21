@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - McRae, E. (1998). "Lilies: A Guide for Growers and Collectors." Timber Press.
-  - RHS Encyclopedia of Plants and Flowers (2022). Dorling Kindersley.
   - Mathew, B. (1989). "The Smaller Bulbs." Batsford.
 ---
 

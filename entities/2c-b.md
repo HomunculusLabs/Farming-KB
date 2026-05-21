@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). PIHKAL. Transform Press.
-  - Shulgin, A. & Shulgin, A. (1997). TIHKAL. Transform Press.
   - Passie, T. et al. (2008). "The pharmacology of 2C-B." Human Psychopharmacology, 23(6), 453-460.
 --- 2C-B
 

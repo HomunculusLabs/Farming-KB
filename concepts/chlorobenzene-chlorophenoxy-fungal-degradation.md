@@ -5,7 +5,6 @@ tags: [bioremediation, chlorophenol, herbicide, white-rot-fungi, pesticide]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 type: concept
 ---
 

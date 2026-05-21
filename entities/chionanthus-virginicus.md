@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Swanson, R.E. (1994). A Field Guide to the Trees and Shrubs of the Southern Appalachians. Johns Hopkins University Press.
   - Royal Horticultural Society. "Chionanthus virginicus." RHS Plant Finder.
 ---
 

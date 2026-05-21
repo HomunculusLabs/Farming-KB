@@ -9,13 +9,13 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Soil Basics
 
-Soil fundamentals for vegetable gardening, from [[steve-solomon]]'s *[[gardening-when-it-counts]]*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
+Soil fundamentals for vegetable gardening, from Steve Solomon's *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
 
 ## The Foundation: Mineral Balance
 
 Plants need far more than just NPK (nitrogen, phosphorus, potassium). They need a complete balance of minerals, vitamins, amino acids, and an ever-extending list of other substances — including "phytamins," organic chemicals produced by the soil ecology.
 
-Suppose the soil in your area contains abundant minerals in perfect balance. Then [[composting]] vegetation and applying manure transports those minerals in the right proportions to your garden and increases the overall level. Result: highly nutritious food.
+Suppose the soil in your area contains abundant minerals in perfect balance. Then composting vegetation and applying manure transports those minerals in the right proportions to your garden and increases the overall level. Result: highly nutritious food.
 
 But if the soils in your area do not contain a perfect balance of all essential minerals — and most don't — then simply composting and manuring will not correct the deficiencies. You need targeted mineral amendments.
 
@@ -36,7 +36,7 @@ Solomon's signature recipe, developed over decades of gardening:
 - 1 part dolomite lime (for best results)
 
 **Plus**:
-- 1 part phosphorus source: finely ground [[rock-phosphate]] (hard or soft), bonemeal, or high-phosphate guano
+- 1 part phosphorus source: finely ground rock phosphate (hard or soft), bonemeal, or high-phosphate guano
 - 1 part kelpmeal (or 1 part basalt dust)
 
 ### Important Notes
@@ -62,11 +62,11 @@ Solomon explains several problems with chemical fertilizers:
 1. **Incomplete**: So-called "complete" chemical fertilizers with analysis like 10-10-10 are entirely incomplete — they provide only nitrogen, phosphorus, and potassium. Plants also need calcium, magnesium, sulfur, and trace minerals.
 2. **Plants grown without trace minerals** are more easily attacked by insects and diseases, and often don't grow as large or as well.
 3. **Rapid boost then sag**: Inexpensive chemical fertilizers dissolve quickly, causing a rapid boost followed by a big sag requiring more application. They also leach easily.
-4. **Organic materials release nutrients slowly** as soil organisms decompose them — the rate doubles for each 10°F (5°C) increase in [[soil-temperature]]. Complete COF takes about 2 months to fully release in warm soil.
+4. **Organic materials release nutrients slowly** as soil organisms decompose them — the rate doubles for each 10°F (5°C) increase in soil temperature. Complete COF takes about 2 months to fully release in warm soil.
 
 ## The pH Myth
 
-Solomon advises forgetting about [[soil-ph]]:
+Solomon advises forgetting about soil pH:
 
 - If a soil test shows low pH, don't lime to correct it
 - Just add what he recommends: compost/manure plus the limes in COF
@@ -88,6 +88,6 @@ Research shows that the vitamin and mineral content of American vegetables has d
 
 ## Related
 
-- [[composting-systems]] — [[building-soil]] with compost
+- [[composting-systems]] — Building soil with compost
 - [[vegetable-growing-guide]] — Crop-specific fertility needs
 - [[growing-food-in-hard-times]] — Why soil nutrition matters for self-reliance

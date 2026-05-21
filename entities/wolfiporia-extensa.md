@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wang, Y. & Zhang, J. (2018). \"Wolfiporia extensa: An edible and gourmet-medicinal-mushroom-casing-layer-techniques with diverse bioactivities.\" Journal of functional-foods-medicinal-mushrooms, 47, 313-326."
-  - "Ríos, J.L. et al. (2012). \"A review on the ethnobotany, pharmacology and phytochemistry of the genus Wolfiporia.\" Journal of Pharmacy and Pharmacology, 64(4), 462-476."
   - "Zhao, J. et al. (2013). \"Advances in research on the cultivation of wolfiporia-cocos (F.A. Wolf) Ryvarden & Gilb.\" Applied Microbiology and Biotechnology, 97(13), 5871-5882."
 ---
 ## Wolfiporia extensa (*Fu Ling*)

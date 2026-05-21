@@ -5,7 +5,6 @@ updated: 2026-04-24
 type: concept
 tags: [nature, ecology, patterns, observation, biodiversity, fukuoka]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka's Observation of Nature's Patterns

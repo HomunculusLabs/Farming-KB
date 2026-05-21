@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Chauhan, N.S., Rao, C.V. & Dixit, V.K. (2010). \"Effect of Curculigo orchioides rhizomes on sexual behavior of male rats.\" Fitoterapia, 81(7), 903-907."
-  - "Bhandari, S.R. & Kabir, K.H. (2013). \"Curculigo orchioides Gaertn.: Ethnobotany, phytochemistry, and pharmacology.\" Asian Pacific Journal of Tropical Disease, 3(1), 72-78."
   - "Jain, S., Singh, R. & Arya, R. (2011). \"Curculigo orchioides: A review.\" Int J Pharm Sci Res, 2(10), 2574-2585."
 ---
 

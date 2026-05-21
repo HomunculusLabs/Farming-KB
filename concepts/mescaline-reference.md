@@ -143,8 +143,8 @@ As with all psychedelics, set (mindset) and setting (environment) profoundly inf
 ## Pharmacology
 
 - Primary mechanism: agonist activity at the 5-HT2A serotonin receptor
-## See Also
-
-- [[psychoactive-cacti-guide]] for detailed cactus species identification and cultivation
-- [[lsd-reference]] for comparison with another classical psychedelic
-- [[psilocybin-pharmacology-detail]] for tryptamine psychedelic pharmacology
+- Also interacts with 5-HT2C, 5-HT1A, and alpha-2 adrenergic receptors
+- The phenethylamine structure means mescaline also has mild amphetamine-like stimulation
+- The 3,4,5-trimethoxy substitution pattern is the key pharmacophore
+- Mescaline is a partial agonist at 5-HT2A (lower intrinsic activity than LSD or psilocin)
+- Metabolized primarily by monoamine oxidase (MAO-A) and CYP2D6

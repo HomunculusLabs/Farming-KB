@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hunt, H.V. et al. (2008). "Millets across Eurasia." Journal of Archaeological Science, 35, 2008–2015.
-  - Alt, B. (2016). "Millet: the missing link in prehistoric and historic cereal cultivation." Environmental Archaeology, 21, 285–298.
-  - FAO (2023). "FAOSTAT: Millet Production Data." Food and Agriculture Organization.
   - Upadhyaya, H.D. et al. (2014). "Proso millet germplasm." Crop Science, 54, 2534–2544.
 ---
 

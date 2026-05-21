@@ -10,9 +10,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Mathew, B. (1981). "The Iris." Batsford.
-  - Austin, C. (2005). "Iris: The Classic Bearded Varieties." Timber Press.
-  - Goldblatt, P. & Manning, J.C. (2008). "The Iris Family." Timber Press.
-  - Fennell, C.W. & Light, M.E. (2010). "Iridaceae:  (Dalmatian iris)
 and Iris variegata (hungarian iris), both native to the Balkans.
 ---he plant grows from thick, fleshy rhizomes that spread horizontally at or
 just below the soil surface. These rhizomes store starches and fragrant

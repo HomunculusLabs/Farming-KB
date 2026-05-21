@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sheppard, D.C. et al. (2002). Rearing Methods for the Black Soldier Fly. Journal of Economic Entomology."
-  - "Edwards, C.A. & Arancon, N.Q. (2022). The Biology and Uses of Vermicompost. CRC Press."
-  - "Newton, L. et al. (2005). The Black Soldier Fly, Hermetia illucens, as a Manure Management/Resource Recovery Tool. USDA-ARS."
-  - "Lalander, C. et al. (2019). High-Quality Protein from Black Soldier Fly. Journal of Insects as Food and Feed."
 type: comparison
 ---
 

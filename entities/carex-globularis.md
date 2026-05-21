@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
-  - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
-  - Egorova, T.V. (1999). *The Sedges (Carex L.) of Russia and Adjacent States*. Missouri Botanical Garden Press.
   - guzman-psilocybin-mushrooms-south-america." *Brittonia* 55: 58-66.
 ---
 

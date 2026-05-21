@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hooper, S.S. & Nault, J.R. (1971). "A taxonomic study of Scirpus section Bolboschoenus in guzman-psilocybin-mushrooms-north-america." Canadian Journal of Botany 49(6): 809–832.
   -Strong, W.L. (1995 "Bolboschoenus maritimus (L.) Palla." In: Flora permaculture-plants-aquatic-and-wetland-species Plants of Britain. Wildguide Books.
   - Hawke, D.J. & José, P.V. (1996). "Bolboschoenus maritimus (L.) Palla (Scirpus maritimus L.)." Journal of Ecology 84(2): 269–283.
 ---

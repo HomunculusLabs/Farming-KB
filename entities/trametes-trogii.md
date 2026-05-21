@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Martínez, A.T. et al. (2001). \"Biodegradation of lignocellulosics: microbial, chemical, and enzymatic aspects of the fungal attack of lignin.\" International Microbiology, 4(1), 53-63."
-  - "Pointing, S.B. (2001). \"Feasibility of bioremediation by white-rot fungi.\" Applied Microbiology and Biotechnology, 57(1-2), 20-33."
-  - "Zhu, D. et al. (2021). \"The polypore genus Trametes: a phylogenetic and nomenclatural review.\" Fungal Diversity, 108, 1-43."
   - "Sánchez, C. (2009). \"Lignocellulosic residues: biodegradation and bioconversion by fungi.\" Biotechnology Advances, 27(2), 185-194."
 ---
 

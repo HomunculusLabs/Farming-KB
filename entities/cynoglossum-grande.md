@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Hickman, J.C. (1993). The Jepson Manual: Higher Plants of California. University of California Press.
-  - Turner, M. & Gustafson, R. (2006). "Cynoglossum grande in Pacific Northwest Flora." Northwest Science, 80(2), 134-140.
   - USDA NRCS Plant Database: Cynoglossum grande profile.
 ---
 

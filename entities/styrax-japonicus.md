@@ -10,10 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Ohba H (2006). "Styracaceae." In: Iwatsuki K, Boufford DE, Ohba H (eds), Flora of Japan IIa. Kodansha.
-  - Dirr MA (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Fritsch PW, Morton CM, Chen T, Meldrum C (2001). "Phylogeny and Biogeography of the Styracaceae." International Journal of Plant Sciences 162(S6): S115–S131.
-  - Krüssmann G (1984). "Manual of Cultivated Broad-Leaved Trees and Shrubs." Timber Press.
   - Huxley A, Griffiths M (1992). "The New Royal Horticultural Society Dictionary of Gardening." Macmillan.
 ---
 

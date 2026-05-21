@@ -5,7 +5,6 @@ tags: [soil-biology, humus, earthworms, organic-matter, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---
 

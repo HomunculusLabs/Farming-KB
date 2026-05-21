@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gaillard Y, Pepin G (2001). "Poisoning by Veratrum alkaloids." Journal of Analytical Toxicology, 25(3), 181-184.
-  - Steyn DG (1934). "The alkaloids of Veratrum album and V. viride." Onderstepoort Journal of Veterinary Science, 2, 295-313.
-  - Krenn L, Kopp B (1998). "Alkaloids of the Veratrum genus." Phytochemical Reviews, 2(2), 115-128.
-  - Gentry AH (1992). "A synopsis of Veratrum (Melanthiaceae)." Brittonia, 44(3), 387-401.
   - European Medicines Agency (2012). "Assessment report on Veratri rhizoma." EMA/HMPC/769358/2011.
 ---
 

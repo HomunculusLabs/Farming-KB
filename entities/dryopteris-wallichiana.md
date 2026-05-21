@@ -10,7 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fraser-Jenkins, C.R. (2006). "The Ferns and Fern-Allies of the Himalaya." Bishen Singh Mahendra Pal Singh.
   - Ricci, R. (2006). "The Plantfinder's Guide to Ferns." Timber Press.
 ---
 

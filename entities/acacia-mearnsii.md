@@ -10,8 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shackleton, C.M., Dye, P.J. & Cramer, M.D. (2019). \"Acacia mearnsii water use and invasiveness.\" kanna-sceletium-south-african-narcotic Journal of Botany, 120, 13-18."
-  - "Herbert, M.A. (1993). \"The response of Acacia mearnsii to fertilization.\" , green wattle, or
 Australian blackwood (not to be confused with A. melanoxylon), is a
 fast-growing nitrogen-fixing tree in the family Fabaceae, subfamily
 Mimosoideae.

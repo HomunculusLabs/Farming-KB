@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tutin, T.G. et al. (1976). "Flora Europaea." Vol. 4. Cambridge University Press.
-  - Pignatti, S. (1982). "Flora d'Italia." Vol. 3. Edagricole.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. Medpharm Scientific Publishers.
-  - Barnes, J. et al. (2007). "Herbal Medicines." 3rd ed. Pharmaceutical Press.
-  - European Medicines Agency (2014). "Assessment report on Centaurea cyanus L., flos." EMA/HMPC/591946/2010.
 created: 2026-04-28
 ---
 

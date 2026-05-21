@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hooker, J.D. (1881). "Cinchona succirubra, or the Red Bark Tree." The Gardeners' Chronicle.
-  - Howard, J. (1888). "On the Cinchona Species of New Granada." Journal of the Linnean Society of London, Botany, 25, 1-32.
-  - Marks, W.H. (1879). "Notes on the Introduction of Cinchona succirubra into Jamaica." Pharmaceutical Journal.
-  - Hyland, B.P.M. et al. (1999). "Flora of Australia, Volume 16: Elaeagnaceae, Proteaceae 1." CSIRO Publishing.
   - Kew Royal Botanic Gardens. "Cinchona succirubra Pav. ex Klotzsch." Plants of the World Online.
 ---
 

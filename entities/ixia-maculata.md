@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." Missouri Botanical Garden Press.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
-  - Iridaceae in Southern Africa — South African National Biodiversity Institute (SANBI), https://www.sanbi.org
   - Snijman, D.A. (1984). "A Revision of the Genus Ixia L. (Iridaceae)." Journal of South African Botany, Supplementary Vol. 13.
 ---
 

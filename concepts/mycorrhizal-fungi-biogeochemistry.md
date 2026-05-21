@@ -11,7 +11,6 @@ tags:
   - plant-nutrition
   - soil-science
 sources:
-  - "geoffrey gadd sarah-c-watkinson paul s dyer fungi in the environment"
 synopsis: >-
   Mycorrhizal fungi form symbiotic associations with nearly all land
   plants, playing critical roles in mineral weathering, nutrient

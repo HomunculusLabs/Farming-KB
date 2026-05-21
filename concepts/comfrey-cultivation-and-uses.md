@@ -12,12 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hills, Lawrence D. Comfrey: Past, Present and Future. Faber & Faber, 1976.
-  - Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. Metamorphic Press, 1986.
-  - Whitefield, Patrick. The Earth Care Manual. Permanent Publications, 2004.
-  - Jacke, Dave, and Eric Toensmeier. Edible Forest Gardens. Chelsea Green, 2005.
-  - PFAF. "comfrey-symphytum-officinale — Comfrey." Plants For A Future Database, pfaf.org.
-  - Couplan, François. The Encyclopedia of Edible Plants huckleberries-and-wild-berries-of-north-america. Keats Publishing, 1998.
   - Hill, Andrew. "Comfrey: A Review of Its Biological and Chemical Properties." Journal of Botany, 2015.---
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kulling SE and Rawel HM (2008). "Chokeberry (Aronia melanocarpa) – A Review on the Characterization of Ingredients and Biological Activities." Critical Reviews in Food Science and Nutrition, 48(8):705-721.
-  - Kokotkiewicz A et al. (2010). "Aronia Plants: A Review of Traditional Use, Biological Activities, and Perspectives for Modern Medicine." Journal of Medicinal Food, 13(2):255-269.
   - USDA NRCS Plant Profile: Aronia melanocarpa (Michx.) Elliott
 ---
 

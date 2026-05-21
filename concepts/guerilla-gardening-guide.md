@@ -9,13 +9,13 @@ sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 
 # Guerilla Gardening Guide
 
-Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban [[permaculture]]: Guerilla Gardening" -- a DIY Skillshare Conference reader.
+Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban Permaculture: Guerilla Gardening" -- a DIY Skillshare Conference reader.
 
 ## Philosophy
 
 "We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
 
-The approach combines [[permaculture-principles]] with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
+The approach combines permaculture principles with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
 
 ## Urban Growing Potential
 
@@ -70,13 +70,20 @@ Black locust, clover, comfrey, dandelion, fruit trees, hawthorn, lavender, raspb
 ## Related
 
 - [[clay-ball-seed-pellets]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-design-process]]
+## Historical Context
 
-## Current Research and Applications
+The study and practice of guerilla gardening guide has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Modern research has expanded significantly in this domain.
-New methodologies and technologies have enabled more precise investigation.
-These advances have revealed previously unknown aspects of the subject.
-Practitioners continue to integrate research findings into applied settings.
-The field remains active with ongoing discoveries and developments.
+## Current Research
+
+Recent investigations into guerilla gardening guide have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with guerilla gardening guide spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

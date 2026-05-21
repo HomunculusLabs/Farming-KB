@@ -8,8 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Valder, P. (1995). Wisterias: A allen-australian-psilocybe-species-comprehensive-guide. Timber Press."
-  - "Miller, R. & Koday, N. (2021). \"Wisteria floribunda.\" USDA NRCS PLANTS Database."
   - "RHS (2023). Wisteria floribunda. Royal Horticultural Society."
 ---
 
@@ -78,3 +76,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 Further research may reveal additional applications and ecological relationships.
+Further research into wisteria floribunda continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind wisteria floribunda provides a foundation for both practical application and continued scientific inquiry.

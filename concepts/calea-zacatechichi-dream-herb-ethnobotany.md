@@ -6,7 +6,6 @@ tags: [ethnobotany, hallucinogenic-plants, oneirogen, mexico, chontal,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 

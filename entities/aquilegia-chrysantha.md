@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Taylor, R.J. (2009). "The genus Aquilegia (Ranunculaceae) in guzman-psilocybin-mushrooms-north-america." Systematic Botany Monographs, 87, 1-166.
-  - Hodges, S.A. & Arnold, M.L. (1994). "Columbines: a geographically widespread species flock." Proceedings of the National Academy of Sciences, 91(11), 5129-5132.
   - Kew Royal Botanic Gardens. "Aquilegia chrysantha A.Gray." Plants of the World Online.
 ---
 

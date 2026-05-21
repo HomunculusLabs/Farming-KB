@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Uljé, C.B. (2005). "Coprinellus disseminatus." Fungal Planet 24.
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Watling, R. (1982). "British Fungus Flora: Agarics and Boleti." Vol. 3. Royal Botanic Garden Edinburgh.
-  - Kühner, R. (1980). "Les Hyménomycètes agaricoïdes." Bulletin de la Société Linnéenne de Lyon.
-  - Kepler, R.M. et al. (2013). "Phylogenetic classification of coprinoid mushrooms." Mycologia 105(5): 1247-1261.
 created: 2026-04-28
 ---
 

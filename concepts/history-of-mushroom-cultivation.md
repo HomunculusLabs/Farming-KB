@@ -1,5 +1,4 @@
 ---
-title: History Of Mushroom Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,9 +8,6 @@ tags:
   - cultivation
   - agriculture
 sources:
-  - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-  - raw/papers/benjamin-minge-duggar-mushroom-growing.md
-  - raw/papers/william-falconer-mushroom-how-to-grow-them.md
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
@@ -36,7 +32,7 @@ These early cultivation methods were empirical -- growers understood that certai
 Mushrooms held a complex place in Roman culture. While wild foraging was common, some Roman authors documented mushroom cultivation practices:
 
 - Roman agricultural writers described methods for encouraging mushroom growth on tree stumps and in prepared beds
-- Mushrooms were both prized as delicacies and feared as instruments of assassination (the death of Emperor Claudius in 54 AD was famously attributed to poisoned mushrooms, possibly [[amanita-muscaria|Amanita phalloides]])
+- Mushrooms were both prized as delicacies and feared as instruments of assassination (the death of Emperor Claudius in 54 AD was famously attributed to poisoned mushrooms, possibly [[amanita-muscaria-guide|Amanita phalloides]])
 - Duggar's historical account notes the importance of mushrooms in Roman times, with detailed descriptions of wild mushroom markets and consumption
 
 ## Medieval and Renaissance Europe (1400s-1600s)

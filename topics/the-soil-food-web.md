@@ -5,7 +5,6 @@ tags: [soil-food-web, soil-biology, microbiology, mycorrhiza, nutrient-cycling, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - lowenfels
   - ingham
   - singh

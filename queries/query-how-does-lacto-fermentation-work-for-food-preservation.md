@@ -5,7 +5,6 @@ tags: [query, fermentation, preservation, food-storage, lactobacillus]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 type: query
 ---
 

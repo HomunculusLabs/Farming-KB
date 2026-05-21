@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Papers - emcdda-herbal-highs-branding-smartshop-marketing-hallucinogenic-mushrooms: An emcdda-hallucinogenic-mushroom-emerging-trend-analysis Case Study (Hillebrand, Olszewski, Sedefov, 2006)
 type: concept
 ---
 

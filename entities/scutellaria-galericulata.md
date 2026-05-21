@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Šarić-Kundalić, B. et al. (2010). "Ethnobotanical survey of traditionally used plants in human therapy of eastern Bosnia." Journal of Ethnopharmacology, 131(3), 553-563.
-  - EMEA (2010). "Assessment report on Scutellaria galericulata L., herba." European Medicines Agency/HMPC monograph.
-  - Newall, C.A., Anderson, L.A. & Phillipson, J.D. (1996). Herbal Medicines: A Guide for Health-Care Professionals. Pharmaceutical Press.
-  - Lukšič, B. et al. (2013). "Chemical composition and antimicrobial activity of Scutellaria galericulata." Chemistry of Natural Compounds, 49(4), 653-656.
   - Troll, W. (2009). "Scutellaria galericulata — marsh skullcap." FloraWeb, Bundesamt für Naturschutz.
 ---
 

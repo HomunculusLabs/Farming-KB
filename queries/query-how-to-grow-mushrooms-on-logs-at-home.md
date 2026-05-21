@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, Paul. growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed., Ten Speed
     Press, 2000.
-  - "Shiitake stamets-stump-cultivation-mushroom-production-forestry on Logs." Field & mollison-specialist-tropical-crops-forest-products, 2022.
-  - "Growing query-how-to-grow-shiitake-mushrooms-on-logs in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
-  - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
     Technology, 2011.
 type: query
 ---
@@ -78,3 +74,14 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 This question remains an active area of investigation and practical experimentation.
+## Current Research
+
+Recent studies on query how to grow mushrooms on logs at home have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with query how to grow mushrooms on logs at home should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

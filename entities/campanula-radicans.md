@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1957). "Campanula L." In: Flora USSR, Vol. 24. Academy of Sciences USSR.
-  - Kolakovsky A.A. (1985). "Endemic Plants of the Caucasus." Nauka, Moscow.
-  - Royal Horticultural Society (2023). "Campanula radicans." RHS Plant Finder.
   - Sokolova I.V. & Geltman D.V. (2013). "Taxonomic revision of Campanula sect. Rupestres in the Caucasus." Botanical Zhurnal, 98(7): 832–845.
 ---
 

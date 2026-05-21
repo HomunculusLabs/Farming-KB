@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Pandey, M.M., et al. (2007). "Saussurea costus: botanical, chemical and pharmacological review." Phytochemistry, 68(6), 71-80.
-  - Shikov, A.N., et al. (2014). "Costus root: from use in traditional Chinese and Ayurvedic medicine to modern fungal-biodiversity-conservation-status and cultivation potential of Saussurea costus in the Himalayan region." Biological Conservation, 168, 1-10.
   - Chopra, R.N., et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
 ---
 

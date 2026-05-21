@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Praeger, R.L. (1932). "An Account of the Sempervivum Group." Royal Horticultural Society.
-  - Liu, H. (1989). "Aeonium." In: Walker, E.H. (ed.), Flora of the Canary Islands. Museum of Natural History.
-  - Nyffeler, R. (1992). "Aeonium (Crassulaceae) — a Monograph of the Genus." Bradleya 10: 1-50.
-  - Royal Horticultural Society (2024). "Aeonium haworthii." RHS Plant Finder.
   - Bramwell, D. & Bramwell, Z. (2001). Wild Flowers of the Canary Islands. Rueda.
 ---
 

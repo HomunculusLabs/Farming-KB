@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
-  - Tiffney, B. (1986). "Evolution of Dispersal Strategies in Seed Plants." Annual Review of Ecology and Systematics.
-  - USDA NRCS (2024). "PLANTS Database — Myrica pensylvanica."
   - Swanson, R.E. (1994). "A Field Guide to the Trees and Shrubs of the Southern Appalachians." Johns Hopkins University Press.
 ---
 
@@ -80,3 +76,5 @@ In coastal dune ecosystems, northern bayberry serves as a primary sand-stabilizi
 Actinorhizal nodules on bayberry roots can fix an estimated 5–15 kg N/ha/year. This nitrogen input is significant in nutrient-limited dune and barrens ecosystems, where total soil nitrogen may be below 0.05%. The Frankia strains associated with Myricaceae are cross-infective to some degree with other actinorhizal hosts including Alnus and Hippophae, though specificity patterns vary geographically.
 
 ## Uses
+Further research into myrica pensylvanica continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind myrica pensylvanica provides a foundation for both practical application and continued scientific inquiry.

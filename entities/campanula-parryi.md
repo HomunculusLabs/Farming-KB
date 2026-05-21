@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Shetler, S.G. & Skog, L.E. (1978). "A Provisional Checklist of Species for the Western Hemisphere." Smithsonian Institution.
-  - Welsh, S.L. et al. (2003). A Utah Flora, 3rd ed. Brigham Young University Press.
-  - Weber, W.A. (1976). "Rocky Mountain Flora." Colorado Associated University Press.
   - Cronquist, A. et al. (1984–1994). Intermountain Flora, Vols. 1–6. New York Botanical Garden.
 ---
 

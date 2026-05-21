@@ -5,9 +5,6 @@ tags: [permaculture, design, site-analysis, methodology, zones, sectors, PDC]
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 related_concepts:
   - permaculture-design-process
   - permaculture-design-process-overview

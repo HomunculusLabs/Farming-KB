@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - González, F. & Stevenson, D.W. (2000). "Phylogeny and biogeography of Aristolochiaceae." Botanical Review, 66(3), 381-404.
-  - Röttele, M. (1995). "Pollination of Aristolochia — the role of brood-site mimicry." Plant Systematics and Evolution, 195, 147-156.
-  - Rasmussen, J.B. et al. (2009). "Aristolochic acids in herbal remedies: a toxicological review." Regulatory Toxicology and Pharmacology, 55(2), 224-232.
-  - USDA NRCS. "Aristolochia macrophylla Lam." PLANTS Database.
   - Niese, J. (1975). "Notes on the cultivation of Aristolochia species in temperate gardens." Baileya, 19(3), 145-152.
 ---
 

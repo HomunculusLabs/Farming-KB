@@ -5,11 +5,6 @@ tags: [comparison, nitrogen-fixing-trees, mesquite, black-locust, carob, permacu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Pasiecznik, N.M. et al. (2001). The Prosopis juliflora–Prosopis pallida Complex. Tropical Forestry Papers 39. Oxford Forestry Institute."
-  - "Boring, L.R. & Swank, W.T. (1984). The role of black locust (Robinia pseudoacacia) in forest succession. Journal of Ecology, 72(3), 749-766."
-  - "Battle, I. & Tous, J. (1997). Carob Tree: Ceratonia siliqua L. IPGRI."
-  - "PFAF — Plants for a Future Database. https://pfaf.org"
-  - "USDA NRCS PLANTS Database. https://plants.usda.gov"
 type: comparison
 ---
 ## See Also

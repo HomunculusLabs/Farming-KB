@@ -4,20 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, homesteading, sustainability, permaculture, design, engineering]
-sources: ["raw/concepts/cordwood-construction.md"]
+sources: []
 ---
 
 # Cordwood Construction
 
-Cordwood construction (also called cordwood masonry or stackwall) is a building technique where short logs (cordwood) are laid [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] bed of mortar, similar to bricks, to create walls. The log ends are visible on both the interior and exterior faces, creating a distinctive and beautiful pattern. This method combines the insulation of wood with the thermal mass of masonry.
+Cordwood construction (also called cordwood masonry or stackwall) is a building technique where short logs (cordwood) are laid in a bed of mortar, similar to bricks, to create walls. The log ends are visible on both the interior and exterior faces, creating a distinctive and beautiful pattern. This method combines the insulation of wood with the thermal mass of masonry.
 
 ## History
 
-Cordwood construction has been practiced for over a thousand years across Europe and North America. Pioneer settlers in Wisconsin, Michigan, and Ontario built many surviving cordwood homes [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] 1800s. The technique saw a revival in the 1970s alternative building movement and remains popular among homesteaders and natural builders today.
+Cordwood construction has been practiced for over a thousand years across Europe and North America. Pioneer settlers in Wisconsin, Michigan, and Ontario built many surviving cordwood homes in the 1800s. The technique saw a revival in the 1970s alternative building movement and remains popular among homesteaders and natural builders today.
 
 ## Core Advantages
 
-- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]: Uses short pieces of wood that would otherwise be firewood or waste
+- Low cost: Uses short pieces of wood that would otherwise be firewood or waste
 - DIY friendly: No special skills or heavy equipment required
 - Excellent insulation: Wood has an R-value of about 1.0 per inch
 - Thermal mass: Mortar absorbs and releases heat slowly
@@ -64,7 +64,7 @@ Wood should be below 20% moisture content before building. Test with a moisture 
 - 1 part soaked sawdust (passed through 1/4 inch screen)
 - 1 part lime
 
-The sawdust replaces some [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] sand to improve insulation and reduce weight. Soak sawdust in water for at least 24 hours before mixing, then drain excess water (damp, not dripping).
+The sawdust replaces some of the sand to improve insulation and reduce weight. Soak sawdust in water for at least 24 hours before mixing, then drain excess water (damp, not dripping).
 
 ### Lime Putty Mortar (More Breathable)
 
@@ -76,7 +76,7 @@ Lime mortar is more breathable than Portland cement, allowing walls to dry. It i
 
 ### Papercrete Mortar (Experimental)
 
-Some builders use papercrete (shredded paper, sand, and cement) [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] lightweight, insulative mortar. Less proven but interesting for experimental builders.
+Some builders use papercrete (shredded paper, sand, and cement) as a lightweight, insulative mortar. Less proven but interesting for experimental builders.
 
 ### Mortar Tips
 
@@ -112,7 +112,7 @@ The foundation should extend at least 8 inches beyond the wall face on each side
 The center of a 24-inch cordwood wall is largely air space between log ends. This space can be filled for additional insulation:
 
 - Sawdust (least effective, cheapest)
-- [[cellulose]] insulation (good insulation, moderate cost)
+- Cellulose insulation (good insulation, moderate cost)
 - Roxul/mineral wool batts (excellent insulation, higher cost)
 - Spray foam (excellent insulation, highest cost)
 - Mix of sawdust and lime (traditional, moderate insulation)
@@ -134,7 +134,7 @@ Cordwood construction is not addressed in most building codes. Approaches:
 - Work with an engineer to get a custom design approved
 - Some rural areas have no building codes or allow alternative methods with owner-builder permits
 - Build small structures first (sheds, outbuildings) to demonstrate the technique
-- Consider insulating cordwood (split face cordwood) where one face is masonry [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] other is framed and insulated — this may be easier to permit
+- Consider insulating cordwood (split face cordwood) where one face is masonry and the other is framed and insulated — this may be easier to permit
 
 ## Common Problems
 
@@ -148,3 +148,5 @@ Cordwood construction is not addressed in most building codes. Approaches:
 
 - [[cob-building-basics-detailed]]
 - [[earthbag-building]]
+- [[passive-solar-design]]
+- [[bamboo-as-building-material]]

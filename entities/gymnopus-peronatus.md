@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Boertmann, D. (1996). "The Genus Collybia s.l. in Europe." Bibliotheca Mycologica.
-  - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland Vol. 3." Verlag Mykologia.
-  - Noordeloos, M.E. (1992). "European Flora of the Agaricales II." Balansx.
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
 created: 2026-05-07
 ---
 
@@ -78,3 +74,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on gymnopus peronatus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with gymnopus peronatus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gu, C. & Spongberg, S.A. (2003). "Photinia." Flora of China 9: 110–116.
-  - Robertson, K.R. et al. (1991). "A revision of the genus Photinia (Rosaceae)." Journal of the Arnold Arboretum 72(1): 1–59.
-  - Lu, L.D. & Bartholomew, B. (2003). "Rosaceae." In: Wu, Z.Y., Raven, P.H. & Hong, D.Y. (eds.), Flora of China 9. Science Press, Beijing.
   - Royal Horticultural Society. "Photinia serratifolia." RHS Plant Finder.
 ---
 

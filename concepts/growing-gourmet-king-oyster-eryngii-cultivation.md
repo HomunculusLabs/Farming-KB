@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 ---# King Oyster Mushroom ([[fungi-cultivated-mushrooms-pathogens-competitors]] achieve greater stature and
 overall size compared to ones collected in the wild.

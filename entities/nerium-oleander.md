@@ -11,9 +11,6 @@ tags:
   - cardiac-glycosides
   - ethnobotany
 sources:
-  - Wagaw, A.T. et al. (2012). "Nerium oleander — a medicinal plant with manifold biological activities." PharmacologyOnline, 3, 1272–1280.
-  - Erdemoglu, N. et al. (2003). "Cardiac glycosides from Nerium oleander." Journal of Pharmaceutical Biology, 41(3), 228–231.
-  - Barbosa, W.L.R. et al. (2008). "Biological activities of Nerium oleander." Revista Brasileira de Farmacognosia, 18(4), 611–620.
   - USDA NRCS. "Nerium oleander." plants.usda.gov.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
 ---

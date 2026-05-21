@@ -23,13 +23,13 @@ Different sources produce greywater of varying quality:
 | Kitchen sink | 5-15 gallons | High (grease, food particles) | Difficult |
 | Dishwasher | 5-15 gallons | High (detergent, food) | Difficult |
 
-Kitchen greywater contains grease and food solids that can clog distribution [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] attract pests. Many systems exclude kitchen water or treat it separately through a grease trap.
+Kitchen greywater contains grease and food solids that can clog distribution systems and attract pests. Many systems exclude kitchen water or treat it separately through a grease trap.
 
 ## System Types
 
 ### Branched Drain System
 
-The branched drain system, developed by Art Ludwig, [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] simplest and most reliable greywater approach. Wastewater flows by gravity through a series of branching pipes, each leading to a mulch basin around a landscape plant.
+The branched drain system, developed by Art Ludwig, is the simplest and most reliable greywater approach. Wastewater flows by gravity through a series of branching pipes, each leading to a mulch basin around a landscape plant.
 
 **How it works:**
 1. A single 1.5-inch PVC pipe carries greywater from the house
@@ -54,7 +54,7 @@ For sites without adequate slope, or when distributing to a larger area, a surge
 
 1. Greywater flows by gravity into a surge tank (30-50 gallons)
 2. A small sump pump activates when the tank fills
-3. Water is pumped through a distribution network to mulch basins or [[subsurface-irrigation]] lines
+3. Water is pumped through a distribution network to mulch basins or subsurface irrigation lines
 4. A float switch prevents overfilling and dry-running
 
 **Key components:**
@@ -69,7 +69,7 @@ For sites without adequate slope, or when distributing to a larger area, a surge
 A constructed wetland treats greywater through biological processes before reuse or discharge:
 
 1. Water flows through a lined basin filled with gravel and sand
-2. Aquatic and marginal plants (cattails, reeds, iris) grow [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] media
+2. Aquatic and marginal plants (cattails, reeds, iris) grow in the media
 3. Microorganisms on plant roots and gravel surfaces break down organic matter
 4. Plants take up nutrients
 5. Effluent is collected at the far end for irrigation
@@ -90,13 +90,13 @@ The mulch basin is the heart of most greywater systems — it is where water ent
 **Construction:**
 1. Dig a shallow basin 2-3 feet in diameter, 12-18 inches deep
 2. Fill with coarse wood chips or bark mulch (not sawdust or fine material)
-3. Set the outlet pipe to discharge into the center [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] basin
+3. Set the outlet pipe to discharge into the center of the basin
 4. Plant around the perimeter so roots grow toward the moisture
 
 **Function:**
 - Mulch filters out particles and provides surface area for microbial treatment
 - Prevents erosion and surface pooling
-- Creates aerobic conditions that break down soap [[hamilton-composting-and-organic-matter-management]]
+- Creates aerobic conditions that break down soap and organic matter
 - Gradually releases water into the root zone
 
 **Maintenance:**
@@ -119,7 +119,7 @@ Products used in the household directly affect greywater quality:
 - Bleach and chlorine — Kills beneficial soil organisms
 - Sodium-based water softeners — Damages soil structure
 - Petroleum-based surfactants — Slow to break down
-- [[enzyme]] cleaners — May accelerate pipe corrosion
+- Enzyme cleaners — May accelerate pipe corrosion
 - Artificial dyes and fragrances — No agronomic benefit, potential irritation
 
 ## Surge Tank Design
@@ -129,14 +129,11 @@ Even branched drain systems benefit from a simple surge tank:
 - Purpose: Temporarily holds the surge of water from a draining bathtub or washing machine, releasing it slowly to prevent flooding mulch basins
 - Size: 30-50 gallons for a typical household
 - Design: A sealed plastic barrel or concrete tank with inlet, outlet (set 2-3 inches above the bottom to allow sediment settling), and overflow
-- Ventilation: A screened vent prevents pressure buildup [[aact-ph-and-anaerobic-conditions]]
+- Ventilation: A screened vent prevents pressure buildup and anaerobic conditions
 - Cleaning: Access lid for periodic removal of accumulated sediment
 
 Without a surge tank, a 50-gallon bathtub draining in 5 minutes can overwhelm mulch basins designed for slow percolation.
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
 ## Legal Considerations
 
 Greywater regulations vary enormously by jurisdiction:
@@ -147,3 +144,12 @@ Greywater regulations vary enormously by jurisdiction:
 
 **Common regulatory requirements:**
 - System must be entirely subsurface (no surface pooling or spray)
+- Minimum setback distances from property lines, wells, and surface water
+- No kitchen grease water without additional treatment
+- System must not create a nuisance (odor, breeding mosquitoes)
+- Professional design may be required for systems above a certain volume
+## See Also
+
+- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
+- [[greywater-systems-and-domestic-water-conservation]]
+- [[greywater-recycling-drylands]]

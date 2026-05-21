@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Godman, R.M., Yawney, H.W. & Tubbs, C.H. (1990). "Sugar Maple (Acer saccharum Marsh.)." USDA Forest Service Silvics Manual.
-  - Leak, W.B., Yamasaki, M. & Hollinger, D. (2014). "Development of northern hardwoods in New England." USDA Forest Service General Technical Report NRS-132.
   - Kutschera, L. et al. (2010). "Root Architecture of Sugar Maple (Acer saccharum Marsh.) in Relation to Aspect and Competition." Trees, 24(3), 511-522.
 ---
 

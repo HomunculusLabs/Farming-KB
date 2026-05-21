@@ -10,9 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Hsu, P.L. (2013). "Revision of Halesia (Styracaceae)." Edinburgh Journal of Botany, 70(2), 267-305.
-  - Fritsch, P.W. et al. (2001). "Phylogeny of Styracaceae based on molecular data." Systematic Botany, 26(2), 244-256.
-  - Dirr, M.A. (2011). Dirr's Encyclopedia of Trees and Shrubs. Timber Press, Portland, OR.
   - Weaver, R.E. (1972). "The Styracaceae of the southeastern United States." Journal of the Arnold Arboretum, 53, 402-417.
 ---
 

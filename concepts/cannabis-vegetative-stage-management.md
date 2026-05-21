@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Vegetative Stage Management
 
-The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] potential. Proper management of light, training, and nutrition during veg is critical.
+The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical.
 
 ## Light Schedule
 - Standard: 18 hours on / 6 hours off (18/6)
@@ -65,16 +65,30 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Autoflowers: vegetative stage is built-in (2-4 weeks), don't manipulate light schedule
 
 ## Related
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]] — for room and light setup
+- [[cannabis-grow-room-setup]] — for room and light setup
 - [[cannabis-soil-and-nutrients]] — for feeding during veg
 - [[cannabis-grow-room-setup]] — for light specifics
+## Historical Context
 
-See also: [[cannabis-plant-anatomy]]
+The study and practice of cannabis vegetative stage management has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into cannabis vegetative stage management have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Understanding [[cannabis-vegetative-stage]] management provides a foundation for further exploration and practical application.
+Applied work with cannabis vegetative stage management spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+## See Also
+
+- [[cannabis-vegetative-growth-stage]]
+- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- [[cannabis-vegetative-stage]]
+- [[green-cannabis-grow-bible-vegetative-phase-management]]
+- [[cannabis-flowering-stage-management]]

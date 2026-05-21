@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading, livestock]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "comparison-sepp-holzer-vs-biodynamic - Desert or Paradise"
   - "Sepp Holzer - A Practical Guide to Small-Scale Integrative Farming and Gardening"
 ---
 

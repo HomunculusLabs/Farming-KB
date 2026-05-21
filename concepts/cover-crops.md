@@ -5,7 +5,6 @@ tags: [cover-crops, green-manure, soil-building, nitrogen-fixation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 type: concept
 ---
 

@@ -5,8 +5,6 @@ tags: [natural-diet, seasonal-eating, food-mandala, yin-yang, practical-diet]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

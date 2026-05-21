@@ -9,7 +9,7 @@ sources: []
 
 # Cold Frame Gardening
 
-A [[cold-frame]] is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
+A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
 
 ## How Cold Frames Work
 
@@ -102,7 +102,7 @@ The lid slopes from the higher back (north) to the lower front (south) to:
 
 ### 4. Prepare the Interior Soil
 
-1. Fill with a mix of garden soil and [[compost]] (6-12 inches deep)
+1. Fill with a mix of garden soil and compost (6-12 inches deep)
 2. Level the surface
 3. Optionally, install a layer of hardware cloth on the bottom to exclude burrowing rodents
 
@@ -126,7 +126,7 @@ Ventilation is the most important cold frame management task:
 
 ### Fall and Winter Uses
 
-- **Fall harvest extension:** Plant fall crops (lettuce, spinach, radishes, [[arugula]], mache, [[claytonia]]) in September-October. Harvest through December or later depending on climate.
+- **Fall harvest extension:** Plant fall crops (lettuce, spinach, radishes, arugula, mache, claytonia) in September-October. Harvest through December or later depending on climate.
 - **Overwintering:** Sow hardy crops (spinach, garlic, onion sets, mache) in late fall for very early spring harvest
 - **Winter greens:** In mild climates (zone 7+), cold frames can produce greens year-round. In colder climates, add row cover inside for double protection.
 
@@ -142,7 +142,14 @@ Ventilation is the most important cold frame management task:
 | October | Sow overwintering crops (spinach, mache, garlic) |
 | November-December | Harvest fall crops; close lid at night |
 
-## See Also
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
-- [[fukuoka-straw-mulch-system]]
 ## Maintenance
+
+- **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
+- **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
+- **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
+- **Refresh the soil:** Add 1-2 inches of compost each spring before replanting
+## See Also
+
+- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
+- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]

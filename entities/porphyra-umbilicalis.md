@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brawley, S.H. et al. (2008). "On the life history of Porphyra." In: Pignede, G. et al. (eds.), Algae: Anatomy, Biochemistry, and Biotechnology, 305–324. CRC Press.
-  - Pereira, L. (2016). "Edible Seaweeds of the World." CRC Press.
-  - Morgan, K.C. & Wright, J.T.C. (1980). "A review of the biology and economics of Porphyra species." Proceedings of the Nova Scotian Institute of Science, 30, 87–110.
   - Niwa, K. (2010). "Taxonomy and phylogeny of Porphyra." Journal of Applied Phycology, 22(6), 861–871.
 ---
 

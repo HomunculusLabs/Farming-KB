@@ -4,7 +4,6 @@ tags: [legislation, drug-policy, EU, EMCDDA, prohibition, scheduling, Netherland
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)created: 2026-05-07
 type: concept
 
 created: 2026-05-07

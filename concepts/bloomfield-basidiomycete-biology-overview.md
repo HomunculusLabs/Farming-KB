@@ -5,7 +5,6 @@ tags: [mycology, basidiomycetes, fungal-biology, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
 ## Basidiomycete Biology Overview

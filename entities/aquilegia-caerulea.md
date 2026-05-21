@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Aker, S. & Litz, R.E. (1995). "Aquilegia caerulea." Flora huckleberries-and-wild-berries-of-north-america, Vol. 3. Oxford University Press.
-  - Nold, R. (2003). Columbines: Aquilegia, Paraquilegia, and Semiaquilegia. Timber Press.
   - Hodges, S.A. & Arnold, M.L. (1994). "Floral and ecological isolation between oyster-mushroom-log-cultivation-temperate-regions-short-log-method.
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bonafaccia, G. et al. (2003). "Characterisation of buckwheat flours and their use in breadmaking." Lebensmittel-Wissenschaft und -Technologie, 36(1), 27-34.
-  - Kreft, I. et al. (2013). "Nutritional properties of buckwheat." In "Buckwheat: Chemistry and Technology," 83-110. AACC International.
-  - Fabjan, N. et al. (2003). "Tartary buckwheat (Fagopyrum tataricum Gaertn.) as a source of dietary rutin." Journal of Agricultural and Food Chemistry, 51(22), 6452-6455.
-  - Zhu, F. (2016). "chemical-composition-of-hallucinogens and health effects of Tartary buckwheat." Food Chemistry, 203, 231-245.
   - Gao, J. et al. (2020). "A review of Tartary buckwheat: Composition, bioactivities, and applications." Trends in Food Science & Technology, 103, 61-73.---
 ---
 

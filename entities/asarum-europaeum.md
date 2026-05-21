@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wu ZY, Raven PH, Hong DY (2008). "Flora of China, Vol. 5." Science Press.
-  - Hegi G (1965). "Illustrierte Flora von Mitteleuropa." Carl Hanser Verlag.
-  - Duke JA (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
   - Valentini G, Bella S, Ferro S (2002). "growing-gourmet-north-american-reishi-species wild ginger (*fukuoka-citrus-orchard-ground-cover-cultivation, particularly in woodland gardens and shaded borders.
 ---
 

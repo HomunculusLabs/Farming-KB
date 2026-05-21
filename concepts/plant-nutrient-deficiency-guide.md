@@ -37,13 +37,13 @@ Visual symptoms:
 Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
 
 Organic fixes:
-- Composted manure ([[chicken-manure]] is highest in N)
-- [[blood-meal]] (fast-acting, ~12% N)
-- [[alfalfa-meal]] or pellets
-- [[fish-emulsion]] or [[fish-hydrolysate]]
+- Composted manure (chicken manure is highest in N)
+- Blood meal (fast-acting, ~12% N)
+- Alfalfa meal or pellets
+- Fish emulsion or fish hydrolysate
 - Compost tea with bacterial dominance
-- [[cover-crops]] (clover, vetch, peas, beans — legumes fix atmospheric N)
-- [[feather-meal]] (slow-release, high N)
+- Cover crops (clover, vetch, peas, beans — legumes fix atmospheric N)
+- Feather meal (slow-release, high N)
 - Worm castings (mild, gentle N source)
 
 ### Phosphorus (P) Deficiency
@@ -143,8 +143,13 @@ Organic fixes:
 - Epsom salt (magnesium sulfate)
 - Kelp meal
 - Compost
+
+## Micronutrients
+
+### Iron (Fe) Deficiency
+Immobile nutrient. Severe interveinal chlorosis on new leaves (youngest most affected), leaves may turn almost white while veins stay green, growth severely stunted. Common in alkaline soils (pH >7.0). In cannabis: new leaves turn pale yellow/white at high pH.
 ## See Also
 
-- [[soil-testing]] for baseline nutrient analysis
-- [[nutritive-cycle-theory]] for understanding plant nutrient demand through growth stages
-- [[soil-food-web-nutrient-cycling]] for how biology makes nutrients available
+- [[cannabis-nutrient-deficiency-guide]]
+- [[greg-green-npk-and-nutrient-deficiency]]
+- [[cervantes-secondary-nutrient-deficiency]]

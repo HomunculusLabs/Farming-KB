@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Freeman, C.E. (1986). "Penstemon." In: Great Basin Wildflowers. University of Nevada Press.
-  - USDA NRCS Plants Database. "Penstemon palmeri." https://plants.usda.gov
-  - Louda, S.M. & Rand, T.A. (2000). "Penstemon Pollination Ecology." Ecology 81(4): 1023-1034.
-  - Nesom, G.L. (2010). "Taxonomy of Penstemon sect. Peltanthera." Phytoneuron 2010(52): 1-14.
   - Crosswhite, F.S. (1967). "A Revision of Penstemon sect. Peltanthera." American Midland Naturalist 77(1): 69-86.
 ---
 

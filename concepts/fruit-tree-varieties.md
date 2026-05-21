@@ -1,4 +1,5 @@
 ---
+
 title: Fruit Tree Varieties, Rootstocks, and Chill Hours
 created: 2026-04-11
 updated: 2026-04-12
@@ -18,7 +19,7 @@ tags:
 sources:
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - raw/unknown-nutrient-and-dynamic-accumulators.md
-- raw/william-ozier-williams-pdc_-a-permaculture-permaculture-zone-one-zone-two-design-cours.md
+- raw/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 - web-research
 ---
 
@@ -33,7 +34,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 #### Apples (700-1000 chill hours for zone 7; 500-800 for zone 8)
 | Variety | Disease Resistance | Pollination | Use | Chill Hours |
 |---------|-------------------|-------------|------|-------------|
-| Liberty | Excellent (scab, [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]], fire blight) | Needs pollinizer | Fresh/cider | 800 |
+| Liberty | Excellent (scab, cedar rust, fire blight) | Needs pollinizer | Fresh/cider | 800 |
 | Enterprise | Very good | Needs pollinizer | Fresh/storage | 700 |
 | Freedom | Very good | Needs pollinizer | Fresh/cider | 800 |
 | GoldRush | Excellent scab resistance | Needs pollinizer | Fresh/storage | 700-800 |
@@ -141,9 +142,13 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 
 ### What They Are
 Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal flowering.
+
+### Why They Matter
+- **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
+- **Zone 7**: Typically 700-1200 chill hours
+- **Zone 8**: Typically 400-900 chill hours
+- **Zone 8b/coastal**: Can be as low as 200-400 hours
 ## See Also
 
-- [[orchard-management]] — Site selection, planting, pruning, pest management, harvest
-- [[food-forest-design]] — Integrating fruit trees into food forest systems
-- [[seasonal-planning]] — Monthly task calendar for the integrated homestead
-- [[plant-propagation-methods]] — Grafting techniques (see Rootstocks section above)
+- [[sepp-holzer-fruit-tree-varieties]]
+- [[fruit-tree-pruning]]

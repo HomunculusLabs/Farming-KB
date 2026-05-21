@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D'Arcy, W.G. (1991). "The Solanaceae of the Neotropics." Solanaceae: Biology and Systematics, Columbia University Press.
-  - Hunziker, A.T. (2001). "Genera Solanacearum: The Genera of Solanaceae Illustrated." ARG Gantner Verlag.
-  - Stevens, W.D. et al. (2001). "Flora de Nicaragua." Missouri Botanical Garden Press.
   - Queensland Government (2023). "Day-blooming jasmine (Cestrum diurnum) — Weeds of Australia."
 ---
 

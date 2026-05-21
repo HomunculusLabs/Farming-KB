@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
-  - Flora of China Editorial Committee (2010). "Carex lasiocarpa." Flora of China 23: 310.
-  - USDA NRCS (2024). "PLANTS Profile — Carex lasiocarpa."
   - Hájková, P. & Hájek, M. (2003). "Species richness and above-ground biomass of poor and calcareous spring fens." Folia Geobotanica 38(3): 241–251.
 ---
 

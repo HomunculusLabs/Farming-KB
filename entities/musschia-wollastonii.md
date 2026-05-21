@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Press JR, Short MJ (1994). "Flora of Madeira." HMSO, London.
-  - Carvalho JA, LB (2007). "Musschia (Campanulaceae): A Macaronesian Genus." Plant Systematics and Evolution, 265: 79–89.
-  - Jardim R, Francisco-Ortega J (2000). "Conservation Status of the Macaronesian Endemic Flora." Bocconea, 11: 75–84.
-  - IUCN Red List (2026). "Musschia wollastonii." https://www.iucnredlist.org/
   - Kew Plants of the World Online (2026). "Musschia wollastonii Hook. f." https://powo.science.kew.org/
 ---
 

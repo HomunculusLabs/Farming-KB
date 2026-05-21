@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Egorova, T.V. (1999). "The Sedges (Carex L.) of Russia and Adjacent States." St. Petersburg State Chemical-Pharmaceutical Academy Press.
-  - Jermy, A.C. et al. (2007). "Sedges of the British Isles." BSBI Handbook No. 1, 2nd Edition.
-  - Wieclaw, H. & Koopman, J. (2012). "Carex digitata and related species in Europe." Polish Botanical Journal, 57(2), 331-342.
   - RHS (2024). "Carex digitata — Plant Finder." Royal Horticultural Society.
 ---
 

@@ -4,11 +4,6 @@ tags: [soil-amendment, biochar, compost, sustainable-agriculture, carbon-sequest
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lehmann, J. & Joseph, S. (2015). Biochar for Environmental Management: Science, Technology and Implementation. 2nd Ed. Routledge."
-  - "Lal, R. (2020). Regenerative agriculture for food and climate. Journal of Soil and Water Conservation, 75(5), 123A-124A."
-  - "Epstein, E. (2011). The Science of Composting. 2nd Ed. CRC Press."
-  - "IBI (International Biochar Initiative). (2024). Standardized Product Definition and Product Testing Guidelines for Biochar. Version 3.0."
-  - "USDA Natural Resources Conservation Service. (2023). Soil Health Technical Note: Compost and Biochar Applications."created: 2026-05-07
 type: comparison
 
 created: 2026-05-07

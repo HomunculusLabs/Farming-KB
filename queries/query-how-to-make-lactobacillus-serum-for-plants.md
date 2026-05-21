@@ -5,7 +5,6 @@ tags: [query, natural-farming, lactobacillus, soil-biology, knf]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 type: query
 ---
 ## How to Make Lactobacillus Serum for Plants

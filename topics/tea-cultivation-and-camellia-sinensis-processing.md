@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tea: History, Terroirs, Varieties — Kevin Gascoyne et al. (2014)
-  - The Tea Companion: A Connoisseur's Guide — Jane Pettigrew (2015)
-  - "Processing and Chemical Constituents of Tea" — Critical Reviews in Food Science and Nutrition, 2022
-  - USDA Natural Resources Conservation Service: Camellia sinensis plant guide
-  - FAO Intergovernmental Group on Tea — annual production statistics
   - "Tea Plant (Camellia sinensis) Genomics" — Annual Review of Plant Biology, 2020
 ---
 

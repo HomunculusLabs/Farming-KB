@@ -18,10 +18,6 @@ tags:
   - medicinal
   - sustainable
 sources:
-  - Schauss, A.G. et al. (2006). "Acai pulp composition." Journal of Agricultural and Food Chemistry, 54(22), 8598–8603.
-  - Pacheco-Palencia, L.A. et al. (2009). "Chemical composition and antioxidant capacity." Journal of Agricultural and Food Chemistry, 57(19), 8884–8891.
-  - Muñiz-Miret, N. et al. (1996). "The açaí palm in Amazonian agroforestry." Advances in Economic Botany, 10, 159–174.
-  - Levy-Costa, R.B. et al. (2005). "Household food availability in the Amazon." Public Health Nutrition, 8(6), 641–647.
   - Rogez, H. (2000). Açaí: Preparo, Composição e Melhoramento da Conservação. EDUFPA.
 ---
 

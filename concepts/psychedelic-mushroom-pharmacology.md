@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Pharmacology
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -54,7 +53,7 @@ Psilocin is lipophilic enough to cross the blood-brain barrier readily. It distr
 Psilocin is primarily metabolized in the liver through two pathways:
 
 1. **Oxidative deamination** by monoamine oxidase (MAO), primarily MAO-A, producing 4-hydroxy-indoleacetic acid (4-HIAA)
-2. **[[glucuronidation]]** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
+2. **Glucuronidation** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
 
 The plasma half-life of psilocin is approximately 2-3 hours. Subjective effects typically last 4-6 hours, depending on dose.
 
@@ -142,8 +141,15 @@ Important pharmacological interactions:
 Psilocybin has a very high safety profile:
 
 - **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
-- **No known lethal overdose** in humans from [[psilocybin-mushrooms]] alone
+- **No known lethal overdose** in humans from psilocybin mushrooms alone
 - The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
 - Cardiovascular effects include mild, transient increases in heart rate and blood pressure
 
 See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
+## See Also
+
+- [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
+- [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+- [[reishi-triterpenoids-pharmacology]]
+- [[ketamine-pharmacology-and-therapy]]
+- [[cervantes-terpenoid-pharmacology-therapeutic-effects]]

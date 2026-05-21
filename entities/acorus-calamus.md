@@ -15,10 +15,6 @@ tags:
   - wetland-plant
   - insecticidal
 sources:
-  - McGuffin, M. et al. (1997). American Herbal Products Association's Botanical Safety Handbook. CRC Press.
-  - Mukherjee, P.K. et al. (2007). "Acorus calamus: A scientific review." Alternative Medicine Review, 12(3), 258-270.
-  - Shah, G. et al. (2012). "Scientific basis for the therapeutic use of Acorus calamus." Journal of Advanced Pharmaceutical Technology & Research, 3(2), 72-78.
-  - Nadkarni, A.K. (2002). Indian Materia Medica. 3rd ed. Popular Prakashan.
   - Sowmya, B.R. et al. (2019). "Phytochemistry and pharmacological activities of Acorus calamus." Phytotherapy Research, 33(6), 1497-1515.
 ---
 ## Overview

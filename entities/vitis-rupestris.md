@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Comeaux, B.S. et al. (1987). "An investigation of the ancestry of Vitis × labruscana Bailey." American Journal of Enology and Viticulture, 38(1), 25-30.
-  - Galet, P. (1998). Grape Varieties: A Practical Guide to Identification and Cultivation. Cassell.
-  - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
-  - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
   - Wan, Y. et al. (2007). "The genome of dmt-containing-plants-united-states-halpern, commonly known as the rock grape, sand grape, or mountain grape.
 ---
 

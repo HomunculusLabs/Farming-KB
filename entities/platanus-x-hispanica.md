@@ -12,10 +12,6 @@ tags:
   - hybrid
   - deciduous
 sources:
-  - Fernández, V. & Rodríguez, R. (2013). "The London Plane Tree (Platanus × hispanica)." Arboriculture & Urban Forestry.
-  - Menninger, E.A. (1977). "Exotic Trees." Hart. "Stuart.
-  - Rackham, O. (1986). "The History of the Countryside." J.M. Dent.
-  - Santamour, F.S. (1972). "Interspecific Hybridization in Platanus." Forest Science.
   - Tello, M.L. et al. (2005). "Wood Anatomy of Platanus." IAWA Journal.
 ---
 ## Overview

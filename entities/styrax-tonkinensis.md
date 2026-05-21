@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Harvey, W.H. (1876). "On the source of Siam benzoin." Pharmaceutical Journal and Transactions, 7, 396-401.
-  - Burkill, I.H. (1935). A Dictionary of the Economic Products of the Malay Peninsula. Crown Agents for the Colonies.
-  - Suwanvecho, C. & Itharat, A. (2009). "Study of styrax resin." Thai Journal of Phytopharmacy, 16(2), 33-40.
   - Nguyen, T.B. et al. (2020). "Chemical composition and biological activities of Styrax tonkinensis resin." Journal of nematode-management, 391, 1-8.
 ---
 

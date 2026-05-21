@@ -15,8 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Burkill HM. (1985) The Useful Plants of West Tropical Africa
-  - Dalziel JM. (1937) The Useful Plants of West Tropical Africa
   - wiki/raw/papers/ (ethnobotanical and cultivation references)
 ---
 

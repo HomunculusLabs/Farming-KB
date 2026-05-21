@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Bryson, C.T. & DeBarros, J.S. (2011). "Carex debilis." In: Flora north-carolina-mycodiversity Herbarium.
-  - Yatskievych, G. (1999). Steyermark's Flora of Missouri. Missouri Botanical Garden Press.
   - Hilty, J. (2024). Illinois Wildflowers. illinoiswildflowers.info.
 ---
 

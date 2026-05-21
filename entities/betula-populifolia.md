@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest, Volume 2." USDA Forest Service.
-  - DeGraaf, R.M. & Yamasaki, M. (2001). "New England Wildlife: Habitat, Natural History, and Distribution." University Press of New England.
   - Abramoff, R.Z. & Finzi, A.C. (2015). "Are above- and below-ground processes in temperate forests independent?" New Phytologist, 206(3), 1000–1012.
 ---
 
@@ -79,3 +76,5 @@ Gray birch has limited commercial timber value due to its small size and relativ
 The species is occasionally used in ornamental plantings, particularly in naturalistic landscapes and wildlife gardens. Its graceful form, attractive bark, and tolerance of poor soils make it useful for [[permaculture-difficult-sites-plant-guide]].
 
 Gray birch is hardy to USDA zone 3 (−40 °C) and tolerates a wide range of soil conditions. It transplants easily and establishes rapidly, making it useful for stabilizing disturbed soils.
+Further research into betula populifolia continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind betula populifolia provides a foundation for both practical application and continued scientific inquiry.

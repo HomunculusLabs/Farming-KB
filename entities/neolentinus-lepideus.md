@@ -19,10 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Corner, E.J.H. (1950). 'A Monograph of Lentinus and Allied Genera.' Annals of Botany Memoirs."
-  - "Pegler, D.N. (2005). 'The genus Lentinus — a world monograph.' Kew Publishing."
-  - "Hibbett, D.S. et al. (1997). 'Phylogenetic relationships of Lentinus and Neolentinus.' Mycologia 89(1): 33-43."
-  - "Rayner, A.D.M. & Boddy, L. (1988). 'dighton-fungal-decomposition-leaf-litter-dynamics of Wood.' John Wiley & Sons."
   - "https://www.firstnature.com/fungi/neolentinus-lepideus.php"
 ---
 

@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized [[fungal-taxonomy]], ecology, and monitoring, enabling identification [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
+Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized fungal taxonomy, ecology, and monitoring, enabling identification of fungi that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
 
 ## The ITS Region
 
 ### Why ITS?
 
-The Internal Transcribed Spacer (ITS) region [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] official fungal DNA barcode, adopted by the mycological community in 2012. The ITS sits between the 18S, 5.8S, and 28S ribosomal RNA genes [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] nuclear ribosomal operon.
+The Internal Transcribed Spacer (ITS) region is the official fungal DNA barcode, adopted by the mycological community in 2012. The ITS sits between the 18S, 5.8S, and 28S ribosomal RNA genes in the nuclear ribosomal operon.
 
 Structure: 18S -- ITS1 -- 5.8S -- ITS2 -- 28S
 
@@ -80,10 +80,10 @@ The most commonly used primers for fungal ITS amplification:
 
 ### High-Throughput Sequencing (HTS)
 
-- Used for metabarcoding — identifying all [[fungi-in-stressful-environments-strategies-thermophilic-psychrophilic-metal-tolerant]] an environmental sample (soil, air, water)
+- Used for metabarcoding — identifying all fungi in an environmental sample (soil, air, water)
 - Platforms: Illumina MiSeq (most common), Ion Torrent, PacBio, Oxford Nanopore
 - Can generate millions of sequences per run
-- Enables community-level studies of [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
+- Enables community-level studies of fungal diversity
 - Illumina MiSeq: ~300 bp paired-end reads (ITS2 region ideal)
 
 ### PacBio Long-Read Sequencing
@@ -122,8 +122,8 @@ The most commonly used primers for fungal ITS amplification:
 
 - **CBS/KNAW culture collection**: Type strain sequences
 - **MycoBank**: Fungal nomenclature database linked to sequence data
-- **Q-bank**: Plant [[onygenales-keratinophilic-systemic-pathogenic-fungi]] database for biosecurity
-- **EUROFUNGI**: European [[biodiversity-of-fungi-fungal-culture-preservation-techniques]] collection sequences
+- **Q-bank**: Plant pathogenic fungi database for biosecurity
+- **EUROFUNGI**: European fungal culture collection sequences
 
 ## Bioinformatics Pipeline
 
@@ -134,9 +134,6 @@ The most commonly used primers for fungal ITS amplification:
 
 Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
-## See Also
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
-- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
 ## Citizen Science
 
 ### iNaturalist
@@ -146,3 +143,13 @@ Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 - Some observations linked to voucher specimens and sequences
 
 ### Sequence-Verified Citizen Science
+
+Projects like the North American Mycoflora Project aim to:
+1. Collect and photograph fungi across North America
+2. Generate DNA barcodes for every observation
+3. Build a comprehensive, georeferenced fungal database
+## See Also
+
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+- [[dna-barcoding-fungal-identification]]
+- [[fungal-nutrient-translocation-mycelial-networks]]

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gugel, R.K. & Falk, K.C. (2006). " Agronomic and solomon-seed-quality-and-germination-testing Evaluation of Canola." Canadian Journal of Plant Science, 86(4), 1061-1070.
-  - Snowdon, R. et al. (2007). "Oilseed Rape." in Genome Mapping and Molecular Breeding in Plants, Vol. 2, Oilseeds, 55-114.
-  - Chalhoub, B. et al. (2014). "Plant Genetics: Early Allopolyploid Evolution in the Post-Neolithic Brassica napus Oilseed Genome." Science, 345(6199), 950-953.
-  - FAOSTAT (2024). "Rapeseed , extracted from low-erucic-acid, low-glucosinolate cultivars, is one
 of the most widely used vegetable oils globally for cooking, biodiesel
 production, and industrial applications.
 ---lobal rapeseed production exceeds 75 million tonnes annually, with the European

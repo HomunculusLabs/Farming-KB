@@ -6,8 +6,6 @@ tags: [fungi, clavicipitaceae, ergot-fungi, alkaloid-producing, grass-pathogen, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán G, Allen JW, Gartz J. World Wide Distribution of Magic Mushrooms (various eds.)"
-  - "Gartz J. Magic Mushrooms fungi-around-the-world-species-distribution"
   - "Schultes RE, Hofmann A. Plants of the Gods"
 ---
 ## Claviceps paspali

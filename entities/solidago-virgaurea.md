@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Barnes, J. et al. (2007). "Herbal Medicines." Pharmaceutical Press.
-  - ESCOP (2003). "European Scientific Cooperative on Phytotherapy Monographs." Thieme.
-  - Blumenthal, M. et al. (2000). "Herbal Medicine: Expanded Commission E Monographs." Integrative Medicine Communications.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers.
   - Tutin, T.G. et al. (1976). "Flora Europaea, Volume 4." Cambridge University Press.
 ---
 

@@ -5,7 +5,6 @@ tags: [microbiome, methods, cannabis, experimental-design]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
 type: concept
 ---
 

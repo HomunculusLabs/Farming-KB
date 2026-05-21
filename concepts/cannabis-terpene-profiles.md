@@ -12,25 +12,25 @@ sources:
 
 ## Overview
 
-[[terpenes]] are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's [[trichomes]] alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
+Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
 
 ## Major Cannabis Terpenes
 
 ### Myrcene
 
-The most abundant terpene in most cannabis varieties. Contributes earthy, musky, and herbal aromas reminiscent of cloves and mangoes. [[myrcene]] is also found in hops, thyme, lemongrass, and mango. It is associated with sedative, relaxing effects and is thought to contribute to the "couch-lock" effect of heavy indicas. Greenhouse growers and warm environments bring out rich terpene signatures that include prominent myrcene.
+The most abundant terpene in most cannabis varieties. Contributes earthy, musky, and herbal aromas reminiscent of cloves and mangoes. Myrcene is also found in hops, thyme, lemongrass, and mango. It is associated with sedative, relaxing effects and is thought to contribute to the "couch-lock" effect of heavy indicas. Greenhouse growers and warm environments bring out rich terpene signatures that include prominent myrcene.
 
 ### Limonene
 
-A citrus-scented terpene found in the rinds of citrus fruits, juniper, and peppermint. Strains described as having notes of "citrus," "lemon," or "orange" typically have significant [[limonene]] content. It is associated with mood elevation, stress relief, and anti-anxiety effects. Limonene is the second most common terpene in cannabis after myrcene.
+A citrus-scented terpene found in the rinds of citrus fruits, juniper, and peppermint. Strains described as having notes of "citrus," "lemon," or "orange" typically have significant limonene content. It is associated with mood elevation, stress relief, and anti-anxiety effects. Limonene is the second most common terpene in cannabis after myrcene.
 
 ### Pinene
 
-As the name suggests, [[pinene]] produces a pine aroma. It is the most common terpene in the natural world, found in pine needles, rosemary, and basil. Strains with "piney," "forest," or "fuel" notes often have high pinene content. Pinene is associated with mental clarity, alertness, and counteracting some of the memory impairment associated with THC.
+As the name suggests, pinene produces a pine aroma. It is the most common terpene in the natural world, found in pine needles, rosemary, and basil. Strains with "piney," "forest," or "fuel" notes often have high pinene content. Pinene is associated with mental clarity, alertness, and counteracting some of the memory impairment associated with THC.
 
 ### Linalool
 
-A floral terpene with a lavender-like aroma, also found in lavender, birch bark, and coriander. Strains described as "floral," "perfume-like," or "sweet" often contain [[linalool]]. It is associated with calming, anxiolytic, and sedative effects, and is commonly used in aromatherapy for relaxation.
+A floral terpene with a lavender-like aroma, also found in lavender, birch bark, and coriander. Strains described as "floral," "perfume-like," or "sweet" often contain linalool. It is associated with calming, anxiolytic, and sedative effects, and is commonly used in aromatherapy for relaxation.
 
 ### Beta-Caryophyllene
 
@@ -38,11 +38,11 @@ A spicy, peppery terpene found in black pepper, cloves, cinnamon, and cannabis. 
 
 ### Humulene
 
-An earthy, woody terpene also prominent in hops ([[humulus-lupulus]], its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable [[humulene]] content. It is associated with appetite suppression and anti-inflammatory effects.
+An earthy, woody terpene also prominent in hops (Humulus lupulus, its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable humulene content. It is associated with appetite suppression and anti-inflammatory effects.
 
 ## Terpene Profiles in Practice
 
-In S.T. Oner's [[cannabis-sativa]] Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
+In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
 - **Piney, fuel smells** -- suggesting high pinene and caryophyllene
 - **Citrus, fresh smells** -- suggesting limonene
 - **Earthy, spice aromas** -- suggesting humulene and caryophyllene
@@ -55,30 +55,38 @@ The interaction between a strain's terpene profile and its cannabinoid content (
 ## Related Concepts
 
 - [[cannabis-concentrates-and-extracts]] -- terpenes in concentrated form
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of cannabis terpene profiles has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
+## Current Research
+
+Recent investigations into cannabis terpene profiles have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with cannabis terpene profiles spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of cannabis terpene profiles.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into cannabis terpene profiles continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.
+## See Also
+
+- [[cannabis-terpene-profiles-sativa]]
+- [[cannabis-terpene-entourage-effect-profiles]]
+- [[oner-cannabis-terpene-profiles-effects]]
+- [[terpene-profiles-in-sativa-strains]]
+- [[sativa-terpene-profiles-and-aromatic-diversity]]

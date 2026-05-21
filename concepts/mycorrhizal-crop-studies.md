@@ -1,4 +1,5 @@
 ---
+
 title: Mycorrhizal Crop Studies
 created: 2026-04-12
 updated: 2026-04-12
@@ -21,12 +22,12 @@ sources:
 
 # Mycorrhizal Crop Studies
 
-Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Each entry notes the fungal species tested and measured outcomes. Based on [[jeff-lowenfels]]' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological basis and [[mycorrhizal-inoculum-production]] for making inoculum.
+Research-validated results of mycorrhizal inoculation on specific crops. Each entry notes the fungal species tested and measured outcomes. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological basis and [[mycorrhizal-inoculum-production]] for making inoculum.
 
 ## Vegetables
 
 ### Cannabis (*Cannabis sativa*)
-- **Fungi:** Rhizophagus intraradices, [[funneliformis-mosseae]]
+- **Fungi:** Rhizophagus intraradices, Funneliformis mosseae
 - **Results:** Increased growth, improved flower number and size, enhanced nutrient uptake. Full colonization takes up to 6 weeks from seed inoculation, but benefits begin before full colonization. Hydroponic studies show C. claroideum, C. etunicatum, F. geosporum, F. mosseae, G. microaggregatum, R. clarus, and R. intraradices all successful in rockwool — but R. intraradices alone produces similar results to multi-species mixes.
 
 ### Tomato (*Solanum lycopersicum*)
@@ -42,7 +43,7 @@ Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Eac
 - **Results:** Root tissue +35% (F. mosseae), +98% (R. fasciculatus). Drought wilting delayed with R. intraradices. Better salt stress tolerance. Mycorrhizal hyphae bring more nitrogen to roots during drought.
 
 ### Potato (*Solanum tuberosum*)
-- **Fungi:** Funneliformis mosseae, [[rhizophagus-irregularis]], Claroideoglomus etunicatum, R. intraradices
+- **Fungi:** Funneliformis mosseae, Rhizophagus irregularis, Claroideoglomus etunicatum, R. intraradices
 - **Results:** Increased number and size of tubers (nearly 50% more in one study). Native Andean potatoes host 8 of 11 Glomeromycota families. Varieties show selectivity for fungal species — test strains for your variety.
 
 ### Lettuce (*Lactuca sativa*)
@@ -71,7 +72,7 @@ Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Eac
 
 ### Wheat (*Triticum spp.*)
 - **Fungi:** Various AMF
-- **Results:** Always [[mycorrhizae]]-dependent. Dry weight increases of 29-100%.
+- **Results:** Always mycorrhizae-dependent. Dry weight increases of 29-100%.
 
 ### Barley (*Hordeum vulgare*)
 - **Fungi:** Funneliformis mosseae, Rhizophagus fasciculatus, Gigaspora margarita
@@ -120,7 +121,7 @@ Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Eac
 ## Herbs and Flowers
 
 ### Mint (*Mentha arvensis*)
-- **Fungi:** Gigaspora margarita, Rhizophagus clarus, [[acaulospora-scrobiculata]], R. intraradices
+- **Fungi:** Gigaspora margarita, Rhizophagus clarus, Acaulospora scrobiculata, R. intraradices
 - **Results:** Greatly increased size when phosphorus lacking. Essential oils and menthol levels lower without colonization. R. intraradices: greatly increased height and leaves.
 
 ### Rose (*Rosa spp.*)
@@ -147,4 +148,8 @@ Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Eac
 ## Related Pages
 
 - [[mycorrhizal-fungi]] — Biological overview
-## See Also
+- [[mycorrhizal-inoculum-production]] — Making your own inoculum
+- [[mycorrhizal-agricultural-practices]] — Managing soils for mycorrhizae
+- [[cannabis-living-soil-guide]] — Cannabis-specific living soil approach
+- [[cannabis-plant-nutrition]] — Cannabis nutrient management
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem context

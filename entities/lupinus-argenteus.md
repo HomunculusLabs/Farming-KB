@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dunn, D.B. (1956). "The breeding system of Lupinus, group Nanolupus." Madroño 13(8): 253-256.
-  - Barneby, R.C. (1989). "Silky lupines and their allies in the psilocybin-north-america-pacific-northwest. University of Washington Press.
-  - US Forest Service (2023). "Lupinus argenteus." Fire Effects Information System (FEIS).
   - Isely, D. (1998). Native and Naturalized Leguminosae (Fabaceae) of the United States. Monte L. Bean Life Science Museum.
 ---
 

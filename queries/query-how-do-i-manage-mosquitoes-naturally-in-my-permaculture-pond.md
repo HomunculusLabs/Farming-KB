@@ -1,7 +1,5 @@
 ---
 title: "Integrated Mosquito Management for bacillus-thuringiensis israelensis for mosquito larval control.' Toxins, 12(12), 772."
-  - "Culiseta, Inc. 'Dragonflies as Bioindicators and Mosquito Predators in Constructed Wetlands.' Wetlands Ecology and Management, 2019."
-  - "Foster, W.A. & Walker, E.D. (2019). 'Mosquitoes (Culicidae).' Medical and Veterinary Entomology, 3rd ed."
 created: 2026-05-07
 type: query
 ---

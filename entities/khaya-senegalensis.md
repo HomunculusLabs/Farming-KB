@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Nair, K.S.S. (2000). "Entomology garden-myths-weeds-and-pest-management in the Tropics." Oxford & IBH Publishing.
-  - CTFT (Centre Technique Forestier Tropical) (1989). "Khaya senegalensis." Bois et Forêts des Tropiques, 220, 31-50.
-  - Orwa, C. et al. (2009). "Agroforestree Database: Khaya senegalensis." World Agroforestry Centre.
   - Keay, R.W.J. (1989). "Trees of Nigeria." Oxford University Press.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Browicz, K. (1982). "Celtis L." In: Davis, P.H. (Ed.), Flora of Turkey and the East Aegean Islands, Vol. 7. Edinburgh University Press, pp. 572-576.
-  - Rivera, D. et al. (2014). "Celtis australis L.: A Review of Its Traditional Uses, Phytochemistry, and Pharmacology." Journal of Ethnopharmacology, 152(2), 265-275.
-  - Tutin, T.G. et al. (Eds.) (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Fang, J. et al. (2016). "Molecular Phylogeny of Celtis (Cannabaceae) Inferred from Nuclear and Chloroplast DNA Sequences." Taxon, 65(2), 327-337.
   - Francini, E. & Messeri, A. (1954). "La Vegetazione dei Monti dell'Uccellina." Webbia, 10, 441-473.
 ---
 

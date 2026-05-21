@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bennett RN, Rosa EAS, Mellon FA, Kroon PA. (2006). "Interspecific variation in sesquiterpene lactone profiles in Diplotaxis and Eruca." Journal of Agricultural and Food Chemistry 54: 5178–5184.
-  - Padilla G, Cartea ME, Velasco P, de Haro A, Ordás A. (2007). "The phytochemical composition of Diplotaxis tenuifolia." Food Chemistry 104(1): 5–12.
-  - Hall JC, Sytsma KJ, Iltis HH. (2002). "Phylogeny of Capparaceae and Brassicaceae based on chloroplast DNA sequences." American Journal of Botany 89(11): 1826–1842.
   - Jäger AK, Al-Sereiti MR, Nafie SA. (1998). "Immunomodulatory triterpenoids from Diplotaxis tenuifolia." Planta Medica 64: 248–250.
 ---
 

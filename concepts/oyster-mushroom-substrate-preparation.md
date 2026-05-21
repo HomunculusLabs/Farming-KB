@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Substrate Preparation
 
-[[oyster-mushrooms]] (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper [[substrate-preparation]] — cleaning and partially sterilizing the growing medium — is the most critical step for success.
+Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
 
 ## Suitable Substrates
 
@@ -31,7 +31,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 - Sugarcane bagasse
 - Corn cobs (crushed)
 - Banana leaves/stems
-- [[cottonseed-hulls]]
+- Cottonseed hulls
 - Sorghum stalks
 
 ## Supplementation
@@ -42,10 +42,10 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 - Supplemented substrates require sterilization (not just pasteurization)
 
 ### Common Supplements
-- [[wheat-bran]]: 10-20% by dry weight (most common)
+- Wheat bran: 10-20% by dry weight (most common)
 - Rice bran: 10-20%
-- [[soybean-meal]]: 5-10%
-- [[cottonseed-meal]]: 5-10%
+- Soybean meal: 5-10%
+- Cottonseed meal: 5-10%
 - Coffee grounds: up to 25% (unsupplemented — already nutrient-rich)
 
 ## Pasteurization (For Unsupplemented Substrates)

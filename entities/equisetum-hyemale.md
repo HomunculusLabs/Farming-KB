@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hauke, R.L. (1993). "Equisetaceae." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 2. Oxford University Press.
-  - Page, C.N. (1972). "The morphology and anatomy of the sporangiophore in Equisetum." Botanical Journal of the Linnean Society 65: 181–203.
-  - Milne, R. (2006). "Equisetum hyemale." Curtis's Botanical Magazine 23(1): 35–41.
   - Körner, C. et al. (1983). "Silica uptake in Equisetum." Annals of Botany 52: 359–365.
 ---
 

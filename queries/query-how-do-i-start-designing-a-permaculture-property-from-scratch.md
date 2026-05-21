@@ -4,7 +4,6 @@ tags: [query, permaculture, site-design, property-planning, observation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 created: 2026-04-28
 type: query
 ---
@@ -78,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into query how do i start designing a permaculture property from scratch continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind query how do i start designing a permaculture property from scratch provides a foundation for both practical application and continued scientific inquiry.

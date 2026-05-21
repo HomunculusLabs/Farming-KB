@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Andres, T.C. (2004). "Cucurbita moschata." In: Cucurbits, CAB International.
-  - Paris, H.S. (2008). "Summer squash." In: Prohens & Nuez, Handbook of Plant Breeding.
-  - Decker-Walters, D.S. et al. (2002). "Molecular systematics of Cucurbita." Systematic Botany 27(2): 352–363.
   - NIPMN — Northern Illinois Plant Molecular Network, Cucurbita database.
 ---
 

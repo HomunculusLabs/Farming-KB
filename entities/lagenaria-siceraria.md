@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Decker-Walters, D.S. et al. (2004). "Cucurbitaceae." In: Grubben, G.J.H. & Denton, O.A. (eds.), Plant Resources of Tropical Africa 2, 196-209.
-  - Achigan-Dako, E.G. et al. (2008). "Phenotypic diversity of Lagenaria siceraria." Genetic Resources and Crop Evolution, 55, 787-800.
-  - Heiser, C.B. (1979). "The Gourd Book." University of Oklahoma Press.
   - Clarke, J. (2007. "Seeds of Change: The bitter gourd story." Chronica Horticulturae, 47(3), 10-14.
 ---
 

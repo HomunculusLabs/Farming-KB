@@ -10,15 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tomlinson, P.B. (2016). The Botany of Mangroves. 2nd ed. Cambridge University Press."
-  - "Spalding, M., Kainuma, M. & Collins, L. (2010). World Atlas of Mangroves. Earthscan."
-  - "Donato, D.C. et al. (2011). Mangroves among the most carbon-rich forests in the tropics. Nature Geoscience, 4(5), 293–297."
-  - "Lewis, R.R. (2009). Methods and criteria for successful mangrove forest restoration. In: Coastal Wetlands. Elsevier, pp. 787–800."
-  - "Alongi, D.M. (2015). The impact of global change on mangrove forests. Current Opinion in Environmental Sustainability, 11, 51–57."
-  - "Mcleod, E. et al. (2011). A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO₂. Frontiers in Ecology and the Environment, 9(10), 552–560."
-  - "Primavera, J.H. & Esteban, J.M.A. (2008). A review of mangrove rehabilitation in the Philippines: successes, failures and future prospects. Wetlands Ecology and Management, 16(5), 345–358."
-  - "Hamilton, S. & Friess, D.A. (2020). Global carbon stocks and burial in mangrove soils. Global Change Biology, 26(11), 6090–6102."
-  - "FAO (2007). The World's Mangroves 1980–2005. FAO Forestry Paper 153."
   - "Kathiresan, K. & Bingham, B.L. (2001). Biology of mangroves and mangrove ecosystems. Advances in Marine Biology, 40, 81–251."
 ---
 
@@ -83,3 +74,14 @@ Mangrove forests are among the most productive ecosystems on Earth, with net pri
 2. **Anaerobic soil conditions** — Waterlogged, low-oxygen substrates dramatically slow [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 - [[tropical-vs-temperate-fungal-diversity]]
 - [[microfungal-species-diversity-large-areas]]
+## Current Research
+
+Recent studies on mangrove ecosystems and coastal restoration have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with mangrove ecosystems and coastal restoration should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

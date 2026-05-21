@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mann, P.J.G. (1961). "Lysimachia L." In: Flora Europaea, vol. 2. Cambridge University Press, pp. 8–9.
-  - Hu, Q.M. (1994). "A Revision of Lysimachia (Primulaceae) in China." Edinburgh Journal of Botany 51(2): 119–166.
-  - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics, pp. 572–573.
-  - Parnell, J. (2000). "Lysimachia." In: Flora of Ireland. Dundalgan Press, pp. 312–314.
   - Royal Horticultural Society. "Lysimachia nummularia." rhs.org.uk/plants.
 ---
 

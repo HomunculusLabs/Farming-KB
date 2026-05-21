@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere.
 ---
 

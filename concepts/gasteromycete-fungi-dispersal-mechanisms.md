@@ -5,7 +5,6 @@ tags: [mycology, basidiomycota, gasteromycetes, spore-dispersal, puffballs]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 type: concept
 ---
 

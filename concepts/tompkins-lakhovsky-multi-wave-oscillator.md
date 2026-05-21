@@ -5,7 +5,6 @@ tags: [biophysics, alternative-medicine, electromagnetism, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/tompkins-marcel-vogel-plant-human-communication"
 type: concept
 ---# Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
 

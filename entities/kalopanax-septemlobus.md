@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohwi, J. (1965). "Flora of Japan." Smithsonian Institution.
-  - Xu, G.J. et al. (2005). "Flora of China, Vol. 13 (Araliaceae)." Science Press.
   - Lee, Y.N. (2004). "Korean Medicinal Plants." Keimyung University Press.
 ---
 

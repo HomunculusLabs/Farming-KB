@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McLachlan, J. (1979). "Gracilaria and agar production." Proceedings of the International Seaweed Symposium, 9, 67–78.
-  - Renn, D. (1990). "Agar and carrageenan." In: Akatsuka, I. (ed.), Introduction to Applied Phycology. SPB Academic Publishing.
-  - Critchley, A.T. & Ohno, M. (1998). "Seaweed Resources of the World." Japan International Cooperation Agency.
-  - Marinho-Soriano, E. et al. (2006). "Agar from Gracilaria species." Journal of Applied Phycology, 18, 411–418.
   - Porse, H. & Rudolph, B. (2017). "The seaweed hydrocolloid industry." Journal of Applied Phycology, 29, 2187–2200.
 ---
 

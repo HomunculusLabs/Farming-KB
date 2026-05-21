@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben, G.J.H. & Denton, O.A. (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Schippers, R.R. (2000). "African Indigenous Vegetables: An Overview of the Cultivated Species." Natural Resources Institute.
-  - Chweya, J.A. & Eyzaguirre, P.B. (1999). "The Biodiversity of Traditional Leafy Vegetables." IPGRI.
   - Duke, J.A. (2008). "Handbook of Energy Crops." Purdue University.
 ---
 

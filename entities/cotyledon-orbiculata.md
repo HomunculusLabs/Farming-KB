@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tölken, H.R. (1985). "Crassulaceae." In Leistner, O.A. (ed.), Flora of Southern Africa.
-  - Van Jaarsveld, E.J. & Koutnik, D. (2004). "Cotyledon and Tylecodon." Umdaus Press.
-  - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). "Medicinal and Poisonous Plants of Southern Africa." E&S Livingstone.
   - PlantZAfrica — SANBI. "Cotyledon orbiculata." https://pza.sanbi.org
 ---
 

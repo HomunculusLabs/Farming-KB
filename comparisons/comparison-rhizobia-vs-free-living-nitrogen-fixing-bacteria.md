@@ -15,14 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Dixon, R. & Kahn, D. (2004). Genetic regulation of nitrogen-fixing-bacteria-and-biological-nitrogen-fixation fixation. Nature Reviews Microbiology, 2(8), 621–631."
-  - "Vance, C.P. (2008). Rhizobial infection and nodulation: symbiosis at the cellular and molecular level. Plant Physiology, 148(3), 1173–1179."
-  - "Gupta, V.V.S.R. et al. (2015). Legume rotation with cereals improves soil microbial function. Soil Biology & Biochemistry, 84, 26–35."
-  - "Steenhoudt, O. & Vanderleyden, J. (2000). Azospirillum, a free-living nitrogen-fixing bacterium closely associated with grasses. FEMS Microbiology Reviews, 24(4), 487–506."
-  - "Bezdicek, D.F. & Kennedy, A.C. (1998). Biological nitrogen fixation: perspectives and prospects for agriculture. Advances in Agronomy, 63, 1–38."
-  - "Choudhury, A.T.M.A. & Kennedy, I.R. (2004). Prospects and potentials for plant plant-growth-promoting-rhizobacteria rhizobacteria. Journal of Applied Microbiology, 96(2), 303–320."
-  - "Hungria, M. et al. (2013). Co-inoculation of soybean with Bradyrhizobium and Azospirillum: a long-term study. Field Crops Research, 153, 89–98."
-  - "Kennedy, I.R. & Tchan, Y.T. (1992). Biological nitrogen fixation in non-leguminous field crops. Plant and Soil, 141(1–2), 93–118."
 type: comparison
 ---
 

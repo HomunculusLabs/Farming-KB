@@ -1,5 +1,4 @@
 ---
-title: Permaculture Edge Effect Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,8 +11,6 @@ tags:
   - holmgren
   - mollison
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 

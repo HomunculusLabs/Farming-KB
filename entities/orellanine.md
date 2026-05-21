@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Richard, J.M. et al. (1988). "Orellanine and orelline: two unexpected main natural metabolites from lethal Cortinarius mushrooms." Journal of Toxicology: Clinical Toxicology, 26(1-2), 51-73.
-  - Holmdahl, J. et al. (1987). "Fatal poisoning by Cortinarius speciosissimus." The Lancet, 330(8558), 437-438.
-  - De Bellis, R. et al. (2019). "Cortinarius european-mushroom-poisoning-history: A review of the recent literature." Clinical Toxicology, 57(12), 1097-1108.
-  - Antkowiak, W.Z. & Gessner, W.P. (1979). "The structure of orellanine." Tetrahedron Letters, 20(21), 1931-1934.
 created: 2026-04-28
 ---
 

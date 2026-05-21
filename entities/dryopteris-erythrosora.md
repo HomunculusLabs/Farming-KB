@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Fraser-Jenkins, C.R. (1986). "A Classification of the Genus Dryopteris." Pteridologia, 2, 1-110.
-  - PPG I (2016). "A community-derived classification for extant lycophytes and ferns." Journal of Systematics and Evolution, 54(6), 563-603.
   - Kato, M. (1993). "Taxonomic studies of pteridophytes of Japan." Journal of Plant Research, 106, 367-382.
 ---
 

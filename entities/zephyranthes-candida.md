@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D.J. Mabberley (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
-  - R.W. H. et al. (2004). "Amaryllidaceae alkaloids from Zephyranthes candida." Phytochemistry 65(22).
-  - H. T. Flagg and G.L. Kirchoff (2014). "Systematics of Zephyranthes." American Journal of Botany 101(4).
-  - USDA NRCS (2024). "Zephyranthes candida." PLANTS Database.
   - A. Meerow (2019). "Amaryllidaceae." In "Flora guzman-psilocybin-mushrooms-south-america and has become widely naturalized in warm-temperate and subtropical regions worldwide.
 ---
 
@@ -80,3 +76,5 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into zephyranthes candida continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind zephyranthes candida provides a foundation for both practical application and continued scientific inquiry.

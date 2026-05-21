@@ -40,7 +40,7 @@ through soil, they physically bind particles together into aggregates, creating
 pore spaces for air and water movement while protecting organic matter from
 rapid decomposition. [[chen-maitake-growth-parameters-environmental-control]], environmental preferences, and
 the relationship between the mycelial phase and the [[arbuscule-isolation-metabolic-activity-assays]] where it is most productive. The
-[[glomalin-and-soil-carbon]]
+[[glomalin]]
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - query what is mycelium and how does it function in nature
 ## Practical Considerations

@@ -16,9 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gupta, S.K. et al. (2002). "Antidiabetic and antioxidant properties of Ocimum sanctum." Indian Journal of Clinical Biochemistry.
-  - Cohen, M.M. (2014). "Tulsi — Ocimum sanctum: A herb for all reasons." Journal of Ayurveda and Integrative Medicine.
-  - Pattanayak, P. et al. (2010). "Ocimum sanctum Linn. — a plant with manifold medicinal potentials." Pharmacognosy Reviews.
  (Ocimum tenuiflorum pharmacology)
   - Kuo, Y.C. et al. (2020). "A review on phytochemistry and pharmacology of Ocimum tenuiflorum." Evidence-Based Complementary and Alternative Medicine.
 ---# Ocimum tenuiflorum (Holy Basil / Tulsi)

@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Ecological Species
 created: 2026-04-12
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 
 # Mushroom Ecological Species
 
-Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and [[substrate-preparation]] reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, [[wine-cap]], Shiitake, Maitake, Lion's Mane).
+Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and substrate preparation reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
 
 ### Ganoderma lucidum — Reishi
 
@@ -38,7 +39,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Time to first fruit | 2-4 weeks; fruiting bodies develop over 2-3 months |
 | Yield | Variable; reishi grows slowly but can reach large size |
 | Difficulty | Moderate |
-| Key notes | Medicinal: [[ganoderic-acids]] (triterpenes), beta-glucans; anti-inflammatory, immune-modulating, adaptogenic; grows in concentric formation like shelves |
+| Key notes | Medicinal: ganoderic acids (triterpenes), beta-glucans; anti-inflammatory, immune-modulating, adaptogenic; grows in concentric formation like shelves |
 
 ### Trametes versicolor — Turkey Tail
 
@@ -55,13 +56,13 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Time to first fruit | 1-6 months depending on conditions |
 | Yield | Not typically cultivated for food; grown for medicinal extraction |
 | Difficulty | Easy to grow; difficult to get high-quality fruiting bodies |
-| Key notes | Medicinal: PSK and PSP (cancer adjuvant therapy approved in Japan/China); immune modulation; one of the most studied [[medicinal-mushrooms]] |
+| Key notes | Medicinal: PSK and PSP (cancer adjuvant therapy approved in Japan/China); immune modulation; one of the most studied medicinal mushrooms |
 
 ### Agaricus subrufescens — Almond Mushroom / Agaricus blazei
 
 | Parameter | Value |
 |-----------|-------|
-| Substrate | Composted substrate (horse manure + straw); similar to button [[mushroom-compost]] |
+| Substrate | Composted substrate (horse manure + straw); similar to button mushroom compost |
 | Colonization temp | 75-85°F (24-29°C) |
 | Fruiting temp | 60-75°F (16-24°C) |
 | Humidity | 85-95% |
@@ -128,11 +129,11 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 
 | Species | Primary Application | Notes |
 |---------|-------------------|-------|
-| [[pleurotus-ostreatus]] | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
+| Pleurotus ostreatus | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
 | Stropharia rugoso-annulata | Bacteria (E. coli), sediment | Premier mycofiltration species |
 | Trametes versicolor | PAHs, dyes, general pollutants | Strong ligninolytic enzyme production |
 | Phanerochaete chrysosporium | PCBs, PAHs, pesticides | Model white-rot research organism |
-| [[ganoderma-lucidum]] | Heavy metals | Biosorption capacity |
+| Ganoderma lucidum | Heavy metals | Biosorption capacity |
 | Lentinula edodes | Xenobiotics, pesticides | Laccase production |
 | Pleurotus eryngii | PAHs, petroleum | Mediterranean oyster; tolerant species |
 | Schizophyllum commune | Various pollutants | Cosmopolitan; grows almost anywhere |
@@ -147,3 +148,6 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
 | Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
 | Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
+## See Also
+
+- [[query-how-do-i-replace-my-lawn-with-productive-or-ecological-plantings]]

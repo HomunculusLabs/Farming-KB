@@ -5,7 +5,6 @@ tags: [query, natural-building, sustainable-construction, cob, straw-bale, perma
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 

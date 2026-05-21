@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. & Heywood, V.H. (1964). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Krstic, D. et al. (2004). "Antimicrobial Activity of Thalictrum minus Extracts." Journal of Serb. Chem. Soc., 69(10): 819–826.
-  - Guha, K.P. et al. (1979). "The Alkaloids of Thalictrum Species." Lloydia, 42(1): 1–30.
-  - Roos, G. et al. (1997). "Comparative Investigation of Alkaloids in Thalictrum Species." Phytochemistry, 45(5): 979–983.
   - Hegi, G. (1906). "Illustrierte Flora von Mittel-Europa." J.F. Lehmanns Verlag.
 ---
 

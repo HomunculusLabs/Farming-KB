@@ -4,7 +4,6 @@ tags: [shamanism, entheogen, psychotherapy, divination, healing, plant-teachers,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 created: 2026-04-28
 ---

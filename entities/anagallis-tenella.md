@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - Preston, C.D. et al. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
   - Boucher, J. (2007). "The Wild Flower Key." revised ed. Frederick Warne.
 ---
 
@@ -78,3 +76,5 @@ Bog pimpernel is occasionally cultivated in specialized rock gardens, bog garden
 The plant can be propagated by seed or by division of established mats. [[cannabis-seed-germination]] requires cool, moist conditions and light exposure.
 
 Cultivation in containers using a peat-based medium with added sand and perlite is often more successful than open-ground planting. The soil must never be allowed to dry out during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Further research into anagallis tenella continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind anagallis tenella provides a foundation for both practical application and continued scientific inquiry.

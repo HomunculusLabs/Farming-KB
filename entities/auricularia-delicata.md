@@ -15,8 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pegler, D.N. (1983). "Auriculariales." Kew Bulletin, 8(2), 1–60.
-  - Lowy, B. (1951). "A morphological basis for classifying the species of Auricularia." Mycologia, 43(3), 351–368.
   - Wu, S.H. et al. (2014). "bloomfield-boletus-satanus-edible-mushroom-hazards in parts of bloomfield-mushroom-formation-fruiting-body-development-cultivation.
 ---
 

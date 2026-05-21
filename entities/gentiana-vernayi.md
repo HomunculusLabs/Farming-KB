@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16. Science Press, Beijing.
-  - Grey-Wilson, C. (1989). "Himalayan Gentians: A Gardener's Guide." Alpine Garden Society Bulletin.
-  - Yuan, Y. et al. (2003). "Phylogeny and Biogeography of Gentiana." Molecular Phylogenetics and Evolution, 28(1): 23–36.
   - Royal Botanic Garden Edinburgh (2024). Gentiana vernayi species profile. rbge.org.uk.
 ---
 

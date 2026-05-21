@@ -4,8 +4,6 @@ tags: [aact, compost-tea, disease-suppression, ingham, soil-food-web, biocontrol
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
 ---

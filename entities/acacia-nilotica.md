@@ -13,10 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wickens, G.E. et al. (1995). "Acacia nilotica and its utilization." FAO Corporate Document Repository.
-  - Singh, R. & Raghuvanshi, R.S. (2012). "Fruits of the Indian arid-zone-species-selection-and-forage-systems." Springer India.
-  - Kala, C.P. (2007). "Ethnobotany of Acacia nilotica." Indian Journal of wasted-human-resources-and-traditional-knowledge, 6(2), 352–356.
-  - Orwa, C. et al. (2009). "Agroforestree Database: Acacia nilotica." World Agroforestry Centre.
   - Booth, F.E.M. & Wickens, G.E. (1988). "Non-timber uses of selected arid zone trees." FAO Conservation Guide 19.---
 ---
 
@@ -80,3 +76,5 @@ African traditional medicine uses different plant parts for treating malaria, co
 Modern pharmacological studies have confirmed antibacterial activity against pathogens including [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Bark extracts show significant anti-inflammatory activity.
 
 Antioxidant assays demonstrate strong free-radical scavenging capacity, attributed primarily to the high tannin content. Hypoglycemic and hepatoprotective effects have been documented in animal studies.
+Further research into acacia nilotica continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind acacia nilotica provides a foundation for both practical application and continued scientific inquiry.

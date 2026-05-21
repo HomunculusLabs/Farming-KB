@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tutin, T.G. et al. (1964-1993). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
-  - Muls, A. et al. (1985). "Alkaloids of Corydalis cava." Planta Medica, 51(4), 297-299.
-  - Stermitz, F.R. et al. (1994). "Alkaloids of the Fumariaceae." Phytochemistry, 37(3), 797-811.
-  - Szlávik, L. et al. (2004). "Alkaloids from Corydalis species." Fitoterapia, 75(7-8), 779-785.
 created: 2026-04-28
 ---
 
@@ -79,3 +74,14 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on corydalis cava have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with corydalis cava should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

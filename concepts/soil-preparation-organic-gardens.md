@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [soil, agriculture]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 ## Soil Preparation for Organic Gardens

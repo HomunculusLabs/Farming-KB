@@ -5,7 +5,6 @@ tags: [fungal-pathogen, population-genetics, speciation, medical-mycology, epide
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 type: concept
 ---
 

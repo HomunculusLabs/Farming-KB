@@ -13,9 +13,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rice, E.L. (1984). Allelopathy. Academic Press.
-  - Putnam, A.R. & Tang, C.S. (1986). The Science of Allelopathy. Wiley.
-  - Inderjit, Dakshini, & Einhellig (1999). Principles and Practices in Plant Ecology: Allelochemical Interactions.
-  - Macias, F.A. et al. (2007). Allelopathy: A Physiological Process with Ecological Implications. Springer.
 related_concepts:
   - companion-planting
   - cover-crops

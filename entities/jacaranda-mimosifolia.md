@@ -9,7 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Howard, R.A. (1975). "Jacaranda." Flora of Tropical East Africa. Royal Botanic Gardens, Kew.
   - Smith, C.E. & Clegg, J.M. (1989). "hamilton-ornamental-trees in São Paulo." Revista Brasileira de Botânica, 22(2), 247–253.
 ---
 

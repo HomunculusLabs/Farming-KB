@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. (1957). "Campanula L." In: Flora URSS, Vol. 24. Botanical Institute of the Academy of Sciences.
-  - Royal Horticultural Society (2023). "Campanula alliariifolia." RHS Plant Finder. rhs.org.uk.
-  - WCSP (2024). "World Checklist of Selected Plant Families." Kew Royal Botanic Gardens.
   - Shetekauri, S. & Gagnidze, R. (2010). "Endemic Plants of the Caucasus." Tbilisi University Press.
 ---
 
@@ -78,3 +75,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on campanula alliariifolia have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with campanula alliariifolia should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

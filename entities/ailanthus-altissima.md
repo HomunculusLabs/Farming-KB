@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hu, S.Y. (1979). "Ailanthus." Arnold Arboretum Journal, 60(1): 1–35.
-  - Fryer, J.L. (2010). "Ailanthus altissima." USDA Forest Service Fire Effects Information System.
-  - Kowarik, I. & Säumel, I. (2007). "Biological Flora of Central Europe: Ailanthus altissima." Perspectives in Plant Ecology, 9(4): 187–206.
   - Rebbeck, J. et al. (2021). "Invasiveness of Ailanthus altissima." Forest chinese-tallow-tree and Tree-of-Heaven in the US." Biological Invasions, 8(5): 955–966.
 ---
 

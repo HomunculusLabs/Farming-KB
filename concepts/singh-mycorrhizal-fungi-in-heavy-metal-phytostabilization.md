@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# [[gadd-mycelial-network-dynamics]] in the surrounding soil. This hyphal
 network extends the effective depletion zone of plant roots by up to

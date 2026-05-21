@@ -5,12 +5,7 @@ tags: [agriculture, soil-health, regenerative, no-till, permaculture, soil-food-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-  - "raw/papers/savory-holistic-resource-management.md"
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 related_concepts:
   - "the-soil-food-web"
@@ -20,7 +15,6 @@ related_concepts:
   - "fukuoka-natural-farming-philosophy"
   - "permaculture-design-principles"
   - "regenerative-agriculture-overview"
-  - "the-rhizosphere-ecology-and-plant-microbe-interactions"
   - "living-soil-cannabis-cultivation"
 ---
 

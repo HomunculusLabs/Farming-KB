@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pfosser M et al. (2012). "Molecular Phylogenetics of Dracaena (Asparagaceae)." Taxon 61(4).
-  - Wolverton BC et al. (1989). "Interior Landscape Plants for Indoor Air Pollution Abatement." NASA.
-  - Mabberley DJ (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
   - GRIN Taxonomy (2024). "Dracaena trifasciata." USDA dighton-fungal-drought-tolerance-plant-water-relations. A waxy cuticle covers the leaf surface, further reducing water loss.
 ---
 

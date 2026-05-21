@@ -148,3 +148,5 @@ Biochar's porous structure provides ideal fungal habitat:
 ## See Also
 
 - [[fungi-in-climate-change]] -- fungal roles in carbon sequestration
+- [[mycorrhizal-networks-and-forest-communication]] -- fungal networks enhanced by biochar
+- [[mycoremediation-of-heavy-metals]] -- combined biochar-fungal remediation approaches

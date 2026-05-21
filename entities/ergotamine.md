@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
-  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
 

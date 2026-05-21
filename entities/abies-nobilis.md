@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers. USDA Forest Service."
-  - "Farjon, A. (2010). A Handbook of the World's Conifers. Brill."
-  - "Franklin, J.F. & Dyrness, C.T. (1988). Natural Vegetation of Oregon and Washington. Oregon State University Press."
   - "Harrington, C.A. (1990. Abies procera Rehd.: Noble Fir. In Silvics abies-amabilis on a clear-cut in western Oregon. Ecology, 54(4), 776-786."
 ---
 

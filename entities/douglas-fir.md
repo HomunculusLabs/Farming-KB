@@ -16,7 +16,6 @@ tags:
   - forestry
   - pacific-northwest
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 date: 2026-05-02
 updated: 2026-05-02
 ---# Douglas-fir

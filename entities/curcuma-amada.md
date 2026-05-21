@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sasikumar, B. (2005). "Genetic resources of Curcuma in India." NBPGR, New Delhi.
-  - Singh, G. et al. (2010). "Curcuma amada: phytochemistry, pharmacology, and applications." Pharmacognosy Reviews 4(8): 170-177.
-  - Joshi, R.K. et al. (2014). "Chemical composition and antimicrobial activity of Curcuma amada rhizome permaculture-designers-manual-essential-oil-plants." Natural Product Communications 9(4): 501-504.
   - Gupta, S.C. et al. (2013). "Curcuminoids from Curcuma species." psilocybe-southeast-asia-pacific.
 ---
 

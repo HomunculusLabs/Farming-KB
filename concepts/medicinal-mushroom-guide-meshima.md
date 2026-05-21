@@ -13,7 +13,7 @@ sources: []
 
 Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
 
-[[phellinus-linteus]] is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
+Phellinus linteus is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
 
 ## Key Compounds
 
@@ -26,7 +26,7 @@ Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been
 
 ## Anti-Inflammatory Properties
 
-Meshima is one of the most potent anti-inflammatory [[medicinal-mushrooms]]:
+Meshima is one of the most potent anti-inflammatory medicinal mushrooms:
 
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.
@@ -76,7 +76,7 @@ Meshima's immune effects are distinctive:
 - Hispidin and related phenolics provide powerful free radical scavenging.
 - Protects against lipid peroxidation and DNA damage.
 - Reduces oxidative stress markers in animal models.
-- [[ergothioneine]] content contributes additional antioxidant protection.
+- Ergothioneine content contributes additional antioxidant protection.
 
 ## Hepatoprotective Effects
 
@@ -142,8 +142,13 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 - Can be cultivated on hardwood sawdust substrates, though yields are lower than most commercial species.
 - Requires extended incubation periods (3-6 months colonization).
-- [[fruiting-conditions]] are not fully optimized for commercial production.
+- Fruiting conditions are not fully optimized for commercial production.
 - Most commercial meshima is still wild-harvested in Korea and China.
-- [[liquid-culture]] and submerged fermentation methods are being developed for mycelium-based products.
+- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
 
 ## Safety Considerations
+## See Also
+
+- [[phellinus-linteus-meshima-cancer-research]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

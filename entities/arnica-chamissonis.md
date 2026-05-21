@@ -9,10 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Maguire, B. (1943). "A monograph of the genus Arnica." Brittonia 4(4): 386–510.
   - Willard, T. (1992). "The Herb Book." Sage Press.
-  - Foster, S. & Duke, J.A. (2013). "Peterson Field Guide to Medicinal Plants." Houghton Mifflin.
-  - USDA NRCS. "Arnica chamissonis plant profile." plants.usda.gov.
   - Kligler, B. (2003). "Arnica montana." American Family Physician 68(10): 2069–2072.
 ---
 

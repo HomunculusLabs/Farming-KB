@@ -7,7 +7,6 @@ tags: [photobiology, action-spectrum, psilocybe-cubensis,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md"
 type: concept
 ---
 

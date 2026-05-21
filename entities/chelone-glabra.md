@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cooney LM and Halpin T (2017). "Chelone glabra." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Vol. 17.
-  - Millspaugh CF (1974). "American Medicinal Plants." Dover Publications (reprint of 1892 edition).
   - USDA NRCS Plant Profile: Chelone glabra L.
 ---
 

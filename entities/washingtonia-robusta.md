@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hodel, D.R., Johnson, D. (2007). "A revision of Washingtonia (Arecaceae)." Palms, 51(2), 61-77.
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
   - GBIF (2023). "Washingtonia robusta H.Wendl." george-washington-carver-plant-work by the German botanist Hermann Wendland, who described it in 1879. The genus Washingtonia contains only two species.
 ---
 

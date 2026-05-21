@@ -5,7 +5,6 @@ tags: [land-planning, infrastructure, grazing-cells, paddocks, strategic]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Land Planning and Grazing Cell Design
 

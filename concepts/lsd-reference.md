@@ -9,7 +9,7 @@ sources: []
 
 # LSD Reference
 
-LSD ([[lysergic-acid-diethylamide]]) is one of the most potent psychoactive substances known. Discovered by Swiss chemist [[albert-hofmann]] in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
+LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
 ## Discovery and History
 
@@ -53,13 +53,13 @@ LSD ([[lysergic-acid-diethylamide]]) is one of the most potent psychoactive subs
 - Chemical formula: C20H25N3O
 - Molecular weight: 323.43 g/mol
 - CAS number: 50-37-3
-- Structure: semi-synthetic ergoline derivative — core structure derived from [[lysergic-acid]] (from ergot fungus)
+- Structure: semi-synthetic ergoline derivative — core structure derived from lysergic acid (from ergot fungus)
 - The diethylamide group at position 8 is essential for psychoactivity
 - Potency: active at 20-50 micrograms (one of the most potent drugs known by weight)
 - Physical form: typically encountered as a colorless, odorless liquid or on blotter paper
 
 LSD is an ergoline alkaloid, structurally related to:
-- LSA ([[lysergic-acid-amide]]): naturally occurring in [[morning-glory-seeds]] and Hawaiian baby woodrose
+- LSA (lysergic acid amide): naturally occurring in morning glory seeds and Hawaiian baby woodrose
 - Ergotamine and other ergot alkaloids: used medicinally (migraine treatment)
 - Psilocybin and DMT: tryptamine psychedelics (different class, but LSD has tryptamine-like pharmacology)
 
@@ -139,12 +139,17 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 - Confusion, paranoia, fear of not returning to normal
 - Flashbacks (HPPD — Hallucinogen Persisting Perception Disorder — rare but documented)
 
+## Safety Profile
+
+- Very high therapeutic index (LD50 estimated at 12,000+ μg — ~100x a strong dose)
+- No confirmed human deaths from LSD overdose alone
+- Primary risks are psychological, not physiological
+
+### Contraindications
+
+- Personal or family history of schizophrenia or psychotic disorders
 ## See Also
 
-- [[mescaline-reference]] for comparison with a phenethylamine psychedelic
-- [[psilocybin-pharmacology-detail]] for tryptamine psychedelic pharmacology
-- [[mdma-reference]] for comparison with an empathogen-entactogen
-
-## Related
-
-- [[lsd-synthesis-history]]
+- [[cannabis-as-medicine-clinical-reference]]
+- [[permaculture-plant-species-reference]]
+- [[mdma-reference]]

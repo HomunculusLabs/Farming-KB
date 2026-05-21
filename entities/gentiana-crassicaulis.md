@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentiana." Flora of China, Vol. 16.
-  - Joshi, A.R. et al. (2020). "Phytochemical and pharmacological profile of Gentiana crassicaulis." Journal of Ethnopharmacology, 254: 112698.
-  - Yang, J.L. et al. (2017). "Iridoid glycosides from Gentiana crassicaulis." Phytochemistry, 143: 12–21.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
   - Wang, Z. et al. (2019). "Comparative analysis of iridoid glycosides in Qin Jiao species." Journal of Pharmaceutical and Biomedical Analysis, 172: 145–153.
 ---
 

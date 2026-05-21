@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bown, D. (2001). Encyclopedia of Herbs and Their Uses. DK Publishing
-  - Hoffmann, D. (2003). Medical Herbalism. Healing Arts Press
-  - Chevallier, A. (2016). Encyclopedia of Herbal Medicine. 3rd ed. DK Publishing
-  - Duke, J.A. et al. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press
-  - Hedrick, U.P. (1972). Sturtevant's Edible Plants of the World. Dover Publications
   - Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier
 ---
 ## Viburnum opulus

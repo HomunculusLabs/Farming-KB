@@ -5,7 +5,6 @@ updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, enoki, gourmet, flammulina]
 sources:
-  - label: "Growing Gourmet and cancer-medicinal-mushrooms"
     author: Paul Stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md

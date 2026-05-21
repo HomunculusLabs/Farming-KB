@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. (1957). "Campanulaceae." In: Flora URSS, Vol. 24. Academy of Sciences USSR.
-  - Tutin, T.G., et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Armitage, A.M. (2008). "Herbaceous Perennial Plants." 3rd ed. Stipes Publishing.
 ---
 

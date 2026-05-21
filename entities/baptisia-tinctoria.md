@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stritch, L. (2015). "Baptisia tinctoria." IUCN Red List of Threatened Species.
-  - Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Company.
   - Moerman, D. (1998). Native guzman-psilocybin-mushrooms-north-america, ranging from Maine to Florida and west to Minnesota and Texas.
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Salehi, B. et al. (2019). "Apigenin: A Comprehensive Review." Phytotherapy Research, 33(10), 2521-2543.
-  - Shankar, E. et al. (2017). "Apigenin: An Anti-Cancer Agent." Cancer Letters, 394, 1-9.
-  - Gao, H. et al. (2022). "Apigenin: Pharmacology, Pharmacokinetics, and Clinical Applications." Frontiers in Pharmacology, 13, 892421.
-  - Lin, Y. et al. (2011). "Apigenin, a Flavonoid in Parsley, Inhibits Prostaglandin E2 Formation." Advances in Experimental Medicine and Biology, 722, 181-188.
   - Lopresti, A.L. (2017). "In Search of Anxiolysis: A Review of the Evidence." Journal of Evidence-Based Integrative Medicine, 22(1).
 ---
 

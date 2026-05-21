@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hardin, J.W. (1957). "A Revision of the American Hippocastanaceae." Brittonia, 9(3), 145–171.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern halpern-sacramental-peyote-and-native-american-church spring-flowering trees, producing showy clusters of tubular red flowers.
 ---
 

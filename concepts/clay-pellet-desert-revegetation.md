@@ -5,8 +5,6 @@ tags: [natural-farming, desert-revegetation, clay-pellets, seed-balls, ecology, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: fukuoka-do-nothing-farming-philosophy-and-practice. Rather than attempting
 to understand and reverse desertification through fukuoka-ecological-balance-principles.
 ---

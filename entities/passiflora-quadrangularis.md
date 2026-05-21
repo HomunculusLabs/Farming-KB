@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Czelleng, A. et al. (2021). "Passiflora quadrangularis: A review of phytochemistry and pharmacological properties." Revista Brasileira de Farmacognosia, 31, 89-105.
-  - Dhawan, K. et al. (2004). "Passiflora: A review update." Journal of Ethnopharmacology, 94(1), 1-23.
-  - Ulmer, T. & MacDougal, J.M. (2004). Passiflora: Passionflowers of the World. Timber Press.
   - USDA-ARS GRIN Taxonomy. "Passiflora quadrangularis L." Taxon ID 30922.
 ---
 

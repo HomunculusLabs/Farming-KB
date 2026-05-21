@@ -20,11 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tu P-F, Lou Z-C, Zhang Y-J, et al. (2011). "Cistanche deserticola and Cistanche tubulosa: A systematic review of their traditional uses, phytochemistry, and pharmacology." Pharmacognosy Reviews, 5(10), 332–344.
-  - Jiang Y, Tu P-F, Chen X-H, et al. (2010). "Current status and future prospects of Cistanche species." Chemistry & Biodiversity, 7(2), 277–293.
-  - Song W-C, Zhao H-F, Yang L, et al. (2019). "Phenylethanoid glycosides from Cistanche tubulosa and their biological activities." Journal of Asian Natural Products Research, 21(3), 256–266.
-  - Chinese Pharmacopoeia (2020). "Cistanche tubulosa (Schenk) Wight." People's Medical Publishing House.
-  - Zheng X-K, Zhang Y, Qu G-X, et al. (2017). "Neuroprotective effects of Cistanche tubulosa extract." Frontiers in Pharmacology, 8, 96.
   - Hooper D, Field D. (2005). "Desert plants and their ethnobotanical uses in Xinjiang." Economic Botany, 59(3), 263–272.
 ---
 

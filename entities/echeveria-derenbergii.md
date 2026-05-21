@@ -11,8 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Poellnitz, K. von (1935). "Echeveria derenbergii sp. nov." Repertorium Specierum Novarum Regni Vegetabilis, 38, 32.
-  - Pilbeam, J. (2008). The genus Echeveria. British Cactus and Succulent Society.
   - Royal Horticultural Society (2023). "Echeveria derenbergii." RHS Plant Finder. https://www.rhs.org.uk/Plants
 ---
 

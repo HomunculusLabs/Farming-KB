@@ -8,7 +8,6 @@ tags:
   - asteraceae
   - culinary
   - medicinal
-- **Digreen-cannabis-grow-bible-species-indica-sativa-ruderalis:** A. dracunculus L.
 ---
 
 **Synonyms:** Artemisia dracunculoides Pursh; A. glauca Pall. ex Willd.

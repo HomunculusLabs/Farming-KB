@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Trichome Guide
 
-[[trichomes]] are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and [[terpenes]]. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
 
 ## What Are Trichomes?
 
@@ -143,8 +143,11 @@ Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flo
 Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
 
 ### Growing Medium
+
+Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
+
+## Post-Harvest Trichome Preservation
 ## See Also
 
-- [[cannabis-terpene-profile]] for what trichomes produce beyond cannabinoids
-- [[cannabis-flavonoids]] for lesser-known compounds also produced in trichomes
-- [[cannabis-lighting-guide]] for how light spectrum affects trichome development
+- [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
+- [[cannabis-glandular-trichome-types-resin-production-clarke]]

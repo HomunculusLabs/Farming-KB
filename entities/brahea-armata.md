@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Felger, R.S., Wilder, M.B., Romero Moráles, H. (2001). "Plants of the Gran Desierto and the Río Colorado of Northwestern Mexico." University of Arizona Press.
-  - IUCN Red List (2023). "Brahea armata." IUCN Red List of Threatened Species.
   - PACSOA (2024). "Brahea armata — Mexican Blue Palm." Pacific Coast Palms Society.
 ---
 

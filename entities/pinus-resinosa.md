@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Farrar, J.L. (1995). "Trees of the Northern United States and Canada." Iowa State University Press.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook 541.
   - Kossuth, S.V. & Michael, J.L. (1990). "Proceedings: Management of Eastern Red Pine." USDA Forest Service General Technical Report SE-68.
 ---
 

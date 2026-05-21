@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - White, A. et al. (1941). "The Succulent Euphorbieae." Abbey Garden Press.
-  - Carter, S. (2002). "Euphorbia." In: Eggli, U. (ed.), Illustrated Handbook of Succulent Plants. Springer.
-  - Bruyns, P.V. (2004). "Euphorbia in Southern Africa." Umdaus Press.
   - Williamson, G. (2004). "Status Survey and Conservation Action Plan: Euphorbia obesa." SANBI.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Räsänen LA. (2004). "Rumex patientia L." In: Jonsell B, Karlsson T (eds). "Flora Nordica 5." The Bergius Foundation, Stockholm.
-  - Holm L, Doll J, Holm E, Pancho JV, Herberger JP. (1997). "World Weeds: Natural Histories and Distribution." John Wiley & Sons.
-  - Duke JA, Ayensu ES. (1985). "Medicinal Plants of China." Reference Publications.
   - Zeghichi S, Kallithraka S, Makris DP, Kefalas P. (2003). "Nutritional profile of selected edible weeds." Journal of Food Science 68(6): 1886–1890.
 ---
 

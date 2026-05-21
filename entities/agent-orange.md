@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - oner-choke-berry-jack-the-ripper-querkle-tga-subcool Seeds breeding documentation and cannabis-african-indian-strain-descriptions-clarke.
-  - Leafly Strain Database. "Agent Orange." https://www.leafly.com/strains/agent-orange
-  - AllBud Strain Reviews. "Agent Orange." https://www.allbud.com/
-  - Mudge, E.M. et al. (2018). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
 ---
 

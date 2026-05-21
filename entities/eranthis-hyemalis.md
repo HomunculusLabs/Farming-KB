@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hiebert, R.D. & Pellett, N.E. (1994). "Eranthis: A Monograph." New Flora Ltd.
-  - RHS (2025). "Eranthis hyemalis — Plant Profile." Royal Horticultural Society.
-  - Tamura, M. (1993). "Ranunculaceae" in Kubitzki, K. (ed.) The Families and Genera of Vascular Plants. Springer.
   - Horovitz, A. (2020). "The Genus Eranthis: Phylogeny and Biogeography." Taxon 69(4).
 ---
 

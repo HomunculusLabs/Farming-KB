@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Zhang, H. et al. (2018). \"Rehmannia glutinosa: An overview of its chemistry, pharmacology, and clinical applications.\" Journal of Ethnopharmacology, 219, 86-101."
-  - "Li, C. et al. (2020). \"Catalpol: A bioactive iridoid glycoside from Rehmannia glutinosa.\" Phytochemistry, 170, 112-125."
-  - "Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press."
-  - "Bensky, D., Clavey, S., & Stöger, E. (2004). Chinese herbal-materia-medica, 3rd ed. Eastland Press."
   - "Kang, K. et al. (2019). \"Anti-diabetic effects of Rehmannia glutinosa in streptozotocin-induced diabetic rats.\" Journal of Medicinal Food, 22(6), 567-576."
 ---
 

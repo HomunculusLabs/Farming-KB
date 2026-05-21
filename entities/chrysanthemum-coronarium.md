@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hu, Q. (2005). "Chrysanthemum coronarium." In: Encyclopedia of Herbs and Spices. CABI Publishing.
-  - Lin, L.Z. et al. (2008). "Chemical composition and nutritional value of edible chrysanthemum." Journal of Agricultural and Food Chemistry, 56(3), 918-924.
-  - Naczk, M. & Shahidi, F. (2006). "Phenolics in cereals, fruits and vegetables." In: Phenolic Compounds in Foods and Natural Health Products. ACS Symposium Series.
   - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press.
 ---
 

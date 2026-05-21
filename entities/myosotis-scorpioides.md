@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Grainger, J. (2008). "Myosotis scorpioides (true forget-me-not) in North America." Biological Invasions, 10(6), 901-909.
-  - Ramey, V. (2001). "Myosotis scorpioides." Nonindigenous Aquatic Species Database, USGS.
   - Sell, P.D. & Murrell, G. (2009). Flora of Great Britain and Ireland, Vol. 3. Cambridge University Press.
 ---
 

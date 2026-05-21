@@ -16,7 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
   - psilocybin-mushrooms-of-the-world-stamets.md
 ---
 

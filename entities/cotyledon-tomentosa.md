@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tölken, H.R. (1977). "A Revision of the Genus Cotyledon." Bothalia 12(1): 27-44.
-  - Van Jaarsveld, E.J. (2001). "Cotyledon." In: Illustrated Handbook of Succulent Plants. Springer.
-  - Smith, G.F. & Van Wyk, B.E. (2002). Succulents of Southern Africa. Fernwood Press.
-  - Royal Botanic Gardens Kew. "Cotyledon tomentosa." Plants of the World Online.
   - Court, D. (2010). Succulent Flora of Southern Africa. CRC Press.
 ---
 

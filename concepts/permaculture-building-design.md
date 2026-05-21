@@ -20,7 +20,7 @@ The interactions of thermal mass (heat storage) and insulation (buffering for te
 
 ## Glazing Strategy
 
-### [[glasshouse-heat-management-cool-climates-mollison]] (Chapter 12)
+### Cool Climates (Chapter 12)
 
 - 30% glazing on sunward walls at latitude 30-35 degrees, up to 100% at latitude 60 degrees
 - No glazing on west walls (a kitchen window to the east is controllable)
@@ -35,7 +35,7 @@ The interactions of thermal mass (heat storage) and insulation (buffering for te
 - Sun-side glasshouse serves as winter heat source, summer ventilation driver, and plant-growing space
 - White-painted exterior walls reflect excessive heat
 
-## [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] Systems
+## Passive Cooling Systems
 
 ### Earth Tunnels
 The ultimate cooling device: minimum 1 m deep and 20 m long, sloping downhill. Large unglazed pots, pans of wet coke, or curtains of coarse fibreglass weave drip-fed inside provide evaporative cooling. Cool humid air falls through the tunnel to house rooms.

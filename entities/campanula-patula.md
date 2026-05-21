@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kovanda, M. (1970). "Contribution to the Taxonomy of Campanula patula." Folia Geobotanica, 5: 353–364.
-  - Stace, C.A. (2019). New Flora of the British Isles. 4th ed. C&M Floristics.
-  - Hegi, G. (1927). Illustrierte Flora von Mitteleuropa. Vol. 6. J.F. Lehmanns Verlag.
   - Preston, C.D. et al. (2002). New Atlas of the British and Irish Flora. Oxford University Press.
 ---
 

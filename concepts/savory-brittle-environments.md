@@ -6,7 +6,6 @@ tags: [brittle-environments, ecology, climate, land-classification, desertificat
 related: [savory-holistic-management-overview, savory-desertification-causes, savory-livestock-grazing-planning]
 type: concept
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

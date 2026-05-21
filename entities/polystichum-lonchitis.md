@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Page, C.N. (1997). "Ferns: Their Habits in the British and Irish Landscape." Collins New Naturalist.
-  - Hultén, E. (1968). "Flora of Alaska and Neighboring Territories." Stanford University Press.
-  - Windham, M.D. & P.G. Davison (2008). "Polystichum." Flora of North America North of Mexico, Vol. 2.
   - World Ferns (2025). "Polystichum lonchitis." World Ferns Database. https://www.worldferns.com
 ---
 

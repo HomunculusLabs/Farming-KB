@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ma, J. et al. (2000). "Long-chain bases from Monascus purpureus." Journal of Natural Products.
-  - Blanc, P.J. et al. (1995). "Production of citrinin by various species of Monascus." Biotechnology Letters.
-  - Li, Y.G. et al. (2004). "Statins in red yeast rice." Journal of Agricultural and Food Chemistry.
-  - Endo, A. (1980). "Monacolin K, a new hypocholesterolemic agent." Journal of Antibiotics.
-  - Hong, M.Y. et al. (2008). "Monascus purpureus-fermented rice products." Food Science and Biotechnology.
 created: 2026-04-28
 ---
 

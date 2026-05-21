@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fujii, M.T. et al. (2006). "Characterization of Laurencia species (Ceramiales, Rhodophyta) from the Brazilian coast." Phycological Research.
-  - Machín-Ibarrola, I. et al. (2019). "Halogenated metabolites from the red alga Laurencia dendroidea." Journal of Natural Products.
-  - Guimarães, S.M.P.B. (2006). "A revised checklist of benthic marine Rhodophyta from the Brazilian coast." Botanica Marina.
   - Kütz ing, F.T. (1849). Species Algarum.
 ---
 

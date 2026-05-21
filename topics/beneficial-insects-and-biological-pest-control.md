@@ -20,9 +20,7 @@ related_concepts:
   - beneficial-insect-habitat
   - beneficial-insects-pollinators
   - parasitic-wasps-biological-pest-control
-  - coleman-beneficial-insects-and-ecological-pest-control
   - gaias-garden-beneficial-insects-gallery
-  - hamilton-beneficial-insects-and-biological-pest-control
   - hemenway-insectary-plants-and-beneficial-insects
   - insectary-plants-guide
   - permaculture-insectary-plants

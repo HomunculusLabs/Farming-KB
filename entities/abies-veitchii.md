@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Rushforth, K.D. (1987). "Conifers." Christopher Helm Publishers.
-  - Katsuki, T. et al. (2013). "Genetic Variation of Abies veitchii and A. mariesii in Central Japan." Journal of Plant Research, 126(1), 123-133.
-  - Hayashi, Y. (1960). "A Monograph of the Genus Abies." Journal of the Faculty of Agriculture, Hokkaido University, 51(1), 187-344.
   - IUCN (2013). "Abies veitchii." The IUCN Red List of Threatened Species.
 ---
 

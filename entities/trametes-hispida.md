@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, C.L. (2004). "European Polyporaceae." Synopsis Fungorum 21.
-  - Bernicchia, A. & Gorjón, S.P. (2011). "Fungi Europaei Vol. 12: Polyporales." Edizioni Candusso.
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
   - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." Fungal Diversity 52: 49–91.
 ---
 

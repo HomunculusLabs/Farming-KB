@@ -9,7 +9,7 @@ sources: []
 
 # Companion Planting Reference
 
-[[companion-planting]] leverages synergistic relationships between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
+Companion planting leverages synergistic relationships between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
 
 ## Classic Combinations
 
@@ -69,7 +69,7 @@ Trap crops attract pests away from your main crop:
 | Beans | Beets | Mutual antagonism, reduced growth |
 | Tomatoes | Corn | Tomato fruitworm = corn earworm; share pest |
 | Tomatoes | Fennel | Fennel is allelopathic to tomatoes |
-| Tomatoes | Potatoes | Same pest complex ([[late-blight]], Colorado potato beetle) |
+| Tomatoes | Potatoes | Same pest complex (late blight, Colorado potato beetle) |
 | Tomatoes | Cabbage | Tomatoes stunt cabbage growth |
 | Cabbage | Strawberries | Mutual antagonism |
 | Cabbage | Tomatoes | Growth inhibition |
@@ -106,7 +106,7 @@ These plants attract pollinators and predatory insects that control pest populat
 
 ## Related Concepts
 
-- hugelkultur guide for mound-based polyculture planting
-- [[composting-methods-comparison]] for [[building-soil]] fertility to support companion systems
+- [[hugelkultur-guide]] for mound-based polyculture planting
+- [[composting-methods-comparison]] for building soil fertility to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting

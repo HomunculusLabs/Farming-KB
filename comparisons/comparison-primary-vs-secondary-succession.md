@@ -4,16 +4,11 @@ tags: [ecology, succession, disturbance, restoration, pioneer-species]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Connell, J.H. & Slatyer, R.O. (1977). "Mechanisms of Succession in Natural
     Communities and Their Role in Community Stability and Organization."
     *The American Naturalist*, 111(982), 1119-1144.
-  - Glenn-Lewin, D.C., Peet, R.K., & Veblen, T.T. (1992). *Plant Succession:
     Theory and Prediction*. Chapman & Hall.
-  - Walker, L.R. & del Moral, R. (2003). *Primary Succession and Ecosystem
     Rehabilitation*. Cambridge University Press.
-  - Odum, E.P. (1969). "The Strategy of Ecosystem Development." *Science*,
     164(3877), 262-270.
-  - Chapin, F.S. III et al. (1994). "Mechanisms of Primary Succession Following
     Deglaciation at Glacier Bay, Alaska." *Ecological Monographs*, 64(2),
     149-175.
 created: 2026-05-07

@@ -6,7 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ['raw/papers/working-with-agar.md']
   - https://www.fao.org/3/x5738e/x5738e07.htm
-  - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
 type: query
 ---
 

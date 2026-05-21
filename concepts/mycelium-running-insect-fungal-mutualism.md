@@ -5,8 +5,6 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, entomology, mutualism, symbiosis, ecology]
 sources:
-  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
-  - Mueller, U.G. et al. (2005). Annual Review of Ecology
     Evolution and Systematics.
 ---
 ## Insect-Fungal Mutualism

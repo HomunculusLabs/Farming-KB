@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Norman C (2000). "Buddleja." Royal Horticultural Society Plant Monograph.
-  - Tallent-Halsell NG, Watt MS (2009). "The invasive Buddleja davidii (butterfly bush)." Botanical Review.
-  - Anisko T, Imbert LM (2001). "Buddleja: horticultural and ecological characteristics." Combined Proceedings International Plant Propagators' Society.
   - Williams DG et al. (2000). "Buddleja davidii: a review of its biology, ecology, and distribution." Weed Research.
 ---
 

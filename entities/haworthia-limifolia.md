@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Bayer, M.B. (1982). "The New Haworthia Handbook." National Botanic Gardens of South Africa.
-  - Breuer, I. (2010). "The Genus Haworthia: A Taxonomic Revision." Alsterworthia International.
-  - Eggli, U. (2001). "Illustrated Handbook of Succulent Plants: Monocotyledons." Springer.
-  - Pilbeam, J. (1983). "Haworthia and Astroloba: A Collector's Guide." B.T. Batsford.
   - Scott, C.L. (1985). "The Genus Haworthia (Liliaceae): A Taxonomic Revision." A.A. Balkema.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tölken H (1978). "New species and new combinations in Crassulaceae." Journal of South African Botany 44: 79-98.
-  - Van Jaarsveld EJ (2003). "Adromischus: A review of the genus." Aloe 40(2): 38-45.
-  - Pilbeam J (2014). "The genus Adromischus." British Cactus and Succulent Journal 32(1): 15-28.
   - Smith GF et al. (2017). "Conservation status of the succulent flora of southern Africa." Bradleya 35: 178-196.
 ---
 

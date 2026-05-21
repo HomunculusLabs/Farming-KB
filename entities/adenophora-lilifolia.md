@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov AA, Kovanda M (1976). "Adenophora." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Tutin TG et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Hong DY (2015). "Phylogeny and biogeography of Campanulaceae." Taxon 64(5): 985-1002.
 ---
 

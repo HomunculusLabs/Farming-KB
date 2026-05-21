@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Toelken, H.R. (1977). "A Revision of the Genus Crassula in Southern Africa." Contributions from the Bolus Herbarium, 8: 1-595.
-  - Pilbeam, J. (2011). Crassula: A Grower's Guide. British Cactus and Succulent Society.
-  - Smith, G.F. et al. (2017). " succulent flora of southern Africa." South African Journal of Botany, 109: 1-12.
   - Fröderström, H. (1920). "The genus Crassula and its species." Acta Horti Bergiani, 5(5): 1-162.
 ---
 

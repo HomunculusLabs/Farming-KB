@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Benor, S. et al. (2021). "Corchorus olitorius: dighton-fungal-nutritional-composition-animal-diets, query-what-are-the-main-bioactive-compounds-in-medicinal-plants and health benefits." Food Chemistry, 345, 128764.
-  - Mshelbwala, F.A. et al. (2014). "Phytochemical and antimicrobial screening of Corchorus olitorius leaves." International Journal of Biochemistry Research & Review, 4(5), 448-455.
-  - Roy, A. et al. (2020). "Jute (Corchorus olitorius): A potential crop for food and industry." In: Underutilized Crops, Springer.
   - PROTA (Plant Resources of Tropical Africa). "Corchorus olitorius L." Record 7625.
 ---
 

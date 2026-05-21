@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nguyen, V.D. (1993). "Medicinal Plants of Vietnam." World Health Organization.
-  - Rätsch, C. (2004). "The Encyclopedia of Psychoactive Plants." Park Street Press.
-  - Ong, H.C. & Norzalina, J. (2000). "Malaysian aquatic plants." Economic Botany, 54(1), 92–98.
   - Siwon, S. et al. (2022). "Volatile composition and biological activities of Limnophila aromatica." Molecules, 27(15), 4876.
 ---
 

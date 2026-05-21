@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/permaculture-beginners-guide.md"
 related_concepts:
   - forest-gardening-and-food-forests

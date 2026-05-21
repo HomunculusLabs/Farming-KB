@@ -6,7 +6,6 @@ tags: [shamanism, ritual, indigenous-knowledge, entheogens, visionary-experience
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 --- Shamanic Wisdom and Ritual Practice
 

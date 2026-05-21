@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Berg, C.C. (1988). "The genus Ficus (Moraceae) in Africa." Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen, 91(4), 427-473.
-  - Corner, E.J.H. (1965). "Checklist of Ficus in Asia and Australasia." Gardens' Bulletin Singapore, 21, 1-372.
-  - IUCN Red List. "Ficus lyrata." International Union for Conservation of Nature.
-  - Kew Royal Botanic Gardens. "Ficus lyrata." Plants of the World Online.
   - Wiens, D. (1978). "Mode of pollination and ecological relationships of African figs." Biotropica, 10(3), 169-176.
 ---
 

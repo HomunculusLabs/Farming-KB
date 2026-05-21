@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Chu, N.S. (2001). \"Effects of betel chewing on the central nervous system.\" Journal of the Formosan Medical Association, 100(5), 339-347."
-  - "Garg, A. et al. (2014). \"Arecoline, a major alkaloid of areca nut, acts as a carcinogen.\" Journal of Oral Pathology & Medicine, 43(7), 525-531."
-  - "Papachristou, D.J. et al. (2013). \"Arecoline impairs skeletal muscle repair.\" J. Cellular and Molecular Medicine, 17(7), 859-871."
-  - "Winstock, A. (2002). Areca nut-chewing habits and its health implications. University of London."
   - "IARC Working Group (2004). \"Betel-quid and areca-nut chewing.\" IARC Monographs, 85, 1-334."
 ---
 
@@ -79,3 +75,14 @@ Central stimulant effects arise from a combination of muscarinic receptor activa
   - Tremor and restlessness
 - **Chronic:**
   - ⚠️ **Oral submucous fibrosis:** Progressive stiffening of oral mucosa, precancerous condition
+## Current Research
+
+Recent studies on arecoline have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with arecoline should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

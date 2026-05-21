@@ -14,13 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Coleman, D.C., Crossley, D.A. & Hendrix, P.F. (2004). Fundamentals of Soil Ecology, 2nd ed. Academic Press.
-  - Wallwork, J.A. (1976). The Distribution and Diversity of Soil Fauna. Academic Press.
-  - Brussaard, L. et al. (1997). "Biodiversity and ecosystem functioning in soil." Ambio, 26(8), 563–570.
-  - Lavelle, P. & Spain, A.V. (2001). Soil Ecology. Kluwer Academic Publishers.
-  - Petersen, H. & Luxton, M. (1982). "A comparative analysis of soil fauna populations in Danish beech woods." Oikos, 39(1), 1–27.
-  - Yeates, G.W. et al. (1993). "Feeding habits in soil nematode families and genera." Nematologica, 39(1), 1–51.
   - Moore, J.C. & de Ruiter, P.C. (2012). Energetic Food Webs. Oxford University Press.
 ---
 

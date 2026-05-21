@@ -12,9 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland, Vol. 3. Verlag Mykologia."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
-  - "Kibby, G. (2011). Boletes. A Keys to the British Species. G. Kibby."
   - "Nespiak, A. (1975). The Genus Boletus. Państwowe Wydawnictwo Naukowe."
 ---
 

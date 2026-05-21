@@ -8,7 +8,6 @@ tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 related_concepts:
   - solomon-complete-organic-fertilizer-cof-recipe
   - solomon-complete-organic-fertilizer-guide
@@ -16,14 +15,12 @@ related_concepts:
   - solomon-soil-mineral-depletion
   - solomon-gardening-pest-philosophy-and-resilience
   - solomon-intensive-vs-extensive-spacing
-  - solomon-wide-spacing-versus-intensive-gardening-debate
   - solomon-self-sufficiency-garden-production
   - solomon-garden-ley-rotation-soil-restoration
   - solomon-composting-methods
   - solomon-liquid-fertilizers-and-foliar-feeding
   - solomon-root-systems-and-spacing-science
   - solomon-crop-rotation-and-garden-planning
-  - solomon-vegetable-nutritional-decline-trace-minerals
   - solomon-double-digging
   - solomon-irrigation-water-scarce
   - solomon-gardening-aikido-pest-philosophy-ecological-management

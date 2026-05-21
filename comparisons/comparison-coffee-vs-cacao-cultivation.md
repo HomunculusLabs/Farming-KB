@@ -18,11 +18,8 @@ sources:
     url: "https://www.fao.org/ecocrop/CdData_EN.asp?ID=928"
   - title: "FAO — Theobroma cacao Ecocrop Fact Sheet"
     url: "https://www.fao.org/ecocrop/CdData_EN.asp?ID=1433"
-  - title: "World Agroforestry Centre — Coffee Agroforestry"
     url: "https://www.worldagroforestry.org/knowledge/tree/caf%C3%A9/coffee"
-  - title: "Royal Botanic Gardens Kew — Theobroma cacao"
     url: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:595240-1"
-  - title: "Specialty Coffee Association — Arabica & Robusta"
     url: "https://sca.coffee/research/standards"
 ---
 

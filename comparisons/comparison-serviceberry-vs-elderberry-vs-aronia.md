@@ -6,10 +6,6 @@ type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Stang, E. & Weis, G. (2017). Growing and Marketing Aronia Berries. UW-Extension."
-  - "Cornell University Cooperative Extension. Elderberry Production Guide, 2020."
-  - "Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing."
-  - "USDA NRCS PLANTS Database. Amelanchier, Sambucus, Aronia fact sheets."
   - "Toensmeier, E. (2016). perennial-vegetables. Chelsea Green Publishing."
 ---
 

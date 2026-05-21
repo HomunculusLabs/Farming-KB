@@ -7,7 +7,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - "Fungal Conservation" issues on old-growth forest protection
 ---# Agarikon (Laricifomes officinalis)
 

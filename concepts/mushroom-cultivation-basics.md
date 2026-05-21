@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Cultivation Basics
 created: 2026-04-11
 updated: 2026-04-13
@@ -138,12 +139,15 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - Cover with plastic/cardboard during colonization
 - Uncover in fall, water twice weekly
 - Perennial — expands 5x annually from established beds
+
+## Fruiting Conditions
+
+### Universal Initiation Triggers
+- **Temperature drop** (species-specific, typically 5-10°F below incubation)
+- **High humidity** (95%)
+- **Increased fresh air exchange** (lower CO2)
+- **Light introduction** (indirect ambient light, not direct sun)
 ## See Also
 
-- [[mycorrhizal-fungi]] — symbiotic plant-fungal relationships
-- [[soil-food-web-nutrient-cycling]] — fungi in the soil ecosystem
-- [[regenerative-agriculture-history]] — mycoforestry, mycoremediation
-- [[vermicomposting]] — spent substrate as worm food
-- [[inoculation-methods]] — spore, spawn, and stem butt techniques (from Mycelium Running Ch.9)
-- [[straw-cultivation-methods]] — pasteurization and low-tech straw growing (from Mycelium Running Ch.10)
-## Related
+- [[enclosed-ecosystem-mushroom-cultivation]]
+- [[community-garden-mushroom-integration]]

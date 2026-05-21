@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hunziker, A.T. (2001). "Genera Solanacearum: The Genera of Solanaceae Illustrated." ARG Gantner Verlag.
-  - Grau, J. & Gronbach, J. (1984). "A revision of the genus Salpiglossis." Botanische Jahrbücher für Systematik 105: 1-52.
-  - Miyazaki, S. et al. (2014). "Petal anthocyanin composition in Salpiglossis sinuata cultivars." Scientia Horticulturae 179: 314-320.
   - PROTA (Plant Resources of Tropical Africa) Foundation (2022). "Salpiglossis sinuata Ruíz & Pav."
 ---
 

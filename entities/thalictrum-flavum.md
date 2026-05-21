@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1993). "Thalictrum." In: Tutin, T.G. et al. (eds.), Flora Europaea. Cambridge University Press.
-  - Bozhilova, E. & Peev, D. (2001). "Ranunculaceae of the Balkans." Phytologia Balcanica 7(2): 145–158.
   - Leighton-Boyce, K. (2007). "Thalictrum in Cultivation." The Plantsman 6(3): 158–163.
 ---
 

@@ -18,10 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leboeuf, M. et al. (1982). \"Alkaloids of Pausinystalia yohimbe.\" Planta Medica 44(3): 134-138."
-  - "Tam, S.W. et al. (2001). \"Yohimbine: a clinical review.\" Pharmacology & Therapeutics 91(3): 215-243."
-  - "Hutchings, A. (1996). Zulu Medicinal Plants. University of Natal Press."
-  - "IUCN (2019). Pausinystalia johimbe. The IUCN Red List of Threatened Species."
   - "Fraser, M.S. (1887). \"Note on Yohimbe.\" Lancet 130(3342): 632."
 ---
 

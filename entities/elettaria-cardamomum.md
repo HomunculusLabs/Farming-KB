@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Ravindran, P.N. & Madhusoodanan, K.J. (2002). Cardamom: The Genus Elettaria. CRC Press."
-  - "Krishnamurthy, M.N. et al. (2018). \"Cardamom (Elettaria cardamomum) — A review on its phytochemistry and pharmacology.\" Pharmacognosy Reviews, 12(23), 74-80."
-  - "Sasidharan, I. & Menon, A.N. (2010). \"Chemical composition of permaculture-designers-manual-essential-oil-plants of Elettaria cardamomum.\" Journal of Spices and Aromatic Crops, 19(1), 31-35."
   - "Gilani, A.H. et al. (2005). \"Species specific effect of cardamom on gastrointestinal motility.\" Phytotherapy Research, 19(5), 439-443."
 ---
 

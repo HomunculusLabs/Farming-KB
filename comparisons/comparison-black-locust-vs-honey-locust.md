@@ -5,7 +5,6 @@ tags: [comparison, nitrogen-fixing-trees, permaculture, species, agroforestry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 

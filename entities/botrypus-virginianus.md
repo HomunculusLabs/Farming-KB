@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Vol. 2
   - Wagner & Wagner 1993, Ophioglossaceae
   - USDA PLANTS Database
 ---

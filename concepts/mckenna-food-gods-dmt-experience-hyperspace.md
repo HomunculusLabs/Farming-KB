@@ -5,7 +5,6 @@ tags: [food-of-the-gods, dmt, hyperspace, tryptamine, machine-elves, consciousne
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T. Food of the Gods, Chapter 15: Anticipating the mckenna-archaic-paradise-techniques-ecstasy
 type: concept
 ---
 

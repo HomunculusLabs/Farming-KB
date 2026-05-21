@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H.A. (1984). "Sphagnaceae huckleberries-and-wild-berries-of-north-america." University of Michigan Herbarium.
-  - McQueen, C.B. & Andrus, R.W. (2007). "Sphagnum." In: Flora of North America North of Mexico, Vol. 27.
-  - Rydin, H. & Jeglum, J.K. (2006). "The Biology of Peatlands." Oxford University Press.
   - Gignac, L.D. (1992). "Niche structure, ph-and-nutrient-availability-garden-soils and can persist in oligotrophic environments.
 ---
 

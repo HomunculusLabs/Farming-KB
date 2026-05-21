@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rao, B.R.R. et al. (2005). "Chemical composition of the permaculture-designers-manual-essential-oil-plants of Cymbopogon winterianus." Journal of permaculture-designers-manual-essential-oil-plants Research, 17(4), 397–399.
-  - Gsell, W. (1971). "Cymbopogon winterianus Jowitt, its botany, chemistry, and utilisation." Tropical Science, 13(2), 141–154.
-  - Jain, S.C. et al. (2005). "Antimicrobial activity of Cymbopogon winterianus essential oil." Fitoterapia, 76(3–4), 391–393.
   - Mahalwal, M.S. & Ali, M. (2003). "Volatile oil composition of Cymbopogon winterianus." Journal of Essential Oil-Bearing Plants, 6(2), 147–150.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
-  - USDA NRCS (2024). "Oxydendrum arboreum (L.) DC. — Sourwood." PLANTS Database.
-  - Cappiello, P., Shadow, D.E. (2005). "Dogwoods, Cornus, and Their Relatives." Timber Press.
   - Ayers, G.S. (2015). "psilocybin-north-america-pacific-northwest." A.I. Root Co.
 ---
 

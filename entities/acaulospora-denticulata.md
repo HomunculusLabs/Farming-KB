@@ -75,6 +75,6 @@ Population studies of Acaulospora Denticulata reveal complex dynamics influenced
 ## See Also
 
 - [[scutellospora-calospora]] — another AMF with distinct CO2 response
-- [[glomalin-and-soil-carbon]] — glycoprotein produced by AMF important for soil structure
+- [[glomalin]] — glycoprotein produced by AMF important for soil structure
 - [[pisolithus-tinctorius]] — ectomycorrhizal fungus with climate change relevance
 - [[cenococcum-geophilum]] — ectomycorrhizal fungus studied under elevated CO2

@@ -4,11 +4,6 @@ tags: conservation, rewilding, ecosystem-restoration, protected-areas, biodivers
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Soulé, M.E. & Noss, R.F. (1998). "Rewilding and Biodiversity: Complementary Goals for Continental Conservation." Wild Earth, 8(3), 18-28.
-  - Perino, A. et al. (2019). "Rewilding Complex Ecosystems." Science, 354(6308), eaav5570.
-  - Jepson, P. (2016). "A Re-wilding Agenda for Europe: Creating a Network of Experimental Reserves." Ecography, 39(1), 117-126.
-  - Lorimer, J. et al. (2015). "Rewilding: Science, Practice, and Politics." Annual Review of Environment and Resources, 40, 39-62.
-  - Svenning, J.C. et al. (2016). "Science for a Wilder Anthropocene: Synthesis and Future Directions for Trophic Rewilding Research." Proceedings of the National Academy of Sciences, 113(4), 898-906.
 type: comparison
 created: 2026-04-28
 ---

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Campbell, J.A. & Lamar, W.W. (2004). The Venomous Reptiles of the Western Hemisphere. Cornell University Press.
-  - Mackessy, S.P. (2009). "Handbook of Venoms and Toxins of Reptiles." CRC Press.
   - Ernst, C.H. & Ernst, E.M. (2003). Snakes of the guzman-psilocybin-mushrooms-north-america. It ranges from central Arkansas and southeastern California through much of the southwestern psychoactive-cacti-of-central-mexico.
 ---
 

@@ -15,8 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kubota, T., et al. (1982). "Isolation and structures of ganoderic acid A and B, new bitter triterpenoids from ganoderma-lucidum." Helvetica Chimica Acta, 65(3), 611-619.
-  - Zhou, L., et al. (2018). "Ganoderic acids: a comprehensive review of their mechanisms of action and pharmacological properties." Phytochemistry, 155, 1-15.
   - Boh, B. (2013). "Ganoderma lucidum: a potential reishi-triterpenoids-pharmacology
 ---
 

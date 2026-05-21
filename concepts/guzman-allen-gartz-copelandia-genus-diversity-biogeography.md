@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzman G, Allen JW, Gartz J (2000) A worldwide psilocybe-geographical-distribution-patterns
     of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
 type: concept

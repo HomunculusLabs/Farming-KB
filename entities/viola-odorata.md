@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chevallier, A. (2016). "Encyclopedia of childrens-herbal-medicine." 3rd ed. DK.
-  - Bown, D. (2001). "Encyclopedia of Herbs and Their Uses." DK Publishing.
-  - Gruenwald, J., et al. (2004). "PDR for Herbal Medicines." 3rd ed. Thomson Healthcare.
-  - Creasy, R. (1999). "The Edible Flower Garden." Periplus Editions.
 created: 2026-04-28
 ---
 

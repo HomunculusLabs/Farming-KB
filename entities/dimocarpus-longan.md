@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jiang, Y.M. et al. (2002). "Postharvest biology and technology of longan fruit." Food Reviews International, 18(2-3), 151-176.
-  - Wall, M.M. (2006). "Ascorbic acid, vitamin A, and mineral composition of banana (Musa sp.) and papaya (Carica papaya) cultivars grown in Hawaii." Journal of Food Composition and Analysis, 19(5), 434-445.
-  - Yang, B. et al. (2006). "Anti-inflammatory and immunomodulatory activities of polysaccharides from longan." Journal of Agricultural and Food Chemistry, 54(12), 4294-4299.
-  - Chen, J. & Li, C.Y. (2004). "chemical-composition-of-hallucinogens longan (Dimocarpus longan Lour.) seed." Journal of Food Lipids, 11(2), 161-170.
   - Zheng, G. et al. (2021). "A review of the phytochemistry and pharmacology of Dimocarpus longan." Frontiers in Pharmacology, 12, 689520.---
 ---
 

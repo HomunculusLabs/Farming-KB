@@ -5,7 +5,6 @@ tags: [food-of-the-gods, cannabis, hashish, scythians, india, partnership-societ
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T. Food of the Gods, Chapter 10: The Ballad of the Dreaming Weavers
 type: concept
 ---
 

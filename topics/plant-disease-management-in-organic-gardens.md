@@ -8,19 +8,11 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - concepts/bacterial-plant-diseases.md
   - concepts/fungal-plant-diseases.md
-  - concepts/bloomfield-potato-blight-phytophthora-infestans.md
-  - concepts/bloomfield-coffee-rust-and-crop-pathogens.md
-  - concepts/cervantes-powdery-mildew-prevention-treatment.md
   - concepts/cervantes-downy-mildew-fungal-blight.md
-  - concepts/cervantes-fusarium-vascular-wilt-diseases.md
-  - concepts/cervantes-foliar-spots-blight-fungal-leaf-diseases.md
   - concepts/cervantes-verticillium-wilt-sooty-mold.md
   - concepts/jadam-fungal-disease-management.md
   - concepts/jadam-pesticide-for-fungal-diseases.md
   - concepts/jadam-pesticide-for-powdery-mildew.md
-  - concepts/foliar-epiphytic-fungi-sooty-mildews-powdery-mildews.md
-  - concepts/downy-mildew-biology-diversity-peronosporales.md
-  - concepts/biodiversity-rust-fungi-urediniomycetes.md
 related_concepts:
   - bacterial-plant-diseases
   - fungal-plant-diseases

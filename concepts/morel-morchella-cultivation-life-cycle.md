@@ -4,7 +4,6 @@ tags: [morchella, morel, mushroom-cultivation, sclerotia, morel-life-cycle, indo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993)
 type: concept
 created: 2026-04-28
 ---

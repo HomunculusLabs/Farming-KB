@@ -3,7 +3,7 @@ title: Radiant Floor Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, homesteading, off-grid, design, engineering]
+tags: [energy, construction, homesteading, off-grid, design, engineering]
 sources: []
 ---
 
@@ -19,7 +19,7 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 - No drafts or fan noise
 - No dust circulation (better air quality)
 - Comfort at lower air temperatures (you feel warm even if air is cooler)
-- Compatibility with passive-solar-design|passive solar thermal mass floors
+- Compatibility with [[passive-solar-design|passive solar]] thermal mass floors
 
 ## Types of Radiant Floor Heating
 
@@ -27,7 +27,7 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 
 Circulates heated water through PEX tubing embedded in the floor.
 
-**blue-light-[[phototropism]]-red-light-[[photoperiodism]]-dual-plant-vision-system Components:**
+**System Components:**
 - Heat source: boiler, tankless water heater, wood boiler, or solar thermal
 - PEX tubing: Cross-linked polyethylene, embedded in floor (typically 1/2 inch)
 - Manifold: Distributes water to multiple zones
@@ -61,7 +61,7 @@ Circulates heated water through PEX tubing embedded in the floor.
 - **Electric boiler**: Simple, no venting needed, higher operating cost
 - **Tankless water heater**: Dual-purpose (domestic hot water + heating)
 - **Wood gasification boiler**: Off-grid capable, uses firewood
-- masonry-heater-design|Masonry heater with water coil: Heats water as a byproduct
+- [[masonry-heater-design|Masonry heater]] with water coil: Heats water as a byproduct
 - **Solar thermal**: Pre-heats water, reduces boiler load
 
 ### Electric Radiant — Best for Small Areas
@@ -121,7 +121,7 @@ For off-grid homesteads, radiant heating works well with:
 
 - **Solar thermal panels**: Pre-heat water for the radiant system
 - **Wood boiler**: Heat water with firewood, store in a large buffer tank
-- **masonry-heater-design|Masonry heater**: Some designs include a water jacket for radiant heating
+- **[[masonry-heater-design|Masonry heater]]**: Some designs include a water jacket for radiant heating
 - **Battery system**: Electric radiant requires significant battery capacity (calculate carefully)
 
 ## Installation Cost Estimates
@@ -144,7 +144,7 @@ For off-grid homesteads, radiant heating works well with:
 
 ## See Also
 
-## See Also
-- [[hamilton-greenhouse-heating-and-temperature-control]]
-- [[rocket-stove-design]]
-- [[mollison-designers-solar-water-heating-systems]]
+- [[passive-solar-design]]
+- [[masonry-heater-design]]
+- [[tiny-house-on-wheels]]
+- [[homestead-winter-preparations]]

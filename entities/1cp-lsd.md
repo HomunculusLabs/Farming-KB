@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Brandt, S.D. et al. (2019). \"Return of the lysergamides. Part IV: 1cP-LSD.\" psychedelic-drug-testing-and-adulterant-screening and Analysis, 11(11), 1627-1632."
-  - "Griffiths, R.R. et al. (2016). \"Psilocybin can occasion mystical-type experiences.\" J. Psychopharmacology, 30(12), 1181-1197."
-  - "EMCDDA. (2024). \"1cP-LSD — New psychoactive substance profile.\" European Monitoring Centre for Drugs and Drug Addiction."
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264-355."
 ---
 

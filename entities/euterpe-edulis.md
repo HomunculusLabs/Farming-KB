@@ -11,10 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson A., Galeano G., Bernal R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - IUCN Red List (2023). "Euterpe edulis."
-  - Reis M.S. et al. (2000). "Management and Conservation of Euterpe edulis." Forest ly known as jussara or açaí-do-Brasil, is a slender
 monoecious palm query-how-do-i-identify-the-most-common-edible-wild-mushrooms
 economically important native palms in Brazil, harvested extensively for its
 edible palm heart.
@@ -79,3 +76,5 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Further research may reveal additional applications and ecological relationships.
 
 Understanding this topic in its broader ecological context enhances practical application.
+Further research into euterpe edulis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind euterpe edulis provides a foundation for both practical application and continued scientific inquiry.

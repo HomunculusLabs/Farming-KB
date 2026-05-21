@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Chiej, R. (1984). The Macdonald Encyclopedia of Medicinal Plants. Macdonald & Co.
-  - Selvi, F., Bigazzi, M. (2003). "Revision of the Anchusa undulata group (Boraginaceae) in Italy." Plant Biosystems, 137(1), 3-20.
-  - USDA NRCS Plants Database. "Anchusa azurea." https://plants.usda.gov
-  - RHS Plant Finder. "Anchusa azurea." Royal Horticultural Society.
   - Toth, A., et al. (2017). "Pyrolizidine alkaloids in Anchusa species." Phytochemistry, 133, 45-53.
 ---
 

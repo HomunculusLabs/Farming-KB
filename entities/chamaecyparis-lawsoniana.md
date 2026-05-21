@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Kliejunas, J.T. et al. (2007). "Phytophthora ramorum: a pathogen of concern in growing-gourmet-north-american-reishi-species forests." USDA Forest Service.
   - Hansen, E.M. et al. (2000). "Port-Orford-cedar ingham-root-disease-treatment in neurotropic-fungi-japan-east-asia-species-cultural-context and North America.
 ---
 

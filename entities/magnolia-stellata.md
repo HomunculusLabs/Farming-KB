@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
-  - Treseder, N.G. (1978). "Magnolias." Faber and Faber.
-  - Royal Horticultural Society. "Magnolia stellata." RHS Plant Finder.
-  - Ueda, K. (1986). "A Systematic Study of the Genus Magnolia." Journal of the Faculty of Science, University of Tokyo.
   - Brickell, C. (2019). "RHS Encyclopedia of Plants and Flowers." Dorling Kindersley.
 ---
 

@@ -64,18 +64,18 @@ Creating value-added cannabis products including concentrates, edibles, topicals
 
 **Key Considerations:**
 - Equipment costs (extraction machines, commercial kitchens)
-- [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]] safety compliance for edible products
+- Food safety compliance for edible products
 - Dose consistency and testing requirements
 - Product development and formulation expertise
 - Packaging and labeling compliance
 
 ### Ancillary Businesses
 
-Businesses that support the cannabis industry without directly handling the [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:
+Businesses that support the cannabis industry without directly handling the plant:
 
 - **Consulting:** Compliance, cultivation, business strategy
 - **Technology:** POS systems, seed-to-sale tracking, compliance software
-- **Packaging:** Child-resistant packaging, branding, [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
+- **Packaging:** Child-resistant packaging, branding, design
 - **Security:** Installation, monitoring, guard services
 - **Legal:** Specialized cannabis law firms
 - **Testing laboratories:** [[cannabis-testing-and-quality|Analytical testing services]]
@@ -144,6 +144,10 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 - Restrictions near schools, churches, and playgrounds
 - Social media platforms often prohibit cannabis content
 
-## See Also
-- [[cannabis-metabolic-syndrome-research]]
 ## Startup Costs
+
+| Business Type | Typical Total |
+|---------------|---------------|
+## See Also
+
+- [[cannabis-for-mental-health]]

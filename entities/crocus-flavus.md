@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Mathew, B. (1982). "The Crocus: A Revision of the Genus Crocus." B.T. Batsford, London.
-  - Kerndorff, H. & H. Pasche (1994). "Crocus flavus and its allies." The Plantsman 15(4): 202–214.
-  - Royal Horticultural Society. "Crocus flavus Weston." RHS Horticultural Database.
   - Kew Plants of the World Online. "Crocus flavus Weston." https://powo.science.kew.org
 ---
 

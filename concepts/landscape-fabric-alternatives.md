@@ -31,7 +31,7 @@ Advantages:
 - Blocks light effectively, killing existing weeds
 - Allows water penetration when saturated
 - Free and widely available (appliance boxes, moving boxes)
-- [[earthworms]] love the glue layer — they congregate beneath cardboard
+- Earthworms love the glue layer — they congregate beneath cardboard
 
 How to use:
 1. Remove tape, staples, and labels from cardboard
@@ -76,7 +76,7 @@ Advantages:
 - Breaks down into rich humus over 2-4 years
 - Provides habitat for beneficial fungi and insects
 - Suppresses weeds effectively at 4-6 inch depth
-- Moderates [[soil-temperature]] and moisture
+- Moderates soil temperature and moisture
 - Contains a mix of wood, bark, and leaves for diverse nutrient release
 
 How to use:
@@ -145,6 +145,8 @@ How to use:
 | Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
 
 ## See Also
-- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
-- [[water-retention-landscape-design-principles-construction]]
-- [[tryptamine-hypercontinuum-and-invisible-landscape]]
+
+- [[no-till-gardening-method]]
+- [[sheet-mulching]]
+- [[cover-crop-guide-detailed]]
+- [[hugelkultur-bed-construction-detailed]]

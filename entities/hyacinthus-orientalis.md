@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kamenetsky, R. (2008). "Flower Biology of *Hyacinthus orientalis* L." Floriculture and Ornamental Biotechnology 2(1): 1–8.
-  - Le Nard, M. & de Hertogh, A.A. (1993). "The Physiology of Flower Bulbs." Elsevier Science.
-  - Christenhusz, M.J.M. et al. (2013). "Hyacinthus." In: World Checklist of Selected Plant Families. Royal Botanic Gardens, Kew.
   - Pridgeon, A.M. et al. (2016). "Hyacinthaceae." In: The Genera of Liliaceae. Royal Botanic Gardens, Kew.
 ---
 

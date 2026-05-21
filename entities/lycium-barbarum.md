@@ -19,10 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Potterat, O. (2010). "Goji (Lycium barbarum and L. chinense)." Fitoterapia 81(5): 310-322.
-  - Amagase, H. & Farnsworth, N.R. (2011). "A review of botanical characteristics, phytochemistry,
     clinical relevance, and benefits of wolfberry." Journal of Berry Research 1(1): 45-55.
-  - Gross, J. et al. (2006). "Lycium barbarum (goji) juice." Journal of Alternative and Complementary
     Medicine 12(10): 963-972.
   - https://pfaf.org/user/Plant.aspx?LatinName=Lycium+barbarum
 ---

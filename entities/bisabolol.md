@@ -12,9 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cavalieri, E. & Rizzi, C. (2009). "The Chamomile." In: Handbook of Medicinal Plants. Haworth Press.
-  - Seki, T., et al. (2010). "Anti-inflammatory Activity of α-Bisabolol." Inflammation, 33(5), 353-357.
-  - Rocha, D.R., et al. (2011). "Chemistry and Biological Activities of Terpenes." Brazilian Journal of Pharmacognosy, 21(2), 364-368.
   - https://pubchem.ncbi.nlm.nih.gov/compound/alpha-Bisabolol
 ---
 

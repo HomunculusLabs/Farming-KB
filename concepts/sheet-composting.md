@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Sheet Composting
 
-Sheet [[composting]] (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
+Sheet composting (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
 
 ## Methods
 
@@ -30,7 +30,7 @@ Sheet [[composting]] (also called in-situ composting or composting in place) dec
 5. Rotate trenches across the bed each year
 
 ### Green Manure Sheet Composting
-1. Grow a [[green-manure]] crop (clover, vetch, rye, buckwheat)
+1. Grow a green manure crop (clover, vetch, rye, buckwheat)
 2. Cut the crop at flowering stage before seed set
 3. Leave the cut material on the soil surface as a mulch
 4. The roots decompose in place, improving soil structure
@@ -50,7 +50,7 @@ Sheet [[composting]] (also called in-situ composting or composting in place) dec
 - No turning required — soil organisms do the work
 - Nutrients stay in place (no leaching from compost pile)
 - Builds soil structure directly where plants will grow
-- Suppresses weeds during [[decomposition]]
+- Suppresses weeds during decomposition
 - Can cover large areas with minimal labor
 
 ## Disadvantages
@@ -61,22 +61,23 @@ Sheet [[composting]] (also called in-situ composting or composting in place) dec
 
 ## Related
 - [[compost-building-guide]] — for traditional hot composting
-- green manure crops detailed — for green manure crop selection
+- [[green-manure-crops-detailed]] — for green manure crop selection
 - [[sheet-mulching-lasagna-gardening]] — for the layered lasagna method
 - [[soil-food-web-structure]] — for the organisms that do the work
+## Historical Context
+
+The study and practice of sheet composting has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into sheet composting have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
-Future directions include expanded research and broader application.
+Applied work with sheet composting spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

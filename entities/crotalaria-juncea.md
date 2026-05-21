@@ -20,10 +20,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cook, B.G. et al. (2005). "Tropical Forages: An Interactive Selection Tool." CSIRO/CIAT/ILRI.
-  - Rotar, P.P. & Joy, R.J. (1983). "Sunhemp: Crotalaria juncea L." University of Hawaii Extension Bulletin.
-  - Ghosh, P.K. et al. (2007). "Evaluation of Crotalaria juncea for Green Manuring." Bioresour. Technol., 98(8), 1668–1674.
-  - Mosjidis, J.A. (2001). "Registration of 'Tropic Sun' Sunn Hemp." Crop Sci., 41(5), 1622.
 aliases:
   - Sunn Hemp
   - Sun Hemp

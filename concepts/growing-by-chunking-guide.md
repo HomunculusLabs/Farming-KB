@@ -5,7 +5,6 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 ## Growing by Chunking: Implementing Permaculture Gradually

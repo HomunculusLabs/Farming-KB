@@ -10,10 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds,
     and Mycologists by Nicholas P. Money (2002), Chapter 6"
-  - "C.T. Ingold, A Century of Mycology (1996), pp. 39-52"
-  - "J. Webster, Introduction to Fungi, Cambridge University Press (1980)"
 type: concept
 ---
 

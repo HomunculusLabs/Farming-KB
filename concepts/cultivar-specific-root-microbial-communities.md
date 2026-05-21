@@ -5,7 +5,6 @@ tags: [microbiome, cannabis, cultivar, endorhiza, plant-genotype]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md"
 type: concept
 ---
 

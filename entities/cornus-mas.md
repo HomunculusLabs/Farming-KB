@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ercisli, S. (2004). "A short review of the fruit genus Cornus." Botanical Review 70(1): 1–23.
-  - Turker, M.U. & Gurel, E. (2005). "Cornelian cherry (Cornus mas L.) as a promising underutilized fruit." Fruits 60(5): 371–378.
-  - Dinda, B. et al. (2016). "Natural iridoids and secoiridoids." Chemistry & Biodiversity 13(5): 541–577.
   - Pawlowska, A.M. et al. (2010). "Cornus mas L. fruit: functional food or nutraceutical?" International Journal of Food Sciences and Nutrition 61(5): 502–514.
 ---
 

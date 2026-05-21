@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Furlow, J.J. (1987). "The Carpinus caroliniana Complex in psilocybin-north-america-pacific-northwest. I. A Taxonomic Overview." Systematic Botany, 12(4), 560-572.
-  - Gabriel, W.J. & Farnsworth, M. (2005). "American Hophornbeam and Ironwood." USDA Forest Service Fact Sheet.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Hardwoods." USDA Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook No. 541.
   - Whittemore, A.T. (2021). "Carpinus in North America North of Mexico." Journal of the Botanical Research Institute of Texas, 15(1), 89-102.
 ---
 

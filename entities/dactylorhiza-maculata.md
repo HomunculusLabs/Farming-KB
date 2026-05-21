@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bateman, R.M. et al. (1997). "Molecular phylogenetics of Orchidaceae." In: Orchid Biology: Reviews and Perspectives, VII, 75-113.
-  - Proctor, M. & Yeo, P. (1973). The Pollination of Flowers. Collins.
-  - Self, A. et al. (2013). "Mycorrhizal specificity in Dactylorhiza." Annals of Botany, 112(5), 1013-1020.
-  - Kull, T. & Hutchings, M.J. (2006). "A comparative analysis of decline in the north temperate orchids." Biological Conservation, 129(1), 40-49.
   - Sletvold, N. et al. (2010). "Floral display and pollination success in Dactylorhiza maculata." Ecology, 91(3), 713-721.
 ---
 

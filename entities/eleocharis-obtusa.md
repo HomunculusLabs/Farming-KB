@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, S.G. (2002). "Eleocharis." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - USDA NRCS (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC.
   - Strong, A.S. (2020). "Eleocharis (Cyperaceae) of the Continental United States and Canada." Memoirs of the New York Botanical Garden.
 ---
 

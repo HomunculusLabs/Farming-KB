@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - USDA NRCS (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC.
   - Bryson, C.T. & Deaton, W.R. (2020). "Carex (Cyperaceae) of the Southern United States." Sida Botanical Miscellany.
 ---
 

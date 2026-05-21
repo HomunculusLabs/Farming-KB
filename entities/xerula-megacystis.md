@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pegler DN, Young TWK (1980). "Xerula and related genera." Kew Bulletin 35(3): 479-493.
-  - Redhead SA, Ginns JH (1985). "A reappraisal of the genus Xerula." Mycotaxon 22: 361-379.
-  - Courtecuisse R, Duhem B (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Index Fungorum. "Xerula megacystis." http://www.indexfungorum.org/
 ---
 

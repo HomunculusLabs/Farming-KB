@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Anderson, E.F. (2001). The Cactus Family. Timber Press.
-  - Hunt, D.R. (2006). The New Cactus Lexicon. DH Books.
-  - Oldfield, S. (1997). Cacti: Status Survey and Conservation Action Plan. IUCN/SSC Cactus and Succulent Specialist Group.
   - Arias, S. & Gama, S. (2011). "Cactaceae." In: G.D. Carrington (ed.), Flora del Bajío y de Regiones Adyacentes. Instituto de Ecología, A.C.
 ---
 

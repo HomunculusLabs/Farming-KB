@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] skin and local tissues).
+Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
 
 ## How Cannabis Topicals Work
 
@@ -31,9 +31,9 @@ This guide focuses on topicals. Transdermal products require pharmaceutical-grad
 
 ### Salves
 
-Salves are oil-based preparations with a firm, waxy consistency. They are the simplest and most common homemade [[cannabis-topical-applications]].
+Salves are oil-based preparations with a firm, waxy consistency. They are the simplest and most common homemade cannabis topical.
 
-**Base ingredients**: Cannabis-infused oil + beeswax (or [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] for vegan option)
+**Base ingredients**: Cannabis-infused oil + beeswax (or carnauba wax for vegan option)
 **Consistency**: Firm, spreadable, melts on skin contact
 **Best for**: Joint pain, muscle soreness, arthritis
 
@@ -79,7 +79,7 @@ Creams are thicker than lotions with a higher oil-to-water ratio.
 
 ### Full-Spectrum vs Isolate
 
-- **Full-spectrum**: Contains CBD, THC, minor cannabinoids, and [[terpenes]]. Believed to be more effective due to the entourage effect.
+- **Full-spectrum**: Contains CBD, THC, minor cannabinoids, and terpenes. Believed to be more effective due to the entourage effect.
 - **Broad-spectrum**: Contains multiple cannabinoids and terpenes but no THC.
 - **Isolate**: Pure CBD or THC only. No entourage effect but no THC concern.
 
@@ -100,9 +100,9 @@ Before infusing, cannabis flower must be decarboxylated to activate cannabinoids
 
 ### Oil Infusion
 
-1. Combine decarboxylated cannabis with carrier oil in a double boiler or [[mason-jar-preserving-guide]]
+1. Combine decarboxylated cannabis with carrier oil in a double boiler or mason jar
 2. Common carrier oils: coconut oil, olive oil, jojoba oil, sweet almond oil
-3. Ratio: 1-2 cups oil per 1 ounce (28g) of [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] medium potency
+3. Ratio: 1-2 cups oil per 1 ounce (28g) of cannabis for medium potency
 4. Heat on low (160-180 F) for 2-4 hours, stirring occasionally
 5. Strain through cheesecloth or fine mesh strainer
 6. Squeeze remaining oil from the plant material
@@ -127,7 +127,7 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 2. Stir until beeswax is fully melted
 3. Remove from heat
 4. Add shea butter and stir until melted
-5. Add [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] stir gently
+5. Add essential oils and stir gently
 6. Pour into small tins or jars
 7. Allow to cool and set at room temperature (1-2 hours)
 8. Store in a cool, dark place; shelf life 3-6 months
@@ -138,12 +138,17 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 - **Softer salve**: Add more carrier oil or reduce beeswax
 - **Thicker balm**: Add shea butter or cocoa butter
 
-## See Also
-- [[cannabis-metabolic-syndrome-research]]
-- [[cannabis-reefers-and-tincture-preparation]]
-- [[cannabis-for-colon-cancer]]
 ## Dosing
 
 Topical dosing is less precise than other methods. General guidelines:
 
 - **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
+- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
+- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
+
+Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
+## See Also
+
+- [[cannabis-for-mental-health]]
+- [[cannabis-endophytes-and-terroir]]
+- [[cannabis-polyploidy-colchicine-treatment-clarke]]

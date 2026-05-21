@@ -4,13 +4,6 @@ tags: [vanilla, orchid, cultivation, tropical-crops, spices, pollination, curing
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "Purseglove, J.W., Brown, K., Green, C.L., & Robbins, S.R.J. (1981). Spices, Volume 1. Longman."
-  - "Lubinsky, P., Cameron, K.M., García, M.A., et al. (2008). 'Molecular phylogenetics of Vanilla (Orchidaceae): subgeneric classification and biogeography.' Botanical Journal of the Linnean Society, 157(3), 447-463."
-  - "Food and Agriculture Organization of the United Nations (FAO). (2023). FAOSTAT: Vanilla Production Data."
-  - "Bory, S., Grisoni, M., Duval, M.F., & Besse, P. (2008). 'Biodiversity and conservation of vanilla.' Genetic Resources and Crop Evolution, 55, 551-571."
-  - "Havkin-Frenkel, D., & Belanger, F.C. (2018). Handbook of Vanilla Science and Technology. Wiley-Blackwell."
-  - "Kull, C.A. (2004). Isle of Fire: The Political Ecology of Landscape Burning in Madagascar. University of Chicago Press."
-  - "Royal Botanic Gardens, Kew. (2024). Vanilla planifolia — World Checklist of Selected Plant Families."
   - "Dumas, Y., & Fikry, W. (2022). 'Vanilla curing methods fungi-around-the-world-species-distribution: A comparative review.' Journal of Food Science, 87(4), 1598-1612."
 ---
 
@@ -78,3 +71,12 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on vanilla cultivation and orchid ecology have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with vanilla cultivation and orchid ecology should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

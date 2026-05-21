@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Farjon, A. (2013). "Pinus." Royal Botanic Gardens, Kew.
-  - Richardson, D.M. (ed.) (1998). "Ecology and Biogeography of Pinus." Cambridge University Press.
-  - Evert, R.F. & Eichhorn, S.E. (2013). "Raven Biology of Plants." 8th ed. W.H. Freeman.
   - IUCN Red List. "Pinus sylvestris." https://www.iucnredlist.org/
 ---
 

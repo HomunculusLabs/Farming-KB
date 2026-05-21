@@ -5,7 +5,6 @@ tags: [mycology, psilocybe-cubensis, basidiocarp, development, morphogenesis, st
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md"
 type: concept
 ---
 

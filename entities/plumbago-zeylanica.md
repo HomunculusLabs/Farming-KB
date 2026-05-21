@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
-  - The Ayurvedic Pharmacopoeia of India. (1999). Ministry of Health & Family Welfare, Government of India.
-  - Tilak, J.C. et al. (2004). "Antioxidant Properties of Plumbago zeylanica." Phytotherapy Research, 18(6), 477–480.
-  - Ding, L. et al. (2005). "Plumbagin: A Review of Its Pharmacological Activities." Chinese Journal of Natural Medicines, 3(3), 174–178.
   - Hara, A. et al. (2003). "Antimicrobial Activity of Naphthoquinones from Plumbago zeylanica." Fitoterapia, 74(7–8), 715–719.
 ---
 

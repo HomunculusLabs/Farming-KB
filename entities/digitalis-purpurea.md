@@ -12,11 +12,8 @@ tags:
   - medicinal
   - toxic
     New England Journal of Medicine 318(6): 358-365.
-  - Ma, G. et al. (2016). "The Cardiac Glycosides." In: Bioactive
     Natural Products. World Scientific.
-  - Roth, L., Daunderer, M. & Kormann, K. (1984). "Giftpflanzen,
     Pflanzengifte." ecomed Verlag.
-  - Huxley, A. (1992). "The New RHS Dictionary of Gardening."
     Macmillan.
 ---
 

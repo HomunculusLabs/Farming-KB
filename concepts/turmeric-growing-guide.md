@@ -15,13 +15,13 @@ Turmeric is a tropical herbaceous perennial in the ginger family, native to
 the Indian subcontinent and Southeast Asia. Widely known as the golden spice
 that gives curry its color, turmeric has been used for over 4,000 years in
 Ayurvedic medicine, traditional Chinese medicine, and culinary traditions.
-Its primary active compound, [[curcumin]], is one of the most studied
+Its primary active compound, curcumin, is one of the most studied
 phytochemicals in modern biomedical research for its potent anti-inflammatory,
 antioxidant, and anticancer properties.
 
 ## Botanical Profile
 
-- Scientific name: [[curcuma-longa]]
+- Scientific name: Curcuma longa
 - Family: Zingiberaceae
 - Hardiness: USDA zones 8-11 (grown as an annual in cooler zones)
 - Lifecycle: Perennial in tropics; annual in temperate climates
@@ -60,7 +60,7 @@ Key medicinal applications:
 
 Bioavailability challenge: Curcumin has very poor oral bioavailability.
 Absorption can be significantly enhanced by:
-- Combining with black pepper ([[piperine]] increases absorption by up to 2,000%)
+- Combining with black pepper (piperine increases absorption by up to 2,000%)
 - Consuming with fats (curcumin is fat-soluble)
 - Using liposomal or nano-curcumin formulations
 
@@ -78,7 +78,7 @@ Ideal conditions include:
 ### Soil Preparation
 Turmeric prefers loose, well-drained, organically rich soil with a pH of
 5.5-7.0. Raised beds or mounded rows are ideal to ensure good drainage and
-loose soil for rhizome expansion. Work in generous amounts of [[compost]] or
+loose soil for rhizome expansion. Work in generous amounts of compost or
 well-rotted manure before planting. The soil should be loose enough to allow
 rhizomes to expand freely -- compacted soil produces small, deformed rhizomes.
 
@@ -107,7 +107,7 @@ From seed: Rarely done; turmeric is typically propagated vegetatively.
 - Maintain consistent moisture throughout the growing season
 - Mulch heavily (4-6 inches) to retain moisture and suppress weeds
 - Side-dress with compost or balanced organic fertilizer every 4-6 weeks
-- Foliar feed with liquid kelp or [[fish-emulsion]] monthly during active growth
+- Foliar feed with liquid kelp or fish emulsion monthly during active growth
 - Turmeric is relatively pest-free but watch for rhizome rot in waterlogged
   conditions
 - Spider mites may appear in dry conditions; increase humidity
@@ -138,8 +138,6 @@ Harvesting method:
 4. Gently separate rhizomes from the root ball
 5. Save the best rhizomes with healthy buds for next year's planting stock
 
-## See Also
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Processing
 
 Fresh use:
@@ -147,3 +145,11 @@ Fresh use:
 - Peel with a spoon or vegetable peeler
 - Grate, slice, or juice
 - Add to curries, smoothies, teas, and golden milk
+
+Drying:
+- Slice rhizomes 1/8-1/4 inch thick
+## See Also
+
+- [[comparison-turmeric-vs-ashwagandha]]
+- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
+- [[turmeric-and-ginger-rhizome-cultivation]]

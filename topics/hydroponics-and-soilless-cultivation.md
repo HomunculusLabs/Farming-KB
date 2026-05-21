@@ -12,7 +12,6 @@ sources:
   - concepts/cannabis-soilless-grow-media.md
   - concepts/cervantes-hydroponic-systems.md
   - concepts/cervantes-nft-aeroponic-systems.md
-  - concepts/cervantes-passive-wick-hydroponic-systems.md
   - concepts/cervantes-top-feed-hydroponic-systems.md
   - concepts/deep-water-culture.md
   - concepts/cannabis-deep-water-culture-guide.md

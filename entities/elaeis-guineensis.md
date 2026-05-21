@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Corley, R.H.V. & Tinker, P.B. (2016). "The Oil Palm." 5th ed. Wiley-Blackwell.
   - Basiron, Y. (2007). "Palm guzman-psilocybin-mushrooms-south-america.
 ---
 

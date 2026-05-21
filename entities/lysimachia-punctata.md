@@ -7,10 +7,6 @@ type: species
 family: Primulaceae
 order: Ericales
 sources:
-  - Hu, S.Y. (1979). A review of the genus Lysimachia in China. Journal of the Arnold Arboretum, 60(1), 1-34.
-  - Mannsfeld, K. (2010). Lysimachia punctata (Primulaceae) in cultivation and the wild. Curtis's Botanical Magazine, 27(3), 214-225.
-  - Chen, Y. et al. (2018). Phylogeny and biogeography of Lysimachia (Primulaceae). Molecular Phylogenetics and Evolution, 120, 120-132.
-  - Stace, C.A. (2019). New Flora of the British Isles, 4th edition. C&M Floristics.
   - Missouri Botanical Garden. (2024). Tropicos.org - Lysimachia punctata L.
 ---
 

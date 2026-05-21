@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Houghton, P. (1994). "Sempervivum tectorum — A Review." Journal of Ethnopharmacology 43(2): 99-108.
-  - Bleij, B. & Zonneveld, B. (2007). "Sempervivum." In Illustrated Handbook of Succulent Plants. Springer.
   - RHS Encyclopedia of Plants and Flowers (2022). Dorling Kindersley.
 ---
 

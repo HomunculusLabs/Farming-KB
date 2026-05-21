@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Flora of North America, Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
   - Ignatov, M.S. & Huttunen, S. (2002). "Neckera and Thamnobryum." Arctoa 11: 179-190.
 ---
 

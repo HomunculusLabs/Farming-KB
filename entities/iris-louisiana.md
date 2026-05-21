@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Caillet, M. & W. Dykes (2024). "The Louisiana Irises: The History and Biology of Iris ser. Hexagonae." LSU Press.
-  - Tucker, A.O. (1994). "Iris hexagonae complex (Iridaceae) in the southeastern United States." Sida 16: 115–131.
-  - USDA NRCS Plants Database. "Iris hexagona Walter." https://plants.usda.gov
   - Royal Horticultural Society. "Iris Louisiana hybrids." RHS A-Z Encyclopedia of Garden Plants.
 ---
 

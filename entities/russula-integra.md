@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. (2011). "Russula." Field Mycology, 12(3), 91-105.
-  - Sarnari, M. (1998). "Monografia illustrata del genere Russula in Europa." Associazione Micologica Bresadola.
-  - Romagnesi, H. (1967). "Les Russules d'Europe et d'Afrique du Nord." Bordas, Paris.
-  - Fries, E.M. (1836). "Epicrisis systematis mycologici." Typographia Academica.
 aliases:
   - Russula rosea
   -整合红菇

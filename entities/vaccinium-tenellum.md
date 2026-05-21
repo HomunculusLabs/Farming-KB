@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Research Branch, Agriculture Canada.
-  - Camp, W.H. (1945). "The North American blueberries with notes on other groups of Vacciniaceae." Brittonia 5(3): 203–275.
-  - Galletta, G.J. & Ballington, J.R. (1996). "Blueberries, cranberries, and lingonberries." In: Janick & Moore (eds.), Fruit Breeding, Vol. II. Wiley.
-  - Bell, D.J. et al. (2009). "Pollination of Vaccinium." In: Pollination Biology (ed. Sudhakar). Springer.
   - Prior, R.L. et al. (1998). "Antioxidant capacity as influenced by total phenolic and anthocyanin content in blueberries." J. Agric. Food Chem. 46(7): 2686–2693.
 ---
 

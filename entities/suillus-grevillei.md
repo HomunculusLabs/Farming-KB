@@ -15,7 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2024). "Suillus grevillei." MushroomExpert.com
   - Watling, R. (1970). "British Fungus Flora: Boletaceae." Royal Botanic Garden Edinburgh.
 ---# Suillus grevillei (Larch Bolete)
 

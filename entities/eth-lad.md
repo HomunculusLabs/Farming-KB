@@ -12,8 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
-  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New lsd-d-lysergic-acid-diethylamide." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.
 ---
 

@@ -13,7 +13,6 @@ related_concepts:
   - worm-ecology-soil-building
   - worm-farming-for-profit
   - wormery-construction
-  - teaming-with-microbes-earthworm-ecology-and-vermicomposting
   - ingham-vermicompost-worm-castings
   - ingham-thermal-compost-versus-worm-compost
 ---

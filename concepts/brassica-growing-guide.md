@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, pest-control, beginner, troubleshooting]
-sources: ["raw/concepts/brassica-growing-guide.md"]
+sources: []
 ---
 
 ## Overview
@@ -95,7 +95,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Green caterpillars chew holes in leaves and bore into heads
 - Management:
   - Floating row covers prevent egg-laying (most effective)
-  - [[bacillus-thuringiensis]] (Bt) applied to leaves kills caterpillars
+  - Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
   - Handpick caterpillars in small plantings
   - Companion plant with thyme, dill, or mint (may deter egg-laying)
   - Neem oil or spinosad sprays as secondary options
@@ -127,7 +127,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 
 ### Slugs and Snails
 - Feed on leaves at night; leave slime trails
-- Beer traps, [[diatomaceous-earth]], copper tape barriers
+- Beer traps, diatomaceous earth, copper tape barriers
   - Handpick at night with a flashlight
 
 ### Integrated Pest Management Summary
@@ -143,8 +143,12 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 
 Brassicas are among the most cold-tolerant vegetable families.
 
+### Frost Tolerance by Crop
+- **Kale**: Hardy to 10F; flavor improves with frost
+- **Brussels Sprouts**: Hardy to 0-10F; best after several frosts
+- **Collards**: Hardy to 10F; similar to kale
+- **Cabbage**: Hardy to 20F; late varieties can survive to 10F
 ## See Also
 
-- [[lettuce-and-leafy-greens]] for companion cool-season greens
-- [[seasonal-gardening-calendar]] for planting and harvest timing
-- [[food-forest-design]] for integrating brassicas into perennial systems
+- [[brassica-gardening-guide]]
+- [[comparison-brassica-vs-nightshade-gardening]]

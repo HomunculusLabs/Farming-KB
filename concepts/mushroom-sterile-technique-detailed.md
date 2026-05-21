@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, workflow, troubleshooting, safety]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
+sources: []
 ---
 
 ## Overview

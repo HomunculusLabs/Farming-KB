@@ -57,7 +57,7 @@ The main problem is drainage — silt has the smallest particles of any ground s
 
 ### Organic Matter
 - Liberal quantities of well-rotted compost or manure hold particles apart
-- Keep soil covered with green-manure crop in winter (see green manure crops detailed)
+- Keep soil covered with green-manure crop in winter (see [[green-manure-crops-detailed]])
 
 ## Sand Soil Management
 
@@ -94,7 +94,7 @@ Two big disadvantages: thin, dry, "hungry" (nutrients wash through rapidly), and
 ### Organic Matter
 - More than any other soil, keep the surface covered
 - Grow green-manure crop in winter; dig in during spring
-- During growing season, even sow fast-growing [[green-manure]] between vegetables just to keep soil covered
+- During growing season, even sow fast-growing green manure between vegetables just to keep soil covered
 - Use acid materials as mulch: peat, grass cuttings, compost, manure
 
 ## Peat Soil Management
@@ -117,6 +117,6 @@ Potentially very fertile and usually easy to work — grow as intensively as you
 ## Related
 
 - [[acid-and-alkaline-soil-management]] — lime application and pH management
-- green manure crops detailed — winter [[cover-crops]] to protect soil
+- [[green-manure-crops-detailed]] — winter cover crops to protect soil
 - [[soil-conditioners-guide]] — organic materials for soil improvement
 - [[garden-soil-basics]]

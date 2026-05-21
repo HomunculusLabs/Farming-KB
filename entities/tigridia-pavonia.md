@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J. (2008). The Iris Family: Natural History and Classification. Timber Press.
-  - Rodríguez, A. & Ortiz-Catedral, L. (2003). "The genus Tigridia (Iridaceae) in Mexico." Bol. Soc. Bot. México 73: 45–56.
   - RHS Plant Finder. Tigridia pavonia. rhs.org.uk.
 ---
 

@@ -11,8 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tulloss, R.E. & Yang, Z.L. (2021). \"Amanita — overview and taxonomic framework.\" MycoKeys, 81, 1–71."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms. Knopf."
   - "Miller, O.K. & Miller, H.H. (2006). mycelium-running-mycorrhizal-mushroom-gardens in the family Amanitaceae.
 ---
 

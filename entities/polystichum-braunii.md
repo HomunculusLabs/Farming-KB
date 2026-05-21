@@ -10,7 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Flora of North America Editorial Committee (1993). "Flora of North America, Vol. 2: Pteridophytes and Gymnosperms." Oxford University Press.
   - Montgomery, J.D. & Pickett, F.L. (2006). "Ferns for the American Garden." Houghton Mifflin.
 ---
 

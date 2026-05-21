@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rivera, D. et al. (2006). Bixa orellana: a review. Fitoterapia, 77(6), 447-454.
-  - Jondiko, I.J. et al. (1989). Isolation of bixin. Planta Medica, 55(5), 475.
-  - Fleischer, T.C. et al. (2003). Extracts of Bixa orellana. Fitoterapia, 74(1-2), 162-164.
   - Preston, H.D. et al. (1980). Extraction and chemistry of annatto. Food Chemistry, 5(1), 47-56.
 ---
 

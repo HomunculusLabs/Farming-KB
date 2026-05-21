@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - USDA Natural Resources Conservation Service, Canna indica PLANTS Profile
   - Maas-van de Kamer, H. & Maas, P.J.M. (2008). Cannaceae. Flora Neotropica
 ---# Canna indica
 

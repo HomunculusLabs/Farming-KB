@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schofield, W.B. (1985). Introduction to Bryology. Macmillan.
-  - Glime, J.M. (2017). "Ceratodon purpureus." Bryophyte Ecology, Vol. 2. Michigan Technological University.
-  - Mishler, B.D. (2007). "Systematics of the Bryophyta." In: Flowering Plant Systematics (ed. T.F. Stuessy).
-  - Zander, R.H. (1993). Genera of the Pottiaceae: Mosses of Harsh Environments. Bulletin of the Buffalo Society of Natural Sciences.
   - Longton, R.E. (1988). The Biology of Polar Bryophytes and Lichens. Cambridge University Press.
 ---
 

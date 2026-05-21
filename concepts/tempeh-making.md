@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Tempeh
 
-Tempeh is a traditional Indonesian fermented food made from cooked and inoculated legumes or grains bound together by a dense white mycelium of [[rhizopus-oligosporus]]. Originating on the island of Java, tempeh has been a staple protein source in Indonesia for centuries. The fermentation process makes the beans more digestible, reduces anti-nutritional factors, and creates a firm, nutty, cake-like product that can be sliced, crumbled, marinated, fried, grilled, or steamed.
+Tempeh is a traditional Indonesian fermented food made from cooked and inoculated legumes or grains bound together by a dense white mycelium of Rhizopus oligosporus. Originating on the island of Java, tempeh has been a staple protein source in Indonesia for centuries. The fermentation process makes the beans more digestible, reduces anti-nutritional factors, and creates a firm, nutty, cake-like product that can be sliced, crumbled, marinated, fried, grilled, or steamed.
 
 ## The Inoculant: Rhizopus Oligosporus
 
@@ -131,6 +131,6 @@ When using non-soy substrates:
 
 ## See Also
 
-- [[miso-making]] — soybean fermentation using [[aspergillus]] koji
-- [[natto-making]] — fermented soybeans using [[bacillus-subtilis]] natto
+- [[miso-making]] — soybean fermentation using Aspergillus koji
+- [[natto-making]] — fermented soybeans using Bacillus subtilis natto
 - [[food-fermentation-guide]] — broader fermentation concepts and processes

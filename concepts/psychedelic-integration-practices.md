@@ -12,8 +12,6 @@ tags:
   - aftercare
   - community
 sources:
-  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
@@ -113,7 +111,7 @@ The concept of [[psychedelic-mushroom-set-and-setting|set and setting]] applies 
 
 ## Related Topics
 
-- [[psychedelic-integration]] for a more detailed practical guide
+- [[psychedelic-integration-guide]] for a more detailed practical guide
 - [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psilocybin-therapeutic-applications]] for clinical integration models
 - [[psychedelic-harm-reduction]] for safety practices

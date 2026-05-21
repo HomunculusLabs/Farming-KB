@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chua, M. et al. (2012). "A review on konjac glucomannan." Journal of Ethnopharmacology, 134(3), pp. 749–762.
-  - Kato, A. & Matsubara, K. (1969). "Studies on guzman-magic-mushrooms-chemical-constituents of konjac." Agricultural and Biological Chemistry, 33, pp. 1444–1450.
-  - Zhang, Y. et al. (2021). "Amorphophallus konjac: A comprehensive review of phytochemistry, bioactivities, and applications." Journal of Functional Foods, 85, 104583.
   - Xu, J. et al. (2018). "The genus Amorphophallus in China." Botanical Journal of the Linnean Society, 186(1), pp. 45–67.---
 ---
 

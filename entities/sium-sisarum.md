@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Neves, E. et al. (2020). "Sium sisarum L.: An underutilized crop with potential." Genetic Resources and Crop Evolution, 67, 1–15.
-  - Small, E. (2011). "Top 100 Exotic Food Plants." CRC Press.
-  - Hedrick, U.P. (1972). "Sturtevant's Edible Plants of the World." Dover Publications.
   - Vaughan, J.G. & Geissler, C.A. (2009). "The New Oxford Book of Food Plants." Oxford University Press.
 ---
 

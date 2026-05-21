@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
   - Van Pelt, R. (2001). "Conifers of the guzman-psilocybin-mushrooms-north-america. It is one of the most widely distributed junipers in the region, forming extensive stands across the Rocky Mountains, Colorado Plateau, and Great Basin. The species is valued for its ecological-roles-fungi-ecosystems as wildlife cover and as a pioneer on disturbed, nutrient-poor sites.
 ---
 

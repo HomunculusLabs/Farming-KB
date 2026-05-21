@@ -10,10 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Jaffee, S. et al. (2005). "The World Clove Economy." World Bank Agriculture & Rural Development Working Paper.
-  - Li, X. et al. (2019). "Chemical composition and biological activities of clove essential oil." Journal of Agricultural and Food Chemistry, 67(43), 11940-11951.
-  - Chaieb, K. et al. (2007). "Antimicrobial activity of essential oils." Phytotherapy Research, 21(6), 501-507.
-  - Parekh, J. & Chanda, S. (2007). "Antibacterial and phytochemical studies on twelve species of Indian medicinal plants." African Journal of Biomedical Research, 10(2), 175-181.
   - Cortés-Rojas, D.F. et al. (2014). "Main biological properties of clove." Industrial Crops and Products, 53, 116-124.
 ---
 

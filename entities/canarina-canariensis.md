@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bramwell D, Bramwell Z (2001). "Wild Flowers of the Canary Islands." Editorial Rueda.
-  - Francisco-Ortega J et al. (2000). "Plant genetic resources of the Canary Islands." Genetic Resources and Crop Evolution 47(1): 45-53.
   - Carvalho JAS et al. (2021). "Ethnobotanical survey of medicinal plants in the Canary Islands." Journal of Ethnopharmacology 264: 113230.
 ---
 

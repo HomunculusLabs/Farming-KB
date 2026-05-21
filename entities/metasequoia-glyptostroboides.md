@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Ma, J. (2003). "The status of Metasequoia glyptostroboides since its rediscovery." Acta Botanica Sinica, 45, 1279–1288.
-  - Bartholomew, B. et al. (1983). "Metasequoia glyptostroboides — its present status in central China." Arnoldia, 43(1), 2–18.
   - Williams, C.J. et al. (2003). "Paleobotany of Metasequoia." Bulletin of the Peabody Museum of Natural History, 44, 145–169.
 ---
 

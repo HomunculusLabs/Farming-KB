@@ -8,9 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Antonín V, Noordeloos ME. (2010). "Monograph of Marasmius, Collybia and related genera in Europe." IHW-Verlag, Eching.
-  - Lennox JW. (1979). "Collybia butyracea in psilocybin-north-america-pacific-northwest." Mycotaxon 8(2): 381–391.
-  - Corner EJH. (1994). "Agarics in Malaysia." Royal Botanic Gardens, Kew.
   - Singer R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
 ---
 

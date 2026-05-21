@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Cryptogramma." Flora of North America North of Mexico, Vol. 2.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Windham, M.D. & Rabe, E.W. (1993). "Cryptogramma." In: Flora of North America, Vol. 2, pp. 180-182.
   - USDA NRCS (2024). "Cryptogramma acrostichoides." PLANTS Database.
 ---
 

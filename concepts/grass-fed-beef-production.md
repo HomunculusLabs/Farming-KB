@@ -47,7 +47,7 @@ Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass
 - Prevents selective grazing (cows eat only the tasty parts) and overgrazing
 
 ### Forage Species
-- Cool-season perennials: orchardgrass, tall fescue (endophyte-free), Kentucky bluegrass, white clover, [[red-clover]]
+- Cool-season perennials: orchardgrass, tall fescue (endophyte-free), Kentucky bluegrass, white clover, red clover
 - Warm-season perennials: bermudagrass, bahiagrass, switchgrass, eastern gamagrass
 - Annuals for fill: oats, rye, annual ryegrass, turnips, radishes
 - Legumes fix nitrogen: clover, alfalfa, birdsfoot trefoil (15-30% of pasture mix)
@@ -118,7 +118,7 @@ Improving finish quality:
 - Farmers markets: sell frozen cuts, take pre-orders
 - Buying clubs: sell quarter/half beef shares (best margin, least labor)
 - Restaurant sales: chefs pay premium for local grass-fed
-- Online: [[online-homestead-sales]] platforms
+- Online: online homestead sales platforms
 - On-farm store: if location permits
 - Word of mouth and repeat customers are the strongest channels
 

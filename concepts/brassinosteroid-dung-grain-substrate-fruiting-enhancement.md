@@ -5,7 +5,6 @@ tags: [brassinosteroid, psilocybe-cubensis, fungal-fruiting, dung-substrate, yie
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting (Gartz, Adam & Vorbrodt, 1990)"
 type: concept
 ---
 

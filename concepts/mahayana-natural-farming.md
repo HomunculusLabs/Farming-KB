@@ -9,7 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of Green Philosophy." Japan Publications.
 ---
 

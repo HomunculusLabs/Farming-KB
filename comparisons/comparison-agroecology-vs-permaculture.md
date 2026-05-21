@@ -10,15 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - Altieri, M.A. (1995). *Agroecology: The Science of Sustainable Agriculture*. Westview Press.
-  - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications.
-  - Holmgren, D. (2002). *Permaculture: Principles and Pathways Beyond Sustainability*. Holmgren Design Services.
-  - Gliessman, S.R. (2015). *Agroecology: The Ecology of Sustainable Food Systems* (3rd ed.). CRC Press.
-  - FAO (2018). *The 10 Elements of Agroecology: Guiding the Transition to Sustainable Food and Agricultural Systems*. Rome.
-  - Wezel, A. et al. (2009). "Agroecology as a science, a movement and a practice." *Agriculture, Ecosystems & Environment*, 121(1), 1–4.
-  - Ferguson, R.S. & Lovell, S.T. (2014). "Permaculture for agroecology: design, movement, practice, and worldview." *Agriculture and Human Values*, 32(2), 251–265.
-  - Nicholls, C.I. et al. (2016). "Agroecology: principles for the conversion and redesign of farming systems." *Journal of Ecosystems and Ecography*, S5, 005.
 type: comparison
 ---
 

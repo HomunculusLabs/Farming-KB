@@ -10,9 +10,6 @@ tags:
   - saprotroph
   - decomposition
 sources:
-  - Ryvarden, L. (1991). "Genera of Polypores: Nomenclature and Taxonomy." Synopsis Fungorum 5.
-  - Bernicchia, A. & Gorjón, S.P. (2010). "Corticiaceae s.l." Fungi Europaei 12.
-  - Reid, D.A. (1978). "A taxonomic survey of the genus Stereum." Persoonia 10(2): 161–194.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
 ---
 

@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Whittemore, A. T. (1997). "Ranunculus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3. Oxford University Press.
   - Benson, L. (1948). "A treatise on the psilocybin-psilocin-variation-across-flushes its broad range, leading to the description of several varieties. Plants growing at higher elevations tend to be smaller with more deeply divided leaves than low-elevation populations.
 ---
 

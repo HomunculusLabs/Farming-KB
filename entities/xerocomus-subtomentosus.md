@@ -19,10 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. (2011). "Boletes of Europe." self-published.
-  - Watling, R. (2004). "The Bolete Checklist of the British Isles." Royal Botanic Garden Edinburgh.
-  - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
-  - Bessette, A.E. et al. (2016). "Boletes of polypore-fungi-eastern-north-america America." Syracuse University Press.
 created: 2026-05-07
 ---
 

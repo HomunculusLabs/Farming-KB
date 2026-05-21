@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
-  - Camp, W. H. (1939). "A revision of the genus Gaylussacia." Rhodora.
-  - USDA NRCS. "Gaylussacia dumosa" PLANTS Database. https://plants.usda.gov/
   - Kirkman, L. K. et al. (2007). Biodiversity in Southeastern Seasonally Ponded, Isolated Wetlands. USDA Forest Service.
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tutin, T.G. et al. (1976). "Flora Europaea, Vol. 4." Cambridge University Press.
   - Meusel, H. & Jäger, E.J. (1992). "Comparative Chorology of the berry-growing but has not become widely naturalized.
 ---
 

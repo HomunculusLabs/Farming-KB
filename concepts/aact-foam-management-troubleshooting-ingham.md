@@ -5,7 +5,6 @@ updated: 2026-05-08
 type: concept
 tags: [aact, compost-tea, foam, troubleshooting, ingham]
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 

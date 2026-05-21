@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Reynolds G.W. (1950). "The Aloes of South Africa." Balkema.
-  - Carter S. et al. (2011). "Aloes: The Definitive Guide." Kew Publishing.
-  - Van Wyk B.-E., Smith G. (2014). "Guide to the Aloes of South Africa." Briza Publications.
   - Tropicos.org. Missouri Botanical Garden. "Aloe aristata Haw."
 ---
 

@@ -5,8 +5,6 @@ tags: [natural-farming, shelterbelts, windbreaks, agroforestry, tree-planting, f
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "4289-4351"
 type: concept
 ---

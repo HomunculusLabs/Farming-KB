@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kretzschmar H, Eccarius W, Dietrich H (2007). "The Orchid Genera Anacamptis, Orchis, Neotinea." EchinoMedia.
-  - Bateman RM, Hollingsworth PM, Preston J (2003). "Phylogenetics of the orchid genus Orchis." Botanical Journal of the Linnean Society, 142(1): 1-20.
   - Royal Botanic Gardens Kew. "Orchis mascula (L.) L." Plants of the World Online.
 ---
 

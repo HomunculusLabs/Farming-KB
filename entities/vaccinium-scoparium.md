@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the psilocybin-north-america-pacific-northwest, Part 4, University of Washington Press.
-  - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A Subgeneric Classification of the Genus Vaccinium and the Metamorphosis of V. section Bracteata." Botanical Review, 75(4), 423–466.
-  - Stickney, P.F. (1986). "First Decade of Plant Succession After the 1980 eruption of Mount St. Helens." USDA Forest Service General Technical Report PNW-177.
   - USDA NRCS (2024). "Vaccinium scoparium Leiberg ex Coville — Grouseberry." PLANTS Database.
 ---
 

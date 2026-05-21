@@ -15,12 +15,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Shurtleff & Aoyagi, *The Book of Tofu*, 1975/2000
-  - Shurtleff & Aoyagi, *The Book of Tempeh*, 1979/2001
-  - Liu, *Soybeans: Chemistry, Technology, and Utilization*, 1997
   - Nout & Aidoo, "Asian Fungal Fermented Food," 2002
-  - USDA FoodData Central, entries for tempeh and firm tofu
 type: comparison
 ---
 

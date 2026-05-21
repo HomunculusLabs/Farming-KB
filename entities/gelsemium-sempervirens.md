@@ -12,10 +12,6 @@ tags:
   - ornamental
   - southeastern-us
 sources:
-  - Lloyd, J.U., Lloyd, C.G. (1885). "Gelsemium." Drugs and Medicines of psilocybin-north-america-pacific-northwest.
-  - Spoerke, D.G., Smolinske, S.C. (1990). "Toxicity of Houseplants." CRC Press.
-  - Wink, M., Van Wyk, B.E. (2008). "Mind-Altering and Poisonous Plants of the World." Timber Press.
-  - USDA Natural Resources Conservation Service. "Gelsemium sempervirens" PLANTS Database.
   - Burrows, G.E., Tyrl, R.J. (2013). "Toxic Plants of North America." 2nd ed. Wiley-Blackwell.
 ---
 

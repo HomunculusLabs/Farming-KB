@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Duke, J.A. & Ayensu, E.S. (1985). "Medicinal Plants of China." Reference Publications.
-  - Nguyen, V.D. & Doan, I.T. (1989). "Medicinal Plants in Vietnam." World Health Organization.
-  - Ong, H.C. & Norzalina, J. (1999). "Malaysian medicinal plants for the treatment of cardiovascular diseases." Journal of Tropical Medicinal Plants, 1(1), 71-76.
   - Riviere, C. et al. (2009). "Persicaria odorata: a review of its phytochemistry and pharmacology." Journal of Ethnopharmacology, 121(3), 323-330.
 ---
 

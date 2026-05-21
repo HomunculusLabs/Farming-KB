@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Abbott I.A. & Hollenberg G.J. (1976). "Marine Algae of California." Stanford University Press.
-  - Yoshida T. (1998). "Marine Algae of Japan." Uchida Rokakuho Publishing.
   - Jiménez-Escrig A. & Goñi Cambrodón I. (1999). "Nutritional Evaluation and teaming-with-nutrients-micronutrients-and-trace-elements, and blesching-cannabis-apoptosis-and-cancer-cell-death lines.
 ---
 

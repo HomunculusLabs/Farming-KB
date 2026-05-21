@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Munz PA (1946). "Aquilegia: The Cultivated and Native Columbines." Gentes Herbarum 6: 113–134.
-  - Chase MW et al. (1993). "Phylogenetics of seed plants: an analysis of nucleotide sequences." Annals of the Missouri Botanical Garden 80(3): 528–580.
   - Pojar J, MacKinnon A (1994). "Plants of the tree-daturas-brugmansia-south-american-ethnobotany." Timber Press.
 ---
 

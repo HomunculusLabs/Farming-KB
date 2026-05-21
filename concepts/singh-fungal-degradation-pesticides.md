@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [mycology, remediation, research]
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 ## Fungal Degradation of Pesticides (Singh)

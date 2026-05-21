@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Rich, T.C.G. (1991). "Biological Flora of the British Isles: Cardamine pratensis L." Journal of Ecology, 79(2), 471–484.
-  - Clapham, A.R., Tutin, T.G. & Warburg, E.F. (1962). "Flora of the British Isles." Cambridge University Press.
   - Jäger, E.J. et al. (2008). "Rothmaler Exkursionsflora von Deutschland." Spektrum Akademischer Verlag.
 ---
 

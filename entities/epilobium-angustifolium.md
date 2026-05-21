@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Haussler S (2017). "The genus Epilobium: botany, traditional uses and phytochemistry." In: Medicinal and Aromatic Plants of the World. Springer.
-  - Turrell J, Robson N, Wetherilt H (1996). "Epilobium angustifolium as a treatment for benign prostatic hyperplasia." Journal of Herbal Pharmacotherapy 1(1): 29-38.
-  - Kershaw L (2000). "Edible and Medicinal Plants of the Rocky Mountains." Lone Pine Publishing.
   - U.S. Forest Service Fire Effects Information System (FEIS). "Epilobium angustifolium." https://www.fs.usda.gov/database/feis/
 ---
 

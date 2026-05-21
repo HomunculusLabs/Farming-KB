@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong, D.Y. & Ma, L.M. (1995). "Campanulaceae in Flora of China." Science Press, Beijing.
-  - Fedorov, A.A. (1957). "Campanulaceae." In: Flora URSS, Vol. 24. Moscow.
-  - Wang, Z. & Hong, D.Y. (2015). "Taxonomic revision of Adenophora (Campanulaceae) in East Asia." Journal of Systematics and Evolution, 53(4): 362-378.
-  - de Candolle, A. (1830). Monographie des Campanulées. Paris: Veuve Desray.
   - Plants of the World Online (2026). "Adenophora confusa." Royal Botanic Gardens, Kew.
 ---
 

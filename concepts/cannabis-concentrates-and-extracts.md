@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and [[terpenes]] -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's [[cannabis-sativa]] Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
+Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and terpenes -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's Cannabis Sativa Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
 
 ## Types of Concentrates
 
@@ -22,9 +22,9 @@ The simplest form of concentrate. Kief consists of the trichome heads that have 
 
 ### Hash (Hashish)
 
-Hash is made by separating [[trichomes]] from plant material and compressing them into a solid mass. Traditional methods include:
+Hash is made by separating trichomes from plant material and compressing them into a solid mass. Traditional methods include:
 - **Dry-sifting**: Passing dried cannabis through screens of progressively finer mesh to collect trichomes
-- **Hand-rubbing ([[charas]])**: Gently rubbing living cannabis plants to collect the resin on the hands
+- **Hand-rubbing (charas)**: Gently rubbing living cannabis plants to collect the resin on the hands
 - **Ice water extraction (bubble hash)**: Using cold water and agitation to separate trichomes, then filtering through micron bags
 
 In Oner's guide, "finger hash" -- the resin that accumulates on fingers during trimming -- is frequently mentioned as an early treat after harvest. Many strains are specifically noted as good choices for "hash production" due to their heavy trichome production.
@@ -43,11 +43,11 @@ Live resin is a type of BHO made from fresh, flash-frozen cannabis plants rather
 
 ### Distillate
 
-Cannabis distillate is a highly refined product that has been purified through short-path or [[fractional-distillation]]. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the entourage effect. Terpenes can be reintroduced after distillation to create flavored products.
+Cannabis distillate is a highly refined product that has been purified through short-path or fractional distillation. The result is a clear, odorless, and flavorless liquid that is typically 90-99% pure THC or CBD. While extremely potent, distillate lacks the terpene profile that contributes to the entourage effect. Terpenes can be reintroduced after distillation to create flavored products.
 
 ### Tinctures
 
-Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade [[ethanol]]). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
+Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade ethanol). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
 
 ## Strain Selection for Concentrates
 
@@ -56,29 +56,38 @@ Oner's guide repeatedly identifies strains suitable for concentrate production b
 ## Related Concepts
 
 - [[cannabis-terpene-profiles]] -- the aromatic compounds concentrated in extracts
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of cannabis concentrates and extracts has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
+## Current Research
+
+Recent investigations into cannabis concentrates and extracts have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with cannabis concentrates and extracts spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of cannabis concentrates and extracts.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into cannabis concentrates and extracts continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.
+## See Also
+
+- [[query-what-are-cannabis-concentrates-and-how-are-they-made]]
+- [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]]
+- [[cannabis-concentrates-types]]
+- [[cervantes-nutrient-stock-solutions-concentrates]]
+- [[query-difference-between-photoperiod-and-autoflowering-cannabis]]

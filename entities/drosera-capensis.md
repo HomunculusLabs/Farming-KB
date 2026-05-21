@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hartmeyer, S. (2007). "Carnivorous Plants of the Cape Flora." Stiftung Natur und Artenvielfalt.
-  - Rivadavia, F. et al. (2003). "Drosera capensis." In: CP Database, Carnivorous Plant Database.
-  - Slack, A. (1979). "Carnivorous Plants." MIT Press, Cambridge, MA.
   - Thoren, L.M. & Karlsson, P.S. (1998). "Effects of supplementary feeding on growth and reproduction in Drosera." Oecologia, 114(4), 542-548.
 ---
 

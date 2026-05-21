@@ -13,7 +13,6 @@ related:
   - psycholytic-and-psychedelic-therapy-models
   - psychedelic-therapy-shamanism-comparison
 sources:
-  - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
   - shroom-a-cultural-history-of-the-magic-mushroom.md
   - shulgin-a-pihkal.md
   - shulgin-a-tihkal.md

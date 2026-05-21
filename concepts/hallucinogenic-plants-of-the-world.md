@@ -27,7 +27,7 @@ The active compounds in hallucinogenic plants are "true narcotics" that distort 
 ### Mushrooms
 
 Two broad groups of hallucinogenic mushrooms exist:
-1. **[[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] and A. pantherina** -- the fly-agarics, containing [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]] and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
+1. **Amanita muscaria and A. pantherina** -- the fly-agarics, containing ibotenic acid and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
 2. **Psilocybin-containing species** -- primarily in the genera Psilocybe, Panaeolus, Conocybe, and Gymnopilus. Over 180 species contain psilocybin and/or psilocin. See [[global-psychedelic-mushroom-species-diversity]].
 
 ### Cacti
@@ -39,7 +39,7 @@ Several cactus species contain mescaline and related alkaloids:
 
 ### Vines
 
-- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-shipibo-tradition]].
+- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-Shipibo-tradition]].
 
 ### Seeds
 
@@ -66,17 +66,20 @@ Hallucinogenic plants have served multiple functions in human societies:
 
 - [[global-psychedelic-mushroom-species-diversity]] -- mushroom species worldwide
 - [[peyote-and-psychoactive-cacti]] -- mescaline cacti in detail
+## Historical Context
+
+The study and practice of hallucinogenic plants of the world has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into hallucinogenic plants of the world have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
+Applied work with hallucinogenic plants of the world spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

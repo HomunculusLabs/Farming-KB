@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Schmidt-Vogt, H. (1977). "Die Fichte." 2 vols. Paul Parey.
-  - Evert, R.F. & Eichhorn, S.E. (2013). "Raven Biology of Plants." 8th ed. W.H. Freeman.
   - IUCN Red List. "Picea abies." https://www.iucnredlist.org/
 ---
 

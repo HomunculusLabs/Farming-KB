@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Egli U. (2004). "Illustrated Handbook of Succulent Plants: Crassulaceae." Springer.
-  - Stephenson R. (1994). "Sedum: Cultivated Stonecrops." Timber Press.
-  - Royal Horticultural Society. "Sedum rupestre." RHS Plant Finder.
   - Tropicos.org. Missouri Botanical Garden. "Sedum rupestre L."
 ---
 

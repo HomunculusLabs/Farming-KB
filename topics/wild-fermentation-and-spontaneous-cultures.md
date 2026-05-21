@@ -4,12 +4,6 @@ tags: [fermentation, microbiology, food-preservation, probiotics, wild-yeast, la
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Katz, Sandor Ellix. *Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods*. Chelsea Green, 2003.
-  - McGuire, Saverio. "Spontaneous Fermentation: A Microbial Perspective." *Current Opinion in Biotechnology* 56 (2019): 170–177.
-  - De Vuyst, Luc, and Peter Vandamme. *Bacteria and Yeasts in the Production of Fermented Foods and Beverages*. Springer, 2018.
-  - Wolfe, Benjamin E., and Rachel J. Dutton. "Fermented Foods as Experimentally Tractable Microbial Ecosystems." *Cell* 161, no. 1 (2015): 49–55.
-  - Marco, Maria L., et al. "The International Scientific Association for Probiotics and Prebiotics (ISAPP) Consensus Statement on Fermented Foods." *Nature Reviews Gastroenterology & Hepatology* 18, no. 3 (2021): 196–208.
-  - Steinkraus, Keith H. *Handbook of Indigenous Fermented Foods*. 2nd ed. Marcel Dekker, 1996.
   - Tamang, Jyoti Prakash. *Fermented Foods and Beverages of the World*. CRC Press, 2010.
 ---
 

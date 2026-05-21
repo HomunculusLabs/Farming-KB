@@ -11,11 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gartz, J. (1995). "Psilocybe serbica spec. nov." Zeitschrift für
     Mykologie, 61(1), 39–44.
-  - Borovička, J. et al. (2012). "Photosymbiontic diversity in
     Psilocybe." Mycological Progress, 14(2), 1–16.
-  - Noordeloos, M.E. et al. (1999). "Monograph of Psilocybe."
     arbuscular-mycorrhizal-fungal-diversity-patterns-distribution Press.
 ---
 

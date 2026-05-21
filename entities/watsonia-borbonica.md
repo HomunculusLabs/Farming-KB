@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. (1989). "The genus Watsonia." Annals of the Missouri Botanical Garden, 76(2).
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora." Strelitzia 9. SANBI.
   - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
 ---
 

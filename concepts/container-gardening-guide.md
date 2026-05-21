@@ -3,13 +3,13 @@ title: Container Gardening Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [gardening, water-management, design, vegetables]
+tags: [gardening, cultivation, water-management, design, vegetables]
 sources: []
 ---
 
 # Container Gardening Guide
 
-Container gardening grows plants in pots, planters, and other vessels rather than in the ground. It enables gardening on patios, balconies, rooftops, and in areas with poor or contaminated soil. It is a key technique for edible-landscaping in urban and small-space settings.
+Container gardening grows plants in pots, planters, and other vessels rather than in the ground. It enables gardening on patios, balconies, rooftops, and in areas with poor or contaminated soil. It is a key technique for [[edible-landscaping]] in urban and small-space settings.
 
 ## Pot Sizing
 
@@ -21,7 +21,7 @@ Container size directly affects root development, water retention, and yield. Bi
 |------|-----------------|----------------|-------|
 | Herbs (basil, thyme, parsley) | 6 inch | 10-12 inch | 8+ inches |
 | Lettuce, spinach, Asian greens | 8 inch | 12-14 inch | 6-8 inches |
-| Peppers (one blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system) | 5 gallon | 10 gallon | 12+ inches |
+| Peppers (one plant) | 5 gallon | 10 gallon | 12+ inches |
 | Tomatoes (determinate) | 5 gallon | 10 gallon | 12+ inches |
 | Tomatoes (indeterminate) | 10 gallon | 15-20 gallon | 18+ inches |
 | Cucumbers (bush type) | 5 gallon | 10 gallon | 12+ inches |
@@ -132,12 +132,7 @@ Container soils get depleted faster than garden soil since roots cannot explore 
 
 ## See Also
 
-- garden-bed-designs
-- vertical-gardening-guide
-- edible-landscaping
-- green-roof-and-living-walls
-- [[container-gardening-techniques]]
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
-- [[comparison-wicking-bed-vs-container-gardening]]
-- [[comparison-vertical-gardening-vs-container-gardening]]
-- [[hamilton-container-raised-bed-gardening]]
+- [[garden-bed-designs]]
+- [[vertical-gardening-guide]]
+- [[edible-landscaping]]
+- [[green-roof-and-living-walls]]

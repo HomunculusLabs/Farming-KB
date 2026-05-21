@@ -20,9 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - von Rudloff E (1975). "Volatile leaf oil analysis in chemosystematic studies of growing-gourmet-north-american-reishi-species conifers." Biochemical Systematics and Ecology, 2(3), 131-144.
-  - O'Neil J et al. (2002). "Thuja occidentalis." The Review of Natural Products, Facts & Comparisons.
-  - Foster S, Hobbs C (1999). "A ghouled-field-guide-historical-context to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - https://www.ncbi.nlm.nih.gov/books/NBK537047/
 ---# Thuja occidentalis
 

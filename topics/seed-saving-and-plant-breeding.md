@@ -14,7 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - Steve Solomon, Growing Vegetables West of the Cascades
   - Bill Mollison, Permaculture: A Designer's Manual
   - Sepp Holzer, Sepp Holzer's Permaculture
   - Carol Deppe, The Resilient Gardener

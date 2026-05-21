@@ -13,14 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Samorini, G. (1998). "The oldest representation of hallucinogenic
     mushrooms in the world." Integration: Journal of Mind-Moving Plants
     and Culture 5: 69-78.
-  - Samorini, G. (2002). "Animals and Psychedelics: The Natural World
     and the Instinct to Alter Consciousness." Park Street Press.
-  - Samorini, G. (2012). "Mushrooms, Rocks and Books: The Psychonaut's
     Field Manual." Natural Products.
-  - Ruck, C.A.P. et al. (1978). "Entheogens." Journal of Psychedelic
     Drugs 10(1): 3-4.
 ---
 

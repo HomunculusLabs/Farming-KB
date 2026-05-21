@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singh B, Kaur P, Gopichand, et al. "Biology and chemistry of Ginkgo biloba." Fitoterapia. 2008.
-  - DeKosky ST, Williamson JD, Fitzpatrick AL, et al. "Ginkgo biloba for prevention of dementia." JAMA. 2008.
   - Chan PC, Xia Q, Fu PP. "Ginkgo biloba leave extract: Biological, medicinal, and toxicological effects." Journal of Environmental Science and Health. 2007.
 ---
 

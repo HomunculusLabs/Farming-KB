@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Crocosmia." In: Cape Plants: A Conspectus of the Cape Flora. Strelitzia 9. SANBI.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
   - Goldblatt, P., Davies, T.J. & Manning, J.C. (2003). "The radiation of Crocosmia and its allies." In: Monocots: Systematics and Evolution. CSIRO Publishing.
 ---
 

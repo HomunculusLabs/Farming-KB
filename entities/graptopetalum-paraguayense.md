@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Moran, R. (1992). "Graptopetalum." In: Hunt, D.R. (ed.), CITES Cactaceae Checklist. Royal Botanic Gardens Kew.
-  - Kimnach, M. (2003). "Crassulaceae of Mexico: Graptopetalum." Cactus and Succulent Journal, 75(4), 184-195.
   - Pilbeam, J. (2007). "The Genus Graptopetalum." British Cactus and Succulent Society, 25(3), 89-102.
 ---
 

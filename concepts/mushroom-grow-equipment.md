@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Grow Equipment
 created: 2026-04-11
 updated: 2026-04-12
@@ -136,14 +137,17 @@ The original PF TEK requires no pressure cooker. Complete kit:
 - **Spray shield**: Glass or plastic partition inside aquarium. Mist hits shield, molecularizes, drifts to secondary chamber.
 - **Spore syringe**: 10cc, pre-filled. ~$15-25. Inoculates 10 jars at 1cc each.
 - **3-penny nail**: For punching 4 inoculation holes in jar lids.
+
+**Jar lid prep**: Punch 4 holes in lid with nail. Rubber seal faces up (rubber side touching jar mouth). Fill with substrate, wipe rim, add dry vermiculite barrier (1/2-3/4 inch), screw lid down tight.
+
+**Boil-a-Bag method (Jarrold)**: Polypropylene autoclave bags filled with substrate, sealed, and sterilized by boiling in water for 60 minutes. Alternative to jars for those without pressure canners.
+
+## Indoor Growing Technique Equipment (A4 Doc)
+
+Alternative indoor setup using sealed grow bags with filter patches:
+- Polypropylene grow bags with self-healing injection port and filter patch
+- Liquid culture syringes for faster colonization
+- Heat mat with thermostat for temperature control
 ## See Also
-- [[mushroom-contamination-identification]]
-- [[mushroom-sterile-technique-detailed]]
-- [[mushroom-indoor-cultivation]]
 
-## Related
-
-- [[psylocybe-fanaticus]]
-- [[led-vs-hps-grow-lights]]
-- [[mushroom-species-cultivation-parameters]]
-- [[maitake-cultivation]]
+- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]

@@ -17,10 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shulgin, A.T. & Shulgin, A. (1997). \"TIHKAL: The Continuation.\" Transform Press, pp. 398-403."
-  - "Ott, J. (2001). \"Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History.\" Natural Products Co."
-  - "Lyttle, T. et al. (1996). \"Pharmacokinetics of 5-HO-DMT after buccal administration.\" Journal of Psychoactive Drugs 28(1): 9-14."
-  - "Fábregas, J.M. et al. (2016). \"Assessing the psychedelic 'after-glow' in Ayahuasca users.\" Frontiers in Human Neuroscience 10: 305."
 aliases:
   - Bufotenine
   - Bufotenin

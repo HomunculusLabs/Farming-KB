@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - Richards, J.H. (2001). "Bladder function in Utricularia." In: Carnivorous Plants of the World, Timber Press.
-  - Poppinga, S. et al. (2016). "Fastest predators in the plant kingdom." PNAS, 113(20), 5684-5689.
   - Guisande, C. et al. (2007). "Bladderworts: The Most Complex Carnivorous Plants." Fundacion Bentin.
 ---
 

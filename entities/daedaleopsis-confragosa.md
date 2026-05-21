@@ -10,9 +10,6 @@ tags:
   - decomposition
   - saprotroph
 sources:
-  - Ryvarden, L. & Gilb., G. (2004). "Poroid genera of the wood-inhabiting Basidiomycota in Europe." Synopsis Fungorum 21.
-  - Bernicchia, A. (2005). "Polyporaceae s.l." Fungi Europaei 10.
-  - Phillips, R. (2013). "Mushrooms and other Fungi of Great Britain and Europe." Pan Macmillan.
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
 ---
 

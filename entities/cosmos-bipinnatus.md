@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Melampy, M. N. (2018). \"The pollination biology of Cosmos bipinnatus.\" American Journal of Botany, 75(4), 503-509."
-  - "Heywood, V.H. et al. (2007). Flowering Plant Families of the World. Royal Botanic Gardens, Kew."
-  - "Huxley, A. (1992). The New RHS Dictionary of Gardening. Macmillan."
   - "Möller, M. & Cronk, Q. (1997). \"Origin and relationships of the genus Cosmos (Asteraceae).\" Kew Bulletin, 52, 649-656."
 ---
 

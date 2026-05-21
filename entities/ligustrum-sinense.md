@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Guo, Q. (2005). "Invasion of Chinese privet in the southern United States." Biological Invasions, 7, 389-398.
-  - Webster, C.R. et al. (2006). "Chinese privet and the feeding ecology of white-tailed deer." Forest Ecology and Management, 222, 65-74.
   - United States Forest Service. "Chinese Privet: Identification, Biology, and Control." USDA FS Invasive Species Alert.
 ---
 

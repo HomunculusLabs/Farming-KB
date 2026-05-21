@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Strain of the Year 2023: Permanent Marker." Leafly.
-  - AllBud Database (2024). "Permanent Marker blesching-cannabis-strain-selection-receptor-targeting Review."
-  - Cookies Genetics (2023). "Permanent Marker Lineage and Release Notes."
-  - query-sog-vs-scrog-cannabis-training-methods University (2024). "Growing Permanent Marker: A Guide."
   - Weedmaps Strain Library (2024). "Permanent Marker Profile."
 ---
 

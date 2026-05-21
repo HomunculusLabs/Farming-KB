@@ -12,10 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Peters, R. (1997). \"Beech Forests.\" Kluwer Academic Publishers, Dordrecht."
-  - "Packham, J.R., Harding, D.J.L., Hilton, G.M. & Stuttard, R.A. (2012). \"Biological Flora of the British Isles: Fagus sylvatica.\" Journal of Ecology, 100(6), 1552–1604."
-  - "EUFORGEN (2009). \"European Forest Genetic Resources Programme: Fagus sylvatica.\" http://www.euforgen.org"
-  - "Tittl, J. (2019). \"Beech: Ecology, Management, and Conservation.\" Springer Nature."
   - "Falinski, J.B. (1986). \"Vegetation Dynamics in Temperate Lowland Primeval Forests.\" Dr W. Junk Publishers."
 ---
 

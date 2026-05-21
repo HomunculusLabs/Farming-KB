@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Nash TH III (2008). *dighton-fungal-biosorption-heavy-metal-remediation pollution." *Environmental Pollution* 68(3): 321-329.
 ---
 

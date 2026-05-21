@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Leguminosae." University of north-carolina-mycodiversity Press.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - USDA NRCS (2023). Plant Profile: Cladrastis kentukea. https://plants.usda.gov/home/plantProfile?symbol=CLKE2
 ---
 

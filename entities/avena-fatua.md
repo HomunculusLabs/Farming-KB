@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zohary, D. & Hopf, M. (2000). "Domestication of Plants in the Old World." Oxford University Press.
-  - Holm, L.G. et al. (1977). "The World's Worst Weeds: Distribution and Biology." University Press of Hawaii.
-  - Chancellor, R.J. & Peters, N.C.B. (1976). "Germination Periodicity of Wild Oat." Weed Research 16(1): 41-48.
-  - Beckie, H.J. et al. (2012). "Herbicide-Resistant Wild Oat." Weed Science 60(S1): 1-11.
   - Cavan, G.P. et al. (1998). "Seed Bank Dynamics of Wild Oat." Weed Research 38(5): 365-375.
 ---
 

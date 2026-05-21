@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Franconi, R. et al. (2000). "Does chocolate have a role in the future of cardiovascular prevention?" Current Opinion in Lipidology, 11(1), 41-44.
-  - Smit, H.J. et al. (2004). "Mood effects of theobromine." Psychopharmacology, 176(3-4), 412-419.
-  - Ding, E.L. et al. (2006). "Chocolate and prevention of cardiovascular disease." Circulation, 114(7), e73-e74.
   - Taubert, D. et al. (2007). "Impact of cocoa and theobromine consumption on blood pressure." Archives of Internal Medicine, 167(7), 626-634.
 ---
 

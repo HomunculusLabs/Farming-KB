@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Judd, W.S. & Kron, K.A. (1993). "Phylogeny and Generic Circumscription of the Andromedeae." Journal of the Botanical Research Institute of Texas.
-  - Kawano, S. (1965). "Biosystematic Studies on the Japanese Species of the Genus Pieris." Journal of the Faculty of Science, University of Tokyo.
-  - Bean, W.J. (1976). Trees and Shrubs Hardy in the British Isles. 8th ed. John Murray.
   - Kron, K.A. et al. (2002). "Phylogenetic Classification of Ericaceae." Botanical Journal of the Linnean Society.
 ---
 

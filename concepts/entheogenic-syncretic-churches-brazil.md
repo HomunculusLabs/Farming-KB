@@ -5,7 +5,6 @@ updated: 2026-04-28
 type: concept
 tags: [ayahuasca, brazil, syncretic-religion, entheogenic-ceremony, santo-daime, udv, bwiti, iboga]
 sources:
-  - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
   - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 ---
 

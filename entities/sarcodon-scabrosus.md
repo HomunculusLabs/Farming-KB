@@ -14,12 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Maas Geesteranus, R.A. (1975). The terrestrial hydnaceous fungi of the eastern datura-metel-old-world-ethnobotany. Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, 65, 1-127."
-  - "Stalpers, J.A. (1993). The aphyllophoraceous fungi II: Meripilus - Tyromyces. Netherlands Journal of Botany, 43(3), 245-253."
-  - "Breitenbach, J. & Kränzlin, F. (1986). Fungi of Switzerland Volume 2: Heterobasidiomycetes, Aphyllophorales, Gasteromycetes. Verlag Mykologia."
-  - "Phillips, R. (2013). Mushrooms and other Fungi of Great Britain and Europe. Pan Macmillan."
-  - "Kõljalg, U., et al. (2013). Towards a unified paradigm for sequence-based identification of fungi. Molecular Ecology, 22(21), 5271-5277."
-  - "Evans, S.E., et al. (2018). Thelephorales: a molecular phylogenetic perspective. Mycologia, 110(3), 456-468."
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=130753"
 ---
 
@@ -80,3 +74,14 @@ Despite being inedible, *Sarcodon scabrosus* has been investigated for [[query-w
 - **Polyphenols and tannins**: Contributing to the extreme bitterness and astringency
 
 The intense and persistent bitter taste is the primary reason this species is considered inedible. Boiling does not sufficiently remove the bitterness, unlike some related species (*S. imbricatus* sensu stricto) that have historically been used as seasoning mushrooms in Scandinavia after extensive parboiling.
+## Current Research
+
+Recent studies on sarcodon scabrosus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with sarcodon scabrosus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

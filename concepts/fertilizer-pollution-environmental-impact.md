@@ -35,7 +35,7 @@ Although farmers usually receive the blame for excessive synthetic fertilizer us
 
 - Studies show gardeners use **three times more synthetic nitrogen per acre** than farmers
 - [[purdue-four-step-garden-fertilization-program]] contribute substantially to local watershed pollution
-- Home gardeners are less likely to have soil tests or follow calibrated [[ozier-pdc-composting-and-soil-building]] acts as a natural nutrient retention system. When [[glomalin-and-soil-carbon]]
+- Home gardeners are less likely to have soil tests or follow calibrated [[ozier-pdc-composting-and-soil-building]] acts as a natural nutrient retention system. When [[glomalin]]
 - [[ozier-pdc-composting-and-soil-building]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

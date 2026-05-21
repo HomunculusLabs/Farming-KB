@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jalas, J. (1971). "Notes on Thymus L. (Lamiaceae) in Europe." Annales Botanici Fennici, 8, 254-301.
-  - Stahl-Biskup, E. & Saez, F. (2002). "Thyme: The Genus Thymus." Taylor & Francis.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Morales, R. (2002). "The history, *) but is
 distinguished by its prostrate growth habit, smaller leaves, and lower-growing
 stature. It has been valued for centuries as a culinary herb, medicinal plant,

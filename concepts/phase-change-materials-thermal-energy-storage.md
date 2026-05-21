@@ -6,7 +6,6 @@ created: 2026-05-02
 updated: 2026-05-06
 type: concept
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 

@@ -10,8 +10,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Chang, S.T. & Miles, P.G. (2004). "Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
   - Wasser, S.P. (2010). "cancer-medicinal-mushrooms-extraction-bioavailability 12(1): 1-16.
 ---
 

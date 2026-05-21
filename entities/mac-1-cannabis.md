@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Caplan, D. (2023). "MAC 1 Strain Review." Leafly.
-  - Clarke, R.C. & Merlin, M.D. (2016). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - Hazekamp, A. (2018). "Cannabis Review: MAC Phenotypes." Science & Cannabis Journal, 6(2), pp. 145-152.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Davis, J.M. (1992). "Current Status of Ramps (Allium tricoccum and A. burdickii) in the Great Lakes Region." Michigan Botanist, 31, 59–65.
-  - Rock, C.K. (1998). "Ecology and fungal-biodiversity-conservation-status Report." natureserve.org.
   - Burkhart, E.P. & Jacobson, M.G. (2006). "Forest Farming of Ramps (Allium tricoccum)." In: Proceedings of the growing-gourmet-north-american-reishi-species Agroforestry Conference.
 ---
 

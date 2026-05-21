@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - Green, J. (2017). "The cervantes-landrace-cannabis-populations strain originating from Jamaica, deeply associated with Rastafarian spiritual practice and Jamaican sativa-landrace-strains-and-geographic-origins share genetic affinity with other Caribbean and Central American sativas, forming part of a broader neo-tropical sativa gene pool.
 ---
 

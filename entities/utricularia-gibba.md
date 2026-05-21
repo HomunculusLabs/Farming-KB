@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - Jobson, R.W. et al. (2018). "Genome of the Bladderwort Utricularia gibba." Nature 498: 363–367.
-  - Mies, B. & Barthlott, W. (2003). "Carnivorous Plants of the World." Timber Press.
   - Rice, B.A. (2006). "Growing Carnivorous Plants." Timber Press.
 ---
 

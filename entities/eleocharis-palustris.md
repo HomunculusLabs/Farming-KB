@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Strong A.S. & Pip E. (2002). "Eleocharis palustris (Cyperaceae) in the British Isles." Watsonia, 24, 19–30.
-  - USDA NRCS (2024). "Eleocharis palustris (L.) Roem. & Schult. — common spikerush." PLANTS Database.
-  - Weishaar R. & Ewing K. (2005). "Distribution and ecology of Eleocharis palustris in Pacific Northwest wetlands." Wetlands, 25(2), 374–383.
   - Hroudová Z. & Zákravský P. (2003). "Distribution and ecology of the genus Eleocharis R. Br. (Cyperaceae) in the Czech Republic." Preslia, 75, 267–286.
 ---
 

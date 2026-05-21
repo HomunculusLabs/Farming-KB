@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Thell A, Randlane T, Stenroos S, Ahti T. (2004). "Phylogeny of Cetraria, Cornicularia, and related lichen genera (Parmeliaceae)." The Bryologist 107(4): 495–505.
-  - Kärnefelt I, Thell A. (1993). "The genera Cetrelia and Cetrariastrum (Lecanorales, Ascomycotina)." Opera Botanica 117: 1–72.
   - Nash TH III. (2008). "lichenicolous-fungi of Alaska." Report from the Kevo Subarctic Research Station 11: 1–120.
 ---
 

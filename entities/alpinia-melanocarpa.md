@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mood J, Poulsen AD. (2005). "Alpinia (Zingiberaceae) in Borneo." Gardens' Bulletin Singapore.
-  - Newman M, Lhuillier A, Poulsen AD. (2004). "Checking the List of Zingiberaceae in Borneo." Edinburgh Journal of Botany.
-  - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
   - Poulsen AD. (2006). "Elingamita and Alpinia in the Pacific." Blumea.
 ---
 

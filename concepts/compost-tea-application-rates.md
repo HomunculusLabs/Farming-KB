@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [composting, soil]
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 ## Compost Tea Application Rates

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gould, F.W. (1975). "The Grasses of Texas." Texas A&M University Press.
-  - Coupland, R.T. (1992). "Natural Grasslands: Eastern Hemisphere and Resume." Ecosystems of the World 8B. Elsevier.
-  - Coffin, D.P. & Lauenroth, W.K. (1992). "Survival of Stipa Breviflora and Bouteloua Gracilis Seedlings." Journal of Range Management 45: 531-535.
   - Wilson, A.M. & Briske, D.D. (1979). "Semiaquatic Habitat Adaptation in Blue Grama." Journal of Range Management 32: 209-212.
 ---
 

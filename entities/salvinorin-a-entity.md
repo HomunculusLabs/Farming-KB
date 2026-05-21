@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Roth, B.L. et al. (2002). "Salvinorin A: A potent naturally occurring nonnitrogenous kappa opioid selective agonist." PNAS 99(18): 11934-11939.
   - https://www.erowid.org/plants/salvia/salvia_chemistry.shtml
 ---# Salvinorin A
 

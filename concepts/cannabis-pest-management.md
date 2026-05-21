@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis pest management uses [[integrated-pest-management]] (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
+Cannabis pest management uses Integrated Pest Management (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
 
 ## Integrated Pest Management (IPM) Framework
 
@@ -72,8 +72,8 @@ Small dark flies that hover around the soil surface. Larvae feed on organic matt
 **Management**:
 - Allow soil surface to dry between waterings (larvae need moisture)
 - Yellow sticky traps to catch adults and monitor population
-- Mosquito Bits ([[bacillus-thuringiensis]] israelensis — Bti) as a soil drench
-- [[diatomaceous-earth]] (DE) sprinkled on soil surface (desiccates larvae)
+- Mosquito Bits (Bacillus thuringiensis israelensis — Bti) as a soil drench
+- Diatomaceous earth (DE) sprinkled on soil surface (desiccates larvae)
 - Beneficial nematodes (Steinernema feltiae) applied to soil
 - Cinnamon powder on soil surface as a deterrent
 
@@ -101,7 +101,7 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 **Identification**:
 - Clusters of small green, black, or yellow insects on new growth
 - Sticky honeydew on leaves below infestation
-- [[sooty-mold]] growing on honeydew
+- Sooty mold growing on honeydew
 - Curled, distorted new leaves
 
 **Management**:
@@ -148,3 +148,7 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 - Quarantine any plant showing pest symptoms immediately
 
 Pest-damaged plants are more susceptible to [[cannabis-disease-guide]] pathogens. Weak, stressed plants attract more pests — maintaining plant health through proper [[cannabis-nutrient-recipes]] is foundational to pest resistance.
+
+## Related
+
+- cannabis pest management

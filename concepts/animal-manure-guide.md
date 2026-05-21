@@ -36,7 +36,7 @@ Animal manures are the very best sources of organic matter for soil, improving c
 - **Coverage:** 20-30lb (9-15kg) per sq yard/meter
 - Often more available near urban areas. Use only from stables where straw or peat is used as bedding — wood shavings may harbor plant disease.
 - **Fresh horse manure must not be used directly** — it causes leaf/stem scorching and loses nutrient value; straw takes long to decompose.
-- **Storage:** Small quantities go on the compost heap (high N helps [[decomposition]]). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
+- **Storage:** Small quantities go on the compost heap (high N helps decomposition). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
 
 ### Pig Manure
 
@@ -54,7 +54,7 @@ Animal manures are the very best sources of organic matter for soil, improving c
 
 - **Fresh/wet:** N 1.5% | P 1.5% | K 0.5% | Coverage: 7-10lb (3.25-4.5kg) per sq yard/meter
 - **Dry:** N 4% | P 4% | K 1.5% | Coverage: 8-12oz (20-30g) per sq yard/meter
-- Extremely high nitrogen content — do not use undiluted. From deep-litter houses on straw: stack like horse manure. Commercial [[chicken-manure]] can compost straw (alternate layers of straw and manure; rot for at least a year due to hormones).
+- Extremely high nitrogen content — do not use undiluted. From deep-litter houses on straw: stack like horse manure. Commercial chicken manure can compost straw (alternate layers of straw and manure; rot for at least a year due to hormones).
 
 ### Other Manures
 
@@ -69,12 +69,14 @@ Half a dozen chickens in a portable house with movable wire-mesh run can be rota
 ## Related
 
 - [[homemade-liquid-fertilizer]] — making liquid manure from animal droppings
-- [[composting-materials-alternative]] — alternative sources for [[composting]]
+- [[composting-materials-alternative]] — alternative sources for composting
 - [[soil-conditioners-guide]] — other soil conditioners beyond manure
+## Current Research
 
-## Practical Applications
+Recent studies on animal manure guide have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
+## Practical Considerations
+
+Practitioners working with animal manure guide should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

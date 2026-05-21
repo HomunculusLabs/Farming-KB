@@ -12,15 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lynch, J. (1995). Root architecture and plant productivity. *Plant Physiology*, 109(1), 7-13.
-  - Malamy, J. E. (2005). Intrinsic and environmental response pathways that regulate root system architecture. *Plant, Cell & Environment*, 28(1), 67-77.
-  - Cassab, G. I., et al. (2013). Root system architecture: achievements and challenges. *Plant Science*, 207, 1-9.
-  - Hochholdinger, F., & Zimmermann, R. (2021). Root system development and its contribution to yield in crops. *Annual Review of Plant Biology*, 72, 565-592.
-  - Kende, H., et al. (1998). Cellular and molecular biology of auxin and ethylene responses. *Journal of Plant Research*, 111(1102), 247-252.
-  - Kutschera, U., & Briggs, W. R. (2016). Root phototropism: from dogma to the plant-photoreceptors-and-mechanism-of-light-perception sensing. *Plant, Cell & Environment*, 39(1), 23-30.
-  - Eapen, D., et al. (2005). Hydrotropism: root growth responses to water. *Trends in Plant Science*, 10(1), 44-50.
-  - Foreman, J., et al. (2003). Reactive oxygen species mediate a gravity signal in root statocytes. *Nature*, 434(7030), 437-440.
-  - Dor, E., & Kiss, J. Z. (2013). Thigmotropism and the mechanical mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide in plant roots. *Plant Signaling & Behavior*, 8(12), e26984.
   - Bais, H. P., et al. (2004). Allelopathy and exotic plant invasion: from molecules and genes to species interactions. *Science*, 305(5690), 1122-1126.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schlauer, J. (2001). "Drosera." In: The Carnivorous Plants, ed. S. Porembski. Academic Press.
-  - McPherson, S.R. (2010). "Drosera: Growing Sundews." Redfern Natural History Productions.
-  - Darwin, C. (1875). "Insectivorous Plants." John Murray, London.
-  - Gibson, T.C. (1991). "The electrophysiology of the sundew." Journal of Experimental Botany, 42, 1299–1311.
   - NatureServe (2024). "Drosera anglica — Element Conservation Status." NatureServe Explorer.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
-  - Weakley, A.S. (2023). Flora of the Southeastern north-carolina-mycodiversity Herbarium.
-  - Royal Horticultural Society (2024). "Fothergilla." https://www.rhs.org.uk/
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
 ---
 

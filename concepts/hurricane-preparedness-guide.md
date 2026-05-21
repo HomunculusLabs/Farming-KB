@@ -9,7 +9,7 @@ sources: []
 
 # Hurricane Preparedness Guide
 
-Hurricanes are among [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide covers storm preparation, protection, evacuation, and recovery.
+Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide covers storm preparation, protection, evacuation, and recovery.
 
 ## Understanding Hurricane Categories
 
@@ -27,7 +27,7 @@ Note: Categories measure wind speed only. Storm surge and rainfall flooding ofte
 
 ## Storm Shutters and Window Protection
 
-Windows [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them vulnerable point [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] building during a hurricane. Once a window fails, wind enters the structure, creating internal pressurization that can blow off the roof.
+Windows are the most vulnerable point on a building during a hurricane. Once a window fails, wind enters the structure, creating internal pressurization that can blow off the roof.
 
 ### Permanent Shutters
 
@@ -49,7 +49,7 @@ Windows [[query-what-are-the-different-phytoremediation-mechanisms-and-which-pla
 
 ### Installation Priority
 
-1. Windows facing the most likely wind direction (typically [[ancient-cannabis-use-near-east-and-egypt]] south for Atlantic hurricanes)
+1. Windows facing the most likely wind direction (typically east and south for Atlantic hurricanes)
 2. Large windows and glass doors (sliding glass doors are extremely vulnerable)
 3. Gable-end windows (these receive the most wind pressure)
 4. All remaining windows
@@ -133,17 +133,21 @@ Windows [[query-what-are-the-different-phytoremediation-mechanisms-and-which-pla
 ### If You Shelter in Place
 - Shelter in an interior room away from windows (closet, bathroom, hallway)
 - Stay away from windows, doors, and exterior walls during the storm
-- Do not go outside during the eye [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] storm — the second half may be worse
+- Do not go outside during the eye of the storm — the second half may be worse
 - Monitor weather radio for storm updates
 - Keep your emergency supplies in your shelter room
 
-## See Also
-- [[mollison-hurricane-and-cyclone-resilient-design]]
 ## Protecting Livestock and Animals
 
 - Evacuate livestock early — trailers cannot be safely towed in hurricane winds
 - Move animals to the most sturdy, well-built shelter available
-- Ensure access to feed [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] for 7+ days (water bowls may blow away — secure them)
+- Ensure access to feed and water for 7+ days (water bowls may blow away — secure them)
 - Do not leave animals in pastures that may flood from storm surge or rainfall
 - Tag or mark all animals with identification
 - Have veterinary first aid supplies ready (see [[homestead-first-aid-guide]])
+- After the storm, check animals for injuries and provide clean water immediately
+
+## Recovery After Hurricane
+## See Also
+
+- [[williams-pdc-disaster-preparedness]]

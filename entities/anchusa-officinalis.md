@@ -11,10 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tutin, T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
-  - Clapham, A.R. et al. (1987). Flora of the British Isles, 3rd ed. Cambridge University Press.
-  - Bruneton, J. (1999). Pharmacognosy, Phytochemistry, Medicinal Plants, 2nd ed. Lavoisier Publishing.
-  - RHS (2024). "Anchusa officinalis." Royal Horticultural Society Plant Finder.
   - Kintscher, K. (2001). "Pyrrolizidine alkaloids in Boraginaceae." Pharmazie 56(1): 11–18.
 ---
 

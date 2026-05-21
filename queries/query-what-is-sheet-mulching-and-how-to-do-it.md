@@ -5,7 +5,6 @@ tags: [query, sheet-mulching, no-till, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 

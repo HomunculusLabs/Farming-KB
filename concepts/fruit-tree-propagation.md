@@ -99,7 +99,7 @@ Used for figs, grapes, currants, gooseberries, and some berries.
 1. Take cuttings from current season's growth, 4-6 inches long
 2. Remove lower leaves, keeping 2-3 leaves at the top
 3. Dip the cut end in rooting hormone
-4. Insert 2-3 inches into moist potting mix ([[perlite]]/peat or sand/peat)
+4. Insert 2-3 inches into moist potting mix (perlite/peat or sand/peat)
 5. Cover with a humidity dome or plastic bag
 6. Keep in bright, indirect light at 65-75F
 7. Mist regularly. Roots form in 3-6 weeks
@@ -131,7 +131,7 @@ Choose rootstock based on your goals:
 - Dwarf (8-10 feet at maturity): good for small spaces, easy harvesting, begins bearing in 2-3 years
 - Semi-dwarf (12-16 feet): balance of size and yield, begins bearing in 3-4 years
 - Standard (20-30 feet): largest yield, longest-lived, begins bearing in 5-7 years
-- Disease-resistant rootstocks: essential in areas with specific disease pressures (fire blight, nematodes, [[phytophthora]])
+- Disease-resistant rootstocks: essential in areas with specific disease pressures (fire blight, nematodes, Phytophthora)
 
 ## Aftercare for Grafted Trees
 
@@ -143,6 +143,6 @@ Choose rootstock based on your goals:
 
 ## Related Concepts
 
-- [[greenhouse-growing]] -- root cuttings and grow grafted trees in a greenhouse for faster establishment
+- [[greenhouse-growing-guide]] -- root cuttings and grow grafted trees in a greenhouse for faster establishment
 - [[saving-seeds]] -- seed-grown rootstocks for grafting (for species where this is viable)
 - [[homesteading-income-streams]] -- selling grafted fruit trees is a profitable nursery business

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Zhou, L. et al. (2010). "Leonurus japonicus: a review." Journal of Ethnopharmacology, 128(2), 275-280.
-  - Kavvadias, D. et al. (2000). "Leonurine." Planta Medica, 66(8), 741-744.
-  - Liu, Y. et al. (2012). "Leonurus japonicus: phytochemistry and pharmacology." Pharmaceutical Biology, 50(8), 1002-1011.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the Peoples Republic of China. Vol. I.
 ---
 

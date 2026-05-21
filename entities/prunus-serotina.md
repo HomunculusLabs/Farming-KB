@@ -12,9 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
-  - Hough, R.B. (1957). Hough's Encyclopedia of American Woods. Robert Clarke Co.
-  - USDA NRCS (2024). Plant Profile: *Prunus serotina*.
   - Duke, J.A. (2002). Handbook of polypore-fungi-eastern-north-america America, valued for its fine woodworking timber and distinctive dark, bitter fruit. It is the largest of the native north-american-dmt-containing-plants-phalaris-desmanthus-peganum hardwoods, second only to black walnut in per-board-foot value.
 ---
 

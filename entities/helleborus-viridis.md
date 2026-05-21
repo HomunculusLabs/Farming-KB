@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1989). "Hellebores: A Guide to the Genus." Alpine Garden Society.
-  - Rice, G. & Strangman, E. (1993). "The Gardener's Guide to Growing Hellebores." Timber Press.
-  - Tutin, T.G. (1993). "Flora Europaea Vol. 1." Cambridge University Press.
   - McLewin, W. & Mathew, B. (2007). "Helleborus vitifolius and its Relatives." The Plantsman.
 ---
 

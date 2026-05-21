@@ -17,9 +17,9 @@ Design the workshop around workflow zones similar to [[homestead-kitchen-design]
 
 - **Bench area** — heavy workbench (minimum 6 feet long, 30-36 inches deep, 34-36 inches tall) secured to the wall. Hardwood top, minimum 2 inches thick.
 - **Assembly area** — open floor space for larger projects. Minimum 8x8 feet clear.
-- **Tool storage wall** — pegboard or French cleat system within arm's reach [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] bench.
+- **Tool storage wall** — pegboard or French cleat system within arm's reach of the bench.
 - **Material storage** — lumber racks, hardware bins, scrap pile. Keep dimensional lumber flat and dry.
-- **Power tool station** — near outlets, ideally [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] mobile cart for flexibility.
+- **Power tool station** — near outlets, ideally on a mobile cart for flexibility.
 - **Cleaning/solvent area** — near a door or ventilation. Parts washer if you do engine work.
 
 Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per square foot. A dedicated 20-amp circuit for heavy tools.
@@ -52,7 +52,7 @@ Prioritize in this order based on utility-to-cost ratio:
 7. **Table saw** — once you are building furniture, shelving, and cabinetry regularly, a table saw becomes essential. A contractor saw with a good fence is sufficient.
 8. **Miter saw** — for accurate crosscuts, trim work, and framing.
 9. **Router** — edge profiling, dadoes, mortises, inlays.
-10. **Welder** — stick welder (SMAW) is cheapest [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]. MIG is easier to learn. Essential for heavy homestead fabrication.
+10. **Welder** — stick welder (SMAW) is cheapest to start. MIG is easier to learn. Essential for heavy homestead fabrication.
 
 ## Tool Maintenance
 
@@ -60,7 +60,7 @@ Tools are an investment. Maintain them:
 
 - **Hand tools** — wipe down after use, oil moving parts, sharpen cutting edges regularly. Learn to sharpen saws, chisels, and drill bits on a whetstone.
 - **Power tools** — blow out dust with compressed air after each use. Check cords for damage. Lubricate per manufacturer schedule.
-- **Batteries** — store at 50% charge [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] cool, dry place. Do not leave on the charger indefinitely. Cycle them every few months.
+- **Batteries** — store at 50% charge in a cool, dry place. Do not leave on the charger indefinitely. Cycle them every few months.
 - **Blades and bits** — replace when dull. A dull blade is dangerous and produces poor work. Keep spares of commonly used sizes.
 
 ## Tool Organization
@@ -69,8 +69,8 @@ A pegboard wall is the classic solution and works well. Supplement with:
 
 - **French cleat system** — wooden strips mounted to the wall with interlocking hangers. Supports heavy items and is infinitely reconfigurable.
 - **Drawer organizers** — for small hardware, bits, and accessories.
-- **Shadow boards** — outline each tool on the wall behind where it hangs. Instantly shows [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] missing and where it goes.
-- **Mobile tool carts** — for tools that need to move between the shop [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] work site.
+- **Shadow boards** — outline each tool on the wall behind where it hangs. Instantly shows what is missing and where it goes.
+- **Mobile tool carts** — for tools that need to move between the shop and the work site.
 - **Hardware storage** — a wall of small drawers or bins for screws, nails, bolts, washers. Sort by type and size.
 
 ## Safety Equipment
@@ -88,7 +88,7 @@ Non-negotiable safety gear for the workshop:
 
 Start with a simple structure — a shed or pole barn with a concrete slab floor, good lighting, and adequate power. Insulate if you live in a climate with extreme temperatures. You can always expand later. A 16x24 foot shop is a practical minimum for serious homestead work.
 
-Prioritize the workbench first — a solid, flat, stable surface makes every project easier. Build it yourself from 2x4 lumber [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] hardwood top. Then acquire tools as projects demand them rather than buying everything at once.
+Prioritize the workbench first — a solid, flat, stable surface makes every project easier. Build it yourself from 2x4 lumber and a hardwood top. Then acquire tools as projects demand them rather than buying everything at once.
 ## Related
 
 - [[homestead-tool-maintenance]]

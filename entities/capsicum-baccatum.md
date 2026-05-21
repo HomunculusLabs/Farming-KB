@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bosland, P.W. & Votava, E.J. (2012). "Peppers: Vegetable and Spice Capsicums." CABI.
-  - Carrizo García, C. et al. (2016). "Phylogenetic relationships, diversity, and genetic structure of wild and cultivated peppers (Capsicum spp.)." Molecular Phylogenetics and Evolution, 99, 104–116.
-  - Eshbaugh, W.H. (1993). "Peppers — history and exploitation of a serendipitous new crop discovery." In: New Crops. Wiley.
   - IBPGR (1983). "Descriptors for Capsicum (Capsicum spp.)." International Board for Plant Genetic Resources, Rome.
 ---
 

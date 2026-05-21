@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Rosales M, Galindo J, Gonzalez J, et al. (2001). "Trichanthera gigantea as a source of protein for livestock." Livestock Research for Rural Development, 13(5).
   - Murgueitio E, Calle Z, Uribe F, et al. (2011). "Native guzman-psilocybin-mushrooms-south-america and fukuoka-natural-farming-in-tropical-regions worldwide.
 ---
 

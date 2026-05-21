@@ -13,8 +13,6 @@ tags:
   - permaculture
 sources:
  — Melissa officinalis clinical studies
-  - Mills, S. & Bone, K. (2000). The Essential Guide to Herbal Safety. Elsevier.
-  - Hoffman, D. (2003). Medical Herbalism. Healing Arts Press.
   - Kennedy, D.O. et al. (2004). "Mood and Cognitive Performance." Psychopharmacology.
 --- Melissa officinalis
 

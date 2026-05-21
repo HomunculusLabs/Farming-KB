@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cox P.B. & Urbatsch L.E. (2006). "Ratibida." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America, Vol. 21, 62–64.
-  - Ladd D. & Nelson P. (2015). Tallgrass Prairie Wildflowers 2nd ed. FalconGuides.
   - Haddock M.J. (2015). Wildflowers and Grasses of Kansas. University Press of Kansas.
 ---
 

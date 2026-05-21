@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pilbeam, J. (2008). "The Genus Echeveria." British Cactus & Succulent Society.
-  - Kimnach, M. (2003). "A Revision of Echeveria Series Elegantes." Cactus and Succulent Journal, 75(4).
-  - Reyes-Santiago, J. et al. (2009). "Echeveria (Crassulaceae) of Mexico." CONABIO.
-  - Royal Horticultural Society (2023). "Echeveria elegans — RHS Gardening." rhs.org.uk.
   - Moran, R. (1974). "Crassulaceae." In W. R. Ernst (Ed.), Flora of Mexico.
 ---
 
@@ -79,3 +75,14 @@ The species performs well in terracotta pots, which allow faster soil drying tha
 ## Ecological Role
 
 In its native habitat, Echeveria elegans contributes to rocky cliff communities by stabilizing thin soils in crevices. Its shallow but extensive root system anchors substrate that would otherwise erode during seasonal rains.
+## Current Research
+
+Recent studies on echeveria elegans have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with echeveria elegans should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

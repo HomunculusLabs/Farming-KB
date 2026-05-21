@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wagner W.H. Jr. & Wagner F.S. (1993). "Ophioglossaceae." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2.
-  - Mesler M.R. & Lu K.L. (1983). "The biology of the Ophioglossaceae." American Fern Journal, 73(3), 65–72.
-  - Johnson-Groh C.L. (1998). "Spore bank ecology of Botrychium." American Fern Journal, 88(1), 1–9.
-  - Farrar D.R. (1998). "The Ophioglossaceae in Michigan." Michigan Botanist, 37, 65–76.
   - USDA NRCS (2024). "Botrychium virginianum Plant Profile." plants.usda.gov.
 ---
 

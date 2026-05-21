@@ -139,4 +139,4 @@ Lion's Mane has a mild, sweet flavor often compared to lobster or crab. The text
 - [[shiitake-cultivation-guide]] for log cultivation techniques applicable to Lion's Mane
 - [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] for species comparison
 - [[medicinal-mushroom-guide]]
-- [[reishi-cultivation]]
+- [[reishi-cultivation-guide]]

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Blackstonia." In Tutin, T.G. et al. (eds.), Flora Europaea 3: 58. Cambridge University Press.
-  - Zeltner, L. (1970). "Researches biosystématiques sur le genre Blackstonia." Bulletin de la Société Neuchâteloise des Sciences Naturelles 93: 1–164.
   - Tison, J.M. & de Foucault, B. (2014). Flora Gallica. Biotope Éditions.
 ---
 

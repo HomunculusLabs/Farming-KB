@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Wen, J. & Shi, S. (2015). "Phylogeny and biogeography of Hamamelis (Hamamelidaceae)." Systematic Botany, 40(1), 122-131.
-  - Lancaster, R. (2008). "Plantsman's Paradise: Travels in China." Timber Press.
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan Press.
 ---
 

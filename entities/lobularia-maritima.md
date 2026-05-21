@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jalas, J. & Suominen, J. (1994). "Atlas Florae Europaeae, Vol. 10." Helsinki University Press.
   - Colley, M. & Tilt, K. (2001). "mycelium-digestive-membrane-information-network.
 ---
 

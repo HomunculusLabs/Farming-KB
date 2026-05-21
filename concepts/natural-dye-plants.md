@@ -138,13 +138,17 @@ Integrate dye plants into the homestead landscape:
 5. Add pre-mordanted fiber to dye bath
 6. Simmer 30-60 minutes
 7. Cool in bath for best color absorption
+
+### Cold Extraction
+
+For delicate pigments (some flowers, berries):
+1. Soak plant material in water 24-48 hours
+2. Strain and use liquid as dye bath
+3. May require longer immersion times
+
+### Fermentation Extraction
 ## See Also
 
-- [[herbal-medicine]] — Overlap of medicinal and dye plants on the homestead
-- [[permaculture-plant-catalog]] — Multi-functional plants including dye species
-- [[cover-cropping-guide]] — [[cover-crop-species-comparison|Cover crop]]s that double as dye sources (buckwheat, mustard)
-
-## Related
-
-- [[plant-propagation-methods]]
-- [[companion-planting-reference]]
+- [[jeavons-natural-pest-control]]
+- [[natural-farming-fpj-preparation]]
+- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

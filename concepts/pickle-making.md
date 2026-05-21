@@ -9,11 +9,11 @@ sources: []
 
 ## What Are Pickles
 
-Pickling is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] oldest food preservation methods, using acid (vinegar) or salt-based fermentation to preserve vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles ([[lactic-acid-bacteria]] produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and shelf life.
+Pickling is one of the oldest food preservation methods, using acid (vinegar) or salt-based fermentation to preserve vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles (lactic acid bacteria produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and shelf life.
 
 ## Quick Pickles (Vinegar-Based)
 
-Quick pickles (also called refrigerator pickles) are the simplest introduction to pickling. Vegetables are submerged [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] hot vinegar solution and stored [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] refrigerator.
+Quick pickles (also called refrigerator pickles) are the simplest introduction to pickling. Vegetables are submerged in a hot vinegar solution and stored in the refrigerator.
 
 ### The Brine
 
@@ -46,7 +46,7 @@ A basic quick pickle brine:
 
 ## Fermented Pickles (Brine Fermentation)
 
-Fermented pickles use [[lactic-acid-bacteria-serum-cannabis-cannabinoid-production]] bacteria (LAB) naturally present on vegetable surfaces to convert sugars into lactic acid. This process develops complex sour flavors, preserves the vegetables, and creates probiotics.
+Fermented pickles use lactic acid bacteria (LAB) naturally present on vegetable surfaces to convert sugars into lactic acid. This process develops complex sour flavors, preserves the vegetables, and creates probiotics.
 
 ### The Brine
 
@@ -60,7 +60,7 @@ A basic fermentation brine (non-iodized salt only):
 ### The Fermentation Process
 
 1. Prepare vegetables — wash but do not scrub (this preserves natural LAB on the surface)
-2. Soak vegetables in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] for 30 minutes for extra crunch (optional)
+2. Soak vegetables in ice water for 30 minutes for extra crunch (optional)
 3. Pack vegetables tightly into a fermentation vessel
 4. Add aromatics: garlic, dill heads/stems, horseradish, mustard seeds, coriander seeds, bay leaves, chili peppers, grape leaves (tannins help keep pickles crisp)
 5. Prepare salt brine and pour over vegetables until fully submerged
@@ -78,7 +78,7 @@ A basic fermentation brine (non-iodized salt only):
 
 ### Classic Fermented Dill Pickles
 
-- Kirby cucumbers (small, firm, bumpy — [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] pickling)
+- Kirby cucumbers (small, firm, bumpy — best for pickling)
 - Fresh dill heads and stems
 - 4-6 garlic cloves
 - 1 tablespoon whole black peppercorns
@@ -132,7 +132,7 @@ For long-term shelf storage without refrigeration:
 8. Check seals (lid should be concave and not flex when pressed)
 9. Store in a cool, dark place for up to 1 year
 
-Note: Fermented pickles can also be canned, but the heat of water bath processing kills the beneficial bacteria. Can fermented pickles only if shelf stability [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] priority over probiotic content.
+Note: Fermented pickles can also be canned, but the heat of water bath processing kills the beneficial bacteria. Can fermented pickles only if shelf stability is the priority over probiotic content.
 
 ## Troubleshooting
 
@@ -146,5 +146,7 @@ Note: Fermented pickles can also be canned, but the heat of water bath processin
 - Bitter taste: possibly from spices; check mustard seeds and clove amounts
 
 ## See Also
-- [[wine-making-from-grapes]]
-- [[vinegar-making]]
+
+- [[kimchi-making]] — Korean fermented vegetable tradition
+- [[hot-sauce-making]] — another spicy fermented or vinegar-preserved condiment
+- [[vinegar-making]] — making your own vinegar for pickling

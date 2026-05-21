@@ -15,7 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 type: concept
 ---
 

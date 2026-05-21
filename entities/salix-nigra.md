@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Journal of Botany, 97(5), 797–821.
-  - Mosseler, A. et al. (1988). "Reproductive biology of Salix nigra." Canadian Journal of Botany, 66, 1957–1964.
-  - Rood, S.B. et al. (2003). "A riparian cottonwood and willow ecosystem." In: Stewart, W.C. & Higgins, D.A. (eds.), The Bow River Basin Water Forum.
-  - Karrenberg, S. et al. (2002). "Life in the flood zone: survival strategies of riparian plants." Perspectives in Plant Ecology, Evolution and Systematics, 5, 61–72.
   - USDA Forest Service Silvics Manual. "Salix nigra" (black willow).
 ---
 

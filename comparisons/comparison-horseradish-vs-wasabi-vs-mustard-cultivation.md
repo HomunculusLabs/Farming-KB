@@ -5,10 +5,6 @@ tags: [horseradish, wasabi, mustard, pungent-crops, condiment-crops, comparison,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - 'Hou, C.T. (2006). Handbook of Industrial Biocatalysis. CRC Press.'
-  - 'Mazurek, B. & Pączkowski, C. (2021). "Glucosinolates in Armoracia rusticana." Phytochemistry Reviews, 20, 415–434.'
-  - 'Sultana, T., et al. (2019). "Wasabi: A Comprehensive Review of Its Chemistry, Cultivation, and Health Benefits." Journal of Food Science, 84(9), 2362–2372.'
-  - 'Ravindran, P.N. (2017). "The Encyclopedia of Herbs and Spices." CABI.'
 type: comparison
 ---
 

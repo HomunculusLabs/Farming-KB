@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McLachlan J, Bird CJ. (1984). "Geographical and experimental assessment of the distribution of Gracilaria tikvahiae." Canadian Journal of Botany 62: 6–14.
   - Hanisak MD, Ryther JH. (1984). "psilocybin-north-america-pacific-northwest. It is one of the most extensively studied seaweed species for commercial cultivation and agar production.
 ---
 

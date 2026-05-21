@@ -11,7 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Andersen, S.B., et al. (2017). "Disease dynamics in a specialized parasite of ant societies." Current Biology, 27(3), 328–332.
   - Hughes, D.P., et al. (2011). "Behavioral manipulation and oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian forests.
 ---
 

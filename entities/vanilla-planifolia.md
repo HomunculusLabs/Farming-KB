@@ -18,10 +18,6 @@ tags:
   - agroforestry
   - medicinal
 sources:
-  - Soto Arenas, M.A. & Dressler, R.L. (2010). "A revision of the Mexican species of Vanilla." Lankesteriana, 9(3), 285–404.
-  - Lubinsky, P. et al. (2008). "Origins and dispersal of Vanilla planifolia." Molecular Ecology, 17(16), 3822–3833.
-  - Bory, S. et al. (2008). "Phylogeography of Vanilla planifolia." Annals of Botany, 101(6), 855–864.
-  - Havkin-Frenkel, D. & Belanger, F.C. (2018). Handbook of Vanilla Science and Technology. Wiley-Blackwell.
   - Purseglove, J.W. et al. (1981). Spices, Vol. 2. Longman.
 ---
 

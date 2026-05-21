@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1976). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kolakovsky, A.A. (1985). "Flora of the Caucasus: A Synoptic Key." Sokhumi University Press.
-  - Takhtajan, A.L. (ed.) (2001). Flora of Russia: The European Part and Bordering Regions. Balkema.
   - Mosyakin, S.L. & Fedoronchuk, M.M. (1999). Vascular Plants of Ukraine. M.G. Kholodny Institute of Botany.
 ---
 

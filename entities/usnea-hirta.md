@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clerc, P. (1998). "Species pairs in the genus Usnea." The Bryologist, 101(3), 458-466.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Halici, M.G. et al. (2012). "Antimicrobial activity of Usnea hirta and its usnic acid." Journal of Applied Pharmaceutical Science, 2(5), 29-33.
-  - Ohmura, Y. (2001). "Taxonomic study of the genus Usnea in Japan." Journal of the Hattori Botanical Laboratory, 90, 1-96.
   - Kokubun, T. et al. (2007). "Usnic acid derivatives from Usnea hirta." Journal of Natural Products, 70(3), 492-494.
 ---
 

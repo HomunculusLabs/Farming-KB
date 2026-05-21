@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke RC & Merlin MD (2013). *Cannabis: Evolution and Ethnobotany*. University of California Press
-  - Small E (2017). *Cannabis: A Complete Guide*. CRC Press
-  - Emboden WA (1972). "Ritual Use of Cannabis Sativa L: A Historical-Ethnographic Survey." Economic Botany, 26(4): 373-387
   - Meloy M (2020). "The sativa-landrace-strains-and-geographic-origins: A Taxonomic and Cultural Survey." Cannabis and Cannabinoid Research
 ---
 

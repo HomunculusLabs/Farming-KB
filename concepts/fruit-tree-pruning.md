@@ -68,9 +68,9 @@ No central leader. 3-5 main scaffold branches radiate outward from a short trunk
 - **Pruning**: Remove any shoots growing into the center. Maintain the open vase shape.
 
 ### Espalier
-Trees trained [[query-how-to-grow-pecan-trees-and-manage-a-home-pecan-orchard]] flat against a wall, fence, or wire support in a two-dimensional pattern.
+Trees trained to grow flat against a wall, fence, or wire support in a two-dimensional pattern.
 
-- **Best for**: Apples, pears, figs, [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]].
+- **Best for**: Apples, pears, figs, stone fruits.
 - **Structure**: Main branches trained horizontally along wires or a framework. Many formal patterns exist (horizontal cordon, palmette, candelabra).
 - **Advantages**: Extremely space-efficient. Decorative. Good for small gardens and urban spaces.
 - **Pruning**: Requires frequent, meticulous summer and dormant pruning. Labor-intensive.
@@ -142,9 +142,12 @@ Performed during the active growing season when trees are in full leaf.
 - Remove 40-50% of last year's growth on peaches annually.
 - Sweet cherries are prone to bacterial canker — prune during dry summer conditions when possible.
 
+### Fig Trees
+- Produce fruit on current season's growth and on 1-year-old wood.
+- Tolerate heavy pruning well. Often grown as open center or multi-stemmed bushes.
+- In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
+
+## Disease Prevention Through Pruning
 ## See Also
 
-- [[food-forest-design]] — Integrating fruit trees into perennial polycultures
-- [[season-extension-techniques]] — Protecting blossoms from late frost
-- [[companion-planting-reference]] — Beneficial understory plantings beneath fruit trees
-- [[homesteading]] — Orchard management as part of homestead food production
+- [[natural-fruit-tree-form-and-non-pruning]]

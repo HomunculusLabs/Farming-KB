@@ -4,8 +4,6 @@ tags: [leaf-curl, taphrina, compost-tea, aact, disease-control, peach, orchard, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 created: 2026-04-28
 type: concept
 ---

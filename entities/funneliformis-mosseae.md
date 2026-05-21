@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Walker C, Schüßler A (2010). "The Glomeromycota: a species list with descriptions." Mycorrhiza, 20(4), 241-253.
   - Smith SE, Read DJ (2008). "arbuscular-mycorrhizal-fungi (AMF) in the Glomeromycota phylum.
 ---
 

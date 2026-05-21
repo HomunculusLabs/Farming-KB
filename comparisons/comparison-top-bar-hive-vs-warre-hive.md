@@ -8,11 +8,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Warre V. Beekeeping for All. 3rd ed., 1948. English translation 2010.
-  - Crowder H, Harrell T. Top-Bar Beekeeping: Organic Practices for Honeybee Health. Chelsea Green, 2012.
-  - Seeley TD. The Lives of Bees. Princeton University Press, 2019.
-  - Fletcher DJC. "The natural history of honey bee management." Bee World, 1978.
-  - Common apicultural extension resources and practical beekeeping guides.
 type: comparison
 ---
 

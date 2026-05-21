@@ -19,10 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Aggarwal, B.B. et al. (2007). "Curcumin: the Indian solid gold." Advances in Experimental Medicine and Biology, 595, 1-75.
-  - Gupta, S.C. et al. (2013). "Multitargeting by curcumin as revealed by molecular interaction studies." Nature Product Reports, 30(1), 62-77.
-  - Hewlings, S.J. & Kalman, D.S. (2017). "Curcumin: a review of its effects on human health." Foods, 6(10), 92.
-  - Shoba, G. et al. (1998). "Influence of piperine on the pharmacokinetics of curcumin." Planta Medica, 64(4), 353-356.
   - Khor, T.O. et al. (2006). "Pharmacokinetics of curcumin conjugate metabolites in human plasma and colorectal tissue." Cancer Epidemiology, Biomarkers & Prevention, 15(8), 1452-1458.
 ---
 

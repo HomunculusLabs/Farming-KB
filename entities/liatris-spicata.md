@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gaiser LO (1946). "A Monograph of the Genus Liatris." Annals of the Missouri Botanical Garden.
-  - Kindscher K (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - USDA NRCS (2024). "Plant Profile: Liatris spicata." plants.usda.gov.
   - Cullina W (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
 ---
 

@@ -43,7 +43,7 @@ The model white-rot fungus, extensively studied for PAH degradation:
 ### [[staycare-trametes-versicolor-bioremediation-applications]]
 - Colonized soil and degraded 3,4-dichloroaniline and benzo[a]pyrene
 - Mycelium-coated pellets removed over 80% of pentachlorophenol in 4 weeks
-- Produces all three major [[cotter-mycoremediation-overview]]
+- Produces all three major [[mycoremediation-overview]]
 The [[cotter-oyster-mushroom-cultivation]], superior soil colonizer:
 - Superior to P. chrysosporium and T. versicolor in soil colonization
 - Effective against pyrene and benzo[a]pyrene in sterile sand microcosms

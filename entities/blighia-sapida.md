@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Morton JF (1987). "Fruits of Warm Climates." Creative Resource Systems.
-  - Hassall CH, Reyle K, Thomas BJ (1954). "The chemistry of hypoglycin." Journal of the Chemical Society.
-  - Brown M, Bates C, Terry M (2012). "Ackee fruit toxicity." West Indian Medical Journal.
-  - Ekundayo FO, Eseyin OA (2012). "Hypoglycin A and B: biological properties." Journal of Pharmacognosy and Phytotherapy.
   - Hall IH, Iba K, Matsuura S (1984). "Mechanism of hypoglycin action." Toxicology and Applied Pharmacology.
 ---
 

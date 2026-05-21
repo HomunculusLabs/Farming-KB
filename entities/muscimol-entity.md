@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Waser, P.G. (1967). "The pharmacology of allegro-amanita-muscaria-properties-and-pharmacology." In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service Publication.
   - Chilton, W.S. et al. (1979). "metzner-ayahuasca-therapeutic-potential." Frontiers in Pharmacology.
 ---
 

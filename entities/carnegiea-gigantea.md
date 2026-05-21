@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Drezner, T.D. (2014). "The saguaro cactus: A review of its ecology, paleoecology, and ethnobotany." Journal of the Arizona-Nevada Academy of Science, 46(1), 30-46.
-  - Steenbergh, W.F. & Lowe, C.H. (1983). Ecology of the Saguaro: II. National Park Service Scientific Monograph Series No. 17.
   - Benson, L. (1982). The Cacti of the dmt-maoi-plants-united-states and an iconic symbol of the Sonoran Desert. These massive columnar cacti can reach heights exceeding 12 meters and live for 150 to 200 years.
 ---
 

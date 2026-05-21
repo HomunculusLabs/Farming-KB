@@ -12,7 +12,6 @@ tags:
   - serotonergic
   - entheogen
 sources:
-  - Hofmann A. "LSD: My Problem Child" 1979 McGraw-Hill
   - Nichols D.E. "Psychedelics" Pharmacol Rev 2016
   - Passie T. "The Pharmacology of LSD" 2008
 aliases:

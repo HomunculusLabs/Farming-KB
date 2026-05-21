@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bayer, M.B. (1999). "Haworthia Revisited: A Revision of the Genus." Umdaus Press.
-  - Scott, C.L. (1985). "The Genus Haworthia: A Taxonomic Revision." Aloe Books.
-  - Breuer, I. (2010). "The Genus Haworthia." In H.E.K. Hartmann (Ed.), Illustrated Handbook of Succulent Plants.
-  - Royal Horticultural Society (2023). "Haworthia fasciata — RHS Gardening." rhs.org.uk.
   - Manning, J.C. et al. (2014). "A Molecular Phylogeny of Asphodelaceae." Taxon, 63(1).
 ---
 

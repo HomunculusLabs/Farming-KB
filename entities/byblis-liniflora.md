@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowrie, A. & Conran, J.G. (2007). "A taxonomic review of the genus Byblis (Byblidaceae)." Nuytsia 17(1): 1-22.
-  - Hartmeyer, S. (2009). "Byblis — the rainbow plants." In: "Carnivorous Plants of Australia" (3rd ed.), Redfern Natural History Productions.
   - Conran, J.G. & Lowrie, A. (1993). "Byblidaceae." Flora of Australia 50: 412-416.
 ---
 

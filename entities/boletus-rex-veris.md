@@ -5,10 +5,6 @@ aliases:
   - Spring King Bolete
   - King Bolete
   - Western King Bolete
-  - psilocybin-north-america-pacific-northwest." Timber Press.
-  - Kuo, M. (2024). "Boletus rex-veris." MushroomExpert.com. https://www.mushroomexpert.com/boletus_rex_veris.html
-  - Frank, J.L. et al. (2020). "Boletus of psilocybin-north-america-pacific-northwest." Mycotaxon 135(1): 1-48.
-  - Association of Washington Mycological Society (2023). "Spring Bolete Identification Guide."
 created: 2026-04-28
 ---
 

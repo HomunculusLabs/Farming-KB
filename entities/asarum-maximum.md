@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - H. Maekawa (1936). "A Monograph of the Asarum of Japan." Journal of the Faculty of Science, Imperial University of Tokyo, 3(6), 293-345.
-  - C. L. Huang (1996). "Aristolochiaceae." In: Flora of China, Vol. 5. Science Press & Missouri Botanical Garden Press.
-  - Royal Botanic Gardens, Kew. "Asarum maximum Hemsl." Plants of the World Online.
-  - W. T. Stearn (2002). "The Genus Asarum in Cultivation." The Plantsman, 1(3), 153-165.
   - S. Kelly (2014). "Shade Perennials for the Garden." Timber Press.
 ---
 

@@ -13,7 +13,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 ## Advantages of Hydroponics
 
-- Faster growth rates: plants spend less energy searching for [[primary-nutrients-and-mineral-sources-in-soils]] more energy on vegetative growth and flower production
+- Faster growth rates: plants spend less energy searching for nutrients and more energy on vegetative growth and flower production
 - Higher yields per square foot compared to soil
 - Precise control over nutrient ratios and concentrations
 - Reduced water usage (water is recirculated, not lost to soil drainage)
@@ -25,7 +25,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 - Higher initial cost for equipment
 - Steeper learning curve — mistakes affect plants faster
-- No soil buffer — [[ph-and-nutrient-availability-garden-soils]] ord-architecture-and-nutrient-translocation-basidiomycetes imbalances escalate quickly
+- No soil buffer — pH and nutrient imbalances escalate quickly
 - Complete dependency on electricity (power failure = crop risk)
 - Less forgiving of neglect compared to living soil
 - Water quality is critical — municipal water may contain chlorine, chloramine, or minerals that cause issues
@@ -47,7 +47,7 @@ Pros:
 - Simple to build and maintain
 - Low component count
 - Excellent for single-plant or small-scale grows
-- Very low maintenance during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- Very low maintenance during vegetative stage
 
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
@@ -62,7 +62,7 @@ A thin film of nutrient solution continuously flows over the root system.
 
 How it works:
 - Plants sit in channels or tubes at a slight angle (typically 1:30 to 1:40 slope)
-- Nutrient solution is pumped to the high end [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] channel
+- Nutrient solution is pumped to the high end of the channel
 - A thin film (1-3mm) of solution flows over roots by gravity
 - Excess solution drains back to the reservoir for recirculation
 - Roots grow into the channel, partly in air and partly in the film
@@ -71,7 +71,7 @@ Pros:
 - Very efficient water and nutrient use
 - Good oxygenation at the root zone (roots exposed to air between solution flow)
 - Easy to scale to multiple channels
-- Relatively [[ultra-low-water-softening-for-pesticide-efficacy]] volume needed
+- Relatively low water volume needed
 - Easy to monitor root health visually
 
 Cons:
@@ -114,7 +114,7 @@ How it works:
 - A pump delivers nutrient solution through tubing to drip emitters at each plant site
 - Emitters can be metered (controlled flow rate) or non-metered
 - Excess solution either drains back to the reservoir (recirculating) or runs off (drain-to-waste)
-- Plants grow in containers of inert medium (coco coir, [[perlite]], hydroton)
+- Plants grow in containers of inert medium (coco coir, perlite, hydroton)
 
 Recirculating drip:
 - Solution drains back to reservoir and is reused
@@ -143,8 +143,13 @@ Cons:
 ## Nutrient Solution Management
 
 ### Electrical Conductivity (EC)
+
+EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
+
+- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
+- Early vegetative: EC 0.8-1.2 (PPM 400-600)
 ## See Also
 
-- [[aeroponics-guide]] for the most advanced hydroponic method
-- [[cannabis-lighting-guide]] for optimizing light in hydroponic grows
-- [[plant-nutrient-deficiency-guide]] for diagnosing nutrient issues in solution
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
+- [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]]
+- [[cannabis-grow-hydroponic-growing-systems]]

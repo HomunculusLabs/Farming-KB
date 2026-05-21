@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Straley, G.B. (1977). "Systematics of the Genus Baptisia (Leguminosae)." PhD Dissertation, University of north-carolina-mycodiversity.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of North Carolina Press.
-  - Armitage, A.M. (2008). "Herbaceous Perennial Plants." 3rd ed. Stipes Publishing.
   - United States Department of Agriculture, NRCS. "Baptisia australis (L.) R.Br." PLANTS Database.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Clerc, P. (1998). "Species Concepts in the Genus Usnea." Bibliotheca Lichenologica 69: 1–92.
-  - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Hawksworth, D.L., Iturriaga, T., Kirk, P.M. (2008). "A Complete Checklist of Lichen-Forming Fungi." Lichenologist 40(5): 403–418.
   - Ingólfsdóttir, K. (2002). "Usnic Acid." Phytochemistry 61(7): 729–736.
 ---
 

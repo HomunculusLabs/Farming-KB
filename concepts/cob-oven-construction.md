@@ -1,5 +1,5 @@
 ---
-title: Cob Oven query-when-should-i-use-slip-form-stone-construction
+title: Cob Oven Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -46,7 +46,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 
 ## Materials List
 
-- [[clay-soil]] (20-50 gallons, depending on oven size)
+- Clay soil (20-50 gallons, depending on oven size)
 - Sharp sand (40-100 gallons)
 - Straw (1-2 bales)
 - Firebricks for the hearth floor (30-40 standard firebricks, 4.5x9 inches)
@@ -99,7 +99,7 @@ Set a wooden form (a piece of 2x6 or similar cut to your desired door opening) i
 1. Mix a final layer of cob (similar to the thermal layer mix) and apply 2-3 inches thick.
 2. This layer protects the insulation from weather and physical damage.
 3. Shape and smooth to your aesthetic preference.
-4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] finish.
+4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a white finish.
 
 ### Step 8: Remove the Sand Form
 1. Let the entire oven dry for several days to a week (longer in humid climates)

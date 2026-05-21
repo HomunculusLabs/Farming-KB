@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Richardson, D.M. (Ed.) (1998). Ecology and Biogeography of Pinus. Cambridge University Press.
-  - Farjon, A. (2013). Pinaceae: Drawings and Descriptions of the Genera Abies, Cedrus, Picea, Pinus, Tsuga, Cathaya, Keteleeria, Nothotsuga, Pseudolarix, Pseudotsuga, Taxus. 2nd ed. Royal Botanic Gardens, Kew.
-  - Mirov, N.T. (1967). The Genus Pinus. Ronald Press Company.
-  - Katsuki, T. et al. (2013). "A Revised Key to Japanese Pines." Journal of Japanese Botany, 88(5), 265-272.
   - Wang, C.-W. (1961). The Forests of China. Maria Moors Cabot Foundation Publication No. 5.
 ---
 

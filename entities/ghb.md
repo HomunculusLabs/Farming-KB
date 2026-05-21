@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Carter LP, et al. (2009). "GHB and the GABAergic system: New findings." Pharmacology Biochemistry and Behavior.
-  - Wong CGT, et al. (2004). "Gamma-hydroxybutyric acid: Neurobiology and toxicology of a recreational drug." Toxicology Letters.
-  - van Amsterdam JGC, et al. (2012). "The medical use of gamma-hydroxybutyric acid (GHB)." Current Drug Abuse Reviews.
   - Hernández-López C, et al. (2023). "GHB metabolism and forensic detection: An update." Journal of Analytical Toxicology.
 ---
 

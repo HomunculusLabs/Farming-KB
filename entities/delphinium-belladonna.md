@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutelvidze G, et al. (2019). "Delphinium and Consolida species as potential sources of diterpenoid alkaloids." Phytochemistry Reviews 18(1): 1-39.
-  - Royal Horticultural Society (2023). "Delphinium Belladonna Group." RHS Plant Finder.
   - USDA NRCS (2024). "Delphinium profile." PLANTS Database.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dickmann D.I. & Kuzovkina J. (2014). "Poplars and Willows of the World." FAO Forestry Paper.
-  - Ceulemans R. et al. (1992). "Genetics, ecology and physiology of Populus." Annals of Forest Science, 49, 225–247.
-  - USDA NRCS (2024). "Populus alba L. — white poplar." PLANTS Database.
   - CABI (2023). "Populus alba (white poplar)." Invasive Species Compendium.
 ---
 

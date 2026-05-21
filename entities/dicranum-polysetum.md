@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. & Anderson, L.E. (1981). "Mosses of polypore-fungi-eastern-north-america America." Columbia University Press.
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed., Cambridge University Press.
-  - Ireland, R.R. (1982). "Moss Flora of the Maritime Provinces." Publications in Botany, National Museum of Natural Sciences, Ottawa.
   - Åström, M. & Dynesius, M. (2019). "Bryophyte guzman-psilocybin-mushrooms-north-america.
 ---
 

@@ -5,7 +5,6 @@ tags: [psilocybe, weilii, species-profile, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 type: concept
 ---
 

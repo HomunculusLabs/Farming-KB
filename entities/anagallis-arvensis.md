@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Heywood, V.H. (1978). "Anagallis." In: Tutin, T.G. et al., Flora Europaea, Vol. 3. Cambridge University Press.
-  - Usher, G. (1974). "A Dictionary of Plants Used by Man." Constable.
-  - Meli, R. et al. (2010). "Cytotoxic saponins from Anagallis arvensis." Phytochemistry Letters.
   - Duke, J.A. (2002). "Handbook of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

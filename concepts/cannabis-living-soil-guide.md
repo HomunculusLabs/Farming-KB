@@ -35,11 +35,11 @@ Living soil is a complete ecosystem contained in a container or raised bed. It d
 
 ## The Soil Food Web
 
-[[the-soil-food-web]] is the interconnected system of organisms that drives nutrient cycling in living soil. Understanding these relationships is key to success.
+The soil food web is the interconnected system of organisms that drives nutrient cycling in living soil. Understanding these relationships is key to success.
 
 ### Bacteria
 
-The foundation of the [[soil-food-web]]. Beneficial bacteria:
+The foundation of the soil food web. Beneficial bacteria:
 
 - Decompose organic matter into plant-available forms
 - Fix atmospheric nitrogen (through symbiotic relationships)
@@ -47,14 +47,14 @@ The foundation of the [[soil-food-web]]. Beneficial bacteria:
 - Protect plant roots from pathogens through competitive exclusion
 - Cycle nutrients through their biomass (bacterial loop)
 
-Key bacterial groups include Bacillus species (decomposers), Pseudomonas (disease suppression), and Rhizobium (nitrogen fixation — less relevant for cannabis but important in [[cover-crop]] rotations).
+Key bacterial groups include Bacillus species (decomposers), Pseudomonas (disease suppression), and Rhizobium (nitrogen fixation — less relevant for cannabis but important in cover crop rotations).
 
 ### Fungi
 
 Fungi play crucial roles in living soil systems:
 
-- **[[saprophytic-fungi]]:** Decompose complex organic materials (lignin, cellulose)
-- **[[mycorrhizal-fungi]]:** Form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
+- **Saprophytic fungi:** Decompose complex organic materials (lignin, cellulose)
+- **Mycorrhizal fungi:** Form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
 - **Trichoderma species:** Aggressive decomposers that also suppress pathogenic fungi
 
 Fungal-dominated soils are generally preferred for cannabis during flowering, as fungi break down more complex organic materials that provide slow-release nutrition.
@@ -79,13 +79,13 @@ These micro-predators consume bacteria and fungi, releasing nutrients in plant-a
 
 - 1/3 high-quality compost (worm castings rich)
 - 1/3 aeration (pumice, perlite, or rice hulls — 1/8-1/4 inch)
-- 1/3 topsoil or sphagnum [[peat-moss]]
+- 1/3 topsoil or sphagnum peat moss
 
 ### Nutrient Amendments
 
 Mixed into the base soil before planting:
 
-- **Nitrogen:** [[alfalfa-meal]], blood meal, fish meal
+- **Nitrogen:** Alfalfa meal, blood meal, fish meal
 - **Phosphorus:** Bone meal, rock phosphate, fish bone meal
 - **Potassium:** Kelp meal, wood ash, langbeinite
 - **Calcium:** Oyster shell flour, gypsum, eggshells
@@ -148,3 +148,8 @@ Grow clover, alfalfa, buckwheat, or daikon radish between grows to protect soil 
 - Higher initial setup cost than conventional media
 - Slower to correct deficiencies (biological processes take time)
 - Requires understanding of soil biology
+- Heavier containers, not ideal for rapid-cycle grows
+
+## Related
+
+- [[cannabis-seed-germination]]

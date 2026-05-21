@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Austin DF (1988). "The taxonomy, evolution and genetic diversity of sweet potatoes and related wild species." In: Exploration, Maintenance, and Utilization of Sweet Potato Genetic Resources. CIP.
-  - Woolfe JA (1992). "Sweet Potato: An Untapped Food Resource." Cambridge University Press.
-  - Loebenstein G, Thottappilly G (2009). "The Sweetpotato." Springer.
-  - Kays SJ, Paull RE (2004). "Postharvest Biology." Exon Press.
-  - FAO (2023). "FAOSTAT: Sweet Potato Production Data." fao.org.
 created: 2026-05-07
 ---
 

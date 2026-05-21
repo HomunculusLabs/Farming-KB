@@ -11,27 +11,22 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - title: "The Hormonal Dance: How Jasmonate and Salicylic Acid Shape Plant Defense"
     author: "Pieterse, C.M.J., erik-van-der-werf Does, D., Zamioudis, C., Leon-Reyes, A., & Van Wees, S.C.M."
     journal: "Plant Cell"
     year: 2012
     url: "https://doi.org/10.1105/tpc.111.089518"
-  - title: "Salicylic Acid: A Multifaceted Hormone in Plant Defense"
     author: "Vlot, A.C., Dempsey, D.A., & Klessig, D.F."
     journal: "Annual Review of Phytopathology"
     year: 2009
     url: "https://doi.org/10.1146/annurev.phyto.44.070505.143323"
-  - title: "Jasmonate Signaling: From Biosynthesis to Plant Defense Responses"
     author: "Wasternack, C. & Strnad, M."
     journal: "Phytochemistry"
     year: 2019
     url: "https://doi.org/10.1016/j.phytochem.2018.01.025"
-  - title: "Systemic Acquired Resistance and endophytic-mycorrhizal-induced-systemic-resistance Resistance in Plant Defense"
     author: "Fu, Z.Q. & Dong, X."
     journal: "Annual Review of Plant Biology"
     year: 2013
     url: "https://doi.org/10.1146/annurev-arplant-042811-105606"
-  - title: "Plant Hormone Crosstalk Networks Enable Plant Responses to Multiple Stressors"
     author: "Thaler, J.S., Humphrey, P.T., & Whiteman, N.K."
     journal: "Annual Review of Plant Biology"
     year: 2012

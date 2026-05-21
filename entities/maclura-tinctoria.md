@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Record, S.J. & Hess, R.W. (1943). *Timbers of the New World.* Yale University Press.
-  - Bergo, C.L. et al. (2013). "Propagation and Growth of Maclura tinctoria (Moraceae) in Central Amazonia." Acta Amazonica, 43(1), 23–30.
-  - Cáceres, A. et al. (1998). "Plants of Guatemala Used as Antimicrobial Agents." Journal of Ethnopharmacology, 62(2), 119–128.
-  - Pennington, T.D. & Sarukhán, J. (2005). *Árboles Tropicales de México.* UNAM, Mexico City.
   - Francis, J.K. (2004). "Maclura tinctoria (L.) D. Don ex Steud." USDA Forest Service, International Institute of Tropical Forestry.
 ---
 

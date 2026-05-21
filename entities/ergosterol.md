@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Weete, J.D. & Gandhi, S.R. (1996). \"Sterols of fungi: Their distribution in the contemporary fungal kingdom.\" The Mycota, Vol. I, 393-412."
-  - "Dupont, S. et al. (2011). \"The ergosterol biosynthetic pathway and its regulation by oxygen.\" fungal-genetics and Biology, 48(7), 694-702."
-  - "Barros, L. et al. (2007). \"Total phenols, ascorbic acid, β-carotene and lycopene in Portuguese wild edible mushrooms and their antioxidant activities.\" Food Chemistry, 103(2), 413-419."
   - "Mattila, P. et al. (2002). \"Vitamin D₂ in edible mushrooms in relation to UV irradiation.\" Journal of Agricultural and Food Chemistry, 50(22), 6413-6416."
 ---
 

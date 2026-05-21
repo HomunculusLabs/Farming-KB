@@ -5,7 +5,6 @@ tags: [fungi, ecology, decomposition, bioremediation, geomycology, mycology, soi
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gadd, G.M., Watkinson, S.C. and Dyer, P.S. (eds). Fungi in the Environment. Cambridge University Press.
 related_concepts:
   - gadd-fungal-cell-structure
   - gadd-fungal-nutrition-metabolism
@@ -14,7 +13,6 @@ related_concepts:
   - gadd-fungal-ecology-endophytes
   - gadd-fungal-symbiosis-mycorrhizae
   - gadd-fungal-biodegradation-bioremediation
-  - gadd-mineral-transformations-biogeochemical-cycles-fungi
   - gadd-fungal-carbon-sequestration
   - gadd-fungal-biodiversity-conservation
 ---

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - RHS (2024). "Dianthus gratianopolitanus." Royal Horticultural Society Plant Finder.
-  - Tutin, T.G. et al. (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Grey-Wilson, C. (2003). "The Genus Dianthus." The Plantsman 2(2): 96–107.
-  - Valdes, B. et al. (1987). Flora Vascular de Andalucía Occidental, Vol. 1. Ketres.
   - Clapham, A.R. et al. (1987). Flora of the British Isles, 3rd ed. Cambridge University Press.
 ---
 

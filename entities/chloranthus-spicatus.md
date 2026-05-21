@@ -12,10 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li, J. et al. (2018). "Phytochemistry and pharmacology of the genus Chloranthus." Journal of Ethnopharmacology 220: 78–95.
-  - Chen, Z.Y. & Li, J. (2005). "Flora of China: Chloranthaceae." Science Press & Missouri Botanical Garden.
-  - Wu, Z.Y. & Raven, P.H. (1994). "Flora of China, Vol. 4." Science Press & Missouri Botanical Garden.
-  - Zheng, H. et al. (2013). "Sesquiterpenoids from Chloranthus spicatus." Phytochemistry 93: 165–172.
   - Qin, Y. et al. (2020). "Traditional uses and chemical constituents of Chloranthus species." Chinese Journal of Natural Medicines 18(3): 161–174.
 ---
 

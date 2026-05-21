@@ -11,7 +11,7 @@ type: concept
 ## Serpula lacrymans and the Ecology of Dry Rot in Buildings
 
 Dry rot is one of the most destructive [[meruliporia-incrassata]] causes equivalent destruction in North
-America. These fungi can reduce [[mordecai-cubitt-cooke]] wrote in 1871 that the
+America. These fungi can reduce [[mordecai-cooke]] wrote in 1871 that the
 fungus "is often dripping with moisture, as if weeping in regret for
 the havoc it has made." The former genus name Merulius referred to the
 yellow colour of the mycelium, comparable to the beak of a blackbird.

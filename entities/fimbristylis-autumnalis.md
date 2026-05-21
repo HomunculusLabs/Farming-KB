@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Godfrey, R.K. & Wooten, J.W. (1979). permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States: Monocotyledons. University of Georgia Press.
   - Flora oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

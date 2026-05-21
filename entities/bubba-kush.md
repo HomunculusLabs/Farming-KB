@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ElSohly MA et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades (1995–2014)." Drug and Alcohol Dependence, 171, 142-145.
-  - Raber JC et al. (2015). "Cannabis Potency and Composition of Pain Patient Medications." Journal of Psychoactive Drugs, 47(4), 288-297.
-  - Casajuana C et al. (2022). "The medical use of cannabis for cannabis-chronic-pain-management: A review." Journal of Cannabis Research, 4(1), 35.
   - https://www.allbud.com/marijuana-strains/indica/bubba-kush
 ---# Bubba Kush
 

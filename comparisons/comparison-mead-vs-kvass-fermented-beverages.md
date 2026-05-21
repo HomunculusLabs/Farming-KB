@@ -15,9 +15,6 @@ updated: 2026-04-28
 sources:
   - The Compleat Meadmaker — Ken Schramm (2003)
   - The Art of Fermentation — Sandor Katz (2012)
-  - "Mead: Production, Composition, and Sensory Properties" — Fermentation, 2021
-  - "Traditional Russian Kvass: Microbiology and Technology" — Journal of Ethnic Foods, 2020
-  - "Fermented Beverages in Human History" — Comprehensive Reviews in Food Science and Food Safety, 2019created: 2026-05-07
 type: comparison
 
 created: 2026-05-07

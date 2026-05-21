@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J.C. (2007). "A revision of the Southern African genus Babiana." Strelitzia 18. SANBI.
-  - Lewis, G.J. (1959). "The genus Babiana." Journal of South African Botany, Supplement 3.
   - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
 ---
 

@@ -37,18 +37,18 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 ### Key Host Plants (Larval Food)
 - Milkweed (Asclepias spp.) -- Monarch butterflies (essential)
 - Parsley, dill, fennel -- Black swallowtail
-- Spicebush ([[lindera-benzoin]]) -- Spicebush swallowtail
-- Pawpaw ([[asimina-triloba]]) -- Zebra swallowtail
+- Spicebush (Lindera benzoin) -- Spicebush swallowtail
+- Pawpaw (Asimina triloba) -- Zebra swallowtail
 - Pipevine (Aristolochia spp.) -- Pipevine swallowtail
 - Sunflower (Helianthus spp.) -- Painted lady
 - Asters and violets -- Pearl crescent and fritillaries
 
 ### Key Nectar Plants (Adult Food)
-- Coneflower ([[echinacea-purpurea]])
+- Coneflower (Echinacea purpurea)
 - Joe-Pye weed (Eutrochium purpureum)
-- Butterfly weed ([[asclepias-tuberosa]])
-- Black-eyed Susan ([[rudbeckia-hirta]])
-- Lantana ([[lantana-camara]])
+- Butterfly weed (Asclepias tuberosa)
+- Black-eyed Susan (Rudbeckia hirta)
+- Lantana (Lantana camara)
 - Verbena bonariensis
 - Mexican sunflower (Tithonia rotundifolia)
 - Blazing star (Liatris spp.)

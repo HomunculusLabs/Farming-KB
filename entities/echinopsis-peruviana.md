@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
-  - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
-  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, guzman-psilocybin-mushrooms-south-america." Haworth Press.
 created: 2026-04-28
 ---
 

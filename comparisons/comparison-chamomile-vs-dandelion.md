@@ -5,7 +5,6 @@ tags: [comparison, medicinal-herbs, foraging, companion-planting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+Further research into comparison chamomile vs dandelion continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison chamomile vs dandelion provides a foundation for both practical application and continued scientific inquiry.

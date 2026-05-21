@@ -95,4 +95,4 @@ characteristic ash-white bands that appear during the thermophilic (hot) phase.
 - [[trichoderma]] — beneficial fungus that competes in similar niches
 - [[streptomyces]] — most notable actinomycete genus in soil
 - [[compost]] — primary habitat where actinomycetes are observed
-- [[glomalin-and-soil-carbon]] — produced by mycorrhizal fungi, which actinomycetes can suppress
+- [[glomalin]] — produced by mycorrhizal fungi, which actinomycetes can suppress

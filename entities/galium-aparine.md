@@ -18,10 +18,6 @@ tags:
   - temperate
   - hedgerow
 sources:
-  - Chiej, R. (1984). "The Macdonald Encyclopedia of Medicinal Plants." Macdonald & Co.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
-  - Bisset, N.G. (1994). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers.
-  - Hendriks, H. et al. (1997). "The history of Cleavers (Galium aparine L.) as a medicinal plant." In: Plants in Medicine and Culture. Routledge.
   - USDA NRCS. "Galium aparine L." PLANTS Database. plants.usda.gov.
 ---
 

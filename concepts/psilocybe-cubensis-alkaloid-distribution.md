@@ -5,7 +5,6 @@ tags: [mycology, alkaloids, psilocybin, psilocin, anatomy, distribution]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 type: concept
 ---
 

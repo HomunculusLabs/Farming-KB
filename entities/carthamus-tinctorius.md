@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Knowles, P.F. (1969). \"Safflower.\" Academic Press, New York."
-  - "Singh, V. & Nimbkar, N. (2006). \"Safflower (Carthamus tinctorius L.).\" Oilseeds, 21, 131-150."
-  - "Li, D. & Van Loo, E.N. (2017). \"Carthamus tinctorius L.\" In: Singh, R.J. (ed.), Oilseed Crops, Springer, pp. 99-128."
-  - "Weiss, E.A. (2000). \"Oilseed Crops.\" Blackwell Science, 2nd edition."
   - "Velasco, L. & Fernández-Martínez, J.M. (2001). \"Breeding for oil quality in safflower.\" Critical Reviews in Plant Sciences, 20(1), 51-67."
 ---
 

@@ -14,13 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisdall, J.M. and Oades, J.M. (1982). "Organic matter and water-stable aggregates in soils." Journal of Soil Science, 33(2), 141-163.
-  - Six, J. et al. (2004). "A history of research on the link between (micro)aggregates, soil biota, and soil organic matter dynamics." Soil and Tillage Research, 79(1), 7-31.
-  - Bronick, C.J. and Lal, R. (2005). "Soil structure and management: a review." Geoderma, 124(1-2), 3-22.
-  - Lehmann, J. and Kleber, M. (2015). "The contentious nature of soil organic matter." Nature, 528(7580), 60-68.
-  - Oades, J.M. and Waters, A.G. (1991). "Aggregate hierarchy in soils." Australian Journal of Soil Research, 29(6), 815-828.
-  - Totsche, K.U. et al. (2018). "Nanozoo—biogenic nanomaterials in soil and their relevance for contaminant mobility." Environmental Science: Nano, 5(10), 2232-2242.
-  - Young, I.M. and Crawford, J.W. (2004). "Interactions and self-organization in the soil-microbe complex." Science, 304(5677), 1634-1637.
   - Hartemink, A.E. (2015). "The use of soil classification in soil science." Geoderma Regional, 6, 83-85.
 ---
 

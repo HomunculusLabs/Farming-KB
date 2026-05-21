@@ -19,7 +19,7 @@ While no published HPLC or GC-MS data specific to *P. kumaenorum* exists, compar
 
 ## See Also
 
-- [[john-w-allen]]
+- [[john-allen]]
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
 - [[psilocin]]
 - [[psilocybe-coprophila-profile]]

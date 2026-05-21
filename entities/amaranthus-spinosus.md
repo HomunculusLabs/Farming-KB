@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben G.J.H. & Denton O.A. (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Sreelathakumary I. & Arumugam T. (1996). "Nutritional and antinutritional composition of Amaranthus spinosus leaves." Plant Foods for Human Nutrition, 49(1), 69-74.
-  - Olufolaji A.O. & Odedina J.N. (2011). "fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery in Amaranthus production." In: "Amaranthus: Biology, Chemistry, and Technology." CRC Press.
   - Adekunle A.A. et al. (2020). "Ethnobotanical survey and phytochemical screening of Amaranthus spinosus." Journal of Ethnopharmacology, 261, 113174.
 ---
 

@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
-  - Dhawan, B.N. et al. (1977). "Psychopharmacological Effects of *Convolvulus pluricaulis* Choisy." Indian Journal of Experimental Biology 15(10): 895–899.
-  - Singh, H.K. et al. (1994). "Nootropic Activity of *Convolvulus pluricaulis* in Rats." Phytotherapy Research 8(4): 223–226.
-  - Williamson, E.M. (2002). "Major Herbs of Ayurveda." Churchill Livingstone.
-  - "The Plant List (2013)." http://www.theplantlist.org/
 created: 2026-04-28
 ---
 

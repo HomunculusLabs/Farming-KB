@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lowy, F.D. (1998). "Staphylococcus aureus infections." New England Journal of Medicine, 339(8), 520-532.
-  - Chambers, H.F. & DeLeo, F.R. (2009). "Waves of resistance: Staphylococcus aureus in the antibiotic era." Nature Reviews Microbiology, 7(9), 629-641.
-  - Tong, S.Y. et al. (2015). "Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management." Clinical Microbiology Reviews, 28(3), 603-661.
-  - Wertheim, H.F. et al. (2005). "The role of nasal carriage in Staphylococcus aureus infections." Lancet Infectious Diseases, 5(12), 751-762.
   - Foster, T.J. et al. (2014). "Adhesion, invasion and evasion: the many functions of the surface proteins of Staphylococcus aureus." Nature Reviews Microbiology, 12(1), 49-62.
 ---
 

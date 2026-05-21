@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J. & Beentje, H. (1995). "The Palms of Madagascar." Royal Botanic Gardens, Kew.
-  - Rakotoarinivo, M. & Dransfield, J. (2012). "Ravenea (Palmae) of Madagascar." Kew Bulletin, 67(2), 293-334.
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - IUCN Red List. "Ravenea rivularis." https://www.iucnredlist.org/species/38733/2929622
   - Dowe, J.L. (2009). "A taxonomic account of Arecaceae in Australia." Telopea, 12(2), 167-206.
 ---
 

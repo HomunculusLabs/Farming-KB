@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Swinscow, T.D.V. & Krog, H. (1988). "Macrolichens of East Africa." British Museum (Natural History).
-  - Goward, T. (1999). "The Lichens of British Columbia: Part 2." Ministry of Forests.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
 ---
 

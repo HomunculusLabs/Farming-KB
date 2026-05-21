@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Wildflowers of the Fynbos." Struik Publishers.
-  - Cooke, J. (1998). "Ferraria: The Spider Irises." The Plantsman 1(2): 108–113.
   - Pacific Bulb Society. "Ferraria Species." https://www.pacificbulbsociety.org
 ---
 

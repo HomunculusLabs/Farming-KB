@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1989). "The Iris." B.T. Batsford, London.
-  - Austin, C. (2005). "Irises: A Gardener's Encyclopedia." Timber Press.
   - Riedl, H. (1963). "Iris pallida." In: Hegi, G. (ed.) Illustrierte Flora von Mitteleuropa.
 ---
 

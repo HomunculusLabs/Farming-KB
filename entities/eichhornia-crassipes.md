@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Gopal, B. (1987). Water Hyacinth. Elsevier Science Publishers."
-  - "Barrett, S.C.H. (1989). \"Waterweed Invaders.\" Scientific American, 260(4), 90-97."
-  - "Villamagna, A.M. & Murphy, B.R. (2010). \"Ecological and Socioeconomic Impacts of Water Hyacinth.\" Aquatic Botany, 94(1), 1-10."
   - "Malik, A. (2007). \"Environmental Challenge vis a vis Opportunity: The Case of Water Hyacinth.\" Environment International, 33(1), 122-138."
 ---
 

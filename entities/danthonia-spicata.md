@@ -10,10 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Manual of Grasses for guzman-psilocybin-mushrooms-north-america." Intermountain Herbarium.
-  - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - USDA NRCS. "Danthonia spicata." PLANTS Database.
-  - Peeters, A. (2004). "Wild and sown grasses." Blackwell Publishing.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States." NYBG.
 ---
 

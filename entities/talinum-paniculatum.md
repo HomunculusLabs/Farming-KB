@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Odhav, B. et al. (2007). "Preliminary assessment of nutritional value of traditional leafy vegetables in KwaZulu-Natal, South Africa." Journal of Food Composition and Analysis, 20(5), 430-435.
-  - Jimoh, F.O. et al. (2010). "Antioxidant activity of Talinum triangulare leaves." African Journal of Biotechnology, 9(21), 3140-3142.
-  - Odukoya, K.A. et al. (2007). "Hypocholesterolemic effect of Talinum triangulare aqueous extract in rats." Phytotherapy Research, 21(3), 271-274.
-  - Schatz, G.E. (2001). "Generic Tree Flora of Madagascar." Royal Botanic Gardens, Kew.
-  - Chweya, J.A. & Eyzaguirre, P.B. (1999). "The biodiversity of traditional leafy vegetables." IPGRI, Rome.
 created: 2026-04-28
 ---
 

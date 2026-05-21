@@ -13,10 +13,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Green, J. (2003). The Cannabis Grow Bible. Green Candy Press."
-  - "Rosenthal, E. (2010). Marijuana Grower's Handbook. Quick American Archives."
   - "Clarke, R.C. (1998). Hashish! Red Eye Press."
-  - "Earl, R. & Watson, D. (2015). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "Sensi Seeds. \"Super Skunk strain profile.\" sensiseeds.com."
 ---
 

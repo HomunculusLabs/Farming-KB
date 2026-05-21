@@ -1,7 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Ch. 23, Shearer/Langsam/Longcore)
-sources: ['raw/papers/unknown-biodiversity-of-fungi.md']
+sources: []
 tags:
 - fungal-biodiversity
 - aquatic-fungi
@@ -37,11 +37,11 @@ True fungi and straminipiles characterized by motile zoospores. Dispersed throug
 - Degrade chitin (exuviae of aquatic insects), cellulose, and keratin
 - Parasitize aquatic insects and invertebrates
 
-**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, [[batrachochytrium-dendrobatidis]] (amphibian pathogen) shows evidence of recent intercontinental spread.
+**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, Batrachochytrium dendrobatidis (amphibian pathogen) shows evidence of recent intercontinental spread.
 
 ### Peronosporomycetes (Formerly Oomycetes)
 
-Now classified in [[kingdom-straminipila]], not true Fungi, but traditionally studied by mycologists.
+Now classified in Kingdom Straminipila, not true Fungi, but traditionally studied by mycologists.
 
 **Classification** (3 subclasses):
 - **Peronosporomycetidae**: Peronosporales, Pythiales (mycelial)
@@ -49,15 +49,15 @@ Now classified in [[kingdom-straminipila]], not true Fungi, but traditionally st
 - **Rhipidiomycetidae**: Rhipidiales (nonmycelial, monocentric)
 
 **Key genera**:
-- Saprolegnia, Achlya, [[dictyuchus]] (Saprolegniaceae - "water molds")
+- Saprolegnia, Achlya, Dictyuchus (Saprolegniaceae - "water molds")
 - Pythium (Pythiaceae)
-- [[phytophthora]], Peronospora, Plasmopara (plant pathogens)
+- Phytophthora, Peronospora, Plasmopara (plant pathogens)
 - Halophytophthora (marine/estuarine)
 
 **Ecological roles**:
 - Major saprotrophs on submerged plant debris, fruits, and dead animals in freshwater
 - Parasites of fish (saprolegniosis), aquatic insects, algae, and nematodes
-- Key plant pathogens: [[phytophthora-infestans]] (potato [[late-blight]]), Pythium (damping-off)
+- Key plant pathogens: Phytophthora infestans (potato late blight), Pythium (damping-off)
 
 **Collection methods**:
 - Baiting with hemp seed halves, snake skin, and fruit in water samples
@@ -100,7 +100,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 
 **Non-sporulating fungi**:
 - Many isolates from freshwater never produce conidia in culture
-- Molecular methods increasingly used to identify these [[cryptic-species]]
+- Molecular methods increasingly used to identify these cryptic species
 
 ## Habitat Types
 
@@ -148,3 +148,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 - Single-spore isolation on agar media
 
 **Hyphomycetes**:
+## See Also
+
+- [[biodiversity-fungi-freshwater-aquatic-habitats]]
+- [[biodiversity-of-fungi-freshwater-survey-collection-methods]]

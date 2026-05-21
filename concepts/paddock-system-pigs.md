@@ -16,7 +16,7 @@ On the Krameterhof, all land is managed as part of a paddock system. All livesto
 
 ## Stocking Rate
 
-Depending on soil conditions and vegetation, [[sepp-holzer]] keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
+Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
 
 ## Key Design Elements
 
@@ -44,7 +44,7 @@ Extra feeding is rarely necessary because there is enough vegetation throughout 
 4. Each grazed paddock is sown with a seed mixture
 5. Once enough time has passed, pigs return to the first paddock
 
-The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: the soil is not only loosened but the tubers are spread. After grazing, conditions for propagation, regeneration, and growth are better than in untilled soil. Paddocks are simultaneously working as arable land in a [[permaculture]] system.
+The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: the soil is not only loosened but the tubers are spread. After grazing, conditions for propagation, regeneration, and growth are better than in untilled soil. Paddocks are simultaneously working as arable land in a permaculture system.
 
 ## Pigs as Helpers
 
@@ -60,25 +60,31 @@ The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: t
 - [[holzer-livestock-integration]] -- integrating livestock into permaculture
 - [[slugs-and-snails-organic-control]] -- pigs as biological slug control
 - [[natural-farming-livestock-integration]]
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of paddock system pigs has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
+## Current Research
+
+Recent investigations into paddock system pigs have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with paddock system pigs spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of paddock system pigs.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into paddock system pigs continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

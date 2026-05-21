@@ -5,7 +5,6 @@ updated: 2026-04-24
 type: concept
 tags: [diet, health, food, nutrition, farming, fukuoka, macrobiotic]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka on [[natural-farming-fukuoka]] presents extensive observations on the relationship between diet, health, and civilization, drawing on his travels through America, Europe, and Japan. His views connect [[fukuoka-road-do-nothing-farming]] — the farming that produces natural food

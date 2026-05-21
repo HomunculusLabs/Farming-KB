@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Cross, J.R. (1975). "Biological flora of the British Isles: Rhododendron ponticum L." Journal of Ecology, 63(1), 345-364.
-  - Milne, R.I. & Abbott, R.J. (2000). "Origin and evolution of invasive naturalized material of Rhododendron ponticum L. in the British Isles." Molecular Ecology, 9(5), 541-556.
-  - Rotherham, I.D. (2005). "Invasive plants: ecology, history, and policy." In: Rotherham, I.D. (ed.), Invasive Species and the British Landscape. packard Publishing.
   - Stout, J.C. (2007). "Linking growing-gourmet-north-american-reishi-species species introduced for ornamental breeding).
 ---
 

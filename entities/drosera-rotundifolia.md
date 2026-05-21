@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Darwin C (1875). "Insectivorous Plants." John Murray, London.
-  - Schlauer J (2020). "Drosera rotundifolia." In: The Carnivorous Plant FAQ. http://www.sarracenia.com/faq/faq5526.html
-  - European Medicines Agency (2013). "permaculture-site-assessment-report-writing on Drosera rotundifolia." EMA/HMPC/572531/2009.
   - Gibson TC (1991). "Field observations on nutrition of the sundew Drosera rotundifolia." Oecologia 85(3): 383-388.---
 ---
 
@@ -79,3 +76,5 @@ Experiments have shown that fed plants grow significantly larger and produce mor
 Charles Darwin conducted extensive experiments on D. rotundifolia, detailed in his 1875 work "Insectivorous Plants."
 
 ## Medicinal Uses
+Further research into drosera rotundifolia continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind drosera rotundifolia provides a foundation for both practical application and continued scientific inquiry.

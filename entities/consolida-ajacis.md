@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. et al. (1993). "Flora Europaea Vol. 1." Cambridge University Press.
-  - RHS (2023). "Consolida ajacis — Plant Finder." Royal Horticultural Society.
-  - Jabbour, F. & Renner, S.S. (2012). "A phylogeny of Delphinieae (Ranunculaceae) shows that Aconitum is nested within Delphinium." Taxon, 61(1), 64–74.
   - Arkham, B. et al. (2019). "Toxicity of Consolida species to livestock." Veterinary Journal, 245, 55–60.
 ---
 

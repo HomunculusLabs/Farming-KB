@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lehtonen, S. (2008). "Anatomy and Morphology in Species-Level Systematics of Alismataceae." Systematic Botany, 33(2), 261-270.
-  - Bogin, C. (1955). "Revision of the Genus Echinodorus." Memoirs of the New York Botanical Garden, 9(1), 1-49.
-  - Rataj, K. (1975). "Revision of the Genus Echinodorus." Vedoucí Redakce, Prague.
-  - Haynes, R.R. & Holm-Nielsen, L.B. (1994). "Alismataceae." Flora of Ecuador, 49, 1-63.
   - Kasselmann, C. (2003). Aquarium Plants. Krieger Publishing Company.
 ---
 

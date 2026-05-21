@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Madison, M.T. (1977). "A revision of Monstera (Araceae)." Contributions from the University of Michigan Herbarium, 11, 1-100.
-  - Croat, T.B. (2020). "Monstera (Araceae: Monsteroideae) — a revision of the genus." Annals of the Missouri Botanical Garden.
-  - Bown, D. (2000). Aroids: Plants of the Arum Family. Timber Press.
-  - Cedeño-Fonseca, M. et al. (2022). "The ecological and evolutionary significance of leaf fenestrations in Monstera." AoB Plants, 14(2).
   - Kew Royal Botanic Gardens. "Monstera deliciosa." Plants of the World Online.
 ---
 

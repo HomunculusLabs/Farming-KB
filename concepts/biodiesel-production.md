@@ -16,7 +16,7 @@ Biodiesel is a renewable diesel fuel substitute made through transesterification
 Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 
 The reaction:
-- Vegetable oil (triglyceride) + [[methanol]] + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
+- Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
 
 For every liter of oil, you need approximately:
 - 200ml methanol (20% by volume)
@@ -54,7 +54,7 @@ Titration determines how much catalyst is needed for your specific batch of oil.
 
 ### Titration Procedure (NaOH method)
 
-1. Dissolve 1 gram of NaOH in 1 liter of distilled water ([[isopropyl-alcohol]] solution)
+1. Dissolve 1 gram of NaOH in 1 liter of distilled water (isopropyl alcohol solution)
 2. In a separate container, mix 1ml of oil with 10ml of isopropyl alcohol
 3. Add the NaOH solution drop by drop to the oil-alcohol mixture while stirring
 4. Count the drops until the solution turns pink and stays pink for 20 seconds
@@ -143,7 +143,12 @@ After washing, biodiesel contains suspended water droplets:
 - **Cloud point** — The temperature at which biodiesel begins to gel. Important for cold climate use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
+## Glycerin Byproduct
+
+Glycerin makes up about 20% of the reaction volume and has several uses:
+
+- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
 ## See Also
-- [[holmgren-catch-and-store-energy-four-landscape-storages]]
-- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
-- [[energy-conversion-efficiency]]
+
+- [[growing-gourmet-plug-spawn-production]]
+- [[snail-farming-heliciculture-and-edible-escargot-production]]

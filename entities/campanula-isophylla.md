@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A. A. (1957). "Campanulaceae." In: Flora URSS, Vol. 24. Moscow.
-  - Huxley, A. (1992). "The New Royal Horticultural Society Dictionary of Gardening." Macmillan.
   - Räsänen, K. (2002). "Campanula isophylla as a potted plant: cultivation and breeding." Acta Horticulturae, 572, 149-155.
 ---
 

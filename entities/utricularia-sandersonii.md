@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - D'Amato, P. (2013). "The Savage Garden: The Revised and Expanded Edition." Ten Speed Press.
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia Magnum Opus." Redfern Natural History Productions.
-  - Fleischmann, A. (2012). "Bibliographic Synopsis of Lentibulariaceae." Blumea, 57(1), 1-12.
   - Rice, B.A. (2006). "Growing Carnivorous Plants." Timber Press.
 ---
 

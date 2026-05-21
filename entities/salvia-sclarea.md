@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kintzios S.E. (2000). "Sage: The Genus Salvia." Medicinal and Aromatic Plants — Industrial Profiles. Harwood Academic.
-  - Hajhashemi V. et al. (2000). "Antinociceptive and Anti-inflammatory Effects of S. sclarea permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology, 69(2), 141-146.
-  - Ulubelen A. (2003). "Cardiovascular and Central Nervous System Effects of Salvia sclarea." Phytotherapy Research, 17(1), 20-23.
   - Pistelli L. et al. (1997). "psilocybin-north-america-pacific-northwest, dmt-containing-plants-united-states-halpern, particularly in disturbed sites and roadsides.
 ---
 

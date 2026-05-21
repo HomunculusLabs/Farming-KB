@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - J. F. M. Cannon et al. (1993). "Allium L." In: Flora of China, Vol. 24, pp. 165–247. Science Press.
-  - S. Keusgen (2002). "Health and Alliums." In: Allium Crop Science: Recent Advances, pp. 357–378. CABI Publishing.
-  - F. Block (2010). "Garlic and Other Alliums: The Lore and the Science." Royal Society of Chemistry.
-  - USDA Natural Resources Conservation Service. "Allium tuberosum Rottler ex Spreng." PLANTS Database.
   - L. Corzo-Martínez et al. (2007). "Biological properties of onions and garlic." Trends in Food Science & Technology, 18(12), 609–625.
 ---
 

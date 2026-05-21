@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Clement, C.R. et al. (2009). "Origin and Domestication of Native Amazonian Crops." Diversity, 1(1), 72-106.
-  - Mora-Urpí, J., Weber, J.C. & Clement, C.R. (1997). Peach Palm: Bactris gasipaes Kunth. PROMUSA/INIBAP, Costa Rica.
   - Pardo, R. & Burgos, C. (2013). "guzman-psilocybin-mushrooms-south-america. It is one of the most economically important domesticated palms in the Neotropics, valued primarily for its starchy fruit and heart of palm.
 ---
 

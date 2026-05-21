@@ -9,7 +9,7 @@ sources: []
 
 # Nematode Management
 
-Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes ([[meloidogyne]] spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an integrated approach combining crop rotation, resistant varieties, biological controls, and soil health improvement.
+Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an integrated approach combining crop rotation, resistant varieties, biological controls, and soil health improvement.
 
 ## Understanding Nematodes
 
@@ -81,13 +81,13 @@ Rotation is the most important long-term strategy. The key is to rotate between 
 
 ### Cover Crop Rotation for Nematode Suppression
 
-Certain [[cover-crops]] suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
+Certain cover crops suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
 
-- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a [[cover-crop]] for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
+- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a cover crop for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
 - **Cereal rye**: Poor host for root-knot nematodes. The rye residues contain allelopathic compounds that suppress nematode populations after incorporation.
-- **Sorghum-[[sudangrass]]**: Roots release a natural nematicide (sorgoleone). Incorporate the [[green-manure]] at peak growth for maximum effect.
+- **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the green manure at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.
-- **[[daikon-radish]]**: Moderate biofumigant effect; breaks compaction, improving root growth of subsequent crops.
+- **Daikon radish**: Moderate biofumigant effect; breaks compaction, improving root growth of subsequent crops.
 - See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive rotation planning.
 
 ## Marigolds for Nematode Control
@@ -147,3 +147,4 @@ Mycorrhizal colonization of roots can reduce nematode damage by:
 ### Pasteuria penetrans
 
 A bacterial parasite of root-knot nematodes. Spores attach to nematode juveniles, penetrate the body, and reproduce inside, killing the nematode. Available as a commercial biological nematicide in some regions.
+

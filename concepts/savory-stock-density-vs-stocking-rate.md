@@ -11,7 +11,6 @@ related: [savory-livestock-grazing-planning,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Stock Density Versus Stocking Rate
 

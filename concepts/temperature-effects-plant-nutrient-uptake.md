@@ -23,7 +23,7 @@ The [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] prob
 
 ### General Soil Microbial Response
 
-Soil microbial biomass typically doubles for every 18F (10C) increase in temperature, up to an optimum. This means that warming spring soils don't just speed up individual metabolic reactions — they dramatically increase the total population of nutrient-cycling organisms. The [[glomalin-and-soil-carbon]]
+Soil microbial biomass typically doubles for every 18F (10C) increase in temperature, up to an optimum. This means that warming spring soils don't just speed up individual metabolic reactions — they dramatically increase the total population of nutrient-cycling organisms. The [[glomalin]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Practical Considerations
 

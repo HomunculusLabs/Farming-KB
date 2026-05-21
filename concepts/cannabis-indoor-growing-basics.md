@@ -103,7 +103,7 @@ Made from coconut husk fibers. Excellent water retention and drainage, pH neutra
 
 ### Hydroponics
 
-Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and dissolved oxygen monitoring. Systems include DWC, [[ebb-and-flow]], drip, and NFT.
+Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and dissolved oxygen monitoring. Systems include DWC, ebb and flow, drip, and NFT.
 
 ## Environmental Monitoring
 
@@ -138,7 +138,7 @@ Training methods and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 
 
 ### Pre-Harvest (Final 1-2 Weeks)
 
-- Monitor [[trichomes]] with a jeweler's loupe (60-100x)
+- Monitor trichomes with a jeweler's loupe (60-100x)
 - Reduce watering, prepare drying and curing space
 
 ## Common Beginner Mistakes
@@ -148,3 +148,5 @@ Training methods and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 
 - Harvesting too early, not monitoring pH in coco/hydro systems
 
 ## Related
+
+- [[cannabis-seed-germination]]

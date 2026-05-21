@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag, New York.
-  - Sehnem, A. (1978). "Cibotiáceas e Dicksoniáceas." Flora Ilustrada Catarinense, Itajaí.
-  - CITES Appendix II. Dicksonia sellowiana. https://cites.org
   - Windisch, P.G. (2008). "Diversity and conservation of pteridophytes in South America." Fern Gazette, 18(2): 77-89.
 ---
 

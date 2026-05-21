@@ -12,9 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lowrie, A. (1987). "Carnivorous Plants of Australia." Volume 1. University of Western Australia Press.
-  - Schlauer, J. (2001). "A dichotomous key to the genus Drosera L. (Droseraceae)." Carnivorous Plant Newsletter, 30(3), 68-76.
-  - Hartmeyer, S. (2008). "Carnivorous plants of Australia — The genus Drosera." Australian Carnivorous Plants.
   - Gibson, T.C. (1991). "The sundews (Drosera) of Australia." Curtis's Botanical Magazine, 8(2), 67-85.
 ---
 

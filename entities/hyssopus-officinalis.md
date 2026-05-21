@@ -14,8 +14,6 @@ tags:
   - essential-oil
 sources:
   - Grieve, M. (1931). A Modern Herbal. Jonathan Cape.
-  - WHO Monographs on Medicinal Plants, Vol. 4 (2009). World Health Organization.
-  - Şen, A. et al. (2018). "Hyssopus officinalis L.: a review of its phytochemistry and pharmacology." Journal of Pharmacy and Pharmacology, 70(7), 883-900.
   - Formisano, C. et al. (2007). "Constituents of the query-how-to-grow-and-use-oca-in-temperate-climates.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben, G.J.H. & Denton, O.A. (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Schippers, R.R. (2000). "African Indigenous Vegetables: An Overview of the Cultivated Species." Natural Resources Institute.
-  - Opler, P.A. et al. (2013). "Basellaceae." In: The Plant List, Version 1.1.
   - Morton, J.F. (1975). "Ceylon Spinach, Malabar Nightshade (Basella rubra, B. alba)." Economic Botany 29(4): 415-420.
 ---
 

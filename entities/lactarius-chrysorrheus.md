@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Basso, M.T. (1999). "Lactarius Pers. Fungi Europaei Vol. 7." Edizioni Candusso.
-  - Kriegelsteiner, G.J. (2000). "Die Großpilze Baden-Württembergs Band 1." Eugen Ulmer.
-  - Heilmann-Clausen, J. et al. (2007). "The Fungal Red List." Danmarks Svampeatlas.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
 ---
 

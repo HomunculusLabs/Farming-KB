@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Li, X.W. & Hedge, I.C. (1994). "Lamiaceae." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China 17: 50–299.
-  - Kim, M.R. et al. (2010). "Antioxidant and Anti-Inflammatory Activities of Elsholtzia ciliata." Journal of Ethnopharmacology 128(1): 97–104.
-  - Oh, H. et al. (2009). "Volatile Constituents and Antimicrobial Activity of Elsholtzia ciliata." Journal of Agricultural and Food Chemistry 57(1): 40–45.
-  - Duke, J.A. & Ayensu, E.S. (1985). "Medicinal Plants of China." Reference Publications.
 created: 2026-04-28
 ---
 

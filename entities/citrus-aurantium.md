@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mabberley DJ (1997). "A classification for edible Citrus." Telopea 7(2).
-  - Stashenko EE et al. (1996). "permaculture-designers-manual-essential-oil-plants composition of Citrus aurantium." J. Agric. Food Chem.
-  - Pellati F et al. (2005). "Analysis of polyphenols in Citrus aurantium." J. Chromatogr. A.
   - USDA ARS (2024). "Citrus aurantium L." GRIN Taxonomy Database.
 ---
 

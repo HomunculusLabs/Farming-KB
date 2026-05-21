@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Gentianaceae." In: Tutin, T.G. et al., Flora Europaea, Vol. 3, pp. 56-60. Cambridge University Press.
-  - Pringle, J.S. (1978). "Gentianaceae." In: Great Plains Flora Association, Flora of the Great Plains. University Press of Kansas.
-  - Sell, P.D. & Murrell, G. (2009). "Flora of Great Britain and Ireland, Vol. 3." Cambridge University Press.
   - BSBI: Centaurium scilloides. https://bsbi.org/
 ---
 

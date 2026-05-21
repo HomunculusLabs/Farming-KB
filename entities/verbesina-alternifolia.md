@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Gleason, H.A. & Cronquist, A. (1991). \"Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada.\" New York Botanical Garden."
-  - "Rhoads, A.F. & Block, T.A. (2007). \"The Plants of Pennsylvania.\" University of Pennsylvania Press."
-  - "Furnier, G.R. & Guries, R.P. (1982). \"Genetic structure of populations of Verbesina alternifolia.\" American Journal of Botany, 69(10), 1540-1547."
   - "USDA NRCS. \"Verbesina alternifolia (L.) Britt.\" PLANTS Database."
 ---
 

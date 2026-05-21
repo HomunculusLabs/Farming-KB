@@ -11,8 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Mathew, B. (1989). The Iris. Timber Press.
-  - Waddick, J.W. & Zhao Yu-tang (1992). Iris of China. Timber Press.
-  - Royal Horticultural Society (2023). "Iris ensata." RHS Plant Finder.
   - American Iris Society (2024). "Japanese Iris Culture." AIS Bulletin.
 ---
 

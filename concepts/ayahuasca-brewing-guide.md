@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically [[psychotria-viridis]], called chacruna) and a [[banisteriopsis-caapi]] vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
+Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a Banisteriopsis caapi vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
 
-The word "ayahuasca" comes from the [[quechua-language]]: "aya" (soul, spirit, dead) and "wasca" (vine, rope) — "vine of the soul" or "vine of the dead."
+The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead) and "wasca" (vine, rope) — "vine of the soul" or "vine of the dead."
 
 ## Core Ingredients
 
 ### Banisteriopsis caapi (Ayahuasca Vine)
-- Source of harmine, harmaline, and [[tetrahydroharmine]]
+- Source of harmine, harmaline, and tetrahydroharmine
 - Acts as the MAOI component
 - Typically 50–100 g of shredded vine per brew
 - Provides the "mariri" — the visionary force and deep body cleansing
@@ -30,7 +30,7 @@ The word "ayahuasca" comes from the [[quechua-language]]: "aya" (soul, spirit, d
 
 ### Alternative DMT Sources
 - Diplopterys cabrerana (chaliponga) — stronger than chacruna, 15–30 g dried
-- [[mimosa-hostilis]] root bark — used in Brazilian-style preparations
+- Mimosa hostilis root bark — used in Brazilian-style preparations
 - Psychotria carthaginensis — less common substitute
 
 ## Proportions and Ratios
@@ -73,7 +73,7 @@ The ratio can be adjusted: more vine produces a heavier, more bodily experience 
 
 ## The Dieta
 
-In the Shipibo tradition and throughout the Peruvian Amazon, preparation for [[ayahuasca-ceremony]] involves following a "dieta" — a strict dietary and behavioral regimen, typically lasting 1–2 weeks before and after ceremony:
+In the Shipibo tradition and throughout the Peruvian Amazon, preparation for ayahuasca ceremony involves following a "dieta" — a strict dietary and behavioral regimen, typically lasting 1–2 weeks before and after ceremony:
 
 ### Dietary Restrictions
 - No salt, sugar, or spices

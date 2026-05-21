@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Mathew B (2020). "The genus Helleborus: taxonomy and cultivation." The Plantsman 19(3): 154–165.
-  - McLewin W, Mathew B (2007). Hellebores: A Comprehensive Guide. Timber Press, Portland.
-  - Meiners J, Bartsch K (2019). "Phylogeny and biogeography of the Caulescent hellebores." Taxon 68(4): 710–724.
   - Anderberg AA, Rydin S (2021). "Ranunculaceae of Europe: an updated phylogenetic perspective." Willdenowia 51(2): 199–215.
 ---
 

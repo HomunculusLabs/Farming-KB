@@ -15,14 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
-  - Benzing, D.H. (2012). Vascular Epiphytes: General Biology and Related Biota. Cambridge University Press.
-  - Zotz, G. (2013). "The systematic distribution of vascular epiphytes." Ecological Monographs, 83(2), 183-199.
-  - Laube, S. & Zotz, G. (2006). "Vascular epiphytes in the tropics." Flora, 191(6), 483-490.
-  - Givnish, T.J. et al. (2014). "Adaptive radiation, correlated and contingent evolution of net diversification in Bromeliaceae." BMC Evolutionary Biology, 14, 151.
-  - Silvera, K. et al. (2009). "The functional role of CAM in tropical epiphytes." Botanical Review, 75(3), 318-337.
-  - Ackerman, J.D. (2007). "Orchid pollination biology." In Orchid Biology: Reviews and Perspectives, Vol. IX. Springer.
-  - Cardelús, C.L. et al. (2006). "Vascular epiphyte distribution patterns in tropical forests." Journal of Biogeography, 33(3), 432-441.
 type: query
 ---
 ## See Also

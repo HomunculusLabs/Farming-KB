@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G. et al. (2004). "A new bluing Psilocybe from Mexico." Mycotaxon, 90, 299-306.
-  - Ola'h, G.M. (1969). "Le Genre Panaeolus." Recherches Mycologiques, Neuchâtel.
-  - Stamets, P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
-  - Allen, J.W. et al. (1992). "A new species of Panaeolus from Thailand." Mycotaxon, 43, 327-332.
-  - Allen, J.W. & Merlin, M.D. (1992). "cattle-dispersal-psychoactive-fungi-australia in Thailand." Journal of Psychoactive Drugs, 24(2), 183-191.
 created: 2026-04-28
 ---
 

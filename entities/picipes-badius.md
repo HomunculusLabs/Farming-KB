@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, C.L. (2004). "Polyporaceae of the British Isles." Royal Botanic Gardens, Kew.
-  - Bernicchia, A. & Gorjón, S.P. (2010). "Corticiaceae s.l. (Basidiomycota)." Edizioni Candusso.
-  - Zmitrovich, I.V. & Malysheva, V.F. (2019). "A new genus Picipes for a group of polyporoid fungi." Mycosphere 10(1): 1-38.
   - Index Fungorum (2024). "Picipes badius (Pers.) Zmitrovich & Malysheva." www.indexfungorum.org.
 ---
 

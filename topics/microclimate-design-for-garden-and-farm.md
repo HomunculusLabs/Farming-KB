@@ -6,14 +6,11 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - concepts/mollison-designers-sun-trap-and-frost-pocket-design.md
   - concepts/holzer-microclimate-creation.md
   - concepts/gaias-garden-microclimates.md
   - concepts/edge-effect-and-microclimate.md
-  - concepts/permaculture-frost-protection-strategies.md
   - concepts/windbreak-and-shelterbelt-design.md
   - concepts/mollison-thermal-mass-passive-building.md
-  - concepts/faires-thermal-mass-applications-in-building.md
 related_concepts:
   - holzer-microclimate-creation
   - gaias-garden-microclimates

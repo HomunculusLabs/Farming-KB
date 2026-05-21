@@ -4,10 +4,6 @@ tags: [topic, nitrogen-cycle, soil-science, biogeochemistry, agriculture, ecolog
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Vitousek, P.M. et al. (1997). Human alteration of the global nitrogen cycle: Sources and consequences. *Ecological Applications*, 7(3), 737-750."
-  - "Robertson, G.P. & Vitousek, P.M. (2009). Nitrogen in agriculture: Balancing the cost of an essential resource. *Annual Review of Environment and Resources*, 34, 97-125."
-  - "Galloway, J.N. et al. (2008). Transformation of the nitrogen cycle: Recent trends, questions, and potential solutions. *Science*, 320(5878), 889-892."
-  - "Crews, T.E. & Peoples, M.B. (2005). Can the synchrony of nitrogen supply and crop demand be increased in legume-based cropping systems? *Agronomy Journal*, 97(5), 1275-1284."
   - "Liu, J. et al. (2023). nitrogen-fixing-bacteria-and-biological-nitrogen-fixation fixation in agriculture: Achievements, challenges, and future prospects. *Frontiers in Plant Science*, 14, 1158420."
 ---
 

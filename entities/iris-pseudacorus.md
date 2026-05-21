@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tutin, T.G. et al. (1980). "Flora Europaea, Volume 5." Cambridge University Press.
-  - Green, B.H. & Bardsley, C.E. (1977). "Growth characteristics of Iris pseudacorus L." Journal of Ecology 65(2): 601-614.
-  - Cook, C.D.K. (1990). "Aquatic Plant Book." SPB Academic Publishing.
-  - Sutherland, S. (1990). "Biological flora of the British Isles: Iris pseudacorus L." Journal of Ecology 78(3): 813-829.
   - USDA NRCS (2024). "PLANTS Database: Iris pseudacorus." plants.usda.gov.
 ---
 

@@ -10,10 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Centaurium." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 3, pp. 56–58. Cambridge University Press.
   -_validation: missing placeholder removed_
-  - Venditti, A. et al. (2016). "Phytochemical analysis of Centaurium montanum aerial parts." Natural Product Research, 30(5): 589–594.
-  - Šiler, B. et al. (2014). "Secoiridoid glycosides as chemotaxonomic markers in Centaurium species." Phytochemistry, 98: 32–41.
   -_mgr: placeholder removed_
   - Halda, J.J. (2004). "The genus Centaurium: a taxonomic revision." Thaiszia Journal of Botany, 14: 1–28.
 ---

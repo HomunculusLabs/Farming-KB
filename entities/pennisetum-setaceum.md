@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Faulkner, J.S. et al. (1989). "The biology of Australian weeds, 19. Pennisetum setaceum (Forssk.) Chiov." Plant Protection Quarterly.
-  - Quartz, R.D. & Holt, J.S. (2008). "Multiple mechanisms of invasion in Pennisetum setaceum." Invasive Plant Science and Management.
-  - DiTomaso, J.M. & Healy, E.A. (2007). "Weeds of California and Other Western States." UC DANR.
-  - Starr, F., Starr, K. & Loope, L. (2003). "New plant records from Hawai'i." Bishop Museum Occasional Papers.
   - Wilson, J.P. & Clark, L.G. (2013). "Phylogeny and classification of Pennisetum." Systematic Botany.
 ---
 

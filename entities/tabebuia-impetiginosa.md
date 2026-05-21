@@ -9,11 +9,8 @@ updated: 2026-04-28
 sources:
   - Lockwood, T.E. (1972). "A revision of Tabebuia."
     Contributions from the US National Herbarium, 37(7), 279–354.
-  - Ueda, S. et al. (1994). "Lapachol and related naphthoquinones."
     Phytochemistry, 36(1), 243–246.
-  - De Souza, M.M. et al. (2009). "Pharmacological basis for
     Tabebuia impetiginosa." J. Ethnopharmacology, 121(1), 1–7.
-  - Grose, S.O. & Olmstead, R.G. (2007). "Taxonomic revisions
     in Tabebuia." Systematic Botany, 32(3), 660–670.
 ---
 

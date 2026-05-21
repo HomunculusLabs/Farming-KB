@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tutin, T.G. et al. (1968). "Flora Europaea, Vol. 2." Cambridge University Press.
-  - Schaefer, H. (2012). "Biogeography, Evolution, and Systematics of Genista L." Botanical Journal of the Linnean Society, 169(4), 552-576.
-  - Hill, T.A. (1977). "Economic Botany: A Textbook of Useful Plants and Plant Products." McGraw-Hill.
   - Isely, D. (1998). "Native and Naturalized Leguminosae (Fabaceae) of the berry-growing, particularly in the northeastern United States and eastern Canada. It is considered an introduced species in these regions but does not typically exhibit aggressive invasive behavior.
 ---
 

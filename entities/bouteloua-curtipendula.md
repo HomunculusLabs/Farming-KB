@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gould, F.W. (1975). "The Grasses of Texas." Texas A&M University Press.
-  - Harmoney, K.R. et al. (1997). "Nitrogen and burning effects on switchgrass and big bluestem." Journal of Range Management.
-  - Hickman, K.R. et al. (2004). "Bouteloua curtipendula." Journal of Range Management.
-  - Brown, R.W. & Archer, S. (1999). "Shrub invasion of grassland." Ecology.
   - Weaver, J.E. (1968). "Prairie Plants and Their Environment." University of Nebraska Press.
 ---
 

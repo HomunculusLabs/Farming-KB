@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." MBG Press.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
-  - Goldblatt, P. (1979). "A Revision of the African Genus Ferraria." Annals of the Missouri Botanical Garden, 66(4): 535-568.
-  - RHS (2024). "Ferraria crispa — Royal Horticultural Society." rhs.org.uk.
   - Cooke, J. (2009). "The Cultivation of Ferraria Species." The Plantsman, 8(2): 88-91.
 ---
 

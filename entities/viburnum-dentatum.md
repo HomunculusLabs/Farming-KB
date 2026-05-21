@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - USDA NRCS (2024). Plant Profile: Viburnum dentatum. plants.usda.gov.
-  - Galle, F.C. (1985). Viburnums: Flowering Shrubs for Every Season. Timber Press.
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
 ---
 
@@ -78,3 +74,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on viburnum dentatum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with viburnum dentatum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

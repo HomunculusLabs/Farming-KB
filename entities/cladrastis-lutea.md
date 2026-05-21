@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Part 2." University of north-carolina-mycodiversity Press.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
-  - Rickett, H.W. (1967). "Wild Flowers of the United States, Vol. 2." McGraw-Hill.
   - Cappiello, P. & Shadow, D. (2005). "Dogwoods, Redbuds, Magnolias and More." Timber Press.
 ---
 

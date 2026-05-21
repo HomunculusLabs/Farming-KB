@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Neuffer, B. (2011). "Capsella." In: Wild Crop Relatives: Genomic and Breeding Resources. Springer.
-  - Xu, L. et al. (2019). "Traditional Chinese medicine Capsella bursa-pastoris: a review of phytochemistry and pharmacology." Journal of Ethnopharmacology, 245, 112177.
-  - Holm, L. et al. (1997). World Weeds: Natural Histories and Distribution. John Wiley & Sons.
   - Duke, J.A. (2002). Handbook of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

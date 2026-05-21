@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bramwell, D. (1972). "A revision of the genus Echium in Macaronesia." Lagascalia, 2, 37-115.
-  - Santos, A. (1983). "Vegetation of the Canary Islands." In: La Palma Symposium on Nature Conservation.
-  - RHS Plant Finder. "Echium wildpretii." Royal Horticultural Society.
-  - Garcia-Casal, M.N., et al. (2014). "Phytochemical screening of Echium wildpretii." Journal of Food Composition and Analysis, 33(1), 36-42.
   - Suarez, C., et al. (2009). "Pollination biology of Echium wildpretii on Tenerife." Plant Biology, 11(4), 532-540.
 ---
 

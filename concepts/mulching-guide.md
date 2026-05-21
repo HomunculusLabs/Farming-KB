@@ -32,7 +32,7 @@ Mulch is any material spread over the soil surface to conserve moisture, suppres
 ### Leaves (Shredded)
 - Best for: General garden mulch, compost ingredient, overwintering.
 - Depth: 2-4 inches after shredding.
-- Pros: Free, nutrient-rich, feeds [[earthworms]] and microbes, excellent for soil building.
+- Pros: Free, nutrient-rich, feeds earthworms and microbes, excellent for soil building.
 - Cons: Can mat and repel water if not shredded; blows away if whole.
 - Tip: Run over leaves with a lawnmower to shred. Oak leaves are slightly acidic but fine in moderation.
 
@@ -45,12 +45,12 @@ Mulch is any material spread over the soil surface to conserve moisture, suppres
 - NEVER use clippings from lawns treated with broadleaf herbicides (clopyralid, 2,4-D, dicamba).
 
 ### Cardboard / Newspaper
-- Best for: [[sheet-mulching]], killing sod, establishing new beds, pathways.
+- Best for: Sheet mulching, killing sod, establishing new beds, pathways.
 - Depth: 2-3 layers cardboard or 5-10 sheets newspaper.
 - Pros: Excellent weed suppression, breaks down within a season, smother grass.
 - Cons: Can block water if overlapping seams are not soaked; may contain glue/tape.
 - Rules: Remove tape, staples, and glossy/colored ink. Use plain brown cardboard only.
-- Always cover with 2-4 inches of [[organic-mulch]] on top for aesthetics and moisture.
+- Always cover with 2-4 inches of organic mulch on top for aesthetics and moisture.
 
 ### Pine Needles
 - Best for: Acid-loving plants (blueberries, strawberries, rhododendrons).
@@ -75,7 +75,7 @@ Mulch is any material spread over the soil surface to conserve moisture, suppres
 ### Fall
 - Apply heavy mulch (4-6 in leaves, straw) after cleanup to protect soil over winter.
 - Sheet mulch new beds with cardboard + leaves for spring planting.
-- Do NOT remove fall mulch in spring — [[soil-life]] depends on winter insulation.
+- Do NOT remove fall mulch in spring — soil life depends on winter insulation.
 
 ### Winter
 - Leave all mulch in place — it protects soil biology, prevents erosion, and reduces frost heaving.
@@ -88,7 +88,7 @@ When carbon-rich mulches (wood chips, sawdust, straw) decompose on the soil surf
 Key points:
 - Surface mulch causes MINIMAL nitrogen tie-up — the effect is concentrated at the mulch-soil interface, not in the root zone.
 - The problem occurs when carbon materials are TILLED into soil, not when laid on top.
-- If nitrogen deficiency appears (yellowing lower leaves), side-dress with [[blood-meal]], composted manure, or [[fish-emulsion]].
+- If nitrogen deficiency appears (yellowing lower leaves), side-dress with blood meal, composted manure, or fish emulsion.
 - Mixing nitrogen sources (grass clippings, compost) with carbon mulch reduces tie-up risk.
 
 ## Application Rules
@@ -112,7 +112,7 @@ Key points:
 
 ## Related Concepts
 
-- hugelkultur guide for mound-based growing with built-in organic matter
+- [[hugelkultur-guide]] for mound-based growing with built-in organic matter
 - [[composting-methods-comparison]] for converting mulch materials into finished compost
 - [[soil-amendment-reference]] for mineral additions beneath mulch
 - [[no-till-gardening-method]] for mulch-based growing systems

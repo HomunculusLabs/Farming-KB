@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McPherson, S.R., Wistuba, A. & Fleischmann, A. (2011). "Sarraceniaceae of guzman-psilocybin-mushrooms-south-america." Redfern Natural History Productions.
-  - Steyermark, J.A. (1984). "Flora of the Venezuelan Guayana." Missouri Botanical Garden.
-  - Berry, P.E., Holst, B.K. & Yatskievych, K. (1995). "Flora of the Venezuelan Guayana." Timber Press.
-  - Naczi, R.F.C. (2006). "A new species of Heliamphora." Harvard Papers in Botany.
   - Wistuba, A., Carow, T. & Harbarth, P. (2001). "Heliamphora heterodoxa." Carnivorous Plant Newsletter.
 ---
 

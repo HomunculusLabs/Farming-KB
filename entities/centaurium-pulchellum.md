@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1972). "Gentianaceae." Flora Europaea, Vol. 3. Cambridge University Press.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Melderis, A. (1972). "Centaurium." In: Flora Europaea, Vol. 3. Cambridge University Press.
   - Polunin, O. (1969). "Flowers of Europe: A Field Guide." Oxford University Press.
 ---
 

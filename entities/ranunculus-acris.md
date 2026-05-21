@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. & Akeroyd, J.R. (1993). "Ranunculus L." in Flora Europaea Vol. 1. Cambridge University Press.
-  - Emadzade, K. et al. (2010). "Phylogeny of Ranunculus." Molecular Phylogenetics and Evolution 58(1).
-  - Marsden-Jones, E.M. & Turrill, W.B. (1952). "British Buttercups." Ray Society.
   - Hultén, E. & Fries, M. (1986). "Atlas of North European Vascular Plants." Koeltz Scientific Books.
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McKenna, T. (1983/1992). "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness." The mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained, HarperSanFrancisco.
-  - McKenna, T. (1992). Food of the Gods. New York: Bantam Books.
   - Dick, P.K. (1981). VALIS. New York: Bantam Books.
 ---
 

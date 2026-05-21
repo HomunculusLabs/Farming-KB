@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Popik, P. & Skolnick, P. (1999). "Pharmacology of Ibogaine and Ibogaine-Related Alkaloids." Handbook of Experimental Pharmacology, 134, 197-231.
-  - Glick, S.D. et al. (2001). "Ibogaine: Anti-Addiction and Anti-Depressive Effects." Annals of the New York Academy of Sciences, 914, 359-366.
-  - Alper, K.R. et al. (2001). "Ibogaine: Review of Pharmacology." The Journal of Neuropsychiatry and Clinical Neurosciences, 13(4), 499-504.
   - Mash, D.C. et al. (2000). "Ibogaine in the Treatment of Opiate Addiction." MAPS Bulletin, 10(1).
 ---
 

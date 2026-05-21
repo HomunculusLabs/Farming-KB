@@ -4,8 +4,6 @@ type: species
 aliases:
   - Cinnabar Polypore
   - Cinnabar Bracket
-  - cancer-medicinal-mushrooms-extraction-bioavailability." Ten Speed Press.
-  - https://www.mycobank.org/page/Trametes%20cinnabarina
 created: 2026-04-28
 ---
 

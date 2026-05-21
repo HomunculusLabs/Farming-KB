@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hegi, G. (1912). "Illustrierte Flora von Mittel-Europa." J.F. Lehmanns Verlag.
-  - Tutin, T.G. et al. (1964). "Flora Europaea, Volume 1." Cambridge University Press.
-  - Grey-Wilson, C. (1993). "Paeonies: A Guide to the Genus." Timber Press.
-  - Rix, M. & Phillips, R. (1981). "The Bulb Book." Century Publishing.
   - USDA NRCS. "Anemone nemorosa L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=ANNE2
 ---
 

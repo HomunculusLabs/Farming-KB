@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L. & Albert, V. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Kew Royal Botanic Gardens. "Blackstonia perfoliata." Plants of the World Online. https://powo.science.kew.org/
   - Polish Botanical Society (2014). "Distribution atlas of vascular plants in Poland."
 ---
 

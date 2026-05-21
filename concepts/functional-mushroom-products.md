@@ -19,7 +19,7 @@ Functional mushroom products encompass a wide range of formats including tinctur
 
 The simplest and most affordable format:
 
-- Raw dried [[mushroom-powder]]: Whole mushroom dried and ground
+- Raw dried mushroom powder: Whole mushroom dried and ground
 - Fruiting body powder: Made from the visible mushroom cap/stem only
 - Mycelium powder: Made from the fungal mycelium grown on substrate (often grain)
 - Dual powder: Blend of fruiting body and mycelium
@@ -62,7 +62,7 @@ Encapsulated powder or extract:
 Concentrated preparations that isolate or concentrate specific compounds:
 
 - Hot water extracts: Best for beta-glucans and polysaccharides
-- Alcohol extracts: Best for triterpenes, [[hericenones]], [[ergothioneine]]
+- Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
 - Dual extracts: Sequential water and alcohol extraction, capturing both classes
 - Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability
 - Standardized extracts: Guaranteed minimum levels of specific compounds (e.g., "30% beta-glucans")
@@ -140,11 +140,16 @@ Third-party testing should verify:
 
 - Heavy metals (lead, arsenic, cadmium, mercury)
 - Pesticide residues
+- Microbial contamination (E. coli, Salmonella, mold, yeast)
+- Aflatoxins and other mycotoxins
+- Solvent residues (for alcohol-extracted products)
+- Radiation (relevant for products from certain regions)
+
+## Labeling: Reading Between the Lines
+
+### Key Labeling Terms
 ## See Also
 
-- [[medicinal-mushroom-guide]] — the bioactive compounds these products deliver
-- [[medicinal-mushroom-guide]] — evidence behind product claims
-- [[mushroom-nutrition-guide]] — nutritional content of whole mushroom products
-## Related
-
-- [[turkey-tail-trametes-versicolor]]
+- [[bee-products-and-apitherapy]]
+- [[fermented-dairy-and-cultured-milk-products]]
+- [[hamilton-concentrated-organic-fertilizer-products]]

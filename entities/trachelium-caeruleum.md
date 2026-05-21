@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
-  - Eisenman, S.W. et al. (2012). "amazonian-medicinal-plants-in-amaringos-visions of Central Asia." Springer.
-  - Royal Horticultural Society (2023). "Trachelium caeruleum." RHS Plant Finder.
   - Huber-Mathis, M. (1995). "Le Trachelium, fleur à couper." PHM Revue Horticole 368: 33–37.---
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1957). "Campanula." In: Flora URSS, Vol. 24. Academy of Sciences USSR.
-  - Kolakovsky A.A. (1988). "Genus Campanula in the Caucasus." Nauka, Leningrad.
-  - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
   - Kovanda M. (1977). "Polyploidy and Variation in the dighton-fungal-drought-tolerance-plant-water-relations.
 ---
 

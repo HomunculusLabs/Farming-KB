@@ -21,10 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lewandowski, I. et al. (2000). \"Miscanthus: European experience with a novel energy crop.\" Biomass and Bioenergy 19(4): 209-227."
-  - "Clifton-Brown, J.C. et al. (2008). Miscanthus: A C4 Bioenergy Crop. Wiley-Blackwell."
-  - "USDA NRCS Plant Guide. Miscanthus sinensis (Chinese Silver Grass)."
-  - "Quinn, L.D. et al. (2010). \"Miscanthus × giganteus: A bioenergy crop.\" Illinois fukuoka-textdoc-biological-control-fallacy-pheromone-critique 1(2): 1-12."
   - "Stewart, J.R. et al. (2009). \"The ecology and agronomy of Miscanthus sinensis.\" GCB Bioenergy 1(4): 331-346."
 ---
 

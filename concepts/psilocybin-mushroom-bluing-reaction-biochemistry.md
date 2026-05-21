@@ -10,7 +10,7 @@ The characteristic **blue-to-green discoloration** that develops in many psilocy
 
 ## Historical Understanding
 
-- **Early 20th century:** [[mordecai-cubitt-cooke]] (1825–1914) was the first to formulate a hypothesis about the nature and physiological significance of the bluing reaction in *[[psilocybe-semilanceata]]*
+- **Early 20th century:** [[mordecai-cooke]] (1825–1914) was the first to formulate a hypothesis about the nature and physiological significance of the bluing reaction in *[[psilocybe-semilanceata]]*
 - **1950s:** Singer and Smith emphasized that discolorations in psychotropic *Psilocybe* and *Panaeolus* species must be linked to the mushrooms' active ingredients
 - **1958:** [[albert-hofmann]] and collaborators isolated the active ingredients and observed that pure psilocin becomes unstable when exposed to oxidizing agents such as air, and that solutions of psilocin turn bluish-green in an alkaline pH range
 

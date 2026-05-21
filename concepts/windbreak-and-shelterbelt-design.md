@@ -142,9 +142,11 @@ A well-designed windbreak uses multiple rows with different functions:
 ### Longer-Term Management
 - Prune lower branches on conifers once trees reach 6-8 feet (improves air circulation and access)
 - Remove dead, diseased, or severely damaged trees
+- Thin overly dense rows to maintain optimal 40-60% density
+- Replant gaps as mature trees die (succession planning — have replacement species ready)
+- Monitor for invasive species and manage promptly
+
+## Benefits
 ## See Also
 
-- [[hedgerow-planting]]
-- [[native-plant-gardening]]
-- [[ornamental-grasses-guide]]
-- [[xeriscaping-guide]]
+- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]

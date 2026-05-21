@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Holttum, R.E. (1963). "Cyatheaceae." Flora Malesiana Series II, 1(2): 65-176.
-  - Bostock, P.D. & Spokes, T.M. (1998). "Cyatheaceae." Flora of Australia, 48: 178-206.
   - Queensland Herbarium (2024). "Cyathea woollsiana." Australia Plant Census. https://biodiversity.org.au/nsl/services/apc
 ---
 

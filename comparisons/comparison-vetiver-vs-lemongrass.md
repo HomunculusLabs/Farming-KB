@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Vetiver System Applications by Paul Truong
-  - The Encyclopedia of Essential Oils by Julia Lawless
   - Permaculture Plants by Jeff Nugent
 ---
 
@@ -78,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+Further research into comparison vetiver vs lemongrass continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison vetiver vs lemongrass provides a foundation for both practical application and continued scientific inquiry.

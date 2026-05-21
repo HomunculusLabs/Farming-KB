@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1989). "Helleborus." The Garden, 114: 428-432.
-  - Rice, G. & Strangman, E. (1993). The Gardener's Guide to Growing Hellebores. David & Charles.
-  - McLellan, A.J. et al. (2018). "Phylogeny and classification of Helleborus." Taxon, 67(3): 470-482.
-  - Dvorackova, I. et al. (2020). "Cardiotoxic effects of hellebrin." Toxicon, 180: 85-93.
   - Wittstock, M. et al. (2015). "Helleborus species in traditional medicine." Phytomedicine, 22(14): 1245-1252.
 ---
 

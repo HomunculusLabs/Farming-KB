@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Crockett, S.L. et al. (2005). "Phytochemical analysis of Eleutherine bulbosa." Zeitschrift für Naturforschung C 60(7-8): 589-593.
-  - Brandt, M. et al. (2009). "Phenylethylphenanthrolignans from Eleutherine bulbosa." Phytochemistry 70(14): 1630-1635.
-  - Singh, I.P. et al. (2010). "Antimicrobial activity of Eleutherine bulbosa." Journal of Ethnopharmacology 132(1): 266-269.
-  - Pohlit, A.M. et al. (2013). "Amazonian plants used in traditional medicine." In: Studies in Natural Products Chemistry, Vol. 40. Elsevier.
   - Otsuka, H. (2006). "Purification of isoeleutherin and eleutherinol from Eleutherine bulbosa." Chemical & Pharmaceutical Bulletin 54(7): 975-979.
 ---
 

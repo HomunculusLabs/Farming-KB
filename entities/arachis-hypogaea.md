@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Krapovickas, A. & Gregory, W.C. (1994). "Taxonomía del género Arachis." Bonplandia, 8, 1–186.
-  - Stalker, H.T. (2017). "Peanut." In: Singh, R.J. (ed.), Genetic Resources, Chromosome Engineering, and Crop Improvement, 2nd ed. CRC Press.
-  - Isleib, T.G. et al. (2015). "History of breeding." In: Stalker, H.T. & Wilson, R.F. (eds.), Peanuts: Genetics, Processing, and Utilization. AOCS Press.
-  - Savage, G.P. & Keenan, J.L. (1994). "The composition and nutritive value of groundnut kernels." Journal of the Science of Food and Agriculture, 65, 321–327.
   - Dewick, P.M. (2009). "Medicinal Natural Products: A Biosynthetic Approach." 3rd ed. Wiley.
 ---
 

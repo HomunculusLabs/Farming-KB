@@ -10,7 +10,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, G. (2005). The Genus Psilocybe: A Systematic Revision of the Known Species. Verlag von Cramer."
   - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide mycelium-structure-and-growth.
 ---
 

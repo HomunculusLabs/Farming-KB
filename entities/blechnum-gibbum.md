@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Gasper, A.L. et al. (2016). "A classification for Blechnaceae." Phytotaxa, 275(3), 191–208.
 ---
 

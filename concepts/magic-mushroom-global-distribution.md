@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
 type: concept
 ---# Magic Mushroom Global Distribution
 

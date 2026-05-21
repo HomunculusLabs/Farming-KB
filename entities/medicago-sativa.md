@@ -23,8 +23,6 @@ aliases:
   - Purple Medic
   - Medicago sativa subsp. sativa
 sources:
-  - Small, E. & Jomphe, M. (1989). "A synopsis of the genus Medicago." Canadian Journal of Botany 67(11).
-  - Barnes, D.K. et al. (1988). "Alfalfa and relatives." In: Fehr, W.R. (ed.) "panax-ginseng of Medicago sativa." Phytotherapy Research 23(2).
 created: 2026-04-28
 ---
 

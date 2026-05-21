@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lawn, R.J. & Ahn, C.S. (2014). "Vigna radiata (L.) R. Wilczek." Wild Crop Relatives: Genomic and Breeding Resources, Springer: 247-263.
-  - Tang, C. et al. (2005). "The role of mungbean in the cropping systems of Asia." Field Crops Research 93(2-3): 117-125.
-  - Nair, A.S. et al. (2013). "Nutritional and anti-nutritional characteristics of mungbean." Journal of Food Science and Technology 50(5): 1012-1020.
-  - Kumar, S. et al. (2018). "Mungbean: a potential crop for environmental sustainability." Journal of Environmental Management 215: 42-49.
-  - Fenton, B. & Grubben, G.J.H. (2005). "Plant Resources of Tropical Africa 1: Cereals and Pulses." PROTA Foundation.
 created: 2026-04-28
 ---
 

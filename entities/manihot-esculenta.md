@@ -18,12 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Allem, A.C. (2002). "The origins and taxonomy of cassava." In Cassava: Biology, Production and Utilization, 1–16. CABI.
-  - Hillocks, R.J. et al. (2002). Cassava: Biology, Production and Utilization. CABI Publishing.
-  - Nweke, F.I. et al. (2002). Cassava Transformation. CABI Publishing.
-  - Burns, A. et al. (2010). "Manihot esculenta (cassava)." In Traditional Food and Medicinal Plants, 44(4), 361–371.
-  - FAO. "Cassava (Manihot esculenta Crantz)." FAO Corporate Document Repository.
 aliases:
   - cassava
   - manioc

@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Noordeloos, M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13. Edizioni Candusso.
-  - Breitenbach, J. & Kränzlin, F. (1995). "Fungi of Switzerland," Vol. 4. Verlag Mykologia.
-  - Guzmán, G. (2018). "The Genus Stropharia." Mycotaxon, 132(4), pp. 801-824.
   - Stamets, P. (2005). "Mycelium Running." Ten Speed Press.
 ---
 
@@ -78,3 +75,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on stropharia aeruginosa have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with stropharia aeruginosa should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)
 type: concept
 ---
 

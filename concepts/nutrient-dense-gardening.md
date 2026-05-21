@@ -1,4 +1,5 @@
 ---
+
 title: Nutrient Dense Gardening
 created: 2026-04-11
 updated: 2026-04-12
@@ -127,5 +128,5 @@ The only way to know if your produce is truly nutrient-dense:
 
 ## Related
 
-- [[drip-irrigation]]
+- [[drip-irrigation-guide]]
 - [[food-preservation-canning]]

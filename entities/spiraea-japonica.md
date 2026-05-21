@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
-  - Flora of China (2024). "Spiraea japonica." eFloras.org.
   - Royal Horticultural Society (2024). "Spiraea japonica." RHS Plant Finder.
 ---
 

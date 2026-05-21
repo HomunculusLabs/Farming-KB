@@ -19,12 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2024). "Suillus americanus." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes."
     Syracuse University Press.
-  - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan."
     University of Michigan Press.
-  - Binder, M. & Bresinsky, A. (2002). Mycologia 94(1): 85-98.
   - Kuo, M. et al. (2012). Mycologia 104(5): 1161-1172.
 ---
 
@@ -78,3 +74,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on suillus americanus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with suillus americanus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

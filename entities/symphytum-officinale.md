@@ -12,12 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Hills, L.D. (1976). Comfrey: Fodder, Food & Remedy. Faber & Faber."
-  - "Rodale, J.I. (1975). The Rodale Book of Composting. Rodale Press."
-  - "Whitehead, D.C. (2000). Nutrient Elements in Grassland: Soil-Plant-Animal Relationships. CABI Publishing."
-  - "Stickel, F. & Seitz, H.K. (2000). The efficacy and safety of comfrey. Public Health Nutrition, 3(4A), 501–508."
-  - "Marschner, H. (2012). Mineral Nutrition of Higher Plants. 3rd Edition. Academic Press."
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. chelsea-green-publishing."---
 ---
 

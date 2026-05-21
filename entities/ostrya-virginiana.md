@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2." USDA Forest Service Agriculture Handbook 654.
   - Little, E.L. (1979). "Checklist of polypore-fungi-eastern-north-america, ranging from Nova Scotia to Minnesota and south to Florida and eastern Texas.
 ---
 

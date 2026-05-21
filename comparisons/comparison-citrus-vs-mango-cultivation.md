@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - University of Florida IFAS Extension — Citrus and Mango Production Guides
-  - Morton, J. 1987. Fruits of Warm Climates. Creative Media Systems.
-  - CRFG (California Rare Fruit Growers) — Fruit Facts: Citrus, Mango
   - FAO — Ecocrop Database
 type: comparison
 ---

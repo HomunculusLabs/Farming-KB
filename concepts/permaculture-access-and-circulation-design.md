@@ -1,5 +1,4 @@
 ---
-title: Permaculture Access And Circulation Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +11,6 @@ tags:
   - zone-planning
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
@@ -141,8 +139,8 @@ Mollison emphasizes the connection between roads and water:
 ## Related Concepts
 
 - [[permaculture-zones-and-sectors]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-earthworks]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Greven, H.C. (2003). Grimmias of the World. Backhuys Publishers, Leiden.
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland, 2nd ed. Cambridge University Press.
-  - Glime, J.M. (2017). "Grimmia pulvinata." Bryophyte Ecology, Vol. 2. Michigan Technological University.
-  - Muñoz, J. (1998). "A revision of Grimmia (Musci, Grimmiaceae) in the Americas." Annals of the Missouri Botanical Garden 85: 167-214.
   - During, H.J. (1992). "Ecological classifications of bryophytes and lichens." In: Bryophytes and Lichens in a Changing Environment (ed. J.W. Bates).
 ---
 
@@ -80,3 +76,5 @@ Nitrogen uptake efficiency is enhanced by the presence of nitrogen-fixing epiphy
 ## Cultivation and Conservation
 
 G. pulvinata is occasionally cultivated in moss gardens and green roof installations. Its low maintenance requirements and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for extensive green roof systems.
+Further research into grimmia pulvinata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind grimmia pulvinata provides a foundation for both practical application and continued scientific inquiry.

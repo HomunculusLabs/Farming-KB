@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lehmann, J. & Joseph, S. (2015). Biochar for Environmental Management: Science, Technology and Implementation. 2nd ed. Routledge."
   - "Glaser, B., Haumaier, L., Guggenberger, G., & Zech, W. (2001). \"The 'Terra Preta' phenomenon: A model for gadd-fungal-carbon-sequestration.
 ---
 

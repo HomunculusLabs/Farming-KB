@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). *Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada*. 2nd ed. Timber Press.
-  - McPherson, S. (2007). *Pitcher Plants of the Americas*. The Green House Publishing.
-  - Ellison, A.M. & Gotelli, N.J. (2001). "Evolutionary ecology of carnivorous plants." *Trends in Ecology & Evolution*, 16(11), 623–629.
-  - USDA NRCS (2024). *Sarracenia leucophylla Raf.* Natural Resources Conservation Service PLANTS Database.
   - Folkerts, G.W. (1982). "The Gulf Coast pitcher plant bogs." *American Journal of Botany*, 69(7), 1005–1010.
 ---
 

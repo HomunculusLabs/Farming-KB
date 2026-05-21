@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 7: bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7"
 type: concept
 ---
 

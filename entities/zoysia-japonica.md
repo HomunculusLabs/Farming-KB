@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Beard, J.B. (1973). "Turfgrass: Science and Culture." Prentice-Hall.
-  - Turgeon, A.J. (2011). "Turfgrass Management." 9th edition. Pearson Prentice Hall.
-  - Engelke, M.C. & Anderson, S.J. (2004). "Zoysiagrass." In Warm-Season Grasses. ASA, CSSA, SSSA.
-  - Patton, A.J. (2009). "Zoysiagrass." In USDA Technical Bulletin: Turfgrass Biology, Use, and Management. USDA-ARS.
   - USDA NRCS. "Plant Guide — Japanese Lawngrass (Zoysia japonica)." USDA Natural Resources Conservation Service.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
-  - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
-  - Luceño, M. (2008). "Systematics of Carex section Glaucae." *Botanical Journal of the Linnean Society* 156: 469-483.
-  - Global Biodiversity Information Facility (GBIF). *Carex panicea L.* https://www.gbif.org/species/2723167
   - Rodwell, J.S. (1991). *British Plant Communities, Vol. 2: Mires and Heaths*. Cambridge University Press.
 ---
 

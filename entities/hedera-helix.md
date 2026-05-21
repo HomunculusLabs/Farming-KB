@@ -10,10 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metcalfe, D.J. (2005). "Hedera helix L." Journal of Ecology 93(3): 632-648.
   - RHS. "Hedera helix." Royal Horticultural Society.
-  - Reichel, K. et al. (2014). "Pharmacology of Hedera helix." Wiener Medizinische Wochenschrift 164(19-20): 416-424.
-  - Grubb, P.J. et al. (1996). "Evidence for the ecological impact of ivy." Journal of Ecology 84(3): 457-464.
   - Sell, M. (2018). "The genus Hedera." Curtis's Botanical Magazine 35(3): 246-263.
 ---
 

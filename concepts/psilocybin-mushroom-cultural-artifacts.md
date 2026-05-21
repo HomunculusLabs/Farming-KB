@@ -10,7 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/unknown-psilocybin-mushroom-image-guide.md"
 created: 2026-04-28
 type: concept
 ---

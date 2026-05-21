@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Van Laere, K. et al. (2015). "Hibiscus syriacus (Malvaceae): a review of its botanical, phytochemical and pharmacological profile." Journal of Pharmacy and Pharmacology, 67(8), 1063-1074.
-  - Baum, D.A. et al. (2004). "A phylogenetic analysis of Hibiscus (Malvaceae) based on nuclear and chloroplast DNA sequences." Systematic Botany, 29(2), 276-287.
-  - Kew Royal Botanic Gardens. "Hibiscus syriacus L." Plants of the World Online.
-  - Lee, S. et al. (2002). "Antioxidant activity of extracts from Hibiscus syriacus." Fitoterapia, 73(1), 7-12.
   - Kim, H.J. et al. (2007). "Anti-inflammatory effects of Hibiscus syriacus L." Journal of Ethnopharmacology, 115(2), 317-323.
 ---
 

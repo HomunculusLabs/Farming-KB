@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Cubera, E. & Moreno, G. (2007). "Quercus ilex L." In: Carrion, J.S. (ed.) Paleoecologia y Cambio Global. Universidad de Murcia.
-  - Mayor, X. & Rodà, F. (1993). "Growth response of holm oak (Quercus ilex L.) to commercial thinning in the Montseny mountains." Forest Ecology and Management, 59(1-2), 39-49.
-  - Barbéro, M. et al. (1992). "Real and potential relationships between Mediterranean evergreen Quercus species." Vegetatio, 99-100, 123-131.
-  - Ramírez-Valiente, J.A. et al. (2009). "Population differences in juvenile survival under drought are correlated with functional traits in the Mediterranean oak Quercus ilex." Tree Physiology, 29(12), 1501-1511.
   - USDA NRCS (2024). "Quercus ilex L." Plants Database, United States Department of Agriculture.
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: Inocybe aeruginascens
 created: 2026-04-12
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 
 # Inocybe aeruginascens
 
-A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]. First described by [[jochen-gartz]] and romagnesi.
+A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known psilocybin mushrooms. First described by [[jochen-gartz]] and romagnesi.
 
 ## Taxonomy
 
@@ -114,6 +115,6 @@ Consuming Inocybe species is EXTREMELY DANGEROUS without expert identification:
 
 - [[psilocybin-mushroom-chemistry]] — Chemical analysis and alkaloid profiles
 - [[psilocybin-mushroom-chemistry]] — Aeruginascin hypothesis and safety
-- [[psilocybin-mushroom-chemistry]] — European [[fungi-around-the-world-species-distribution]]
+- [[psilocybin-mushroom-chemistry]] — European species distribution
 - [[jochen-gartz]] — Discoverer of aeruginascin in this species
 - [[mushroom-identification-resources]] — Identification safety principles

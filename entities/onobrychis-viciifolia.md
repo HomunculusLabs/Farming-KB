@@ -23,8 +23,6 @@ aliases:
   - holy clover
   - Onobrychis sativa
 sources:
-  - Frame, J. (2005). "Forage Legumes for Temperate Grasslands." Science Publishers.
-  - Sulas, L. et al. (2018). "Sainfoin (Onobrychis viciifolia): A Review." Crop and Pasture Science 69: 799-818.
   - López, S. et al. (2006). "In vitro digestibility of sainfoin." savory-livestock-grazing-planning.
 ---
 

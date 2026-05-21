@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A [[biogas-digester]] (anaerobic digester) is a sealed container where organic waste breaks down [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
+A biogas digester (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
 
 ## Biogas Composition
 
@@ -28,11 +28,11 @@ The energy content of biogas is roughly 600 BTU per cubic foot (compared to 1,00
 
 ## The Anaerobic Digestion Process
 
-Four stages of microbial [[decomposition]] occur in sequence:
+Four stages of microbial decomposition occur in sequence:
 
 ### 1. Hydrolysis
 
-Complex organic molecules ([[cellulose]], proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
+Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
 
 ### 2. Acidogenesis
 
@@ -44,7 +44,7 @@ Acetogenic bacteria convert the longer-chain fatty acids and alcohols into aceti
 
 ### 4. Methanogenesis
 
-Methanogenic archaea (strict anaerobes) convert acetic [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] hydrogen/carbon dioxide into methane and carbon dioxide. These organisms are the slowest-growing and most sensitive to environmental disturbances. Two pathways:
+Methanogenic archaea (strict anaerobes) convert acetic acid and hydrogen/carbon dioxide into methane and carbon dioxide. These organisms are the slowest-growing and most sensitive to environmental disturbances. Two pathways:
 
 - Acetoclastic: CH3COOH → CH4 + CO2 (approximately 70% of methane production)
 - Hydrogenotrophic: CO2 + 4H2 → CH4 + 2H2O (approximately 30% of methane production)
@@ -76,8 +76,8 @@ Methanogenic archaea (strict anaerobes) convert acetic [[ergot-fungi-lysergic-ac
 
 - Long plastic tube (polyethylene or PVC) laid horizontally in a trench
 - Inlet and outlet pipes at each end
-- Gas is collected from the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] bag
-- Extremely [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] ($100-300 for materials)
+- Gas is collected from the top of the bag
+- Extremely low cost ($100-300 for materials)
 - Shorter lifespan (3-5 years for plastic)
 - Easy to build, no special skills required
 
@@ -104,7 +104,7 @@ Methanogenic archaea (strict anaerobes) convert acetic [[ergot-fungi-lysergic-ac
 
 ### Feedstock Mixing
 
-Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, [[mycelium-running-mushroom-bioaccumulation-heavy-metals-species-guide]], high oil concentrations, large bones, citrus in large quantities.
+Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, heavy metals, high oil concentrations, large bones, citrus in large quantities.
 
 ### Operating Parameters
 
@@ -136,8 +136,6 @@ The liquid effluent from a biogas digester is an excellent fertilizer:
 
 Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit trees, or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
 
-## See Also
-- [[biogas-digesters-and-anaerobic-digestion-systems]]
 ## Gas Storage and Use
 
 ### Storage
@@ -147,3 +145,10 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 - 1 cubic meter of biogas = roughly 2 hours of cooking on a single-burner stove
 
 ### Use Options
+
+- Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
+## See Also
+
+- [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]
+- [[biogas-digester]]
+- [[comparison-biogas-digester-basics-vs-micro-hydro-power]]

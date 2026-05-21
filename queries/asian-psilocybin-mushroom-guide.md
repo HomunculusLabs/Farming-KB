@@ -1,4 +1,5 @@
 ---
+
 title: Asian Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 
 # Asian Psilocybin Mushroom Guide
 
-Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-w-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
+Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
 
 ## Southeast Asia
 
@@ -140,10 +141,10 @@ Japan has a surprisingly diverse psychoactive mushroom flora given its temperate
 Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 
 | Substrate | Species | Climate Zone |
-## See Also
-
-- [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview
-- [[mushroom-species-guide]] — Detailed species profiles
-- [[mushroom-folklore-and-culture]] — Cultural use of mushrooms
-- [[jochen-gartz]] — Primary source researcher
-- [[john-w-allen]] — Southeast Asian mushroom researcher
+|---|---|---|
+| Bovine dung (cattle/water buffalo) | P. cubensis, P. samuiensis | Tropical lowlands |
+| Equine dung | P. subbalteatus, Panaeolus cyanescens | Tropical/subtropical |
+| Decomposing wood | P. subcaerulipes, Pluteus salicinus | Temperate forests |
+| Forest floor litter | P. argentipes, P. venenata | Temperate forests |
+| Dead hardwood (logs/stumps) | Gymnopilus spectabilis | Temperate |
+| Disturbed soil/grassland | P. subaeruginascens | Subtropical/tropical |

@@ -5,8 +5,6 @@ updated: 2026-04-16
 type: entity
 tags: [reference]
 sources:
-  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
-  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 ## Lloyd Library and Museum
@@ -78,3 +76,5 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+Further research into lloyd library continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind lloyd library provides a foundation for both practical application and continued scientific inquiry.

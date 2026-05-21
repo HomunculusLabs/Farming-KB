@@ -6,8 +6,6 @@ tags: [regenerative-agriculture, grazing, land-management, holism, sustainabilit
 related: [savory-holistic-decision-making, savory-livestock-grazing-planning, savory-brittle-environments]
 type: concept
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

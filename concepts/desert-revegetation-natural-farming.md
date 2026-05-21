@@ -11,8 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - masanobu-fukuoka (1985). "The Natural Way of Farming: The microdosing-theory-and-practice of Green Philosophy." Japan Publications.
-  - Fukuoka, M. (1978). "The One-Straw Revolution." Rodale Press.
   - UNCCD (2019). "Global Land Outlook." United Nations Convention to Combat Desertification.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis." Annual Review of Plant Physiology 42: 553-578.
-  - Orange, A. et al. (2009). Lichens of Great Britain and Ireland. British Lichen Society.
   - Tønsberg, T. (1992). "The Sorediate and Isidiate Corticolous, Crustose and Placodioid Lichens in Norway." Sommerfeltia 14: 1-331.
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Mushroom Crop Rotation And Substrate Reuse
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

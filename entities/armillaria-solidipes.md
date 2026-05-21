@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Anderson, J.B. & Kohn, L.M. (2007). "Diversity and distributions of fungal species in the Armillaria mellea complex." New Phytologist, 175(3), 488–498.
-  - Ferguson, B.A., Dreisbach, T.A., Parks, C.G., Filip, G.M. & Schmitt, C.L. (2003). "Coarse-scale population structure of pathogenic Armillaria species in a mixed-conifer forest in the Blue Mountains of northeast Oregon." Canadian Journal of Forest Research, 33(4), 612–623.
   - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus armillaria-ostoyae*, is a species of honey fungus in the family Physalacriaceae.
 ---
 

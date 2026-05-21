@@ -4,14 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources: ["raw/concepts/medicinal-mushroom-guide-agaricus-blazei.md"]
+sources: []
 ---
 
 # Agaricus blazei (Brazilian Mushroom)
 
 ## Overview
 
-[[agaricus-blazei]] Murill (also known as [[agaricus-subrufescens]], [[agaricus-brasiliensis]], and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
+Agaricus blazei Murill (also known as Agaricus subrufescens, Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
 
 The mushroom has a distinctive almond-like aroma when fresh, which is the origin of its common name "cogumelo do sol" (mushroom of the sun) in Brazil and "himematsutake" (princess matsutake) in Japan.
 
@@ -19,7 +19,7 @@ The mushroom has a distinctive almond-like aroma when fresh, which is the origin
 
 - **Beta-glucans:** The primary immunomodulatory compounds. A. blazei contains particularly high concentrations of 1,3-beta and 1,6-beta-glucans, comparable to or exceeding those of reishi and maitake.
 - **Proteoglucans:** Protein-bound polysaccharides including the well-studied ABM-P (Agaricus blazei Murill polysaccharide).
-- **[[ergosterol]]:** Provitamin D2 precursor with anti-tumor properties.
+- **Ergosterol:** Provitamin D2 precursor with anti-tumor properties.
 - **Blazein and blazeispirols:** Triterpenes with anti-inflammatory activity.
 - **Lectins:** Sugar-binding proteins with immunomodulatory effects.
 - **Vitamins and minerals:** Rich in B vitamins, ergocalciferol (vitamin D2), and minerals including selenium.
@@ -87,7 +87,7 @@ The Florida and Brazilian populations may represent different strains with sligh
 3. Combine extracts.
 
 ### Capsules and Tablets
-Most common supplement form. Many products use dried whole [[mushroom-powder]] or standardized extracts.
+Most common supplement form. Many products use dried whole mushroom powder or standardized extracts.
 
 ## Dosing Guidelines
 
@@ -101,11 +101,11 @@ Most common supplement form. Many products use dried whole [[mushroom-powder]] o
 
 Agaricus blazei is commercially cultivated on a large scale, primarily in Japan, China, and Brazil:
 
-- **Substrate:** Composted substrate (similar to button [[mushroom-compost]]) — horse manure, straw, and various organic materials.
+- **Substrate:** Composted substrate (similar to button mushroom compost) — horse manure, straw, and various organic materials.
 - **Temperature:** 75-82°F (24-28°C) for mycelial growth; 60-68°F (16-20°C) for fruiting.
 - **Humidity:** 85-95% for fruiting.
 - **Spawn to harvest:** 60-90 days total.
-- **Yield:** [[biological-efficiency]] of 60-100%.
+- **Yield:** Biological efficiency of 60-100%.
 
 ## Safety Considerations
 

@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [soil, gardening]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 ## Organic Mulching Techniques

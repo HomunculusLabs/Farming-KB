@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Centaurium." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 3. Cambridge University Press.
-  - van der Sluis, W.G. (1985). "Secoiridoids and Xanthones in Centaurium." Ph.D. Thesis, University of Groningen.
   - USDA NRCS Plants Database. "Centaurium minus." https://plants.usda.gov
 ---
 

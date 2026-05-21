@@ -12,11 +12,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Morton JF. Fruits of Warm Climates. 1987. Purdue University.
-  - Duke JA. Handbook of Legumes of World Economic Importance. 1981. Plenum Press.
-  - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
-  - National Research Council. Lost Crops of Africa: Volume II Vegetables. 2006. National Academies Press.
-  - Maundu P et al. Useful Trees and Shrubs of Kenya. 1999. World Agroforestry Centre.
   - EL-Shazly AM et al. Tamarindus indica. Pharmacogn Rev. 2017;11(21):10-17.
 ---
 

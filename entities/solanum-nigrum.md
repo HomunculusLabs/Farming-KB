@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Edmonds, J.M. & Chweya, J.A. (1997). "Black Nightshadows: Solanum nigrum L. and Related Species." IPGRI.
-  - Sultana, B. et al. (2012). "Solanum nigrum: A Review on Its Ethnobotany, Phytochemical, and Pharmacological Profile." Journal of Pharmacy Research, 5(5), 2396-2400.
-  - Jain, S.K. et al. (2011). "Solanum nigrum: A Review of Its Phytochemistry and Pharmacology." Pharmacognosy Reviews, 5(10), 151-156.
-  - USDA Natural Resources Conservation Service. "Solanum nigrum L." Plants Database.
   - Duke, J.A. (2017). "Duke's Handbook of Medicinal Plants of Latin America." CRC Press.
 ---
 

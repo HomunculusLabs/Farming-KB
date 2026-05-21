@@ -142,9 +142,11 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 
 ### Modern Adaptations
 
+- Small-scale chinampas can be built in ponds or marshy areas
+- The principle applies to any integrated land-water production system
+- Aquaponics draws heavily on chinampa concepts of coupling fish and plant production
+
+## General Principles for All Earthworks
 ## See Also
 
-- [[permaculture-zones-and-sectors]] for placing earthworks in the broader design
-- [[keyline-design]] for detailed keyline theory and practice
-- [[swale-design-construction]] for focused swale construction guidance
-- [[drip-irrigation]] for supplemental irrigation after earthworks
+- [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]

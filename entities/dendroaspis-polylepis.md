@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Spawls, S. & Branch, B. (1995). The Dangerous Snakes of Africa. Ralph Curtis Books.
-  - Broadley, D.G. et al. (1983). "Snakes of Zimbabwe." Occasional Publications of the National Museums and Monuments of Rhodesia, Series B, Natural Sciences, 6(1).
-  - Hutton, R.A. & Warrell, D.A. (1993). "Action of snake venom components on the human coagulation cascade." Haemostasis, 23(Suppl 1), 48-63.
-  - Hodgson, W.C. et al. (2002). "Neurotoxicity of the venom from the Black Mamba." Toxicon, 40(4), 409-411.
   - The Reptile Database. "Dendroaspis polylepis Günther, 1864." https://reptile-database.reptarium.cz/species?genus=Dendroaspis&species=polylepis
 ---
 

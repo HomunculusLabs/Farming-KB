@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Felger R.S. & Joyal R.W. (1999). "The Palms of Guadalupe Island, Mexico." Principes.
-  - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - IUCN Red List (2020). "Brahea edulis."
   - Henderson A., Galeano G., Bernal R. (1995). "brahea-armata.
 ---

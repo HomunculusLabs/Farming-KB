@@ -11,10 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - University of Florida IFAS Extension — Citrus Variety Guide
   - CRFG (California Rare Fruit Growers) — Fruit Facts
-  - Texas A&M AgriLife Extension — Citrus for the Home Garden
-  - UC Master Gardener Program — Citrus for California Gardens
 type: query
 ---
 

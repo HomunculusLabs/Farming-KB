@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bosland, P.W. & Votava, E.J. (2012). Peppers: Vegetable and Spice Capsicums. 2nd ed., CABI Publishing.
-  - Carrizo García, E. et al. (2016). "Phylogenetic relationships of Capsicum." Taxon.
-  - Tewksbury, J.J. et al. (2006). "Evolutionary ecology of pungency in wild chilies." PNAS.
   - Mazourek, M. (2015). "Diversity and domestication of Capsicum chinense." Horticultural Reviews.
 ---
 

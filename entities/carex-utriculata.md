@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
-  - USDA NRCS (2024). "PLANTS Profile — Carex utriculata."
-  - Mackay, J. (2003). "Carex utriculata: A misunderstood sedge." Rhodora 105(922): 145–154.
   - Wheeler, G.A. & Guiles, S.L. (1982). "Carex utriculata and guzman-psilocybin-mushrooms-north-america." Systematic Botany 7(3): 279–291.
 ---
 

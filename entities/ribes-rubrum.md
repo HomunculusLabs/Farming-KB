@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brennan R, Graham J (2009). "Improving Ribes and Rubrus crops." In: Breeding for Fruit Quality. Wiley.
-  - Hummer KE, Dale A (2010). "Currants." In: Horticultural Reviews 38. Wiley.
-  - USDA NRCS (2024). "Ribes rubrum L." PLANTS Database.
   - Ordidge M et al. (2010). "Temporal and environmental effects on the flavonoid content of blackcurrant." J. Sci. Food Agric.
 ---
 

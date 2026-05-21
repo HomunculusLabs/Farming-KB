@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Rapanarivo, S.H.J.V. et al. (1999). "Pachypodium (Apocynaceae): Taxonomy, Habitats and Cultivation." Balogh Scientific Books.
-  - Rauh, W. (1998). "Succulent and Xerophytic Plants of Madagascar." Strawberry Press.
-  - CITES Appendices (2024). "Pachypodium geayi — Appendix II."
   - Eggli, U. (2001). "Illustrated Handbook of Succulent Plants: Dicotyledons." Springer.
 ---
 

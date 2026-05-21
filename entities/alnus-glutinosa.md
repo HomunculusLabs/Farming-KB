@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Benson, D.R. & Silvester, W.B. (1993). \"Biology of Frankia strains, actinomycete symbionts of actinorhizal plants.\" Microbiological Reviews, 57(2), 293-319."
-  - "Claessens, H. et al. (2010). \"A review of the characteristics of black alder (Alnus glutinosa).\" European Journal of Forest Research, 129(5), 733-749."
-  - "Roy, S. et al. (2007). \"The root endophyte association in Alnus glutinosa.\" Mycorrhiza, 17(6), 539-545."
-  - "Mills, D. et al. (2017). \"Frankia alni symbiosis and :** Rapid; 60–90 cm/year in youth, slowing after 20 years
 - **Root system:** Shallow, spreading lateral roots with prominent nitrogen-fixing root nodules; often develops adventitious roots in waterlogged conditions
 ---## Aerial Parts
 

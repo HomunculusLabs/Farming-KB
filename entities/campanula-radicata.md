@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov AA (1976). "Campanula." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Strid A (2016). "Flora of Greece, Vol. 2." Fragkoulis Publications, Athens.
   - Park JM et al. (2006). "Phylogeny and biogeography of Campanula sect. Quinqueloculares." Molecular Phylogenetics and Evolution 38(3): 688-700.
 ---
 

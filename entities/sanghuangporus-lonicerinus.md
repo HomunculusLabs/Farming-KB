@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dai YC, Xue HJ (2011). "Sanghuangporus, a new genus of poroid Hymenochaetaceae." Mycotaxon, 115, 87–98.
-  - Shen J, Wang Y, Li Q (2017). "Antitumor activity of polysaccharides from Sanghuangporus lonicerinus." International Journal of Biological Macromolecules, 104, 835–842.
-  - Zhou LW, Vlasák J, Dai YC (2016). "Global diversity of the genus Sanghuangporus." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 80(1), 401–423.
   - Zhu MW, Wen TC, Chen CC (2020). "Phylogenetic and chemical diversity of the Sanghuangporus species complex." Journal of Fungi, 6(4), 286.
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Nameko Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,7 +16,7 @@ sources:
 
 ## Overview
 
-Nameko ([[pholiota-nameko]]) is a traditional Japanese culinary mushroom, one of the most popular cultivated mushrooms in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes).
+Nameko (Pholiota nameko) is a traditional Japanese culinary mushroom, one of the most popular cultivated mushrooms in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes).
 
 ## Species Description
 
@@ -36,7 +35,7 @@ Nameko is deeply embedded in Japanese culinary culture. It is the third most cul
 The primary commercial method uses supplemented hardwood sawdust blocks:
 
 - **Base substrate:** Hardwood sawdust (beech, oak, or mixed hardwoods)
-- **Supplementation:** [[wheat-bran]] or rice bran at 15-25% by dry weight
+- **Supplementation:** Wheat bran or rice bran at 15-25% by dry weight
 - **Moisture content:** 62-67%
 - **pH:** 5.5-6.5
 - **Common formula:** 3-4 parts hardwood sawdust : 1 part wheat bran
@@ -50,7 +49,7 @@ Nameko can be cultivated on hardwood logs using methods similar to shiitake:
 - **Log species:** Oak, beech, maple, or other hardwoods
 - **Log size:** 4-6 inches diameter, 3-4 feet long
 - **Inoculation season:** Spring (after last frost)
-- **Spawn type:** [[sawdust-spawn]] or dowel spawn worked into drilled holes
+- **Spawn type:** Sawdust spawn or dowel spawn worked into drilled holes
 - **Sealing:** Wax or cheese wax over inoculation sites
 - **Incubation:** Stack logs in shade, maintain moisture; colonization takes 6-12 months
 - **Fruiting trigger:** Soaking logs in cold water for 24-48 hours
@@ -101,7 +100,7 @@ Harvest individual mushrooms or small clusters by cutting at the base with sciss
 
 ### Yield
 
-- **Sawdust blocks:** 60-100% [[biological-efficiency]]
+- **Sawdust blocks:** 60-100% biological efficiency
 - **Log cultivation:** Variable; 20-40% of log weight over several years
 - **Flushes:** 2-3 flushes per block; log cultivation may produce for 2-3 years
 
@@ -113,9 +112,9 @@ Fresh Nameko is highly perishable due to its gelatinous coating and moisture con
 
 - **Drying of gel coating:** Insufficient humidity during fruiting
 - **Cobweb mold (Dactylium):** Common competitor; requires strict hygiene
-- **Green mold ([[trichoderma]]):** Primary contaminant; maintain sterile technique
+- **Green mold (Trichoderma):** Primary contaminant; maintain sterile technique
 - **Poor fruiting:** Often caused by insufficient cold shock or excessive temperature
-- **Bacterial blotch:** Dark spots on caps caused by [[pseudomonas]] species; improve air circulation and reduce surface wetness
+- **Bacterial blotch:** Dark spots on caps caused by Pseudomonas species; improve air circulation and reduce surface wetness
 
 ## See Also
 

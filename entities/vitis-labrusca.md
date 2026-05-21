@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Galet, P. (2000). Grape Varieties: A Complete Guide to 1,360 Vine Species. Cameron & Co."
-  - "Mullins, M.G., Bouquet, A. & Williams, L.E. (1992). Biology of the Grapevine. Cambridge University Press."
-  - "Alleweldt, G. & Possingham, J.V. (1988). \"The Origin of Vitis labrusca.\" Vitis, 27(1), 11-20."
   - "Reisch, B.I., Goodman, R.N. & Martens, M.H. (1993). \"Grape polypore-fungi-eastern-north-america America, commonly known as the fox grape. It is the parent species of many important American grape cultivars, most notably the Concord grape.
 ---
 

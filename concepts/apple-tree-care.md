@@ -23,7 +23,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 - Full sun (6-8+ hours direct) for maximum fruit production
 - Good air circulation — avoid low frost pockets and wind-sheltered corners
 - Well-draining soil — standing water kills roots quickly
-- [[soil-ph]] 6.0-7.0
+- Soil pH 6.0-7.0
 - Space standard trees 20-25 feet apart, semi-dwarf 12-15 feet, dwarf 8-10 feet
 - Consider mature tree size when planting near structures, power lines, or other trees
 
@@ -35,7 +35,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 5. Backfill partially, water to settle, finish backfilling
 6. Tamp gently — do not compact heavily
 7. Water thoroughly after planting
-8. Apply 3-4 inches of mulch in a ring extending to the [[drip-line]], keeping mulch 3-4 inches away from the trunk
+8. Apply 3-4 inches of mulch in a ring extending to the drip line, keeping mulch 3-4 inches away from the trunk
 
 ### Pollination
 - Most apple trees require cross-pollination from a different variety
@@ -114,7 +114,7 @@ Thinning excess fruit is essential for quality apples and tree health.
 - Larvae tunnel into fruit, leaving frass (excrement) at the entry hole
 - Management:
   - Pheromone traps to monitor flight and disrupt mating
-  - Apply spinosad (Entrust) or Bt ([[bacillus-thuringiensis]]) at petal fall and repeat every 10-14 days for 3-4 applications
+  - Apply spinosad (Entrust) or Bt (Bacillus thuringiensis) at petal fall and repeat every 10-14 days for 3-4 applications
   - Remove dropped fruit regularly (breeding ground for larvae)
   - Bag individual fruit clusters with nylon footies or paper bags (very effective on small trees)
   - Trunk banding with corrugated cardboard to trap overwintering larvae
@@ -143,8 +143,12 @@ Thinning excess fruit is essential for quality apples and tree health.
 - **Apple maggot**: Flies lay eggs under fruit skin; larvae tunnel through flesh. Red sticky traps, kaolin clay sprays, clean up fallen fruit
 - **Plum curculio**: Small weevil that scars fruit and causes premature drop. Surround WP (kaolin clay) spray, pyrethrin at petal fall
 - **Aphids**: Curl leaves and produce honeydew; encourage ladybugs, use insecticidal soap
+- **Mites**: Cause bronzing of leaves; dormant oil spray, encourage predatory mites
+
+### Organic Spray Schedule
+- **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
+- **Green tip**: Sulfur (scab prevention)
 ## See Also
 
-- [[stone-fruit-tree-care]] for companion fruit tree management
-- [[backyard-orchard-design]] for orchard layout and planning
-- [[food-forest-design]] for integrating apples into perennial systems
+- [[comparison-apple-tree-care-vs-apple-guild-design]]
+- [[query-how-do-i-design-an-apple-tree-guild]]

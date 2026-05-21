@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chen, C.Y. et al. (2021). "Bupleurum species: A comprehensive review of phytochemistry, pharmacology, and clinical applications." Journal of Ethnopharmacology, 275, 114133.
-  - Yuan, Y. et al. (2017). "Saikosaponins from Bupleurum species: A review of their biotransformation, pharmacokinetics, and pharmacological activities." Phytotherapy Research, 31(10), 1500-1514.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I. Chinese Medical Science Press.
   - Wang, P. et al. (2013). "Bupleurum chinense and Bupleurum scorzonerifolium: A comparative study of their chemical composition and biological activities." Journal of Pharmaceutical and Biomedical Analysis, 85, 18-25.
 ---
 

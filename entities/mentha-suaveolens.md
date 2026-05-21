@@ -22,10 +22,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tucker, A.O. & Debaggio, T. (2009). "The Encyclopedia of Herbs." Timber Press.
-  - Lawrence, B.M. (2007). "Mint: The Genus Mentha." CRC Press.
   - Grieve, M. (1931). "A Modern Herbal." Penguin.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579286-1
 created: 2026-04-28
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md"
 type: concept
 ---
 

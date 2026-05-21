@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hermann, M. (1997). "Cyclanthera pedata (Caigua)." Andean Roots and Tubers. IPGRI.
-  - NRC (1989). Lost Crops of the Incas. National Academy Press, Washington, D.C.
-  - León, J. (1964). Plantas Alimenticias Andinas. FAO, Rome.
-  - Popenoe, H., King, S.R. & León, J. (1989). Lost Crops of the Incas. National Academy Press.
   - Gallo, J.E. et al. (2013). "Nutritional and functional properties of caigua." Revista Peruana de Medicina Integrativa, 16(2), pp. 87-93.
 ---
 

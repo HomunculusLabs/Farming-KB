@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Craven, L.A. (1999). "A Taxonomic Revision of Melaleuca leucadendra (Myrtaceae)." Blumea 44(1): 1-12.
-  - Butler, D.W. et al. (2017). "Melaleuca (Myrtaceae) — An Update." Australian Systematic Botany.
-  - Boland, D.J. et al. (2006). "Forest Trees of Australia." CSIRO Publishing.
   - Duke, J.A. (1983). "Handbook of Medicinal Plants of Latin America." CRC Press.
 ---
 

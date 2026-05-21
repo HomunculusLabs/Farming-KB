@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tryon, R.M. & A.F. Tryon. (1982). "Ferns and allied plants with special reference to tropical America." Springer-Verlag.
-  - Hoshizaki, B.J. & R.C. Moran. (2001). "Fern Grower's Manual." Timber Press.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Zhang, X.C. et al. (2013). "A revised phylogeny of Pteris (Pteridaceae)." Journal of Systematics and Evolution.
   - Henny, R.J. & J. Chen. (2003). "Cultivated and native ferns of Florida." University of Florida IFAS Extension.
 ---
 

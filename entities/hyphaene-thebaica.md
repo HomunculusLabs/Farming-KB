@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Barrow, S.C. (1998). "A Monograph of Phoenix L." Royal Botanic Gardens, Kew.
-  - Morton, J.F. (1987). "Fruits of Warm Climates." Creative Resource Systems.
-  - Tuley, P. (1995). "The Palms of Africa." Trendrine Press.
   - Wickens, G.E. (1982). "The Baobab: Africa's Upside-Down Tree." Kew Bulletin 37(2): 173-209.
 ---
 

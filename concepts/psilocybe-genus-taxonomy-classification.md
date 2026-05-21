@@ -5,7 +5,6 @@ tags: [mycology, taxonomy, psilocybe, basidiomycota, agaricales]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 type: concept
 ---
 

@@ -10,10 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Newall, C.A., Anderson, L.A. & Phillipson, J.D. (1996). "Herbal Medicines: A Guide for Health-Care Professionals." Pharmaceutical Press.
-  - Barnes, J., Anderson, L.A. & Phillipson, J.D. (2007). "Herbal Medicines." 3rd ed., Pharmaceutical Press.
   - Bremness, L. (1994). "Herbs." DK Publishing.
-  - Chiej, R. (1984). "Macdonald Encyclopedia of Medicinal Plants." Macdonald.
 created: 2026-04-28
 ---
 

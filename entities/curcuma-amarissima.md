@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nguyen VD. (2005). "Medicinal Plants of Vietnam." World Health Organization.
-  - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
-  - Leong-Škorić J, et al. (2014). "The Genus Curcuma in Vietnam." International Journal of Plant Production.
   - Theilade I, Theilade S. (2013). "Zingiberaceae of psilocybe-southeast-asia-pacific." Blumea.
 ---
 

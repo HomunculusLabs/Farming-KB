@@ -3,7 +3,6 @@ title: "Stametsian Permaculture Model (Growing Gourmet)"
 tags: [permaculture, mushroom-cultivation, stamets, mycology]
 type: concept
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 

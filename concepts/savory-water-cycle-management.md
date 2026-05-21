@@ -6,7 +6,6 @@ tags: [water-cycle, infiltration, erosion-control, watershed, soil-health]
 related: [savory-holistic-management-overview, savory-desertification-causes, savory-land-monitoring]
 type: concept
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

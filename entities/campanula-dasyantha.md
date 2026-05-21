@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1957). "Campanula." In: Flora URSS, Vol. 24. Academy of Sciences USSR.
-  - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
-  - Shetekauri S. (2011). "Endemic Campanula species of the Caucasus." Botanical Journal, 96(3): 412–425.
   - Davis P.H. (1967). "Flora of Turkey and the East Aegean Islands, Vol. 3." Edinburgh University Press.
 ---
 

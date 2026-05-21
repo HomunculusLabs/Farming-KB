@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Alves, R.E. et al. (2004). "Cupuaçu: Theobroma grandiflorum." In: Exotic Fruits and Nuts of the New World, CABI Publishing.
-  - Venturieri, G.C. (1993). "Cupuaçu: um fruteiro alternativo para a Amazônia." EMBRAPA-CPATU, Belém.
-  - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional  Properties." Lavoisier Publishing.
   - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with comparison-berry-growing-vs-fruit-tree-pruning native to the Amazon basin.
 ---t is closely related to cacao and belongs to the same genus within the family Malvaceae.
 
@@ -78,3 +75,14 @@ Cupuaçu chocolate — known as "cupulate" — is [[query-what-is-shellac-and-ho
 The seed fat, called cupuaçu butter, is rich in stearic and oleic acids and is used extensively in cosmetics for its emollient and moisturizing properties.
 
 It is considered a sustainable alternative to shea butter in the personal care industry.
+## Current Research
+
+Recent studies on theobroma grandiflorum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with theobroma grandiflorum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

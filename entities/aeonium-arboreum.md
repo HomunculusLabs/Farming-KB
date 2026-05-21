@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Liu, H. (2004). "A Revision of Aeonium (Crassulaceae)." Systematic Botany Monographs, 73.
-  - Bramwell, D. & Bramwell, Z. (2001). "Wild Flowers of the Canary Islands." Editorial Rueda.
-  - Mort, M.E. et al. (2002). "Phylogenetics and Diversification of Aeonium." Molecular Phylogenetics and Evolution, 23(3).
-  - Royal Horticultural Society (2023). "Aeonium arboreum — RHS Gardening." rhs.org.uk.
   - Reyes-Betancort, J.A. et al. (2008). "Aeonium of the Canary Islands." Vieraea, 36.
 ---
 

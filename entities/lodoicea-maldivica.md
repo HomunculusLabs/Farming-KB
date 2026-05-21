@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Blackmore, S., Stafford, P.J. & Nordenstam, B. (2014). "The Coco de Mer: A History of the Palm and its Uses." Royal Botanic Gardens, Kew.
-  - Fleischer-Dogley, F. (2006). "Towards the Conservation of the Coco de Mer." Plant Talk 44: 32-35.
   - Edwards, P.J. et al. (2015). "clay-pellet-seed-dispersal conditions.
 ---
 

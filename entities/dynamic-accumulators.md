@@ -11,19 +11,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - title: "Plants For A Future — comparison-dynamic-accumulators-vs-cover-crops"
     url: "https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale"
-  - title: "Toensmeier, Eric. comparison-perennial-vegetables-vs-cover-crops. Chelsea Green, 2007."
     url: "https://www.chelseagreen.com/product/perennial-vegetables"
-  - title: "Jacke, Dave. Edible Forest Gardens, Vol. 1 & 2. Chelsea Green, 2005."
     url: "https://www.chelseagreen.com/product/edible-forest-gardens-vol-1"
-  - title: "Cech, Richo. Making Plant Medicine. Horizon Herbs, 2000."
     url: "https://strictlymedicinalseeds.com/pages/making-plant-medicine-book"
-  - title: "Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. 1986."
     url: "https://www.robertkourik.com"
   - title: "USDA NRCS — Cover Crops and Soil Health"
     url: "https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/cover/"
-  - title: "Hemenway, Toby. Gaia's Garden, 2nd Ed. Chelsea Green, 2009."
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition"
 ---
 

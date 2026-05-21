@@ -25,7 +25,7 @@ See also: [[phosphorus-availability]]
 
 AMF absorb and transfer all 15 major macro- and micronutrients necessary for plant growth, including nitrogen. The interaction between rhizobia and AMF has received considerable attention because of the relatively high phosphorus demand of [[biological-nitrogen-fixation-agriculture]] fixation by Rhizobium in legume hosts can be enhanced through co-infection with AMF. Legumes are typically coarse-rooted and therefore inefficient in extracting phosphorus from the soil. The AM fungi associated with legumes are an essential link for adequate phosphorus nutrition, leading to enhanced nitrogenase activity that in turn promotes root and mycorrhizal growth.
 
-See also: [[glomalin-and-soil-carbon]], [[mycorrhizal-plant-defense]]
+See also: [[glomalin]], [[mycorrhizal-plant-defense]]
 
 ## Soil Structure Improvement
 

@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke RC, Merlin MD. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Small E. (2017). "Cannabis: A Complete Guide." CRC Press.
-  - Hazekamp A, Tejkalová K, Sykora T. (2016). "Cannabidiol: From pharmacology to clinical use." Cannabis and Cannabinoid Research, 1(1), 42-50.
   - Lewis J. (2020). "The Landrace Study: A Guide to the Origins of Cannabis." Self-published.
 ---
 

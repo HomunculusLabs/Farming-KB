@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sørensen, M. (1996). Yam Bean: Pachyrhizus DC. Promoting the conservation and use of underutilized and neglected crops. IPGRI, Rome.
-  - Zanklan, A.S. et al. (2003). "Yam bean (Pachyrhizus spp.) — a sustainable crop for the tropics." In: New Crops and New Uses, ASHS Press, 556-563.
-  - Grønhaug, T.E. et al. (2005). "Yam beans (Pachyrhizus spp.) — a sustainable N₂-fixing, high-yielding root crop for the tropics." Trop. Plant Biol., 3, 47-57.
-  - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of pachyrhizus-erosus, P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
-  - Clauss, E. (2005). "Genetic resources of Pachyrhizus tuberosus (Lam.) Spreng." PhD thesis, University of Göttingen.
 created: 2026-04-28---
 ---
 
@@ -82,3 +77,5 @@ Indigenous Amazonian peoples distinguish multiple cultivar types based on tuber 
 The species was first described to European science by Humboldt and Bonpland during their 1799–1804 expedition to South America. Despite early recognition of its potential, it never achieved the international commercial success of its relative P. erosus (jícama), partly due to the longer growing season and higher fiber content.
 
 ## Permaculture and Agroforestry Applications
+Further research into pachyrhizus tuberosus continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pachyrhizus tuberosus provides a foundation for both practical application and continued scientific inquiry.

@@ -9,9 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly. "Berry White biscotti-cannabis-strain." www.leafly.com.
   - AllBud. "Berry White Weed Strain." www.allbud.com.
-  - "Strainbank Genetics Database." www.strainbank.com.
   - Mudge EM, Murch SJ (2020). "Cannabinoid and cannabis-terpene-profiles-sativa of Commercial green-cannabis-grow-bible-nutrient-management-ppm. Its flowering time of 8–9 weeks and respectable yields make it accessible to experienced home growers.
 ---
 

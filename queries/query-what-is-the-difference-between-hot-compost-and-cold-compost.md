@@ -5,7 +5,6 @@ tags: [query, compost, soil-fertility, organic-matter]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Herb Solution (JHS) — Boiled Herb Extract Recipes
 created: 2026-04-11
 updated: 2026-04-12
@@ -15,7 +16,7 @@ tags:
 - processing
 
 sources:
-- raw/papers/jadam-organic-farming-ultra-low-cost-jadam-organic-farming-ultra-low-cost-agriculture-philosophy.md
+- raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
 # JADAM Herb Solution (JHS)
@@ -117,6 +118,6 @@ Must use soft water (test with JWA).
 ## See Also
 
 - [[jadam-wetting-agent-jwa]] — always combine JHS with JWA
-- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + [[jadam-natural-pesticide-ultra-low-cost-pest-control]]
+- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + pest control
 - [[jadam-natural-pesticide-jnp]] — complete pesticide programs
 - [[jadam-methods]] — JADAM system overview

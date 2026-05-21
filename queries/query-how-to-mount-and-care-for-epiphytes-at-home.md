@@ -4,11 +4,6 @@ tags: [epiphytes, mounting, cultivation, care-guide, tillandsia, orchid, bromeli
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
-  - Isley, D. (1995). "Growing Native Orchids from Seed." Native Orchid Conference Journal.
-  - Wall, J. (2009). "Mounting Epiphytic Orchids on Cork Bark." American Orchid Society Bulletin.
-  - Kramer, G. (2018). "Air Plant Care and Design: A Beginner's Guide." Timber Press.
-  - Sieger, J. (2022). "Epiphyte Mounting: Techniques for Long-Term Success." Orchids Magazine.
 created: 2026-05-07
 type: query
 ---

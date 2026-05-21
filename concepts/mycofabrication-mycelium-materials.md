@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Jones M, Huynh T, Dekiwadia C, Daver F, John S (2017). "Mycelium based composite materials." Journal of Biobased Materials and Bioenergy, 11(3), 241-253.
-  - Haneef M, Ceseracciu L, Canale C, Bayer IS, Heredia-Guerrero JA, Athanassiou A (2017). "Advanced materials from fungal mycelium." Applied Materials Today, 9, 607-612.
-  - Islam MR, Tudryn G, Bucinell R, Schadler LS, Picu RC (2017). "Morphology and mechanics of fungal mycelium." Scientific Reports, 7, 13070.
   - Attias N, Danai O, Shapira K, Pereman I, Elnathan R, Portnoy M (2020). "3D printing of mycelium-based composites." Polymers, 12(12), 2845.
 ---
 

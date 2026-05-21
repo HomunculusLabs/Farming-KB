@@ -5,7 +5,6 @@ tags: [aquatic-plants, sustainable-agriculture, animal-feed, nitrogen-fixation, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
 

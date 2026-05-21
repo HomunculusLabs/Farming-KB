@@ -51,7 +51,7 @@ Transmission: Primarily by aphids (over 60 aphid species) in a non-persistent ma
 
 Management:
 - Control aphid populations early in the season
-- Remove weed reservoirs ([[chickweed]], pokeweed, milkweed are common hosts)
+- Remove weed reservoirs (chickweed, pokeweed, milkweed are common hosts)
 - Use reflective mulches to deter aphid landing
 - Plant CMV-resistant varieties when available
 - Remove infected plants immediately to reduce source
@@ -93,7 +93,7 @@ Since viruses cannot be cured once plants are infected, all management is preven
 
 ### Sanitation
 - Disinfect tools, stakes, and equipment between plants and between seasons
-- Remove and destroy (burn or bag, not [[compost]]) infected plants immediately
+- Remove and destroy (burn or bag, not compost) infected plants immediately
 - Clean greenhouse benches and surfaces thoroughly
 - Wash hands before and between handling plants
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Petersen, R.H. (1975). \"The Genus Craterellus in psilocybin-north-america-pacific-northwest.\" Nova Hedwigia, Beihefte 51, 1–62."
-  - "Buyck, B. et al. (2016). \"The Taxonomy of Craterellus.\" Mycologia, 108(4), 677–689."
-  - "Buyck, B. & Hofstetter, V. (2011). \"The Contribution of Turgescence to the Taxonomy of Craterellus.\" Cryptogamie Mycologie, 32(4), 339–350."
-  - "Morse, E.E. et al. (2018). \"Molecular Phylogenetics of Cantharellaceae.\" Mycologia, 110(5), 944–960."
   - "Kuo, M. (2024). \"Craterellus ignicolor.\" MushroomExpert.com."
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: The One-Straw Revolution — Book Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -139,11 +140,16 @@ Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mounta
 Young people from cities, researchers, students, poets, wanderers gathered at the mud-walled huts. "Many people come, thinking they will find a utopia where one can live without ever having to get out of bed. These people are in for a big surprise. Hauling water from the spring in the early morning fog, splitting firewood until their hands are red and stinging with blisters."
 
 ### Philosophy of Non-Understanding
+
+"People study because they think they do not understand, but studying is not going to help one to understand. They study hard only to find out in the end that people cannot know anything." The path: abandon discriminating knowledge, and "non-discriminating knowledge of itself arises within him."
+
+"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
+
+## Key Quotes
+
+"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
 ## See Also
 
-- [[natural-farming-fukuoka]] — Full method summary and practical applications
-- [[fukuoka-philosophy-in-practice]] — Deeper philosophical exploration
-- [[natural-farming-seed-balls]] — Clay pellet technique
-- [[natural-way-of-farming-guide]] — Deep dive into Fukuoka's technical masterwork
-- [[natural-farming-vs-organic-vs-conventional]] — Three-way comparison
-- [[masanobu-fukuoka]] — Biographical entity page
+- [[fukuoka-road-one-straw-revolution-continuation]]
+- [[fukuoka-one-straw-revolution-impact]]
+- [[fukuoka-one-straw-revolution-principles]]

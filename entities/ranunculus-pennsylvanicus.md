@@ -11,7 +11,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america
   - USDA PLANTS Database
   - GBIF Backbone Taxonomy
 ---

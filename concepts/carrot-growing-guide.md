@@ -13,7 +13,7 @@ Carrots are a root vegetable prized for their sweetness, versatility, and storag
 
 ## Soil Preparation
 
-Carrots are demanding about [[soil-texture]]. Poor soil is the primary cause of forked, stunted, or deformed roots.
+Carrots are demanding about soil texture. Poor soil is the primary cause of forked, stunted, or deformed roots.
 
 ### Ideal Soil Conditions
 - Sandy loam is ideal — loose, well-draining, and free of rocks
@@ -21,11 +21,11 @@ Carrots are demanding about [[soil-texture]]. Poor soil is the primary cause of 
 - pH 6.0-6.8; slightly acidic is best
 - Low in fresh nitrogen — excess nitrogen causes hairy, forked roots
 - Moderate phosphorus and potassium levels for root development
-- Work in 2-3 inches of finished [[compost]] but avoid fresh manure
+- Work in 2-3 inches of finished compost but avoid fresh manure
 
 ### Bed Preparation Steps
 1. Remove all rocks, stones, and debris from the top 12 inches
-2. Break up compacted soil layers with a [[broadfork]] — never rotary-till deeply
+2. Break up compacted soil layers with a broadfork — never rotary-till deeply
 3. Incorporate compost and any needed amendments (phosphorus if deficient)
 4. Rake the surface smooth and level
 5. Create raised rows or beds 4-6 inches tall to improve drainage and depth
@@ -133,10 +133,8 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### Diseases
 - **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
-- **[[cercospora]] leaf spot**: Similar to alternaria; same management approach
+- **Cercospora leaf spot**: Similar to alternaria; same management approach
 
-## See Also
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Harvesting
 
 ### When to Harvest
@@ -147,3 +145,10 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### How to Harvest
 - Loosen soil with a fork beside the row before pulling
+- Pull straight up gently; twist slightly if resistant
+- Harvest in the morning for best flavor and crispness
+## See Also
+
+- [[knf-carrot-enzyme-soil-preparation]]
+- [[elderberry-growing-guide]]
+- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

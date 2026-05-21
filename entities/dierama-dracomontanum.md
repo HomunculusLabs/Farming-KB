@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Wildflowers of the Fynbos." Struik Publishers.
-  - Fox, D. (1995). "Growing Bulbs in Southern Africa." Southern Book Publishers.
   - Pacific Bulb Society. "Dierama Species." https://www.pacificbulbsociety.org
 ---
 

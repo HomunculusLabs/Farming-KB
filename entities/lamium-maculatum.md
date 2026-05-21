@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bartlett, M.E. et al. (2019). "Phylogeny of Lamium (Lamiaceae)." Botanical Journal of the Linnean Society, 191(1), 77-95.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Cullen, J. et al. (2011). "The European Garden Flora, Vol. V." Cambridge University Press.
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
 ---
 

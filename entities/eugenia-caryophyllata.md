@@ -12,8 +12,6 @@ tags:
   - antimicrobial
   - essential-oil
 sources:
-  - Cushnie, T.P.T. & Lamb, A.J. (2005). "Antimicrobial activity of flavonoids." International Journal of Antimicrobial Agents, 26(5), 343-356.
-  - Bhat, R. et al. (2013). "Clove: a champion spice." International Journal of Biochemistry Research & Review, 3(1), 87-109.
   - Chaieb, K. et al. (2007). "Antimicrobial activity of syzygium-aromaticum*), commonly known as clove, is an aromatic evergreen tree in the family Myrtaceae, native to the Maluku Islands (the Moluccas or "Spice Islands") of Indonesia. The dried flower buds of this tree have been traded as a prized spice for over 2,000 years.
 ---
 

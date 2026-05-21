@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Vane, J.R. & Botting, R.M. (1998). \"Mechanism of action of aspirin-like drugs.\" Seminars in Arthritis and Rheumatism, 27(2), 1-10."
-  - "Jaki, B. et al. (2005). \"Salicin and other salicylates in Salix species.\" Journal of Natural Products, 68(7), 1099-1103."
-  - "Mahdi, J.G. (2013). \"Medicinal potential of willow: a chemical perspective of aspirin discovery.\" Journal of Saudi Chemical Society, 17(2), 101-105."
   - "Desborough, M.J.R. & Keeling, D.M. (2017). \"The aspirin story.\" British Journal of Haematology, 177(2), 201-211."
 ---
 

@@ -12,12 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "FAO. 2023. Banana Statistical Compendium 2022. Food and Agriculture Organization of the United Nations, Rome."
-  - "Daniells, J., et al. 2001. Banana Cultivation in the Tropics. ACIAR Monograph No. 89."
-  - "Robinson, J.C. and Sauco, V.G. 2010. Bananas and Plantains. 2nd ed. CABI Publishing."
-  - "Stover, R.H. and Simmonds, N.W. 1987. Bananas. 3rd ed. Longman Scientific & Technical."
-  - "Nelson, S.C., Ploetz, R.C., and Kessler, A.E. 2006. 'Musa Species (Banana and Plantain).' In: Fruits and Nuts. CABI."
-  - "INIBAP (International Network for the Improvement of Banana and Plantain). Musalit Bibliographic Database."
   - "Promusa: Banana Knowledge Platform. Bioversity International. https://www.promusa.org"
 ---
 

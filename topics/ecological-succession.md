@@ -4,13 +4,6 @@ tags: [ecology, succession, pioneer-species, climax-community, disturbance, rest
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Clements, F.E. (1916). Plant Succession: An Analysis of the Development of Vegetation. Carnegie Institution of Washington."
-  - "Connell, J.H. & Slatyer, R.O. (1977). Mechanisms of Succession in Natural Communities and Their Role in Community Stability and Organization. The American Naturalist, 111(982), 1119-1144."
-  - "Gleason, H.A. (1926). The Individualistic Concept of the Plant Association. Bulletin of the Torrey Botanical Club, 53(1), 7-26."
-  - "Odum, E.P. (1969). The Strategy of Ecosystem Development. Science, 164(3877), 262-270."
-  - "Walker, L.R. & del Moral, R. (2003). Primary Succession and Ecosystem Rehabilitation. Cambridge University Press."
-  - "Chapin, F.S. III et al. (1994). Mechanisms of Primary Succession Following Deglaciation at Glacier Bay, Alaska. Ecological Monographs, 64(2), 149-175."
-  - "Grime, J.P. (1977). Evidence for the Existence of Three Primary Strategies in Plants and Its Relevance to Ecological and Evolutionary Theory. The American Naturalist, 111(982), 1169-1194."
   - "Hobbs, R.J. et al. (2013). Novel Ecosystems: Intervening in the New Ecological World Order. Wiley-Blackwell."
 ---
 ## Climax Community Concept

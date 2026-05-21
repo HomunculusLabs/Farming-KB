@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Aeschimann, D. et al. (2004). Flora Alpina. Haupt Verlag, Bern.
   - Webb, D.A. (1980). "Irish Bellflowers." Irish Naturalists' Journal, 19(12): 421-426.
 ---
 

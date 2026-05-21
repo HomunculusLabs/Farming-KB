@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Van Wyk, B.E. & Wink, M. (2004). Medicinal Plants of the World. Timber Press.
-  - Grace, O.M. et al. (2009). "Taxonomic and nomenclatural history of Aloe ferox." Bothalia, 39(1): 77-83.
-  - Chen, W. et al. (2012). "Aloe-emodin: a review of its pharmacology and toxicology." Frontiers in Pharmacology, 3: 128.
   - fungal-diversity-arid-environments. The stem surface is smooth and gray, marked by leaf scars from shed foliage.
 ---
 

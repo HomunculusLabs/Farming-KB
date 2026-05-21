@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bown, D. (2001). "The Herb Society of America New Encyclopedia of Herbs." Dorling Kindersley.
-  - Chevallier, A. (2016). "The Encyclopedia of Medicinal Plants." DK Publishing.
-  - Czakó, Á. (2013). "Stachys Genus: A Review of Ethnobotany, Pharmacology, and Phytochemistry." Journal of Pharmacy and Pharmacology, 65(5), 621–631.
   - Pieroni, A. et al. (2002). "Ethnopharmacology of Stachys officinalis." Journal of Ethnopharmacology, 79(2), 141–156.
 ---
 

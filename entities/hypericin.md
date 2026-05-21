@@ -18,13 +18,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brockmann P, Klamerth V, Bohlmann F. (1950). "Konstitution des
     Hypericins." Naturwissenschaften.
-  - Gurevich AI, Dobrynin VN, Kolosov MN. (1971). "Structure of hypericin."
     Tetrahedron Letters.
-  - Schempp CM, Ludtke R, Winghofer B, Simon-Haarhaus B. (2003).
     "Effect of topical hypericum on UV-erythema." Dermatology.
-  - Karioti A, Bilia AR. (2010). "Hypericins as potential leads for new
     therapeutics." International Journal of Molecular Sciences.
   - Wichtl M. (2004). "Herbal Drugs and Phytopharmaceuticals." Medpharm.
 ---
@@ -80,3 +76,5 @@ viral envelopes and inactivation of viral particles. In vivo efficacy is
 limited by poor bioavailability and photosensitivity toxicity.
 
 ## Occurrence and Biosynthesis
+Further research into hypericin continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind hypericin provides a foundation for both practical application and continued scientific inquiry.

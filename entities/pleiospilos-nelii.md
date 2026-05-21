@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hammer, S. (1993). "The Genus Conophytum." Succulent Plant Research, 1.
-  - Hartmann, H.E.K. (2001). "Illustrated Handbook of Succulent Plants: Aizoaceae A-E." Springer.
-  - Schwantes, G. (1952). "Mesembryanthemaceae." In: Engler & Prantl, Die Natürlichen Pflanzenfamilien.
-  - Smith, G.F. et al. (1998). "Mesembs of the World." Briza Publications.
   - Hammer, S. (2010). "Pleiospilos." In: Urs Eggli (ed.), Illustrated Handbook of Succulent Plants. Springer.
 ---
 

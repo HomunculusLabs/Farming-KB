@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wang, W.T. (1979). "Delphinium in Flora Reipublicae Popularis Sinicae." Science Press.
-  - RHS (2023). "Delphinium grandiflorum — Plant Finder." rhs.org.uk.
   - Warnock, M.J. (1997). "Delphinium." In: Flora container-growing-vegetables-herbs, and front-of-border positions.
 ---
 

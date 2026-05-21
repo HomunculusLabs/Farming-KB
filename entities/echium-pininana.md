@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bramwell, D. & Bramwell, Z. (2001). "Wild Flowers of the Canary Islands." Rueda.
-  - León-Arencibia, M.C. & García-Gallo, A. (1998). "The genus Echium in Macaronesia." Boletim do Museu Municipal do Funchal.
-  - Royal Horticultural Society (2023). "Echium pininana." RHS Plant Finder.
-  - Pressel, S. et al. (2011). "Conservation of the Canarian flora." Botanical Journal of the Linnean Society.
   - Lancaster, R. (2008). "Plants for Period Gardens." Garden Plants Series. Timber Press.
 ---
 

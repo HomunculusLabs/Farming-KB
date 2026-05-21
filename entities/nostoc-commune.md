@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dodds W.K., Gudder D.A. & Mollenhauer D. (1995). "The Ecology of Nostoc." Journal of Phycology, 31(1), 2-18.
-  - Jee B. et al. (2013). "Antioxidant and Hepatoprotective Activity of Nostoc commune." Pharmaceutical Biology, 51(1), 13-18.
-  - Mollenhauer D. et al. (1996). "Nostoc and Other Blue-green Algae as Food." Economic Botany, 50(3), 358-366.
   - Rikkinen J. (2002). "Nostoc Commune: A Cyanobacterial Fungus Symbiosis." Symbiosis, 33(1-2), 39-54.
 ---
 

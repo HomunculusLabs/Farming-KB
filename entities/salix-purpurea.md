@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (1997). "Infrageneric classification of Salix (Salicaceae) in the New World." Systematic Botany Monographs, 52, 1–121.
-  - Peichl, M. et al. (2002). "dighton-fungal-biomass-production-aquatic-ecosystems and nutrient use in short rotation willow." Canadian Journal of Forest Research, 32, 1763–1774.
-  - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
-  - Karp, A. et al. (2011). "Willow as a bioenergy crop." In: Halford, N. & Karp, A. (eds.), Energy Crops. Royal Society of Chemistry.
   - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated salix-viminalis*.
 ---
 

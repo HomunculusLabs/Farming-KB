@@ -29,12 +29,12 @@ The most important family for attracting predatory and parasitic insects. Their 
 
 | Plant | Bloom Period | Height | Notes |
 |-------|-------------|--------|-------|
-| Dill ([[anethum-graveolens]]) | Jun-Aug | 3-4 ft | Annual, reseeds freely, excellent for parasitic wasps |
+| Dill (Anethum graveolens) | Jun-Aug | 3-4 ft | Annual, reseeds freely, excellent for parasitic wasps |
 | Fennel (Foeniculum vulgare) | Jul-Sep | 4-6 ft | Perennial, bronze fennel is less invasive, attracts ladybugs |
-| Cilantro/Coriander ([[coriandrum-sativum]]) | May-Jul | 1-2 ft | Annual, let it bolt and flower, attracts hover flies |
-| Parsley ([[petroselinum-crispum]]) | Jun-Aug | 1-2 ft | Biennial, flowers in second year |
-| Yarrow ([[achillea-millefolium]]) | Jun-Sep | 2-3 ft | Perennial, drought-tolerant, long bloom period |
-| Queen Anne's Lace ([[daucus-carota]]) | Jun-Aug | 2-4 ft | Biennial, can be weedy in some areas |
+| Cilantro/Coriander (Coriandrum sativum) | May-Jul | 1-2 ft | Annual, let it bolt and flower, attracts hover flies |
+| Parsley (Petroselinum crispum) | Jun-Aug | 1-2 ft | Biennial, flowers in second year |
+| Yarrow (Achillea millefolium) | Jun-Sep | 2-3 ft | Perennial, drought-tolerant, long bloom period |
+| Queen Anne's Lace (Daucus carota) | Jun-Aug | 2-4 ft | Biennial, can be weedy in some areas |
 | Ammi majus (Bishop's weed) | Jun-Aug | 3-4 ft | Annual, excellent cut flower, very attractive to wasps |
 | Lovage (Levisticum officinale) | Jun-Aug | 4-6 ft | Perennial, edible leaves, long-lived |
 
@@ -98,7 +98,7 @@ Dedicated strips of flowering plants within or alongside crop areas.
 
 Linear plantings of woody shrubs and perennial flowers along field edges, fence lines, or property boundaries.
 
-- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round [[beneficial-insect-habitat]]
+- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round beneficial insect habitat
 - **Species**: Combine flowering shrubs (elderberry, chokeberry, serviceberry) with perennial flowers and native grasses
 - **Maintenance**: Prune annually to maintain shape and flower production
 
@@ -147,3 +147,4 @@ Continuous bloom from early spring through late fall is the goal. Plan insectary
 - Some warm winters allow late kale and brassica flowers to support bees
 
 ## Maintaining Insectary Plantings
+

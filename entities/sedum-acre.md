@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - 't Hart, H. & Bleij, B. (2003). "Sedum of the North Temperate Zone." In: Illustrated Handbook of Succulent Plants: Crassulaceae. Springer.'
-  - "Thiede, J. & Eggli, U. (2007). Crassulaceae. In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants, Vol. IX. Springer."
-  - 'Cuéllar, M. & K Reyes, A. (2006). "Sedum acre L." In: Flora Iberica, Vol. VIII. Real Jardín Botánico, CSIC.'
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 

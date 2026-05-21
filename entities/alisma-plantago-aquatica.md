@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lin, L. et al. (2005). "Alisma orientale." In: Chinese herbal-materia-medica, Vol. 6. Shanghai Scientific and Technical Publishers.
   - Zhang, J.D. et al. (2012). "psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998 in Europe, Asia, and North Africa.
 ---
 

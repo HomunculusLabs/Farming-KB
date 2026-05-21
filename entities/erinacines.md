@@ -15,10 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kawagishi, H., et al. (1993). "Erinacines A, B, and C, strong stimulators of nerve growth factor synthesis, from the mycelia of Hericium erinaceum." Tetrahedron Letters, 34(21), 3441-3444.
-  - Lee, J.S., et al. (2014). "Hericeonones and erinacines: stimulators of nerve growth factor in hericium-erinaceus (Lion's Mane) mushroom extracts improve cognitive function in humans: a systematic review." Journal of Restorative Medicine, 3(1), 34-43.
-  - Friedman, M. (2015). "Chemistry, nutrition, and health-promoting properties of Hericium erinaceus." Journal of Agricultural and Food Chemistry, 63(32), 7100-7109.
-  - Li, I.C., et al. (2014). "Erinacine A promotes neuronal differentiation through TrkB-dependent signaling pathway." Journal of Food and Drug Analysis, 22(2), 214-221.
 aliases:
   - Erinacine
   - Erinacines A-S

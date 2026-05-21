@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hultén, E. (1971). The Circumpolar Plants II: Dicotyledoneae. Almqvist & Wiksell, Stockholm.
-  - Shetler, S.G. & Morin, N.R. (1986). "Campanula in growing-gourmet-north-american-reishi-species and Eurasian arctic floras." Biological Review 38: 181–207.
-  - Elven, R. et al. (2011). Pan-arctic Flora Checklist. University of Oslo.
   - Moose, K.M. et al. (2004). "Alpine vegetation of the northern Rockies." Journal of Vegetation Science 15(4): 561–572.
 ---
 

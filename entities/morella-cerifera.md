@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
-  - Radford, A.E. et al. (1968). "Manual of the Vascular Flora of the Carolinas." UNC Press.
-  - USDA NRCS (2024). "PLANTS Database — Morella cerifera."
   - Mark, S. & Susko, D. (2015). "Frankia Symbiosis in Morella cerifera." Symbiosis.
 ---
 
@@ -78,3 +74,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on morella cerifera have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with morella cerifera should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

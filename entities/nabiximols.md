@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - GW Pharmaceuticals. "Sativex Prescribing Information." Revised 2023.
-  - Pertwee R.G. (2012). "Targeting the  agonists." British Journal of Pharmacology, 166(5), 1447-1463.
-  - Barnes M.P. (2006). "Sativex: clinical efficacy and tolerability in the treatment of symptoms of  and  is therapeutically significant. CBD modulates the
 psychoactive effects of THC, reducing intoxication, anxiety, and cognitive
 impairment while preserving analgesic and anti-spastic properties. This
 mushroom-cancer-clinical-trials-overview demonstrate significant reductions in spasm

@@ -2,7 +2,6 @@
 title: "Sunset Sherbert"
 type: strain
 aliases:
-  - "cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains." Wikipedia.
 created: 2026-05-07
 ---
 

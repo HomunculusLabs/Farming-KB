@@ -10,9 +10,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Taylor, W.I. (1957). "The Alkaloids of plants-of-the-gods-tabernanthe-iboga-chemistry: Part II. Isolation of Coronaridine." Journal of the American Chemical Society 79(12): 3284-3285.
-  - Kametani, T. & Ihara, M. (1968). "The Chemistry of the Iboga Alkaloids." Heterocycles 1(1): 23-42.
-  - Popik, P. et al. (1995). "Ibogaine and its O-desmethyl metabolite (noribogaine) interact with serotonergic systems." Society for Neuroscience Abstracts 21: 1954.
   - Glick, S.D. et al. (1999). "Ibogaine: Antiaddictive and putative anti-craving properties." In: Ottersen, O.P. & Storm-Mathisen, J. (eds.) "Neuroscience in the 21st Century." Springer.
 ---
 

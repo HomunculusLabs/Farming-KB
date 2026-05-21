@@ -5,7 +5,6 @@ tags: [permaculture, food-forest, agroforestry, polyculture, guild-design, self-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - bill-mollison-permaculture-a-designers-manual.md
   - gaia-garden-plant-guilds.md
   - faires-forest-garden-design.md
@@ -24,7 +23,6 @@ related_concepts:
   - fruit-tree-guild-roles
   - comfrey-multifunctional-guild-plant
   - hugelkultur-guide
-  - bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests
   - faires-forest-garden-design
   - polyculture-design-principles
   - companion-planting-with-fungi

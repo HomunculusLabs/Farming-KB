@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Nordiska Ministerrådet (2004). "Nordens Flora." Wahlström & Widstrand.
-  - Lid, J. & Lid, D.T. (2005). "Norsk Flora." Det Norske Samlaget.
   - IUCN Red List of Threatened Species (2023).
   - Mossberg, B. & Stenberg, L. (2018). "Den Nya Nordiska Floran." Wahlström & Widstrand.
 ---

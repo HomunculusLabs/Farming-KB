@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hostettmann K, Marston A. (1995). "Saponins: amanita-muscaria-chemistry-and-pharmacology of Natural Products." Cambridge University Press.
-  - Hiller K, Lindequist U. (1999). "Biologically Active Compounds from Saponaria officinalis L." Pharmazie, 54(10), 751-756.
-  - Wina E, Muetzel S, Becker K. (2005). "The Impact of Saponins or Saponin-Rich Plant Materials on Ruminant Production." Animal Feed Science and Technology, 121(1-2), 139-159.
-  - Kregiel D, Berlowska J, Witonska I. (2017). "Saponin-Based Biological Active Surfactants." Springer.
   - Tutin TG et al. (1964–1980). "Flora Europaea." Cambridge University Press.
 ---
 

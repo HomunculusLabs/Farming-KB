@@ -1,8 +1,5 @@
 ---
 title: "Beneficial Insects And Biological Pest Control"
-  - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird permaculture-site-access-and-house-placement Guidelines.'"
-  - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural aact-insect-pest-suppression-grubs-caterpillars-mites-ingham: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
-  - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."
 created: 2026-05-07
 type: comparison
 ---

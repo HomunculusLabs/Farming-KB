@@ -12,10 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Park, K.R. & Simmons, M.P. (2008). "Phylogeny of Thalictrum Based on Molecular Data." Systematic Botany, 33(3), 468–478.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Tutin, T.G. et al. (1993). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Tucker, A.O. et al. (2006). "Flora of the Northeastern United States." University of Massachusetts Press.
   - Roessler, H. (1959). "Revision der Artengruppe um Thalictrum thalictroides." Mitteilungen der Botanischen Staatssammlung München, 4, 135–162.
 ---
 

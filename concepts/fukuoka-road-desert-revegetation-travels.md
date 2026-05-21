@@ -5,7 +5,6 @@ updated: 2026-04-25
 type: concept
 tags: [desert, revegetation, ecology, farming, fukuoka, california, global]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka's Desert Revegetation Travels and Projects

@@ -2,7 +2,6 @@
 title: Keypoint keypoint dam water storage earthworks Earthworks
 created: 2026-04-28
 tags: water-management, earthworks, mollison-designers-dam-construction-and-water-storage
-- arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

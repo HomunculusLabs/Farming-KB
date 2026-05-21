@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee. (1993). "Blechnaceae." Flora of guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 2.
-  - Hoshizaki, B.J. & R.C. Moran. (2001). "Fern Grower's Manual." Timber Press.
-  - Moran, R.C. (1995). "Blechnaceae." In: Flora Mesoamericana, Vol. 1. UNAM.
-  - Kawai, H. et al. (2003). "Molecular phylogeny of the fern family Blechnaceae." Systematic Botany.
   - USDA NRCS. (2024). "Woodwardia fimbriata (giant chain fern)." PLANTS Database.
 ---
 

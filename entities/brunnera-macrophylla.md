@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - RHS Plant Finder. "Brunnera macrophylla." Royal Horticultural Society.
-  - Mill, R.R. (1978). "Brunnera." In: Tutin, T.G. et al. (eds.) Flora Europaea, Vol. 3. Cambridge University Press.
-  - Armitage, A.M. (2008). Herbaceous Perennial Plants: A Treatise on their Identification, Culture, and Garden Attributes. 3rd ed. Stipes Publishing.
-  - Toth, A., et al. (2017). "Pyrrolizidine alkaloids in Boraginaceae ornamentals." Phytochemistry, 133, 45-53.
   - Brickell, C. (ed.) (2016). RHS A-Z Encyclopedia of Garden Plants. 4th ed. Dorling Kindersley.
 ---
 

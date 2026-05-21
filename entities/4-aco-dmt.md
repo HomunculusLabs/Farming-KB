@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
-  - Passie, T. et al. (2002). "hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips of psilocybin and 4-acetoxy-DMT." MAPS Bulletin.
-  - Hashimoto, K. et al. (2005). "4-AcO-DMT: a novel synthetic-tryptamine-methods." Journal of Medicinal Chemistry.
-  - Dean, A.C. et al. (2018). "Pharmacology and subjective effects of synthetic psilocin analogs." Psychopharmacology.
  (chemistry reference)
   - Chadeayne, A.R. et al. (2019). "Emerging tryptamines: pharmacology and forensic analysis." Forensic Sciences.
 ---# 4-AcO-DMT (Psilacetin)
@@ -80,3 +76,5 @@ The pharmacokinetics of 4-AcO-DMT are characterized by rapid absorption and conv
 ### Dosage Ranges (oral)
 
 | Level | Dose (mg) | Description |
+Further research into 4 aco dmt continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind 4 aco dmt provides a foundation for both practical application and continued scientific inquiry.

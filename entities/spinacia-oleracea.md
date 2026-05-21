@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Morelock TE, Correll JC (2008). "Spinach." In: Prohens J, Nuez F (eds.) Vegetables II. Springer.
-  - Rubatzky VE, Yamaguchi M (1997). World Vegetables: Principles, Production, and Nutritive Values. 2nd ed. Chapman & Hall.
-  - Lestari EG, Meuwissen THE, van Arendonk JAM (2019). "Breeding strategies for spinach." Theoretical and Applied Genetics.
-  - Correll JC, Morelock TE, Motes JE (1994). "cervantes-downy-mildew-fungal-blight of spinach." Plant Disease.
   - USDA Natural Resources Conservation Service. "Spinacia oleracea L." PLANTS Database.
 ---
 

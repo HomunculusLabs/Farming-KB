@@ -13,8 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Flora of psilocybin-north-america-pacific-northwest Vol. 2
-  - Huxley & Griffiths (1992), New RHS Dictionary of Gardening
   - Tryon & Tryon (1982), Ferns and Allied Plants
 ---
 

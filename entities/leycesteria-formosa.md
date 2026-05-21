@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bell, C. D. et al. (2001). "Phylogeny of the Caprifoliaceae." American Journal of Botany, 88(2), 283-293.
-  - Royal Horticultural Society. "Leycesteria formosa." RHS Plant Finder. https://www.rhs.org.uk
-  - Dirr, M. A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Nepal Flora Database. "Leycesteria formosa." Department of Plant Resources, Kathmandu.
   - Weber, E. (2003). "Invasive Plant Species of the World." CABI Publishing.
 ---
 

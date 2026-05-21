@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Casper, S.J. (1966). "Monographie der Gattung Pinguicula L." Bibliotheca Botanica, 127/128.
-  - Heslop-Harrison, Y. (2004). "Biochemistry and physiology of carnivorous higher plants." Annals of Botany, 93(6), 615-627.
   - Slack, A. (2000). "Carnivorous Plants." MIT Press.
   - Adlassnig, W. et al. (2006). "Digestion in Pinguicula: what happens to the prey carotenoids?" Plant Biology, 8(3), 351-358.
 ---

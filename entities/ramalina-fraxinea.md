@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nash, T.H. III et al. (2002). "polypore-fungi-eastern-north-america America. It is particularly common in oceanic and suboceanic regions of western Europe, including the British Isles, Atlantic France, and Scandinavia.
 ---
 

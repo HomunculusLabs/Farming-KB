@@ -5,7 +5,6 @@ tags: [comparison, coco-coir, peat, growing-media, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 type: comparison
 ---
 

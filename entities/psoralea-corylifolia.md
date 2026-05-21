@@ -5,9 +5,6 @@ tags: [medicinal-plant, tcm-herb, legume, skin-disorders, photodermatitis, fabac
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Zhang, L. et al. (2024). Phytochemistry and pharmacology of Psoralea corylifolia: a comprehensive review. Journal of Ethnopharmacology, 325, 118014."
-  - "Singh, S. & Sharma, P. (2023). Bakuchiol: a retinol-like compound from Psoralea corylifolia for dermatological applications. Phytomedicine, 112, 154632."
-  - "Li, W. et al. (2022). Furanocoumarins from Psoralea corylifolia: biosynthesis, bioactivity, and toxicity. Phytochemistry Reviews, 21, 1457–1481."
   - "Kumar, S. et al. (2021). Hepatotoxic potential of Psoralea corylifolia and its constituents: mechanisms and clinical relevance. Food and Chemical Toxicology, 156, 112503."
 ---
 

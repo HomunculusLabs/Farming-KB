@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, D.M. (1976). "A biosystematic study of the genus Sisyrinchium (Iridaceae) in the psilocybin-north-america-pacific-northwest." Brittonia 28(2): 149–176.
-  - Cholewa, A.F. & Henderson, D.M. (1984). "Biosystematics of Sisyrinchium section Bermudiana (Iridaceae)." Systematic Botany 9(4): 421–431.
-  - USDA NRCS Plant Database. Sisyrinchium angustifolium. plants.usda.gov.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. UNC Herbarium.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Brickell, C. (2019). RHS Encyclopedia of Plants and Flowers. DK Publishing.
-  - Li, J. et al. (2014). "Chemical composition and antioxidant activity of Chaenomeles speciosa." Journal of Agricultural and Food Chemistry.
   - Bean, W.J. (1980). Trees and Shrubs Hardy in the British Isles. John Murray.
 ---
 

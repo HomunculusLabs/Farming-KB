@@ -14,15 +14,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisserant, E. et al. (2013). "Genome of an arbuscular-mycorrhizal-colonization-patterns fungus provides
     insight into the oldest plant symbiosis." PNAS, 110(50), 20117-20122.
-  - Schüßler, A. & Walker, C. (2010). "The Glomeromycota: A species list with new
     families and new genera." Royal Botanic Garden Edinburgh.
-  - Smith, S.E. & Read, D.J. (2008). "arbuscular-mycorrhizal-fungi in temperate
     agricultural soils." In Soil Microbiology, Ecology and Biochemistry, 4th Ed.
-  - Cakmak, I. et al. (2010). "Zinc fertilization strategy for wheat in Central
     Anatolia." Plant and Soil, 337(1-2), 1-13.
-  - Helber, N. & Requena, N. (2008). "Expression of DsRED under the control of a
     nitrate reductase promoter in Glomus intraradices." Mycorrhiza, 18(2), 69-75.
 ---
 

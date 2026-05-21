@@ -86,7 +86,7 @@ The foundation of natural pest management is a healthy ecosystem:
 - Most effective on young caterpillars
 
 ## Related
-- [[companion-planting-deterrents]] — evidence-based [[companion-planting]] data
+- [[companion-planting-deterrents]] — evidence-based companion planting data
 - [[slugs-and-snails-organic-control]] — specific slug/snail methods
 - [[garden-insect-identification]] — common garden pest identification
 - [[jadam-herbal-pest-control]] — JADAM approach to herbal pest sprays

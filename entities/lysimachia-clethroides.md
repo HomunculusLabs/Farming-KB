@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hu, Q.M. (1994). "Lysimachia in Flora of China." Science Press, Beijing.
-  - Mann, J.F. (1959). "A revision of the genus Lysimachia in the Old World." Notes from the Royal Botanic Garden Edinburgh, 23(1), 1–211.
-  - Ohwi, J. (1965). Flora of Japan. Smithsonian Institution, Washington.
-  - Uotila, P. (2009). "Lysimachia." In: Jonsell, B. & Karlsson, T. (eds.), Flora Nordica, Vol. 6, Bergius Foundation.
   - Rhoads, A.F. & Klein, W.M. (1993). The Vascular Flora of Pennsylvania. American Philosophical Society.
 ---
 

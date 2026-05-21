@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Watson, E.V. (1981). "British Mosses and Liverworts." 3rd ed. Cambridge University Press.
-  - Hedenäs, L. (2003). "The European species of the Hypnum cupressiforme complex." Journal of Bryology, 25(1), 1–13.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
 ---
 

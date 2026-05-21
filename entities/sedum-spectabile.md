@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ohba, H. (1977). "The Taxonomic Status of Sedum telephium and Its Allies." Bot. Mag. Tokyo 90.
-  - t'Hart, H. & Bleij, B. (2003). "Sedum." In: Eggli, U. (ed.), Illustrated Handbook of Succulent Plants: Crassulaceae. Springer.
-  - Clausen, R.T. (1975). "Sedum of the Trans-Mississippi Region." Contr. Gray Herb.
   - Xiang, C.L. et al. (2019). "Phylogeny of Crassulaceae." Mol. Phylogenetics Evol. 131.
 ---
 

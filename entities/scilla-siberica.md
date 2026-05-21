@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Mathew, B. (1987). "The Smaller Bulbs." B.T. Batsford Ltd., London.
-  - RHS (2023). "Scilla siberica — Plant Finder." Royal Horticultural Society.
   - Mobot. "Scilla siberica." Missouri Botanical Garden Plant Finder.
 ---
 

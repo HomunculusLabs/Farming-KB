@@ -10,9 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Deng, M. & Xiang, Q.Y. (2009). "Taxonomic revision of Stewartia (Theaceae)." Botanical Journal of the Linnean Society, 160, 444-469.
-  - Dirr, M.A. (2011). Dirr's Encyclopedia of Trees and Shrubs. Timber Press, Portland, OR.
-  - Li, J. & Del Tredici, P. (2008). "The camellia family in cultivation." Arnoldia, 66(1), 2-15.
   - Ohwi, J. (1965). Flora of Japan. Smithsonian Institution, Washington, D.C.
 ---
 

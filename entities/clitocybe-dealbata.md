@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benjamin, D.R. (1995). "Mushrooms: Poisons and Panaceas." W.H. Freeman and Company.
-  - Kuo, M. (2024). "Clitocybe dealbata." MushroomExpert.com.
-  - Lincoff, G.H. (1981). "National Audubon Society ghouled-field-guide-historical-context to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
-  - Wagstaff, D.J. & Boutin, B. (2013). "Muscarine-containing mushrooms." Toxicon, 76, 56–60.
 created: 2026-05-07
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hitchcock, A.S. (1951). "Manual of the Grasses of the United States." USDA.
-  - Lavergne, C. & Molofsky, J. (2004). "Reed canary grass (*Phalaris arundinacea*): A rapid response to global change?" Biological Invasions, 6, 537–544.
-  - Merigliano, M.F. & Lesica, P. (1998). "The native status of reed canary grass." Natural Areas Journal, 18, 223–230.
   - Galatowitsch, S.M. et al. (1999). "Restoring prairie pothole wetlands." Island Press.
 ---
 

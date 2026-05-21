@@ -20,8 +20,6 @@ aliases:
   - Polyporus capitatus
   - Trametes capitata
 sources:
-  - Ryvarden, L. & Johansen, I. (1980). "A Preliminary Polypore Flora of East Africa." Fungiflora.
-  - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores 2." Synopsis Fungorum 14.
   - Miettinen, O. & Rajchenberg, M. (2012). "Coriolopsis and related genera." bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies on dead hardwood and is known for producing bioactive sesquiterpenoids and fungal-biodiversity-tropical-forests of copelandia-cyanescens-pantropical-distribution-and-ecology, occurring widely in Central and South America (especially the Brazilian Atlantic Forest), tropical Africa, and Southeast Asia.
 ---
 

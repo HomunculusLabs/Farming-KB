@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
-  - Greenlee, J. (2010). The American Meadow Garden. Timber Press.
-  - RHS (2022). "Festuca glauca." Royal Horticultural Society Plant Database.
   - Ernst, W.H.O. (1983). "Ecology of Festuca." Vegetatio, 53(2), 97–112.
 ---
 

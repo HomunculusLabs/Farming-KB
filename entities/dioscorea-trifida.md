@@ -11,13 +11,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Coursey, D.G. (1967). Yams: Account of the Nature, Origins, Cultivation and
     Utilisation of the Useful Species of Dioscorea. Longmans.
-  - Bhandari, M.R. et al. (2003). "The composition of Nepalese yam."
     Plant Foods for Human Nutrition.
-  - Mignouna, H.D. et al. (2009). "Yams (Dioscorea spp.): conservation
     genetics." In: Biotechnology and Plant Genetic Resources. CABI.
-  - Arnolin, R. et al. (2017). "The domestication of yam." Economic Botany.
   - Lebot, V. (2009). psilocybin-mushroom-species-overview
 ---
 

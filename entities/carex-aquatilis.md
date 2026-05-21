@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in guzman-psilocybin-mushrooms-north-america north of Mexico." Flora huckleberries-and-wild-berries-of-north-america, Vol. 23.
-  - Egorova, T.V. (1999). "The Sedges (Carex L.) of Russia and Adjacent States." Missouri Botanical Garden Press.
   - Welsh, S.L. (1974). "Anderson's Flora of Alaska and Adjacent Parts of Canada." Brigham Young University Press.
 ---
 

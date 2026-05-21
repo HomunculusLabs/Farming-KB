@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burdsall HH, Banik MT. (2001). "Revision of the genus Laetiporus." Mycotaxon 78: 1–10.
-  - Banik MT, Burdsall HH. (1998). "Assessment of the ITS rDNA as a marker for Laetiporus species." Mycologia 90(6): 1046–1053.
-  - Pegler DN, Spooner BM. (1993). "The Polyporales of the British Isles." Royal Botanic Gardens, Kew.
-  - Spirin VA, Miettinen O. (2016). "What is Laetiporus sulphureus?" MycoKeys 16: 47–69.
   - Stanek M. (1973). "New aspects in the taxonomy of Laetiporus sulphureus." Ceska Mykologie 27: 184–191.
 ---
 

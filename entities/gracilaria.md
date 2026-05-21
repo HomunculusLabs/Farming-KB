@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McLachlan, J. (1979). "Gracilaria: Taxonomy and Physiology." Journal of Phycology, 15(1), 12-22.
-  - Renn, D. (1997). "Biotechnology and the Red Seaweed Polysaccharide Industry." Trends in Biotechnology, 15(1), 9-14.
-  - Ask, E.I. & Azanza, R.V. (2002). "Advances in Cultivation Technology of Commercial Eucheumatoid Species." Hydrobiologia, 481, 35-44.
-  - Ganesan, M., et al. (2019). "Gracilaria Cultivation: Status and Prospects." Aquaculture, 516, 734517.
   - https://www.algaebase.org/search/genus/detail/?genus_id=Gracilaria
 ---
 

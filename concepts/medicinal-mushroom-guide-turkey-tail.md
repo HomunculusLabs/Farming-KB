@@ -92,7 +92,7 @@ Common supplement form. Look for products with verified beta-glucan content (pre
 
 ## Dosing Guidelines
 
-- **General immune support:** 1-3g dried [[mushroom-powder]] or extract per day.
+- **General immune support:** 1-3g dried mushroom powder or extract per day.
 - **Cancer adjunct (under medical supervision):** 3-6g/day, divided into 2-3 doses.
 - **Tincture:** 2-4ml dual extract, 2-3 times daily.
 - **Tea:** 5-10g dried mushroom per liter of water, simmered 60-90 minutes.
@@ -111,8 +111,8 @@ Turkey tail is one of the easiest mushrooms to identify, but has lookalikes:
 - Flexible and leathery when fresh; becomes tough when dry but can be rehydrated.
 
 ### Lookalikes
-- **False turkey tail ([[stereum-ostrea]]):** Similar zonate cap but has a smooth, poreless underside (no pores visible). Generally considered non-toxic but not medicinal.
-- **[[trametes-hirsuta]]:** Very similar but less colorful; also medicinal.
+- **False turkey tail (Stereum ostrea):** Similar zonate cap but has a smooth, poreless underside (no pores visible). Generally considered non-toxic but not medicinal.
+- **Trametes hirsuta:** Very similar but less colorful; also medicinal.
 
 ### Habitat
 - Dead hardwood (oak, maple, beech, birch).

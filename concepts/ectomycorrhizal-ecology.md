@@ -73,10 +73,18 @@ Forests with diverse exploration types are more resilient — they access nutrie
 - [[fungal-role-in-nitrogen-cycling]] — for N cycling role
 - [[fungal-role-in-carbon-cycling]] — for carbon cycling role
 - [[fungal-ecology]]
+## Historical Context
 
-## Current Research Directions
+The study and practice of ectomycorrhizal ecology has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into ectomycorrhizal ecology have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with ectomycorrhizal ecology spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

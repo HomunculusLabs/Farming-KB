@@ -1,4 +1,5 @@
 ---
+
 title: Jeff Lowenfels
 created: 2026-04-11
 updated: 2026-04-12
@@ -75,7 +76,7 @@ The "Teaming With" trilogy has become essential reading for organic and regenera
 - [[compost-tea-aact]] — Compost tea brewing
 - [[composting-systems]] — Compost methods
 - [[mulching-guide]] — Mulch for soil biology
-- [[glomalin-and-soil-carbon]] — Mycorrhizal soil carbon compound
+- [[glomalin]] — Mycorrhizal soil carbon compound
 - [[soil-fertility-management]] — Nutrient management
 - [[vermicomposting]] — Worm composting
 - [[no-till-gardening-method]] — Protecting fungal networks

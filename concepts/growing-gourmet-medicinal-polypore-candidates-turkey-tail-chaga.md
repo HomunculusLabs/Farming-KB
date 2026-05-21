@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 ---# Medicinal Polypore Candidates: Turkey Tail, Chaga, and Future Species
 

@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of matsutake-mushroom of Loblolly Pine (Pinus taeda L.)." USDA Forest Service Agriculture Handbook 713.
   - Kossuth, S.V. & Michael, J.L. (2000). "A Guide to the Silviculture of Loblolly, Slash, and Shortleaf Pines in the Southeast." USDA Forest Service General Technical Report SRS-42.
 ---
 

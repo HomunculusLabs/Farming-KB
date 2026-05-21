@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Stone, D.E. (1997). "Carya." In: Flora of North America Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 3. Oxford University Press.
-  - Grauke, L.J. & Wood, B.W. (2015). "Identification of hickory species (Carya) using cannabis-leaf-morphology-and-phyllotaxy." Journal of the American Society for Horticultural Science, 140(5), 417–424.
   - McCarthy, B.C. & Wistendahl, W.A. (1988). "Structure and composition of an old-growth forest in southeastern Ohio." Castanea, 53(4), 269–282.
 ---
 

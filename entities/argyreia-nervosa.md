@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers." Healing Arts Press.
-  - Emboden, W. (1979). "Ergot on the Seed of Argyreia nervosa." Economic Botany, 33(2), 207-209.
   - Chao, J.M. & Der Marderosian, A.H. (1973). "Identification of lysergic-acid-amide (LSA, ergine), at concentrations significantly higher than those found in dmt-botanical-sources-pharmacology of naturally occurring lysergic acid derivatives.
 ---
 

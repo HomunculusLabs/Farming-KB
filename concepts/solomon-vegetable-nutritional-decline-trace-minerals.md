@@ -9,8 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---# Vegetable Nutritional Decline and Trace Minerals
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Campbell, J.A. & Lamar, W.W. (2004). The Venomous Reptiles of the Western Hemisphere. Cornell University Press.
-  - Hoge, A.R. & Romano-Hoge, S.A.R.W. (1981). "Venom yield from Brazilian snakes." Memorias do Instituto Butantan, 44/45, 81-90.
-  - Sano-Martins, I.S. et al. (1992). "Coagulopathy following Bothrops jararaca bites." Toxicon, 30(9), 993-998.
-  - Kamiguti, A.S. et al. (1996). "The role of snake venom metalloproteinases in hemorrhage." Brazilian Journal of Medical and Biological Research, 29, 1307-1318.
   - The Reptile Database. "Bothrops jararaca (Wied, 1824)." https://reptile-database.reptarium.cz/species?genus=Bothrops&species=jararaca
 ---
 

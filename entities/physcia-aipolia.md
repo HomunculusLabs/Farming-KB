@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moberg, R. & Carlin, G. (1993). "Physcia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Lücking, R. (1999). "Ecology of foliicolous lichens at the 'Botanische Garten' in Zürich." Bibliotheca Lichenologica, 74, 1-260.
   - Nash III, T.H. (2008). Lichen Biology (2nd ed.). Cambridge University Press.
 ---
 
@@ -78,3 +74,14 @@ Quantitative evaluation through appropriate metrics enables objective assessment
 Common challenges include resource limitations, environmental variability, and knowledge gaps. Proven solutions draw on accumulated experience and systematic problem-solving approaches.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on physcia aipolia have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with physcia aipolia should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

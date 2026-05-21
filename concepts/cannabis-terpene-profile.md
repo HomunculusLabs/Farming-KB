@@ -7,10 +7,10 @@ tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, m
 sources: []
 ---
 # Cannabis Terpene Profile
-Terpenes are aromatic [[chamovitz-plant-scent-communication-volatile-organic-compounds]] found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
+Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 
-Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]s:
+Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various ecological functions:
 
 - Attracting pollinators with scent
 - Repelling herbivores and pests
@@ -42,7 +42,7 @@ The second most common cannabis terpene, immediately recognizable by its citrus 
 - Strain associations: sativa-dominant strains, "sour" and "lemon" named varieties
 - Also found in: citrus rinds, juniper, peppermint, rosemary
 - Boiling point: 349°F (176°C)
-- Notes: Limonene has been studied for anti-depressant and anti-anxiety effects. It also enhances absorption of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] terpenes and compounds through cell membranes
+- Notes: Limonene has been studied for anti-depressant and anti-anxiety effects. It also enhances absorption of other terpenes and compounds through cell membranes
 
 ### Pinene (Alpha and Beta)
 
@@ -142,9 +142,9 @@ Terpenes degrade and evaporate as trichomes mature past their peak. Harvesting t
 
 Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity preserves terpenes. Fast, hot drying destroys terpene profiles. Proper curing (2-8+ weeks in glass jars) develops and preserves the full aromatic profile.
 
-## See Also
+### Growing Medium
 
-- [[cannabis-trichome-guide]] for the structures that produce terpenes
-- [[cannabis-flavonoids]] for non-terpene aromatic compounds
-- [[cannabis-lighting-guide]] for how light affects terpene production
-- raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
+Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
+
+## The Entourage Effect
+

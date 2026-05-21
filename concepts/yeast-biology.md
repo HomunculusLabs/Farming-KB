@@ -29,7 +29,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 
 S. cerevisiae (baker's yeast / brewer's yeast) is the most studied and most important yeast species:
 
-- **Phylum**: [[ascomycota]]
+- **Phylum**: Ascomycota
 - **Genome**: 12.1 Mb, ~6,275 genes on 16 chromosomes
 - **First eukaryotic genome fully sequenced** (1996) — landmark achievement
 - **Haploid or diploid**: Can exist in both states, unlike most fungi which are predominantly haploid
@@ -109,7 +109,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
-- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and [[lactobacillus]] bacteria in a starter culture
+- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
 - **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
@@ -120,7 +120,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Beer**: Ale yeasts (S. cerevisiae, top-fermenting) vs. lager yeasts (S. pastorianus, bottom-fermenting, a hybrid of S. cerevisiae and S. eubayanus)
 - **Wine**: Multiple Saccharomyces strains available. Different strains produce different ester profiles, affecting flavor
 - **Distilled spirits**: Yeast strains optimized for high ethanol tolerance and fast fermentation (rum, whiskey, vodka)
-- **Cheese**: [[debaryomyces-hansenii]] contributes to rind development on many cheeses
+- **Cheese**: Debaryomyces hansenii contributes to rind development on many cheeses
 - **Soy sauce and miso**: Zygosaccharomyces rouxii is the primary yeast in soy sauce fermentation
 
 ### Biotechnology
@@ -141,10 +141,15 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Not the same as brewer's yeast** (which has a bitter taste from hops residue)
 
 ## Yeast Pathogens
+
+### Candida albicans
+
+- Part of the normal human microbiome (mouth, gut, vagina) but causes opportunistic infections (candidiasis)
+- **Thrush**: Oral infection — white patches on tongue and mouth
+- **Vaginal yeast infection**: Common, affects ~75% of women at least once
+- **Systemic candidiasis**: Life-threatening in immunocompromised patients. Mortality rate 30-50%
 ## See Also
 
-- [[fungal-biology-fundamentals]] for yeast cell structure in the broader fungal context
-- [[fungal-genetics]] for yeast as a genetic model organism
-- [[fungal-evolution]] for the evolutionary origin of yeast forms
-- [[food-fermentation-guide]] for yeast in broader fermentation contexts
-- knf yeast preparation for wild yeast capture and use in [[korean-natural-farming]]
+- [[yeast-biology-ecology-and-fermentation]]
+- [[yeast-biology-guide]]
+- [[microwave-sterilizable-access-port-nasa-space-biology]]

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wu, S.K. & Chinnock, R.J. (2000). "Drynaria." In: Flora of Australia, Vol. 48.
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
-  - Hovenkamp, P.H. (1998). "An account of the Malay-Pacific species of Drynaria." Blumea 43(2): 261-317.
   - https://powo.science.kew.org/
 ---
 

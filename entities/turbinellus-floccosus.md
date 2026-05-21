@@ -12,12 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Corner, E.J.H. (1966). A Monograph of Cantharellus and Allied Genera. J. Cramer."
-  - "Petersen, R.H. (1971). \"The genus Gomphus (Cantharellaceae) in psilocybin-north-america-pacific-northwest.\"
     Nova Hedwigia, 21, 1–114."
-  - "Buyck, B. et al. (2014). \"Turfungi of the African oak woodlands.\"
     arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 67(1), 1–36."
-  - "Yang, Z.L. (2005). \"Fungal diversity of tropical and subtropical China.\"
     Biodiversity and Conservation, 14, 697–707."
   - "Arora, D. (1986). Mushrooms Demystified. 2nd ed. Ten Speed Press."
 ---

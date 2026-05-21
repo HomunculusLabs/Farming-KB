@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Corner EJH (1950). "A Monograph of Clavaria and Allied Genera." Annals of Botany Memoirs 1.
-  - Petersen RH (1968). "The Genus Clavulina." Mycologia 60(5): 931-942.
-  - Arnolds E (1985). "Ecology and Coenology of Macrofungi in Grasslands and Moist Heathlands in Drenthe, the Netherlands." Bibliotheca Mycologica 90.
-  - Kuo M (2023). "Clavulina rugosa." MushroomExpert.com.
 created: 2026-05-07
 ---
 

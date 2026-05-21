@@ -5,11 +5,9 @@ updated: 2026-05-19
 type: topic
 tags: [mycology, mushroom-cultivation, substrate, pasteurization, sterilization, supplementation]
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)
   -  (Paul Stamets and Jeff Chilton)
   - Mycelium Running (Paul Stamets, 2005)
   - Indoor Mushroom Growing Technique (D.H. Jarrold)
-  - comparison-reishi-vs-oyster-mushroom-cultivation (MushWorld, 2004)
   - A Training Manual: Mushroom Cultivation by People with Disabilities (FAO)
 ---# Mushroom Substrate Preparation and Formulation
 

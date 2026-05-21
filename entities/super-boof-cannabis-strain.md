@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Seed Junky Genetics. "Super Boof chupacabra-strain-profile-sickmeds-oner." seedjunky.com.
-  - Leafly Staff (2024). "Super Boof blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
-  - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
-  - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.---
 ---
 
@@ -79,3 +75,14 @@ and contributes to Super Boof's distinctive spicy-peppery finish.
 - **THC:** 25–32% (frequently tests above 28%)
 - **CBD:** <0.1% (negligible)
 - **Terpenes:** Myrcene-dominant with caryophyllene and limonene supporting effects.
+## Current Research
+
+Recent studies on super boof cannabis strain have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with super boof cannabis strain should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Degenhardt, J. et al. (2009). "Monoterpenes and sesquiterpenes in plants." Annual Plant Reviews 39: 61-92.
-  - Rice, S. & Koziel, J.A. (2015). "The role of sesquiterpenes in cannabis aroma." Flavour and Fragrance Journal 30(5): 341-353.
-  - Fraga, B.M. (2012). "Natural sesquiterpenoids." Natural Product Reports 29(11): 1334-1368.
-  - Maffei, M.E. (2010). "Sites of synthesis, biochemistry and functional role of plant volatiles." kanna-sceletium-south-african-narcotic Journal of Botany 76(4): 612-631.
-  - Gershenson, J. & Dudareva, N. (2007). "The function of terpene natural products in the natural world." Nature Chemical Biology 3(7): 408-414.
 created: 2026-04-28
 ---
 

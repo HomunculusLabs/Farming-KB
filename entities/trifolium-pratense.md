@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Frame, J. (2005). "Forage legumes for temperate grasslands." Science Publishers.
-  - Booth, N.E. et al. (2005). "Isoflavones from red clover." Alternative Medicine Review 10(4): 297-316.
-  - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press.
-  - Hill, M.J. & Pearson, C.J. (1988). "Germination and seedling growth of Trifolium pratense." Annals of Botany 62(1): 43-49.
   - Fougère, B. (2004). "Red clover (Trifolium pratense): A review." Journal of Herbal Pharmacotherapy 4(1): 65-85.
 ---
 

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Bats are among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essential [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] services valued at billions of dollars annually in agricultural savings. North America is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrome, wind energy development, and persecution. Installing bat houses and conserving bat habitat on the homestead supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation|conservation]] for complementary wildlife habitat practices.
+Bats are among the most important yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essential pest control services valued at billions of dollars annually in agricultural savings. North America is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrome, wind energy development, and persecution. Installing bat houses and conserving bat habitat on the homestead supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation|conservation]] for complementary wildlife habitat practices.
 
 ## North American Bat Species
 
@@ -19,7 +19,7 @@ Bats are among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-d
 
 #### Little Brown Bat (Myotis lucifugus)
 - Small (2.5-3.5 inch body, 8-10 inch wingspan)
-- One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them bats in North America; severely impacted by white-nose syndrome
+- One of the most common bats in North America; severely impacted by white-nose syndrome
 - Consumes up to 1,000 mosquito-sized insects per hour
 - Maternity colonies of 50-1,000+ individuals
 - Hibernates in caves and mines; extremely vulnerable to white-nose syndrome
@@ -33,7 +33,7 @@ Bats are among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-d
 
 #### Mexican Free-Tailed Bat (Tadarida brasiliensis)
 - Medium (3-3.5 inch body, 10-12 inch wingspan)
-- Forms the largest bat colonies [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] world (Bracken Cave, TX: 20+ million bats)
+- Forms the largest bat colonies in the world (Bracken Cave, TX: 20+ million bats)
 - Extremely fast flier (up to 60+ mph in level flight)
 - Migratory; summers in southern and central US, winters in Mexico
 - Major agricultural pest controller; consumes corn earworm moths, armyworm moths, and other crop pests
@@ -90,7 +90,7 @@ Proper placement is critical for bat house occupancy:
 
 ### Occupancy Expectations
 - Occupancy may take 6 months to 2 years; patience is essential
-- Only 30-50% of bat houses are occupied; proper [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] placement improve odds significantly
+- Only 30-50% of bat houses are occupied; proper design and placement improve odds significantly
 - Once occupied, colonies may include 20-300 bats depending on house size and species
 - Pre-existing bat colonies in the area increase the likelihood of occupancy
 - Avoid moving occupied bat houses; bats are site-faithful to roost locations
@@ -110,7 +110,7 @@ While bats eat mosquitoes, their impact on mosquito populations is often oversta
 - Mosquitoes make up a relatively small percentage of bat diet (typically 1-3%)
 - Bats prefer larger, more energy-rich insects (moths, beetles, flies)
 - However, bats still consume millions of mosquitoes nightly across a landscape
-- The primary benefit of bats is broader agricultural and forest pest [[cervantes-mealybugs-scale-insect-control]]
+- The primary benefit of bats is broader agricultural and forest pest insect control
 
 ### Target Pest Species
 Bats are particularly effective at controlling:
@@ -120,8 +120,6 @@ Bats are particularly effective at controlling:
 - **Forest defoliators**: Gypsy moth, tent caterpillar, and forest tent caterpillar moths
 - **Mosquitoes**: While not the primary prey, bats still contribute to mosquito population suppression
 
-## See Also
-- [[1960s-counterculture-and-magic-mushrooms]]
 ## White-Nose Syndrome
 
 ### The Disease
@@ -146,3 +144,10 @@ Not all bat species are equally affected:
 - **Moderately susceptible**: Big brown bat, eastern small-footed myotis (mortality 30-70%)
 - **Less susceptible**: Mexican free-tailed bat, silver-haired bat, eastern red bat (migrate rather than hibernate; lower exposure)
 - **Resistant**: Some European bat species coexist with Pd; research into resistance mechanisms ongoing
+
+### What You Can Do
+- Install bat houses to provide alternative summer roosting habitat
+- Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
+## See Also
+
+- [[fungal-species-rarity-assessment-conservation-challenges]]

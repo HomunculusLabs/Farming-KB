@@ -48,20 +48,20 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Stage 4 — Humus Formation (years)**:
 - Resistant material (humus) decomposes very slowly
 - Specialized fungi with oxidative enzyme systems
-- [[mycorrhizal-fungi]] may contribute to humus decomposition (see [[mycorrhizal-types]])
+- Mycorrhizal fungi may contribute to humus decomposition (see [[mycorrhizal-types]])
 
 ### Factors Affecting Litter Decomposition
 
 **Environmental**:
 - Temperature: Q10 of ~2 for decomposition rate (rate doubles per 10°C increase)
 - Moisture: Optimal near field capacity; both drought and waterlogging inhibit
-- [[soil-ph]]: Acidic soils slow decomposition; neutral to slightly acidic optimal
+- Soil pH: Acidic soils slow decomposition; neutral to slightly acidic optimal
 - Oxygen: Anaerobic conditions slow decomposition and shift to bacterial/fermentative processes
 
 **Chemical**:
 - Lignin:N ratio is often the best predictor of decomposition rate
 - Polyphenol content negatively correlated with decomposition
-- [[nutrient-availability]] (especially N and P) affects fungal activity
+- Nutrient availability (especially N and P) affects fungal activity
 
 **Biological**:
 - Fungal species identity matters; different fungi have different enzyme capabilities
@@ -82,11 +82,11 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 - Degradation of both cellulose and lignin
 - Caused by Basidiomycetes (primarily)
 - Wood becomes lighter in color, soft, spongy
-- Enzymes: [[lignin-peroxidase]] (LiP), [[manganese-peroxidase]] (MnP), laccase
+- Enzymes: lignin peroxidase (LiP), manganese peroxidase (MnP), laccase
 - Key genera: *Phanerochaete*, *Trametes*, *Bjerkandera*, *Irpex*, *Pleurotus*, *Piptoporus*
 - Complete decomposition of all wood components is possible
 
-**[[brown-rot]]**:
+**Brown Rot**:
 - Selective removal of cellulose and hemicellulose; lignin modified but not removed
 - Caused by Basidiomycetes (primarily)
 - Wood becomes brown, cracked, cubical, brittle
@@ -106,7 +106,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 ### Succession on Wood
 
 **Fresh wood (0-1 year)**:
-- [[endophytic-fungi]] already present in living wood begin to act as pioneer decomposers
+- Endophytic fungi already present in living wood begin to act as pioneer decomposers
 - Airborne spores colonize exposed surfaces
 - Fast-growing, broad-spectrum decomposers: *Trichoderma*, *Mucor*, *Penicillium*
 - Blue-stain fungi (Ophiostomatales) colonize via bark beetle vectors

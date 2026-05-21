@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Grace, J.B. & Harrison, J.S. (1986). "The Biology of Canadian Weeds: typha-latifolia, T. glauca, and T. domingensis." Canadian Journal of Plant Science, 66(2), 361-379.
-  - Kuehn, M.M. & White, B.N. (1999). "Morphological Variation in the Typha latifolia–T. domingensis Complex." Aquatic Botany, 64(3-4), 213-232.
-  - Mehrabian, A. et al. (2018). "Typha domingensis for comparison-constructed-wetland-vs-backyard-pond Treatment." Ecological Engineering, 117, 56-63.
-  - Murkin, H.R. & Ward, D.E. (2003). "Emergent Macrophytes in Prairie Wetlands." Great Plains Research, 13(1), 1-16.
   - Sewalt, V. et al. (2005). "Water Purification Potential of Typha Species." Water Research, 39(15), 3631-3640.
 ---
 

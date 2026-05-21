@@ -1,4 +1,5 @@
 ---
+
 title: Large-Scale Psilocybin Production — Room Design and Workflow
 created: 2026-04-12
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 
 # Large-Scale Psilocybin Production — Room Design and Workflow
 
-Gottlieb's design for a dedicated 10x15 ft production room for bulk [[psilocybin-mushroom]] cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
+Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
 Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 
@@ -48,7 +49,7 @@ Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 - Ultrasonic humidifier
 - Fluorescent light fixture with timer
 - Thermometer and hygrometer
-- Clean cloth or [[hepa-filter]] for air quality
+- Clean cloth or HEPA filter for air quality
 - Substrate ingredients (rye grain, water, lime)
 
 ## Production Schedule (Gottlieb)
@@ -58,7 +59,7 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 
 **Day 1 — Inoculation**
 - Load sterile substrate jars (rye grain prepared by boiling 45 min, drained, lime added)
-- Inoculate each jar with [[liquid-culture]] or [[spore-syringe]]
+- Inoculate each jar with liquid culture or spore syringe
 - Place jars on shelves in the production room
 - Room temperature: 70-75F
 
@@ -74,8 +75,8 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 - Fully colonized jars appear white with mycelium throughout
 - Reduce temperature slightly if growth seems too fast (lower temp = higher potency)
 
-**Day 8-9 — [[fruiting-initiation]]**
-- Move fully colonized jars to [[fruiting-conditions]]
+**Day 8-9 — Fruiting Initiation**
+- Move fully colonized jars to fruiting conditions
 - Introduce light (12h on/12h off cycle)
 - Increase humidity (80-95% relative humidity)
 - Introduce fresh air exchange
@@ -147,4 +148,3 @@ This allows for harvesting approximately every 3-4 days from a single room.
 - Pressure cooker: ~$20-30
 - Rye grain: ~$0.50/lb
 - Syringes: ~$0.25 each
-- Fluorescent fixture: ~$10

@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Pandey, M.M. et al. (2012). \"Picrorhiza kurroa: a review of its ethnobotany, phytochemistry, and pharmacology.\" Pharmaceutical Biology, 50(8), 945-963."
-  - "Gupta, A.K. et al. (2017). \"Kutkin: the major bioactive constituent of Picrorhiza kurroa.\" Phytochemistry Reviews, 16(5), 891-908."
-  - "Singh, B. et al. (2019). \"Hepatoprotective activity of kutkin from Picrorhiza kurroa: mechanisms and clinical evidence.\" Journal of Ethnopharmacology, 244, 112148."
-  - "IUCN (2023). Picrorhiza kurroa. The IUCN Red List of Threatened Species."
-  - "Chaturvedi, A. & Kumar, P. (2020). \"Picroliv: a potent iridoid glycoside from Picrorhiza kurroa.\" Phytomedicine, 78, 153278."
   - "Dahanukar, S.A. et al. (2000). \"Picrorhiza kurroa (Kutki) — a review.\" Indian Drugs, 37, 213-227."
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Abu-Rabia, A. (2005). "Urinal decoctions of Teucrium polium." Journal of Ethnopharmacology.
-  - Wikipedia contributors (2024). "Teucrium polium." Wikipedia, The Free Encyclopedia.
-  - Novak, J. et al. (2008). "Composition of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of Teucrium species." Chemistry & Biodiversity.
   - Radulović, N. et al. (2007). "Antimicrobial activity of Teucrium polium." Journal of Ethnopharmacology.
 ---
 

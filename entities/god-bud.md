@@ -9,7 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Green, J. (2017). "The green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible." Green Candy Press.
   - Rosenthal, E. (2018). "Beyond Buds: cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains." Wikipedia.
 ---
 

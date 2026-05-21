@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Van Heerden FR et al. (2007). "Hoodia gordonii: A review of the biological and phytochemical profile of an appetite suppressant." Journal of Pharmacy and Pharmacology 59(3).
-  - Bruyns PV (2005). "Stapeliads of Southern Africa and Madagascar." Umdaus Press.
   - Lean MEJ, Noroozi M (2003). "Hoodia gordonii: The science and politics of a southern African plant." Journal of Internal Medicine 254(1).
 ---
 

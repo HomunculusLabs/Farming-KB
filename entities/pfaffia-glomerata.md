@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Neto, C.C. (2005). "Pfaffia glomerata (Spreng.) Pedersen: Botany, Chemistry, Pharmacology." Phytomedicine.
-  - Monteiro, M.R. et al. (2018). "Phytochemical and Pharmacological Properties of Pfaffia glomerata." Brazilian Journal of Pharmacognosy.
-  - Ferreira, J.F.S. et al. (2008). "Brazilian Ginseng: A Review." Journal of Ethnopharmacology.
-  - Matsuzaki, P. et al. (2003). "Immunomodulatory Effects of Pfaffia glomerata Extracts." Immunopharmacology.
-  - Duarte, M.C.T. et al. (2002). "Anti-inflammatory Activity of Pfaffia Species." Journal of Ethnopharmacology.
 created: 2026-04-28
 ---
 

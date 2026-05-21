@@ -5,7 +5,6 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, biology]
 sources:
-  - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 ---
 

@@ -13,12 +13,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stanley, T.H. (2014). "The fentanyl story." Journal of Pain, 15(12), 1215–1226.
-  - Suzan, S. et al. (2022). "Fentanyl and its analogues: a review of pharmacology, toxicology, and forensic detection." Forensic Sciences Research, 7(1), 1–16.
-  - Glare, P.A. et al. (1991). "Clinical pharmacokinetics of fentanyl." Clinical Pharmacokinetics, 21(6), 419–446.
-  - DEA (2023). "National Drug Threat Assessment." U.S. Drug Enforcement Administration.
-  - Jannetto, P.J. et al. (2019). "Fentanyl and fentanyl analogs detected in postmortem cases." Journal of Analytical Toxicology, 43(1), 31–36.
-  - Armenian, P. et al. (2018). "Fentanyl, fentanyl analogs and novel synthetic opioids: a comprehensive review." Neuropharmacology, 134, 121–132.
 created: 2026-05-09
 ---
 

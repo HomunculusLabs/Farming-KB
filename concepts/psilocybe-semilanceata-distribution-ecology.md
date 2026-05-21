@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification"
 type: concept
 ---
 

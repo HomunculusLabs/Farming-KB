@@ -65,18 +65,16 @@ Permaculture seeks first to stabilise and care for land, then to serve household
 - [[permaculture-design]] -- Design methods and processes
 - [[permaculture-principles]] -- Design principles derived from the ethics
 - [[permaculture-patterns-in-nature]] -- Pattern understanding as a design tool
-- [[zone-sector-analysis-guide]] -- Spatial organisation of design
+- [[permaculture-zone-and-sector-analysis]] -- Spatial organisation of design
 - [[permaculture-currency-and-economics]]
+## Current Research
 
-## Practical Applications
+Recent studies on permaculture introduction and ethics have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
+## Practical Considerations
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Practitioners working with permaculture introduction and ethics should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

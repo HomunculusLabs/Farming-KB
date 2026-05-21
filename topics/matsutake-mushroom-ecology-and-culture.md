@@ -14,7 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Matsutake: One Mushroom's Impact on World Peace and Forest Ecology (Anna Lowenhaupt Tsing, 2015)
   - https://www.jstage.jst.go.jp/article/mycosci/52/3/52_ms12003/_article
 ---# Matsutake Mushroom Ecology and Culture
 

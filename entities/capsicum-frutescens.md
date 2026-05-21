@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bosland, P.W. & Votava, E.J. (2012). "Peppers: Vegetable and Spice Capsicums." CABI.
-  - Carrizo García, C. et al. (2016). "Phylogenetic relationships, diversity, and genetic structure of wild and cultivated peppers." Molecular Phylogenetics and Evolution, 99, 104–116.
-  - Andrews, J. (1995). "Peppers: The Domesticated Capsicums." University of Texas Press.
   - Heiser, C.B. & Pickersgill, B. (1969). "The genus Capsicum in Brazil." Rhodora, 71, 104–115.
 ---
 

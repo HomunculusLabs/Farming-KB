@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Truong, P., Van, T.T., & Pinners, E. (2008). Vetiver System Applications: A Technical Reference Manual. The Vetiver Network International."
-  - "National Academies of Sciences, Engineering, and Medicine. (2010). Legume and Grass Cover Crops: Selected Characteristics. The National Academies Press."
-  - "Kelepile, T. (2013). Bamboo as a material for erosion control. Journal of Bamboo and Rattan, 12(1-2), 13-24."
-  - "Grimshaw, R.G., & Helfer, L. (1995). Vetiver Grass for Soil and Water Conservation. World Bank Technical Paper No. 273."
-  - "Soderstrom, T.R., & Calderon, C.E. (1979). A review of the genus Chrysopogon (Gramineae). Smithsonian Contributions to Botany, 44, 1-56."
 type: comparison
 ---
 ## Combined Use

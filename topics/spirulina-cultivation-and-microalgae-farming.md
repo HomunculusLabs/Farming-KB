@@ -4,7 +4,6 @@ tags: spirulina, microalgae, aquaculture, protein, homesteading, permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Habib et al. (2008) "A Review on Culture, Production and Use of Spirulina" J. Applied Phycology
   - Richmond A. (2004) Handbook of Microalgal Culture: Biotechnology and Applied Phycology, Blackwell Science
 ---# Spirulina Cultivation and Microalgae Farming
 

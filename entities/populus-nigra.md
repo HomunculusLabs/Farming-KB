@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dickmann, D.I. & Kuzovkina, J. (2014). "Poplars and Willows of the World." FAO Forestry Paper.
-  - Cagelli, L. & Lefèvre, F. (1995). "The conservation of Populus nigra L. gene resources." In: Report of an EU Workshop.
-  - Raupp, M.J. et al. (2006). "Biology and management of Populus nigra." Journal of Forestry, 104(2), 85-87.
   - Zsuffa, L. et al. (1996). "Populus nigra network." In: Report of the EUFORGEN Network.
 ---
 

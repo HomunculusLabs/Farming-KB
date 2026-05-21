@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Argus, G.W. (2010). "Salix huckleberries-and-wild-berries-of-north-america." American Journal of Botany.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - USDA NRCS (2024). "Plant Profile: Salix discolor." plants.usda.gov.
   - Farrar, J.L. (1995). "Trees of the Northern United States and Canada." Iowa State University Press.
 ---
 

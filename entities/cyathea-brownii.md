@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Large, M.F. & Braggins, J.E. (2004). Tree Ferns. Timber Press.
-  - Green, P.S. (1994). "Flora of Australia," Vol. 49, Oceanic Islands. ABRS/CSIRO.
-  - Korall, P. et al. (2007). "A molecular phylogeny of scaly tree ferns." Systematic Botany 32(3): 515-526.
   - Holttum, R.E. (1964). "The tree ferns of the genus Cyathea in Australasia." Blumea 12: 141-150.
 ---
 

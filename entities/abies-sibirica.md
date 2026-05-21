@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2010). A Handbook of the World's Conifers. Brill.
-  - Korotkov, K.O. et al. (2001). "European Russia." In Forests and Woodlands of Europe. European Forest Institute.
-  - Semerikov, V.L. & Lascoux, M. (2003). "Nuclear and chloroplast DNA variation in Abies sibirica." Molecular Ecology, 12(9), 2387–2397.
-  - Rastitel'nye Resursy SSSR (1988). "Abies sibirica." In Plant Resources of the USSR. Nauka Publishers.
   - Tetenyi, P. (1970). "Infraspecific chemical taxa of medicinal and aromatic plants." In Herbs, Spices, and Medicinal Plants, Vol. 2. Oryx Press.
 ---
 

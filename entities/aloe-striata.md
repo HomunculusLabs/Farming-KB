@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Reynolds GW (1950). "The Aloes of South Africa." Aloes of South Africa Book Fund, Johannesburg.
-  - Van Wyk BE & Smith G (2003). "Guide to the Aloes of South Africa." Briza Publications.
-  - Grace OM et al. (2011). "A revised classification of the succulent genus Aloe." Taxon 60(6): 1585-1594.
   - Carter S et al. (2011). "Aloaceae." In Eggli U (ed.), Illustrated Handbook of Succulent Plants. Springer.
 ---
 

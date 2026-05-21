@@ -6,7 +6,6 @@ tags: [herbal-plants, medicinal-plants, psychoactive, thujone, ethnobotany, Aste
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
   - "raw/papers/medical-botany-heywood.md"
   - "raw/papers/medicinal-plants-of-the-world-vol3.md"
 ---
@@ -78,3 +77,5 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into artemisia absinthium continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind artemisia absinthium provides a foundation for both practical application and continued scientific inquiry.

@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Siebert, S.F. "Living Fences in the Tropics." University of Florida IFAS Extension, 2016.
-  - Mollison, B. "Permaculture: A Designers' Manual." Tagari Publications, 1988.
-  - USDA NRCS "Conservation Hedgerows: Design and Establishment." Agroforestry Notes, 2019.
-  - National Hedgelaying Society (UK). "Hedgelaying: A Practical Guide." 2021.
 type: query
 ---
 

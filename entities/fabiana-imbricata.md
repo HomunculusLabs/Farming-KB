@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hunziker, A.T. (2001). "Genera Solanacearum: The Genera of Solanaceae Illustrated." ARG Gantner Verlag.
-  - Muñoz, M. et al. (2001). "Plantas medicinales de uso en Chile." Editorial Universitaria, Santiago.
-  - Pertino, M.W. et al. (2019). "Phytochemistry and pharmacology of Fabiana imbricata." Journal of Ethnopharmacology 243: 112104.
   - Montes, M. & Wilkomirsky, T. (1987). "Medicina tradicional chilena." Editorial Universitaria.
 ---
 

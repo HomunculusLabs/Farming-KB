@@ -5,7 +5,6 @@ tags: [comparison, organic-farming, sustainable-agriculture, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/john-jeavons-how-to-grow-more-vegetables.md"
 type: comparison
 ---
 

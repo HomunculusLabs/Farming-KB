@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo M. "Morchella deliciosa." MushroomExpert.com, 2024.
-  - Clowez P. "Les Morilles: Une approche scientifique." Federation Mycologique Dauphine-Savoie, 2012.
   - Richard F, et al. "Morchella taxonomy and phylogeny." Fungal Biology Reviews, 2015.
 ---
 

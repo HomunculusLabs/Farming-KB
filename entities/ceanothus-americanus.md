@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Schultz JC (2003). "Ceanothus americanus." In: Fire Effects Information System. USDA Forest Service.
-  - Frye CT (2012). "The Genus Ceanothus (Rhamnaceae) in Cultivation." Arnoldia, 69(4):2-15.
   - Moerman DE (2009). "Native American Medicinal Plants: An Ethnobotanical Dictionary." Timber Press.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Svenson, H.K. 1939. Monographic studies in the genus Scirpus. Rhodora 41(490): 1–108."
-  - "Barkworth, M.E. 1980. The genus Scirpus in the north-central United States. Journal of the Iowa Academy of Science 87(2): 54–62."
-  - "Bertness, M.D. & Ellison, A.M. 1987. Determinants of pattern in a New England salt marsh plant community. Ecological Monographs 57(2): 129–147."
   - "Kadlec, R.H. & Wallace, S. 2008. Treatment Wetlands, 2nd ed. CRC Press, Boca Raton, FL."
 ---
 

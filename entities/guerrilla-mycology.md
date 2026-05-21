@@ -12,7 +12,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stamets, "Mycelium Running" (2005)
-  - Hatakka, "Biodegradation of PAH by white-rot fungi" (2005)
   - Thomas, "Radical Mycology" (2017)
 ---# Guerrilla Mycology
 

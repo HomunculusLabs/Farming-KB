@@ -25,7 +25,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Haslam, S.M. (2010). "A Book of Wetland and Passage." Forrest Text.
   - Chambers, R.M. et al. (1999). "Expansion of Phragmites australis into tidal wetlands hemenway-backyard-wildlife-habitat, and impede water flow.
 ---
 

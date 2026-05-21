@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Singh, N. et al. (2011). Alternative Medicine Review 16(3): 230-41."
-  - "Chandrasekhar, K. et al. (2012). Indian J Psychological Medicine 34(3): 255-62."
   - "Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier."
 ---
 

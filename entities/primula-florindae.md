@@ -11,9 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Balfour, I.B. (1913). "The genus Primula." Journal of the Linnean Society, Botany 42: 511-569.
-  - Hu, C.M., Kelso, S. (1996). "Primulaceae." In: Flora of China, Vol. 15, pp. 99-185.
-  - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
   - www.rhs.org.uk/plants/2696/primula-florindae/details
 ---
 

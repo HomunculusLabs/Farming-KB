@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richens, R.H. (1947). "The classification of the British Primulas." Watsonia, 1(3), 131–152.
-  - Schou, J.C. (1976). "A cytotaxonomic study of the Primula elatior group in Europe." Botanical Journal of the Linnean Society, 72(3), 209–224.
-  - Valentine, D.H. (1948). "Studies in British Primulas II. Hybridisation between Primula elatior and P. veris." New Phytologist, 47(2), 210–219.
-  - Huxley, A. (1992). The New RHS Dictionary of Gardening. Macmillan.
   - Widrlechner, M.P. (1982). "A biosystematic study of the Primula elatior complex in primula-veris*) by its taller stature, larger flowers, and habitat preference.
 ---
 

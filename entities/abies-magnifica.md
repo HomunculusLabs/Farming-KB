@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Griffin, J.R., Critchfield, W.B. (1972). "The Distribution of Forest Trees in California." USDA Forest Service Research Paper PSW-82.
-  - Helms, J.A. (1998). "The Dictionary of Forestry." Society of American Foresters, Bethesda, MD.
-  - Earle, C.J. (2024). "The Gymnosperm Database — Abies magnifica." www.conifers.org.
-  - Sawyer, J.O., Keeler-Wolf, T., Evens, J.M. (2009). "A Manual of California Vegetation." California Native Plant Society, 2nd edition.
   - Barbour, M.G., et al. (2007). "Terrestrial Vegetation of California." University of California Press, 3rd edition.
 ---
 

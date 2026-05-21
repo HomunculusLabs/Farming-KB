@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - Lloyd, F.E. (1942). "The Carnivorous Plants." Chronica Botanica Company.
-  - Jobson, R.W. et al. (2004). "Molecular phylogenetics of Lentibulariaceae." American Journal of Botany 91(10): 1545-1556.
-  - Rice, B.A. (2006). "Growing Carnivorous Plants." Timber Press.
   - Adamec, L. (1997). "Mineral nutrition of aquatic carnivorous plants." Botanical Review 63(3): 274-299.
 ---
 

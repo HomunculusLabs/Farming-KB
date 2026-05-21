@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Weakley, A.S. (2022). "Flora of the Southeastern United States." University of north-carolina-mycodiversity Herbarium.
-  - Radford, A.E. et al. (1968). "Manual of the Vascular Flora of the Carolinas." University of North Carolina Press.
-  - USDA NRCS. "Gaylussacia frondosa Plant Profile." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
 ---
 

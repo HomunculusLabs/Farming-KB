@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bertness, M.D. (1991). "Zonation of Spartina patens and Spartina alterniflora in a New England salt marsh." Ecology, 72(4), 1382-1393.
-  - Pennings, S.C. & Bertness, M.D. (2001). "Salt marsh communities." In Marine Community Ecology, 289-316. Sinauer Associates.
-  - Silliman, B.R. & Bertness, M.D. (2004). "Shore crab facilitation of mussel recruitment." Ecology, 85(8), 2245-2256.
-  - Mitsch, W.J. & Gosselink, J.G. (2015). Wetlands, 5th Edition. John Wiley & Sons.
   - Vasey, M.C. et al. (2004). "Integration of morphology, molecular data, and psilocybin-north-america-pacific-northwest.
 ---
 

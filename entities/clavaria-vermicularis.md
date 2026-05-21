@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - D. M. Webster (1992). "Clavaria and Clavulinopsis species from Scotland." Mycotaxon, 44, 157–178.
-  - R. G. Shaffer (1968). "A key to the Clavariaceae of the psilocybin-north-america-pacific-northwest." Journal of the Washington Academy of Sciences, 58(4), 157–165.
-  - E. J. H. Corner (1950). *A Monograph of Clavaria and Allied Genera.* Oxford University Press.
-  - D. N. Pegler et al. (1996). "British Club and Coral Fungi." Royal Botanic Gardens, Kew.
   - D. Arora (1986). *Mushrooms Demystified* (2nd ed.). Ten Speed Press.---
 ---
 

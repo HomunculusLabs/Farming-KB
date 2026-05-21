@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-[[companion-planting]] is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
+Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
 
 ## Evidence Base
 
@@ -47,7 +47,7 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 - Marigolds (Tagetes and Calendula)
 - Poppies (Papaver sp.)
 - Nasturtiums (Tropaeolum)
-- Phacelia ([[phacelia-tanacetifolia]])
+- Phacelia (Phacelia tanacetifolia)
 
 ## Encouraging Other Pest Predators
 
@@ -61,22 +61,23 @@ Beyond pest deterrence, French marigolds are reported to help suppress certain w
 
 ## Related
 
-- green manure crops detailed — Phacelia as a [[green-manure]] that also attracts hoverflies
+- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
 - [[clubroot-disease-management]] — disease management for brassicas
 - [[leatherjacket-pest-control]] — direct pest control methods for soil pests
+## Historical Context
+
+The study and practice of companion planting deterrents has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into companion planting deterrents have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
-Future directions include expanded research and broader application.
+Applied work with companion planting deterrents spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kew Royal Botanic Gardens. "Gentiana gelida." Plants of the World Online.
-  - Ho, T.N. & Liu, S.W. (1990). "Gentianaceae in Flora Reipublicae Popularis Sinicae." Science Press, Beijing.
   - Yuan, Y.M. et al. (1996). "Phylogeny and Biogeography of Gentiana." Plant Systematics and Evolution.
 ---
 

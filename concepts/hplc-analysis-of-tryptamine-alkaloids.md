@@ -5,7 +5,6 @@ tags: [HPLC, analytical-chemistry, psilocybin, psilocin, tryptamines, quantifica
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin-and-psilocin-chemical-synthesis Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
 ---
 

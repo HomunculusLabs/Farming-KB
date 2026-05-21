@@ -11,9 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Terra Preta: Exploring the Mystery of Amazonian Dark Earths — Glaser & Woods"
   - "Sepp Holzer's Permaculture — Sepp Holzer"
-  - "Biochar for Environmental Management — Lehmann & Joseph"
   - "The Permaculture Handbook — Peter Bane"
   - "USDA NRCS Soil Health Technical Notes"
 ---

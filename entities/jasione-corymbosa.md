@@ -9,8 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1981). "Campanulaceae." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Tutin T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Greuter W., Burdet H.M., Long G. (1984). "Med-Checklist, Vol. 1." Conservatoire et Jardin botaniques.
 ---
 

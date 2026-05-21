@@ -10,7 +10,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Lammers, T.G. (2007). "Campanulaceae." In Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 19. Oxford University Press.
   - Shetler, S.G. & Morin, N.R. (1986). "Seed morphology in polypore-fungi-eastern-north-america. It is among the tallest members of the genus Campanula, routinely reaching 1.2–2.0 m in height under favorable conditions.
 ---
 

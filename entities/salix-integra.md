@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." University of Michigan Press.
-  - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford.
   - Fang, S. et al. (2017). "Phytoremediation guzman-psilocybin-mushrooms-north-america." Journal of Environmental Horticulture, 23(1), 15–21.
 ---
 

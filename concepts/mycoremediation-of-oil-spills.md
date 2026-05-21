@@ -55,21 +55,21 @@ The most widely studied species for petroleum remediation:
 - Tolerates varying temperature and pH ranges
 
 ### Phanerochaete chrysosporium
-- Model organism for [[lignin-degradation]] research
-- Produces all three major [[singh-ligninolytic-enzymes-fungal-bioremediation]]
+- Model organism for lignin degradation research
+- Produces all three major ligninolytic enzymes
 - Effective against both aliphatic and aromatic hydrocarbons
 - Used extensively in laboratory studies; less common in field applications
 
 ### Other Effective Species
-- **[[bjerkandera-adusta]]**: High [[manganese-peroxidase]] activity
-- **[[ganoderma-lucidum]]** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
+- **Bjerkandera adusta**: High manganese peroxidase activity
+- **Ganoderma lucidum** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
 - **Lentinula edodes** (shiitake): Effective against lighter petroleum fractions
 
 ## Field Applications
 
 ### Paul Stamets' Oil Spill Trials
 Pioneering field demonstrations by mycologist Paul Stamets:
-- 2007: [[oyster-mushroom]] mycelium placed on diesel-contaminated soil in Washington state
+- 2007: Oyster mushroom mycelium placed on diesel-contaminated soil in Washington state
 - Mycelial mats absorbed oil and produced fruiting bodies within weeks
 - Bacterial communities shifted to hydrocarbon-degrading species in the mycosphere
 - Insects attracted to fruiting bodies accelerated breakdown through soil aeration

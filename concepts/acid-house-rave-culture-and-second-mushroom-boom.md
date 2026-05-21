@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 ---# Acid House, Rave Culture, and the Second Magic Mushroom Boom
 

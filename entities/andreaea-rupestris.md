@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H.A. & Anderson, L.E. (1981). "Mosses of polypore-fungi-eastern-north-america." Columbia University Press.
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
   - Hedenäs, L. (2003). "The European species of the Andreaeaceae." Journal of Bryology, 25(3), 207–224.
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: Albert Hofmann
 created: 2026-04-11
 updated: 2026-04-12
@@ -75,12 +76,5 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 
 - [[lsd-reference]]
 - [[lsd-synthesis-history]]
-
-These developments continue to influence modern research and practice in this field.
-
-Albert Hofmann represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[albert-hofmann-eleusinian-potion-analysis]]
-- [[albert-hofmann-early-career-ergot-research-sandoz]]
-- [[wasson-hofmann-schultes-research-network]]
+Further research into albert hofmann continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind albert hofmann provides a foundation for both practical application and continued scientific inquiry.

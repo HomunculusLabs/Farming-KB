@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - FNA Editorial Committee. (2007). "Flora of psilocybin-north-america-pacific-northwest, Vol. 24." Oxford University Press.
-  - Darke, R. (2007). "The Encyclopedia of Grasses for Livelier Landscapes." Timber Press.
-  - Soreng, R.J. et al. (2003). "Catalogue of New World Grasses." Smithsonian Institution.
   - DiTomaso, J.M. & Healy, E.A. (2007). "Weeds of California." UC Press.
 ---
 

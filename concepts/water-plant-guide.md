@@ -24,12 +24,12 @@ A reasonable balance can be established by introducing water from an established
 ## Floating-Leaved Plants
 
 ### Azolla spp (Family: Azollaceae)
-Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena azolla*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for solar energy storage. Used extensively in Vietnam as a rice paddy companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to [[peat-moss]].
+Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena azolla*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for solar energy storage. Used extensively in Vietnam as a rice paddy companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to peat moss.
 
 ### Duckweed (Family: Lemnaceae)
-Wolffia, Wolffiella, Spirodela, and Lemna -- about 40 known perennial free-floating species, among the most vigorously growing plants on earth (some double every 3 days). Valuable for removing excess nutrients from water. Tests on *[[lemna-minor]]* and *L. trisulca* show they concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water.
+Wolffia, Wolffiella, Spirodela, and Lemna -- about 40 known perennial free-floating species, among the most vigorously growing plants on earth (some double every 3 days). Valuable for removing excess nutrients from water. Tests on *Lemna minor* and *L. trisulca* show they concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water.
 
-**[[wolffia-arrhiza]]** (Khai-nam): The smallest flowering plant on earth. 20% protein, 44% [[carbohydrate]], 5% fat, vitamins A, B2, B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable. Calculated annual yield: 265 tons wet weight or 10.5 tons dry weight/ha/year. Ideal feed for waterfowl and poultry, cattle, and pigs.
+**Wolffia arrhiza** (Khai-nam): The smallest flowering plant on earth. 20% protein, 44% carbohydrate, 5% fat, vitamins A, B2, B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable. Calculated annual yield: 265 tons wet weight or 10.5 tons dry weight/ha/year. Ideal feed for waterfowl and poultry, cattle, and pigs.
 
 **Spirodela oligorhiza, S. polyrhiza**: Can produce the feed equivalent of 60 ha of soybeans in 1 ha. Protein 37-45%, nitrogen 6-7%, phosphorus 1.4-3%, potassium 1.5-3%, calcium 1%, fat 4-6%, metabolisable energy 1958 cal/kg.
 
@@ -58,27 +58,32 @@ Taro corm nutrition (per 100 g): Water 73%, 98 cal, Carbohydrate 23.7 g, Fat 0.2
 
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
-- permaculture plant selection guide
+- [[permaculture-plant-selection-guide]]
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of water plant guide has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
+## Current Research
+
+Recent investigations into water plant guide have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with water plant guide spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of water plant guide.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into water plant guide continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

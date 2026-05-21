@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Powers, R.F. & Oliver, W.W. (1990). "Ecology and silviculture of Calocedrus decurrens." USDA Forest Service General Technical Report PSW-123.
-  - Minore, D. (1979). "Comparative autecological characteristics of northwestern tree species." USDA Forest Service General Technical Report PNW-87.
   - McDonald, P.M. (1992). "Regeneration and early development of incense-cedar." USDA Forest Service Research Paper PSW-210.
 ---
 

@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mabberley, D.J. (1997). "A classification for edible Citrus (Rutaceae)." Telopea, 7(2), 167–172.
-  - Mahmood, A.A. et al. (2009). "Antiulcerogenic activity of Citrus aurantifolia." Journal of Ethnopharmacology, 126(1), 46–50.
   - Bocco, A. et al. (1998). "Antioxidant activity and bionutrients-lab-fermented-fruit-juice-ffj.
 ---
 

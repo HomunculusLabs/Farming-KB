@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th edition, Koeltz Scientific Books.
-  - Pegler, D.N. (1986). "Agaric Flora of the Lesser Antilles." Kew Bulletin Additional Series, 12.
-  - Watling, R. (1979). "Cortinarius and other Fungi from the Scottish Highlands." Transactions of the Botanical Society of Edinburgh, 43, 231-246.
-  - Petersen, R.H. (1996). "Oudemansiella Canarii and Related Taxa." Mycologia, 88(5), 746-758.
   - Halling, R.E. (1983). "Oudemansiella in the Americas." Mycotaxon, 17, 513-534.
 ---
 

@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Orwa, C., Mutua, A., Kindt, R. et al. (2009). \"Agroforestree Database: A Tree Species Reference and Selection Guide.\" World Agroforestry Centre (ICRAF)."
-  - "Puri, S. (1998). \"Seedling Growth and Biomass Distribution in Dalbergia sissoo Roxb.\" Forest Ecology and Management, 108(3), 263-270."
-  - "Kumar, A. et al. (2010). \"Dalbergia sissoo: A Multipurpose Tree Species.\" Indian Journal of Agroforestry, 12(1), 1-18."
-  - "Tewari, D.N. (1995). A Monograph on Dalbergia sissoo Roxb. International Book Distributors."
   - "Garrity, D.P. (2004). \"Agroforestry and the Achievement of the Millennium Development Goals.\" Agroforestry Systems, 61(1-3), 5-17."
 ---
 

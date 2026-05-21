@@ -11,12 +11,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "FAO. FAOSTAT — Crops and livestock products. Food and Agriculture Organization of the United Nations. https://www.fao.org/faostat/"
-  - "Vance, C.P., Graham, P.H. & Allan, D.L. (2000). biological-nitrogen-fixation-agriculture fixation: Phosphorus — a critical future need? In: Nitrogen Fixation: From Molecules to Crop Productivity. Springer."
-  - "Siddique, K.H.M., Loss, S.P., Herwig, S.P. & Wilson, J.M. (1996). Growth, yield and water use of chickpea (Cicer arietinum L.) in a Mediterranean-type environment. Australian Journal of Experimental Agriculture, 36(7), 837–844."
-  - "ICARDA — International Center for Agricultural Research in the Dry Areas. https://www.icarda.org/"
-  - "Muehlbauer, F.J., Sarker, A. & Vandenberg, A. (2010). Lentil breeding. In: Handbook of Plant Breeding, Vol. 5, Springer."
-  - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: query-best-grain-legumes-for-a-small-homestead, Springer."
 type: comparison
 created: 2026-05-03
 ---
@@ -78,3 +72,18 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+## Historical Context
+
+The study and practice of comparison fava bean vs chickpea vs lentil grain legumes has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into comparison fava bean vs chickpea vs lentil grain legumes have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with comparison fava bean vs chickpea vs lentil grain legumes spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

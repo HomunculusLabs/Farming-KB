@@ -140,11 +140,15 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - Bacteria then mineralize these fungal metabolites to CO2
 - Co-cultures of P. chrysosporium with Pseudomonas showed enhanced mineralization rates
 - Fungal mycelium also provides surface area for bacterial biofilm formation
+
+## Factors Affecting PAH Degradation
+
+- **Molecular weight**: Lower MW PAHs (2-3 rings) degrade faster than higher MW (4-5 rings)
+- **Bioavailability**: PAHs adsorb to soil organic matter; bioavailability decreases with aging
+- **Nutrient limitation**: White-rot fungi produce ligninolytic enzymes under nitrogen limitation (C:N ratio > 40)
+- **Oxygen**: Aerobic conditions required; ligninolytic enzymes need H2O2
+- **Surfactants**: Addition of surfactants (Tween 80) can increase PAH bioavailability
 ## See Also
 
-- [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
-- [[mycoremediation-of-oil-spills]] — Related petroleum contamination cleanup
-- [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
-- [[mycoremediation-pcbs-and-dioxins]] — PCB and dioxin degradation
-- [[mycorestoration]] — Broader ecological restoration framework
-- [[harbhajan-singh]] — Comprehensive mycoremediation reference
+- [[mycoremediation-education-projects]]
+- [[mycoremediation-explosive-contaminants]]

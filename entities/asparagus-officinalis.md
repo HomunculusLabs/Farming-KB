@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benson, E.T. (2002). "Asparagus: The Genus Asparagus." Taylor & Francis, London.
-  - Nichols, M.A. (2005). "Asparagus Research." Acta Horticulturae 701: 1-15.
-  - U.S. Department of Agriculture (2012). "USDA National Nutrient Database: Asparagus, raw." SR-26.
-  - Takahashi, K. et al. (1987). "Saponins from Asparagus officinalis." Chemical & Pharmaceutical Bulletin 35(10): 4239-4242.
   - Quandt, L.E. et al. (2015). "Development of an All-Male Asparagus Cultivar." HortScience 50(9): 1318-1321.
 ---
 

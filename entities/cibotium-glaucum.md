@@ -12,9 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Palmer DD (2003). "Hawaii's Ferns and Fern Allies." University of Hawaii Press.
-  - Large MF, Braggins JE (2004). "Tree Ferns." Timber Press.
-  - Wagner WL, Herbst DR, Sohmer SH (1999). "Manual of the Flowering Plants of Hawaii." University of Hawaii Press.
   - IUCN Red List (2024). "Cibotium glaucum." IUCN.
   - Medeiros AC, Loope LL, Holt RA (1992). "Haleakala National Park and the Hawaiian Islands." University of Hawaii Press.
 ---

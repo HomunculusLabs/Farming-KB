@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (1990). "Gentians of the Himalaya." Alpine Garden Society.
-  - Kohlein, F. (1991). "Gentians." Timber Press, Portland.
-  - Magrath, L.K. & N.S. Lander (2022). "Gentiana." Flora of China, Vol. 16: 7-27.
   - Royal Horticultural Society (2023). "Gentiana sino-ornata — Award of Garden Merit." RHS Plant Finder.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bándyopadhyay, R. et al. (2019). "Cultivation of Pleurotus flabellatus on agricultural wastes." Bioresource Technology Reports.
-  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities: mollison-designers-appropriate-technology-small-scale-tools for Mushroom Growers. TOOL Publications.
-  - Stamets, P. (1993). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press.
-  - Zadrazil, F. & Kurtzman, R.H. (1982). "The biology of Pleurotus cultivation in the tropics." In Tropical Mushrooms.
   - Chang, S.T. & Hayes, W.A. (1978). The agricultural-waste-substrates and its reliable fruiting in warm, humid conditions.
 ---
 

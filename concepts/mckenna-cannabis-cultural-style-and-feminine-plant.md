@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, T. (1992). "Food of the Gods." Bantam Books.
-  - Eisler, R. (1987). "The Chalice and the Blade." Harper & Row.
   - Rubin, V. (1975). "Cannabis and Culture." Mouton.
 type: concept
 ---

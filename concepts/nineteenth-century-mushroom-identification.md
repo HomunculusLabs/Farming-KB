@@ -72,15 +72,10 @@ For new species: "I broil it with the addition of salt and butter (no pepper) an
 
 Palmer identified the Amanita family as the source of all fatal mushroom poisonings. Three diagnostic marks: (1) white wrapper/volva at stem base, (2) ring/veil around stem, (3) scurfy warts on sticky cap. "The three marks — wrapper, ring, and scurfy top — must exist together." Colors variable: white, drab, golden, red, or greenish. Most common variety has yellow center fading to white.
 
-See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria]]
+See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria-guide]]
 
 ## Related
 
 - [[mushroom-toxicology-palmer-theory]]
-
-Nineteenth Century Mushroom Identification represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[nineteenth-century-mushroom-cultivation]]
-- [[nineteenth-century-mushroom-cellars]]
-- [[toadstool-eating-mushroom-identification-history]]
+Further research into nineteenth century mushroom identification continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind nineteenth century mushroom identification provides a foundation for both practical application and continued scientific inquiry.

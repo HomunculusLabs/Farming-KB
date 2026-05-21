@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press."
-  - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current cytochrome-p450-enzymes-drug-metabolism, 11(5), 459-479."
-  - "Hertzog, R.I. et al. (2021). \"Pharmacology of turner-harmala-alkaloids-preparation-and-dosage.\" Pharmacology & Therapeutics, 225, 107859."
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
 
@@ -80,3 +77,5 @@ and oneiric states.
 ### Ion Channel Modulation
 
 - **GABA_A receptors:** β-Carbolines bind at the benzodiazepine site with
+Further research into beta carboline continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind beta carboline provides a foundation for both practical application and continued scientific inquiry.

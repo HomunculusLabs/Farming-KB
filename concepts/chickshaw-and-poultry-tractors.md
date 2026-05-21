@@ -9,14 +9,14 @@ sources: []
 
 # Chickshaw and Poultry Tractors
 
-A poultry tractor (or chicken tractor) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
+A poultry tractor (or chicken tractor) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
 
 ## Benefits of Mobile Poultry Housing
 
 -  **Fresh forage daily** — Chickens access fresh grass, clover, insects, and seeds, reducing feed costs by 10-30%
 -  **Fertilization** — Manure is distributed evenly across the pasture rather than concentrating in one area
 -  **Pasture improvement** — Chickens scratch and disturb the soil surface, incorporating manure and reducing thatch. Followed by a rest period, the area recovers with improved fertility
--  **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] pasture
+-  **Pest control** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests in the pasture
 -  **Reduced disease** — Fresh ground reduces parasite load and disease transmission compared to fixed runs
 -  **No litter management** — No deep bedding to muck out; manure goes directly onto pasture
 
@@ -30,7 +30,7 @@ The chickshaw concept (popularized by Harvey Ussery and Justin Rhodes) is a ligh
 -  **Wheels** — Two bicycle wheels, wheelbarrow wheels, or pneumatic cart wheels on one end. A skid plate or smaller wheels on the other end for steering. Wheel diameter of 20-26 inches works well for rough terrain.
 -  **Towing** — A rope, chain, or handle attaches to the front for pulling by hand, ATV, or garden tractor.
 -  **Floor** — Open bottom (no floor). Chickens have direct contact with the ground. Optional wire mesh floor for predator protection in areas with digging predators.
--  **Roosting area** — Elevated roosts at the back [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] coop. Provide 20-25 cm of roost space per bird.
+-  **Roosting area** — Elevated roosts at the back of the coop. Provide 20-25 cm of roost space per bird.
 -  **Nest boxes** — One nest box per 4-5 hens. Accessible from outside the coop for easy egg collection.
 -  **Shelter** — Plywood or metal roofing on the top 2/3 of the coop. The front 1/3 can be open with hardware cloth for ventilation.
 -  **Size** — A typical chickshaw houses 8-15 birds. Provide 0.1-0.15 sq m (1.5-2 sq ft) of indoor floor space per bird.
@@ -56,7 +56,7 @@ The classic design — a triangular A-frame structure that is lightweight and ea
 
 ### Hoop House Tractor
 
-A arched frame covered with wire mesh [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] tarp or greenhouse plastic cover.
+A arched frame covered with wire mesh and a tarp or greenhouse plastic cover.
 
 -  **Pros**: Good headroom, excellent light, can add cold-weather cover, spacious
 -  **Cons**: Heavier than A-frame, more expensive materials, wind can catch the tarp
@@ -84,7 +84,7 @@ The key to success with poultry tractors is regular, systematic movement.
 
 - Rest each paddock for at least 30 days before chickens return
 - 60-90 days of rest is ideal for full pasture recovery
-- Rotate with other livestock (cattle, sheep) — chickens follow grazers and break up manure patties while consuming [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
+- Rotate with other livestock (cattle, sheep) — chickens follow grazers and break up manure patties while consuming fly larvae
 - A simple rotation through 30+ paddocks allows continuous daily moves with adequate rest
 
 ### Stocking Density
@@ -113,7 +113,7 @@ Mobile coops are more vulnerable to predators than fixed coops with concrete flo
 
 Hens in well-managed mobile systems produce 200-280 eggs per year per bird, comparable to fixed-coop systems. Factors affecting production:
 
-- Consistent access to feed [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- Consistent access to feed and water
 - Protection from weather extremes
 - 14-16 hours of light per day (supplement with solar-powered lights in winter)
 - Low stress (minimal predator pressure, adequate space)

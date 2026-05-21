@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1972). "Gentianaceae." In: Flora Europaea, Vol. 3. Cambridge University Press.
-  - Körner, C. (2003). "Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems." Springer.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Aeschimann, D. et al. (2004). "Flora Alpina." Haupt Verlag.
   - Fischer, M.A. et al. (2008). "Exkursionsflora für Österreich, Liechtenstein und Südtirol." Land Oberösterreich.
 ---
 

@@ -16,7 +16,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Paul Stamets - Mycelium Running (2005)
-  - Journal of Hazardous Materials - Mycoremediation review articles
   - Battelle Memorial Institute - Oil spill remediation studies
 ---
 

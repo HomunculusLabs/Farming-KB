@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[ashwagandha]], also known as ashwagandha, winter cherry, or Indian ginseng,
+Ashwagandha, also known as ashwagandha, winter cherry, or Indian ginseng,
 is one of the most important herbs in Ayurvedic medicine. The name
 "Ashwagandha" comes from Sanskrit, meaning "smell of a horse," referring
 to both the distinctive odor of the fresh root and the traditional belief
@@ -21,8 +21,8 @@ shrub increasingly cultivated in temperate regions as a summer annual.
 
 ## Botanical Profile
 
-- Scientific name: [[withania-somnifera]]
-- Family: [[solanaceae]] (nightshade family)
+- Scientific name: Withania somnifera
+- Family: Solanaceae (nightshade family)
 - Hardiness: USDA zones 8-11 (grown as annual in cooler zones)
 - Lifecycle: Tender perennial, grown as annual in most climates
 - Height: 2-3 feet, spreading 2-3 feet
@@ -111,7 +111,7 @@ is the standard method.
 - Plant at the same depth as in the seedling container
 - Water well after planting; keep moist until established
 - Mulch with sand or gravel to reflect heat and maintain dry soil conditions
-  (ashwagandha does not want [[organic-mulch]] against its stem)
+  (ashwagandha does not want organic mulch against its stem)
 
 ### Care and Maintenance
 - Water to establish, then reduce irrigation; ashwagandha prefers to dry
@@ -138,13 +138,18 @@ Harvesting method:
    from the crown
 3. Work under the root mass with a digging fork
 4. Lift the entire taproot carefully; the root can extend 2+ feet deep
+5. Avoid breaking the root; handle gently
+6. Shake off loose soil; do not wash until ready to process
+
+## Processing and Storage
+
+- Wash roots thoroughly, removing all soil
+- Cut larger roots into 1/4-1/2 inch pieces for faster drying
+- Dry on screens at 95-105 degrees F with good air circulation
+- Roots are fully dry when they snap with no flexible center (5-14 days
+  depending on thickness)
 ## See Also
 
-- [[turmeric-growing-guide]] -- another subtropical medicinal root crop with
-  complementary adaptogenic and anti-inflammatory properties
-- [[holy-basil-tulsi-guide]] -- fellow Ayurvedic adaptogen; pair with
-  ashwagandha for comprehensive stress support
-
-## Related
-
-- [[gotu-kola-growing-guide]]
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[comparison-stinging-nettle-vs-ashwagandha]]
+- [[comparison-ginseng-vs-ashwagandha]]

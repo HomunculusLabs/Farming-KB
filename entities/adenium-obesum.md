@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rowley GD (1983). "Adenium: The flower of the desert." Cactus and Succulent Journal of Great Britain.
-  - Plowe JO (1933). "Anatomical studies in the Apocynaceae I: The vegetative anatomy of Adenium obesum." Botanical Gazette.
   - Dimmit MS et al. (2013). "The Remarkable Adenium." Cactus and Succulent Journal 85(5).
 ---
 

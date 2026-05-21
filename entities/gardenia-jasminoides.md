@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Peng, C.-I. & Yang, Y.-P. (1998). "Gardenia jasminoides Ellis (Rubiaceae)." Flora of Taiwan, 4, 260.
-  - Kew Royal Botanic Gardens. "Gardenia jasminoides J. Ellis." Plants of the World Online.
   - Zheng, Q. et al. (2013). "chemical-studies-neurotropic-fungi-reliability-and-challenges on the Chinese crude drug 'Zhi-zi'." Chemical & Pharmaceutical Bulletin, 29(10), 2881-2886.
 ---
 

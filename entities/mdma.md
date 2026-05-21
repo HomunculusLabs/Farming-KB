@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
-  - Nichols, D.E. (1986). "Differences between the mechanism of action of MDMA, MBDB, and the classic hallucinogens." Journal of Psychoactive Drugs, 18(4), 305-313.
-  - Green, A.R. et al. (2003). "MDMA, ecstasy and related drugs: a review of their pharmacology." Pharmacology & Therapeutics, 98(2), 147-161.
   - Parrott, A.C. (2001). "Human psychopharmacology of ecstasy (MDMA)." Pharmacology & Biochemistry of Behavior, 61(2), 143-156.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith AH, Thiers HD (1964). A Contribution to a Monograph of growing-gourmet-north-american-reishi-species Species of Suillus. University of Michigan.
-  - Kuo M (2024). "Suillus tomentosus." MushroomExpert.com.
-  - Nguyen NH, Bruns TD, Kennedy PG (2016). "Not all fungi are equal in the nitrogen economy of ectomycorrhizal symbiosis." New Phytologist 209(3): 1085–1096.
   - Binder M, Hibbett DS (2006). "Molecular systematics and biological diversification of Boletales." Mycologia 98(6): 971–981.
 ---
 

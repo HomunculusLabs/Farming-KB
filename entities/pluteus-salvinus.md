@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Singer, R. & Smith, A.H. (1958). \"Mycological investigations on Teonanacatl.\" Mycologia, 50(2), 239-261."
-  - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. J. Cramer."
-  - "Allen, J.W. & Merlin, M.D. (1992). \" in 1958 from
 collections in Guatemala, associated with investigations into the
 traditional use of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 of its psilocybin content.

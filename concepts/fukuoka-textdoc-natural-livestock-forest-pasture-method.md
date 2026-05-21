@@ -3,7 +3,6 @@ title: "Fukuoka Textdoc Natural Livestock Forest Pasture Method"
 type: concept
 tags: []
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

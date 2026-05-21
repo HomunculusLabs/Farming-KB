@@ -5,7 +5,6 @@ tags: [comparison, propagation, seeds, growing-techniques]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 ## Seed Starting vs Direct Seeding
@@ -78,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into comparison seed starting vs direct seeding continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison seed starting vs direct seeding provides a foundation for both practical application and continued scientific inquiry.

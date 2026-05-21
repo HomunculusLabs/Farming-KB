@@ -9,11 +9,11 @@ sources: []
 
 # Cob Building Basics Detailed
 
-Cob is a [[natural-building]] material made from subsoil, sand, straw, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 
 ## What Is Cob
 
-Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or [[rammed-earth]] (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
+Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or rammed earth (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
 
 ## Cob Mix Ratio
 
@@ -22,13 +22,13 @@ The ideal cob mix contains approximately:
 - Subsoil: 50-75% (must contain 15-30% clay)
 - Sand: 25-50%
 - Straw: handfuls per batch (roughly 5-10% by volume)
-- Water: enough [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]-how-to-make-a-diy-still-air-box-for-mushroom-cultivation workable, stiff mix
+- Water: enough to make a workable, stiff mix
 
 ### Testing Your Soil
 
 **Jar Test:**
 1. Fill a clear jar 1/3 full with your subsoil
-2. Fill the rest with water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] drop of dish soap
+2. Fill the rest with water and a drop of dish soap
 3. Shake vigorously and let settle for 24-48 hours
 4. Sand settles in seconds, silt in minutes, clay in hours/days
 5. Ideal soil has visible layers of all three
@@ -52,7 +52,7 @@ The ideal cob mix contains approximately:
 
 1. Spread a tarp on flat ground
 2. Spread a layer of sand (2-3 buckets)
-3. Spread a layer of [[clay-soil]] (2-3 buckets) on top
+3. Spread a layer of clay soil (2-3 buckets) on top
 4. Fold tarp edges over and stomp with bare feet
 5. Add water gradually while stomping
 6. When ingredients are combined, spread flat
@@ -97,10 +97,10 @@ Cob walls must be elevated above ground on a stone or concrete foundation:
 ### Bonding Between Lifts
 
 When starting a new lift on a partially dried previous lift:
-1. Wet the surface [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] previous lift (not soaked, just dampened)
+1. Wet the surface of the previous lift (not soaked, just dampened)
 2. Score horizontal grooves with a stick or cob tool
 3. Press fresh cob firmly into the scored, dampened surface
-4. Poor bonding between lifts [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them cause of structural failure
+4. Poor bonding between lifts is the most common cause of structural failure
 
 ### Window and Door Openings
 
@@ -148,3 +148,8 @@ Cob is vulnerable to water damage. Protect your walls:
 - Splashback from roof drips is a major problem — use gravel, pavers, or a concrete apron
 
 ### Wall Finish
+## See Also
+
+- [[natural-pool-building]]
+- [[comparison-bamboo-construction-vs-cob-building]]
+- [[building-with-natural-materials]]

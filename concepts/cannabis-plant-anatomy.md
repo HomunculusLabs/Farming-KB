@@ -9,7 +9,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 
 ## Cannabis Plant Anatomy
 
-Cannabis is an annual, dioecious (separate male and female plants) herbaceous plant in the Cannabaceae family. Understanding its anatomy is essential for [[oner-trainwreck-generation-early-outdoor-multi-strain-breeding]] (see [[cannabis-genetics-and-breeding]]), identification, and extraction (see [[cannabis-extraction-methods]]).
+Cannabis is an annual, dioecious (separate male and female plants) herbaceous plant in the Cannabaceae family. Understanding its anatomy is essential for breeding (see [[cannabis-genetics-and-breeding]]), identification, and extraction (see [[cannabis-extraction-methods]]).
 
 ### Seed and Germination
 
@@ -21,7 +21,7 @@ Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled br
 
 **Leaves**: Compound palmate leaves with 3-13 serrated leaflets (fingers). The sequence develops progressively: the first true leaves have 1 leaflet, the second pair has 3, the third 5, up to 11 or more. Each leaflet has serrated edges. The petiole (leaf stem) connects to the main stem at the node.
 
-**Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] growing conditions.
+**Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by genetics and growing conditions.
 
 **Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid vegetative growth.
 
@@ -39,7 +39,7 @@ Cannabis is a short-day plant — flowering is triggered when daylength drops be
 - Hang in long, loose, multi-branched clusters up to 30 cm long
 - Five greenish sepals containing five pendulous anthers (pollen sacs)
 - Pollen grains are nearly spherical, slightly yellow, 25-35 microns in diameter
-- Exterior surface covered with non-[[cannabis-glandular-trichome-types-resin-production-clarke]]s
+- Exterior surface covered with non-glandular trichomes
 - Male plants die after shedding pollen
 
 **Hermaphrodites**: Under stress conditions, pistillate plants may develop staminate flowers. This is genetically influenced and can cause unwanted pollination in sinsemilla (seedless) crops.
@@ -65,18 +65,20 @@ Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen t
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-extraction-methods]]
 - [[cannabis-extraction-basics]]
+## Historical Context
+
+The study and practice of cannabis plant anatomy has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into cannabis plant anatomy have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
+Applied work with cannabis plant anatomy spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

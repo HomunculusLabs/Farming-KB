@@ -5,7 +5,6 @@ updated: 2026-04-28
 type: concept
 tags: [ayahuasca, legal, religion, dmt, sacramental-use, psychedelics]
 sources:
-  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
   - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
 ---
 

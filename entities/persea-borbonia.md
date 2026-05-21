@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Little EL Jr (1979). "Silvics of psilocybin-north-america-pacific-northwest, Vol. 1: Conifers." USDA Forest Service.
-  - Fraedrich SW, Harrington TC, Rabaglia RJ et al. (2008). "Laurel wilt caused by Raffaelea lauricola." Plant Disease 92(2): 215-229.
-  - Wunderlin RP, Hansen BF (2008). "Atlas of Florida Vascular Plants." Institute of Systematic Botany.
   - Kubitzki K, Rohwer JG, Bittrich V (1993). "The Families and Genera of Vascular Plants, Vol. 2." Springer.
 ---
 

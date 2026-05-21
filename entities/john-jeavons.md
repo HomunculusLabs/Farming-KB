@@ -139,5 +139,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[allegro-john-baptist-red-topped-mushroom-herodias]]
 - [[john-ramsbottom]]
 - [[john-raper-achlya-ambisexualis-pheromone-biology]]
-- [[john-w-allen]]
+- [[john-allen]]
 - [[sajeev-john]]

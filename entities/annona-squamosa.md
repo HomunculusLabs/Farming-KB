@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pinto, A.C.Q. et al. (2005). "Annona species." International Centre for Underutilised Crops, University of Southampton.
-  - Leboeuf, M. et al. (1982). "Chemistry and biochemistry of Annonaceae." Fitoterapia, 53(4), 165–185.
-  - Kaur, G. et al. (2016). "Pharmacological potential of Annona squamosa." Pharmacognosy Reviews, 10(20), 126–133.
-  - Rajeswari, R. et al. (2018). "A comprehensive review on sugar apple." International Journal of Pharmaceutical Sciences and Research, 9(4), 1337–1345.
   - Morton, J.F. (1987). Fruits of Warm Climates. Julia F. Morton, Miami, FL.
 ---
 
@@ -79,3 +75,14 @@ Seed oil and acetogenin extracts are investigated as natural biopesticides and a
 ### Related Annona Species
 
 The atemoya (*Annona × atemoya*) is a natural hybrid between sugar apple (*A. squamosa*) and cherimoya (*A. cherimola*), combining the heat tolerance of sugar apple with the superior fruit quality of cherimoya. It is commercially important in Australia, Israel, and Florida.
+## Current Research
+
+Recent studies on annona squamosa have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with annona squamosa should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

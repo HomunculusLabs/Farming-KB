@@ -19,16 +19,13 @@ sources:
   - shiitake-cultivation-on-sawdust.md
   - shiitake-cultivation-parameters.md
   - shiitake-medicinal-compounds.md
-  - shiitake-strain-classification-and-substrate-formulas.md
 related_concepts:
   - shiitake-cultivation-guide
   - shiitake-cultivation-log-method
   - shiitake-cultivation-on-sawdust
   - shiitake-cultivation-parameters
   - shiitake-medicinal-compounds
-  - shiitake-strain-classification-and-substrate-formulas
   - mushroom-cultivation-fundamentals
-  - outdoor-mushroom-cultivation-log-stump-and-bed-methods
   - oyster-mushroom-cultivation-and-species-guide
   - medicinal-mushroom-cultivation-and-use
   - wood-decay-fungi

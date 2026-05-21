@@ -3,8 +3,6 @@ title: Psilocybin Mushroom Galactic Symbiote Mckenna Hypothesis
 source: mckenna_t-tryptamines_consciousness.md
 topic: psychedelics_evolution_cosmology
 related:
-  - stropharia-cubensis-mycelium-network-intelligence.md
-  - psilocybin-neurochemistry-and-serotonin-receptor-interaction.md
 created: 2026-05-09
 ---
 

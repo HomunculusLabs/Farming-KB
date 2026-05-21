@@ -139,12 +139,12 @@ Community gardens are shared growing spaces where individuals or groups manage p
 ### Benefits
 - Access to growing space for apartment dwellers and those without yards
 - Community building and social connection
-## See Also
+- Shared knowledge and resources (tools, compost, water)
+- Fresh food production in food deserts
+- Green space and biodiversity in urban environments
+- Educational opportunities for children and adults
 
-- [[food-forest-design]] for perennial polyculture approaches
-- [[lettuce-and-leafy-greens]] for high-value urban crops
-- [[seasonal-gardening-calendar]] for year-round growing schedules
+### Getting Started
+- Find existing gardens through local parks departments or the American Community Garden Association
+- Typical plot size: 10x20 to 20x30 feet; fees: $20-100 per year
 
-## Related
-
-- [[urban-permaculture-techniques]]

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kirschner, J. & Šumberová, K. (2002). "The genus Juncus in the Czech Republic." Preslia, 74, 327–453.
-  - Bruhl, J.J. (1995). "Sedge genera of the world: relationships and a new classification of the Cyperaceae." Australian Systematic Botany, 8, 125–305.
-  - Castroviejo, S. et al. (1986). Flora Iberica, Vol. 4. Real Jardín Botánico, CSIC.
-  - Cope, T.A. (1982). "Juncus L." In: Tutin, T.G. et al., Flora Europaea, Vol. 5, 84–96. Cambridge University Press.
   - Zuloaga, F.O. & Morrone, O. (1996). Catálogo de las Plantas Vasculares de la República Argentina II. Missouri Botanical Garden.
 ---
 

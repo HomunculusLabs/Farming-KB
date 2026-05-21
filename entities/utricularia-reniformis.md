@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - D'Amato, P. (2013). "The Savage Garden: The Revised and Expanded Edition." Ten Speed Press.
-  - Rivadavia, F. et al. (2009). "Phylogeny of Utricularia." American Journal of Botany, 96(1), 56-66.
-  - Fleischmann, A. (2012). "Bibliographic Synopsis of Lentibulariaceae." Blumea, 57(1), 1-12.
   - Silva, S.R. & Miranda, V.F.O. (2018). "Utricularia reniformis in situ." Carnivorous Plant Newsletter, 47(2), 42-48.
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Substrates
 created: 2026-04-11
 updated: 2026-04-13
@@ -31,15 +32,15 @@ Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]
 
 ## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
 
-[[grain-spawn]] is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
+Grain spawn is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
 
 ### Grain Types
 
-- **Rye ([[secale-cereale]])** — gold standard for spawn. Consistent kernel size, good nutrition, 11% base moisture content. Recommended by Stamets as primary spawn grain.
+- **Rye (Secale cereale)** — gold standard for spawn. Consistent kernel size, good nutrition, 11% base moisture content. Recommended by Stamets as primary spawn grain.
 - **Millet** — smaller kernels provide many more inoculation points per volume. Excellent for species needing thorough colonization. Can dry out faster; monitor moisture carefully.
 - **Wheat** — widely available and affordable. Good alternative to rye. Kernels slightly larger, fewer inoculation points per volume.
 - **Sorghum** — hard, round kernels resist over-cooking. Good for long storage.
-- **Grass seed ([[lolium-perenne]])** — preferred substrate for sclerotia-producing species (*P. tampanensis*, *P. mexicana*). Formula: 110g seed + 180mL water per 720mL jar. Must be fungicide-free (buy from animal feed stores). Different batches vary in water absorption — experiment. Can pre-soak overnight for more uniform hydration. See [[sclerotia-cultivation]] for full method.
+- **Grass seed (Lolium perenne)** — preferred substrate for sclerotia-producing species (*P. tampanensis*, *P. mexicana*). Formula: 110g seed + 180mL water per 720mL jar. Must be fungicide-free (buy from animal feed stores). Different batches vary in water absorption — experiment. Can pre-soak overnight for more uniform hydration. See [[sclerotia-cultivation]] for full method.
 
 ### Moisture Content
 
@@ -57,7 +58,7 @@ Grain choice interacts significantly with substrate medium to affect yield. Test
 | **Millet** | Animal bedding + rice | Widest stipes (0.53cm) |
 | **Wheat** | Sawdust | Best stipe diameter on sawdust (0.36cm) |
 
-**Practical implication**: No single "best" grain — match spawn grain to your substrate. Corn spawn on nitrogen-rich media (animal bedding + rice) produced the largest overall mushrooms. [[azurescens-spawn-preparation-grain-to-wood]]: boil grain 15 min (5 min for millet), drain, mix with 12g CaSO4 + 3g CaCO3 per kg grain, sterilize 20 min at 121C, incubate 2 weeks in darkness.
+**Practical implication**: No single "best" grain — match spawn grain to your substrate. Corn spawn on nitrogen-rich media (animal bedding + rice) produced the largest overall mushrooms. Spawn preparation: boil grain 15 min (5 min for millet), drain, mix with 12g CaSO4 + 3g CaCO3 per kg grain, sterilize 20 min at 121C, incubate 2 weeks in darkness.
 
 ### Culture Medium Formulations (Nwanze et al. 2005)
 
@@ -86,13 +87,13 @@ The backbone of commercial indoor cultivation for shiitake, lion's mane, reishi,
 
 ### Wood Chips
 
-- Ideal for outdoor beds, [[wine-cap]], and natural culture methods.
+- Ideal for outdoor beds, wine cap, and natural culture methods.
 - Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for primordia formation.
 - Fresh chips are preferable to aged; sawdust supports rapid initial growth but soon loses vitality.
 
 ### Straw
 
-- Wheat straw is the standard for [[oyster-mushroom-cultivation]]. Pasturized at 160F for 20-30 minutes.
+- Wheat straw is the standard for oyster mushroom cultivation. Pasturized at 160F for 20-30 minutes.
 - Straw can be used whole or chopped; chopped permeates more rapidly.
 - Chopped or whole straw adequate for Stropharia rugoso-annulata; compacted 6-12 inches deep.
 
@@ -144,6 +145,6 @@ Synthetic logs combine the natural log geometry with supplemented sawdust nutrit
 | Calcium carbonate (CaCO3) | 6g | pH buffer |
 | Water | 1.2-1.3L | 55-65% moisture content |
 
-## See Also
+Mix thoroughly, pack into 3-4 inch diameter x 12-18 inch polypropylene tubes or lay flat bags. Sterilize at 15 psi for 90-120 min. Cool to room temperature before inoculation. Inoculate with 5-10% grain spawn by weight.
 
-## Related
+**Moisture test**: Squeeze a handful of substrate firmly -- a few drops of water should appear between fingers but no stream. Too dry = no drops; too wet = water streams freely.

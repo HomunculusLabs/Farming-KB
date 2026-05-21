@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
-  - "McClintock, E. (1970). A Monograph of the Genus Mentha."
-  - "Salem, M. (2015). Mentha piperita. In: childrens-herbal-medicine. Springer."
   - "Mimica-Dukic, N. & Bozin, B. (2008). comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap. In: Medicinal and Aromatic Plants."
 ---
 

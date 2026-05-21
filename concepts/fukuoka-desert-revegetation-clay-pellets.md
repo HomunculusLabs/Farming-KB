@@ -5,8 +5,6 @@ tags: [fukuoka, desert-revegetation, seed-balls, clay-pellets, green-manure, eco
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

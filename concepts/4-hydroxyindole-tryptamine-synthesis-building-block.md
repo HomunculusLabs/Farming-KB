@@ -5,7 +5,6 @@ tags: [indole, 4-hydroxyindole, tryptamine, psilocin, organic-synthesis, buildin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 type: concept
 ---
 

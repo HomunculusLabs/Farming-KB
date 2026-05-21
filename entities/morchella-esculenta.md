@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, "Morchella: Morels" (2023), MushroomExpert.com
-  - Bunyard, "The Beginner's Guide to Mushrooms" (2021)
-  - Richard et al., "morel-morchella-cultivation-life-cycle: A review" (2021), Applied Microbiology
 created: 2026-04-28
 ---# Morchella esculenta
 

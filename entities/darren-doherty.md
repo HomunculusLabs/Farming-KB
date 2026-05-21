@@ -15,9 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Doherty, D. (2012). The Regenerative Agriculture query-how-does-keyline-design-work-in-permaculture Masterclass. Regrarians Ltd."
   - "Regrarians Ltd. (2024). About. regrarians.org."
-  - "Yeomans, P.A. (1954). The Challenge of Landscape. Keyline Publishing."
   - https://www.youtube.com/@Regrarians
 ---# Darren Doherty
 

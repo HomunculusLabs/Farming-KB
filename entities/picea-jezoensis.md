@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Farjon, A. (2010). A Handbook of the World's Conifers. Brill."
-  - "Katsuki, T. et al. (2013). Genetic variation of Picea jezoensis in Hokkaido, Japan. Tree Genetics & Genomes, 9, 753-766."
-  - "Ueda, K. (1986). A phytosociological study of the subalpine coniferous forests in the Shikoku Mountains, Japan. Japanese Journal of Ecology, 36(1), 57-68."
-  - "Krestov, P.V. (2003). Forest vegetation of northeast Asia. In Forest Vegetation of Northeast Asia. Kluwer Academic."
   - "Breckle, S.W. (2002). Walter's Vegetation of the Earth. Springer."
 ---
 

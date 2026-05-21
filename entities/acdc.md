@@ -5,9 +5,6 @@ tags: [cannabis, strain, high-cbd, medical-cannabis, hybrid, cannabidiol, therap
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mudge, E. et al. Cannabis: Evolution and Ethnobotany. University of California Press, 2016."
-  - "ElSohly, Mahmoud A. et al. 'Changes in green-cannabis-potency-maximizing Over the Last Two Decades.' Clinical Pharmacology & Therapeutics, 2016."
-  - "Leafly Strain Database - ACDC - https://www.leafly.com/strains/acdc"created: 2026-05-07
 
 created: 2026-05-07
 ---

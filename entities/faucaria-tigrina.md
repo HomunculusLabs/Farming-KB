@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hartmann, H.E.K. (2001). "Illustrated Handbook of Succulent Plants: Aizoaceae F–Z." Springer-Verlag.
-  - Hammer, S.A. (1993). "The Genus Faucaria." British Cactus and Succulent Journal, 11(1), 15-24.
   - Smith, G.F. et al. (1998). "Mesembs of the World." Briza Publications, Pretoria.
 ---
 

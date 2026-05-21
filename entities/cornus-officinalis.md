@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li, J. et al. (2020). "Cornus officinalis: A review of its traditional uses, phytochemistry, pharmacology, and toxicology." Journal of Ethnopharmacology, 259, 112923.
-  - Park, C.H. et al. (2018). "Anti-diabetic effects of iridoids from Cornus officinalis." Phytomedicine, 42, 65-71.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
   - He, K. et al. (2016). "Iridoid glycosides from Cornus officinalis ameliorate renal fibrosis." Journal of Ethnopharmacology, 194, 260-267.
 ---
 

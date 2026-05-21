@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Rayner, A.D.M. (1977). \"Microbial cycling of nutrients in forest floors.\" Annual Review of Ecology and Systematics, 8, 429-442."
-  - "De Jong, E. (2000). \"The genus Chondrostereum.\" Persoonia, 17(3), 399-422."
   - "Schwarze, F.W.M.R., Engels, J., Mattheck, C. (2000). bloomfield-mushroom-formation-fruiting-body-development-cultivation on dead wood.
 ---
 

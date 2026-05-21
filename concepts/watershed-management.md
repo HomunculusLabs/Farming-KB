@@ -148,3 +148,7 @@ Effective monitoring programs include:
 Watershed health depends on collective action:
 
 - **Watershed groups**: Local organizations that coordinate conservation efforts across property boundaries
+- **Cost-share programs**: Government programs (NRCS, state agencies) that help landowners implement BMPs
+- **Education and outreach**: Workshops, field days, and demonstration projects that promote watershed stewardship
+- **Water quality monitoring networks**: Volunteer monitoring programs that engage citizens in data collection
+- **Landowner cooperatives**: Groups of landowners working together on landscape-scale conservation projects

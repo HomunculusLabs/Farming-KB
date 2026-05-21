@@ -7,14 +7,11 @@ updated: 2026-04-28
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
   - "raw/concepts/perennial-vegetables.md"
-  - "raw/concepts/gaias-garden-perennial-vegetables.md"
   - "raw/concepts/hemenway-perennial-vegetables.md"
   - "raw/concepts/growing-globe-artichokes.md"
-  - "raw/concepts/hamilton-asparagus-growing-organic.md"
   - "raw/concepts/hamilton-rhubarb-growing-organic.md"
   - "raw/concepts/permaculture-asparagus.md"
   - "raw/concepts/permaculture-jerusalem-artichoke.md"
-  - "raw/concepts/solomon-growing-perennials-asparagus-rhubarb.md"
 related_concepts:
   - perennial-vegetables
   - gaias-garden-perennial-vegetables

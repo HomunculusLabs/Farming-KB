@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Conti, F. et al. (2005). An Annotated Checklist of the Italian Vascular Flora. Palombi Editori, Rome.
-  - IUCN (2023). "Campanula sabatia." The IUCN Red List of Threatened Species.
-  - Foggi, B. & Signorini, M.A. (1997). "Review of the Campanula macrorhiza complex." Webbia 52(1): 43–56.
-  - Peruzzi, L. & Passalacqua, N.G. (2008). "Taxonomy and chorology of Campanula sect. Homentoloba in Italy." Plant Biosystems 142(2): 336–345.
   - Podda, L. et al. (2012). "Conservation genetics of Campanula sabatia." Conservation Genetics 13(5): 1345–1355.
 ---
 

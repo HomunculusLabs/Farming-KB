@@ -35,7 +35,7 @@ Fill the trough to around two-thirds with healthy soil mixed with broken bricks.
 
 Introduce earthworms into the trough (see [[earthworm-breeding]]). They provide intensive work aerating and fertilising the soil.
 
-### Watering [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
+### Watering System
 
 The hardwood trunk "sucks" water up from the tray and balances out the moisture of the soil in the trough. If left outside in the elements, enough rainwater will collect in the tray. Otherwise, fill the tray by hand.
 
@@ -43,7 +43,7 @@ The hardwood trunk "sucks" water up from the tray and balances out the moisture 
 
 ### Staggered Heights
 
-The more different levels you use, the more green material you can fit in a small space. An arrangement of plants at staggered heights achieves this [[fukuoka-transcending-time-space-no-plan-best-plan]]. Plants that grow to different heights can be positioned so that no competition arises.
+The more different levels you use, the more green material you can fit in a small space. An arrangement of plants at staggered heights achieves this best. Plants that grow to different heights can be positioned so that no competition arises.
 
 ### Plants
 

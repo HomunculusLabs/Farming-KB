@@ -14,13 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Taiz, L., & Zeiger, E. (2022). Plant Physiology and Development (7th ed.). Sinauer Associates.
-  - Esau, K. (1977). Anatomy of Seed Plants (2nd ed.). John Wiley & Sons.
-  - Evert, R.F. (2006). Esau's Plant Anatomy: Meristems, Cells, and Tissues of the Plant Body (3rd ed.). John Wiley & Sons.
-  - Hopkins, W.G., & Hüner, N.P.A. (2008). Introduction to Plant Physiology (4th ed.). John Wiley & Sons.
 related_concepts:
   - the-soil-food-web
-  - the-rhizosphere-ecology-and-plant-microbe-interactions
   - seed-saving-and-plant-breeding
   - companion-planting-and-polycultures
   - plant-propagation-techniques

@@ -6,9 +6,6 @@ tags: [species, plant, herbal, medicinal, respiratory, expectorant, asteraceae, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hoffmann, D. (2003). Medical Herbalism: The Science and Practice of Herbal Medicine. Healing Arts Press."
-  - "Mills, S. & Bone, K. (2000). The Principles and Practice of Phytotherapy. Churchill Livingstone."
-  - "Bown, D. (1995). Encyclopedia of Herbs and Their Uses. Dorling Kindersley."
   - "Royal Botanic Gardens, Kew. Plants of the World Online. kew.org."
 ---
 

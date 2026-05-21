@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kadota Y (1987). "A revision of Aconitum subgenus Aconitum (Ranunculaceae) of neurotropic-fungi-japan-east-asia-species-cultural-context." Bulletin of the National Museum of Nature and Science, Series B 13(1): 31–71.
-  - Xiao PG et al. (2006). "Aconitum in traditional Chinese medicine." Journal of Ethnopharmacology 107(2): 171–194.
   - Wang W, Chen ZD (2007). "Phylogeny and biogeography of the genus Aconitum." Taxon 56(3): 673–688.
 ---
 

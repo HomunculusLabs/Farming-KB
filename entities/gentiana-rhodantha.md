@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Liu, S.W. (1990). "A revision of Gentiana sect. Chondrophyllae (Gentianaceae)." Bulletin of British Museum (Natural History), Botany.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." China Medical Science Press.
   - He, J.S. et al. (2019). "query-how-to-protect-plants-from-frost-and-extend-the-growing-season.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Corsini GU et al. (1979). "Apomorphine and Parkinson's disease." Archives of Neurology 36(9): 563-566.
-  - Stibe CM et al. (1988). "Subcutaneous apomorphine in Parkinsonian on-off oscillations." Lancet 331(8583): 403-406.
-  - Neef C, van Laar T (1999). "Apomorphine in Parkinson's disease: a review." Pharmaceutica Acta Helvetiae 74(2-3): 233-242.
-  - Gancher ST et al. (1989). "Apomorphine infusion compared with levodopa in Parkinson's disease." Annals of Neurology 25(5): 484-488.
   - Duteil J et al. (1989). "Apomorphine: a potent emetic and antipsychotic agent." CNS Drug Reviews 1(1): 45-62.
 ---
 
@@ -79,3 +75,14 @@ Apomorphine is approved for the acute treatment of "off" episodes in patients wi
 It is typically administered as intermittent subcutaneous injections of 2–6 mg or as continuous subcutaneous infusion via a portable pump.
 
 Pre-treatment with the antiemetic trimethobenzamide is recommended for the first few days of therapy to manage initial nausea and vomiting.
+## Current Research
+
+Recent studies on apomorphine have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with apomorphine should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

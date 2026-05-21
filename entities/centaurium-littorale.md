@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Centaurium." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 3, 56–58. Cambridge University Press.
-  - Maggs, C.A. et al. (2002). "Coastal plants of Britain and Ireland." BSBI Handbook No. 12.
-  - Verneau, O. et al. (2002). "Phylogeny of Centaurium based on ITS sequences." Plant Systematics and Evolution, 230, 125–140.
   - Royal Botanic Gardens Kew. "Centaurium littorale." Plants of the World Online.
 ---
 
@@ -79,3 +76,5 @@ Historically, coastal populations of centaury were gathered as a bitter tonic he
 In [[magical-illness-peruvian-amazon-folk-medicine]] along the coasts of Brittany and Wales, the plant was infused as a digestive remedy. The preparation was known by various local names referencing its coastal habitat.
 
 Modern herbalism rarely distinguishes between Centaurium species. The genus as a whole is used as a bitter tonic to stimulate digestive secretions and appetite.
+Further research into centaurium littorale continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind centaurium littorale provides a foundation for both practical application and continued scientific inquiry.

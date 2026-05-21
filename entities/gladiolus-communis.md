@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J. (1998). Gladiolus in Southern Africa. Fernwood Press.
-  - Oberprieler, C. (2001). "Phylogenetic relationships in Gladiolus (Iridaceae) based on molecular data." Botanical Journal of the Linnean Society 137(3): 317–328.
   - RHS Plant Finder. Gladiolus communis. rhs.org.uk.
 ---
 

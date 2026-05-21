@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brekhman II, Dardymov IV. "New substances of plant origin which increase nonspecific resistance." Annual Review of Pharmacology, 1969.
-  - Panossian A, Wagner H. "Stimulating effect of adaptogens: an overview with particular reference to their efficacy following single dose administration." Phytotherapy Research, 2005.
-  - Panossian A. "Understanding adaptogenic activity: specificity of the pharmacological action of adaptogens and other phytochemicals." Phytomedicine, 2017.
-  - Liao LY et al. "A systematic review of the psychotropic effects of adaptogens." BMC Complementary Medicine and Therapies, 2018.
-  - European Medicines Agency (EMA). "Reflection paper on adaptogenic herbal medicinal products." EMA/HMPC/251566/2018.
   - Molony J et al. "The Ayurvedic plant Ashwagandha as a modulator of resistance exercise training adaptations." Journal of the International Society of Sports Nutrition, 2023.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bartlett, M.E. et al. (2019). "Phylogeny of Lamium (Lamiaceae)." Botanical Journal of the Linnean Society, 191(1), 77-95.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - CABI Invasive Species Compendium. "Lamium galeobdolon." cabi.org.
   - Stace, C.A. (2019). "New Flora of the British Isles, 4th ed." C&M Floristics.
 ---
 

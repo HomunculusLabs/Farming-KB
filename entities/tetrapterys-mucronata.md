@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Schultes, R.E. & Raffauf, R.F. (1990). "The Healing Forest." Dioscorides Press.
-  - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Product Reports.
-  - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - Anderson, W.R. (1981). "Malpighiaceae: The Genus Tetrapterys." Systematic Botany, 6(4).
 ---
 

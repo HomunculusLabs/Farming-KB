@@ -20,10 +20,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - McClure, F.A. (1957). "Bamboo: A Personal Perspective." Smithsonian Institution.
-  - Ohrnberger, D. (1999). "The Bamboos of the World." Elsevier Science.
-  - Banik, R.L. (2015). "Bamboo Silviculture." INBAR Technical Report No. 39.
-  - Liese, W. & Köhl, M. (2015). "Bamboo: The Plant and its Uses." Springer.
 aliases:
   - Golden Bamboo
   - Fishpole Bamboo

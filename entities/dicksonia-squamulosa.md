@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Holttum, R.E. (1963). "Cyatheaceae." Flora Malesiana Series II, 1(2): 65-176.
-  - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag, New York.
-  - Large, M.F. & Braggins, J.E. (2004). Tree Ferns. Timber Press, Portland.
   - Papua New Guinea National Herbarium (2023). "Dicksonia squamulosa." PNG Plants Database.
 ---
 

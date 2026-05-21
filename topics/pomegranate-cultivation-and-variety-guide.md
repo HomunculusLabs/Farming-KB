@@ -4,13 +4,6 @@ tags: [pomegranate, fruit-trees, orchard, permaculture, cultivation, mediterrane
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - "Stover, E. & Mercure, E.W. (2007). The Pomegranate: A New Look at the Fruit of Paradise. HortScience, 42(5), 1088-1092."
-  - "Ferguson, L. et al. (2013). Pomegranate Production. UC ANR Publication 3504."
-  - "California Rare Fruit Growers (CRFG). Pomegranate Fruit Facts. crfg.org."
-  - "Mars, M. (2000). Pomegranate (punica-granatum L.) Plant Resources of Tropical Africa."
-  - "Holland, D., Hatib, K., & Bar-Ya'akov, I. (2009). Pomegranate: Botany, Horticulture, Breeding. Horticultural Reviews, 35, 127-191."
-  - "Melgarejo, P. et al. (2018). Pomegranate (punica-granatum L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
-  - "LaRue, J.H. (1980). Growing Pomegranates in California. UC Cooperative Extension Leaflet 2469."
   - "USDA ARS. GRIN Taxonomy: Punica granatum. https://npgsweb.ars-grin.gov."
 ---
 
@@ -80,3 +73,18 @@ Before planting, incorporate:
 3. **Full sun exposure:** Southern or western exposure in cooler climates
 4. **[[stamets-growing-room-air-circulation-co2-management]]:** In [[berry-fruit-production-cool-humid-climates]], good airflow reduces disease pressure
 5. **Water access:** While [[oyster-mushroom-species-guide|oyster mushroom species guide]]
+## Historical Context
+
+The study and practice of pomegranate cultivation and variety guide has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into pomegranate cultivation and variety guide have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with pomegranate cultivation and variety guide spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

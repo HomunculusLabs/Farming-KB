@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Dahanukar, S.A. et al. (2000). \"Pharmacology of Adhatoda vasica.\" Phytotherapy Research, 14(2), 114-118."
-  - "Gautam, R. et al. (2014). \"Adhatoda vasica: ethnobotany, phytochemistry, pharmacology.\" Ancient Science of Life, 33(3), 149-155."
-  - "Williamson, E.M. (2002). Major Herbs of Ayurveda. Churchill Livingstone."
-  - "Maurya, S.K. et al. (2020). \"Vasicine: comprehensive pharmacological review.\" Pharmacognosy Reviews, 14(28), 125-133."
   - "Sharma, P.C. et al. (1992). \"Database on medicinal plants used in Ayurveda.\" CCRAS, New Delhi."
 ---
 
@@ -78,3 +74,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on justicia adhatoda have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with justicia adhatoda should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

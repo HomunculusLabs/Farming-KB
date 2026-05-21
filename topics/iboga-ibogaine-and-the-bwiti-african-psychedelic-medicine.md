@@ -5,11 +5,8 @@ tags: [iboga, ibogaine, bwiti, addiction, psychedelics, africa, ethnobotany, the
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
   - "raw/papers/mckenna_t-food_of_the_gods.md"
   - "raw/papers/shulgin-a-tihkal.md"
-  - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
-  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 related_concepts:
   - iboga-and-ibogaine-profile
   - ibogaine-pharmacology

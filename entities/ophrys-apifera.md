@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dafni, A. (1984). "Mock Pollination — A New Aspect of the Pollination Strategy of Ophrys apifera." Plant Systematics and Evolution, 147(3-4), 187–192.
-  - Kull, T. & Arditti, J. (2003). "Orchidaceae: A Model for the Evolution of Plant-Pollinator Interactions." Orchid Biology: Reviews and Perspectives VIII, 193–210.
-  - Pedersen, H. Æ. & Faurholdt, N. (2007). Ophrys: The Bee Orchids of Europe. Kew Publishing.
-  - Schlüter, P.M. et al. (2009). "Pollinator Adaptation and the Evolution of Reproductive Isolation in Sexually Deceptive Orchids." Proceedings of the Royal Society B, 276(1677), 3775–3782.
   - Stöckl, J. et al. (2021). "The Chemical Basis of Pollinator Attraction in Ophrys Orchids." Journal of plants-tolerant-of-alkaline-soils.
 ---
 

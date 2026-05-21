@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990. "Vascular Flora of the Southeastern United States, Volume 3, Part 2: Leguminosae." University of north-carolina-mycodiversity Press.
-  - Clewell, A.F. (1966. "The genus Lespedeza in the United States." Contributions from the Gray Herbarium of Harvard University, 196, 1-88.
-  - Haferkamp, M.R. et al. (1993. "Lespedeza in North American forage systems." Agronomy Journal, 85(6), 1153-1161.
   - Missouri Botanical Garden. "Lespedeza hirta (L.) Hornem." Tropicos Database. tropicos.org
 ---
 

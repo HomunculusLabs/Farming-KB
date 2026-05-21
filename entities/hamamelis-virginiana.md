@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Deters, A. et al. (2001). \"Hamamelis virginiana bark extract.\" Planta Medica, 67(8), 707-713."
-  - "Rauwald, H.W. et al. (1991). \"Tannins and related polyphenols from Hamamelis bark.\" Planta Medica, 57(2), 154-158."
-  - "Foster, S. & Duke, J.A. (2014). Peterson  America and the sole
 childrens-herbal-medicine.
 ---# Taxonomy
 

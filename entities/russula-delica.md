@@ -10,9 +10,6 @@ tags:
   - edible-mushroom
   - mycorrhizal
 sources:
-  - Romagnesi H. (1967). "Les Russules d'Europe et d'Afrique du Nord." Bordas.
-  - Sarnari M. (1998). "Monografia illustrata del genere Russula in Europa." Associazione Micologica Bresadola.
-  - Bills GF, et al. (1986). "Culture studies on four European Russula species." Mycotaxon 27: 299-312.
   - Buyck B, et al. (2010). "Proposal to conserve the name Russula delica." Taxon 59(4): 1311-1312.
 ---
 

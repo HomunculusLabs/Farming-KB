@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Banks, J.A. et al. (2011). "Selaginella moellendorffii: A Lycophyte Model for Understanding the Evolution of Vascular Plants." Cold Spring Harbor Perspectives in Biology, 3(10), a009126.
-  - Banks, J.A. (2009). "Selaginella and 400 Million Years of Evolution." American Journal of Botany, 96(10), 1771-1780.
-  - Weng, J.K. et al. (2005). "Emerging Model Systems: Selaginella moellendorffii." The Plant Cell, 17(8), 2119-2122.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
 ---
 

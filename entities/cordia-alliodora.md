@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guariguata, M.R. & Kattan, G.H. (2002). "soil-nematodes-ecology-and-management of fungal-biodiversity-tropical-forests." Yale University Press.
-  - Beer, J. et al. (1990). "Cordia alliodora: A Review of Management and Silviculture." Agroforestry Systems 10(3): 227-246.
-  - Francis, J.K. (2000). "Cordia alliodora (Ruiz & Pav.) Oken." USDA Forest Service, IITF.
   - Pennington, T.D. (2004). "Bignoniaceae Part II." Flora Neotropica Monograph 98.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Li, J. & Del Tredici, P. (2008). "The Stewartias (Theaceae): Monograph and Horticultural Review." Harvard Papers in Botany, 13(2), 231-280.
-  - Grimshaw, J. & Bayton, R. (2009). "New Trees: Recent Introductions to Cultivation." Kew Publishing.
   - Huxley, A. (1992). "The New Royal Horticultural Society Dictionary of Gardening." Macmillan Press.
 ---
 

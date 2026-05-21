@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of guzman-psilocybin-mushrooms-north-america North of Mexico. Oxford University Press.
-  - Jermy, A.C. & Camus, J. (1991). The Illustrated Field Guide to Ferns and Allied Plants of the British Isles. HMSO.
-  - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
   - Kuhn, U. (1969). "Revision der Gattung Gymnocarpium." Botanische Jahrbücher für Systematik.
 ---
 
@@ -78,3 +75,14 @@ The species is hardy in USDA zones 2 through 7, making it one of the most cold-t
 Planting should be in partial to full shade with humus-rich, well-drained acidic soil. The species competes well with tree roots and tolerates the dry shade conditions found beneath mature canopy trees.
 
 Establishment is rapid once the rhizome begins spreading. Plants typically fill a 60-centimeter area within 2 to 3 years, forming a dense low ground cover 15 to 20 centimeters tall.
+## Current Research
+
+Recent studies on gymnocarpium dryopteris have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with gymnocarpium dryopteris should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

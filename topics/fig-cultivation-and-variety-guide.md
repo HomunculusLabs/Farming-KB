@@ -9,13 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ira Condit, "Fig Varieties: A Monograph" (Hilgardia, 1955)
-  - California Rare Fruit Growers (CRFG), "Fig Fruit Facts" (crfg.org)
-  - University of Florida IFAS Extension, "The Fig" (EDIS publication HS27)
-  - Texas A&M AgriLife Extension, "Growing Figs in Texas" (E-401)
-  - Penelope O'Sullivan, "The Home Orchard Handbook" (Cool Springs Press, 2011)
-  - Lee Reich, "Grow Fruit Naturally" (Taunton Press, 2012)
-  - Martin Page, "Growing Figs in greenhouse-cool-climates-mollison" (Crowood Press, 2019)
   - Stella Otto, "The Backyard Orchardist" (Ottographics, 1995)
 ---
 

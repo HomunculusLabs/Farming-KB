@@ -4,10 +4,6 @@ tags: [botany, epiphytes, ecology, tropical, canopy, symbiosis, bromeliads, orch
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
-  - Zotz, G. (2016). "Plants on Plants — The Biology of Vascular Epiphytes." Springer.
-  - Givnish, T.J. et al. (2014). "Adaptive Radiation, Correlated and Contingent Evolution of Net Photosynthetic Rate, and Vessel Anatomy in Hawaiian Lobeliads." International Journal of Plant Sciences.
-  - Nadkarni, N.M. (1984). "Epiphyte Biomass and Nutrient Capital of a Neotropical Elfín Forest." Biotropica.
   - Laube, S. & Zotz, G. (2006). "Neither Host-Specific Nor Random: Vascular Epiphytes on Three Tree Species in a Panamanian Lowland Forest." Annals of Botany.
 ---
 

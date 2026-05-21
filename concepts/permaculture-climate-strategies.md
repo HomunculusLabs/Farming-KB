@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Climate-Specific Design Strategies
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 
 # Permaculture Climate-Specific Design Strategies
 
-Climate-specific design from Mollison's [[permaculture]] Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
+Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 
 ## Arid Lands Strategies (Mollison, Ch. 5)
 
@@ -37,7 +38,7 @@ Around the house (wiltja/shelter), where organic wastes accumulate and water fro
 
 ### Mulch Species for Arid Zones
 
-Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casuarinas, cultivated bamboo, Paulownia, [[acacia-albida]], Leucaena.
+Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casuarinas, cultivated bamboo, Paulownia, Acacia albida, Leucaena.
 
 ### House Climate Modification in Hot Climates
 
@@ -116,9 +117,9 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 
 ### Tropical Soil Management
 
-- **Never leave soil bare** — constant [[cover-crops]] or mulch
+- **Never leave soil bare** — constant cover crops or mulch
 - Sheet mulch works but decomposes very quickly; needs constant renewal
-- [[green-manure-crops]] essential for fertility on depleted tropical soils
+- Green manure crops essential for fertility on depleted tropical soils
 - Chickens convert kitchen waste to manure within days in tropical heat
 - Living mulch (Dolichos, kudzu, sweet potato) protects soil between crops
 
@@ -146,5 +147,6 @@ From Mollison's detailed treatment:
 - Dense windbreak on the exposed side
 - Deciduous trees admit winter sun, provide summer shade
 - Used for frost-sensitive species, early vegetables, and livestock shelters
+## See Also
 
-### Frost Pocket Management
+- [[mollison-climate-zones-permaculture-strategies]]

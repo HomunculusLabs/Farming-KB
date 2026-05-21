@@ -9,11 +9,11 @@ sources: []
 
 # Aquaponics Fish Species
 
-Choosing the right fish species is critical to [[aquaponics]] system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
+Choosing the right fish species is critical to aquaponics system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
 
 ## Tilapia (Oreochromis spp.)
 
-[[tilapia]] is the most popular aquaponics fish worldwide for good reason.
+Tilapia is the most popular aquaponics fish worldwide for good reason.
 
 - Temperature range: 20-30 C (68-86 F), optimal 26-28 C
 - Growth rate: Fast — reach harvest size (350-500g) in 6-9 months

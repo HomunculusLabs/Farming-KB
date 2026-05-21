@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hardy, F.G. & Arnold, H.R. (2000). "Fucus serratus L." Journal of the Marine Biological Association of the United Kingdom, 80(2), 365-366.
-  - Stengel, D.B. et al. (1999). "Ecophysiology of Fucus serratus at its southern distributional limit." Marine Ecology Progress Series, 191, 147-160.
-  - Araújo, R. et al. (2016). "Status, trends and drivers of kelp forests in Europe." Biodiversity and Conservation, 25, 2025-2042.
   - Guiry, M.D. & Guiry, G.M. "Fucus serratus L." AlgaeBase. https://www.algaebase.org/
 ---
 

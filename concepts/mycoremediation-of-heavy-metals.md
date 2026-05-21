@@ -15,7 +15,7 @@ Mycoremediation of heavy metals uses fungi to remove, immobilize, or transform t
 
 ### Biosorption
 
-Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making [[spent-mushroom-substrate]] a practical remediation material.
+Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making spent mushroom substrate a practical remediation material.
 
 Key binding mechanisms:
 - Ion exchange at cell wall sites
@@ -25,12 +25,12 @@ Key binding mechanisms:
 
 ### Bioaccumulation
 
-Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. [[arbuscular-mycorrhizal-fungi]] (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
+Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. Arbuscular mycorrhizal fungi (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
 
 ### Biomineralization
 
 Some fungi precipitate metals as insoluble mineral crystals:
-- Oxalate biomineralization: fungi secrete [[oxalic-acid]], forming metal oxalates
+- Oxalate biomineralization: fungi secrete oxalic acid, forming metal oxalates
 - Phosphate precipitation: phosphate-solubilizing fungi create stable metal-phosphate minerals
 - Sulfide precipitation: sulfate-reducing conditions convert metals to insoluble sulfides
 
@@ -44,9 +44,9 @@ Fungi can alter the oxidation state of metals, changing their toxicity and mobil
 ## Effective Fungal Species
 
 ### White-rot Fungi
-- **[[pleurotus-ostreatus]]** ([[oyster-mushroom]]): Effective at lead and cadmium uptake; widely studied for its dual value as edible and remediator
+- **Pleurotus ostreatus** (oyster mushroom): Effective at lead and cadmium uptake; widely studied for its dual value as edible and remediator
 - **Trametes versicolor** (turkey tail): Strong biosorbent for multiple metals; produces laccase and peroxidase enzymes
-- **[[phanerochaete-chrysosporium]]**: Model white-rot species with extensive heavy metal research
+- **Phanerochaete chrysosporium**: Model white-rot species with extensive heavy metal research
 
 ### Brown-rot Fungi
 - **Fomitopsis palustris**: Effective copper biosorbent
@@ -64,7 +64,7 @@ Fungi can alter the oxidation state of metals, changing their toxicity and mobil
 ## Field Applications and Studies
 
 ### Mine Tailings Remediation
-Field trials using inoculated plants with [[mycorrhizal-fungi]] on lead-zinc mine tailings have shown:
+Field trials using inoculated plants with mycorrhizal fungi on lead-zinc mine tailings have shown:
 - 40-70% reduction in plant-available metals
 - Establishment of vegetation cover on previously barren tailings
 - Reduced metal leaching into groundwater

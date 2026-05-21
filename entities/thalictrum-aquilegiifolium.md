@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Robinson, O. (2020). "Ranunculaceae: A Phylogenetic Approach." Cambridge University Press.
-  - Wang, W. & Chen, Z.D. (2022). "Molecular Phylogenetics of Thalictrum." Botanical Journal 159(3).
-  - RHS (2025). "Thalictrum aquilegiifolium — Plant Profile." Royal Horticultural Society.
   - Tutin, T.G. et al. (1993). "Flora Europaea Vol. 1." Cambridge University Press.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cook, C.D.K. (1966). "A monographic study of Ranunculus subgenus Batrachium." Mitteilungen der Botanischen Staatssammlung München, 6, 47-237.
-  - Lansdown, R.V. (2006). "Ranunculus aquatilis agg." In: Species Inventory. Plantlife International.
-  - Maberley, D.J. (2017). Maberley's Plant-Book, 4th edition. Cambridge University Press.
   - Heckroth, H.P. & Weber, E. (1997). "The genus Ranunculus L. (Ranunculaceae) in the Baltic area." Nordic Journal of Botany, 17(1), 15-34.
 ---
 

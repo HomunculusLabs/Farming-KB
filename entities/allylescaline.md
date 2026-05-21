@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-  - Trachsel, D. (2003). "Phenethylamines and Related Compounds." In Pharmacology of Synthetic Cathinones and Hallucinogens.
-  - Halberstadt, A.L. et al. (2020). "Pharmacology of psychedelic drugs." Pharmacology & Therapeutics 210: 107537.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
 created: 2026-05-07
 ---
 

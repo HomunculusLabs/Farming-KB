@@ -9,7 +9,6 @@ tags:
   - cannabis
   - clinical-decision-support
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 synopsis: >-
   The Cannabis Health Index (CHI) is an evidence-based scoring system
   developed by metzner-ayahuasca-therapeutic-potential of

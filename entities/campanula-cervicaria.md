@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A.A. (1957). "Campanula." In: Flora URSS, Vol. 24. Academy of Sciences USSR.
-  - Tutin T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
   - Laane M.M. (1981). "Chromosome Numbers in the Genus Campanula." Hereditas, 94: 263–268.
 ---
 

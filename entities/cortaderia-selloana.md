@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Connor, H.E. & Edgar, E. (1974). "Cortaderia Selloana and Related Species in New Zealand." New Zealand Journal of Botany 12: 265-278.
-  - Lambrinos, J.G. (2001). "The Expansion of Pampas Grass in California." Biological Invasions 3: 243-253.
-  - Domènech, R. & Vilà, M. (2008). "Cortaderia Selloana Invasion Across a Mediterranean Landscape." Biological Invasions 10: 55-66.
   - Bossard, C.C. et al. (2000). "Invasive Plants of California's Wildlands." University of California Press.
 ---
 

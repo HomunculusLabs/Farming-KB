@@ -12,7 +12,6 @@ tags:
   - amazon
   - indigenous-practice
 source:
-  - "Stuart, R. 'ayahuasca-tourism|ayahuasca-tourism-economics-peruvian-amazon. It has declared itself the
 "Centro Ceremonial del Ayahuasca" — the san francisco shipibo ayahuasca-ceremony-pharmacology-safety for visitors.
 ---
 

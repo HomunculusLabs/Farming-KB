@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. (2011). "The Genus Imleria." Field mycology 12(4): 127–134.
-  - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland Vol. 3."
-  - Watling, R. (1970). "British Fleshy Fungi." HMSO, London.
-  - Basso, M.T. (1999). "Monografia di Imleria badia." Bresadola.
   - Arnolds, E. (2010). "The Fungi of the Netherlands." CBS-KNAW.
 ---
 

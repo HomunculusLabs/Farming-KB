@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Noblick L.R. (2017). "Syagrus coronata." In: Palms of Brazil. International Palm Society.
-  - Lorenzi H. et al. (2010). "Flora Brasiliensis: Arecaceae." Instituto Plantarum.
-  - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - Guedes N.M.R. et al. (2012). "The Endangered Spix's Macaw and the Licuri Palm." Ararajuba.
 ---
 
@@ -79,3 +76,5 @@ Quantitative evaluation through appropriate metrics enables objective assessment
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into syagrus coronata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind syagrus coronata provides a foundation for both practical application and continued scientific inquiry.

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gentry H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
-  - Valenzuela-Zapata A.G. (2003). "El Agave Tequilero." Universidad de Guadalajara.
-  - NMX-006-NORMEX-2015. "Norma Oficial Mexicana para Tequila."
-  - García-Mendoza A. & Chiang F. (2003). "Agave tequilana Weber var. azul." US Department of Agriculture GRIN Database.
   - Peña-Valdivia C.B. & García-Paredes J.D. (2015). "Agaves as crop plants." Revista Fitotecnia Mexicana 38(2): 161-170.
 ---
 

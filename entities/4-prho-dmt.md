@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1997). "TiHKAL: The Continuation." Transform Press.
-  - Trachsel, D. et al. (2013). "4-Substituted Tryptamines." In: Phenethylamines and Tryptamines. Nightingale Press.
-  - Ray, T.S. (2010). "Psychedelics and the Human Receptorome." PLoS ONE, 5(2), e9019.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews, 68(2), 264-355.
 created: 2026-05-07
 ---
 
@@ -81,3 +77,5 @@ Strong doses of 35–50 mg are reported to produce intense experiences with sign
 **Peak** effects are reached at 1.5–2.5 hours.
 
 **Duration** of primary effects is 4–7 hours, with residual after-effects persisting an additional 1–3 hours.
+Further research into 4 prho dmt continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind 4 prho dmt provides a foundation for both practical application and continued scientific inquiry.

@@ -14,7 +14,6 @@ fields:
   - physics
   - acoustics
   - optics
-  - what-a-plant-knows-plant-mechanosensation-touch-response-research-context
   - nobel-prize
 sources:
 related_concepts:

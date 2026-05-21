@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "PiHKAL: A Chemical Love Story — The Chemical Story." 2nd ed. Buch-Verlag.
-  - Dean, B.L. et al. (2013). "Phenethylamine (2C) compounds." In: "Pharmacology of Drugs of Abuse." Springer.
-  - EMCDDA (2024). "2C-E: Drug Profile." European Monitoring Centre for Drugs and Drug Abuse.
-  - Winstock, A.R. et al. (2021). "Global Drug Survey 2021." Global Drug Survey.
 created: 2026-04-28
 ---
 

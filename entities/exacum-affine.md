@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Thulin M. (2001). "Revision of Exacum (Gentianaceae) in Socotra." Kew Bulletin, 56(2), 425–432.
-  - Huxley A. (1992). The New Royal Horticultural Society Dictionary of Gardening. Macmillan.
   - Miller A. (2004). "Socotra's endemic flora." Curtis's Botanical Magazine, 21(1), 32–47.
 ---
 

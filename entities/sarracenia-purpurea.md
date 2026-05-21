@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
-  - Ellison, A.M. & Gotelli, N.J. (2001). "Evolutionary ecology of carnivorous plants." Trends in Ecology & Evolution, 16(11), 623-629.
-  - Bradshaw, W.E. & Creelman, R.A. (1984). "The resource cost of nectar production in Sarracenia purpurea." American Midland Naturalist, 112(2), 384-392.
   - Folkerts, G.W. (1982). "The bog pitcher-plant Sarracenia purpurea." American Biology Teacher, 44(9), 528-533.
 ---
 

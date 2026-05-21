@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Personal knowledge base
-  - Permaculture and coleman-deep-organic-farming literature
   - Extension service comparison-beneficial-insects-guide-vs-integrated-pest-management guides---
 ---
 

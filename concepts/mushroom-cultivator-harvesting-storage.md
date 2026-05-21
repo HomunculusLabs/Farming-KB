@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ## Harvesting and Storage in The Mushroom Cultivator

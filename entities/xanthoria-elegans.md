@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Poelt, J. (1969). "Bestimmungsschlüssel europäischer Flechten." J. Cramer.
-  - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
   - Nash, T.H. III (2008). "psilocybe-semilanceata and is particularly abundant in montane, arctic, and coastal environments. Its vivid coloration and preference for exposed rock surfaces make it a familiar sight to hikers and naturalists worldwide.
 ---
 

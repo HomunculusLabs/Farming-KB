@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sirirugsa P (1999). "Taxonomy of the genus Alpinia in Thailand." Thammasat International Journal of Science and Technology, 4(1), 35–46.
-  - Gachet MS, Schühly W (2009). "Ginger — from utilitarian spice to antiemetic: a review." In: Benzie IFF, Wachtel-Galor S (eds). Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. CRC Press.
-  - Pandey MM, Rastogi S, Rawat AKS (2013). "Ethnobotany, phytochemistry, and pharmacology of the genus Alpinia." Phytotherapy Research, 27(2), 169–179.
-  - Jagetia GC, Rao SK (2006). "Evaluation of the antineoplastic activity of ginger (Zingiber officinale)." Journal of Agricultural and Food Chemistry, 54(23), 8813–8821.
   - Sabulal B, Dan M, Anil JM (2006). "Caryophyllene-rich rhizome oil of Alpinia nigra from India." Chemistry of Natural Compounds, 42(4), 457–459.
 ---
 

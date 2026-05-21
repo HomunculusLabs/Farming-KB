@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hegnauer, R. (1977). "The chemistry of the Phytolaccaceae." Phytochemistry 16(6): 791–801.
-  - Lemma, A. (1970). "Laboratory and field evaluation of the molluscicidal properties of Phytolacca dodecandra." Bulletin of the World Health Organization 42(4): 597–612.
-  - Madsen, H. et al. (2001). "Role of plant molluscicides in schistosomiasis control." Memórias do Instituto Oswaldo Cruz 96(Suppl): 191–196.
-  - Kloos, H. & McCullough, F.S. (1987). "Plant molluscicides." Planta Medica 53(1): 12–20.
   - Burkill, H.M. (1985). The Useful Plants of West Tropical Africa, 2nd ed., Vol. 1. Royal Botanic Gardens, Kew.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Casper, S.J. & Stimper, R. (2009). "Pinguicula (Lentibulariaceae) in Mexico." Phytotaxa 23: 1–27.
-  - D'Amato, P. (2013). "The Savage Garden." 2nd ed. Timber Press.
-  - Cieslak, T. et al. (2005). "Evolution of Genus Pinguicula." Plant Biol. 7: 611–619.
   - Rivadavia, F. et al. (2018). "Phylogenetics of Pinguicula." Mol. Phylogenet. Evol. 127: 115–129.
 ---
 

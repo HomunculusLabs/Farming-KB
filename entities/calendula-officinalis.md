@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Preethi, K.C. et al. (2009). \"Wound Healing Activity of Flower Extract of Calendula officinalis.\" Journal of Basic and Clinical Physiology and Pharmacology."
-  - "Muley, B.P. et al. (2009). \"Phytochemistry and Pharmacological Activities of Calendula officinalis Linn.\" Journal of Pharmacy Research."
-  - "Ukiya, M. et al. (2006). \"Anti-Inflammatory and Anti-Tumor-Promoting Effects of Triterpene Acids and Esters from Calendula officinalis Flowers." Journal of Natural Products."
-  - "Jiménez-Medina, E. et al. (2006). \"New Extract of Calendula officinalis Produces a Dual In Vitro Effect: Cytotoxic Anti-Tumor Activity and Lymphocyte Activation." BMC Cancer."
   - "Hormati, H. et al. (2021). \"Calendula officinalis: A Systematic Review of Its Ethnobotany, Phytochemistry, and Pharmacology." Frontiers in Plant Science."
 ---
 

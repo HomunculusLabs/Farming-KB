@@ -10,7 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 type: concept
 ---
 

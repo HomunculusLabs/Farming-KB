@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kirschner, J. (2002). "Juncus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern guzman-psilocybin-mushrooms-north-america." Journal of the Botanical Research Institute of Texas.
 ---
 

@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Haeupler, M. & Muer, T. (2000). "Bildatlas der Farn- und Blütenpflanzen Deutschlands." Ulmer Verlag.
   - RHS (2023). "guzman-psilocybin-mushrooms-north-america. It spreads rapidly through tubers and bulbils, forming dense mats that suppress native spring ephemerals.
 ---
 

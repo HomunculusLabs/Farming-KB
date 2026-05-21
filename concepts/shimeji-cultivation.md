@@ -30,25 +30,25 @@ True shimeji (Lyophyllum shimeji) is a different, mycorrhizal species that canno
 
 ## Species Profile
 
-- Scientific name: [[hypsizygus-tessulatus]]
+- Scientific name: Hypsizygus tessulatus
 - Synonyms: H. marmoreus, Pleurotus tessulatus
 - Common names: Brown Beech Mushroom, White Beech Mushroom, Buna-shimeji, Bunapi
 - Family: Tricholomataceae
 - Cap: 1-3 cm, brown (Buna) or white (Bunapi), smooth to slightly wrinkled
 - Stem: 3-6 cm, slender, firm, white
 - Growth habit: grows in tight clusters (bouquets) from a central base
-- [[spore-print]]: white
+- Spore print: white
 - Flavor: nutty, slightly sweet, with umami depth; intensifies with cooking
 - Texture: firm, crisp, maintains integrity when cooked
 
 ## Cultivation Method: Bottle Culture
 
-Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation]] and [[nameko-cultivation]].
+Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation-guide]] and [[nameko-cultivation]].
 
 ### Substrate Formula
 
 - Hardwood sawdust (primarily beech or oak): 75-80%
-- Rice bran or [[wheat-bran]]: 18-22%
+- Rice bran or wheat bran: 18-22%
 - Gypsum: 1-2%
 - Moisture content: 63-68%
 
@@ -56,7 +56,7 @@ Beech sawdust is the traditional standard. Some commercial operations use a mix 
 
 ### Sterilization
 
-- Full [[sterilization]] at 15 PSI for 2-3 hours
+- Full sterilization at 15 PSI for 2-3 hours
 - Shimeji is moderately contamination-sensitive
 - Ensure complete heat penetration
 
@@ -69,7 +69,7 @@ Beech sawdust is the traditional standard. Some commercial operations use a mix 
 
 ### Inoculation and Spawn Run
 
-- [[grain-spawn]] rate: 3-5% by weight (lower than many species)
+- Grain spawn rate: 3-5% by weight (lower than many species)
 - Incubation temperature: 68-75 F (20-24 C)
 - Incubation time: 25-35 days
 - Conditions: dark, still air
@@ -83,7 +83,7 @@ Shimeji requires a cold shock to initiate fruiting, similar to nameko:
 1. Scrape or "brush" the surface of the colonized block to remove aerial mycelium and create an even pinning surface
 2. Apply cold shock: 37-45 F (3-7 C) for 3-5 days
 3. Some growers add a small amount of water (5-10 ml) to the block surface before cold shock
-4. Transfer to [[fruiting-conditions]] after cold shock
+4. Transfer to fruiting conditions after cold shock
 
 ### Fruiting Conditions
 
@@ -111,7 +111,7 @@ Shimeji requires a cold shock to initiate fruiting, similar to nameko:
 
 ## Yield and Economics
 
-- [[biological-efficiency]]: 60-100% (fresh weight per dry substrate weight)
+- Biological efficiency: 60-100% (fresh weight per dry substrate weight)
 - Yield per bottle: 150-200g fresh
 - First flush: 70-80% of total yield
 - 2-3 flushes possible but first flush is primary commercially
@@ -148,3 +148,6 @@ Shimeji has one of the best shelf lives among cultivated mushrooms:
 - Brown variety: color darkens slightly but quality maintained
 - White variety: may yellow if stored too warm
 - Freezing: not recommended (texture degrades significantly)
+## See Also
+
+- [[hypsizygus-elm-oyster-and-shimeji-cultivation]]

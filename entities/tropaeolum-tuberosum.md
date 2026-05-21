@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hermann, M. & Heller, J. (1997). "Andean Roots and Tubers: Ahipa, Arracacha, Maca and Mashua." IPGRI, Rome.
-  - King, S.R. & Gershoff, S.N. (1987). "Nutritional Evaluation of Three Underexploited Andean Tubers." Economic Botany, 41(4), 503-512.
-  - Johns, T. (1990). "With Bitter Herbs They Shall Eat It: Chemical Ecology and the Origins of Human Diet and Medicine." University of Arizona Press.
   - National Research Council (1989). "Lost Crops of the Incas: Little-Known Plants of the Andes with Promise for Worldwide Cultivation." National Academies Press.
 ---
 

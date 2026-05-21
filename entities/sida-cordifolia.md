@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kirtikar, K.R. & Basu, B.D. (1918). "Indian Medicinal Plants." Lalit Mohan Basu, Allahabad.
-  - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
-  - Warrier, P.K. et al. (1994). "Indian Medicinal Plants: A Compendium of 500 Species." Orient Longman.
-  - Atal, C.K. & Kapoor, B.M. (1982). "Cultivation and Utilization of Medicinal Plants." Regional Research Laboratory, Jammu-Tawi.
-  - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
 created: 2026-05-07
 ---
 

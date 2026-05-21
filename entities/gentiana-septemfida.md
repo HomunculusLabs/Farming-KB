@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kohlein, F. (1991). "Gentians." Timber Press, Portland.
-  - RHS (2023). "Gentiana septemfida." Royal Horticultural Society Plant Finder.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
   - Magulaev, A.J. (1987). "Gentiana sect. Pneumonanthe in the Caucasus." Botanicheskii Zhurnal 72(4): 512–519.
 ---
 

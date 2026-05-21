@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bas, C. (1969). "Morphology and Variation of Amanita in the Netherlands." Persoonia.
-  - Tulloss, R.E. (2021). "Studies in the Amanitaceae." amanitaceae.org.
-  - Benjamin, D.R. (1995). "Mushrooms: Poisons and Panaceas." W.H. Freeman.
-  - Breitenbach, J. & Kränzlin, F. (1995). "Fungi of Switzerland, Vol. 4." Verlag Mykologia.
 created: 2026-04-28
 ---
 

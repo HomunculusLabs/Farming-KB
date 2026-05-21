@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Van Wyk BE, Wink M. "Medicinal Plants of the World." Briza Publications. 2004.
-  - Shikanga E et al. "Isolation and antimicrobial activity of diterpenes from Leonotis leonurus." S Afr J Bot. 2008.
 created: 2026-04-28
 ---# Leonotus leonurus
 

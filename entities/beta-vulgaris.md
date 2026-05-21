@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ford-Lloyd BV, Williams JT (1975). "A revision of Beta section Vulgares." Taxon.
-  - Letschert JPW (1993). "Beta section Beta: biogeographical patterns of variation and taxonomy." Wageningen Agricultural University Papers.
-  - McGowan M, McCarthy AJ, McGrath JM (2022). "Sugar beet genome sequence." Nature.
-  - Dohm JC, Minoche AE, Holgräwe D (2014). "The genome of the recently domesticated crop plant sugar beet." Nature.
   - Kenter C, Hoffmann CM, Märländer B (2006). "Impact of environment on sugar beet." Sugar Industry.
 ---
 

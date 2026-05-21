@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
   - https://www.caymanchem.com/product/21964
 --- 4-HO-MiPT
 

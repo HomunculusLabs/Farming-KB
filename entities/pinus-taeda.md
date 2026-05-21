@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schultz, R.P. (1997). "Loblolly Pine." USDA Forest Service Agriculture Handbook 713.
-  - Baker, J.B. & Langdon, O.G. (1990). "Pinus taeda L." Silvics of mollison-specialist-tropical-crops-forest-products Journal 59(11/12).
   - Will, R.E. et al. (2015). "Loblolly Pine Growth and Yield." Genetics and Silviculture of Loblolly Pine. Springer.
 ---
 
@@ -78,3 +76,5 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into pinus taeda continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pinus taeda provides a foundation for both practical application and continued scientific inquiry.

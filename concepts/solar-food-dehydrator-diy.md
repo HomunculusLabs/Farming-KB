@@ -17,7 +17,7 @@ A solar dehydrator works on three principles:
 
 1. **Solar collection:** A dark-colored absorber plate (often painted metal or dark-painted wood) absorbs solar radiation and converts it to heat
 2. **Greenhouse effect:** A transparent cover (glass, polycarbonate, or UV-stabilized plastic film) allows sunlight in but traps the resulting heat, raising the internal temperature
-3. **Natural convection:** As air is heated, it rises. A well-designed dehydrator has a low intake vent [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] high exhaust vent. Cool air enters the bottom, is heated as it passes over the absorber, picks up moisture from the food, and exits through the top vent carrying the moisture away.
+3. **Natural convection:** As air is heated, it rises. A well-designed dehydrator has a low intake vent and a high exhaust vent. Cool air enters the bottom, is heated as it passes over the absorber, picks up moisture from the food, and exits through the top vent carrying the moisture away.
 
 This creates a continuous flow of warm, dry air across the food trays without any fan or electricity.
 
@@ -29,11 +29,11 @@ The simplest design. The food sits in an insulated box with a glass or plastic l
 
 - **Pros:** Simple to build, cheap, lightweight, portable
 - **Cons:** Food is exposed to direct sunlight (degrades vitamins and color), less even drying, temperature harder to control
-- **[[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]:** Herbs, simple fruit leathers, quick projects
+- **Best for:** Herbs, simple fruit leathers, quick projects
 
 ### Indirect (Passive) Dehydrator
 
-The solar collector [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] drying chamber are separate. Air is heated in a collector panel, then flows through the drying chamber where the food trays are located.
+The solar collector and the drying chamber are separate. Air is heated in a collector panel, then flows through the drying chamber where the food trays are located.
 
 - **Pros:** Food not exposed to direct sun (better nutrient retention), more even drying, better temperature control
 - **Cons:** Larger, more complex to build, heavier
@@ -41,7 +41,7 @@ The solar collector [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-hear
 
 ### Combined Direct/Indirect
 
-A hybrid design that uses both direct solar gain on the top and indirect heated air flowing through from a collector. Offers [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] of both approaches.
+A hybrid design that uses both direct solar gain on the top and indirect heated air flowing through from a collector. Offers the best of both approaches.
 
 - **Pros:** Highest temperatures, fastest drying, versatile
 - **Cons:** Most complex design, most materials
@@ -88,7 +88,7 @@ A good rule of thumb: 1 square foot of collector area per square foot of drying 
 
 ### Height Between Trays
 
-Allow 3-4 inches between trays for adequate airflow. More space means better drying but fewer trays [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] same volume.
+Allow 3-4 inches between trays for adequate airflow. More space means better drying but fewer trays in the same volume.
 
 ## Temperature Control
 
@@ -102,7 +102,7 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 ### Controlling Temperature
 
 - **Vent adjustment:** Open vents to lower temperature, close vents to raise temperature
-- **Collector angle:** Adjust the tilt [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] collector panel toward or away from the sun
+- **Collector angle:** Adjust the tilt of the collector panel toward or away from the sun
 - **Shade cloth:** Drape shade cloth over part of the collector on very hot days
 - **Baffle or reflector:** Adjustable internal baffles can redirect or block solar energy
 
@@ -112,15 +112,11 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - An oven thermometer works well
 - Monitor during the first few uses to learn your dehydrator's behavior in different weather conditions
 
-## See Also
-- [[solar-water-heating]]
-- [[solar-radiation-and-plant-light-responses]]
-- [[solar-and-electric-food-drying-methods]]
 ## Building an Indirect Solar Dehydrator (Step-by-Step)
 
 ### Frame
 
-1. Build a rectangular [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] the drying chamber (e.g., 24x36 inches, 24 inches tall)
+1. Build a rectangular box for the drying chamber (e.g., 24x36 inches, 24 inches tall)
 2. Build a collector box that angles downward from the drying chamber (15-30 degree tilt from horizontal, angled toward the equator)
 3. Insulate the drying chamber walls and floor (not the collector — the collector needs to absorb and transfer heat)
 4. Paint the interior of the collector black
@@ -147,3 +143,13 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 ### Vents
 
 1. Cut intake vents at the bottom of the collector (low point)
+2. Cut exhaust vents at the top of the drying chamber (high point, opposite end from collector)
+3. Build adjustable vent covers from wood with a sliding mechanism
+4. Cover vents with screen to keep insects out
+
+## Drying Tips
+## See Also
+
+- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+- [[mollison-designers-solar-food-drying-preservation]]
+- [[solar-and-electric-food-drying-methods]]

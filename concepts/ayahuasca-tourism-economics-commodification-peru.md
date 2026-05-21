@@ -5,7 +5,6 @@ tags: [ayahuasca, tourism, peru, commodification, economics, shamanism, shipibo,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - R. Stuart (2002), "Ayahuasca Tourism: A Cautionary Tale," MAPS, Volume XII, Number 2, Summer 2002
 type: concept
 ---
 

@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Smoking is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] oldest [[lacto-fermentation-and-food-preservation-methods]], using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment [[query-how-to-start-beekeeping-on-a-homestead]].
+Smoking is one of the oldest food preservation methods, using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead.
 
 ## Cold Smoking vs Hot Smoking
 
@@ -31,7 +31,7 @@ Smoking is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]
 - Curing optional but recommended for flavor and safety
 - Produces moist, cooked products that require refrigeration
 - Examples: smoked chicken, ribs, brisket, fish fillets, trout
-- Fire [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] are [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] same chamber or adjacent with direct heat transfer
+- Fire and food are in the same chamber or adjacent with direct heat transfer
 
 ### Warm Smoking (Intermediate)
 
@@ -68,7 +68,7 @@ Salt and sugar dissolved in water, with meat fully submerged:
 Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). Without curing:
 
 - Surface bacteria can multiply during the extended smoking time
-- [[clostridium]] botulinum spores could potentially germinate in the anaerobic interior of large pieces of meat
+- Clostridium botulinum spores could potentially germinate in the anaerobic interior of large pieces of meat
 - Salt and nitrites in the cure inhibit bacterial growth during the process
 
 ## Wood Selection
@@ -93,7 +93,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
 - Locust, osage orange — Extremely dense and harsh
-- Moldy wood — Can produce off-flavors and [[mycotoxins]]
+- Moldy wood — Can produce off-flavors and mycotoxins
 
 ### Wood Preparation
 
@@ -106,11 +106,11 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 ### Smoker Types
 
-**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] smoking.
+**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot and cold smoking.
 
 **Vertical bullet smoker:** Cylindrical, fire at bottom, water pan in middle. Efficient, beginner-friendly, good for hot smoking.
 
-**Cabinet smoker:** Insulated box with electric/gas heat and [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] tray. Precise temperature control, easy to use.
+**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise temperature control, easy to use.
 
 **DIY options:** 55-gallon drum ($100), cinder block stack (permanent), or small smokehouse with separate fire pit and underground pipe (ideal for cold smoking).
 
@@ -135,8 +135,6 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 5. After smoking, air-dry to reduce moisture to 25-35% for preservation
 6. Refrigerate or freeze after smoking
 
-## See Also
-- [[pressure-canning-safety]]
 ## Food Safety for Smoked Products
 
 ### Cold Smoking Risks
@@ -147,3 +145,11 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - Monitor temperature; if it exceeds 90F, move product to cooler location
 - After smoking, products should lose 20-25% of original weight through moisture loss
 - Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
+- Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
+
+### Hot Smoking Safety
+## See Also
+
+- [[faires-meat-processing-curing-and-smoking]]
+- [[query-how-to-make-fish-hydrolysate-fertilizer]]
+- [[fish-pond-stock-management-and-construction]]

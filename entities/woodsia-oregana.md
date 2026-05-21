@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Woodsia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2. Oxford University Press.
-  - Dorn, R.D. (2000). Vascular Plants of Wyoming, 3rd ed. Mountain West Publishing.
-  - Windham, M.D. (1993). "A revision of the genus Woodsia in North America." Contributions from the University of Michigan Herbarium, 19, 81–115.
   - US Forest Service (2022). "USDA Plants Profile: Woodsia oregana D.C. Eaton." plants.usda.gov.
 ---
 

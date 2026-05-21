@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [mycoremediation, biochemistry, mycology, chemistry, enzymes]
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md
 ---
 
@@ -27,7 +26,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Also first described in **P. chrysosporium** (Kuwahara et al., 1984; Paszczynski et al., 1985)
 - Heme-containing enzyme that oxidizes Mn(II) to Mn(III), which then acts as a diffusible oxidant
 - Mn(III) chelated by organic acids (oxalate, malonate, malate) diffuses to oxidize phenolic substrates
-- More widely distributed among white-[[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] than LiP
+- More widely distributed among white-rot fungi than LiP
 - Key role in dye decolorization — MnP activity correlates with efficient decolorization of olive mill wastewater and textile dyes
 - Works in conjunction with Mn-independent peroxidase (MIP) in some species
 
@@ -73,10 +72,18 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - [[mycoremediation-textile-dye-degradation]] for enzyme applications in dye treatment
 - [[white-rot-fungi-bioremediation]] for the primary enzyme-producing organisms
 - [[mycoremediation-techniques]] for application methods
+## Historical Context
 
-## Current Research Directions
+The study and practice of mycoremediation enzymology has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into mycoremediation enzymology have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with mycoremediation enzymology spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

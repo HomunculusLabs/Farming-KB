@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Smith, W.W. & Fletcher, H.R. (1949). "The genus Primula: a monograph." Transactions of the Royal Society of Edinburgh, 61(3), 401–499.
-  - Aeschimann, D. et al. (2004). "Flora Alpina." Haupt Verlag, Bern.
   - The Alpine Garden Society. "Primula halleri." AGS Encyclopaedia of Alpines.
 ---
 

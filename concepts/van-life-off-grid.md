@@ -9,7 +9,7 @@ sources: []
 
 # Van Life Off Grid
 
-Camper van living off-grid combines mobility with self-sufficiency. A well-built camper van provides shelter, power, water, cooking, and sanitation without hookups or campground facilities. The compact space demands efficient [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] multi-purpose systems, but the result is freedom to live and travel independently.
+Camper van living off-grid combines mobility with self-sufficiency. A well-built camper van provides shelter, power, water, cooking, and sanitation without hookups or campground facilities. The compact space demands efficient design and multi-purpose systems, but the result is freedom to live and travel independently.
 
 ## Van Selection
 
@@ -33,14 +33,14 @@ Camper van living off-grid combines mobility with self-sufficiency. A well-built
 - Front-wheel drive gives lowest floor height
 - Wide interior (75.6 inches between wheel wells)
 - Gas engine only (3.6L V6)
-- Most affordable [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] big three
+- Most affordable of the big three
 - Price: $28,000-50,000 new, $15,000-30,000 used
 
 ### Key Selection Criteria
 
 - High roof: Essential for standing (6+ feet interior height)
 - 144-170 inch wheelbase: Balance of space and drivability
-- AWD/4WD: Consider [[us-climate-zones-for-winter-harvest]] and off-pavement travel
+- AWD/4WD: Consider for winter and off-pavement travel
 - Mileage: Under 100,000 miles preferred for used vans
 - Rust: Inspect frame, rocker panels, and wheel wells carefully
 
@@ -73,13 +73,13 @@ Van insulation must address heat, cold, condensation, and sound. Metal van walls
 
 ### Reflectix Alone (Insufficient)
 
-- Reflectix [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]] radiant barrier, not insulation
+- Reflectix is a radiant barrier, not insulation
 - Only effective with an air gap on one side
 - Do not rely on Reflectix as your only insulation
 
 ### Vapor Barrier
 
-Regardless of insulation type, include a vapor barrier on the warm (interior) side [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] condensation inside the wall cavity. Use Reflectix or plastic sheeting taped at all seams.
+Regardless of insulation type, include a vapor barrier on the warm (interior) side to prevent condensation inside the wall cavity. Use Reflectix or plastic sheeting taped at all seams.
 
 ## Solar Power System
 
@@ -102,7 +102,7 @@ Regardless of insulation type, include a vapor barrier on the warm (interior) si
 - Inverter: 1000-2000W pure sine wave
 - DC-DC charger: Charges house batteries from alternator while driving
 - Battery monitor: Victron BMV-712 or similar
-- Fuses and disconnects: Properly sized [[fukuoka-enough-land-for-all-quarter-acre-farming]] circuits
+- Fuses and disconnects: Properly sized for all circuits
 - Wiring: 10 AWG minimum for solar runs, 2/0 AWG for battery-to-inverter
 
 ### Daily Power Budget (Typical)
@@ -124,7 +124,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 ### Fresh Water
 
 - Tank: 10-20 gallons (more = heavier, affects fuel economy)
-- Mount below floor or [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] lower cabinet for center of gravity
+- Mount below floor or in a lower cabinet for center of gravity
 - 12V diaphragm pump with pressure switch
 - PEX or vinyl tubing with quick-connect fittings
 - Spigot at kitchen, optional shower
@@ -142,7 +142,13 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 - Propane instant water heater (more complex but convenient)
 - Heat water on stove and transfer to shower bag
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
 ## Composting Toilet
+
+Essential for off-grid van living. See [[off-grid-waste-management|waste management]] for detailed comparison.
+
+**Popular Options:**
+- Nature's Head: Most proven, urine diverter, 12V vent fan
+## See Also
+
+- [[off-grid-energy-and-homestead-infrastructure]]
+- [[cotter-off-grid-mushroom-cultivation]]

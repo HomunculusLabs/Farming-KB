@@ -13,9 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Water for Every Farm, Yeomans mark-shepard
-  - Permaculture: A Designers' Manual, bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture
 type: query
 ---
 
@@ -78,3 +76,5 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 
 Understanding these principles enables more effective application in diverse contexts.
+Further research into query how do i design a farm pond for irrigation and wildlife continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind query how do i design a farm pond for irrigation and wildlife provides a foundation for both practical application and continued scientific inquiry.

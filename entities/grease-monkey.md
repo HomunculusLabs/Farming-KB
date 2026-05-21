@@ -15,10 +15,6 @@ tags:
   - pain-relief
   - high-thc
 sources:
-  - Leafly Staff (2024). "Grease Monkey biscotti-cannabis-strain Information." Leafly.com.
-  - AllBud Staff (2024). "Grease Monkey Strain Review." AllBud.com.
-  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
-  - Small, E. (2017). Cannabis: A Complete Guide. CRC Press.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
 ---
 

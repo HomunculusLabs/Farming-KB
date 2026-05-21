@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hesse, M. (2002). "A phytochemical and ethnobotanical review of the water lily family (Nymphaeaceae)." Economic Botany, 56(4), 354–369.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. Medpharm Scientific Publishers, Stuttgart.
-  - Bruneton, J. (1999). "Pharmacognosy, Phytochemistry, Medicinal Plants." 2nd ed. Lavoisier Publishing, Paris.
-  - Hanelt, P. & IPK Gatersleben (2001). "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops." Springer.
-  - Evans, W.C. (2009). "Trease and Evans' Pharmacognosy." 16th ed. Saunders Elsevier, Edinburgh.
 created: 2026-04-28
 ---
 

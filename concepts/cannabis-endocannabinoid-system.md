@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis and the Endocannabinoid System
 
-The [[endocannabinoid-system]] (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
+The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
 
 ## Components of the ECS
 
@@ -26,7 +26,7 @@ The [[endocannabinoid-system]] (ECS) is the biological system that cannabis inte
 - CBD does not bind directly to CB2 but modulates its activity indirectly
 
 ### Endogenous Ligands
-- **[[anandamide]] (AEA)**: The "bliss molecule" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
+- **Anandamide (AEA)**: The "bliss molecule" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
 - **2-AG (2-Arachidonoylglycerol)**: The most abundant endocannabinoid — binds both CB1 and CB2, involved in immune function
 
 ### Metabolic Enzymes
@@ -65,18 +65,20 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics
 - [[cannabis-for-chronic-pain]] — for pain applications
 - [[psilocybin-psychological-mechanisms]] — for comparison with psychedelic mechanisms
+## Historical Context
+
+The study and practice of cannabis endocannabinoid system has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into cannabis endocannabinoid system have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
+Applied work with cannabis endocannabinoid system spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

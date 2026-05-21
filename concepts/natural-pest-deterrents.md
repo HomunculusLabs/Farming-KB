@@ -9,16 +9,16 @@ sources: []
 
 # Natural Pest Deterrents
 
-Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, fungal pathogens, and other garden problems. They are essential tools in organic gardening and [[integrated-pest-management]] (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming beneficial insects.
+Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, fungal pathogens, and other garden problems. They are essential tools in organic gardening and integrated pest management (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming beneficial insects.
 
 ## Neem Oil
 
-Neem oil is extracted from the seeds of the neem tree ([[azadirachta-indica]]). The active compound, azadirachtin, disrupts insect hormone systems, preventing molting, feeding, and reproduction. It also acts as a repellent and antifeedant.
+Neem oil is extracted from the seeds of the neem tree (Azadirachta indica). The active compound, azadirachtin, disrupts insect hormone systems, preventing molting, feeding, and reproduction. It also acts as a repellent and antifeedant.
 
 ### Uses
 
 - Controls: aphids, whiteflies, thrips, spider mites, scale insects, Japanese beetles, squash bugs, cucumber beetles, leafminers
-- Fungal suppression: [[powdery-mildew]], black spot, rust (when used as a foliar spray)
+- Fungal suppression: powdery mildew, black spot, rust (when used as a foliar spray)
 - Repels: mosquitoes, flea beetles, cabbage worms
 
 ### Application
@@ -38,7 +38,7 @@ Neem oil is extracted from the seeds of the neem tree ([[azadirachta-indica]]). 
 
 ## Diatomaceous Earth (DE)
 
-[[diatomaceous-earth]] is a fine powder made from fossilized aquatic organisms (diatoms). Under a microscope, DE particles have sharp, glass-like edges that pierce insect exoskeletons, causing desiccation and death.
+Diatomaceous earth is a fine powder made from fossilized aquatic organisms (diatoms). Under a microscope, DE particles have sharp, glass-like edges that pierce insect exoskeletons, causing desiccation and death.
 
 ### Uses
 
@@ -89,7 +89,7 @@ Insecticidal soap is a potassium salt of fatty acids that breaks down insect cel
 
 ## Garlic and Chile Spray
 
-Garlic-chile sprays combine the repellent properties of garlic ([[allicin]] and other sulfur compounds) with the [[capsaicin]] burn of hot chiles. They repel a wide range of pests by smell and taste.
+Garlic-chile sprays combine the repellent properties of garlic (allicin and other sulfur compounds) with the capsaicin burn of hot chiles. They repel a wide range of pests by smell and taste.
 
 ### Basic Recipe
 
@@ -148,3 +148,7 @@ A soil bacterium that produces proteins toxic to specific insect groups when ing
 
 ### Spinosad
 ## See Also
+
+- [[jeavons-natural-pest-control]]
+- [[fukuoka-natural-pest-balance]]
+- [[fukuoka-natural-fruit-tree-pest-control]]

@@ -5,7 +5,6 @@ tags: [comparison, pest-control, companion-planting,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
@@ -78,3 +77,5 @@ Choose trap cropping when a specific, identified pest problem requires
     pest management program, where it addresses specific problems while
     insectary plants provide background [[companion-planting-reference]]
 - [[comparison-insectary-plants-vs-trap-crops]]
+Further research into comparison insectary plants vs trap cropping continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison insectary plants vs trap cropping provides a foundation for both practical application and continued scientific inquiry.

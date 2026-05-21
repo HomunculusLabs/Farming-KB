@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Conant, D.S. et al. (2000). "Cyatheaceae." In Flora of North America North of Mexico, Vol. 2.
-  - Large, M.F. & Braggins, J.E. (2004). Tree Ferns. Timber Press.
-  - Korall, P. et al. (2007). "A molecular phylogeny of scaly tree ferns." Systematic Botany 32(3): 515-526.
   - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sasikumar B (2005). "Genetic resources of Curcuma wild species in India." Genetic Resources and Crop Evolution, 52(4), 403–413.
-  - Ravindran PN, Babu KN, Shivasankar S (2007). Turmeric: The Genus Curcuma. CRC Press.
-  - Sirirugsa P (1999). "Taxonomy of the genus Curcuma in Thailand." Thammasat International Journal of Science and Technology, 4(1), 24–34.
-  - Singh SB, Gopichand, Singh RK (2010). "Curcuma aromatica Salisb.: a review on its phytochemistry and ethnomedicinal uses." International Journal of Pharmaceutical Sciences and Research, 1(10), 1–8.
   - eFloras (2024). "Curcuma aromatica." Missouri Botanical Garden. https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027897
 ---
 

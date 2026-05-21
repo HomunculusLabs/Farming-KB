@@ -15,7 +15,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/lowenfels-teaming-with-microbes.md"
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 related_concepts: "the-soil-food-web, the-rhizosphere-ecology-and-plant-microbe-interactions, cover-crops-and-green-manures, mycorrhizal-fungi, composting-and-soil-biology, companion-planting-and-polycultures"
 ---
 

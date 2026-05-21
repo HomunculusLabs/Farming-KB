@@ -4,7 +4,6 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 topic: shamanic_practice
 related:
   - ayahuasca-ceremony-structure-and-practice.md
-  - set-and-setting-universal-framework-altered-states.md
 created: 2026-05-09
 ---
 

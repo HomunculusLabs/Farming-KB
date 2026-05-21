@@ -5,7 +5,6 @@ tags: [fukuoka, seed-balls, no-till, natural-farming, propagation]
 date: 2026-04-27
 updated: 2026-04-27
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

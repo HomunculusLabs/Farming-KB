@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 --- Soil pH and Mineral Amendments
 Soil pH is one of the most critical factors governing [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide)**: Moderately reactive, NV 120-134.

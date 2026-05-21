@@ -13,8 +13,6 @@ tags:
   - mycological-research
   - slime-molds
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms,
     Molds, and Mycologists by Nicholas P. Money (2002),
     Chapter 5
 ---

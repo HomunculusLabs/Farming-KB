@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov A, Kovanda M (1978). "Campanula." In: Tutin TG et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda M (1970). "Polyploidy and Variation in the Campanula rotundifolia Complex." Preslia, 42: 186–204.
-  - Richards AJ (1997). "Plant Breeding Systems." 2nd ed. Chapman & Hall.
-  - Kew Plants of the World Online (2026). "Campanula alpestris All." https://powo.science.kew.org/
   - Aeschimann D, Lauber K, Moser DM, Theurillat JP (2004). "Flora Alpina." Haupt Verlag.
 ---
 

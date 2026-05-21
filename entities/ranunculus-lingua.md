@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cook, C.D.K. (1966). "A monographic study of Ranunculus subgenus Batrachium." Mitteilungen der Botanischen Staatssammlung München, 6, 47-107.
-  - Tutin, T.G. (1964). "Ranunculaceae." In: Flora Europaea, Vol. 1. Cambridge University Press.
-  - Preston, C.D. & Croft, J.M. (1997). "Aquatic Plants in Britain and Ireland." Harley Books.
-  - Landolt, E. (2000). "Critical Floristic and Taxonomic Studies in the Ranunculus lingua Group." Bibliotheca Botanica, 158, 1-124.
   - Stace, C.A. (2019). "New Flora of the British Isles." C&M Floristics.
 ---
 

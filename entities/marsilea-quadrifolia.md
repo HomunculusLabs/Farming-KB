@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Johnson, D.M. (1986). "Systematics of the New World species of Marsilea." Systematic Botany Monographs 11: 1–87.
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - Crow, G.E. & Hellquist, C.B. (2000). "permaculture-plants-aquatic-and-wetland-species Plants of Northeastern psilocybin-north-america-pacific-northwest." University of Wisconsin Press.
-  - Kadono, Y. (2004). "Aquatic Plants of Japan." Bun-ichi Sogo Shuppan.
   - Cook, C.D.K. (2004). "cannabis-leaf-morphology-and-phyllotaxy is unique among temperate aquatic plants and makes M. quadrifolia easily recognizable in the field.
 ---
 

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **[[banisteriopsis-caapi]]** (ayahuasca vine), which contains beta-carboline [[harmala-alkaloids]] (MAO inhibitors), with **[[psychotria-viridis]]** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
+Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline harmala alkaloids (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
 
 See [[dmt-reference]] for detailed pharmacology of DMT.
 
@@ -46,11 +46,11 @@ See [[dmt-reference]] for detailed pharmacology of DMT.
 Indigenous recipes often include additional plants with various purposes:
 
 - **Brunfelsia grandiflora** (chiric sanango) — for bone pain, cleansing
-- **Tobacco ([[nicotiana-rustica]])** — Mapacho, added for protection and strength; very strong
+- **Tobacco (Nicotiana rustica)** — Mapacho, added for protection and strength; very strong
 - **Datura brugmansia** (toé) — added in some traditions; contains tropane alkaloids, increases risk
-- **[[justicia-pectoralis]]** (marmelinho) — flavoring and aromatic
-- **[[ilex-guayusa]]** — stimulant admixture, rich in caffeine
-- **[[theobroma-cacao]]** — occasionally added, especially in Ecuadorian ceremonies
+- **Justicia pectoralis** (marmelinho) — flavoring and aromatic
+- **Ilex guayusa** — stimulant admixture, rich in caffeine
+- **Theobroma cacao** — occasionally added, especially in Ecuadorian ceremonies
 
 From Pablo Amaringo's Shipibo tradition (see [[pablo-amaringo]], [[amazonian-plant-teachers-doctores]]):
 

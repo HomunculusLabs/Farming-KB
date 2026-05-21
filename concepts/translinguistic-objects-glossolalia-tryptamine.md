@@ -3,7 +3,6 @@ title: Translinguistic Objects Glossolalia Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: tryptamine_cognition
 related:
-  - mckenna-baconian-exploration-tryptamine-research-methodology.md
 created: 2026-05-09
 ---
 

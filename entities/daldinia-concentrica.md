@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Whalley, A.J.S. (1996). The xylariaceous way of life. Mycological Research, 100(4), 389–392."
-  - "Stadler, M., et al. (2014). A cosmopolitan hypoxylon and allied genera. Mycological Progress, 13(1), 5–39."
   - "Pegler, D.N., et al. (1993). British Puffballs, Earthstars and Stinkhorns. Royal Botanic Gardens, Kew."
 ---
 

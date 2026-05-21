@@ -64,7 +64,7 @@ Vertical growing towers that hold multiple plants in a compact, upright format.
 
 ### Commercial Options
 - GreenStalk vertical garden (stackable tiers with built-in watering)
-- Garden Tower ([[composting]] core in center, 50+ planting pockets)
+- Garden Tower (composting core in center, 50+ planting pockets)
 - Foody towers (hydroponic vertical systems)
 
 ### Crops for Towers
@@ -80,7 +80,7 @@ Vertical gardens where plants grow in panels or pockets attached to a wall surfa
 ### Pocket Systems
 - Felt or fabric pockets mounted on a frame against a wall
 - Fill each pocket with lightweight soil mix
-- Irrigate with [[drip-line]] running across the top
+- Irrigate with drip line running across the top
 - Best for herbs, greens, strawberries, succulents
 
 ### Modular Panel Systems
@@ -93,7 +93,7 @@ Vertical gardens where plants grow in panels or pockets attached to a wall surfa
 - **Weight**: Wet soil is heavy — 15-25 lbs per square foot; ensure wall can support load
 - **Waterproofing**: Install waterproof membrane between living wall and building wall
 - **Drainage**: Include drainage tray or channel at the bottom
-- **Irrigation**: [[drip-irrigation]] essential; hand-watering is impractical
+- **Irrigation**: Drip irrigation essential; hand-watering is impractical
 - **Sun exposure**: Most living walls need at least 6 hours of direct sun
 - **Plant selection**: Shallow-rooted plants only — no deep-rooted vegetables
 - **Maintenance**: Regular watering, occasional fertilizing, replanting as needed
@@ -103,7 +103,7 @@ Vertical gardens where plants grow in panels or pockets attached to a wall surfa
 - Succulents (sedum, echeveria) for sunny, low-water walls
 - Herbs (thyme, oregano, mint) for kitchen-access walls
 - Strawberries for edible walls
-- Pothos, spider plant, and [[tradescantia]] for indoor walls
+- Pothos, spider plant, and tradescantia for indoor walls
 
 ## Pallet Gardens
 
@@ -148,3 +148,6 @@ The simplest and cheapest vertical support system, ideal for lightweight climber
 
 ### Advantages
 - Extremely low cost (jute twine is biodegradable)
+## See Also
+
+- [[comparison-vertical-gardening-vs-container-gardening]]

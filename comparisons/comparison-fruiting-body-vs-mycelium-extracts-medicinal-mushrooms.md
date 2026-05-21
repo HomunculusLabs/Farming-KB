@@ -4,11 +4,6 @@ tags: [medicinal-mushrooms, supplements, extraction, mycology, health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - 'Li, W. et al. (2020). "Comparison of β-glucan content in fruiting body and mycelium of stamets-reishi-ganoderma-lucidum-cultivation." Journal of Fungi, 6(4), 276.'
-  - 'Upton, R. et al. (2022). "Starch content analysis of commercial mycelium-based mushroom supplements." American Herbal Pharmacopoeia® Monograph.'
-  - 'Kozarski, M. et al. (2011). "Antioxidants in palmer-edible-mushrooms-north-america." Molecules, 16(4), 3014–3052.'
-  - 'Shen, J. et al. (2017). "Triterpenoids from ganoderma-lucidum: biological activities and health benefits." Natural Product Reports, 34(3), 268–285.'
-  - 'FDA (2023). "functional-foods-and-dietary-supplements-from-medicinal-mushrooms: What You Need to Know." U.S. Food and Drug Administration Guidance Document.'
 created: 2026-05-07
 type: comparison---
 ---

@@ -5,18 +5,6 @@ tags: [mushrooms, fungi, morchella, morel, cultivation, foraging, ecology, mycol
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ower, R. Notes on the biology of Morchella esculenta. Mycologia. 1982;74(1):142-144
-  - Ower, R., Mills, G., Malachowski, J. Cultivation of Morchella. US Patent 4,593,336. 1986
-  - Volk, T.J., Leonard, T.J. Cytology of the life cycle of Morchella. Mycologia. 1990;82(3):306-310
-  - Kuo, M. et al. Taxonomic revision of true morels (Morchella) in North America. Mycologia. 2012;104(5):1164-1181
-  - Stamets, P. Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press; 1993
-  - Cotter, T. Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing; 2014
-  - Money, N.P. Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists. Oxford University Press; 2002
-  - Leonard, T.J., Volk, T.J. A preliminary investigation of the life cycle and ecology of Morchella. Mycologia. 1992;84(4):516-523
-  - Du, X.H et al. Phylogeny and biogeography of the cosmopolitan genus Morchella. Fungal Diversity. 2012;56:211-222
-  - Chang, S.T., Hayes, W.A. The Biology and Cultivation of Edible Mushrooms. Academic Press; 1978
-  - Buscot, F. Field and laboratory synthesis of Morchella mycorrhizae. Mycorrhiza. 1992;1(1):13-17
-  - Masaphy, S. Biotechnology of morel mushrooms: successful fruiting body formation and development in a soilless system. Applied Microbiology and Biotechnology. 2010;85(5):1329-1336
 related_concepts:
   - morel-mushroom-guide
   - growing-gourmet-morel-cultivation
@@ -24,7 +12,6 @@ related_concepts:
   - cotter-morel-cultivation-research
   - growing-gourmet-black-morel-sclerotia-life-cycle
   - morel-morchella-cultivation-life-cycle
-  - bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution
   - mushroom-foraging-safety-and-toxicology
   - edible-wild-mushrooms-foraging-guide
   - mushroom-cultivation-fundamentals

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hroudová Z, Zakravský P (1999). "Butomus umbellatus — a species with dual reproductive strategies." Folia Geobotanica 34(3): 287-298.
-  - Deer HM (1994). "Butomus umbellatus L." Journal of Ecology 82(2): 373-382.
-  - Wu Y, Li W (2021). "Invasive plant Butomus umbellatus: Distribution, impacts, and management." Aquatic Invasions 16(4): 785-797.
-  - Hroudová Z, Zákravský P, Hájek M (1996). "The ecology of Butomus umbellatus in the Czech Republic." Folia Geobotanica et Phytotaxonomica 31(1): 41-53.
   - USDA NRCS (2024). "Butomus umbellatus L." PLANTS Database.
 ---
 

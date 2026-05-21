@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong DY, Pan JT (2012). "Campanulaceae." In: Flora of China, Vol. 19. Science Press & MBG Press.
-  - Lee YN (2004). "Flora of Korea." Kyohak Publishing Co., Seoul.
-  - Kim JH et al. (2018). "Bioactive compounds from Adenophora species." Journal of Medicinal Plants Research 12(7): 145-153.
   - Zhao YZ et al. (2015). "Pharmacological activities of triterpenoid saponins from Adenophora." Phytomedicine 22(14): 1289-1297.
 ---
 

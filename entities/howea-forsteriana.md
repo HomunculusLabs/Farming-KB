@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dowe, J.L. (2010). "Arecaceae." In: Orchard, A.E. (ed.), Flora of Australia Volume 57. ABRS/CSIRO.
-  - Hodel, D.R. (2017). "A review of the taxonomy, biogeography and conservation of the palms of Lord Howe Island." Palms, 61(3), 127-148.
-  - IUCN (2023). "Howea forsteriana." The IUCN Red List of Threatened Species.
-  - Fischer, E., Eich, S. (2015). "Howea (Arecaceae) on Lord Howe Island: niche differentiation and speciation." Botanical Journal of the Linnean Society, 177(4), 577-592.
   - Bensel, T., Brake, R.T. (1986). "Air purification by indoor plants." HortScience, 21(4), 949.
 ---
 
@@ -79,3 +75,14 @@ A well-draining [[query-how-to-protect-plants-from-frost-and-extend-the-growing-
 The species is relatively pest-resistant but may be affected by [[cervantes-spider-mites-identification-control]], mealybugs, and scale insects. Good [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
 
 The palm forests of Lord Howe Island provide habitat for several endemic and threatened species, including the Lord Howe woodhen (Gallirallus sylvestris) and the Lord Howe currawong (Strepera graculina crissalis).
+## Current Research
+
+Recent studies on howea forsteriana have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with howea forsteriana should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

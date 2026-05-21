@@ -5,7 +5,6 @@ tags: [ethnobotany, cannabis, ancient-history, psychoactive-plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 type: concept
 ---
 

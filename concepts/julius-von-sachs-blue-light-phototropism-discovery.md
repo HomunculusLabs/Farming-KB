@@ -6,9 +6,7 @@ tags: [sachs, phototropism, blue-light, plant-biology, history-of-science,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - daniel-chamovitz (2012), "What a Plant Knows," Oneworld Publications,
     Chapter 1
-  - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
 type: concept
 ---
 

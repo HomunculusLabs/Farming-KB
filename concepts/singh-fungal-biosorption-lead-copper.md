@@ -5,7 +5,6 @@ tags: [mycoremediation, biosorption, heavy-metals, lead, copper]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Fungal Biosorption of Lead and Copper
 

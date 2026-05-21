@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Stephenson, R. (1994). Sedum: Cultivated Stonecrops. Timber Press."
-  - "Cotter, J. (2012). Succulents Simplified: Growing, Designing & Crafting with 100 Easy-Care Varieties. Timber Press."
-  - "Royal Horticultural Society. (2025). Sedum — RHS Gardening. rhs.org.uk"
-  - "American Horticultural Society. (2019). Plant Propagation: The Fully Illustrated Plant-by-Plant Manual of Practical Techniques. DK."
 created: 2026-05-07
 type: comparison
 ---

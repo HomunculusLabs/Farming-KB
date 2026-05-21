@@ -4,11 +4,6 @@ tags: [chayote, taro, tropical-crops, root-crops, perennial-vegetables, comparis
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "FAO. *Taro Cultivation in the Pacific.* Food and Agriculture Organization of the United Nations, 2018."
-  - "Morton, J. *Chayote: Sechium edule.* Purdue University New Crops Resource, 1987."
-  - "National Research Council. *Lost Crops of the Incas.* National Academies Press, 1989."
-  - "Wilson, J.E. *Taro: A Review of Colocasia esculenta and Its Potentially Important Nutrients.* Journal of Food Science, 2020."
-  - "CABI. *Invasive Species Compendium: Sechium edule.* Centre for Agriculture and Bioscience International, 2023."
   - "University of Hawaii CTAHR. *Taro: Mauka to Makai.* College of Tropical Agriculture and Human Resources, 2019."
 ---
 

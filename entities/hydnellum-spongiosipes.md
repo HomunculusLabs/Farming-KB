@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Maas Geesteranus, R.A. (1971). "Hydnellum spongiosipes." Persoonia 6(3): 307-312.
-  - Baird, R.E. et al. (2013). "An annotated checklist of the Hydnaceae." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 58(1): 255-274.
-  - Kõljalg, U. et al. (2013). "Towards a unified paradigm for sequence-based identification of fungi." Molecular Ecology 22(21): 5271-5277.
-  - Coker, W.C. & Beers, A.H. (1951). "The Boletaceae of North Carolina." University of North Carolina Press.
 created: 2026-05-07
 ---
 

@@ -11,9 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
-  - Juniper, B.E., Robins, R.J. & Joel, D.M. (1989). "The Carnivorous Plants." Academic Press.
-  - Arber, A. (1941). "On the Morphology of the Pitcher-Plant (Darlingtonia californica)." Annals of Botany 5(18): 247–272.
-  - Fish, D. & Hall, D.W. (1978). "Succession and Stratification of Aquatic Insects Inhabiting the Leaves of Darlingtonia californica." American Midland Naturalist 99(1): 172–183.
   - Brewer, J.S. (1999). "Effects of Fire and Competition on the Pitcher Plant Darlingtonia californica." Madroño 46(3): 156–161.
 ---
 

@@ -6,7 +6,6 @@ tags: [soil-carbon, carbon-sequestration, humus, soil-biology, microbial]
 related: [savory-holistic-management-overview, savory-livestock-grazing-planning, savory-water-cycle-management]
 type: concept
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

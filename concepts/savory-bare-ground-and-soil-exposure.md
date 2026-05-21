@@ -5,7 +5,6 @@ tags: [soil-health, erosion, ecosystem-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Bare Ground and Soil Exposure
 

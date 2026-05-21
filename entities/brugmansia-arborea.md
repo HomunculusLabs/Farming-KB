@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lockwood, T.E. (1973). "Generic relationships within the Solanaceae." In: The Biology and Taxonomy of the Solanaceae. Academic Press.
-  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C. Thomas.
-  - Preissel, U. & Preissel, H.G. (2002). Brugmansia and Datura: Angel's Trumpets and Thorn Apples. Timber Press.
   - USDA NRCS (2024). "Brugmansia arborea." Natural Resources Conservation Service PLANTS Database.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bowden WM (1959). "Phylogeny of Lobelia and Related Genera." Canadian Journal of Botany 37: 697–710.
-  - Rzedowski J, Rzedowski GC (2001). "Flora Fanerogámica del Valle de México." Instituto de Ecología, Pátzcuaro.
-  - Lammers TG (2011). "Revision of Lobelia sect. Lobelia (Campanulaceae: Lobelioideae)." Journal of Botanical Research.
-  - Royal Horticultural Society (2023). "RHS Plant Finder: Lobelia fulgens." rhs.org.uk.
   - Richardson A (2004). "Plants of the Phoenix Metropolitan Area." ASU Press.
 ---
 

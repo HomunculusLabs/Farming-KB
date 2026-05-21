@@ -7,9 +7,6 @@ tags: [hallucinogenic-plants, datura, nightshade, solanaceae, deliriants,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
-  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
-  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 type: concept
 ---
 

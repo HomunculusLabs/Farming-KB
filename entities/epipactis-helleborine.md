@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sugiura, N. et al. (2006). "Pollination of Epipactis helleborine by the Hornet Vespa crabro in Japan." Journal of Plant Research, 119(3), 253–257.
-  - Jakubska-Busse, A. (2004). "Epipactis helleborine (L.) Crantz as a Mycorrhizal Orchid." Acta Societatis Botanicorum Poloniae, 73(4), 273–278.
-  - Taylor, D.L. et al. (2004). "Diversification in Orchids via growing-gourmet-north-american-reishi-species Orchids. Springer.
   - World Conservation Monitoring Centre (2023). Epipactis helleborine. The IUCN Red List of Threatened Species.
 ---
 

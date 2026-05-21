@@ -11,9 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Balfour, I.B. (1913). "The genus Primula." Journal of the Linnean Society, Botany 42: 511-569.
-  - Kovalevskaya, S.S. (1987). "Primulaceae." In: Flora of the USSR, Vol. XVIII. Keter Publishing.
-  - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
   - www.rhs.org.uk/plants/219816/primula-cortusoides/details
 ---
 

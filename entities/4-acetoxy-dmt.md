@@ -14,8 +14,6 @@ tags:
   - entheogen
   - designer-drug
 sources:
-  - Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press, pp. 640-642.
-  - Dean, B.J. et al. (2020). "The pharmacology of 4-AcO-DMT: A review of the preclinical and clinical literature." Journal of Psychopharmacology, 34(5), 527-539.
   - Clemens, J.J. et al. (2023). "cultural-evolution-and-psychoactive-substances — Psilacetin."
 ---
 

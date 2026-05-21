@@ -15,9 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Tropicana Cherries Strain Information." Leafly.com.
-  - AllBud (2023). "Tropicana Cherries blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
-  - Weedmaps Staff (2023). "Tropicana Cherries: Strain Review." Weedmaps.com.
 aliases:
   - Tropicana Cherry
   - Cherry Tropicanacreated: 2026-05-07

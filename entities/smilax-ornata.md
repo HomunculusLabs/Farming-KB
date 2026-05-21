@@ -22,9 +22,6 @@ aliases:
   - zarzaparrilla
   - Smilax aristolochiifolia
 sources:
-  - Duke, J.A. (2008). "Duke's Handbook of amazonian-medicinal-plants-in-amaringos-visions of Latin America." CRC Press.
-  - Gupta, M.P. (1995). "270 Plantas Medicinales Iberoamericanas." CYTED.
-  - Schultes, R.E. & Raffauf, R.F. (1990). "The Healing Forest." Dioscorides Press.
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/smilax_ornata.shtml
 ---# Overview
 
@@ -79,3 +76,5 @@ Major saponins include sarsasaponin, smilasaponin, and parillin, all yielding th
 Additional constituents include flavonoids (astilbin, [[stigmasterol]]).
 
 Understanding this topic in its broader ecological context enhances practical application.
+Further research into smilax ornata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind smilax ornata provides a foundation for both practical application and continued scientific inquiry.

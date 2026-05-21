@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ferguson, A.R. (1990). "The genus Actinidia." In: Advances in Botanical Research, 19, 347–390.
-  - Ferguson, A.R. & Huang, H. (2007). "Genetic resources of kiwifruit: domestication and breeding." Horticultural Reviews, 33, 1–121.
-  - Beever, D.J. & Hopkirk, G. (1990). Fruit Physiology and Production. In: Kiwifruit: Science and Management. Ray Richards Publisher.
-  - McGhie, T.K. & Ainge, G.D. (2002). "Color in fruit of the genus Actinidia." Journal of Agricultural and Food Chemistry, 50(1), 117–123.
   - USDA ARS. (2024). "GRIN Taxonomy: Actinidia deliciosa." Germplasm Resources bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation is dark green and often sparsely covered with reddish-brown hairs.
 ---
 

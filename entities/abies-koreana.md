@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Kim, C.S. & Yang, I.H. (1994). "Flora of Korea." Kyohaksa Publishing Co.
   - Hunt, R.S. (1993). "Abies." In: Flora dighton-fungal-responses-climate-change, restricted range, and low arthur-christmas-tree-amanita-muscaria in its native range and is gaining popularity in Europe. Its small size limits commercial production to smaller tree markets.
 ---
 

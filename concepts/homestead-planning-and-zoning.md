@@ -3,7 +3,7 @@ title: Homestead Planning and Zoning
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, law, sustainability, permaculture]
+tags: [homesteading, law, design, sustainability, permaculture]
 sources: []
 ---
 
@@ -45,7 +45,7 @@ Almost any permanent structure requires a building permit. This includes:
 - Driveways that connect to public roads (often requires a culvert permit from the county or DOT)
 - Dams, ponds, or water features
 
-**Unpermitted structures can be required to be removed at your expense, reduce your property value, and complicate future sales.** The permit gaias-garden-many-gardens-garden-design-process exists for safety and liability reasons.
+**Unpermitted structures can be required to be removed at your expense, reduce your property value, and complicate future sales.** The permit process exists for safety and liability reasons.
 
 Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) without permits if they meet certain criteria (no foundation, no utilities, under a size threshold). Research this carefully — the exemption varies enormously between counties.
 
@@ -113,7 +113,7 @@ Water law varies dramatically by state:
 - **Prior appropriation** (western US) — water rights are separate from land ownership, first in time is first in right. You may not have the right to use water on your own land without a separate water right
 - **Groundwater** — increasingly regulated. Many states now require permits for large-capacity wells
 
-Research water rights in your state before purchasing land. A property without reliable water rights is extremely limited for homesteading. See land-selection-for-homesteading and water-management for detailed water considerations.
+Research water rights in your state before purchasing land. A property without reliable water rights is extremely limited for homesteading. See [[land-selection-for-homesteading]] and [[water-management]] for detailed water considerations.
 
 ## Insurance
 
@@ -136,10 +136,4 @@ Discuss your homesteading plans with your insurance agent. An agricultural or fa
 6. Apply for necessary permits before beginning any work
 7. Schedule required inspections during construction
 
-Investing time in research upfront prevents expensive problems later. The most successful homesteads are built on a foundation of legal compliance, not conflict with local authorities. For budgeting your infrastructure costs, see homestead-financial-planning. When evaluating land for purchase, cross-reference zoning with land-selection-for-homesteading criteria.
-## See Also
-- [[homestead-financial-planning]]
-- [[homestead-communication]]
-- [[query-how-to-start-beekeeping-on-a-homestead]]
-- [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]
-- [[homestead-community-building]]
+Investing time in research upfront prevents expensive problems later. The most successful homesteads are built on a foundation of legal compliance, not conflict with local authorities. For budgeting your infrastructure costs, see [[homestead-financial-planning]]. When evaluating land for purchase, cross-reference zoning with [[land-selection-for-homesteading]] criteria.

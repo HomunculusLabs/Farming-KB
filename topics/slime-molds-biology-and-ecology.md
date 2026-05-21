@@ -11,14 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stephenson, S.L. & Stempen, H. (1994). Myxomycetes: A Handbook of Slime Molds. Timber Press.
-  - Bonner, J.T. (2009). The Social Amoebae: The Biology of Cellular Slime Molds. Princeton University Press.
-  - Keller, H.W. & Braun, K.L. (1999). "Myxomycetes of Ohio: Their Systematics and Biology." Ohio Biological Survey.
-  - Tice, A.K. et al. (2021). "Evolutionary relationships of the eukaryotic supergroup Amoebozoa." Journal of Eukaryotic Microbiology, 68(1), e12824.
-  - Latty, T. & Beekman, M. (2011). "Irreversible decision-making in the slime mold Physarum polycephalum." Proceedings of the Royal Society B, 278(1704), 307–312.
-  - Nakagaki, T. et al. (2000). "Maze-solving by an amoeboid organism." Nature, 407, 470.
-  - Adamatzky, A. (2016). From Slime Mould to Space Fungi: Speculative Design and Bio-Digital Architecture. Routledge.
-  - Feest, A. & Madelin, M.F. (1988). "A method for the enumeration of myxomycetes in soils and its application to a wide range of soils." FEMS Microbiology Ecology, 53(2), 103–110.
   - Schnittler, M. & Stephenson, S.L. (2002). "Phylogenetic relationships of the genus Physarum." Mycologia, 94(3), 536–544.
 ---
 

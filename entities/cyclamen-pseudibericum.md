@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (1997). "Cyclamen: A Guide for Gardeners, Horticulturists and Botanists." Timber Press.
-  - Compton, J.A., Groenhart, A., Iatrou, G. (2004). "A revised infrageneric classification of Cyclamen L." Kew Bulletin 59: 277-285.
-  - Debussche, M., Thompson, J.D. (2002). "Morphological differentiation in Cyclamen." Botanical Journal of the Linnean Society 139: 161-175.
-  - Mathew, B. (2013). "Genus Cyclamen." Royal Botanic Gardens, Kew.
   - www.cyclamen.org/index.php/species/pseudibericum
 ---
 

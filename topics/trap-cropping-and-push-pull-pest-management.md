@@ -12,13 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cook, S.M., Khan, Z.R. & Pickett, J.A. (2007). The use of push-pull strategies in comparison-beneficial-insects-guide-vs-integrated-pest-management. Annual Review of Entomology, 52, 375-400.
-  - Shelton, A.M. & Badenes-Perez, F.R. (2006). Concepts and applications of trap cropping in pest management. Annual Review of Entomology, 51, 285-308.
-  - Khan, Z.R., Midega, C.A.O., Pittchar, J.O. et al. (2011). Achieving food security for one million sub-Saharan African poor through push-pull technology. International Journal of Tropical Insect Science, 31, 131-136.
-  - Hokkanen, H.M.T. (1991). Trap cropping in pest management. Annual Review of Entomology, 36, 119-138.
-  - Pyke, B., Rice, M., Sabine, K. & Zalucki, M.P. (1987). The push-pull strategy—behavioural control of Heliothis. Australian Cotton Grower, 8, 7-9.
-  - Hassanali, A., Herren, H., Khan, Z.R., Pickett, J.A. & Woodcock, C.M. (2008). Integrated pest management: the push-pull approach for controlling insect pests and weeds of cereal crops. Philosophical Transactions of the Royal Society B, 363, 361-367.
-  - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of plant-volatile-communication-chemical-ecology, 26, 1265-1278.
   - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.---
 ---
 

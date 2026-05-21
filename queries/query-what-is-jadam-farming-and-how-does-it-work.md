@@ -5,7 +5,6 @@ tags: [query, jadam, natural-farming, organic, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 type: query
 ---
 

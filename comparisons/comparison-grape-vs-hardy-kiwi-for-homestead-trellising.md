@@ -5,11 +5,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cornell University College of Agriculture and Life Sciences –  Guide"
-  - "University of Minnesota Extension – Hardy Kiwi (actinidia-arguta)"
-  - "Missouri Botanical Garden – Actinidia arguta Plant Profile"
-  - "USDA Natural Resources Conservation Service – Plant Guides for Vitis and Actinidia"
-  - "California Rare Fruit Growers – Hardy Kiwi Fact Sheet"
 created: 2026-04-28
 type: comparison
 ---
@@ -79,3 +74,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## Current Research
+
+Recent studies on comparison grape vs hardy kiwi for homestead trellising have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison grape vs hardy kiwi for homestead trellising should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

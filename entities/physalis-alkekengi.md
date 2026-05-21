@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Zhang L. et al. (2016). "Chemical constituents and bioactivities of Physalis alkekengi." Journal of Ethnopharmacology 194: 1-18.
-  - Fernie A.R. & Sonnewald U. (2010). "The calyx of Physalis alkekengi." Plant Physiology 154(2): 453-455.
-  - European Medicines Agency (2015). "HMPC Monograph: Physalis alkekengi L., calycis fructus." EMA/HMPC/514445/2009.
-  - Pu X. et al. (2012). "Physalins from Physalis alkekengi." Natural Product Reports 29(8): 860-876.
   - Jin J.M. et al. (2014). "Anti-inflammatory withanolides from Physalis." Journal of Natural Products 77(2): 264-269.
 ---
 

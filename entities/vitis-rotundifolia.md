@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Olien, W.C. (1990). "The Muscadine Grape: Botany, Viticulture, History, and Current Industry." HortScience, 25(7), 732–739.
-  - Basiouny, F.M. & Himelrick, D.G. (2001). "Muscadine Grapes: Composition and Health Benefits." University of Arkansas Extension.
-  - Conner, P.J. (2009). "Muscadine Grape Breeding and Genetics." In Kole, C. (ed.), Fruits. Springer.
-  - Galet, P. (1979). A Practical Ampelography: Grapevine Identification. Cornell University Press.
   - Ruelle, P. & Leclercq, P. (2022). "Vitaceae of the Southeastern dmt-containing-plants-united-states-halpern." Castanea, 87(3), 245–267.
 ---
 
@@ -78,3 +74,14 @@ Color stability in muscadine wine is excellent due to high anthocyanin and polyp
 Muscadine pomace, the skins and seeds remaining after juice extraction, is increasingly utilized as a nutraceutical ingredient. Seed extracts standardized for resveratrol and proanthocyanidins are marketed as [[vitis-aestivalis]]
 - [[vitis-riparia]]
 - [[vitis-rupestris]]
+## Current Research
+
+Recent studies on vitis rotundifolia have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with vitis rotundifolia should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

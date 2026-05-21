@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Becker R, Dittmann M (2021). "Aconitum variegatum: phytochemistry and toxicology of a European alpine aconite." Phytochemistry 185: 112–129.
-  - Vogl S, Picker P (2020). "Diterpene alkaloid profiles of Central European Aconitum species." Journal of Pharmaceutical and Biomedical Analysis 178: 112–125.
-  - Fischer MA, Adler W, Oswald K (2005). Exkursionsflora für Österreich, Liechtenstein und Südtirol. Land Oberösterreich.
   - Landolt E et al. (2010). Flora Indicativa. Haupt Verlag, Bern.
 ---
 

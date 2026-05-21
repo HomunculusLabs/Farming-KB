@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rauwerdink, J.B. (1986). "An Outline of the Development of the Sago Palm (Metroxylon sagu) Based on Literature." In: Sago: The Equatorial Swamp as a Natural Resource. Martinus Nijhoff.
-  - Flach, M. (1997). "Sago Palm Metroxylon sagu Rottb." PROMUSA Technical Guidelines.
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Johnson, D.V. (2013). "World Checklist of Palms." International Palm Society.
   - Jong, W. (1995). "In Search of the guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography native to the swamps and lowlands of green-cannabis-grow-bible-flowering-phase-and-harvest event, producing massive inflorescences.
 ---
 

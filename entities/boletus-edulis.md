@@ -11,9 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hall, I.R., Stephenson, S.L., Buchanan, P.K., Wang, Y. & Cole, A.L.J. (2003). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press."
-  - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Kuo, M. (2012). 100 Edible Mushrooms. University of Michigan Press."
   - "Boa, E. (2004). Wild Edible Fungi: A Global Overview of Their Use and Importance to People. FAO."
 ---
 

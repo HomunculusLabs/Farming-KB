@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - Hobbs, J. (2020). "Agroforestry and bill-mollison-permaculture-a-designers-manual-permaculture-design-principles." Cascadia Permaculture Institute.
-  - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd ed. Chelsea Green. (references Hobbs' design philosophy)
-  - Holmgren, D. (2002). Permaculture: Principles and Pathways Beyond Sustainability. Holmgren Design Services.
   - Wilson, E.O. (1992). The Diversity of Life. Harvard University Press. (context for Hobbs' biodiversity advocacy)
 ---
 

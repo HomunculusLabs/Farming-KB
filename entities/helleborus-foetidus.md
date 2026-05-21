@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1989). "Helleborus." The Plantsman 11(2): 89–105.
-  - Rice, G. & Strangman, E. (1993). The Gardener's Guide to Growing Hellebores. Timber Press.
   - Werner, K. (2004). "Ranunculaceae: Helleborus." In: Kadereit, J.W. (ed.), The Families and Genera of Vascular Plants. Springer.
 ---
 

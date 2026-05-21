@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Christodoulou, C.S. (1985). "The ecology and sociology of the oriental plane tree, Platanus orientalis L., in Greece." Journal of Biological Research.
-  - Grimshaw, J. & Bayton, R. (2009). "New Trees: Recent Introductions to Cultivation." Kew Publishing.
-  - Peirce, A.S. (1936). "The Anatolian Plane (Platanus orientalis) and its relatives." Journal of the Arnold Arboretum, 17(4), 297–312.
-  - Tutin, T.G. et al. (1968). "Flora Europaea, Vol. 2." Cambridge University Press.
   - Fiori, A. (1923). "Nuova Flora Analitica d'Italia." Tipografia M. Ricci.
 ---
 

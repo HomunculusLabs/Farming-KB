@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook hallucinogenic-plants-of-the-world's Conifers." 2nd ed. Brill.
-  - Talhouk, S.N. et al. (2001). "Conservation of the Cedar of Lebanon." fungal-biodiversity-and-ecosystem-function Conservation 10(11).
-  - IUCN Red List. "Cedrus libani." https://www.iucnredlist.org/
   - Barbero, M. et al. (1981). "Sur la taxinomie des cèdres." Annales des Sciences Forestières 38(4).---
 ---
 
@@ -79,3 +76,5 @@ Common challenges include resource limitations, environmental variability, and k
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
 Ongoing conservation efforts focus on sustainable management and genetic preservation.
+Further research into cedrus libani continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind cedrus libani provides a foundation for both practical application and continued scientific inquiry.

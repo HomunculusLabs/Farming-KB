@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Whittemore, A.T. (1997). "Myosurus." In Flora of North America Editorial Committee (eds.), Flora of North America North of Mexico, Vol. 3. Oxford University Press.
-  - Hoffmann, M.H. (1999). "The phylogeny of Myosurus (Ranunculaceae) based on molecular and morphological data." Plant Systematics and Evolution, 216, 129-139.
-  - USDA NRCS PLANTS Database. "Myosurus minimus L." https://plants.usda.gov
   - Tutin, T.G. et al. (1993). Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Spore Printing and Storage
 created: 2026-04-11
 updated: 2026-04-12
@@ -127,4 +128,4 @@ See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 - **Silica gel packets** — include in all storage containers to absorb residual moisture
 
 ## Related
-[[mushroom-species-guide]], [[pf-tek]]
+[[mushroom-species-guide]], [[pf-tek-guide]]

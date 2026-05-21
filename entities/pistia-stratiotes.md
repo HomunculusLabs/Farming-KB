@@ -11,10 +11,6 @@ tags:
   - permaculture
   - water-purification
 sources:
-  - Holm, L.G. et al. (1977). "The World's Worst Weeds: Distribution and Biology." University Press of Hawaii.
-  - Pieterse, A.H. (2003). "Pistia stratiotes L." In: Aquatic Weeds: Problems and Control. Springer.
-  - Saha, S. et al. (2020). "Phytoremediation potential of Pistia stratiotes for heavy metal removal." Environmental Technology & Innovation, 20, 101089.
-  - Lin, Y. et al. (2015). "Pistia stratiotes as a phytoremediation agent." Environmental Science and Pollution Research, 22(1), 746-758.
   - EPPO (2022). "Pistia stratiotes (PISTS) - datasheet." European and Mediterranean Plant Protection Organization.
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." University of Michigan Press.
-  - Kuo, M. (2024). "Suillus placidus." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
-  - Hall, I.R. et al. (1998). "Edible and palmer-poisonous-mushrooms-deadly-species of the World." Timber Press.
 created: 2026-05-07
 ---
 

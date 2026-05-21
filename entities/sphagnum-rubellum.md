@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H. (1984). "Sphagnopsida, Sphagnaceae." growing-gourmet-north-american-reishi-species Flora, Series II, Part 11.
-  - Daniels, R.E. & Eddy, A. (1985). "Handbook of European Sphagna." Institute of Terrestrial Ecology.
-  - Rydin, H. & Jeglum, J.K. (2013). "Biology of Habitats: The Biology of Peatlands." Oxford University Press.
   - https://www.britishbryologicalsociety.org.uk/
 ---
 

@@ -15,15 +15,8 @@ updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
-  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 related_concepts:
   - mushroom-cultivation-fundamentals
-  - mushroom-fruiting-biology-light-tropisms-and-environmental-triggers
   - fungal-biodiversity-assessment-and-conservation
   - mycelium-networks-and-fungal-ecology
   - the-soil-food-web

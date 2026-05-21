@@ -113,13 +113,13 @@ Commercial systems like the Worm Factory or Can-O-Worms use multiple stacked tra
 ## Worm Species
 
 Most homestead bins use one of two species:
-- **[[eisenia-fetida]] (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
+- **Eisenia fetida (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
 - **Eisenia hortensis (European Nightcrawlers):** Larger, prefer cooler temperatures, good for garden beds
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on worm [[composting]] process and management
-- [[composting-methods-comparison]] — General composting methods including [[thermophilic-composting]] as an alternative or complement to vermicomposting
+- [[vermicomposting]] — Detailed guide on worm composting process and management
+- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
 - [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips

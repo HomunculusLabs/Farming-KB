@@ -18,12 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Glime JM. Bryophyte Ecology. Michigan Technological University, 2017.
-  - Shaw AJ, Goffinet B. Bryophyte Biology. Cambridge University Press, 2000.
-  - Vanderpoorten A, Goffinet B. Introduction to Bryophytes. Cambridge University Press, 2009.
-  - Proctor MCF. "Physiological Ecology." In: Bryophyte Biology, 2nd ed. Cambridge, 2009.
-  - Turetsky MR. "The role of bryophytes in carbon and query-how-does-nitrogen-cycling-work-in-a-permaculture-system." Bryologist, 2003.
-  - Rydin H, Jeglum J. The Biology of Peatlands. Oxford University Press, 2nd ed., 2013.
   - Frego KA. "Bryophytes as indicators of forest age and disturbance." Bryologist, 1996.
 ---
 

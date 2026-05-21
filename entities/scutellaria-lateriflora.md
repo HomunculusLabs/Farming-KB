@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory.
   - Mills, S. & Bone, K. (2000). The Principles and Practice of Phytotherapy. Churchill Livingstone.
 ---# Scutellaria lateriflora
 

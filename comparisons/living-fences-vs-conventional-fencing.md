@@ -13,9 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - The Encyclopedia of hamilton-geoffhamilton-nick-organic-gardening-companion-planting, J.I. Rodale
   - Restoration Agriculture, mark-shepard
-  - USDA Natural Resources Conservation Service: Hedgerow and Windbreak Technical Notes
   - Permaculture: A Designers' Manual, bill-mollison
   - The Farming Handbook, Peter Nuthall
 type: comparison---

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Krüssmann, G. (1984). Manual of Cultivated Broad-Leaved nitrogen-fixing-trees-and-shrubs. Timber Press.
-  - RHS (2023). "Hepatica nobilis." Royal Horticultural Society Plant Finder.
   - Bolli, R. (1991). "Revision of the genus Hepatica." Botanica Helvetica, 101, 71-100.
 ---
 

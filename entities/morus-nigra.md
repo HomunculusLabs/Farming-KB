@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - J. A. Zohary (1994). "Morus L." In: Flora Palaestina. The Israel Academy of Sciences and Humanities.
-  - E. M. Venkataramana et al. (2019). "A review on morus-rubra." Journal of Pharmacy & Bioallied Sciences, 11(Suppl 1), S75–S82.
-  - USDA Natural Resources Conservation Service. "Morus nigra L." PLANTS Database.
-  - M. L. Kafkas et al. (2008). "Molecular characterization of mulberry accessions from Turkey." Scientia Horticulturae, 116(4), 364–368.
   - A. K. Pandey et al. (2018). "Mulberry: A potential source of query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Journal of Integrative Medicine, 16(5), 367–376.---
 ---
 

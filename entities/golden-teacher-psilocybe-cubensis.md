@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). *forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World*. Ten Speed Press.
-  - Guzmán, G. (2005). *The Genus Psilocybe*. Verlag Von J. Cramer.
-  - Tylš, F. et al. (2014). "Psilocybin: pharmacology and subjective effects." *Journal of Psychopharmacology*, 28(2), 141-150.
-  - Carhart-Harris, R.L. et al. (2016). "Psilocybin with psychological support for treatment-resistant depression." *The Lancet Psychiatry*, 3(7), 619-627.
-  - Johns Hopkins University Center for Psychedelic and Consciousness Research.
   - Erowid psilocybe-cubensis)
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. et al. (1993). "Flora Europaea Vol. 1." Cambridge University Press.
-  - Dönmez, A.A. (2006). "Nigella — Flora of Turkey and the East Aegean Islands." Edinburgh University Press.
-  - Randriamampionona, D. et al. (2007). "Characterization of essential oil from Nigella arvensis." Journal of Essential Oil Research, 19(5), 412–414.
   - RHS (2023). "Nigella arvensis — Plant Finder." Royal Horticultural Society.
 ---
 

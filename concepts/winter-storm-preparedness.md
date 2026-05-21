@@ -16,7 +16,7 @@ Winter storms bring heavy snow, ice, extreme cold, and prolonged power outages. 
 **Winter Storm Watch:** Conditions favorable for significant winter weather — prepare
 **Winter Storm Warning:** Life-threatening winter weather occurring or imminent
 **Blizzard Warning:** 35+ mph winds with visibility below 1/4 mile for 3+ hours
-**Ice Storm Warning:** 1/4 inch+ ice [[mushroom-food-safety-heavy-metal-accumulation]] expected
+**Ice Storm Warning:** 1/4 inch+ ice accumulation expected
 
 Risk factors: distance from emergency services, dependence on electric heating and well pumps, exposed pipes, livestock care requirements, long driveways.
 
@@ -42,7 +42,7 @@ No electricity required. One square inch of open window per 1,000 BTU for ventil
 20-pound tank lasts 10-30 hours. Must have oxygen depletion sensor (ODS). Carbon monoxide detector mandatory.
 
 ### Generator Support
-A 5,000W generator can run a small electric furnace or several baseboard heaters. Have an electrician install a transfer [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. Never operate generators indoors or in attached garages.
+A 5,000W generator can run a small electric furnace or several baseboard heaters. Have an electrician install a transfer switch. Never operate generators indoors or in attached garages.
 
 ## Pipe Freeze Prevention
 
@@ -84,7 +84,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Warmth:** Sleeping bags rated to 0°F, extra wool blankets, warm layered clothing, waterproof boots and gloves, chemical heat packs, emergency thermal blankets (Mylar).
 
-**Power [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]]:** Generator with 20+ gallons fuel, flashlights/headlamps, lanterns, batteries, candles (use with caution), solar charger for phones.
+**Power and Light:** Generator with 20+ gallons fuel, flashlights/headlamps, lanterns, batteries, candles (use with caution), solar charger for phones.
 
 **Communication:** NOAA weather radio (battery/hand-crank), charged phone with backup battery, ham radio (see [[homestead-communication]]), written emergency contacts.
 

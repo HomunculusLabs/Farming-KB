@@ -5,7 +5,6 @@ tags: [plant-biology, phytochrome, far-red-light, photoreceptor, flowering]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/grahamholmes-what-a-plant-knowsindd.md"
 type: concept
 ---
 

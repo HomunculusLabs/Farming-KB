@@ -5,7 +5,6 @@ updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/symbiotic-fungi.md
 ---
 ## Nitrogen Transfer Through Mycorrhizal Networks

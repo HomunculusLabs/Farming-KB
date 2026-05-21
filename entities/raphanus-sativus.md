@@ -25,10 +25,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Wang, H. et al. (2014). "Raphanus sativus L.: phytochemical and pharmacological profile." Journal of Ethnopharmacology, 153(2), 261–273.
-  - Björkman, T. et al. (2008). "Integrating winter annual phosphate-accumulators-sustainable-agriculture, 30(1), 53–65.
-  - Duke, J.A. (2011). "Handbook of Alternative Cash Crops." CRC Press.
 created: 2026-05-07
 ---
 

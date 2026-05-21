@@ -5,7 +5,6 @@ tags: [query, pollinators, bees, biodiversity, garden-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 

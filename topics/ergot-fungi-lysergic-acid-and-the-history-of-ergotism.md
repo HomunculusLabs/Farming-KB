@@ -8,18 +8,14 @@ updated: 2026-05-19
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
   - "raw/papers/mckenna_t-food_of_the-gods.md"
-  - "raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 related_concepts:
   - ergot-and-lysergic-acid-history
   - ergot-fungi-and-ergotism-claviceps-purpurea
   - ergot-alkaloid-chemistry-history
   - bloomfield-ergot-claviceps-purpurea-ergotism
-  - claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids
   - ergot-alkaloids-eleusinian-mysteries
   - demeter-ergot-symbiosis-eleusinian-symbolism
   - albert-hofmann-early-career-ergot-research-sandoz
-  - bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis
   - claviceps-paspali-alkaloids
   - ergot-fungi-and-cordyceps
   - hofmann-ergonovine-self-experiment-detail

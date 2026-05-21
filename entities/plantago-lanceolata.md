@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hoffman, D. (2003). Medical Herbalism. Healing Arts Press.
   - Duke, J.A. (2002). Handbook of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide and is one of the most common and widely recognized medicinal plants in both traditional Western herbalism and modern phytotherapy.
 ---espite sharing its common name with the cooking banana, ribwort plantain is entirely unrelated to *Musa* species and belongs to a distinct family of small, wind-pollinated herbs.
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, S.G. (2002). "Schoenoplectus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 9–62.
-  - Froend, R.H. & McComb, A.J. (1994). "Response of Schoenoplectus tabernaemontani to Water Depth." Aquatic Botany 47(3): 273–284.
-  - Wilson, K.L. (1981). "A Synopsis of the Genus Scirpus sensu lato in Australia." Telopea 2(2): 141–163.
-  - Coast, O. et al. (2018). "Schoenoplectus tabernaemontani in constructed-wetland-design." Ecological Engineering 120: 1–9.
   - Soons, M.B. et al. (2017). "Seed Dispersal by Water in Schoenoplectus." Journal of Ecology 105(2): 389–401.
 ---
 

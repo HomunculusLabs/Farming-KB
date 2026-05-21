@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Root Beer
 
-Root beer is a sweet, carbonated beverage traditionally made from the root bark of the sassafras tree ([[sassafras-albidum]]), sarsaparilla (Smilax spp.), and a blend of other herbs and spices. It originated in North America as a folk beverage brewed by Indigenous peoples and European settlers. Commercial root beer became popular in the 19th century, with Charles Hires introducing the first commercial brand at the 1876 Philadelphia Centennial Exposition.
+Root beer is a sweet, carbonated beverage traditionally made from the root bark of the sassafras tree (Sassafras albidum), sarsaparilla (Smilax spp.), and a blend of other herbs and spices. It originated in North America as a folk beverage brewed by Indigenous peoples and European settlers. Commercial root beer became popular in the 19th century, with Charles Hires introducing the first commercial brand at the 1876 Philadelphia Centennial Exposition.
 
 Traditional homemade root beer is a lightly fermented beverage with natural carbonation, distinct from modern commercial root beers which are typically carbonated with pressurized CO2 and may contain artificial flavors.
 
@@ -30,7 +30,7 @@ In 1960, the FDA banned sassafras root and oil as food additives after studies s
 
 ### Sarsaparilla
 
-- Sarsaparilla ([[smilax-regelii]] or other Smilax species) provides a similar but distinct flavor — earthier, more bitter, slightly medicinal
+- Sarsaparilla (Smilax regelii or other Smilax species) provides a similar but distinct flavor — earthier, more bitter, slightly medicinal
 - Historically used as a medicinal tonic
 - Available as dried root bark from herb suppliers
 - Combines well with sassafras for a more complex flavor
@@ -42,7 +42,7 @@ A traditional root beer recipe includes a blend of:
 - Sassafras root bark (or safrole-free extract): primary flavor
 - Sarsaparilla root: secondary base flavor
 - Sassafras root bark or extract: main flavor note
-- Wintergreen ( [[gaultheria-procumbens]]): minty, sweet
+- Wintergreen ( Gaultheria procumbens): minty, sweet
 - Birch bark: wintergreen-like, creamy
 - Licorice root: sweet, anise-like, natural sweetness
 - Vanilla bean or extract: rounds out the flavor

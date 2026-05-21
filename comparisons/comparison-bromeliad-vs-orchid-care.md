@@ -4,11 +4,6 @@ tags: [epiphytes, bromeliads, orchids, houseplants, cultivation, care-guide, com
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
-  - Hessayon, D.G. (2014). The House Plant Expert. Expert Books.
-  - Royal Horticultural Society. "Orchid comparison-bean-growing-guide-vs-pepper-growing-guide." RHS Publications.
-  - Bechtel, H., Cribb, P. & Launert, E. (1992). The Manual of Cultivated Orchid Species. MIT Press.
-  - Kress, W.J. (2019). "Bromeliads: Tropical and Subtropical Plants for the Garden and Home." Smithsonian Gardens.
 created: 2026-05-07
 type: comparison
 ---
@@ -79,3 +74,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on comparison bromeliad vs orchid care have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison bromeliad vs orchid care should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

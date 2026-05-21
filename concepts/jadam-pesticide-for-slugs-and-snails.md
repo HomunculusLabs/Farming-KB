@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Pesticide for Slugs and Snails
 created: 2026-04-11
 updated: 2026-04-12
@@ -8,13 +9,13 @@ tags:
 - jadam
 - recipe
 - pesticide
-- pest-jadam-natural-pesticide-ultra-low-cost-pest-control
+- pest-control
 - water
 - wood-rot
 - plant-systems
 
 sources:
-- raw/papers/jadam-organic-farming-ultra-low-cost-jadam-organic-farming-ultra-low-cost-agriculture-philosophy.md
+- raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
 # JADAM Pesticide for Slugs and Snails

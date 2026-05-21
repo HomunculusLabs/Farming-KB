@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution climatic-zones-and-classification-systems of Palms. Royal Botanic Gardens, Kew.
-  - IUCN Red List of Threatened Species (2023). Hyophorbe lagenicaulis.
-  - Maunder, M., et al. (2002). "The Decline of the Palm Flora of the Mascarene Islands." Botanical Journal of the Linnean Society.
   - Bacon, P.R. (1979). "The palms of Round Island, Mauritius." Oryx 15(3): 221-229.
 ---
 

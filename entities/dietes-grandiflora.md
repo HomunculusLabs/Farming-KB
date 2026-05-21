@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J. (2008). "The Iris Family: Natural History and Classification." Timber Press.
   - Pooley, E. (1998). "A query-how-to-protect-plants-from-frost-and-extend-the-growing-season. Avoid waterlogging, which promotes rhizome rot.
 ---
 

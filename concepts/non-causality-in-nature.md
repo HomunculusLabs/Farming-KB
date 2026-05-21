@@ -5,8 +5,6 @@ tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - administrator-microsoft-word-fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis.md
 type: concept
 ---
 ## [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's

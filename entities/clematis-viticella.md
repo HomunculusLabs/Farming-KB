@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (2000). "Clematis: The Genus." Timber Press.
-  - Johnson, M. (2001). "The Genus Clematis." RHS / Timber Press.
-  - Royal Horticultural Society (2023). "Clematis viticella — Plant Finder." rhs.org.uk.
   - Toomer, J. (2007). "Clematis for Small Gardens." Timber Press.
 ---
 

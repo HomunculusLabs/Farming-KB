@@ -13,13 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Strain Database." Granddaddy Purple. https://www.leafly.com/strains/
     granddaddy-purple
-  - "Elysse Feigenblatt et al. (2019). Cannabis: A Complete Guide. Ulysses
     Press."
-  - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany.
     University of California Press."
-  - "AllBud Strain Reviews." Granddaddy Purple. https://www.allbud.com/
     marijuana-strains/indica/granddaddy-purple
 ---
 

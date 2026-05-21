@@ -10,7 +10,7 @@ sources: []
 # Homestead Poultry Health
 
 Maintaining healthy poultry on the homestead requires proactive management,
-biosecurity protocols, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ability to recognize disease early. Poultry
+biosecurity protocols, and the ability to recognize disease early. Poultry
 (including chickens, ducks, turkeys, and quail) are susceptible to a range of
 bacterial, viral, fungal, and parasitic diseases. Prevention is always more
 effective and economical than treatment.
@@ -24,7 +24,7 @@ effective and economical than treatment.
 - **Symptoms:** Bloody diarrhea, lethargy, hunched posture, ruffled feathers,
   weight loss, death. Most common in young birds (3-8 weeks).
 - **Transmission:** Fecal-oral. Spread through contaminated feed, water,
-  litter, and equipment. Survives for months [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition.
+  litter, and equipment. Survives for months in the environment.
 - **Treatment:** Amprolium (Corid) in water — 9.6 mg/ml for 5-7 days.
   Toltrazuril (Baycox) is also effective. Sulfa drugs for secondary
   infections.
@@ -79,7 +79,7 @@ effective and economical than treatment.
 ### External Parasites
 - **Northern Fowl Mite:** Most common external parasite. Small dark mites
   on feathers around vent. Causes anemia, reduced egg production.
-  Treatment: permethrin dust, [[diatomaceous-earth]], poultry sprays.
+  Treatment: permethrin dust, diatomaceous earth, poultry sprays.
 - **Scaly Leg Mite:** Burrows under leg scales. Raised, crusty scales.
   Treatment: petroleum jelly or vegetable oil on legs (suffocates mites).
   Repeat every 3 days for 2-3 weeks.
@@ -95,7 +95,7 @@ effective and economical than treatment.
 - **Roundworms (Ascaridia galli):** Most common. Intestinal worms causing
   weight loss, diarrhea, reduced production. Treat with fenbendazole
   (SafeGuard) or ivermectin.
-- **Tapeworms:** Require intermediate hosts ([[earthworms]], beetles). Segments
+- **Tapeworms:** Require intermediate hosts (earthworms, beetles). Segments
   visible in droppings. Treat with praziquantel.
 - **Capillaria (Threadworms):** Small, hard to see. Causes diarrhea and
   weight loss. Treat with fenbendazole.
@@ -106,15 +106,15 @@ effective and economical than treatment.
 
 ### The Foundation of Poultry Health
 
-Biosecurity [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] set of practices that prevent the introduction and spread
+Biosecurity is the set of practices that prevent the introduction and spread
 of disease on your homestead.
 
 ### Entry Protocols
-- **Quarantine** all new birds for 2-4 weeks [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] separate area, as far
+- **Quarantine** all new birds for 2-4 weeks in a separate area, as far
   from the existing flock as possible.
 - Observe quarantined birds daily for signs of disease.
 - Test for common diseases (Marek's, MG, pullorum) if possible.
-- Change clothing and footwear between quarantine area [[zone-two-orchard-and-main-crops]] flock.
+- Change clothing and footwear between quarantine area and main flock.
 - Do not share equipment between quarantined and established birds.
 
 ### Visitor Protocols
@@ -140,10 +140,16 @@ of disease on your homestead.
 - Allow housing to dry completely before restocking.
 - Lime (agricultural lime) on floor between flocks helps reduce pathogen load.
 
-## See Also
-- [[homesteading-livestock-comparison]]
 ## Vaccination
 
 ### Core Vaccines for Homestead Flocks
 - **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
-  vaccinate [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] after hatch.
+  vaccinate at home after hatch.
+- **Newcastle Disease:** Live vaccine, can be administered in water or by
+  eye drop. Recommended in areas where ND is endemic.
+- **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
+## See Also
+
+- [[query-how-do-i-design-an-integrated-poultry-system-for-my-homestead]]
+- [[free-range-poultry-management]]
+- [[poultry-forage-days-mollison]]

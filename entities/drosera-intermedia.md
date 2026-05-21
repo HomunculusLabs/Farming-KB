@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rivadavia, F. et al. (2003). "Drosera intermedia (Droseraceae): a well-defined species with wide morphological variation." Brittonia 55(2): 122-137.
-  - Gibson, T.C. (2014). "The evolution of the carnivorous plant genus Drosera (Droseraceae)." PhD Thesis, University of Wisconsin-Madison.
   - Fleischmann, A. et al. (2010). "A taxonomic review of Drosera intermedia in the Americas." Phytotaxa 23: 1-18.
 ---
 

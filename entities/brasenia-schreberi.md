@@ -11,7 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Osborn, T.G.B. & Kershaw, L. (1934). "The biology of Brasenia schreberi." Journal of Ecology, 22(2), 336–347.
   - Kubo, H. et al. (2011). "biodiversity-fungi-freshwater-aquatic-habitats plant in the family Cabombaceae.
 ---
 

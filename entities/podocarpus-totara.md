@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Allan, H.H. (1961). "Flora of New Zealand." Government Printer, Wellington.
-  - Burrows, C.J. (2013). "Seeds of New Zealand Gymnosperms & Dicotyledons." Manuka Press.
-  - Ogden, J. et al. (1993). "Forest pattern, composition and processes." In "The Restoration of Disturbed Landscapes." Wiley.
-  - Wardle, P. (1991). "Vegetation of New Zealand." Cambridge University Press.
   - New Zealand Plant Conservation Network (2023). "Podocarpus totara."
 ---
 

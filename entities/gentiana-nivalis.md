@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pritchard, N.M. (1972). "Gentianaceae." Flora Europaea, Vol. 3: 56–63.
-  - Nilsson, Ö. (2001). "Gentiana." Nordic Journal of Botany, 21(3): 257–301.
-  - Mossberg, B. & L. Stenberg (2003). "Den nya nordiska floran." Wahlström & Widstrand.
   - Körner, C. (2003). "Alpine Plant Life." 2nd ed., Springer.
 ---
 

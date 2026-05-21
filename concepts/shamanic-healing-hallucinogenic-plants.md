@@ -10,10 +10,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Harner, M. (1980). The Way of the Shaman. Harper & Row.
   - Halifax, J. (1982). Shamanic Voices. Penguin.
-  - Furst, P.T. (1976). Hallucinogens and Culture. Chandler & Sharp.
   - Wasson, R.G. (1957). "Seeking the Magic Mushroom." Life, 42, 100-120.
 ---
 

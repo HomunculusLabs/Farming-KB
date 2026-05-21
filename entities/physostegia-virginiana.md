@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States." New York Botanical Garden.
-  - Cullina, W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Taylor, K. (2010). "Grow Native: Bringing Natural Beauty to Your Garden." Lone Pine Publishing.
 ---
 

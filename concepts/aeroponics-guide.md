@@ -9,16 +9,16 @@ sources: []
 
 # Aeroponics Guide
 
-Aeroponics [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing [[primary-nutrients-and-mineral-sources-in-soils]] act-brewing-techniques-and-oxygen-management directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
+Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 
 ## How Aeroponics Works
 
 The fundamental principle: plant roots are suspended in air within a closed or semi-closed chamber. A nutrient solution is atomized into fine droplets (typically 5-50 microns) and delivered to the root zone on a timed cycle. Roots absorb nutrients from the mist and oxygen from the surrounding air.
 
-Key advantages [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] air-based root zone:
+Key advantages of the air-based root zone:
 - Roots have maximum access to atmospheric oxygen (21% vs. ~6-8 mg/L dissolved O2 in water)
 - No growing medium to impede root growth or harbor pathogens
-- Extremely efficient nutrient [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] use
+- Extremely efficient nutrient and water use
 - Faster growth than any other method including traditional hydroponics
 - Roots are visible for health monitoring
 
@@ -106,7 +106,7 @@ Setup: neoprene collars in misting chamber lid, 3-5 second misting every 3-5 min
 - Root systems are massive and highly branched
 - Highest yields per watt of any growing method
 - Heavy buds require sturdy support structures in late flower
-- Requires careful EC/[[green-cannabis-ph-management-cannabis-growing]] as flowers develop
+- Requires careful EC/pH management as flowers develop
 
 ## DIY Aeroponics Build (LPA)
 
@@ -125,7 +125,7 @@ Build: drill 3-inch holes in lid, mount nozzles aimed at root zone, connect pump
 
 Healthy aeroponic roots should be:
 - White or cream-colored
-- Densely branched with many fine [[root-hairs]]
+- Densely branched with many fine root hairs
 - Firm and turgid (not slimy or mushy)
 - Growing rapidly and filling the chamber
 
@@ -139,12 +139,17 @@ Prevention:
 - Maintain water temperature at 65-70°F (18-21°C) — use a water chiller if needed
 - Use RO water and clean, synthetic nutrients
 - Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
-- Add beneficial bacteria ([[bacillus-subtilis]] strains) to prevent pathogen colonization
+- Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
 - Replace misting nozzles regularly or clean them with vinegar or CLR
 - Keep the root chamber completely light-proof
 
 ## Nutrient Solution for Aeroponics
+
+Aeroponics requires clean, well-filtered nutrient solutions:
+- Always use RO or distilled water
+- Filter nutrients through a 50-micron filter before adding to the reservoir
 ## See Also
 
-- [[hydroponic-growing-basics]] for simpler hydroponic alternatives
-- [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
+- [[aeroponics-cannabis]]
+- [[comparison-aeroponics-vs-aquaponics]]

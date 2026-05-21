@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Graikou, K. et al. (2014). "Galeopsis species: phytochemistry and pharmacology." Frontiers in Pharmacology, 5, 37.
-  - Barros, L. et al. (2010). "Nutritional and antioxidant evaluation of Galeopsis tetrahit." LWT — Food Science and Technology, 43(6), 916-922.
-  - EMEA (2011). "Community monograph on Galeopsis tetrahit." European Medicines Agency HMPC.
-  - Hegnauer, R. (1989). Chemotaxonomie der Pflanzen, Band 8. Birkhäuser Verlag.
   - Pignatti, S. (1982). Flora d'Italia. Edagricole, Bologna.
 ---
 

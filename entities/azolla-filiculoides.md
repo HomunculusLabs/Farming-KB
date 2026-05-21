@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lumpkin, T.A. & Plucknett, D.L. (1980). "Azolla: Botany, Physiology, and Use as a coleman-mobile-greenhouse-green-manure-soil-building." Economic Botany 34(2): 111-153.
-  - Wagner, G.M. (1997). "Azolla: A review of its biology and utilization." The Botanical Review 63(1): 1-26.
-  - Bocchi, S. & Malagoli, M. (2010). "Azolla-Anabaena as biofertilizer." In: Handbook of Organic Food Safety and Quality. Woodhead Publishing.
-  - Peters, G.A. & Meeks, J.C. (1989). "The Azolla-Anabaena symbiosis." Annual Review of Plant Physiology 40: 193-210.
   - Liu, W. et al. (2020). "Azolla as a sustainable biofertilizer." Agriculture, Ecosystems & Environment 290: 106464.
 ---
 

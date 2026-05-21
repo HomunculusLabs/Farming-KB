@@ -10,7 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff. (2023). "Liquid Gelato Strain Information." Leafly.com.
   - AllBud. (2024). "Liquid cannabis-resin-production-and-quality-traits-clarke dessert-like terpene profile, it has gained recognition among cultivators and consumers for its heavy trichome coverage and strong psychoactive effects.
 ---
 

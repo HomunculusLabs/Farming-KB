@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Pilát, A. (1953). \"The Boletineae of Michigan.\" University of Michigan Press."
-  - "Marr, C.D. & Stuntz, D.E. (1973). \"Ramaria of western Washington.\" Mycologia Memoir, 3, 1-110."
-  - "Corner, E.J.H. (1950). \"A Monograph of Clavaria and Allied Genera.\" Oxford University Press."
   - "Schild, E. et al. (1998). \"Toxins of Ramaria formosa.\" Mycological Research, 102(2), 247-251."
 ---
 

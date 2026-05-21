@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. & J. Camus. (1991). "The illustrated field-guide-psilocybin-bluing-reaction-identification to ferns and allied plants of the British Isles." Natural History Museum Publications.
-  - Hoshizaki, B.J. & R.C. Moran. (2001). "Fern Grower's Manual." Timber Press.
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - Fraser-Jenkins, C.R. (2007). "Taxonomic revision of three hundred Indian subcontinental pteridophytes." Bishen Singh Mahendra Pal Singh.
   - RJS Stanforth. (2020). "The genus Dryopteris in Europe." Fern Gazette.
 ---
 

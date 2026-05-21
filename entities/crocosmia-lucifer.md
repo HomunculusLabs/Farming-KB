@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J.C. (2008). "The Iris Family: Natural History and Classification." Timber Press.
-  - Royal Horticultural Society (2023). "Crocosmia 'Lucifer'." RHS Plant Finder.
-  - Bloom, A. (1969). "Bulbs for the Garden." Faber & Faber.
-  - Bryan, J. (2002). "Bulbs" Revised Edition. Timber Press.
   - Morgan, J. & Fielding, A. (2008). "Crocosmia and Chasmanthe." Royal Horticultural Society Plant Monograph.
 ---
 

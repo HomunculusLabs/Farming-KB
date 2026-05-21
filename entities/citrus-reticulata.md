@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Saunt, J. (2000). "query-best-citrus-varieties-for-different-climates of the World." Sinclair International.
-  - Liu, Y. et al. (2012). "Flavonoids and Limonoids in Citrus reticulata." Journal of Agricultural and Food Chemistry, 60(42), 10548–10554.
-  - Wang, Y.C. et al. (2019). "Phytochemistry and Health Benefits of fukuoka-mandarin-orange-citrus." Nutrients, 11(5), 1099.
-  - Gmitter, F.G. & Hu, X. (1990). "Origin, Evolution, and Breeding of the Mandarin." HortScience, 25(10), 1219–1222.
   - USDA Natural Resources Conservation Service. "Citrus reticulata Blanco." PLANTS Database.
 ---
 

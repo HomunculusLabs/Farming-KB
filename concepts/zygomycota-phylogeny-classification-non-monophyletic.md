@@ -8,12 +8,9 @@ tags:
   forcibly discharged conidia
 - **Trichomycetes (Harpellales)**: gut commensals of
   arthropods, excluding Amoebidiales
-- **Kickxellales** (excluding Spiromyces): characterized by
   plugged, flared septal pores
 - **Mucorales**: the largest order of zygomycetes
-- **Mortierellales**: basal sister group of the Mucorales
 - **Dimargaritales**: parasites of other fungi
-- **Zoopagales**: predators or parasites of small invertebrates
 type: concept
 ---
 

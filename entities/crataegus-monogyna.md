@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crane, P.R. (2017). "Crataegus (Hawthorn)." In: K. Kubitzki (ed.), The Families and Genera of Vascular Plants Vol. X. Springer.
-  - Fitch, R.M. et al. (2008). "Hawthorn (Crataegus spp.) in the Treatment of Cardiovascular Disease." Pharmacognosy Reviews 2(3): 18-26.
-  - USDA, NRCS (2024). "Crataegus monogyna Jacq. Plant Guide." USDA Natural Resources Conservation Service.
   - Tassini, M. et al. (2013). "Crataegus monogyna Jacq.: Phytochemical and Pharmacological Overview." Phytotherapy Research 27(12): 1751-1765.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
-  - Oettingen, G. et al. (2001). University of Hamburg / University of New York.
-  - Fredrickson, B.L. (2003). "The value of positive emotions." American Scientist.
   - University of Gottingen. (2009). "Single emotional words and anxiety."
 ---
 

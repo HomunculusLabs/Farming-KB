@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry, M.D. & Guiry, G.M. (2024). "Sargassum horneri." AlgaeBase.
-  - NOAA (2023). "Sargassum horneri Invasive Species Alert." NOAA National Marine Sanctuaries.
-  - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
-  - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
   - Li, R. et al. (2020). "sargassum horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
 ---
 

@@ -18,7 +18,6 @@ related:
   - "cannabis microbiome"
   - "cannabis rhizosphere"
   - "endorhiza"
-  - "core-endorhiza-microbiome-proteobacteria-enrichment-cannabis** of cultivar-specificity-persistence-post-harvest-cannabis-endorhiza|cultivars grown in controlled field conditions. The core taxa include members of the genera cellvibrio-and-root-decay-microbiome, as well as the families cannabis core endorhiza taxa xanthomonadaceae oxalobacteraceae actinomycetales and cannabis core endorhiza taxa xanthomonadaceae oxalobacteraceae actinomycetales, and the orders cannabis core endorhiza taxa xanthomonadaceae oxalobacteraceae actinomycetales and cannabis-sativa cultivars. Winston et al. tested five commercially and geographically distinct cultivars—**Burmese**, **Bookoo Kush**, **Sour Diesel**, **White Widow**, and **Maui Wowie**—and found that these core taxa were present in the endorhiza of every cultivar examined. These cultivars were selected to represent a broad range of chemotypic profiles (varying ratios of pseudomonas was the single most prevalent genus identified in the Cannabis endorhiza across all cultivars. Members of this genus are well-documented ph-and-nutrient-availability-garden-soils in the rhizosphere by converting insoluble phosphates into plant-accessible forms
 - **fungal-elicitors-enhanced-secondary-metabolite-production**, providing biological control against soil-borne fungal pathogens
 - **ACC deaminase activity**, reducing plant ethylene stress under abiotic and biotic challenge
 ---

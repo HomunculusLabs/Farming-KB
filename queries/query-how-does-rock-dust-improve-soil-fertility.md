@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hamaker, J. "The Survival of Civilization"
-  - Manning, D.A.C. "Mineral Sources of Potassium for Plant Nutrition"
 type: query
 ---# How Does Rock Dust Improve Soil Fertility?
 

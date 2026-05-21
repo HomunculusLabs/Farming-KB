@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA Forest Service Silvics Manual
-  - growing-gourmet-north-american-reishi-species Nut Growers Association
   - Cornell University Horticulture Department
 ---# Hickory and Butternut Cultivation
 

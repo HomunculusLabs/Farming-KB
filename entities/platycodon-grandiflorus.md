@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li, X. et al. (2021). "Phytochemistry and pharmacology of Platycodon grandiflorus: A review." Journal of Ethnopharmacology, 274, 114051.
-  - Yoon, Y.D. et al. (2013). "Platycosides from the roots of Platycodon grandiflorus and their health benefits." Preventive Nutrition and Food Science, 18(4), 219-228.
-  - Wang, C. et al. (2014). "Anti-inflammatory and immunomodulatory effects of Platycodon grandiflorus." International Journal of Molecular Sciences, 15(7), 12344-12358.
-  - Kim, Y.S. et al. (2015). "Saponins from Platycodon grandiflorus: Chemistry and biological activities." Natural Product Reports, 32(8), 1173-1186.
   - Nagatsu, A. et al. (1995). "Platelet activating factor (PAF) antagonists from Platycodon grandiflorus." Chemical & Pharmaceutical Bulletin, 43(3), 484-486.
 ---
 

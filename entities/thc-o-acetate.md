@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Adams, R. et al. (1949). "Structure of Cannabinols." Journal of the American Chemical Society.
-  - Hazekamp, A. et al. (2022). "Cannabinoid Chemistry." European Journal of Chemistry.
   - DEA Drug and Chemical Evaluation: THC-O (2022)
 ---# THC-O Acetate (THC-O, THC Acetate)
 

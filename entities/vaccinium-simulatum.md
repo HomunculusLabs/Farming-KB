@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Research Branch, Agriculture Canada.
-  - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species blueberries with notes on other groups of Vacciniaceae." Brittonia 5(3): 203–275.
-  - Galletta, G.J. & Ballington, J.R. (1996). "Blueberries, cranberries, and lingonberries." In: Janick & Moore (eds.), Fruit Breeding, Vol. II. Wiley.
   - Weakley, A.S. et al. (2023). Flora of the Southeastern United States. University of cannabis-vegetative-growth-stage and increased fruit production. The species responds positively to moderate levels of canopy disturbance but declines under both full canopy closure and complete exposure.
 ---
 

@@ -12,9 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural
     Ingredients." Wiley.
-  - Duke, J.A. (2002). "Handbook of aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham
     in Pimpinella anisum." J. Agric. Food Chem. 50: 3761–3767.
   - WHO Monographs (2007). "Pimpinella anisum." Vol. 3.
 ---

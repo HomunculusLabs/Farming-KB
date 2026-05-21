@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ang H.H., Cheang H.S. (2001). "Effects of eurycoma-longifolia Jack on sexual qualities in middle-aged male rats." Phytomedicine.
-  - Bhat R., Karim A.A. (2010). "Tongkat Ali (blesching-ten-strategies-reduce-fear-anxiety-stress-hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition.
-  - Low B.S., Das P.K., Chan K.L. (2013). "Standardized quassinoid-rich Eurycoma longifolia extract improved sperm quality." Evidence-Based Complementary and Alternative Medicine.
-  - Chan K.L., Choo C.Y., Abdullah N.R., Ismail Z. (2004). "Sexual arousal in sexually sluggish old male rats after oral administration of Eurycoma longifolia Jack." Journal of Basic and Applied Sciences.
 created: 2026-04-28
 ---
 

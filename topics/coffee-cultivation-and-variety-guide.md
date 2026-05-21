@@ -5,13 +5,7 @@ tags: [coffee, cultivation, arabica, robusta, agroforestry, shade-grown, coffee-
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - concepts/bloomfield-coffee-rust-and-crop-pathogens.md
-  - concepts/mckenna-caffeine-coffee-and-industrial-revolution.md
-  - concepts/mckenna-food-gods-tea-coffee-drugs-gentility.md
   - concepts/mckenna-sugar-coffee-tea-chocolate.md
-  - concepts/mollison-designers-coffee-shade-growing-systems.md
-  - concepts/mollison-designers-shade-grown-coffee-and-cacao-systems.md
-  - concepts/oyster-mushroom-coffee-grounds-cultivation.md
 related_concepts:
   - agroforestry-and-alley-cropping
   - carbon-farming-and-climate-resilient-agriculture

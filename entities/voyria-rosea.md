@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Maas, P.J.M. & Ruyters, P. (1986). "Voyria (Gentianaceae): A Monograph." Flora Neotropica, 41.
-  - Merckx, V. et al. (2013). "Mycoheterotrophy: The Biology of Plants Living on Fungi." Springer.
-  - Kew Royal Botanic Gardens. "Voyria rosea." Plants of the World Online.
   - Imhof, S. (2010). "Morphology and anatomy of mycoheterotrophic Gentianaceae." Botanical Journal of the Linnean Society, 172(3).
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mamiko Seeds. "GMO (gmo-garlic-cookies)." Strain catalog, mamikoseeds.com.
-  - Leafly Staff. "GMO Strain Information." Leafly, leafly.com/strains/gmo.
-  - Wikileaf. "GMO (Garlic Cookies) Strain Review." wikileaf.com/strain/gmo.
   - AllBud. "GMO Marijuana Strain Information." allbud.com/gmo-strain.
 ---
 

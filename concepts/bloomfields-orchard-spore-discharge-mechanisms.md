@@ -14,7 +14,6 @@ tags:
   - fungal-physics
   - dispersal
 sources:
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms,
     Molds, and Mycologists by Nicholas P. Money (2002),
     Chapters 1 and 6
 ---

@@ -9,7 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Royal Horticultural Society. "Kerria japonica." RHS Plant Finder.
   - Bean, W.J. (1981). equatorial-photoperiod-early-flowering makes kerria an important nectar source when few other plants are in bloom.
 ---
 

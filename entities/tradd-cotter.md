@@ -13,7 +13,6 @@ sources:
   - concepts/cotter-laboratory-setup.md
   - concepts/mushroom-classroom-education-demos.md
   - concepts/mushroom-infused-honey-preparation.md
-  - concepts/mushroom-infused-beer-brewing-principles.md
   - concepts/cardboard-cultivation-low-tech-spawn.md
 status: complete
 ---# Tradd Cotter

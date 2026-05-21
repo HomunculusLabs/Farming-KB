@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Strid, A. & Tan, K. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
   - Phitos, D. et al. (1995). The Red Data Book of Rare and Threatened Plants of Greece. WWF Greece.
 ---
 

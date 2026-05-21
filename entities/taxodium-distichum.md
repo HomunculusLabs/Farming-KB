@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sharitz, R.R. & Lee, L.C. (1985). "Limited seed dispersal of Taxodium distichum by water." Bulletin of the Torrey Botanical Club 112(3): 259-263.
-  - Hook, D.D. (1984). "Water table depth and flooding tolerance of Taxodium distichum." American Journal of Botany 71(6): 828-834.
-  - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
   - Harlow, W.M. & Harrar, E.S. (1969). Textbook of Dendrology (5th ed.). McGraw-Hill.
 ---
 

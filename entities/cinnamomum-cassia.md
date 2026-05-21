@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ravindran, P.N. et al. (2004). Cinnamon and Cassia: The Genus Cinnamomum. Medicinal and Aromatic Plants — Industrial Profiles, Vol. 36. CRC Press."
-  - "Jayaprakasha, G.K. et al. (2006). \"Cinnamaldehyde and its role in health.\" Journal of Agricultural and Food Chemistry, 54(19), 7077-7083."
-  - "Kong, L.D. et al. (2009). \"Cinnamomum cassia: traditional uses, phytochemistry, and pharmacology.\" American Journal of Chinese Medicine, 37(2), 231-240."
-  - "Petrakis, L. et al. (2020). \"Coumarin, cinnamaldehyde, and cinnamic acid content in Cinnamomum cassia products.\" Food Chemistry, 312, 126059."
-  - "Chinese Pharmacopoeia (2020). Vol. I. People's Medical Publishing House."
   - "Wang, R. et al. (2021). \"Anti-diabetic effects of Cinnamomum cassia: a systematic review and meta-analysis.\" Journal of Ethnopharmacology, 277, 114253."
 ---
 

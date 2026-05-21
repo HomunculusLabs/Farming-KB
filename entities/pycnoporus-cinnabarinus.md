@@ -16,9 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbertoni-Lyman, T. (2004). "Pycnoporus P. Karst. (Polyporaceae)." Synopsis Fungorum, 19, 1–85.
-  - Martins, L.O. et al. (2002). "Production and biotechnological applications of laccases from Pycnoporus cinnabarinus." Enzyme and Microbial Technology, 30(6), 745-751.
-  - Eggert, C. et al. (1996). "fungal-manganese-peroxidase-remediation from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
  (neurotropic-fungi-taxonomic-classification)
   - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 52, 49-93.---
 ---# Pycnoporus cinnabarinus (Cinnabar Polypore)
@@ -79,3 +76,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Its efficient lignin-degrading enzyme system makes it a focus of biotechnology research.
 
 Understanding this topic in its broader ecological context enhances practical application.
+Further research into pycnoporus cinnabarinus continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pycnoporus cinnabarinus provides a foundation for both practical application and continued scientific inquiry.

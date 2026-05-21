@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vitikainen O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
-  - Goward T. (1999). "The ascomycota)." American Journal of Botany 105(6): 1095-1115.
   - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
 ---
 

@@ -18,10 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (2001). Handbook of Legumes of World Economic Importance. Plenum Press.
-  - Tanaka, J. et al. (2019). "Chenopodium album: A comprehensive review of phytochemistry, pharmacology, and toxicology." Phytochemistry, 162, 83–102.
-  - Callaway, R.M. & Aschehoug, E.T. (2000). "Invasive plants versus their new and old neighbors." Ecology, 81(5), 1207–1224.
-  - Holm, L.G. et al. (1977). The World's Worst Weeds: Distribution and Biology. University Press of Hawaii.
   - Mabberley, D.J. (2017). Mabberley's Plant-Book (4th ed.). Cambridge University Press.
 ---
 

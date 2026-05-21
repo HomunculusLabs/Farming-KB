@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kerrigan, R.W. (2016). Agaricus of psilocybin-north-america-pacific-northwest. Memoirs of the New York Botanical Garden.
-  - Parra, L.A. (2013). "Agaricus L. s.l. (Fungi, Agaricaceae) in Spain." Bibliotheca Mycologica 209.
-  - Callac, P. & Guinberteau, J. (2005). "Mushrooms of the Agaricus genus: genetic resources and breeding." In: Mushroom Science XVII.
-  - Chen, J. et al. (2021). "A revision of Agaricus subgenus Spissicaules." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 109: 1-62.
 created: 2026-05-07
 ---
 

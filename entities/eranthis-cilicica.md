@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hiebert, R.D. & Peterson, R.L. (1985). "Biosystematics of the eranthis-hyemalis complex." Taxon, 34(2), 195-206.
-  - RHS (2024). "Eranthis cilicica — Plant Finder." Royal Horticultural Society.
-  - USDA NRCS (2024). "PLANTS Database: Eranthis cilicica."
   - Tamura, M. (1995). "Ranunculaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants, Vol. II. Springer.
 ---
 

@@ -147,3 +147,4 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 - Drain sprinkler systems
 - Insulate any exposed pipes with foam insulation or heat tape
 - Open cabinet doors under sinks on exterior walls during extreme cold
+

@@ -10,13 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Koroleva, N.S. (1988). 'Technology of kefir and koumiss.' Bulletin of the IDF, 227, 96-100."
-  - "Guzel-Seydim, Z.B., et al. (2011). 'Kefir: A probiotic dairy-composite.' In Probiotics and Health, InTech."
-  - "Marsh, A.J., et al. (2013). 'Kefir grains: Structure and microbial diversity.' In Fermented Functional Foods, CRC Press."
-  - "Fiorda, F.A., et al. (2017). 'Kefir: A functional dairy product.' Journal of Dairy Science, 100(6), 4183-4196."
-  - "Linares, D.M., et al. (2017). 'Kefir: A multi-functional fermented food.' Current Opinion in Food Science, 13, 1-7."
-  - "Prado, F.C., et al. (2015). 'Kefir: Composition, nutritional and therapeutic aspects.' Mini-Reviews in Medicinal Chemistry, 15(3), 274-282."
-  - "Schneedorf, J.M. (2013). 'Toxicology of kefir.' In Therapeutic Microbiology, Springer."
   - "Hertzler, S.R. & Clancy, S.M. (2003). 'Kefir improves lactose digestion.' Journal of the American Dietetic Association, 103(5), 582-587."
 ---
 

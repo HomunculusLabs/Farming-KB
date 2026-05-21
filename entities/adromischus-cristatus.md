@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tölken, H.R. (1985). "Crassulaceae." In Leistner, O.A. (ed.), Flora of Southern Africa.
-  - Jacobsen, H. (1986). "A Handbook of Succulent Plants." Blandford Press.
-  - Pilbeam, J. (2008). "Adromischus — The Cactus File Handbook." BCSS.
   - PlantZAfrica — SANBI. "Adromischus cristatus." https://pza.sanbi.org
 ---
 

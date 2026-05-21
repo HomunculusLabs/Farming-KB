@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Endophytic Fungi and Plant Interactions
 
-[[endophytic-fungi]] live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
+Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 
 ## Types of Endophytes
 
@@ -17,14 +17,14 @@ sources: [raw/papers/symbiotic-fungi.md]
 - Systemic infections of grasses (cool-season grasses: Festuca, Lolium)
 - Vertically transmitted (through seeds) and horizontally (through spores)
 - Produce alkaloids toxic to herbivores and some pathogens
-- Examples: [[epichloe-festucae]] in tall fescue, [[neotyphodium]] in perennial ryegrass
+- Examples: Epichloe festucae in tall fescue, Neotyphodium in perennial ryegrass
 
 ### Non-Clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant groups (not just grasses)
 - Horizontally transmitted (spores)
 - Extremely diverse: estimated 1 million+ endophytic fungal species
 - Many are latent pathogens that can become pathogenic under stress
-- Found in roots (endophytic [[mycorrhiza]]-like), leaves, stems, flowers, seeds
+- Found in roots (endophytic mycorrhiza-like), leaves, stems, flowers, seeds
 
 ## Benefits to Host Plants
 
@@ -32,7 +32,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 - Produce plant hormones (auxins, gibberellins, cytokinins)
 - Enhance nutrient uptake (solubilize phosphate, fix nitrogen)
 - Increase root biomass and branching
-- Improve [[photosynthetic-efficiency]]
+- Improve photosynthetic efficiency
 
 ### Stress Tolerance
 - **Drought**: Endophytes produce osmolytes that help plants retain water
@@ -66,7 +66,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 - Potential for reducing fertilizer and pesticide inputs
 
 ### Biocontrol
-- Endophytic Beauveria and Metarhizium: [[entomopathogenic-fungi]] that live in plants
+- Endophytic Beauveria and Metarhizium: entomopathogenic fungi that live in plants
 - Endophytic Trichoderma: suppress plant diseases from inside the plant
 - Combines biological control with plant growth promotion
 
@@ -75,7 +75,14 @@ sources: [raw/papers/symbiotic-fungi.md]
 - [[mycorrhizal-fungi]] — for root-associated symbionts
 - [[mycopesticides-fungal-biocontrol]] — for entomopathogenic fungi
 - [[fungal-symbiosis-types]] — for broader symbiosis context
+## Current Research
 
-Further research in this area has expanded our understanding
-of the underlying mechanisms and practical applications.
-These insights continue to inform both academic study and field practice.
+Recent studies on endophytic fungi plant interactions have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with endophytic fungi plant interactions should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

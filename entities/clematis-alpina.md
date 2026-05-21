@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson C (2000). "Clematis: The Genus." Timber Press, Portland, OR.
-  - Johnson M (2001). "The Genus Clematis." Magnus Johnson Books, Södertälje, Sweden.
-  - Wang WT, Li LQ (2005). "Clematis." In: Flora of China, Vol. 6. Science Press & Missouri Botanical Garden Press.
   - Royal Horticultural Society (2023). "Clematis alpina — RHS Gardening." rhs.org.uk.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Liao JC et al. (2018). "Curcuma wenyujin: phytochemistry, pharmacology, and clinical applications." Journal of Traditional and Complementary Medicine, 8(3), 335-344.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press.
-  - Zhang J et al. (2014). "β-elemene from Curcuma wenyujin: pharmacology and clinical use." Chinese Journal of Natural Medicines, 12(5), 321-330.
   - Wang Y et al. (2017). "Furanodiene from Curcuma wenyujin inhibits triple-negative guzman-magic-mushrooms-chemical-constituents of the mushroom-cancer-clinical-trials-overview in China have demonstrated efficacy against lung, liver, breast, and brain cancers, both as monotherapy and in combination with conventional chemotherapeutics. The injectable formulation improves quality of life scores and reduces chemotherapy-related lentinan-gastric-cancer-combination-therapy.
 ---
 

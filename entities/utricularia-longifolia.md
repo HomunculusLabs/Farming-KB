@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Taylor, P. (1989). "The Genus Utricularia: A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia Magnum Opus." Redfern Natural History Productions.
-  - Fleischmann, A. (2012). "Bladderworts of Europe." Lambert Academic Publishing.
-  - Fromm-Trinta, E. (1979). "As Lentibulariáceas do Brasil." Rodriguésia 31(49): 107-163.
   - World Carnivorous Plant Society. "Utricularia longifolia." https://www.carnivorousplants.org/cp/database/Utricularia/longifolia
 ---
 

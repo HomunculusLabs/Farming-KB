@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Beccari, O. (1931). "Asiatic Palms — Lepidocaryeae." Annals of the Royal Botanic Gardens, Calcutta, 13(2), 1-345.
-  - Huang, J. et al. (2019). "Biogeography and diversification of Trachycarpus." Botanical Journal of the Linnean Society, 191(2), 142-156.
-  - Mössmer, B.M. (2013). "Trachycarpus fortunei: distribution, ecology, and cultivation." Palm Journal, 171, 6-14.
-  - Auda, Y. et al. (2007). "Naturalized Trachycarpus fortunei in Switzerland." Biological Invasions, 9(6), 711-720.
   - Cevik, N. et al. (2016). "Fiber from Trachycarpus fortunei petioles." Industrial Crops and Products, 89, 1-8.
 ---
 

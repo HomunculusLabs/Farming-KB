@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tölken, H.R. (1985). "Crassulaceae: Flora of Southern Africa." Botanical Research Institute, Pretoria.
-  - van Jaarsveld, E.J. & Koutnik, D. (2004). "Cotyledon and Tylecodon." Umdaus Press.
-  - Eggli, U. (2003). "Illustrated Handbook of Succulent Plants: Dicotyledons." Springer.
-  - Pilbeam, J. (1998). "Cotyledon and Tylecodon." British Cactus and Succulent Society.
   - Rowley, G.D. (1978). "The Illustrated Encyclopedia of Succulents." Salamander Books.
 ---
 

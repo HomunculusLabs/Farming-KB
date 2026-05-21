@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Mogea, J.P., Gandawidjaja, D., Woltmann, B., & Dransfield, J. (2001). "A Guide to the Utilization of the Sugar Palm (Arenga pinnata)." CIFOR.
-  - Sanyal, S.N. (1980). "The Palms of India." Oxford & IBH Publishing.
   - Elevitch, C.R. & Manner, H.I. (2006). "Arenga pinnata (sugar palm), ver. 2.1." In "Species Profiles for Pacific Island psilocybe-southeast-asia-pacific. It is one of the most economically important palms in its native range, valued primarily for the production of palm sugar and palm wine (toddy).
 ---
 

@@ -16,9 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
-  - "McClintock, E. (1970). A Monograph of the Genus Mentha."
-  - "Lawrence, B.M. (2006). Mint: The Genus Mentha. CRC Press."
   - "Burt, S. (2004). panax-ginseng, and ease of cultivation. Unlike its close relative peppermint (*Mentha × piperita*), spearmint contains minimal menthol and is instead characterized by a sweet, mildly warm flavor with notes of caraway — a profile derived from its primary terpene, (−)-carvone. In permaculture and fukuoka-citrus-orchard-ground-cover-cultivation, insectary plant, and hamilton-vegetative-propagation. *Mentha spicata* as currently circumscribed may represent an allopolyploid of hybrid origin, likely involving *M. longifolia* and *M. suaveolens* or *M. rotundifolia*. The name *M. spicata* has been applied inconsistently in the literature, with some authors distinguishing between "native spearmint" (*M. spicata* sensu stricto) and "Scotch spearmint" (*M. × gracilis*, a hybrid of *M. spicata* × *M. arvensis*), which is the primary commercial source of spearmint oil in psilocybin-north-america-pacific-northwest.
 ---
 

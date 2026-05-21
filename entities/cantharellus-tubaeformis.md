@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Petersen, R.H. (1979). "Notes on Cantharellus." Mycologia, 71(3), 621-634.
-  - Feibelman, T.P. et al. (1997). "Phylogenetic relationships in Cantharellus." Mycologia, 89(5), 836-842.
-  - Arnolds, E. (2010). "The genus Cantharellus in Europe." Persoonia, 25, 1-18.
-  - Danell, E. & Camacho, F.J. (2004). "Cantharellus tubaeformis — a new look at an old mushroom." Botanica, 54, 1-14.
-  - Eyssartier, G. & Buyck, B. (2000). "Notes on the genus Craterellus." Mycotaxon, 75, 255-270.
 created: 2026-04-28
 ---
 

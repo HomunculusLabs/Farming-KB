@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moser, M. (1983). "Keys to Agarics and Boleti." Roger Phillips, London.
-  - Brandrud, T.E., et al. (1990-1998). "Cortinarius, Flora Photographica." Cortinarius HB, Stockholm.
   - Ammirati, J.F., et al. (2007). "Cortinarius in psilocybin-north-america-pacific-northwest." Mycologia, 97(3), 621-637.
 ---
 

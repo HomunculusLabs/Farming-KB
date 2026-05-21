@@ -15,11 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly. "Gary Payton blesching-cannabis-strain-selection-receptor-targeting Information." https://leafly.com/strains/gary-payton
-  - AllBud. "Gary Payton Strain Review." https://www.allbud.com/marijuana-strains/hybrid/gary-payton
-  - Cookies. "Gary Payton — Official Strain Page." https://www.cookies.co
-  - Wikileaf. "Gary Payton Strain Information." https://www.wikileaf.com/strain/gary-payton
-  - Cannasos. "Gary Payton Strain Review and Grow Info." https://www.cannasos.com/strains/gary-payton
 aliases:
   - Gary Payton
   - GP

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry M. D. & G. M. Guiry (2024). "Mastocarpus stellatus." AlgaeBase. https://www.algaebase.org/
-  - Collén J. et al. (2004). "Effect of commercial and experimental wrack-processing methods on the carrageenan quality and yield." Journal of Applied Phycology.
-  - Mathieson A. C. & C. A. Penniman (1986). "A phytogeographic interpretation of the marine algal flora of southern and southwestern Nova Scotia, Canada." Canadian Journal of Botany.
   - Hardy F. G. & M. D. Guiry (2003). "A Check-list and Atlas of the Seaweeds of Britain and Ireland." British Phycological Society.
 ---
 

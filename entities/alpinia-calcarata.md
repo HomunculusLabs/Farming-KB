@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Arambewela LSRD et al. (2005). "A review of the ethnomedical, phytochemical and pharmacological aspects of Alpinia calcarata." Journal of Medicinal Plants Research, 3(5), 329-337.
-  - Jayatilaka KAPW et al. (2003). "Volatile constituents of Alpinia calcarata rhizomes." Flavour and Fragrance Journal, 18(3), 212-214.
-  - Ratnasooriya WD & Dharmasiri MG (2000). "Analgesic effect of Alpinia calcarata rhizome extract." Journal of Ethnopharmacology, 72(1-2), 287-292.
-  - Srividya AR & Dhanabal SP (2008). "Antibacterial activity of Alpinia calcarata." Indian Journal of Pharmacology, 40(4), 171-173.
   - Yakandawala D et al. (2018). "Alpinia calcarata: a comprehensive review." Pharmacognosy Reviews, 12(24), 126-133.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A., Galeano, G. & Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Zona, S. (1990). "A Monograph of Sabal." Ph.D. dissertation, Cornell University.
-  - Tomlinson, P.B. (1990). "The Structural Biology of Palms." Oxford University Press.
   - USDA NRCS (2024). "Rhapidophyllum hystrix Plant Guide." Natural Resources Conservation Service.
 ---
 

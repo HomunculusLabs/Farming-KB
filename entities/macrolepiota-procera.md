@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Vellinga, E.C. (2003). "Phylogeny of Lepiota s.l." Mycological Research, 107(1), 1-11.
-  - Breitenbach, J. & Kränzlin, F. (1995). Fungi of Switzerland, Vol. 4.
-  - Boa, E. (2004). Wild Edible Fungi: A Global Overview. FAO.
   - Vaz, J.A. et al. (2012). "Proteins from Macrolepiota procera." Journal of Agricultural and Food Chemistry, 60(9), 2315-2322.
 ---
 

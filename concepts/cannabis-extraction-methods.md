@@ -35,11 +35,11 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-[[ben-lemon]]'s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
+Ben Lemon's "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 
-**2. [[reflux-extraction]]**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
+**2. Reflux extraction**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
 
 **3. Solvent options** (from Lemon's guide):
 
@@ -48,11 +48,11 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 | Methanol | 64°C | High | Low | High (toxic fumes) | Good selectivity; traces hazardous |
 | Isopropyl (70%) | ~82°C | Lower | Higher (2x) | Moderate | Water content extracts tars |
 | Ethanol | 78.5°C | High | Low | Low | Ideal but hard to obtain pure |
-| [[petroleum-ether]] | 30-60°C | Highest | Low | Extreme (explosive) | Most selective; use in re-extraction |
+| Petroleum ether | 30-60°C | Highest | Low | Extreme (explosive) | Most selective; use in re-extraction |
 
 **4. Soxhlet washing**: After reflux, the oil-bearing solvent is drained and clean solvent is refluxed through the spent material to wash out remaining oil.
 
-**5. Solvent removal**: The solvent is distilled off using an ice-cooled condenser apparatus, leaving the essential oil behind. Pure ethanol is preferred for safety. Traces of solvent are removed by adding water and evaporating in an oil bath above the boiling point of water (100°C) but below the [[decomposition]] temperature of cannabinoids.
+**5. Solvent removal**: The solvent is distilled off using an ice-cooled condenser apparatus, leaving the essential oil behind. Pure ethanol is preferred for safety. Traces of solvent are removed by adding water and evaporating in an oil bath above the boiling point of water (100°C) but below the decomposition temperature of cannabinoids.
 
 **6. Purification**: The crude oil is dissolved in alcohol, mixed with water, then extracted with petroleum ether. Three layers separate: bottom (water/alcohol/tars), middle (wax emulsion), top (purified cannabinoids in petroleum ether). The top layer contains the most potent fraction.
 

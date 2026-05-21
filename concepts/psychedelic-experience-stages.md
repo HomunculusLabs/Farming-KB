@@ -1,5 +1,5 @@
 ---
-title: Psychedelic mckenna-dmt-onset-phenomenology-and-mode-shift-experience Stages — Turner's Model
+title: Psychedelic Experience Stages — Turner's Model
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## The Stages of the Psychedelic Experience
 
-D.M. Turner's [[turner-essential-psychedelics-lsd-cosmic-consciousness]] Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
+D.M. Turner's Essential Psychedelics Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
 
 ### Stage 1 — Onset
 

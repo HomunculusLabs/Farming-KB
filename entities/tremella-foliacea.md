@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Bandoni, R.J. (1958). \"The genus Tremella.\" Sydowia, 12, 194–206."
-  - "Kirk, P.M. et al. (2008). Dictionary of the Fungi, 10th Ed. CABI."
-  - "Fungorum, GBIF. (2024). Tremella foliacea. psilocybe-global-biodiversity-hotspots Information Facility."
-  - "EFLORA BC. (2024). E-Flora BC: Electronic Atlas of the Plants of British Columbia."
   - "Bandoni, R.J. & Ginns, J.H. (2012). Treasures from the Kingdom of Fungi. Fungifama."
 ---
 

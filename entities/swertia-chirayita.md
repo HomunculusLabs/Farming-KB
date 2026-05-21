@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Joshi, P. & Dhawan, V. (2005). "Swertia chirayita — an overview." Current Science, 89(4): 635–640.
-  - Kumar, V. & Van Staden, J. (2016). "A review of Swertia chirayita (Gentianaceae) as a traditional medicinal plant." Frontiers in Pharmacology, 6: 308.
-  - Phoboo, S. et al. (2013). "Swertia chirayita: a medicinal plant with expanding trade." Himalayan Journal of Sciences, 11: 37–44.
   - Bhatia, A. et al. (2019). "gottlieb-peyote-legal-status-and-conservation of Swertia chirayita in the Indian Himalayan Region." Biological Conservation, 248: 108694.
 ---
 

@@ -9,14 +9,14 @@ sources: []
 
 ## Overview
 
-Cloning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.
+Cloning is the process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.
 
 ## Why Clone
 
-- **Genetic consistency**: Every clone is an exact genetic copy [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] mother
+- **Genetic consistency**: Every clone is an exact genetic copy of the mother
 - **Known sex**: No need to sex plants — female clones produce female plants
 - **Preserved phenotypes**: Lock in a specific expression of a strain
-- **Faster than seed**: Clones skip germination [[solomon-potting-mix-and-seedling-soil-recipe]] stages
+- **Faster than seed**: Clones skip germination and seedling stages
 - **Perpetual harvests**: Maintain mother plants for ongoing cuttings
 
 ## Selecting a Mother Plant
@@ -43,13 +43,13 @@ Mother plants are typically kept in perpetual vegetative state (18/6 light) and 
 
 ### Step-by-Step Process
 
-1. **Prepare the workspace**: Clean all tools with [[isopropyl-alcohol]]. Have rooting cubes pre-soaked (pH 5.5-6.0 for Rockwool).
+1. **Prepare the workspace**: Clean all tools with isopropyl alcohol. Have rooting cubes pre-soaked (pH 5.5-6.0 for Rockwool).
 
 2. **Select branch material**: Choose healthy branches from the lower to mid canopy. Ideal cuttings are 3-6 inches long with 2-4 nodes.
 
 3. **Make the cut**: Cut at a 45-degree angle below a node. The angled cut increases surface area for water uptake and root formation. Some growers make a second perpendicular slit up the stem (splitting) to expose more cambium layer.
 
-4. **Trim lower leaves**: Remove the bottom set of leaves. Trim remaining fan leaves in half to reduce [[transpiration]] while the cutting has no roots.
+4. **Trim lower leaves**: Remove the bottom set of leaves. Trim remaining fan leaves in half to reduce transpiration while the cutting has no roots.
 
 5. **Apply rooting hormone**: Dip the cut end into rooting hormone. Gels tend to adhere better than powders. Ensure the bottom 1-2 nodes are coated.
 
@@ -59,7 +59,7 @@ Mother plants are typically kept in perpetual vegetative state (18/6 light) and 
 
 ### Cloning from [[cannabis-vegetative-stage]] Plants
 
-The best time to take cuttings is during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
+The best time to take cuttings is during the vegetative stage when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
 
 ## Rooting Mediums
 
@@ -126,7 +126,7 @@ Use low-intensity light during cloning:
 - **Sanitize everything**: Contamination is the primary cause of failure
 - **Don't overwater cubes**: Soggy cubes promote rot. Moist, not wet.
 - **Don't pull on cuttings** to check roots — this damages fragile new root tissue
-- **Maintain warmth**: Cold rooting zones [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them cause of slow or failed rooting
+- **Maintain warmth**: Cold rooting zones are the most common cause of slow or failed rooting
 - **Use a clean razor for each mother plant**: Prevents cross-contamination
 
 ## Transplanting Rooted Clones
@@ -147,3 +147,6 @@ Once roots are 1-2 inches long and visible outside the cube:
 - **No roots after 14 days**: Check temperature, hormone freshness, and cutting quality. Some strains are notoriously difficult to clone.
 
 ## Related
+
+- [[cannabis-seed-germination]]
+- [[plant-sensing-communication]]

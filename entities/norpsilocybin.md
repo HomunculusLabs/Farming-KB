@@ -21,8 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting." Planta Medica, 55(3), 250-253.
-  - Sherwood, A.M. et al. (2020). "Identification and quantification of hplc-analysis-of-psilocybin-and-psilocin." The PsychonautWiki. https://psychonautwiki.org/
 created: 2026-04-28
 ---
 

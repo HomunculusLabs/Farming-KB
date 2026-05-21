@@ -28,7 +28,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 | Basswood | -- | -- | Early summer |
 | Citrus | N | P | -- |
 | Elm | N | P | -- |
-| [[grevillea-robusta]] | -- | -- | Spring-summer |
+| Grevillea robusta | -- | -- | Spring-summer |
 | Hakea salicifolia | -- | -- | Spring |
 | Hawthorn | N | -- | Spring; pleach for fences |
 | Maple | N | P | Including box elder |
@@ -82,20 +82,20 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 
 Selected from extensive listings (over 40 species documented):
 
-- **[[eucalyptus-melliodora]]** (Yellow Box): Considered the best honey of all eucalypts; spring, summer
-- **[[eucalyptus-salmonophloia]]** (Salmon Gum): Choice honey; summer, autumn
-- **[[eucalyptus-globulus]]** (Blue Gum): N and P; winter, spring, summer
-- **[[eucalyptus-maculata]]** (Spotted Gum): Major source of winter/spring nectar
-- **[[eucalyptus-marginata]]** (Jarrah): N; spring, summer
+- **Eucalyptus melliodora** (Yellow Box): Considered the best honey of all eucalypts; spring, summer
+- **Eucalyptus salmonophloia** (Salmon Gum): Choice honey; summer, autumn
+- **Eucalyptus globulus** (Blue Gum): N and P; winter, spring, summer
+- **Eucalyptus maculata** (Spotted Gum): Major source of winter/spring nectar
+- **Eucalyptus marginata** (Jarrah): N; spring, summer
 - **Eucalyptus stellulata** (Black Sally): Flowers most of the year
 - **Eucryphia lucida** (Leatherwood): N; extended nectar flow
 
 ## Other Bee Forage Plants
 
-Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), [[chinese-tallow-tree]], citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
+Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), Chinese tallow tree, citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
 
 ## Related
 
 - [[medicinal-herbs-for-livestock]]
-- [[zone-sector-analysis-guide]]
-- permaculture plant selection guide
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-plant-selection-guide]]

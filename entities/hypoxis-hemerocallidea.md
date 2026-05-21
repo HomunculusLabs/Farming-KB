@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Drewes, S.E. et al. (2008). "A reassessment of the medicinal potential of Hypoxis hemerocallidea." kanna-sceletium-south-african-narcotic Journal of Botany, 74(4), 632-636.
-  - Mahomed, I.M. & Ojewole, J.A.O. (2006). "Antidiabetic activity of Hypoxis hemerocallidea corm (African potato) aqueous extract in rats." Methods and Findings in Experimental and Clinical Pharmacology, 28(1), 57-61.
   - Mills, S. et al. (2005). "Plant-based traditional medicines for HIV-infected patients." childrens-herbal-medicine trade. The species is now considered of conservation concern in parts of its range.
 ---
 

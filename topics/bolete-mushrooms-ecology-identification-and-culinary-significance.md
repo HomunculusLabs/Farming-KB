@@ -6,7 +6,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/carolina-mushrooms_08qxp.md"
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 related_concepts:
   - porcini-boletus-guide
   - bolete-mushrooms-ecology-edibility
@@ -14,7 +13,6 @@ related_concepts:
   - porcini-commercial-market
   - boletus-manicus-new-guinea-psychoactive-bolete
   - bloomfield-boletus-satanus-edible-mushroom-hazards
-  - edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer
   - guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes
 ---
 

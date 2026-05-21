@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lemieux, G. (2006). "Le Bois Raméal Fragmenté: Un Nouveau Paradigme Pour la Gestion des Sols." Université Laval, Québec.
-  - Lemieux, G. & Lapointe, R.A. (2004). "The Potential of Ramial Chipped Wood (RCW) for Soil Fertility." Le Naturaliste Canadien, 128(2), 69-82.
-  - Barthelemy, P. et al. (2011). "Use of Ramial Chipped Wood in Agroforestry." Agroforestry Systems, 84(2), 185-198.
-  - Cote, D. et al. (2000). "RCW and Soil Microflora." Canadian Journal of Soil Science, 80(3), 415-424.
 aliases:
   - RCW
   - Ramial Chipped Wood

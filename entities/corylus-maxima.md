@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Molnar, T.J. et al. (2010). "Hybrid hazelnut breeding." In Janick, J. & Whipkey, A. (eds.), Issues in New Crops and New Uses. ASHS Press.
-  - Rieger, M. (2006). "Corylus." In Introduction to Fruit Crops. CAB International.
-  - Bredeson, J.V. et al. (2020). "The genome of the hazelnut." Nature Communications, 11, 2276.
   - Royal Horticultural Society. "Corylus maxima." RHS Plant Finder.
 ---
 

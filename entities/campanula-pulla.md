@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - RHS (2025). "Campanula pulla." Royal Horticultural Society Plant Finder. rhs.org.uk.
   - Egger, K. (2002). "Alpine Bellflowers of the European Alps." Alpine Garden Society Bulletin, 70(2): 198-215.
 ---
 

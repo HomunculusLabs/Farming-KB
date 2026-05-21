@@ -16,7 +16,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - SARE (mushroom-compost (Trifolium incarnatum)."
-  - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press.
   - Fukuoka, M. (1978). The One-Straw Revolution. Rodale Press.
 ---# Crimson Clover (Trifolium incarnatum)
 

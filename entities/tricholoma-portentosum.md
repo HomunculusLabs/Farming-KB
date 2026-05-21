@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Courtecuisse, R. & Duhem, B. (1995). Mushrooms and Toadstools of Britain and Europe. HarperCollins."
-  - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland, Vol. 3. Verlag Mykologia."
-  - "Riva, A. (1988). Tricholoma (Fungi Europaei Vol. 4). Edizioni Candusso."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
 ---
 

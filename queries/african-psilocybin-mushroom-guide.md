@@ -1,4 +1,5 @@
 ---
+
 title: African Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 
 # African Psilocybin Mushroom Guide
 
-Distribution, ecology, and cultural significance of psilocybin-containing mushrooms across Africa. Africa holds special significance as the likely site of the oldest known mushroom use in human history (Tassili rock art, 7000-5000 BCE). Based on [[jochen-gartz]], [[gaston-guzman]], and [[john-w-allen]].
+Distribution, ecology, and cultural significance of psilocybin-containing mushrooms across Africa. Africa holds special significance as the likely site of the oldest known mushroom use in human history (Tassili rock art, 7000-5000 BCE). Based on [[jochen-gartz]], [[gaston-guzman]], and [[john-allen]].
 
 ## The Tassili Mushroom Cult (7000-5000 BCE)
 
@@ -132,4 +133,4 @@ Major gaps in African psychoactive mycology:
 
 ## Related
 
-- [[psychedelic-integration]]
+- [[psychedelic-integration-guide]]

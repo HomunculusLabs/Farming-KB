@@ -1,5 +1,5 @@
 ---
-title: oyster-mushroom-log-cultivation-temperate-regions-short-log-method Species Guide
+title: Oyster Mushroom Species Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ Pleurotus species are white-rot fungi that decompose both cellulose and lignin, 
 | Cap Color | Gray-white to brown | Tan to cream | Bright yellow | Vibrant pink | White to tan |
 | Cap Size | 5-15 cm | 5-12 cm | 3-8 cm | 3-8 cm | 5-20 cm |
 | Stem | Short, lateral | Short, lateral | Very short, lateral | Very short, lateral | Thick, central, large |
-| Texture | Tender, meaty | Tender, [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] | Thin, delicate | Thin, delicate | Very meaty, firm |
+| Texture | Tender, meaty | Tender, soft | Thin, delicate | Thin, delicate | Very meaty, firm |
 | Flavor | Mild, anise-like | Mild, slightly sweet | Nutty, cashew-like | Mild, slightly sweet | Rich, umami, like scallops |
 | Fruit Temp | 55-75 F (13-24 C) | 60-85 F (16-29 C) | 65-80 F (18-27 C) | 70-85 F (21-29 C) | 55-68 F (13-20 C) |
 | Spawn Run | 14-21 days | 10-18 days | 14-21 days | 10-16 days | 21-30 days |
@@ -107,7 +107,7 @@ All Pleurotus species share similar substrate preparation:
 ## Related Topics
 
 - [[shiitake-cultivation-guide]] for sawdust block cultivation methods
-- [[enoki-cultivation]] for another commercially important cultivated species
+- [[enoki-cultivation-guide]] for another commercially important cultivated species
 - [[paddy-straw-mushroom]] for tropical mushroom cultivation comparison
 
 ## Related

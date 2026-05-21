@@ -5,7 +5,6 @@ tags: [petroleum-oxidation, fungal-enzymes, laccase, chloroperoxidase, biocataly
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Enzymatic Oxidation of Petroleum Hydrocarbons by Fungi
 

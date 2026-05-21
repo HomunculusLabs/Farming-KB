@@ -9,11 +9,8 @@ sources:
   - "raw/concepts/maitake-cultivation-guide.md"
   - "raw/concepts/maitake-d-fraction-research.md"
   - "raw/concepts/maitake-cancer-clinical-research.md"
-  - "raw/concepts/maitake-fruiting-body-morphogenetic-stages.md"
   - "raw/concepts/maitake-growth-parameters.md"
-  - "raw/concepts/maitake-problem-solving-troubleshooting.md"
   - "raw/concepts/maitake-soil-casing-technique.md"
-  - "raw/concepts/maitake-spawn-types-and-suppliers.md"
   - "raw/concepts/maitake-substrate-formulation.md"
   - "raw/concepts/maitake-mushroom-research.md"
 related_concepts:

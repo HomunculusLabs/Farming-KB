@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G. (1983). The Genus Psilocybe. J. Cramer, Vaduz.
-  - Guzmán G, Ott J. (1976). "Second and third species in the dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis series." Mycotaxon, 4(1), 188-191.
-  - Stamets P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán G, et al. (2000). "A worldwide guzman-allen-gartz-neurotropic-fungi-central-america-caribbean** and northern **South America**. The species was first described from material collected in **Colombia** and has since been recorded across a range extending from southern Mexico through Panama, Colombia, and into Ecuador.
 ---
 

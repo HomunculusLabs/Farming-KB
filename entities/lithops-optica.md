@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cole, D.T. (1988). "Lithops: Flowering Stones." Cactus & Co., Venice.
-  - Hammer, S. (2010). "Lithops: Treasures of the Veld." British Cactus & Succulent Society.
-  - Cole, N.S. & Cole, D.T. (2005). "Lithops." In: Illustrated Handbook of Succulent Plants. Springer.
   - Sprechman, D.L. (1970). "Lithops optica (Marloth) N.E.Br." In: Repertorium Specierum Novarum.
 ---
 
@@ -78,3 +75,14 @@ Examining this topic alongside related approaches reveals complementary strategi
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on lithops optica have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with lithops optica should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

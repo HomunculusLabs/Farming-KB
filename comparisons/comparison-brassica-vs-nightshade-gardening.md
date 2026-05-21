@@ -6,7 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/concepts/brassica-growing-guide.md"
-  - "raw/concepts/tomato-pepper-eggplant-growing-guide.md"
   - "raw/concepts/growing-brassicas-organically.md"
   - "raw/concepts/solomon-growing-brassicas-guide.md"
 type: comparison
@@ -78,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+Further research into comparison brassica vs nightshade gardening continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison brassica vs nightshade gardening provides a foundation for both practical application and continued scientific inquiry.

@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. 'Chemdawg 91 Strain Information.' https://www.leafly.com/strains/chemdawg-91"
-  - "AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"
-  - "SeedFinder. 'Chemdawg 91.' https://en.seedfinder.eu/strain-info/Chemdawg-91/"
   - Smart R, Marks D, Vandrey R (2019). "Emerging trends in green-cannabis-potency-maximizing." Addiction 114(6): 1020-1026.
 ---
 

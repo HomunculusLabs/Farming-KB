@@ -4,7 +4,6 @@ tags: [ecology, pest-control, integrated-pest-management, natural-farming, biodi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-fukuoka.md
 created: 2026-04-28
 type: concept

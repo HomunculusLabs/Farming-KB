@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hennipman, E. (1977). "A Monograph of the Fern Genus Platycerium." PhD Thesis, Utrecht University.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Goode, P.M. (1989). "A Comparative Study of the Morphology and Anatomy of the Staghorn Ferns, Platycerium." Fern Gazette.
   - Braggins, J.E. & Large, M.F. (2004). "Tree Ferns." Timber Press.
 ---
 

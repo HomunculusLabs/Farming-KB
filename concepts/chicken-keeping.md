@@ -18,9 +18,9 @@ Chickens are the most accessible and productive livestock for homesteads of any 
 Bred for maximum egg production (250-320 eggs/year):
 
 - **Leghorn**: 280-320 white eggs/year; hardy; flighty; not great for cold climates
-- **[[rhode-island-red]]**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
+- **Rhode Island Red**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
 - **Sussex**: 250-280 brown eggs/year; calm; good foragers; cold-hardy
-- **[[australorp]]**: 250-300 brown eggs/year; calm; cold-hardy; excellent layer
+- **Australorp**: 250-300 brown eggs/year; calm; cold-hardy; excellent layer
 - **Plymouth Rock (Barred Rock)**: 200-280 brown eggs/year; dual-purpose; cold-hardy
 
 ### Dual-Purpose Breeds (Meat and Eggs)
@@ -75,7 +75,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 1. Start with 4-6 inches of pine shavings or dry leaves on coop floor
 2. Add more bedding as needed to keep surface dry (every 1-2 weeks)
-3. Chickens scratch and mix, incorporating manure; [[composting]] action reduces odor
+3. Chickens scratch and mix, incorporating manure; composting action reduces odor
 4. Clean out built-up compost once or twice a year (excellent for [[soil-fertility-management]])
 
 ## Feeding
@@ -118,7 +118,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 ### Common Health Issues
 
-- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with [[diatomaceous-earth]] in dust bath areas, permethrin spray in coop.
+- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with diatomaceous earth in dust bath areas, permethrin spray in coop.
 - **Respiratory disease**: Often from poor ventilation. Symptoms: sneezing, coughing, swollen eyes.
 - **Egg-bound hen**: Egg stuck in reproductive tract. Lethargy, straining, penguin walk. Warm bath and calcium may help.
 - **Crop impaction**: Blockage from long grass, string, insufficient grit. Massage crop, provide olive oil and water.
@@ -147,3 +147,4 @@ Bred for maximum egg production (250-320 eggs/year):
 **Best practices**: Lock chickens in coop every night before dark. Use 1/2 inch hardware cloth instead of chicken wire. Bury fencing or run electric wire at ground level. Consider a livestock guardian dog for free-range flocks.
 
 ## Seasonal Care
+

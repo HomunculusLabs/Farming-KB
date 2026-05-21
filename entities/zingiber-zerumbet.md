@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Ravindran, P.N. & Babu, K.N. (2005). Ginger: The Genus Zingiber. CRC Press."
-  - "Tushar, B.K. et al. (2010). \"Zingiber zerumbet (L.) Smith: A review on its ethnomedicinal, phytochemical, and pharmacological profile.\" Pharmacognosy Reviews, 4(8), 148-156."
-  - "Chen, C.C. et al. (2011). \"Anti-inflammatory and analgesic activities of Zingiber zerumbet.\" Journal of Ethnopharmacology, 135(3), 797-804."
   - "Cheng, C.L. et al. (2010). Chemical constituents and bioactivities of Zingiber zerumbet. Taiwanese Journal of Agricultural Chemistry and Food Science, 48, 257-266."
 ---
 

@@ -15,7 +15,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 
 ### Sweet Peppers (Capsicum annuum)
 - Bell peppers, pimentos, frying peppers, sweet bananas.
-- Mild, no [[capsaicin]] (or negligible levels).
+- Mild, no capsaicin (or negligible levels).
 - Most popular: bell peppers (green, red, yellow, orange, purple).
 - Shishito, Padrón (occasionally hot), Cubanelle, Marconi.
 
@@ -46,7 +46,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 - Peppers are slower to germinate and grow than tomatoes.
 
 ### Germination
-- Optimal [[soil-temperature]]: 75-85°F.
+- Optimal soil temperature: 75-85°F.
 - Use a heat mat — peppers are warmth-dependent for germination.
 - Germination time: 7-14 days (some hot peppers take 21+ days).
 - Soaking seeds in warm water for 4-6 hours before planting can speed germination.
@@ -56,7 +56,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 - Maintain 65-70°F after germination (cooler than germination temp).
 - 14-16 hours of light per day under grow lights.
 - Do not overwater — peppers are more sensitive to wet feet than tomatoes.
-- Fertilize with diluted [[fish-emulsion]] or liquid kelp every 2 weeks once true leaves appear.
+- Fertilize with diluted fish emulsion or liquid kelp every 2 weeks once true leaves appear.
 
 ## Transplanting
 
@@ -69,13 +69,13 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 ### Planting
 - Space sweet peppers 12-18 inches apart; hot peppers 12-24 inches apart.
 - Plant at the same depth as in the pot — peppers do NOT root from the stem like tomatoes.
-- Add a handful of [[compost]] and a sprinkle of bone meal to each planting hole.
+- Add a handful of compost and a sprinkle of bone meal to each planting hole.
 - Water in well.
 - Row cover or cloche for the first 1-2 weeks after transplanting helps with temperature regulation.
 
 ### Container Growing
 - Peppers grow very well in containers (5+ gallon minimum).
-- Use a well-draining potting mix with compost and [[perlite]].
+- Use a well-draining potting mix with compost and perlite.
 - Container peppers dry out faster — monitor daily.
 - Smaller pepper varieties (jalapeño, Thai, shishito) do especially well in pots.
 
@@ -102,7 +102,7 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 - Consistent moisture is key — peppers are sensitive to fluctuations.
 - 1-1.5 inches per week.
 - Mulch heavily to conserve moisture and regulate soil temperature.
-- [[drip-irrigation]] ideal; avoid overhead watering.
+- Drip irrigation ideal; avoid overhead watering.
 - Peppers tolerate drier conditions than tomatoes but produce better with consistent moisture.
 - Reduce watering slightly as fruits mature to concentrate flavor.
 
@@ -148,3 +148,8 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 - **Smoking and drying**: Chipotle (smoked jalapeño), smoked cayenne for spice blends.
 
 ## Related
+## See Also
+
+- [[comparison-tomato-vs-pepper-growing]]
+- [[tomato-pepper-eggplant-growing-guide]]
+- [[knf-soap-water-and-hot-pepper]]

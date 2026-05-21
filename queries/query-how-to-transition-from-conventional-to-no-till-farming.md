@@ -5,12 +5,6 @@ tags: farming, no-till, soil health, transition, cover crops, mycorrhiza, crop r
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Rodale Institute. "Farming Systems Trial: 40-Year Report." (2022)
-  - Lal, Rattan. "No-Till Farming Effects on Soil Health and mycorrhizal-fungi-soil-carbon-sequestration-by-type." Advances in Agronomy, 2023.
-  - USDA NRCS. "No-Till Transition Guide." Soil Health Technical Note No. 5.
-  - Brown, Gabe. "Dirt to Soil: One Family's Journey into Regenerative Agriculture." Chelsea Green, 2018.
-  - Conservation Technology Information Center (CTIC). "National Crop Residue Management Survey." 2024.
-  - Reichardt, Keith. "The No-Till Farmer's Handbook." No-Till Farmer Press, 2021.
 type: query
 ---
 

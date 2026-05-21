@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Society of Plant Taxonomists.
-  - Newsholme C. (1992). "Willows: The Genus Salix." Timber Press.
-  - Kuzovkina Y.A. & Quigley M.F. (2005). "Willows beyond wetlands." HortScience, 40(2), 291–295.
   - USDA NRCS (2024). "Salix fragilis L. — crack willow." PLANTS Database.
 ---
 

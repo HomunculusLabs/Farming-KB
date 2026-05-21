@@ -9,11 +9,11 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The Psychedelic Experience" (1964) by [[timothy-leary]], [[ralph-metzner]], and [[richard-alpert]] adapts the Tibetan Book of the Dead ([[bardo-thodol]]) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic experience depends almost entirely on [[lsd-set-and-setting-framework]]."
+Leary's foundational principle: "The psychedelic experience depends almost entirely on set and setting."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds
@@ -22,7 +22,7 @@ This insight, now widely accepted, was first systematically articulated in this 
 
 ### The Three Bardos
 
-**First Bardo — [[chikhai-bardo]] (Ego Death / Transcendence)**:
+**First Bardo — Chikhai Bardo (Ego Death / Transcendence)**:
 - "Complete transcendence — beyond words, beyond space-time, beyond self"
 - The moment when ordinary consciousness dissolves and the individual confronts the void
 - The person may experience white light, cosmic consciousness, or the "Clear Light" (Tibetan: thugs-kyi od-gsal)

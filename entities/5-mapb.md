@@ -20,10 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Iversen, L. (2014). '5-apb and 5-MAPB — benzofuran derivatives.' ACMD Report to UK Home Office."
-  - "Couch, R.A. & McElrath, J. (2021). 'Benzofuran entactogens: pharmacology and toxicology.' J Psychopharmacol 35(2): 134-152."
-  - "European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). '5-MAPB Drug Profile.' (2014)."
-  - "Nagai, F. et al. (2007). 'Serotonergic effects of benzofury compounds.' J Med Chem 50(20): 5033-5041."
   - "https://www.erowid.org/chemicals/5_mapb/5_mapb.shtml"
 ---
 

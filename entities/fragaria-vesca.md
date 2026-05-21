@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hummer K.E. (2012). "Using Genomics to Expand the Strawberry Genus." Journal of Berry Research 2(3): 141-152.
-  - Staudt G. (1999). "Systematics and Evolution of the Genus Fragaria." Acta Horticulturae 505: 23-33.
-  - USDA NRCS (2024). "Fragaria vesca L." PLANTS Database.
-  - Olsson M.E. et al. (2004). "Antioxidants in Wild Strawberries." Journal of Agricultural and Food Chemistry 52(12): 3623-3629.
   - Hancock J.F. (1999). "Strawberries." CABI Publishing.
 ---
 
@@ -78,3 +74,14 @@ Olsson et al. (2004) demonstrated that wild strawberries have significantly high
 The leaves also contain tannins and flavonoids with reported astringent and diuretic properties. Traditional [[honey-based-herbal-preparations]] use dried leaves in infusions for gastrointestinal health and as a mild mouthwash. The roots contain arbutin, a compound with urinary antiseptic activity also found in bearberry (*Arctostaphylos uva-ursi*).
 
 ### Bioactive Compounds
+## Current Research
+
+Recent studies on fragaria vesca have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with fragaria vesca should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

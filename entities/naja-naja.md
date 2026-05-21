@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wüster, W. (1998). "The cobras of the genus Naja in India." Hamadryad, 23(1), 33-47.
-  - Whitaker, R. & Captain, A. (2004). Snakes of India: The oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian Journal of Tropical Medicine and Public Health, 32(4), 837-841.
-  - Casewell, N.R. et al. (2020). "Fig-fighting snake venom evolution: A resource of toxin gene diversity in the Asiatic cobra." BMC Genomics, 21, 299.
   - The Reptile Database. "Naja naja (Linnaeus, 1758)." https://reptile-database.reptarium.cz/species?genus=Naja&species=naja
 ---
 

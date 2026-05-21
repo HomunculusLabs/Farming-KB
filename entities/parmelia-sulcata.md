@@ -8,9 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hale, M.E. (1987). "A Monograph of the Lichen Genus Parmelia." Smithsonian Contributions to Botany 66.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Nash, T.H. III et al. (2002). "Lichen Flora of the Greater Sonoran Desert Region." Vol. 1. ASU.
 ---
 

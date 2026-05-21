@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eckenwalder J.E. (1996). "Systematics and evolution of Populus." In: Biology of Populus and its implications for management and conservation. NRC Research Press.
-  - Friedmann I. (1951). "Fremont Cottonwood (Populus fremontii): A study of its biology." Madroño, 11(4), 113–125.
-  - Stromberg J.C. et al. (1993). "Hydrologic connectivity and the persistence of riparian forests along the San Pedro River, Arizona." mycelium-running-conservation-biology-and-fungi, 7(4), 882–892.
   - USDA NRCS (2024). "Populus fremontii S. Watson — Fremont cottonwood." PLANTS Database.
 ---
 

@@ -10,11 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Nicolosi, E. et al. (2000). "Citrus phylogeny and genetic origin of important species." Theoretical and Applied Genetics, 100(8), 1155–1166.
-  - Ollitrault, P. et al. (2012). "Tandem repeat variation in the Citrus genome." BMC Genomics, 13, 581.
-  - Ladaniya, M.S. (2008). Citrus Fruit: Biology, Technology and Evaluation. Academic Press.
-  - Liu, Y. et al. (2020). "The Citrus sinensis genome." Nature Communications, 11, 4848.
   - FAO (2024). FAOSTAT: Citrus Production Data.
 ---
 

@@ -11,12 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bessette, A.E. & Bessette, A.R. (2018). *The Rainbow Beneath My Feet: A Mushroom Dyer's Field Guide*. Syracuse University Press.
-  - Casselman, M. (2015). *Mushrooms for Dyes, Paper, Pigments & Myco-Stix*. Mudmine Press.
-  - Haines, J. (2020). "Fungal Dyes: Sources, Chemistry, and Colorfastness." *Mycologia*, 112(3), 501-518.
-  - Peck, S.E. (2009). "Ethnomyco-Dyeing: Traditional and Modern Uses of Fungal Pigments." *Economic Botany*, 63(1), 67-79.
-  - Ryytty, R. et al. (2019). "Cultivation of Dye Fungi on fungi-in-composting-and-agricultural-waste-conversion Substrates." *Journal of Applied Mycology*, 14(2), 210-225.
-  - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
 type: query
 ---
 ## How to Extract [[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.

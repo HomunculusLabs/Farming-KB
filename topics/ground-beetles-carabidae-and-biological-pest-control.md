@@ -4,7 +4,6 @@ tags: [biology, entomology, biocontrol, pest-management, IPM, carabidae, ground-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - https://link.springer.com/article/10.1007/s10526-019-09922-5
 ---# Ground Beetles (Carabidae) and Biological Pest Control
 

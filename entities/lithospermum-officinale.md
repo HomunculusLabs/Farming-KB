@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - European Medicines Agency (2010). "Assessment report on Lithospermum officinale L., herba." EMA/HMPC.
-  - Bruneton, J. (1999). "Pharmacognosy, Phytochemistry, Medicinal Plants." 2nd ed. Lavoisier.
   - Jennersten, O. (1988). "Pollination in oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere and growing-gourmet-north-american-reishi-species species, including *Lithospermum canescens* and *Lithospermum caroliniense*, are well-known prairie wildflowers.
 ---
 

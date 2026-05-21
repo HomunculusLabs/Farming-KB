@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ware, G.H. (1989). "Quercus virginiana." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3. Oxford University Press.
-  - Stein, J.D. et al. (2003). "Genecology of the southern live oak (Quercus virginiana Mill.)." Silvae Genetica, 52(3-4), 159–167.
-  - USDA Forest Service (2023). Silvics of dmt-containing-plants-united-states-halpern. University of Georgia Press.
   - Miller, J.H. & Miller, S.T. (2005). Forest Plants of the Southeast and Their Wildlife Uses. University of Georgia Press.
 ---
 

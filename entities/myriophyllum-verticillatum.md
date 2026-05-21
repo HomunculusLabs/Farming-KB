@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Aiken, S.G. (1981). "A conspectus of Myriophyllum." Contributions from the National Herbarium, Canada, 21, 45–89.
-  - Ceska, A. & Ceska, O. (1986). "Myriophyllum verticillatum in Czechoslovakia." Folia Geobotanica, 21(1), 93–101.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants." Wisconsin Department of Natural Resources Technical Bulletin, 156.
   - Moody, M.L. & Les, D.H. (2002). "Systematics of Myriophyllum." Systematic Botany, 27(2), 293–310.
 ---
 

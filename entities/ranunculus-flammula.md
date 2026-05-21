@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cook, C.D.K. (1966). "A Monographic Study of Ranunculus subgenus Batrachium." Mitteilungen der Botanischen Staatssammlung München.
-  - Stace, C.A. (2019). New Flora of the British Isles. 4th ed. C&M Floristics.
-  - Webb, D.A. & Gornall, R.J. (1989). "A Manual of Saxifrages." B.T. Batsford.
   - Krahulcová, A. & Jarolímová, V. (2015). "Chromosome numbers in Ranunculus sect. Ranunculus." Preslia.
 ---
 

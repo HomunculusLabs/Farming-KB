@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stein, J.D. et al. (2003). "Field Guide to Native Oak Species of polypore-fungi-eastern-north-america." USDA Forest Service.
-  - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics mycofiltration-watershed-protection and soil stabilization on dry, erodible sites. The extensive root systems help prevent erosion on steep, sandy slopes.
 ---
 

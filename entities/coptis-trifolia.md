@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Whittemore, A.T. (1997). "Coptis." Flora huckleberries-and-wild-berries-of-north-america, Vol. 3. Oxford University Press.
-  - Foster, S. & Duke, J.A. (2000). A Field Guide to Medicinal Plants, 2nd ed. Houghton Mifflin.
-  - Xiang, Q.Y. et al. (1998). "Phylogeny of Coptis (Ranunculaceae) based on morphology and ITS sequences." Plant Systematics and Evolution 211: 31–40.
-  - USDA NRCS Plants Database. "Coptis trifolia (L.) Salisb." https://plants.usda.gov
   - Kew Science POWO. "Coptis trifolia (L.) Salisb." https://powo.science.kew.org
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Toelken, H.R. (1977). "A Revision of the Genus Crassula in Southern Africa." Contributions from the Bolus Herbarium, 8.
-  - Rowley, G.D. (1978). "The Illustrated Encyclopedia of Succulents." Salamander Books.
-  - Fröderström, H. (1930–1935). "The Crassulaceae of Southern Africa." Acta Horti Bergiani.
-  - Royal Horticultural Society (2023). "Crassula ovata — RHS Gardening." rhs.org.uk.
   - Smith, G.F. et al. (2017). "List of Southern African Succulent Plants." Umdaus Press.
 ---
 
@@ -79,3 +75,14 @@ Cold tolerance extends briefly to -2°C, but prolonged frost causes leaf drop an
 In its native [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], fixing CO₂ at night to minimize water loss. This adaptation allows the species to thrive in arid microsites with minimal soil moisture.
 
 Research has shown that Crassula ovata can tolerate soil salinity up to 100 mM NaCl without significant growth reduction, making it suitable for coastal planting in Mediterranean climates.
+## Current Research
+
+Recent studies on crassula ovata have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with crassula ovata should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Casper, S.J. & Steiger, J. (2009). "Pinguicula." Regnum Vegetabile 150. Koeltz.
-  - Adamec, L. (1997). "Carnivorous Plants in the Czech Republic." Thaiszia 7: 3–12.
-  - Karlsson, P.S. et al. (1987). "Trapping Efficiency of Three Pinguicula Species." Oecologia 73(4): 518–523.
-  - Heslop-Harrison, Y. (1981). "The Digestive Glands of Pinguicula." Annals of Botany 47(6): 743–754.
   - European Medicines Agency (2010). "Assessment Report on Pinguicula vulgaris." HMPC/420609/2009.
 ---
 

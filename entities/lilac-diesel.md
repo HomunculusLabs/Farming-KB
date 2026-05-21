@@ -16,11 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2024). "Lilac Diesel Weed Strain Information." Leafly. https://www.leafly.com/strains/lilac-diesel
-  - AllBud (2024). "Lilac Diesel Strain Review." AllBud. https://www.allbud.com/marijuana-strains/hybrid/lilac-diesel
-  - Wikileaf (2024). "Lilac Diesel." Wikileaf. https://www.wikileaf.com/strain/lilac-diesel
-  - Growers Network (2023). "Breeding Diesel Lineages: A Grower's Guide."
-  - Weedmaps Staff (2024). "Lilac Diesel Strain." Weedmaps. https://weedmaps.com/strains/lilac-diesel
 created: 2026-04-28
 ---
 

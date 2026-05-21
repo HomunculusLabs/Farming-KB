@@ -18,8 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Buchanan, P.K. (1999). "Hericium species in New Zealand." New Zealand Journal of Botany, 37(2), 283-292.
-  - Stamets, P. (2000). cancer-medicinal-mushrooms-hericium-erinaceus improves mood and sleep." Biomedical Research, 35(1), 81-86.
   -https://www.nzfungi.org.nz/
 ---
 

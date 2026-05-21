@@ -13,10 +13,10 @@ Grapes are long-lived perennial vines that can produce fruit for 50+ years with 
 
 ## Vine Training Systems
 
-Training establishes the permanent structure [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] grapevine — the framework on which fruit-producing canes or spurs grow each year.
+Training establishes the permanent structure of the grapevine — the framework on which fruit-producing canes or spurs grow each year.
 
 ### Kniffen Systems (4-Arm Kniffen)
-- Most common [[solomon-vegetableatarian-experiment-calorie-production-home-garden]] training system
+- Most common home garden training system
 - Vine trained to a single trunk with two levels of horizontal cordons (arms)
 - Lower wire at 3 feet, upper wire at 5-6 feet
 - Four fruiting canes are retained each year, one per arm
@@ -45,7 +45,7 @@ Training establishes the permanent structure [[mckenna-food-of-the-gods-exophero
 - Creates a vertical curtain of foliage
 - Excellent light exposure and air circulation
 - Requires more maintenance but produces premium fruit quality
-- Best for [[vitis-vinifera]] and quality wine production
+- Best for Vitis vinifera and quality wine production
 
 ### Geneva Double Curtain (GDC)
 - Two parallel wires at 5-6 feet, separated by 4 feet
@@ -62,7 +62,7 @@ Training establishes the permanent structure [[mckenna-food-of-the-gods-exophero
 
 ## Pruning
 
-Proper pruning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] single most important factor in grape [[mollison-designers-fish-pond-water-quality-and-aeration]] productivity. Grapes fruit on one-year-old canes (last season's growth). Without annual pruning, vines become overgrown, shaded, and produce poor-quality fruit.
+Proper pruning is the single most important factor in grape quality and productivity. Grapes fruit on one-year-old canes (last season's growth). Without annual pruning, vines become overgrown, shaded, and produce poor-quality fruit.
 
 ### Spur Pruning
 - Short stubs (spurs) of 2-4 buds are retained along permanent cordons
@@ -99,7 +99,7 @@ Proper pruning [[query-what-is-the-difference-between-fungal-dominant-and-bacter
 - **Pinot Noir**: Thin-skinned red; needs cool climate, disease-prone
 - **Chardonnay**: White; widely adaptable
 - **Riesling**: White; needs cool climate for best quality
-- **Norton (Cynthiana)**: [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] red wine grape; disease-resistant, excellent wine
+- **Norton (Cynthiana)**: Native American red wine grape; disease-resistant, excellent wine
 - **Marquette**: Cold-hardy hybrid (zone 3); excellent wine quality
 - **Frontenac**: Cold-hardy hybrid (zone 3); robust red wine
 
@@ -143,8 +143,13 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - Can be beneficial in dry conditions (noble rot in wine grapes)
 
 ### Pierce's Disease
+- Bacterial disease fatal to European (vinifera) grapes
+- Spread by sharpshooter insects
+- Primarily a problem in the southeastern US and California
+- No cure; plant resistant varieties in affected areas
+- American and Muscadine grapes are resistant
 ## See Also
 
-- [[apple-tree-care]] for companion orchard fruit management
-- [[backyard-orchard-design]] for orchard layout and integration
-- [[stone-fruit-tree-care]] for companion [[fruit-tree-care-and-orchard-management]]
+- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
+- [[grape-cultivation-and-variety-guide]]
+- [[oner-space-grape-ultra-genetics-nebula-grapefruit]]

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Miller, A.G. & Morris, M. (2004). "Ethnobotany of the Anacardiaceae." Royal Botanic Gardens, Kew.
-  - USDA NRCS (2024). "Plant Profile: Rhus copallinum." plants.usda.gov.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Weakley, A.S. (2023). "Flora of the Southeastern United States." UNC Herbarium.
 ---
 

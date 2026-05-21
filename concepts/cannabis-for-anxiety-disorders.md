@@ -21,7 +21,7 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ### High Doses (15mg+ THC)
 - Can trigger panic attacks, paranoia, and increased anxiety
 - Overstimulation of CB1 in the amygdala
-- The "[[bad-trip]]" phenomenon in susceptible individuals
+- The "bad trip" phenomenon in susceptible individuals
 
 ### CBD (any dose)
 - Consistently anxiolytic across dose ranges
@@ -71,10 +71,12 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-for-sleep-disorders]] — for anxiety-related insomnia
+## Current Research
 
-## Practical Applications
+Recent studies on cannabis for anxiety disorders have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
+## Practical Considerations
+
+Practitioners working with cannabis for anxiety disorders should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

@@ -5,7 +5,6 @@ tags: [comparison, soil-biology, soil-food-web, fungal-dominant, bacterial-domin
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: comparison
 ---
 

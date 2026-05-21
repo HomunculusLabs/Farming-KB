@@ -6,8 +6,6 @@ tags: [mushroom-house, equipment, disability-adaptation, training-center,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 type: concept
 ---
 

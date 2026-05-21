@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Noss, R.F. (ed.) (2000). "The Redwood Forest." Island Press.
-  - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
   - IUCN Red List. "Sequoia sempervirens." https://www.iucnredlist.org/
 ---
 

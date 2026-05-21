@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 2.
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Mäkipää, R. (1995). "The Effect of Nitrogen Input on the Moss Layer in Boreal Forests." Silva Fennica 29(1): 57-65.
   - Tamm, C.O. (1953). "Growth, Yield and Nutrition in Carpets of a Forest Moss." Svensk Botanisk Tidskrift 47: 389-408.
 ---
 

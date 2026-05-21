@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gilman, E.F. (1999). "Campsis radicans." Fact Sheet FPS-97, UF/IFAS.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Gentry, A.H. (1992). "Bignoniaceae — Part II." Flora Neotropica Monograph 25(2).
-  - Rhoads, A.F. & Klein, W.M. (1993). "The Vascular Flora of Pennsylvania." American Philosophical Society.
   - Stephens, H.A. (1980). "Woody Plants of the North Central Plains." University Press of Kansas.
 ---
 

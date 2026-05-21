@@ -18,9 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2024). "Tylopilus felleus." MushroomExpert.com. https://www.mushroomexpert.com/tylopilus_felleus.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes: A Color Guide to the Fleshy Pored Mushrooms." Syracuse University Press.
-  - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Revised Edition, Royal Botanic Gardens, Kew.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica: Agaricoid, Boletoid and Clavarioid Fungi." Nordsvamp.
 ---
 

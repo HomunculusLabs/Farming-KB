@@ -10,9 +10,6 @@ tags:
   - agaricales
   - hymenogastraceae
 sources:
-  - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
-  - "Guzmán, G. et al. (2000). A world monograph of the genus Psilocybe. Bibliotheca Mycologica 175."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=312453"
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Petersen, R.H. (1988). \"The clavarioid fungi of New Zealand.\" New Zealand Journal of Botany, 26(3), 447-464."
-  - "Corner, E.J.H. (1950). A Monograph of Clavaria and Allied Genera. Oxford University Press."
-  - "Marr, C.D. & Stuntz, D.E. (1973). \"Ramaria of western Washington.\" Mycologia Memoir, 2, 1-196."
-  - "Bruns, T.D. et al. (1998). \"Molecular systematics of the Gomphaceae.\" Mycologia, 90(5), 852-865."
   - "Buyck, B. et al. (2013). \"The genus Ramaria in Europe.\" Scripta Botanica Belgica, 51, 1-240."
 ---
 

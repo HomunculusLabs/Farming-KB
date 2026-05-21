@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
-  - Johnson, D.V. (1998). "Non-wood nematode-management." Kerala Forest Research Institute.
   - Siebert, S.F. (2012). "The nature and culture of rattan." Annals of Botany, 109(5), 847-854.
 ---
 

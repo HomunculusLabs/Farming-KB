@@ -9,11 +9,11 @@ sources: []
 
 # Canning and Preserving
 
-Canning is a heat-based [[lacto-fermentation-and-food-preservation-methods]] method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water bath canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety.
+Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water bath canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety.
 
 ## Botulism Safety
 
-[[clostridium]] botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible.
+Clostridium botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible.
 
 Key safety rules:
 - Low-acid foods (pH above 4.6) MUST be pressure canned at 240-250 F to destroy C. botulinum spores
@@ -87,7 +87,7 @@ Pressure canning is required for all low-acid foods. A pressure canner reaches 2
 
 ### Equipment
 
-- Pressure canner (not a [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] -- must be large enough for jars and have a dial gauge or weighted gauge)
+- Pressure canner (not a pressure cooker -- must be large enough for jars and have a dial gauge or weighted gauge)
 - Dial gauge canners should be tested annually for accuracy
 - Same jar, lid, and tool requirements as water bath
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Huber-Morath, A. (1974). "Verbascum in Flora of Turkey." Edinburgh University Press.
-  - Royal Horticultural Society (2023). "Verbascum olympicum." RHS Plant Finder.
-  - Ferguson, I.K. (1972). "Verbascum in Flora Europaea, Vol. 3." Cambridge University Press.
-  - Murphy, R. (2005). "Mediterranean Garden Plants." Thames & Hudson.
   - Grey-Wilson, C. & Matthews, V. (2011). "Gardening on the Edge." Alpine Garden Society.
 ---
 

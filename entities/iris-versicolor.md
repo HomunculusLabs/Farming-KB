@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mathew, B. (1981). "The Iris." B.T. Batsford Ltd., London.
-  - Foster, S. (1997). "Herbal Emissaries: Bringing Chinese Herbs to the West." Botanica Press.
-  - Dykes, W.R. (1913). "The Genus Iris." Cambridge University Press.
-  - USDA NRCS. "Iris versicolor L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=IRVE2
   - Austin, D.F. (2004). "Florida Ethnobotany." CRC Press.
 ---
 

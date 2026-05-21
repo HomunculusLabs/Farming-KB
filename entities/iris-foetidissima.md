@@ -13,7 +13,6 @@ updated: 2026-05-10
 sources:
   - Mathew, B. (1989). "The Iris." Timber Press.
   - RHS Plant Finder. Iris foetidissima.
-  - Webb, D.A. & Chater, A.R. (1980). "Iris L." In Tutin et al., Flora Europaea, Vol. 5.
   - Kew Plants of the World Online. Iris foetidissima L.
 ---
 

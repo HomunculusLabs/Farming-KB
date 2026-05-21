@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Dryopteris." Flora of North America North of Mexico, Vol. 2.
-  - Cobb, B. (1984). A Field Guide to the Ferns and Their Related Families. Houghton Mifflin.
   - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

@@ -19,9 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Danesch, U. (2004). "Petasites hybridus extract in migraine." Neurology, 63(2), 2240-2244.
-  - Schmitz, K. et al. (2019). "Petasin and isopetasin from Petasites." Phytomedicine, 55, 81-88.
-  - Blumenthal, M. et al. (2000). herbal-medicine: Expanded Commission E Monographs. Integrative Medicine Communications.
   - Meister, A. et al. (1999). "Petasites hybridus for allergic rhinitis." BMJ, 318(7177), 80.---
 ---
 

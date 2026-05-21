@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - SeedFinder Database. https://en.seedfinder.eu/strain-info/Wedding_Cake
-  - Leafly Strain Database. https://www.leafly.com/strains/wedding-cake
-  - AllBud. https://www.allbud.com/marijuana-strains/hybrid/wedding-cake
   - Mudge, E. et al. (2018). "Cannabinoid and cannabis-terpene-profiles of popular cannabis-terpene-profile inherited from its Cookies family ancestry.
 ---
 

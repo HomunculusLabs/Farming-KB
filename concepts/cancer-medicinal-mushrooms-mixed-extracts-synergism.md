@@ -5,7 +5,6 @@ tags: [immunotherapy, medicinal-mushrooms, synergism, cancer-research]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 

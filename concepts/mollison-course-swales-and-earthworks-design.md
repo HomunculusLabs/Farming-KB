@@ -5,7 +5,6 @@ tags: [permaculture, swales, earthworks, water-harvesting, contour, mulch, gley,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 ## Swales and Earthworks Design Swales are one of the most versatile and important earthworks in [[mollison-course-aquatic-plant-systems-ponds]] for pond and wetland

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gentry, A.H. (1992). "Bignoniaceae — Part II (Tabebuia and Allied Genera)." Flora Neotropica Monograph 25(2).
-  - Francis, J.K. (1990). "Tabebuia rosea (Bertol.) DC. Roble de sabana, pink trumpet tree." SO-ITF-SM-36, USDA Forest Service.
-  - Pennington, T.D. & Sarukhán, J. (2005). "Árboles Tropicales de México." UNAM.
   - Marín, L. & Ramos, J. (2011). "Crecimiento y biomasa aérea de Tabebuia rosea en plantaciones." Revista Forestal Centroamericana.
 ---
 

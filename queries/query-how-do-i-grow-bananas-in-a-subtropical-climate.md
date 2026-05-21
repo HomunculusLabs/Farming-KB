@@ -12,12 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Robinson, J.C. and Sauco, V.G. 2010. Bananas and Plantains. 2nd ed. CABI Publishing."
-  - "Daniells, J., et al. 2001. Banana Cultivation in the Tropics. ACIAR Monograph No. 89."
-  - "Turner, D.W. and Hunt, N. 1987. 'Planting Density and Banana Production.' Acta Horticulturae 196: 147–156."
-  - "Stover, R.H. and Simmonds, N.W. 1987. Bananas. 3rd ed. Longman Scientific & Technical."
-  - "Crane, J.H. and Balerdi, C.F. 2016. 'Banana Growing in the Florida Home Landscape.' UF/IFAS Extension EDIS HS10."
-  - "California Rare Fruit Growers. 'Banana Fruit Facts.' https://www.crfg.org/pubs/ff/banana.html"created: 2026-05-07
 type: query
 
 created: 2026-05-07

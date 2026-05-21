@@ -8,8 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Zona, S. (2004). \"A revision of Bougainvillea (Nyctaginaceae).\" Proc. Calif. Acad. Sci., 55(4), 59–77."
-  - "RHS (2023). Bougainvillea spectabilis. Royal Horticultural Society."
   - "Naik, R.R. et al. (2012). \"Phytochemical and pharmacological review of Bougainvillea spectabilis.\" Int. J. PharmTech Res., 4(4), 1723–1728."
 ---
 

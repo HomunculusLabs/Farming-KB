@@ -14,8 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
 

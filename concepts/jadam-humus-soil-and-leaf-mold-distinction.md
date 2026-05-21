@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 

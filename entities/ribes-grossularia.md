@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brennan, R. (2008). "Currants and gooseberries." In: The Encyclopedia of Fruits and Nuts. CABI Publishing.
-  - Keep, E. (1962). "Ribes." In: Report of the Scottish Horticultural Research Institute for 1961.
-  - Hummer, K.E. & Dale, A. (2010). "Ribes." In: Wild Crop Relatives: Genomic and Breeding Resources. Springer.
   - Knight, V.H. (1989). "The European gooseberry: its history, culture and varieties." Horticultural Reviews, 12, 375-410.
 ---
 

@@ -5,7 +5,6 @@ updated: 2026-04-24
 type: concept
 tags: [farming, philosophy, organic, knf, sustainability]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Natural Farming Poster - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
 ## Input-Free Farming Philosophy

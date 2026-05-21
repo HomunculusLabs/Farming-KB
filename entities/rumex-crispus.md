@@ -12,11 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
-  - Foster, S. & Duke, J.A. (2014). A Field Guide to Medicinal Plants and Herbs. 2nd ed. Houghton Mifflin.
-  - Tilford, G.L. (1997). Edible and Medicinal Plants of the West. Mountain Press Publishing.
-  - Kershaw, L. (2000). Edible and Medicinal Plants of the Rockies. Lone Pine Publishing.
-  - CABI Invasive Species Compendium. "Rumex crispus (curly dock)." CAB International, 2024.
   - Couplan, F. (1998). The Encyclopedia of Edible Plants of psilocybin-north-america-pacific-northwest. Gibbs Smith.
 ---
 

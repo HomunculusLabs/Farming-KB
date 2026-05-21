@@ -5,8 +5,6 @@ tags: [farming-types, scientific-farming, mahayana, hinayana, natural-farming, y
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
 

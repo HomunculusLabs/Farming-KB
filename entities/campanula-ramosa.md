@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov, A.A. (1957). "Campanula." In: Komarov, V.L. (ed.), Flora URSS, Vol. 24. Moscow-Leningrad.
-  - Moreno Saiz, J.C. & Sainz Ollero, H. (1992). "Atlas corológico de las monocotiledóneas endémicas de la Península Ibérica." ICONA, Madrid.
-  - Plants of the World Online (2024). "Campanula ramosa Sørensen." Kew Science. https://powo.science.kew.org
   - Domínguez Lozano, F. et al. (2000). "Threatened plants of the Iberian Peninsula." Biological Conservation, 96(1): 43-52.
 ---
 

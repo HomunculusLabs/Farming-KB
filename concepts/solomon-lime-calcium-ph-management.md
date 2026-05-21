@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/gardening-when-it-counts-solomon-growing-tomatoes.md"
 type: concept
 ---# Lime, Calcium, Magnesium and Soil pH Management
 

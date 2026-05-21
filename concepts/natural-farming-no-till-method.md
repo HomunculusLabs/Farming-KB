@@ -5,8 +5,6 @@ tags: [natural-farming, no-till, soil-health, fukuoka, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

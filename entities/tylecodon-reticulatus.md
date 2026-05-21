@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tölken, H.R. (1985). "Crassulaceae." In Leistner, O.A. (ed.), Flora of Southern Africa.
-  - Van Jaarsveld, E.J. & Koutnik, D. (2004). "Cotyledon and Tylecodon." Umdaus Press.
-  - Smith, G.F. et al. (1999). "Succulents of South Africa." Umdaus Press.
   - PlantZAfrica — SANBI. "Tylecodon reticulatus." https://pza.sanbi.org
 ---
 

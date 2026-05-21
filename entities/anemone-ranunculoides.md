@@ -12,10 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ehrendorfer, F. & Samuel, R. (2001). "Contributions to a Molecular Phylogeny of Anemone." Plant Systematics and Evolution.
-  - Hesse, E. et al. (2007). "Hybridization and Adaptive Radiation in Wood Anemones." Molecular Ecology, 16(6), 1214–1227.
-  - Krall, H. et al. (1999). "Flora of the Baltic Countries." Estonian Academy of Sciences.
-  - Royal Horticultural Society (2023). "Anemone ranunculoides — RHS Gardening." rhs.org.uk.
   - Ziman, S.N. & Keener, C.S. (1989). "A Geographical Analysis of the Family Ranunculaceae." Annals of the Missouri Botanical Garden, 76(4), 1022–1049.
 ---
 

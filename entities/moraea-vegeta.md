@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. (1986). "The Moraeas of Southern Africa." Annals of Kirstenbosch Botanic Garden.
-  - Goldblatt, P. & Manning, J.C. (2000). "Wildflowers of the Fynbos." Struik Publishers.
   - Pacific Bulb Society. "Moraea Species." https://www.pacificbulbsociety.org
 ---
 

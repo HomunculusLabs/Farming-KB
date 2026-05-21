@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Awopetu, G.O. et al. (2023). "Phytochemistry and Pharmacology of Symphytum Species." Phytochemistry Reviews, 22(4), 1101-1130.
-  - Stickel, F. & Seitz, H.K. (2000). "The efficacy and safety of comfrey." Public Health Nutrition, 3(4a), 501-508.
   - USDA NRCS Plant Database: Symphytum × uplandicum profile.
 ---
 

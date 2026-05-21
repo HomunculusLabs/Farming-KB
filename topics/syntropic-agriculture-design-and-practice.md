@@ -15,11 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Götsch, E. (1996). Breakthrough in Agriculture: Syntropic Farming. AS-PTA, Rio de Janeiro."
-  - "Götsch, E. (2014). Report on the implementation of syntropic agriculture in the Cupuaçu Buriti area. Fazenda Olhos D'Água."
-  - "Gonçalves, A. L. (2019). Syntropic Agriculture: Studying the Dynamics of Recovery and Economic Viability of Degraded Areas. UNESP."
-  - "Carvalho, T. & Corrêa, C. (2020). Evaluating the Financial Return of Syntropic Agriculture. Agroecologia, 15(1)."
-  - "Souza, H. et al. (2022). Soil Carbon Sequestration under Syntropic Agroforestry Systems. Agriculture, Ecosystems & Environment, 327."
 related_concepts:
   - ["permaculture-design-principles", "forest-gardening-and-food-forests", "agroforestry-and-alley-cropping", "regenerative-agriculture-overview"]
 ---

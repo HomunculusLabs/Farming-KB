@@ -22,11 +22,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Webster, J. & Weber, R. (2007). "Introduction to Fungi." Cambridge University Press.
-  - Dennis, R.W.G. (1968). "British Ascomycetes." J. Cramer.
-  - "Poronia punctata." GBIF. https://www.gbif.org/species/2561264
-  - "Poronia punctata." Index Fungorum. http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=228991
-  - Furrer, V. (2018). "Poronia punctata (L.) Fr. — a review." Mycosphere 9(4): 701-716.
 created: 2026-05-07
 ---
 

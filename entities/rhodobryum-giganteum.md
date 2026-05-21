@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Cao, T. & Vitt, D.H. (1986). "A taxonomic revision of the genus Rhodobryum in China." Journal of the Hattori Botanical Laboratory 61: 159–179.
-  - Spence, J.R. (2005). "Bryaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 27. Oxford University Press.
-  - Koponen, T. (1968). "Generic revision of Mniaceae Mitt. (Bryophyta)." Annales Botanici Fennici 5(2): 117–151.
-  - Wu, P.-C. et al. (2011). "A checklist of Chinese mosses." Journal of Systematics and Evolution 49(3): 213–243.
   - Ochi, H. (1972). "A revision of African Bryaceae and Mniiaceae." Journal of the Hattori Botanical Laboratory 35: 193–313.
 ---
 

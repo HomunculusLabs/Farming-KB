@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - Bown, D. (2001). "The Herb Society of America Encyclopedia of Herbs & Their Uses." DK Publishing.
-  - Rivera, D. et al. (2006). " ethnobotanical review of wild edible plants in the Mediterranean." Economic Botany 60(2): 126-145.
-  - Parejo, I. et al. (2002). "Natural Antioxidant Activity of the permaculture-designers-manual-essential-oil-plants of Origanum majorana." Planta Medica 68: 735-738.
-  - WHO (1999). "WHO Monographs on Selected Medicinal Plants, Vol. 1." World Health Organization, Geneva.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -82,3 +77,5 @@ The essential oil of Majorana hortensis has been extensively studied for its bio
 - **p-Cymene** (2–5%) — Mild antimicrobial.
 
 **Flavonoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** The aerial parts contain luteolin, apigenin, and their glycosides, along with rosmarinic acid and caffeic acid derivatives. These contribute to the antioxidant and anti-inflammatory activities of aqueous extracts.
+Further research into majorana hortensis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind majorana hortensis provides a foundation for both practical application and continued scientific inquiry.

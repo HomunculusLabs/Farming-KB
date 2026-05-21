@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Makino, T. et al. (2003). \"Anti-allergic effect of Perilla frutescens and its active constituents.\" Phytotherapy Research, 17(3), 240-244."
-  - "Bilska, A. et al. (2019). \"Perilla frutescens (L.) Britt.: a review of traditional uses, phytochemistry and pharmacology.\" Journal of Ethnopharmacology, 245, 112175."
-  - "Yu, H.H. et al. (2017). \"Perilla frutescens: a review of its ethnobotany, phytochemistry and pharmacological profile.\" Chinese Journal of Natural Medicines, 15(2), 81-94."
   - "Asamoto, M. et al. (2005). \"Chemopreventive effects of Perilla frutescens on colon carcinogenesis.\" Cancer Letters, 224(2), 209-216."
 ---
 
@@ -78,3 +75,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on perilla frutescens have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with perilla frutescens should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

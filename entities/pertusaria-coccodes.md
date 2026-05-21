@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Orange, A., James, P.W. & White, F.J. (2010). Microchemical Methods for the Identification of Lichens. British Lichen Society.
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Lendemer, J.C. (2013). "A review of Pertusaria (Pertusariaceae) in fungal-diversity-boreal-forests-taiga. The species forms a pale greyish-white to cream-colored thallus that is often areolate with a rough, warted surface texture.
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Beentje, H.J. (1995). "The Palms of Madagascar." Royal Botanic Gardens, Kew.
-  - Jones, D.L. (1995). "Palms Throughout the World." Smithsonian Institution Press.
-  - Rakotoarinivo, M., et al. (2014). "A new species of Dypsis from Madagascar." Kew Bulletin, 69(3), 1-7.
-  - IUCN Red List (2023). "Dypsis decaryi." IUCN Red List of Threatened Species.
   - PACSOA (2024). "Dypsis decaryi — Triangle Palm." Pacific Coast Palms Society.
 ---
 

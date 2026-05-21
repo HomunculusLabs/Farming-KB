@@ -13,15 +13,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - concepts/composting-toilet-systems.md
   - concepts/composting-toilets.md
   - concepts/faires-composting-toilets-and-humanure.md
   - concepts/humanure-composting-systems.md
   - concepts/humanure-composting.md
-  - concepts/mollison-designers-compost-toilet-humanure-systems.md
-  - concepts/mollison-designers-composting-toilets-and-humanure.md
-  - concepts/permaculture-designers-manual-composting-toilet-design.md
 related_concepts:
   - composting-toilet-systems
   - composting-toilets
@@ -30,7 +26,6 @@ related_concepts:
   - humanure-composting
   - mollison-designers-compost-toilet-humanure-systems
   - mollison-designers-composting-toilets-and-humanure
-  - permaculture-designers-manual-composting-toilet-design
   - greywater-systems-detailed
   - permaculture-designers-manual-greywater-systems
 --- Composting Toilets and Humanure Systems

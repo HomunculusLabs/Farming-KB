@@ -10,7 +10,6 @@ tags:
 date: 2025-05-10
 updated: 2025-05-10
 sources:
-  - Struwe, L., & Albert, V. A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
   - Pringle, J. S. (1995). "Gentianaceae." Flora fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research Council.
 ---
 

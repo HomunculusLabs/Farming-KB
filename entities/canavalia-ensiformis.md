@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sreekrishna, S. & Goodrick, J.C. (2001). \"Jack bean (Canavalia ensiformis) — a hardy forage legume.\" In: Advances in Agronomy, Vol. 73, pp. 1-35."
-  - "Pullaiah, T. (2006). \"Encyclopaedia of World Medicinal Plants.\" Regency Publications."
-  - "Duke, J.A. (1981). \"Handbook of Legumes of World Economic Importance.\" Plenum Press."
-  - "Bressani, R. (1978). \"Compositional and nutritional aspects of Canavalia ensiformis and Canavalia gladiata seeds.\" Qualitas Plantarum, 28(1), 1-10."
   - "Ezeagu, I.E. et al. (1998). \"Nutritional assessment of Canavalia ensiformis seeds.\" Plant Foods for Human Nutrition, 52(1), 35-45."
 ---
 

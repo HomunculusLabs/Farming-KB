@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." 2nd ed. New York Botanical Garden.
-  - Leach, D.G. (1961). "Rhododendrons of the World." Charles Scribner's Sons.
-  - Cox, P.A. & Cox, K.N.E. (1997). "The Encyclopedia of Rhododendron Hybrids." Timber Press.
   - Davidian, H.H.D. (1982). "The Rhododendron Species." Vol. 1. Timber Press.
 ---
 

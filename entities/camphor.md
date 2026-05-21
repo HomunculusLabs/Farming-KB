@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Chen, W. et al. (2013). \"Pharmacological effects of camphor.\" Evidence-Based Complementary and Alternative Medicine, 2013, 1–8."
-  - "Duke, J.A. (2002). Handbook of * (camphor tree) and
 in several other aromatic plant species. Historically one of the most important
 commodity terpenes in global trade, camphor has been used for millennia in
 traditional Chinese, Japanese, and Indian medicine.

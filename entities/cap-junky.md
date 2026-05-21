@@ -18,8 +18,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seed Junky Genetics. "Cap Junky." seedjunky.com.
-  - Compound Genetics. "Cap Junky Lineage." compoundgenetics.com.
-  - Leafly Staff (2024). "Cap Junky Weed Strain Information." Leafly.
   - AllBud (2024). "Cap Junky Strain Review." AllBud.com.
 ---
 

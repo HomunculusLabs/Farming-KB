@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Charlebois, D. & Byers, P.L. (2019). "Elderberry: A New Crop for Saskatchewan." University of Saskatchewan Extension.
-  - Thomas, J.E. (2020). "The genus Sambucus: A review of ethnobotany, pharmacology, and phytochemistry." Journal of Ethnopharmacology, 265, 113312.
-  - Finn, C.E. et al. (2015). "American elderberry (Sambucus canadensis)." HortScience, 50(5), 740-747.
-  - USDA NRCS (2023). "Sambucus canadensis L. Plant Guide." USDA Natural Resources Conservation Service.
 created: 2026-05-07
 ---
 
@@ -80,3 +76,5 @@ Cooking or processing fully degrades sambunigrin, rendering ripe berries safe fo
 Indigenous peoples of eastern [[guzman-psilocybin-mushrooms-north-america]] used elderberry extensively: bark as an emetic, flowers for fever reduction, and berries for food and medicine.
 
 Contemporary research supports antiviral activity against influenza strains A and B, with in vitro studies showing inhibition of viral replication and reduced infectivity.
+Further research into sambucus canadensis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind sambucus canadensis provides a foundation for both practical application and continued scientific inquiry.

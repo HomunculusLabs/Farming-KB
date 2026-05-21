@@ -4,7 +4,6 @@ tags: [query, season-extension, greenhouse, high-tunnel, hoop-house]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/permaculture-designers-manual-bill-mollison.md"
 ---
 

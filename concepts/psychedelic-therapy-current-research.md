@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, [[psilocybin]], and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of clinical research across major psychedelic compounds and indications.
+Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of clinical research across major psychedelic compounds and indications.
 
 ## MDMA-Assisted Therapy for PTSD
 
@@ -49,7 +49,7 @@ These combined effects create a "window of tolerance" where patients can revisit
 
 ### COMPASS Pathways
 
-[[compass-pathways]] is the most commercially advanced [[psilocybin-therapy]] developer:
+COMPASS Pathways is the most commercially advanced psilocybin therapy developer:
 
 - Phase 2b trial (2021): 233 patients with treatment-resistant depression
 - Single dose of 25 mg psilocybin compound (COMP360) with psychological support
@@ -79,13 +79,13 @@ Robin Carhart-Harris and colleagues at Imperial College have conducted foundatio
 
 ### Johns Hopkins University
 
-[[roland-griffiths]]' group at Johns Hopkins has published extensively:
+Roland Griffiths' group at Johns Hopkins has published extensively:
 
 - Large-scale survey studies on psychedelic use and mental health
 - Psilocybin for cancer-related anxiety and depression
 - Psilocybin for tobacco addiction
 - Long-term follow-up studies showing sustained benefits
-- [[mystical-experience]] as a predictor of therapeutic outcome
+- Mystical experience as a predictor of therapeutic outcome
 
 ## Ketamine Therapy
 
@@ -125,7 +125,7 @@ Small Pharma and UCL are conducting clinical trials with DMT-assisted therapy:
 
 ### Ibogaine for Addiction
 
-Ibogaine, derived from the root bark of [[tabernanthe-iboga]], shows promise for opioid and stimulant addiction:
+Ibogaine, derived from the root bark of Tabernanthe iboga, shows promise for opioid and stimulant addiction:
 - Single administration can significantly reduce withdrawal symptoms and drug craving
 - Risk of cardiotoxicity (QT prolongation) limits clinical use
 - Ambio Life Sciences and other organizations working on safer analogs
@@ -143,8 +143,13 @@ Active or planned research areas include:
 - Social anxiety in autism spectrum disorder
 
 ## Therapeutic Frameworks
+
+Most psychedelic therapy protocols follow a similar structure:
+
+1. Preparation (1-3 sessions): Building therapeutic alliance, setting intentions, medical screening, explaining the experience
+2. Dosing session (1-3 sessions): Administration in comfortable setting with therapist present, typically 4-8 hours for psilocybin, 6-8 hours for MDMA, eye mask and curated music playlist
 ## See Also
 
-- [[psychedelic-research-timeline]] — historical context for current research
-- psychedelic integration guide — post-therapy integration practices
-- [[harm-reduction-guide]] — safety considerations for therapeutic and non-therapeutic use
+- [[mckenna-suppression-psychedelic-research-lsd-therapy]]
+- [[psychedelic-therapy-and-research]]
+- [[metzner-grof-perinatal-matrices-psychedelic-therapy]]

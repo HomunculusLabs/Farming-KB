@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Strzelecka, E. (1993). "On the ethnopharmacology of Euphrasia." Journal of Ethnopharmacology 39(3): 197-202.
-  - Barnes, J. et al. (2001). "Eyebright (Euphrasia spp.): a review of its traditional uses and pharmacology." Journal of Pharmacy and Pharmacology 53(2): 147-162.
-  - Gaus, W. et al. (2005). "Efficacy and safety of an Euphrasia officinalis preparation in patients with conjunctivitis." Arzneimittelforschung 55(12): 732-736.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
 created: 2026-05-07
 ---
 

@@ -29,7 +29,7 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 **Camera types:**
 - Dome cameras: Vandal-resistant, wide-angle, for under eaves and covered areas
 - Bullet cameras: Long-range, weather-resistant, for driveways and perimeters
-- PTZ (Pan-Tilt-Zoom): Motorized for covering [[microfungal-diversity-large-areas-site-factors]] from one position
+- PTZ (Pan-Tilt-Zoom): Motorized for covering large areas from one position
 - Trail/game cameras: Battery-powered, cellular, for remote locations without power
 
 **Key features for homesteads:**
@@ -47,13 +47,13 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 - Animal enclosures and barns
 - Home entrances (front, back, sides)
 - Solar panel arrays and battery storage
-- Well [[underground-house-and-earth-berm-construction]] utility buildings
+- Well house and utility buildings
 
 **Brands to consider:** Reolink (budget-friendly), Ubiquiti UniFi Protect (pro-grade, requires network knowledge), Amcrest (mid-range), Hikvision/Dahua (feature-rich, Chinese-manufactured)
 
 ### Motion Sensor Lights
 
-Bright, sudden illumination is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most effective deterrents. Motion lights are low-cost, low-maintenance, and work on their own.
+Bright, sudden illumination is one of the most effective deterrents. Motion lights are low-cost, low-maintenance, and work on their own.
 
 **Types:**
 - LED floodlights (1000-3000 lumens minimum)
@@ -84,7 +84,7 @@ The first line of physical security. Gates should match the fence in strength an
 - Heavy-duty padlock with weatherproof lock body (boron alloy shackle)
 - Lock boxes that cover the hasp to prevent bolt cutting
 - Automatic gate openers with remote access and camera integration
-- Secondary gate or cattle guard [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] speed bump for vehicles
+- Secondary gate or cattle guard as a speed bump for vehicles
 - Consider a call box or intercom at the main gate for visitor screening
 
 ### Fencing and Perimeter
@@ -97,7 +97,7 @@ The first line of physical security. Gates should match the fence in strength an
 
 ## Livestock Guardian Dogs
 
-Dogs [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] oldest and most reliable security system for a homestead. A well-trained livestock guardian dog (LGD) provides 24/7 protection against both human intruders and predators.
+Dogs are the oldest and most reliable security system for a homestead. A well-trained livestock guardian dog (LGD) provides 24/7 protection against both human intruders and predators.
 
 **Best breeds for security:**
 - Great Pyrenees — calm, territorial, excellent with livestock
@@ -120,11 +120,11 @@ Dogs [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants
 
 ## Community Watch and Rural Networks
 
-Isolation [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] homesteader's greatest vulnerability. A connected community is a secure community.
+Isolation is the homesteader's greatest vulnerability. A connected community is a secure community.
 
 **Building rural security networks:**
 - Know your neighbors — exchange phone numbers and establish check-in protocols
-- Join or [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] neighborhood watch program (even in rural areas)
+- Join or start a neighborhood watch program (even in rural areas)
 - Use radio communication (GMRS or ham radio) for local coordination
 - Establish a phone tree for emergencies
 - Share information about suspicious vehicles or persons
@@ -137,13 +137,19 @@ Isolation [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-d
 - Community members tend to look out for each other
 - Reduced density means fewer random criminal opportunities
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
-- [[mushroom-vs-toadstool-terminology]]
 ## Additional Security Measures
 
 ### Vehicle and Equipment Security
 
 - Keep vehicles locked, keys secured, and parked in visible areas
 - Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
+- Engrave equipment with your driver's license number
+- Photograph serial numbers and store records off-site
+- Chain and lock equipment in sheds when not in use
+
+### Firearm Safety and Self-Defense
+## See Also
+
+- [[cervantes-grow-room-security-law-enforcement]]
+- [[homestead-permaculture-design]]
+- [[homestead-workshop-tools]]

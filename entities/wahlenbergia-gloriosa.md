@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Carolin R.C. (1992). "Wahlenbergia." In: Flora of Australia, Vol. 35. AGPS Canberra.
-  - Walsh N.G., Entwisle T.J. (1999). "Flora of Victoria, Vol. 4." Inkata Press.
   - Environment ACT (2005). "Royal Bluebell (Wahlenbergia gloriosa) Action Plan." ACT Government.
 ---
 

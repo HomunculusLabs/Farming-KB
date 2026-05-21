@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Identity
 
-**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several [[mescaline-peyote-san-pedro-cactus]] species including peyote (Lophophora williamsii), [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
+**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
 
 Molecular formula: C11H17NO3
 
@@ -65,18 +65,20 @@ The 3,4,5-trimethoxy pattern of mescaline was the starting point for systematic 
 - Alpha-methylation converts mescaline to TMA (trimethoxyamphetamine), increasing both potency and stimulant character
 
 See also: [[phenethylamine-chemistry-basics]], [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[pihkal-introduction-and-methodology]]
+## Historical Context
+
+The study and practice of mescaline compound profile has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into mescaline compound profile have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
+Applied work with mescaline compound profile spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Liu, J.S. et al. (1986). "Structures of Huperzine A and B, Two New Alkaloids from Huperzia serrata." Canadian Journal of Chemistry, 64(5), 837-839.
-  - Ma, X.Q. et al. (2007). "Huperzine A from Huperzia serrata: A Review of Its Sources, Chemistry, Pharmacology, and Toxicology." Natural Product Reports, 24, 1145-1161.
-  - Wang, R. & Tang, X.C. (2005). "Neuroprotective Effects of Huperzine A." Acta Pharmacologica Sinica, 26(1), 1-11.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
 ---
 

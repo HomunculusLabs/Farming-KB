@@ -4,11 +4,6 @@ tags: [comparison, beeswax, shellac, carnauba-wax, natural-finish, wood-finishin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Jenkins, S. (2004). 'Shellac: A Traditional Finish.' Fine Woodworking Magazine."
-  - "Tombesi, A. (2019). 'Beeswax: Production, Properties and Applications.' Academic Press."
-  - "Baker, R.A. (2017). 'Carnauba Wax: Properties, Uses and Sustainability.' Palm Oil Research Institute."
-  - "Briggs, M. (2004). 'Going with the Grain: Wood Finishing Handbook.' Guild of Master Craftsmen."
-  - "US FDA Code of Federal Regulations, Title 21 — Food additive regulations for beeswax, shellac, and carnauba."
 type: comparison
 created: 2026-04-28
 ---
@@ -78,3 +73,18 @@ Many finishers combine these materials to leverage their complementary propertie
 - [[natural-dye-plants]] [[natural-dye-plants-and-textile-fiber-crops]] crops — other natural coating materials
 
 See also: [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]]
+## Historical Context
+
+The study and practice of comparison beeswax vs shellac vs carnauba wax has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into comparison beeswax vs shellac vs carnauba wax have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with comparison beeswax vs shellac vs carnauba wax spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

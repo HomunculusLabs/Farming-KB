@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Shulgin, A.T. (1975). "The psilocybin-psilocin-chemistry-and-pharmacology-emcdda of MDMA and MDA." In "Psychopharmacology of Hallucinogens." Pergamon Press.
-  - Nichols, D.E. (1986). "Differences between the mechanism of action of MDMA, MDA, and the classic hallucinogens." Journal of Psychoactive Drugs, 18(4), 305-313.
-  - Pasqualucci, V. et al. (1999). "MDA and MDMA: A review." European Review for Medical and Pharmacological Sciences, 3(4), 233-242.
 created: 2026-05-07
 ---
 

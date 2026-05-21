@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Edmonds, J.M. & Chweya, J.A. (1997). "Solanum section Solanum in Africa." Nordic Journal of Botany, 17, 1-18.
-  - Schilling, E.E. (1981). "Systematics of Solanum section Dulcamara." Systematic Botany Monographs, 3, 1-156.
-  - Cipollini, D.F. & Levey, D.J. (1997). "Why are some fruits toxic?" Ecology, 78(6), 1802-1812.
-  - Milne, S. (2009). "Bittersweet: The Story of Sugar." Penguin.
   - Wink, M. (2010). "guzman-psilocybin-mushrooms-north-america.
 ---
 

@@ -17,13 +17,13 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Powdery mildews** (Erysiphe, Podosphaera, Uncinula): White powder on leaf surfaces, reduced photosynthesis. Affects grapes, roses, cucurbits, cereals
 - **Downy mildews** (Plasmopara, Peronospora): Yellow patches on leaves, fuzzy growth underneath. Affects grapes, lettuce, onions
 - **Rusts** (Puccinia, Uromyces): Orange/brown pustules on leaves and stems. Obligate biotrophs (require living tissue). Affects wheat, coffee, soybeans, beans
-- **[[late-blight]]** ([[phytophthora-infestans]]): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
-- **Botrytis** ([[botrytis-cinerea]]): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
+- **Late blight** (Phytophthora infestans): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
+- **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** ([[fusarium-oxysporum]]): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
-- **Verticillium wilt** ([[verticillium-dahliae]]): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
-- **Rhizoctonia** ([[rhizoctonia-solani]]): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
+- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
+- **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
 - **Phytophthora** (Phytophthora spp.): Root rot, crown rot, fruit rot. Affects avocado, citrus, soybean, oak (sudden oak death)
 
@@ -68,15 +68,20 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - [[companion-planting-deterrents]] — for prevention-based approaches
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
 - [[soil-food-web-structure]] — for biological disease suppression
+## Historical Context
+
+The study and practice of fungal pathogens in agriculture has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into fungal pathogens in agriculture have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
+Applied work with fungal pathogens in agriculture spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

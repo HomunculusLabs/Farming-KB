@@ -23,16 +23,9 @@ sources:
   - concepts/fruit-tree-grafting-guide.md
   - concepts/fruit-tree-propagation.md
   - concepts/grafting-fruit-trees.md
-  - concepts/hamilton-taking-cuttings-softwood-hardwood.md
-  - concepts/hamilton-layering-propagation-techniques.md
   - concepts/hamilton-vegetative-propagation.md
   - concepts/hamilton-grafting-budding-techniques.md
-  - concepts/vegetative-propagation-methods-mollison.md
   - concepts/organic-propagation-methods.md
-  - concepts/cervantes-tissue-culture-micropropagation.md
-  - concepts/mollison-designers-willow-water-and-natural-rooting-propagation.md
-  - concepts/mollison-designers-grafting-and-budding-fruit-trees.md
-  - concepts/mycorrhiza-micropropagation-integration.md
   - concepts/jeavons-seed-propagation-techniques.md
 related_concepts:
   - plant-propagation-methods

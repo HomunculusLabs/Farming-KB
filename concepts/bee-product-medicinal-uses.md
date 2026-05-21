@@ -23,7 +23,7 @@ research supports several mechanisms:
 - **Osmotic effect** — high sugar concentration draws water from wounds,
   reducing edema and creating an unfavorable environment for bacteria
 - **Low pH (3.2-4.5)** — acidic environment inhibits bacterial growth
-- **Hydrogen peroxide production** — the [[enzyme]] glucose oxidase produces
+- **Hydrogen peroxide production** — the enzyme glucose oxidase produces
   low levels of H2O2 when honey is diluted by wound fluids, providing
   sustained antibacterial action
 - **MGO (methylglyoxal)** — unique to manuka honey; non-peroxide
@@ -45,7 +45,7 @@ research supports several mechanisms:
 - Change dressing every 1-3 days
 
 ### Respiratory Health
-- **Cough suppression** — buckwheat honey outperforms [[dextromethorphan]] in
+- **Cough suppression** — buckwheat honey outperforms dextromethorphan in
   pediatric studies for nighttime cough
 - **Sore throat** — honey coats and soothes; effective alone or in warm
   tea with lemon
@@ -61,7 +61,7 @@ research supports several mechanisms:
 
 ### Safety
 - Never give honey to infants under 12 months (botulism risk from
-  [[clostridium]] botulinum spores)
+  Clostridium botulinum spores)
 - Diabetics should use honey cautiously — it does raise blood sugar, though
   less than refined sugar in some studies
 
@@ -72,13 +72,13 @@ They use it to seal gaps in the hive and as an antimicrobial agent.
 
 ### Composition
 Over 300 compounds identified, including flavonoids, phenolic acids,
-[[terpenes]], and aromatic compounds. Exact composition varies by botanical
+terpenes, and aromatic compounds. Exact composition varies by botanical
 source and region.
 
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
-  [[staphylococcus-aureus]] and Streptococcus species
-- **Antifungal** — effective against [[candida-albicans]] and dermatophytes
+  Staphylococcus aureus and Streptococcus species
+- **Antifungal** — effective against Candida albicans and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals
@@ -93,7 +93,7 @@ source and region.
 - **Wound care** — propolis ointments for minor cuts and abrasions
 
 ### Preparation
-- **Tincture** — steep propolis chunks in 70% [[ethanol]] for 2-4 weeks;
+- **Tincture** — steep propolis chunks in 70% ethanol for 2-4 weeks;
   strain and dilute for internal use
 - **Salve** — infuse propolis in oil, combine with beeswax for topical use
 - **Powder** — freeze propolis, grind in a coffee grinder, encapsulate
@@ -147,3 +147,8 @@ mandibular glands.
 - **Antioxidant** — significant free radical scavenging activity
 - **Wound healing** — promotes fibroblast migration and collagen synthesis
 - **Cholesterol** — some evidence for LDL reduction
+## See Also
+
+- [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
+- [[lemon-balm-cultivation-and-medicinal-uses]]
+- [[calendula-cultivation-and-medicinal-uses]]

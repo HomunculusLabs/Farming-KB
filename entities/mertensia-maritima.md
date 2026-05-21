@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Elven, R. et al. (2011). "Pan-Arctic Flora." Norwegian Arctic University.
-  - Schofield, J.J. (2003). "Discovering Wild Plants." Alaska Northwest Books.
   - RHS (2026). "Mertensia maritima." Royal Horticultural Society.
 ---
 

@@ -16,11 +16,8 @@ sources:
     url: https://www.fao.org/quinoa/en/
   - title: USDA NRCS Plant Guide — chenopodium-quinoa
     url: https://plants.usda.gov/home/plantProfile?symbol=CHQU2
-  - title: Rodale Institute — cover-crop-guide-detailed
     url: https://rodaleinstitute.org/why-organic/organic-farming-practices/cover-crops/
-  - title: Native Seeds/SEARCH — Amaranth comparison-bean-growing-guide-vs-pepper-growing-guide
     url: https://www.nativeseeds.org/pages/growing-guides
-  - title: EcoFarming Daily — Small-Scale fukuoka-no-till-grain-production-method
     url: https://www.ecofarmingdaily.com/
 ---
 

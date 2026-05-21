@@ -13,9 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." exotic-mushroom-cultivation-guide.
-  - Stamets P (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press, Berkeley, CA.
-  - Wood DA, Smith JF (1987). "The companion-cultivation-of-mushrooms-with-garden-vegetables on enriched straw substrates." Mushroom Journal 164: 366-371.
   - Rinker DL (1991). "Use of supplements cannabis-genetics-and-breeding of Agaricus. Pudoc, Wageningen.
 ---
 

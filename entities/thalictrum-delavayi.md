@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wang, W.T. (2015). "Thalictrum in Flora of China." Science Press, Beijing.
-  - Nicolson, D.H. (2008). "Thalictrum cultivation in temperate gardens." The Plantsman 7(3): 150-155.
   - Chen, S.B. et al. (2017). "Alkaloid constituents of Thalictrum delavayi." Journal of Natural Products 80(4): 1021-1028.
 ---
 

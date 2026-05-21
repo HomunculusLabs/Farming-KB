@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Kostermans, A.J.G.H. (1952). The Lauraceae of the Indonesian Archipelago. Bulletin of the Botanical Gardens of Buitenzorg, 18, 1-258."
-  - "van der Werff, H. & Richter, H.G. (1996). Toward an improved classification of Lauraceae. Annals of the Missouri Botanical Garden, 83(4), 409-418."
-  - "Li, J. et al. (2008). Phylogenetic relationships of Litsea (Lauraceae) based on nrDNA ITS sequences. Botanical Journal of the Linnean Society, 158(4), 527-539."
   - "Chen, B. et al. (2019). Essential oil composition and antimicrobial activity of Litsea species. Industrial Crops and Products, 129, 656-665."
 ---
 

@@ -5,8 +5,6 @@ tags: [fruit-trees, pollination, rootstocks, organic-gardening, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 type: concept
 ---# Fruit Tree Selection, Pollination, and Rootstocks
 

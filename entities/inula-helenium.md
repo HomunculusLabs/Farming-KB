@@ -12,11 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Barnes, J. et al. (2007). "Herbal Medicines." 3rd ed.
     Pharmaceutical Press.
-  - European Medicines Agency (2011). "permaculture-site-assessment-report-writing on
     Inula helenium radix." EMA/HMPC/572356/2009.
-  - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the
     World." 2nd ed. Timber Press.
 ---
 ## Inula helenium
@@ -80,3 +77,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+Further research into inula helenium continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind inula helenium provides a foundation for both practical application and continued scientific inquiry.

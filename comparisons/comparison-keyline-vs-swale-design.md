@@ -5,7 +5,6 @@ tags: [comparison, permaculture, water-management, earthworks, erosion-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ full moisture profile of a property.
 
 - [[water-harvesting-techniques-comparison]]
 - [[natural-farming-guide-contour-farming-strip-cropping]]
+Further research into comparison keyline vs swale design continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison keyline vs swale design provides a foundation for both practical application and continued scientific inquiry.

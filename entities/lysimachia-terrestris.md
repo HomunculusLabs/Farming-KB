@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - USDA NRCS. "Lysimachia terrestris (L.) BSP." PLANTS Database.
   - Rhoads, A.F. & Block, T.A. (2007). "The Plants of Pennsylvania." University of Pennsylvania Press.
 ---
 

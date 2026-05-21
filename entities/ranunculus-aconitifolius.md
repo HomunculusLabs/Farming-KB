@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tutin, T.G. et al. (1964). "Flora Europaea Vol. 1." Cambridge University Press.
-  - Rothmaler, W. (2005). "Exkursionsflora von Deutschland, Band 4." Spektrum Akademischer Verlag.
   - Aeschimann, D. et al. (2004). "Flora Alpina." Haupt Verlag.
 ---
 

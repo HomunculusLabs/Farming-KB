@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hall, I.R. et al. (2003). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press.
-  - Kirk, P.M. et al. (2008). Dictionary of the Fungi, 10th Edition. CABI Publishing.
-  - Arora, D. (1986). Mushrooms Demystified, 2nd Edition. Ten Speed Press.
-  - Zhang, Y. et al. (2015). "Strobilomyces (Boletaceae): A New Species from China." Mycotaxon, 130(2), 497–505.
-  - Binder, M. & Bresinsky, A. (2002). "Derivation of a Polymorphic Genus of Strobilomycetaceae." Mycologia, 94(1), 30–41.
   - Kuo, M. (2023). "Strobilomyces strobilaceus." MushroomExpert.com.
 ---
 ## Overview

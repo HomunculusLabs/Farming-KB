@@ -4,10 +4,6 @@ tags: [query, permaculture, nitrogen-cycle, nutrient-cycling, soil-biology, legu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mollison, B. (1988). *Permaculture: A Designer's Manual*. Tagari Publications."
-  - "Holmgren, D. (2002). *Permaculture: Principles and permaculture-principles-pathways-beyond-sustainability*. Holmgren Design Services."
-  - "Crews, T.E. (2005). Perennial crops and endogenous nutrient supplies. *Renewable Agriculture and Food Systems*, 20(1), 25-37."
-  - "Robertson, G.P. & Swinton, S.M. (2005). Reconciling agricultural productivity and environmental integrity: A grand challenge for agriculture. *Frontiers in Ecology and the Environment*, 3(1), 38-46."
 type: query
 created: 2026-04-28---
 ---

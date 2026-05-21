@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wang Z. et al. (2012). "Genus Gentiana phytochemistry and pharmacology." Chemistry & Biodiversity, 9(1), 28–65.
-  - Ji L. et al. (2019). "Gentiopicroside: a potential therapeutic agent." Phytomedicine, 55, 145–156.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. 1.
 ---
 

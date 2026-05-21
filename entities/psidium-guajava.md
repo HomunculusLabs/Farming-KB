@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Morton, J. (1987). "Guava." Fruits of Warm Climates. Julia Morton.
-  - Jiménez-Escrig, A. et al. (2001). "Guava fruit composition." Food Chemistry, 72(3), 333–336.
-  - Gutiérrez, R.M.P. et al. (2008). "Psidium guajava: A review of its traditional uses." Journal of Ethnopharmacology, 117(1), 1–27.
   - Díaz-de-Cerio, E. et al. (2017). "Guava fruit and leaves: Nutritional and bioactive composition." Trends in Food Science & Technology, 66, 56–67.
 ---
 

@@ -9,8 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Ghabrial SA, Suzuki N (2009). "Viruses of Plant Pathogenic Fungi." Annual Review of Phytopathology 47:353-384.
-  - Pearson MN, Beever RE, Boine B, Arthur K (2009). "Mycoviruses of Filamentous Fungi and Their Relevance to Plant Pathology." Molecular Plant Pathology 10:115-127.
   - Nuss DL (2005). "Hypovirulence: Mycoviruses at the Fungal-Plant Interface." Nature Reviews Microbiology 3:632-642.
 ---
 

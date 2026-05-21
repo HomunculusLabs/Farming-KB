@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - USDA NRCS (2024). Plant Profile: Ilex opaca. plants.usda.gov.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Little, E.L. (1979). Checklist of dmt-containing-plants-united-states-halpern Trees. USDA Forest Service Agriculture Handbook 541.
-  - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
   - Brand, M.H. (2001). "Ilex." In: Encyclopedia of Plants and Flowers. DK Publishing.
 ---
 

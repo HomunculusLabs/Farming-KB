@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ahti T. (1961). "Taxonomic studies on reindeer lichens (Cladonia, subgenus Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae 32(1).
-  - Hammer S. (2001). "A morphological and molecular revision of the Cladonia furcata complex." The Bryologist 104(4): 573-594.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications, London.
 ---
 

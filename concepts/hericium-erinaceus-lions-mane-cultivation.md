@@ -4,7 +4,6 @@ tags: [hericium-erinaceus, lions-mane, mushroom-cultivation, medicinal-mushrooms
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and medicinal-mushrooms (Stamets, 1993)
 type: concept
 created: 2026-04-28
 ---

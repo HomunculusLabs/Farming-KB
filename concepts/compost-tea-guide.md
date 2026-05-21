@@ -1,4 +1,5 @@
 ---
+
 title: Compost Tea Guide — Complete AACT Manual
 created: 2026-04-11
 updated: 2026-04-12
@@ -138,12 +139,12 @@ Ingham recommends microscope assessment at 400x magnification:
 
 ## Storage and Shelf Life
 
-## See Also
+- AACT must be used within 4-6 hours of brewing for maximum benefit
+- NEVER store in sealed containers — organisms need oxygen
+- If must store briefly: keep aerated, use within 24 hours, biology declining rapidly
+- Compost tea cannot be shipped or stored long-term — brew fresh on-site
+- This is why commercial compost tea products are typically extracts, not true AACT
 
-- [[composting-systems]] — compost production as AACT ingredient source
-- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
-- [[cannabis-living-soil-guide]] — AACT in living soil cannabis cultivation
-- [[vermicomposting]] — worm castings as premium AACT ingredient
-- [[mycorrhizal-fungi]] — add spores at application time
-- [[compost-tea-aact]] — concise AACT summary
-- [[elaine-ingham]] — AACT methodology developer
+## Bacterial vs. Fungal Tea
+
+| Factor | Bacterial Tea | Fungal Tea |

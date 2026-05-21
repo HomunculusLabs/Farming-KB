@@ -15,12 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Singh, Y.N. (1992). "Kava: An overview." Journal of Ethnopharmacology, 37(1), 13–45.
-  - Sarris, J. et al. (2011). "Kava for Generalized Anxiety Disorder (GAD)." Journal of Clinical Psychopharmacology, 31(5), 583–587.
-  - Teschke, R. et al. (2010). "Kava hepatotoxicity: a clinical review." Annals of Hepatology, 9(1), 68–76.
-  - Lebot, V. et al. (1997). "Kava: The Pacific Elixir." Healing Arts Press.
-  - Mathews, J.D. et al. (1988). "Effects of kava on liver function." Medical Journal of Australia, 148(11), 548–549.
-  - Cairney, S. et al. (2003). "Saccade and cognitive function in chronic kava users." Human Psychopharmacology, 18(3), 185–190.
 created: 2026-05-09
 ---
 

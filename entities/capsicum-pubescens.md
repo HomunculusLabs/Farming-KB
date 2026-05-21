@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Eshbaugh, W.H. (1979). "A Biosystematic and Evolutionary Study of the Capsicum pubescens Complex." Bulletin of the Torrey Botanical Club.
-  - DeWitt, D. & Bosland, P.W. (1996). Peppers of the World: An query-how-to-grow-chili-peppers-from-seed-to-harvest." PNAS 104(41).
-  - Moscone, E.A. et al. (2007). "The Evolution of Chili Peppers." Economic Botany 61(2).
   - Basu, S.K. & De, A.K. (2003). "Capsicum: Biological and Pharmacological Properties." Journal of Medicinal Food 6(2).
 ---
 

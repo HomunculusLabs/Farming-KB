@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. & Heywood, V.H. (1964). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Hultén, E. & Fries, M. (1986). "Atlas of North European Vascular Plants." Koeltz Scientific Books.
-  - Wang, W.T. (1980). "Notulae de Ranunculaceis Sinensibus." Bulletin of Botanical Laboratory of North-Eastern Forestry Institute, 8: 1–105.
-  - Ehrendorfer, F. (1968). "Geographical and Ecological Aspects of Infraspecific Differentiation." Botanical Journal of the Linnean Society, 60: 275–290.
   - Körner, C. (2003). "Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems." 2nd ed., Springer.
 ---
 

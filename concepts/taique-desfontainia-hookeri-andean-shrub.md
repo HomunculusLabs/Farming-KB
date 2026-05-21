@@ -6,7 +6,6 @@ tags: [ethnobotany, chile, andes, desfontainiaceae, folk-medicine,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 

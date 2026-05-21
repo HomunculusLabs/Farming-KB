@@ -93,22 +93,22 @@ Natural biological filtration is preferred for backyard ponds:
 
 ### Submerged Oxygenators
 
-- Hornwort ([[ceratophyllum-demersum]]) — very effective, no roots needed
+- Hornwort (Ceratophyllum demersum) — very effective, no roots needed
 - Elodea (Egeria densa) — excellent oxygenator, can be invasive
 - Anacharis (Egeria najas) — easy to grow, good for beginners
 
 ### Floating Plants
 
-- Water hyacinth ([[eichhornia-crassipes]]) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
-- Water lettuce ([[pistia-stratiotes]]) — good shade plant, also invasive in warm climates
+- Water hyacinth (Eichhornia crassipes) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
+- Water lettuce (Pistia stratiotes) — good shade plant, also invasive in warm climates
 - Duckweed (Lemna spp.) — tiny floating plant, excellent nutrient scrubber, provides fish food
 
 ### Marginal/Bog Plants
 
-- Blue flag iris ([[iris-versicolor]])
-- Pickerelweed ([[pontederia-cordata]])
+- Blue flag iris (Iris versicolor)
+- Pickerelweed (Pontederia cordata)
 - Cattails (Typha spp.) — vigorous spreader, contain with root barriers
-- Sweet flag ([[acorus-calamus]])
+- Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
 
 ### Water Lilies
@@ -147,3 +147,5 @@ In cold climates, ponds need winter preparation:
 -  **Tropical plants** must be brought indoors or treated as annuals.
 
 ## Integration with Homestead Systems
+
+A backyard pond connects to broader homestead water management. Overflow can feed [[passive-irrigation-systems]] for garden beds. Pond water can supplement [[rainwater-harvesting-systems]] during dry periods. The pond creates microclimate benefits — cooling adjacent areas in summer and providing humidity for nearby plantings. Combined with [[aquaponics-fish-species]] knowledge, a pond can serve as the foundation for a more intensive aquaponic production system. Fish waste from the pond can also enrich [[drip-irrigation-guide]] water for adjacent garden beds.

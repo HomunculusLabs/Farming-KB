@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - López-García, R.E. et al. (2018). "Vincamine and related alkaloids: a comprehensive review." Journal of Pharmacy and Pharmacology 70(7): 879-894.
   - Duke, J.A. (2002). Handbook of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide as both an ornamental groundcover and an escaped garden plant.
 ---
 

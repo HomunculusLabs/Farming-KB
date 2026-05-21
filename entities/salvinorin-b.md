@@ -11,12 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/concepts/salvinorin-reference.md"]
-  - Valdés, L.J. et al. (2001). "Two new neoclerodane diterpenoids
     from golden-guide-salvia-divinorum-and-diviner-sage." Journal of Natural Products, 64(2),
     245-247.
-  - Roth, B.L. et al. (2004). "Salvinorin A: A potent naturally
     occurring nonnitrogenous cannabis-for-alcohol-dependence, 89(1), 1-10.
-  - Tidgewell, K. et al. (2004). "Synthesis of salvinorin A analogs."
     Bioorganic & Medicinal Chemistry Letters, 14(21), 5445-5447.
 ---
 

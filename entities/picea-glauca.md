@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nienstaedt, H. & Zasada, J.C. (1990). "Picea glauca (Moench) Voss." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Viereck, L.A. & Johnston, W.F. (1990). "berry-growing, Vol. 1. USDA Forest Service.
-  - Mackay, J. & Comeau, P.G. (2020). "Biomass and volume equations for tree species in the boreal forest of Canada." Forestry Chronicle 96(2): 145-156.
   - Li, P. et al. (2017). "Ecological genomics of adaptation in white spruce (Picea glauca)." Ecology and Evolution 7(16): 6414-6427.
 ---
 

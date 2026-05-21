@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - Guzmán G, Allen JW, Gartz J (1998) A worldwide , rivaled only by 
 by Berkeley and Broome (1871) from Sri Lanka. The species was later
 transferred to the genus Copelandia by Singer (1951). The genus

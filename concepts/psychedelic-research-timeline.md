@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+sources: []
 ---
 
 # Psychedelic Research Timeline
@@ -18,7 +17,7 @@ The history of psychedelic research spans nearly a century, from early serendipi
 
 ### 1938 — LSD Synthesis
 
-[[albert-hofmann]], a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
+Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes lysergic acid diethylamide (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
@@ -30,7 +29,7 @@ Sandoz begins distributing LSD under the trade name Delysid to researchers and c
 
 ### 1949 — Mescaline Research Expands
 
-Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist [[louis-lewin]] in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
+Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
 
 ## 1950s-1960s: The Golden Age of Psychedelic Research
 
@@ -40,18 +39,18 @@ The CIA conducts covert experiments with LSD as a potential mind-control agent, 
 
 ### 1954 — Humphry Osmond Coins "Psychedelic"
 
-British psychiatrist [[humphry-osmond]] suggests the term "psychedelic" (Greek: psyche = mind, delos = manifest) to describe these substances, replacing "psychotomimetic."
+British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyche = mind, delos = manifest) to describe these substances, replacing "psychotomimetic."
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates psilocybin and psilocin from [[psilocybe-mexicana]] mushrooms, specimens collected by R. [[gordon-wasson]] in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces [[psilocybin-mushrooms]] to Western audiences.
+Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
 Over 1,000 clinical papers are published, and approximately 40,000 patients receive psychedelic therapy. Key researchers include:
 
 - Humphry Osmond and Abram Hoffer — alcoholism treatment with LSD in Saskatchewan
-- [[stanislav-grof]] — LSD psychotherapy for neuroses and terminal illness
+- Stanislav Grof — LSD psychotherapy for neuroses and terminal illness
 - Eric Kast — LSD for pain and anxiety in cancer patients
 - Sidney Cohen — early safety and dose-response research
 
@@ -141,9 +140,16 @@ MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory c
 
 ### 2025-2026 — Expanding Indications
 
+Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DMT for depression (Small Pharma), ibogaine for addiction (Ambio Life Sciences), and ketamine for various indications. Psychedelic-assisted therapy training programs multiply.
+
+## Key Figures in Psychedelic Research
+
+| Researcher | Contribution | Era |
+|-----------|-------------|-----|
+| Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
+| Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |
 ## See Also
 
-- [[psychedelic-therapy-current-research]] — current state of clinical research
-- [[harm-reduction-guide]] — modern harm reduction rooted in decades of research
-
-## Related
+- [[mckenna-suppression-psychedelic-research-lsd-therapy]]
+- [[johns-hopkins-psychedelic-research]]
+- [[psychedelic-therapy-and-research]]

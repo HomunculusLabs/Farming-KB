@@ -14,10 +14,6 @@ tags:
   - forest-floor
   - decomposition
 sources:
-  - Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland Vol. 3. Edition Mykologia.
-  - Phillips, R. (2006). Mushrooms and Other Fungi of Great Britain and Europe. Pan Macmillan.
-  - Arnolds, E. (1982). "Ecology and coenology of macrofungi in grasslands and moist heathlands in Drenthe, the Netherlands." Bibliotheca Mycologica, 83, 1–408.
-  - Boertmann, D. (2010). The Fungi of Northern Europe Vol. 1: The Genus Clitocybe. Svampetryk.
   - Kibby, G. (2012). Mushrooms and Toadstools of Britain and Europe. Self-published.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Leandri, J. (1946). "Les Euphorbes malgaches à cyathes agglomérés." Notulae Systematicae, 12.
-  - Rauh, W. (1998). "Succulent and Xerophytic Plants of Madagascar." Strawberry Press.
-  - Carter, S. & Smith, A.L. (1988). "Flora of Tropical East Africa: Euphorbiaceae." A.A. Balkema.
-  - Haevermans, T. et al. (2004). "Phylogeny of Euphorbia section Goniostema." Molecular Phylogenetics and Evolution, 33.
   - Urs Eggli (2002). "Illustrated Handbook of Succulent Plants: Dicotyledons." Springer.
 ---
 

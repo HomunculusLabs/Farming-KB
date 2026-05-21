@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
-  - Preston, C.D., Pearman, D.A. & Dines, T.D. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
-  - Clapham, A.R., Tutin, T.G. & Moore, D.M. (1987). "Flora of the British Isles." 3rd ed. Cambridge University Press.
   - Royal Botanic Gardens Kew. "Succisa pratensis Moench." Plants of the World Online.
 ---
 

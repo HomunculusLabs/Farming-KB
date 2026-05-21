@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Large MF, Braggins JE (2004). "Tree Ferns." Timber Press.
-  - Bostock PD, Spokes TM (1998). "Cyatheaceae: Flora of Australia." ABRS/CSIRO.
   - Dawson JW (1988). "Forest Vines to Snow Tussocks." Victoria University Press.
 ---
 

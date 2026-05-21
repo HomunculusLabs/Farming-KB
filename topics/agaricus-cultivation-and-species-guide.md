@@ -6,27 +6,16 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - "raw/concepts/agaricus-bisporus-cultivation-biology.md"
   - "raw/concepts/agaricus-species-guide.md"
   - "raw/concepts/agaricus-blazei-murill-research.md"
   - "raw/concepts/agaricus-phase-i-composting.md"
   - "raw/concepts/compost-preparation-agaricus.md"
-  - "raw/concepts/growing-gourmet-button-mushroom-agaricus-cultivation.md"
-  - "raw/concepts/genetic-improvement-agaricus-bisporus-molecular-approaches.md"
-  - "raw/concepts/stamets-cultivator-agaricus-bisporus-commercial-methods.md"
-  - "raw/concepts/agaricus-bitorquis-cultivation-guide.md"
-  - "raw/concepts/agaricus-campestris-morphology-and-life-cycle.md"
   - "raw/concepts/cancer-agaricus-blazei.md"
-  - "raw/concepts/medicinal-mushroom-guide-agaricus-blazei.md"
-  - "raw/concepts/agaricus-brasiliensis-almond-mushroom-medicinal-profile.md"
-  - "raw/concepts/growing-gourmet-compost-phase-i-phase-ii-agaricus.md"
 related_concepts:
   - mushroom-cultivation-fundamentals
   - composting-and-soil-biology
-  - mushroom-spawn-production-and-laboratory-techniques
   - trichoderma-and-biocontrol-fungi
   - fungal-enzymes-in-industry-and-biotechnology
-  - mushroom-contamination-identification-and-troubleshooting
   - medicinal-mushroom-cultivation-and-use
   - soil-food-web
   - humus-and-soil-organic-matter

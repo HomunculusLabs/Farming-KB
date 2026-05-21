@@ -5,7 +5,6 @@ tags: [cannabis, adhd, cannabinoids, strain-recommendations, chi-score]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - Some individuals use cannabis as a substitute for stimulant medications,

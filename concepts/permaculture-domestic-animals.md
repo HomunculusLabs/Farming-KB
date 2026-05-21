@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Domestic Animals
 
-Domestic animals in [[permaculture]] are valued not for single-product yields but for their multiple functions: pest control, nutrient cycling, forage conversion, soil preparation, and food production. Mollison emphasises that the complexity of connections an animal makes in a system far exceeds what designers can plan -- "we must simply trust the chicken."
+Domestic animals in permaculture are valued not for single-product yields but for their multiple functions: pest control, nutrient cycling, forage conversion, soil preparation, and food production. Mollison emphasises that the complexity of connections an animal makes in a system far exceeds what designers can plan -- "we must simply trust the chicken."
 
 ## The Role of Animals in Permaculture
 
@@ -27,7 +27,7 @@ Animals occupy different trophic niches:
 ### Chickens
 Chickens are the most integrated domestic animal in permaculture systems:
 - **In orchards**: At 120-240/ha, they scavenge windfall fruit, control codlin moth and fruit fly, and provide manurial turnover. They have a well-tested effect on orchard pests, reducing incidence to insignificant proportions over a few years.
-- **[[chicken-tractor-systems]]**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
+- **Chicken tractor systems**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
 - **Forage plants**: Oxalis, cleavers, dandelion, onion weed, nettle, nut grass, and Solanum family species (huckleberry, black nightshade, pepino, kangaroo apple, tomato) are excellent chicken fodders.
 - **Breeding**: A few small top-netted rearing pens allow broody hens to replace culled chickens, making the flock self-replacing.
 
@@ -36,7 +36,7 @@ Provide essential foraging and insect control services. Bantams and small breeds
 
 ## Waterfowl
 
-**Ducks** add yields to water storages and assist in grass control. In aquaculture systems, ducks are manurial species at the origin of [[fodder-pond-sequences]] -- their manure feeds algae and shrimp that in turn feed fish. Ducks on water increase pond yields through nutrient cycling.
+**Ducks** add yields to water storages and assist in grass control. In aquaculture systems, ducks are manurial species at the origin of fodder pond sequences -- their manure feeds algae and shrimp that in turn feed fish. Ducks on water increase pond yields through nutrient cycling.
 
 ## Pigs
 
@@ -50,7 +50,7 @@ When orchard trees are 3-7 years old, foraging pigs can be introduced at fruit m
 
 ## Goats
 
-Goats browse thorny and bitter shrubs that other livestock cannot use. They are effective in blackberry control -- 12 goats on rotation over 2-4 years permanently eliminate blackberry regrowth. In [[permaculture-design]], goats are particularly valuable for:
+Goats browse thorny and bitter shrubs that other livestock cannot use. They are effective in blackberry control -- 12 goats on rotation over 2-4 years permanently eliminate blackberry regrowth. In permaculture design, goats are particularly valuable for:
 - Controlling invasive woody weeds
 - Converting browse on marginal land to milk and meat
 - Providing manure for garden systems
@@ -75,7 +75,7 @@ Bees are among the most easily protected from predators by elevation on pole str
 ## Related Concepts
 
 - [[permaculture-livestock-forage-systems]] -- diverse forage sources
-- [[permaculture-grazing-and-pasture]] -- [[pasture-management]]
+- [[permaculture-grazing-and-pasture]] -- pasture management
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
 - permaculture domestic animals -- this page

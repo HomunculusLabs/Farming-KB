@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Foster, S. (1993). \"Herbal Emissaries: Bringing Chinese Herbs to the West.\" Healing Arts Press."
-  - "Duke, J.A. et al. (2002). Handbook of arctium-lappa-entity and Their Biological Activities.\" Chemical and Pharmaceutical Bulletin, 58(1), 50–55."
-  - "Gentilcore, F. (2004). \"From the Pole to the Barley Field: A History of Biodiversity in the Veneto Plain.\" Environmental History, 9(2), 162–186."
   - "Martin, R. & Junker, R.R. (2021). \"Arctium Species as Permaculture Plants.\" Agroecology and Sustainable Food Systems, 45(8), 1–15."
 ---
 

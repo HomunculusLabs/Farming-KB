@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1972). "Campanulaceae." Flora Europaea, Vol. 3. Cambridge University Press.
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Flora Europaea, Vol. 3. Cambridge University Press.
-  - Lammers, T.G. (2007). "Campanulaceae." In: The extended-families-and-intentional-community Genera of Vascular Plants. Springer.
   - Richards, A.J. (1982). "Campanulas: Their Cultivation climatic-zones-and-classification-systems." Batsford.---
 ---
 
@@ -79,3 +76,5 @@ Plants are relatively pest-free but may be susceptible to slug damage on young g
 
 The species naturalizes readily in suitable climates and has been documented in gardens across temperate Europe and North America.
 ## Uses [[endangered-fungi-and-conservation-strategies]]
+Further research into campanula pyramidalis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind campanula pyramidalis provides a foundation for both practical application and continued scientific inquiry.

@@ -41,7 +41,7 @@ The ligninolytic enzyme system of fungal-environmental-sensing. These [[fungal-e
 ## See Also
 
 - white-rot-fungi-effluent-decolorization
-- [[cotter-mycoremediation-overview]] processes. Direct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and mycorrhizal fungi are reluctant to grow on agar plates. Novel methods are therefore necessary to study the in situ behavior of fungi in processes related to ecology, decomposition, and bioremediation.
+- [[mycoremediation-overview]] processes. Direct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and mycorrhizal fungi are reluctant to grow on agar plates. Novel methods are therefore necessary to study the in situ behavior of fungi in processes related to ecology, decomposition, and bioremediation.
 
 ## Immunological Assays
 

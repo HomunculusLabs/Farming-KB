@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - E.F. Anderson (2001). "The Cactus Family." Timber Press.
-  - D.R. Hunt (2006). "The New Cactus Lexicon." DH Books.
-  - L. scattered weeds (2020). "Global Invasive Species Database: Opuntia stricta." IUCN.
   - M.C. Griffith (2004). "The opuntia-ficus-indica but is distinguished by its more erect growth habit, longer spines, and smaller fruit.
 ---
 

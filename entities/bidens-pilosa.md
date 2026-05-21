@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grombone-Guaratini, M.T., et al. (2016). "Genetic structure of Bidens pilosa L. (Asteraceae) in neotropical urban populations." Genetics and Molecular Biology.
-  - Chiang, Y.C., et al. (2017). "Bidens pilosa: chamovitz-photoperiodism-agricultural-applications." Molecules, 22(9), 1447.
-  - Bartimachi, A., et al. (2016). "Allelopathic potential of Bidens pilosa leaves." Planta Daninha, 34(2), 371-378.
   - Toledo, A.V., et al. (2015). "Phytochemical composition and antimicrobial activity of Bidens pilosa." Journal of Ethnopharmacology, 176, 1-8.
 ---
 

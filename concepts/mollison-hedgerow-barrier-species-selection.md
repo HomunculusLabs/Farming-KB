@@ -9,8 +9,6 @@ tags:
   - agriculture
   - homesteading
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 

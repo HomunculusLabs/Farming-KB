@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wallach J, et al. (2014). "Pharmacological profiles of novel dissociative drugs." Drug and cannabis-for-alcohol-dependence.
-  - Zawilska JB, et al. (2020). "New arylcyclohexylamines: An emerging class of dissociative NPS." Drug and Alcohol Dependence.
-  - EMCDDA (2022). "European Drug Report: New star fire and sacred substances." European Monitoring Centre for Drugs and Drug Addiction.
   - Kolecki P, et al. (2023). "Clinical toxicology of novel dissociative substances." Clinical Toxicology.
 ---
 

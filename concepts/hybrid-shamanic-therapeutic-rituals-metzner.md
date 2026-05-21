@@ -4,7 +4,6 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 topic: psychedelic_therapy_integrative
 related:
   - psycholytic-versus-psychedelic-therapy-models.md
-  - shamanic-entheogenic-ceremony-structure-common-elements.md
 created: 2026-05-09
 ---
 

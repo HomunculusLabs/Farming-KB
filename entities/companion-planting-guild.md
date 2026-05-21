@@ -13,10 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing.
-  - Hemenway, T. (2015). Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green.
-  - Holmgren, D. (2002). Permaculture: Principles and Pathways Beyond Sustainability. Holmgren Design Services.
-  - Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain & Other Temperate Climates. Permanent Publications.
   - Carroll, R. (2020). The Vegetable Gardener's Guide to Permaculture. Timber Press.
 ---# Companion Planting Guilds
 
@@ -80,3 +76,5 @@ A classic permaculture tree guild: **Apple** (primary food), **Comfrey** (dynami
 ## See Also
 
 [[solomon-companion-planting-evidence-based]], [[query-what-is-companion-planting-and-how-does-it-work]], [[query-how-to-use-companion-planting-in-your-garden]]
+Further research into companion planting guild continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind companion planting guild provides a foundation for both practical application and continued scientific inquiry.

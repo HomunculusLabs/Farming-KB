@@ -10,15 +10,13 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---# Mycorrhizal Fungi and Soil Microbiology
 
 The living soil is the foundation of every permaculture system. Mollison
 devotes significant attention to soil microbiology, recognising that the
 complex web of bacteria, fungi, protozoa, nematodes, and microarthropods
-living in soil is ultimately responsible for [[glomalin-and-soil-carbon]], a sticky protein that
+living in soil is ultimately responsible for [[glomalin]], a sticky protein that
   binds soil particles into stable aggregates, improving soil structure and
   water-holding capacity.
 - **Forest dependency**: Most temperate forest trees are obligately

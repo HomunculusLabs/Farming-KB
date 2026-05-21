@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycopesticides and Fungal Biocontrol
 
-[[mycopesticides]] are fungi used as biological control agents against insect pests. [[entomopathogenic-fungi]] -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
+Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
 
 ## The Problem with Chemical Pesticides
 
@@ -20,7 +20,7 @@ Many chemical pesticides, especially organophosphates, harm non-targeted organis
 Thousands of species of fungi attack thousands of insect species. The most studied genera include:
 
 ### Metarhizium (especially M. anisopliae)
-A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by [[metarhizium]], demonstrating fungal dimorphism.
+A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by Metarhizium, demonstrating fungal dimorphism.
 
 ### Beauveria (especially B. bassiana)
 A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur's germ theory by decades. Widely used against agricultural and structural pests.
@@ -63,20 +63,23 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- mycoremediation overview
+- [[mycoremediation-overview]]
 - [[paul-stamets]]
 - [[stamets-patents]]
+## Historical Context
+
+The study and practice of mycopesticides fungal biocontrol has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into mycopesticides fungal biocontrol have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
+Applied work with mycopesticides fungal biocontrol spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

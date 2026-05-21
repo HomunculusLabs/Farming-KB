@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Subcool's The Dank (2010). TGA mushroom-genetics-strain-selection catalog.
-  - Leafly Staff (2023). "Jillybean Strain Information." Leafly.com.
-  - AllBud (2024). "Jillybean  strain bred by **Subcool of TGA
 Genetics** (The Green Avengers). It is a cross between **Orange Velvet** and
 **cannabis-glandular-trichome-types-resin-production-clarke, and a subtle diesel-pine undertone to the aroma
 complex.

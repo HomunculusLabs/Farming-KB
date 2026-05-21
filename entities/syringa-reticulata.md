@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fiala, J.L. (1988). "Lilacs: The Genus Syringa." Timber Press, Portland.
-  - Green, P.S. (1995). "A revision of Syringa (Oleaceae)." Kew Bulletin 50: 367-416.
-  - Li, J. et al. (2008). "Chemical composition and antioxidant activity of Syringa reticulata flowers." Journal of Agricultural and Food Chemistry 56: 10414-10419.
   - Bean, W.J. (1980). "Trees and Shrubs Hardy in the British Isles." 8th ed., Vol. IV. John Murray, London.
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora huckleberries-and-wild-berries-of-north-america, Vol. 23: Cyperaceae. Oxford University Press.
-  - Aiken, S.G. et al. (2007). "Flora of the Canadian Arctic Archipelago." NRC Research Press.
   - Nilsson, C. (1986). "extending-growing-season at higher latitudes. Arctic populations may flower within two weeks of snowmelt.
 ---
 

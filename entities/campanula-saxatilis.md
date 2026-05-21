@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Carlström A (1986). "A Revision of the Campanula drabifolia Complex (Campanulaceae)." Willdenowia.
-  - Tan K, Iatrou G (2001). "Endemic Plants of Greece: The Peloponnese." Gads Publishers.
-  - Royal Horticultural Society (2023). "RHS Plant Finder: Campanula saxatilis." rhs.org.uk.
-  - Jäger EJ, Werner K (2005). "Rothmaler Exkursionsflora von Deutschland." Spektrum Akademischer Verlag.
   - Turland NJ, Chilton L, Press JR (1993). "Flora of the Cretan Area." HMSO London.
 ---
 

@@ -16,11 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Metzner, R. (1999). "Ayahuasca: Human Consciousness and the Spirits of Nature." Thunder's Mouth Press.
-  - Riba, J., et al. (2006). "Ayahuasca Research: A Bibliographic Review." MAPS Bulletin, 16(3), 20-27.
-  - Hamill, J., et al. (2019). "The Pharmacology of Ayahuasca: A Review." Frontiers in Pharmacology, 10, 373.
-  - Bouso, J.C., et al. (2012). "Awakening Through Ayahuasca." In: The Therapeutic Use of Ayahuasca, Springer, 237-258.
-  - Shulgin, A.T., Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
   - McKenna, D.J. (2004). "Clinical Investigations of the Therapeutic Potential of Ayahuasca." MAPS, 14(1).
 ---
 

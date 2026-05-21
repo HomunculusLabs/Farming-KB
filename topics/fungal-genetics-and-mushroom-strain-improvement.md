@@ -5,14 +5,7 @@ type: topic
 tags: [mycology, genetics, strain-selection, breeding, genomics, cultivation, fungal-biology]
 sources:
   - wiki/concepts/fungal-genetics.md
-  - wiki/concepts/stamets-mushroom-genetics-mating-systems-reproduction.md
-  - wiki/concepts/gadd-fungal-genomics-comparative-approaches.md
-  - wiki/concepts/mushroom-genetics-strain-selection.md
-  - wiki/concepts/molecular-methods-fungal-genetic-diversity.md
-  - wiki/concepts/biodiversity-fungal-genetic-diversity.md
-  - wiki/concepts/fungal-genet-ramet-individual-definition-biodiversity.md
   - wiki/concepts/growing-gourmet-strain-selection.md
-  - wiki/concepts/cultivator-strain-selection-and-stock-culture.md
   - wiki/concepts/mushroom-cultivator-strain-selection.md
 ---
 

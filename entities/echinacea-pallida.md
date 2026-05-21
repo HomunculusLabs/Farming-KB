@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Binns, S.E. et al. (2002). "A phytochemical and chemotaxonomic comparison of Echinacea purpurea and Echinacea pallida." Phytochemistry 59(4): 407-413.
-  - McGregor, R.L. (1968). "The taxonomy of the genus Echinacea (Compositae)." University of Kansas Science Bulletin 48(4): 113-142.
-  - USDA NRCS (2024). "Echinacea pallida (Nutt.) Nutt." PLANTS Database. https://plants.usda.gov
   - Barnes, J. et al. (2005). *Echinacea Species (E. purpurea, E. angustifolia, E. pallida)*. American Herbal Pharmacopoeia.
 ---
 

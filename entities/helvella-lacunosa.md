@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Abbott, S.P. & Currah, R.S. (1997). \"The Helvellaceae: Systematics, ecology, and antifungal-secondary-metabolites-coprophilous-fungi.\" Mycologia, 89(1), 1–9."
-  - "Kuo, M. (2023). Helvella lacunosa. MushroomExpert.com. https://www.mushroomexpert.com/helvella_lacunosa.html"
-  - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Nitare, J. (1988). \"Notes on the ecology and distribution of Helvella species in Sweden.\" Nordic Journal of Botany, 8(2), 141–150."
   - "Webster, J. & Weber, R. (2007). Introduction to Fungi, 3rd ed. Cambridge University Press."
 ---
 

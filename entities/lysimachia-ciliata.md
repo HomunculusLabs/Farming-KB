@@ -11,8 +11,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Ray, J. (1686). "Historia Plantarum." London.
-  - Handel-Mazzetti, H. (1928). "Symbolae Sinicae." Botanische Ergebnisse.
-  - Hu, C.M. & Kelso, S. (1996). "Primulaceae." Flora of China, Vol. 15. Science Press.
   - Weakley, A.S. (2022). "Flora of the Southeastern guzman-psilocybin-mushrooms-north-america, where it occurs in moist woodlands, floodplains, and stream banks across much of the eastern and central berry-growing. Its range extends from Nova Scotia and Quebec west to Manitoba, Minnesota, and the Dakotas, and south to Georgia, Alabama, and Texas.
 ---
 

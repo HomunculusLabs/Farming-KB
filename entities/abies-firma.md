@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Hayashi, Y. (1960). "Silvics of Japanese Important Tree Species." Bulletin of the Government Forest Experiment Station No. 114.
-  - Katsuki, T. et al. (2013). "Genetic variation in Abies firma (Pinaceae) in the Izu Peninsula." Journal of Plant Research 126(5): 601–610.
   - Frankis, M.P. (2024). "Abies firma." In: Gymnosperm Database. www.conifers.org.
 ---
 

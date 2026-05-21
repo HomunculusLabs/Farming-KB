@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. (1985). "Systematics of the Southern African Genus Geissorhiza." Annals of the Missouri Botanical Garden, 72(2): 277-314.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." MBG Press.
-  - RHS (2024). "Geissorhiza radians — Royal Horticultural Society." rhs.org.uk.
   - IUCN (2023). "Geissorhiza radians. The IUCN Red List of Threatened Species." iucnredlist.org.
 ---
 

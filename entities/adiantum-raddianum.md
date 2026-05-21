@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Ranker, T.A. & Haufler, C.H. (2008). "Biology and Evolution of Ferns and Lycophytes." Cambridge University Press.
-  - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - PPG I (2016). "A community-derived classification for extant lycophytes and ferns." Journal of Systematics and Evolution, 54(6), 563-603.
 ---
 

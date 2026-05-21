@@ -1,4 +1,5 @@
 ---
+
 title: Animal Harvest and Processing
 created: 2026-04-11
 updated: 2026-04-12
@@ -29,14 +30,14 @@ sources:
 
 # Animal Harvest and Processing
 
-Ethical harvesting, butchering, and processing of ducks and goats [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] homestead. Covers dispatching, processing, cuts, food safety, curing, sausage, fat rendering, and offal use. See [[duck-keeping]] and [[goat-keeping]] for raising animals [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] weight.
+Ethical harvesting, butchering, and processing of ducks and goats for the homestead. Covers dispatching, processing, cuts, food safety, curing, sausage, fat rendering, and offal use. See [[duck-keeping]] and [[goat-keeping]] for raising animals to harvest weight.
 
 ## Ethical Harvesting Philosophy
 
 Following Joel Salatin's principle: honor the animal's life by minimizing stress, using every part, and performing the kill swiftly and skillfully. Key principles:
 - Raise animals on pasture with natural behaviors respected
 - Fast, single-action dispatch — no suffering
-- Process [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] calm, quiet environment
+- Process in a calm, quiet environment
 - Use every part: meat, fat, bones, organs, skin, feathers
 - Thank the animal for its life
 - Know your legal limits (see [[homesteading-legal-considerations]])
@@ -71,14 +72,14 @@ Following Joel Salatin's principle: honor the animal's life by minimizing stress
 1. Remove head at base of skull
 2. Remove feet at hock joint
 3. Make vent cut around anus (2" circle), careful not to puncture intestines
-4. Insert hand, gently pull out organs [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] connected mass
+4. Insert hand, gently pull out organs as a connected mass
 5. Separate heart, liver, gizzard (save for cooking)
 6. Cut away crop and windpipe from neck
 7. Check for any remaining organs or blood clots
 8. Rinse cavity thoroughly with cold water
 
 ### Chilling and Aging
-1. Submerge in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] bath (32-35F) for 1-2 hours until core temp reaches 40F
+1. Submerge in ice water bath (32-35F) for 1-2 hours until core temp reaches 40F
 2. Age in refrigerator (35-38F) for 24-48 hours in breathable wrap
 3. Aging tenderizes meat; duck benefits from 2-3 days
 4. Freeze if not using within 3-4 days
@@ -137,7 +138,7 @@ Goats are typically skinned, not scalded:
 
 ## Curing and Smoking
 
-See [[food-preservation-canning]] for detailed methods. [[dynamic-accumulator-quick-reference]]:
+See [[food-preservation-canning]] for detailed methods. Quick reference:
 - **Dry cure**: Salt + sugar + spices rub; 7-10 days per inch thickness
 - **Brine cure**: Submerge in salt/sugar/water 1-2 weeks
 - **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)

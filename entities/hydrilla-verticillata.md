@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Langeland KA (1996). "Hydrilla verticillata (L.f.) Royle (Hydrocharitaceae), 'The Perfect Aquatic Weed.'" Castanea 61(3): 293-304.
-  - Cook CDK, Lüönd R (1982). "A revision of the genus Hydrilla (Hydrocharitaceae)." Aquatic Botany 13(3): 263-278.
-  - Steward KK, Van TK, Carter V, Pieterse AH (1984). "Hydrilla invades Washington, D.C. and the Potomac." Aquatic Plant Management 22: 18-21.
-  - Madeira PT, Van TK, Steward KK, Schneller RJ (1997). "Random amplified polymorphic DNA analysis of the aquatic weed Hydrilla verticillata." Aquatic Botany 59(3-4): 217-226.
   - USDA NRCS (2024). "Hydrilla verticillata (L.f.) Royle." PLANTS Database.
 ---
 

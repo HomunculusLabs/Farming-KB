@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Montgomery, J.D. & P. G. Davison (2008). "Dryopteris." Flora of North America North of Mexico, Vol. 2.
-  - Jermy, A.C. & J.A. Crabbe (1978). "The Atlas of Ferns of the British Isles." BSBI.
-  - Rush, G.E. & D.B. Lellinger (2003). "Taxonomy and Nomenclature of Dryopteris dilatata." American Fern Journal, 93(3).
   - World Ferns (2025). "Dryopteris dilatata." World Ferns Database. https://www.worldferns.com
 ---
 

@@ -13,9 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. C.C. Thomas.
   - Trout, K. (2005). Sacred Cacti. 2nd ed. K. Trout.
-  - Torres, C.M. & Repke, D.B. (2006). Anadenanthera: Visionary Plant of Ancient gottlieb-peyote-botany-and-mescaline-content of Echinopsis lageniformis." Journal of Psychoactive Drugs, 53(2), 145–152.
   -斯塔德曼, A. et al. (2019). "Alkaloid profiles of Bolivian Trichocereus species." Phytochemistry, 164, 112–121.created: 2026-05-07
 
 created: 2026-05-07

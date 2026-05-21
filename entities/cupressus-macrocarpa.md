@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Bartel, J.A. (1993). "Cupressus macrocarpa." In: "Flora of psilocybin-north-america-pacific-northwest," Vol. 2, Oxford University Press.
-  - Griffen, K.R. (1968). "Cupressus macrocarpa (Monterey Cypress): A Literature Review." USDA Forest Service.
-  - Thomas, P. (2011). "Cupressus macrocarpa." IUCN Red List of Threatened Species.
   - New Zealand Forest Research Institute (2005). "Cypress Timber Species Manual."
 ---
 

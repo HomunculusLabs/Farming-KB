@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [ethnobotany, psychopharmacology, consciousness, culture, medicine, plants, lab-technique, health]
-sources: ["raw/concepts/salvia-divinorum.md"]
+sources: []
 ---
 
 # Salvia divinorum

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hultén, E. (1968). "Flora of Alaska and Neighboring Territories." Stanford University Press.
-  - Polunin, N. (1959). "Circumpolar Arctic Flora." Oxford University Press.
-  - Elven, R. (2011). "Pan-Arctic Flora Checklist." Norwegian Arctic University.
-  - Porsild, A. E.; Cody, W. J. (1980). "Vascular Plants of Continental Northwest Territories." National Museum of Canada.
   - Tolmachev, A. I. (1975). "Flora of the Central Siberian Arctic." Nauka Publishing.
 ---
 

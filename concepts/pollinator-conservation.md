@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining [[pollinator-habitat]] is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening|gardening]], conservation, and [[invasive-species-management]] practices.
+Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining pollinator habitat is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening|gardening]], conservation, and [[invasive-species-management]] practices.
 
 ## Native Bee Decline
 
@@ -73,17 +73,17 @@ Provide continuous bloom from early spring through late fall:
 
 #### Spring Bloomers (March-May)
 - Willow (Salix spp.): Early pollen and nectar source; supports emerging queen bumblebees
-- Red maple ([[acer-rubrum]]): Early-blooming tree; important for early-emerging bees
+- Red maple (Acer rubrum): Early-blooming tree; important for early-emerging bees
 - Serviceberry (Amelanchier spp.): White flowers; bee favorite
 - Creeping phlox (Phlox subulata): Ground cover; early nectar source
-- Wild geranium ([[geranium-maculatum]]): Woodland native; excellent for shade gardens
-- Bloodroot ([[sanguinaria-canadensis]]): Early spring ephemeral; native bee resource
-- Pussy willow ([[salix-discolor]]): Gray catkins provide early pollen
+- Wild geranium (Geranium maculatum): Woodland native; excellent for shade gardens
+- Bloodroot (Sanguinaria canadensis): Early spring ephemeral; native bee resource
+- Pussy willow (Salix discolor): Gray catkins provide early pollen
 
 #### Summer Bloomers (June-August)
 - Milkweeds (Asclepias spp.): Monarch butterfly host plant; excellent bee resource
-- Purple coneflower ([[echinacea-purpurea]]): Long bloom period; attracts diverse pollinators
-- Wild bergamot ([[monarda-fistulosa]]): Long bloom; bee and hummingbird plant
+- Purple coneflower (Echinacea purpurea): Long bloom period; attracts diverse pollinators
+- Wild bergamot (Monarda fistulosa): Long bloom; bee and hummingbird plant
 - Black-eyed Susan (Rudbeckia hirta): Easy to grow; self-seeds readily
 - Anise hyssop (Agastache foeniculum): Anise-scented; extremely attractive to bees
 - Joe-pye weed (Eutrochium purpureum): Tall, showy; butterfly and bee magnet

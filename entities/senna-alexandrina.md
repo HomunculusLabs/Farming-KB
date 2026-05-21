@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Evans WC (2009). "Trease and Evans' Pharmacognosy." 16th ed. Elsevier.
-  - "Senna alexandrina." Royal Botanic Gardens, Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:542904-1
-  - Van Gorkom BA et al. (1999). "Review article: the pharmacology and physiology of anthranoid laxatives." Alimentary Pharmacology & Therapeutics 13(6): 687-696.
   - Blumenthal M et al. (2000). "psilocybe-southeast-asia-pacific.
 ---
 

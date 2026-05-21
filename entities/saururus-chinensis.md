@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - C. L. Huang (1996). "Saururaceae." In: Flora of China, Vol. 4. Science Press & Missouri Botanical Garden Press.
-  - J. Murata (1994). "Saururaceae." In: Flora of Japan, Vol. IIIb. Kodansha.
-  - P. H. Raven (1977). "The Biology and Chemistry of the Saururaceae." Lyonia, 1(2), 39-51.
-  - K. H. Kim (2012). "Anti-inflammatory effects of Saururus chinensis." Journal of Ethnopharmacology, 139(1), 191-197.
   - Royal Botanic Gardens, Kew. "Saururus chinensis (Lour.) Baill." Plants of the World Online.
 ---
 

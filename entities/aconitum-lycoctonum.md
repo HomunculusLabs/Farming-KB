@@ -12,10 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Aucher, L. & Kadereit, J.W. (2000). "The Evolution of the aconitum-napellus Group." Plant Systematics and Evolution, 224, 31–51.
-  - Uno, G.E. (1989). "Pollination Biology of Aconitum." In Bock, J.H. & Linhart, Y.B. (eds.), The Evolutionary Ecology of Plants.
-  - Treat, C.H. et al. (2013). "Alkaloid Diversity in Aconitum Species." Phytochemistry, 89, 108–120.
-  - Hackenberg, D. et al. (2017). "Systematics of Aconitum Section Lycoctonum." Taxon, 66(3), 582–595.
   - Press, J.R. et al. (2007). "Flora of the Alps." HarperCollins.
 ---
 

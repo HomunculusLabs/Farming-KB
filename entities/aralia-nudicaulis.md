@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fernald, M.L. & Kinsey, A.C. (1958). *Edible Wild Plants of polypore-fungi-eastern-north-america America*. Dover Publications.
-  - Gleason, H.A. & Cronquist, A. (1991). *Manual of Vascular Plants of Northeastern United States and Adjacent Canada*, 2nd ed. New York Botanical Garden.
-  - Moerman, D.E. (1998). *halpern-sacramental-peyote-and-native-american-church Ethnobotany*. Timber Press.
   - Wen, J. (2001). "Systematics and biogeography of *Aralia* (Araliaceae)." In: The Biology and Evolution of Araliaceae. Royal Botanic Gardens, Kew.
 ---
 

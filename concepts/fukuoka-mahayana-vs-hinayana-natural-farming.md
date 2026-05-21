@@ -5,8 +5,6 @@ tags: [fukuoka, natural-farming, philosophy, agriculture, mahayana, hinayana, sc
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

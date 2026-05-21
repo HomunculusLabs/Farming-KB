@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cron, G.V. (2008). "Revision of the Strelitziaceae." Strelitzia, 18. kanna-sceletium-south-african-narcotic National Biodiversity Institute.
-  - Kress, W.J. (1990). "The phylogeny and classification of the Zingiberales." Annals of the Missouri Botanical Garden, 77(4), 698-721.
-  - Goldblatt, P. (1976). "A revision of Strelitzia." Journal of South African Botany, 42, 1-40.
-  - Kew Royal Botanic Gardens. "Strelitzia reginae." Plants of the World Online.
   - Anderson, S. (2000). "The pollination biology of Strelitzia reginae." South African Journal of Botany, 66(1), 46-51.
 ---
 

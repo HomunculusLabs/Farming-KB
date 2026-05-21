@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Decker-Walters, D.S. et al. (2002). "Cucurbita." in CABI jadam-cover-crop-wild-grass-symbiosis Relative Atlas, 1-8.
-  - Paris, H.S. (2008). "Summer Squash." in Prohens, J. & Nuez, F. (eds.), Handbook of Plant Breeding: Vegetables I, 351-379.
-  - Andres, T.C. (2004). "Diversity in Cucurbita maxima." in Proceedings of Cucurbitaceae 2004, 369-380.
   - NIPGR (2019). "Cucurbita Genomics Database." cucurbitgenomics.org.
 ---
 

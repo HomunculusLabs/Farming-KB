@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Greenhouse Seed Co. (2024). "Strain Profile: Amnesia Haze." Greenhouse Seeds.
-  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing." Biological Psychiatry, 79(7), 613-619.
-  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemotaxonomy." Euphytica, 184(1), 13-25.
-  - Smart, R. et al. (2017). "The diversity of cannabis." Scientific Reports, 7, 46551.
-  - Peace, M.R. et al. (2016). "Cannabis potency." Journal of Forensic Sciences, 61(5), 1300-1306.
 created: 2026-05-07
 ---
 

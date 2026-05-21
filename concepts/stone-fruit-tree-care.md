@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, [[marijuana-horticulture-cervantes-pest-and-disease-management]], and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
+Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, disease management, and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
 
 ## General Stone Fruit Characteristics
 
@@ -23,7 +23,7 @@ Stone fruits — peaches, plums, cherries, apricots, and nectarines — are name
 
 ## Peaches (Prunus persica)
 
-Plant in full sun, well-drained [[soil-ph]] 6.0-6.8; avoid frost pockets. Most peaches are self-fertile. Space 15-20 feet apart (standard), 8-12 (dwarf). Choose varieties with adequate chill hours for your climate.
+Plant in full sun, well-drained soil pH 6.0-6.8; avoid frost pockets. Most peaches are self-fertile. Space 15-20 feet apart (standard), 8-12 (dwarf). Choose varieties with adequate chill hours for your climate.
 
 ### Pruning Peaches
 Peaches fruit on one-year-old wood — they require aggressive annual pruning to renew fruiting wood.
@@ -36,7 +36,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 
 #### Annual Pruning
 - Prune in late winter before bud swell, or at pink bud stage in high-disease areas
-- Remove 50% of last year's growth (more aggressive than other [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]])
+- Remove 50% of last year's growth (more aggressive than other fruit trees)
 - Thin crowded branches to maintain an open center
 - Remove all dead, damaged, and diseased wood
 - Remove branches growing inward or downward
@@ -76,7 +76,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 
 ## Brown Rot (Monilinia fructicola)
 
-[[brown-rot]] [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
+Brown rot is the most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
 
 ### Symptoms
 - Brown, rapidly spreading lesions on fruit
@@ -105,7 +105,7 @@ Bacterial canker is a serious disease of all stone fruits, especially cherries a
 
 ### Management
 - Avoid pruning in wet weather; paint large pruning cuts with wound sealant
-- Apply copper-based spray (Bordeaux mix) in fall [[coleman-overwintered-onions-and-early-spring-crops]]
+- Apply copper-based spray (Bordeaux mix) in fall and early spring
 - Remove severely cankered branches; avoid nitrogen over-fertilization
 
 ## Chill Hours Explained
@@ -122,12 +122,12 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 - Contact your local agricultural extension office
 - Many universities publish chill hour maps by region
 - Weather stations track chill hour accumulation
-- In marginal areas, choose varieties at the lower end [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] chill range
+- In marginal areas, choose varieties at the lower end of the chill range
 
 ## Common Stone Fruit Problems
 
 ### Peach Leaf Curl
-- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]] causing red, curled, puckered leaves in spring
+- Fungal disease causing red, curled, puckered leaves in spring
 - Favored by cool, wet spring weather
 - Apply copper or lime-sulfur spray in late winter before bud break (most effective timing)
 - Resistant varieties: Redhaven, Reliance, Frost (partial resistance)
@@ -135,7 +135,7 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 ### Plum Curculio
 - Small weevil that scars fruit and causes premature drop
 - More severe on peaches and plums than cherries
-- Management: Surround WP ([[kaolin]] clay), pyrethrin at petal fall, clean up dropped fruit
+- Management: Surround WP (kaolin clay), pyrethrin at petal fall, clean up dropped fruit
 
 ### Cherry Fruit Fly
 - Maggots in sweet cherries — the primary pest of sweet cherries
@@ -148,3 +148,7 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 - Enters through wounds; no cure — remove severely affected trees
 
 ## See Also
+
+- [[apple-tree-care]] for companion orchard tree management
+- [[backyard-orchard-design]] for orchard layout and spacing
+- [[seasonal-gardening-calendar]] for seasonal spray and maintenance timing

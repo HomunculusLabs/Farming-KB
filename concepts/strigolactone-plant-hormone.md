@@ -9,8 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Al-Babili S, Bouwmeester HJ (2015). "Strigolactones, a Novel Carotenoid-Derived Plant Hormone." Annual Review of Plant Biology 66:161-186.
-  - Xie X, Yoneyama K, Yoneyama K (2010). "The Strigolactone Story." Annual Review of Phytopathology 48:93-117.
   - Gomez-Roldan V et al. (2008). "Strigolactone Inhibition of Shoot Branching." Nature 455:189-194.
 ---
 

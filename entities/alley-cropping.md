@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Nair, P.K.R. (2012). "Agroforestry: The Future of Global Land Use." Springer.
-  - Garrett, H.E.G. (2009). "growing-gourmet-north-american-reishi-species Agroforestry: An Integrated Science and Practice." American Society of Agronomy.
-  - Jose, S. (2009). "Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and Environmental Benefits." Agroforestry Systems, 76(1), 1–10.
   - Gold, M.A. & Garrett, H.E. (2009). "Agroforestry Systems." In: Encyclopedia of Soil Science.
 ---
 

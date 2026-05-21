@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Padulosi, S. et al. (1997). "Present status and future prospects of cowpea." In Advances in Cowpea Research, IITA/ITTA, 1–12.
-  - Timko, M.P. et al. (2007). "The major domestication QTL in cowpea." Theoretical and Applied Genetics, 114, 833–842.
   - Horn, L.N. & Shimelis, H. (2020). "Production constraints and breeding approaches for cowpea improvement." Crop Science, 60(3), 1030–1046.
 ---
 

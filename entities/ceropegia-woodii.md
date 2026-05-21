@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Meve, U. & Liede, S. (2004). "Subtribal relationships in Asclepiadeae: Evidence from non-coding chloroplast DNA." Botanical Journal of the Linnean Society.
-  - Dyer, R.A. (1983). "Ceropegia, Brachystelma and Riocreuxia in Southern Africa." A.A. Balkema, Rotterdam.
   - Renderer, J. (2020). "Ceropegia: The Complete Guide to String-of-Hearts and Related Species." Cactus & Co.
 ---
 

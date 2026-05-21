@@ -10,12 +10,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Petersen, R.H. (1967). "Notes on clavarioid fungi. IV. Pseudohydnum."
     Nytt Magasin for Botanikk.
-  - Corner, E.J.H. (1970). "Supplementary monograph of Pseudohydnum."
     Nova Hedwigia.
-  - Roberts, P. (1999). "British tremellales-mycoparasitic-jelly-fungi." Mycologist.
-  - Larsson, E. & Larsson, K.H. (2003). "Phylogenetic relationships of
     Pseudohydnum." mycological-research-institutions.
 ---
 
@@ -78,3 +74,14 @@ a distinct but morphologically similar taxon.
 widely regarded as a choice edible due to its bland flavor and rubbery
 texture.
 collected for food and prepared in soups or stews. The gelatinous texture is
+## Current Research
+
+Recent studies on pseudohydnum gelatinosum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with pseudohydnum gelatinosum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

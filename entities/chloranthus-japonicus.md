@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Kong, H.H. et al. (2002). Chloranthaceae. Flora of China, 3, 120-122."
-  - "Endress, P.K. (1987). The Chloranthaceae: reproductive structures and phylogenetic position. Botanische Jahrbücher für Systematik, 109(1), 1-40."
-  - "Doyle, J.A. et al. (2004). Phylogeny of basal angiosperms: insights from chloroplast genomes. Botany, 82(11), 1387-1398."
   - "Eklund, H. et al. (2004). Seed morphology and anatomy in Chloranthaceae. International Journal of Plant Sciences, 165(5), 825-843."
 ---
 

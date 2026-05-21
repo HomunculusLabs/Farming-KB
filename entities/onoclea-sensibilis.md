@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gastony, G.J. & Ungerer, M.C. (1997). "Molecular systematics of Onocleaceae." International Journal of Plant Sciences.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
-  - USDA NRCS. "Onoclea sensibilis L." PLANTS Database.
   - Cobb, B. (1984). "A Field Guide to the Ferns." Houghton Mifflin.
 ---
 

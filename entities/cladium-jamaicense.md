@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stewart, K.M., et al. (2006). "Effects of phosphorus enrichment on the Everglades wetland ecosystem." Wetlands soil-nematodes-ecology-and-management, 14(5), 409-423.
-  - Gunderson, L.H. (1994). "Vegetation of the Everglades: The history and distribution of plant communities." In Everglades: The Ecosystem and Its Restoration. St. Lucie Press.
-  - Sauda, J.D., et al. (2010). "Cladium jamaicense (Cyperaceae): a review of its ecology, physiology, and role in the Florida Everglades." Aquatic Botany, 92(3), 150-160.
-  - Craft, C.B. & Richardson, C.J. (1998). "Recent and long-term soil accretion and nutrient accumulation in the Everglades." Wetlands, 18(3), 394-401.
   - Noe, G.B., et al. (2001). "Differential effects of cladium and typha on DOC and DIC release." Biogeochemistry, 54(1), 51-78.
 ---
 
@@ -80,3 +76,5 @@ Sawgrass is fire-adapted, with rhizomes surviving belowground while aboveground 
 Post-fire regrowth is rapid, and burned areas typically recover full biomass within a single [[extending-growing-season]].
 
 However, fires that burn into the peat substrate can be destructive, converting sawgrass marsh to open water sloughs.
+Further research into cladium jamaicense continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind cladium jamaicense provides a foundation for both practical application and continued scientific inquiry.

@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [permaculture, ethics, sustainability]
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 ## Gender Balance and Sustainability

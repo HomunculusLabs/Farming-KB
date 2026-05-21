@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Kew Publishing, Royal Botanic Gardens.
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
-  - International Union for Conservation of Nature (IUCN). "Caryota gigas." The IUCN Red List of Threatened Species.
-  - Gibbons, M., Spanner, B. (2000). "Caryotas: The Fishtail Palms." Palm Journal Special Publication.
   - Fox, H.E. (1997). "Caryota in cultivation." Principes 41(2): 63–78.
 ---
 

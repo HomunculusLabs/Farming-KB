@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gentry, H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
-  - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
-  - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
 ---
 
@@ -79,3 +76,5 @@ genetic variation. Plants establish readily in well-drained soils and require
 minimal irrigation.
 
 **Fiber:** Leaf fibers (sisal-type) have been used traditionally for rope,
+Further research into agave americana continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind agave americana provides a foundation for both practical application and continued scientific inquiry.

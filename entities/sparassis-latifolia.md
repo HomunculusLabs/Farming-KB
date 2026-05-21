@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dai, Y.C. & Zheng, H. (2009). "A new species of Sparassis from southwestern China." Mycotaxon, 108, 315-319.
-  - Wang, Y. et al. (2015). "Species diversity of Sparassis in China." Mycosystema, 34(2), 259-270.
-  - Martin, K. & Gilbertson, R.L. (1976). "Cultural and morphological studies on Sparassis radicata and S. crispa." Mycologia, 68(3), 612-626.
-  - Wang, X. et al. (2018). "Anti-inflammatory polysaccharides from the cauliflower mushroom Sparassis latifolia." International Journal of Biological Macromolecules, 119, 1154-1162.
-  - Index Fungorum. "Sparassis latifolia Y.C. Dai & Zheng." www.indexfungorum.org.
 created: 2026-04-28
 ---
 

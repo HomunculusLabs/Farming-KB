@@ -11,12 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - Steiner, R. (1924). "Spiritual Foundations for the Renewal of Agriculture." Bio-Dynamic Farming and Gardening Association.
-  - Lachman, G. (2007). "Rudolf Steiner: An Introduction to His Life and Work." Tarcher/Penguin.
-  - Barnes, H. (2018). "Rudolf Steiner: A Biography." Rudolf Steiner Press, 2nd ed.
-  - Koepf, H.H. et al. (1990). "Bio-Dynamic Agriculture." Anthroposophic Press, 2nd ed.
-  - Prokofieff, S.O. (2007). "The Spiritual Origins of Eastern Europe and the Future Mysteries of the Holy Grail." Temple Lodge Publishing.
 created: 2026-05-07
 ---
 

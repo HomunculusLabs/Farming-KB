@@ -20,10 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cavallito, C.J. & Bailey, J.H. (1944). "Allicin, the antibacterial principle of Allium sativum." Journal of the American Chemical Society, 66(11), 1950-1951.
-  - Amagase, H. et al. (2001). "Intake of garlic and its bioactive components." Journal of Nutrition, 131(3s), 955S-962S.
-  - Borlinghaus, J. et al. (2014). "Allicin: chemistry and biological properties." Molecules, 19(8), 12591-12618.
-  - Miron, T. et al. (2000). "The chemistry of garlic and garlic-derived products." In: Garlic and Other Alliums. CRC Press.
   - Rybak, M.E. et al. (2004). "Quantitative determination of allicin in garlic." Journal of Agricultural and Food Chemistry, 52(3), 682-687.
 ---
 

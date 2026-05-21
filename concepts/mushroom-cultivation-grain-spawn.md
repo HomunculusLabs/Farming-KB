@@ -9,11 +9,11 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Grain Spawn
 
-[[grain-spawn]] is the primary inoculum used in [[accessible-mushroom-cultivation-for-disabilities]], consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
+Grain spawn is the primary inoculum used in mushroom cultivation, consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 
 ## History
 
-During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern [[spawn-production]].
+During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern spawn production.
 
 ## Cereal Grains for Spawn
 
@@ -33,7 +33,7 @@ During the 1800s, Agaricus growers obtained spawn by gathering concentrations of
 
 The optimum moisture content for grain spawn is 49-54%. Commercial rye grain is approximately 11% water by mass. To determine precise moisture: weigh a 100-gram sample, dry in an oven (250 F for 3 hours), subtract the new weight. The resultant figure is the percentage of moisture naturally bound within the grain.
 
-Excessive water favors bacterial growth, causes kernels to explode during [[sterilization]], and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
+Excessive water favors bacterial growth, causes kernels to explode during sterilization, and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
 
 ## Spawn Formulas
 
@@ -44,7 +44,7 @@ Chalk (CaCO3) and gypsum (CaSO4) can be added at 1-3 parts per 100 parts grain (
 
 ## Sterilization
 
-Sterilize grain spawn at 15 psi for a minimum of 1 hour. A single gram of commercial rye contains an estimated 50,000-100,000 bacteria, 200,000+ [[actinomycetes]], 12,000 fungi, and many yeasts. A full hour at 15 psi is necessary to ensure steam penetrates the small air pockets and structural cavities in the grain. Do not exceed 250 F or the sugar will caramelize, inhibiting mycelial growth and promoting mutations.
+Sterilize grain spawn at 15 psi for a minimum of 1 hour. A single gram of commercial rye contains an estimated 50,000-100,000 bacteria, 200,000+ actinomycetes, 12,000 fungi, and many yeasts. A full hour at 15 psi is necessary to ensure steam penetrates the small air pockets and structural cavities in the grain. Do not exceed 250 F or the sugar will caramelize, inhibiting mycelial growth and promoting mutations.
 
 At higher altitudes, increase pressure proportionally (e.g., at 5,000 feet, use 20 psi instead of 15 psi).
 
@@ -74,9 +74,14 @@ Generational expansion: 1 petri dish can inoculate 10 G-1 jars, which can inocul
 - [[mushroom-substrates]]
 - [[mushroom-spawn-making-detailed]]
 - [[psilocybin-fruiting-chambers]]
+## Current Research
 
-## Current Research Directions
+Recent studies on mushroom cultivation grain spawn have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the mechanisms involved.
-These developments have practical implications for both researchers and practitioners.
+## Practical Considerations
+
+Practitioners working with mushroom cultivation grain spawn should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

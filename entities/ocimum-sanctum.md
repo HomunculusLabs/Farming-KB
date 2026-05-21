@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Singh, S. et al. (2010). "Ocimum sanctum: A Review on Phytochemical and Pharmacological Profile." Journal of Pharmacy and Bioallied Sciences, 2(3), 230-236.
-  - Gupta, S.K. et al. (2002). "Antioxidant and Hepatoprotective Effects of Ocimum sanctum." Journal of Ethnopharmacology, 79(1), 13-18.
-  - Kelm, M.A. et al. (2000). "Characterization of Volatile Constituents in Ocimum sanctum." Journal of Agricultural and Food Chemistry, 48(4), 1227-1231.
-  - Cohen, M.M. (2014). "Tulsi (Ocimum sanctum): A Herb for All Reasons." Journal of Ayurveda and Integrative Medicine, 5(4), 251-259.
   - Pattanayak, P. et al. (2010). "Ocimum sanctum Linn.: A Review on Its Phytochemical and Pharmacological Profile." Pharmacognosy Reviews, 4(8), 95-103.
 ---
 

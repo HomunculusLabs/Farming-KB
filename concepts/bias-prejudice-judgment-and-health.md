@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
-  - Fredrickson, B.L. (2003). "The value of positive emotions." American Scientist.
-  - Danner, D.D. et al. (2001). "Positive emotions in early life and longevity." JPSP.
   - University of Michigan. (2005). "Flourishing and positive affect ratios."
 ---
 

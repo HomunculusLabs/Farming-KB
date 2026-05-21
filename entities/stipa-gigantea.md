@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Castroviejo, S. (2012). "Flora Iberica Vol. 6." Real Jardín Botánico, CSIC.
-  - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
-  - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
-  - Valdés, B. et al. (1987). "Flora Vascular de Andalucía Occidental." Ketres Editora.
   - USDA ARS (2024). "Germplasm Resources savory-perennial-grass-and-desertification in the family Poaceae, commonly known as golden oats or giant feather grass.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cooke, J. (2002). "Lobeliaceae." In: Seed Plants of Southern Africa. National Botanical Institute, Pretoria.
-  - Lammers, T.G. (2011). "Revision of Lobelia sect. Lobelia (Campanulaceae: Lobelioideae)." Journal of Botany, 89(2): 128–165.
-  - Royal Horticultural Society (2023). "Lobelia erinus." RHS Plant Finder. rhs.org.uk.
   - Goldblatt, P. & Manning, J.C. (2000). Cape Plants. Missouri Botanical Garden Press.
 ---
 

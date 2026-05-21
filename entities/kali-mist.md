@@ -13,7 +13,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Greg Green, The green-cannabis-grow-bible-breeding-genetics-and-true-breeding (2003)
   - S.T. Oner, The Rev's cannabis-african-indian-strain-descriptions-clarke
 ---
 

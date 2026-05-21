@@ -5,14 +5,6 @@ tags: [mulberry, fruit-trees, tree-planting, pruning, propagation, query]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Morton, J. 1987. Mulberry. In: Fruits of warm climates. Purdue University."
-  - "Missouri Botanical Garden — Morus genus profile (mobot.org)"
-  - "California Rare Fruit Growers — Mulberry Fruit Facts (crfg.org)"
-  - "USDA Plant Hardiness Zone Map (planthardiness.ars.usda.gov)"
-  - "Stark Bro's Nurseries — Mulberry Growing Guide (starkbros.com)"
-  - "Permaculture Research Institute — Mulberry in Food Forests (permaculturenews.org)"
-  - "North Carolina State Extension — Morus spp. (ncsu.edu)"
-  - "Kew Royal Botanic Gardens — morus-alba, M. nigra, M. rubra (kew.org)"
 type: query
 ---
 

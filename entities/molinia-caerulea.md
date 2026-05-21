@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hubbard, C.E. (1984). "Grasses: A Guide to their Structure, Identification, Uses and Distribution." Penguin.
-  - Conert, H.J. (1998). "Poaaceae (2)." In: Hegi, G., "Illustrierte Flora von Mitteleuropa." Blackwell.
   - Capper, P. et al. (2009). "The Colour ornamental-grasses-guide." Crowood Press.
 ---
 

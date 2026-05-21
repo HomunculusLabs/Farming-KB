@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Thomson, J.W. (1968). "The Lichens of Iceland." The Icelandic Institute of Natural History.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens canary-grass-phototropism-model-organism for studying biological colonization of newly exposed terrain.
 ---
 

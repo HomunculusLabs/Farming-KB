@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ebeling, F. (2018). "Birch (Betula pendula Roth) — A Review of Phytochemistry and Pharmacology." Phytotherapy Research, 32(7), 1252-1270.
-  - Atkinson, M.D. (1992). "Biological Flora of the British Isles: Betula pendula Roth (B. verrucosa Ehrh.) and B. pubescens Ehrh." Journal of Ecology, 80(4), 837-870.
-  - Hegi, G. (1981). Illustrierte Flora von Mitteleuropa. Band III, Teil 1. Verlag Paul Parey.
-  - Sulkava, S. & Huhta, V. (2003). "Effects of hard frost and freeze-thaw cycles on soil fauna." Pedobiologia, 47(3), 271-278.
 created: 2026-04-28
 ---
 

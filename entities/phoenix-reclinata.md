@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
   - Henderson, A., Galeano, G., Bernal, R. (1995). "permaculture-date-palm-guide." Pacific Coast Palms Society.
 ---
 

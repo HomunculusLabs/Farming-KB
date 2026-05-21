@@ -8,8 +8,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
-  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 related_concepts:
   - fungal-taxonomy
   - fungal-taxonomy-and-classification

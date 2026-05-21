@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Royle, J.F. (1839). "Illustrations of the Botany of the Himalayan Mountains." Wm. H. Allen & Co.
-  - Shah, N.C. & M.C. Joshi (2009). "Gentiana kurroo Royle — An Endangered Medicinal Plant." Indian Journal of Traditional Knowledge, 8(2): 283–287.
-  - IUCN (2023). "Gentiana kurroo — The IUCN Red List of Threatened Species."
   - Uniyal, M.R. et al. (2020). "Pharmacognosy of Gentiana kurroo Roots." Pharmacognosy Reviews, 14(27): 14–19.
 ---
 

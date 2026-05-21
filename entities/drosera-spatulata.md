@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schlauer, J. (2023). "The Carnivorous Plant Database." http://www.cpphotofinder.com
-  - Lowrie, A. (2013). "Carnivorous Plants of Australia, Vol. 3." Springer.
-  - McPherson, S. (2010). "Drosera: Sticky Carnivorous Plants." Redfern Natural History Productions.
   - Rice, B.A. (2006). "Growing Carnivorous Plants." Timber Press.
 ---
 

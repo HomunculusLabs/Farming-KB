@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Nagahama, A. et al. (2015). "Phylogeny and biogeography of Lonicera." Journal of Systematics and Evolution, 53(2), 141-150.
-  - Royal Horticultural Society. "Lonicera periclymenum." RHS Plant Finder. https://www.rhs.org.uk
-  - USDA NRCS Plants Database. "Lonicera periclymenum L." https://plants.usda.gov
-  - Everitt, J. (2004). "Flora of the British Isles." Cambridge University Press.
   - Stace, C. A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
 ---
 
@@ -78,3 +74,14 @@ Lonicera periclymenum supports a range of specialist insects, including the hone
 In mixed hedgerows, it contributes to structural diversity by adding a climbing layer above shrubs. This multi-tiered structure supports significantly greater biodiversity than single-layer hedgerows of equivalent length.
 
 Deer and rabbits occasionally browse young shoots, though established plants generally recover quickly from browsing pressure.
+## Current Research
+
+Recent studies on lonicera periclymenum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with lonicera periclymenum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

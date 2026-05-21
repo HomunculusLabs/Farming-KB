@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Aiken, S.G., Newroth, P.R. & Wile, I. (1979). "The biology of Canadian weeds: Myriophyllum spicatum." Canadian Journal of Plant Science, 59(1), 201–215.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, elodea-canadensis." Hydrobiologia, 131, 3–21.
-  - Smith, C.S. & Barko, J.W. (1990). "Ecology of Eurasian watermilfoil." Journal of Aquatic Plant Management, 28, 55–64.
   - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.---
 ---
 
@@ -80,3 +77,5 @@ Chemical allelopathy has been documented, with *M. spicatum* releasing polypheno
 ## Human Uses
 
 Despite its invasive status, *M. spicatum* has been investigated for [[phytoremediation]] of water contaminated [[singh-fungal-interactions-with-heavy-metals-in-soil]] and nutrients.
+Further research into myriophyllum spicatum continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind myriophyllum spicatum provides a foundation for both practical application and continued scientific inquiry.

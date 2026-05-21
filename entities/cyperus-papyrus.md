@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Leach, B. & Tait, J. (2000). "Papyrus." In Encyclopedia of Ancient Egypt. Routledge.
-  - Simpson, R.S. (2004). "Papyrus." Oxford Encyclopedia of Ancient Egypt.
-  - Täckholm, V. & Drar, M. (1950). "Flora of Egypt." Bulletin of the Faculty of Science, Cairo University.
   - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. guzman-psilocybin-mushrooms-south-america, where it is considered introduced.
 ---
 

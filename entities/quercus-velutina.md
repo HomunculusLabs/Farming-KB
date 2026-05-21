@@ -12,11 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Quercus velutina Lam." Agriculture Handbook 654, USDA Forest Service.
-  - Stein, J.D. et al. (2003). "Quercus velutina." In: Fire Effects Information System (FEIS), USDA Forest Service.
-  - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
-  - Johnson, P.S. et al. (2009). "Regeneration of oaks (Quercus spp.) in the Central Hardwood Forest." In: Ecology and Silviculture of Oaks, 2nd ed., CABI Publishing.
   - Guyette, R.P. & Stambaugh, M.C. (2003). "Post-fire suppression of oak recruitment by invasive species." Proceedings of the 2nd Fire and Forest Ecology Conference, 43-49.
 ---
 

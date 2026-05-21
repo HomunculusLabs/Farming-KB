@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
-  - USDA NRCS (2024). "PLANTS Profile — Carex nebrascensis."
-  - Wilson, S.D. & Keddy, P.A. (1986). "Species competitive ability and position along a natural stress/disturbance gradient." Ecology 67(5): 1236–1242.
   - Martin, D.B. & Hartman, C.W. (1987). "Marsh creation in the prairie pothole region." Journal of Soil and Water Conservation 42(4): 256–258.
 ---
 

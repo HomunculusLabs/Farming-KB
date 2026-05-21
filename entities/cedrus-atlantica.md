@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Ebben, W.J. et al. (2004). "Cedrus atlantica (Pinaceae) in the Rif Mountains of Morocco." Biological Conservation 118: 517-524.
-  - Bentouati, A. (2008). "Genetic Diversity of Cedrus atlantica in Algeria." Annals of Forest Science 65: 701-708.
   - Quézel, P. & Médail, F. (2003). "Ecologie et Biogéographie des Forêts du Bassin Méditerranéen." Elsevier.
 ---
 

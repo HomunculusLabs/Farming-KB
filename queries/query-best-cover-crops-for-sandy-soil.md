@@ -10,11 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - SARE (Sustainable Agriculture Research & Education) — Cover Crop Topic Rooms
   - NRCS — Cover Crop Planting Guides by Soil Type
-  - Building Soils for Better Crops, 3rd Ed. (Magdoff & Van Es, 2021)
-  - Managing Cover Crops Profitably, 3rd Ed. (SARE, 2012)
-  - Extension.org — Cover Crop Selection for Sandy Soils
 created: 2026-04-28
 type: query
 ---

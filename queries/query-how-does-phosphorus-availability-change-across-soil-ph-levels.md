@@ -6,12 +6,6 @@ type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brady, N.C. & Weil, R.R. (2016). *The Nature and Properties of Soils*, 15th ed. Pearson.
-  - Havlin, J.L., Tisdale, S.L., Nelson, W.L., & Beaton, J.D. (2014). *Soil Fertility and Fertilizers*, 8th ed. Pearson.
-  - Sharpley, A.N. (2000). "Phosphorus availability." In *Handbook of Soil Science* (Sumner, M.E., ed.). CRC Press.
-  - Holford, I.C.R. (1997). "Soil phosphorus: its measurement, and its uptake by plants." *Australian Journal of Soil Research*, 35(2), 227–239.
-  - Penn, C.J. & Camberato, J.J. (2019). *A Critical Review on Soil Phosphorus Availability*. ASA/CSSA/SSSA.
-  - University of Minnesota Extension. (2023). "Soil pH and phosphorus availability." Plant green-cannabis-grow-bible-nutrient-management-ppm Series.
   - Shen, J. et al. (2011). "Form and function of phosphorus in plants." In *Phosphorus in Action* (Bünemann, E. et al., eds.). Springer.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Royal Botanic Gardens Kew. "Dianthus superbus." Plants of the World Online. https://powo.science.kew.org/
-  - Brickell C., et al. (2016). RHS A-Z Encyclopedia of Garden Plants. DK Publishing.
-  - Tang W., Eisenbrand G. (1992). Chinese Drugs of Plant Origin. Springer-Verlag.
   - Wu Z.Y., Raven P.H. (2001). "Caryophyllaceae." In: Flora of China, Vol. 6. Science Press/Missouri Botanical Garden.
 ---
 

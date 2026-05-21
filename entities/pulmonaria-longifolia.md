@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - RHS (2026). "Pulmonaria longifolia." Royal Horticultural Society Plant Finder.
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed. C&M Floristics.
   - Phillips, R. (1977). "Wild Flowers of Britain." Macmillan.
 ---
 

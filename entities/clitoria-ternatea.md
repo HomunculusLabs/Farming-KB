@@ -16,7 +16,6 @@ updated: 2026-04-28
 sources:
  — anthocyanin pharmacology and neuroprotective studies
  — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
-  - Mukherjee, P.K. et al. "Clitoria ternatea: A Review on Its Phytochemical and Pharmacological Profile." Phytomedicine, 2008.
   - Goh, B.H. et al. "Clitoria ternatea (Butterfly Pea): A Review of Its Ethnobotany, Pharmacology, and Clinical Applications." Frontiers in Pharmacology, 2022.
 ---# Clitoria ternatea
 

@@ -9,7 +9,6 @@ created: 2026-05-02
 updated: 2026-05-06
 type: concept
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 

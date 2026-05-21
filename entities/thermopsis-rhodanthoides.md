@@ -12,11 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barneby R.C. (1977). "A Revision of the North American Species of Thermopsis." Memoirs of the New York Botanical Garden, 27(4), 1–89.
-  - Welsh S.L. (2003). "Thermopsis." In: Flora of North America North of Mexico, Vol. 3. Oxford University Press.
-  - Isely D. (1990). "Vascular Flora of the Southeastern United States, Volume 3, Leguminosae." University of North Carolina Press.
-  - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Weakley A.S. (2023). "Flora of the Southeastern United States." University of North Carolina Herbarium.
   - Higgins S.S. (1984). "Reproductive Biology of Thermopsis montana." Great Basin Naturalist, 44, 497–503.
 ---
 

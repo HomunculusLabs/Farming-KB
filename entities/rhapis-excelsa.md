@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
-  - Fachi, M. et al. (2020). "Rhapis excelsa: A Comprehensive Review of Biology, Cultivation, and Air Purifying Properties." HortScience 55(7): 1123-1131.
-  - Hodel, D.R. (2013). "The Genus Rhapis: A Monograph." Palms 57(4): 185-230.
   - Ouyang, Y. et al. (2016). "Ethnobotany of Rhapis excelsa in Southern China." Economic Botany 70(3): 290-301.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Plowman, T.C. (1998). "A revision of the genus Brunfelsia (Solanaceae)." PhD Thesis, University of Birmingham.
-  - Hunziker, A.T. (2001). "Genera Solanacearum: The Genera of Solanaceae Illustrated." ARG Gantner Verlag.
-  - Carvalho, A.M. (2006). "Brunfelsia in Flora of Cuba." Missouri Botanical Garden Press.
   -_fpuna, G. (2012). "Ethnobotanical uses of Brunfelsia species in South America." Journal of Ethnopharmacology 139(3): 705-712.
 ---
 

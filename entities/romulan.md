@@ -21,10 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Cannabible." Jason King (2001). Green Candy Press.
-  - "The Big Book of Buds." Ed Rosenthal (2001). Quick American Archives.
-  - Leafly strain database. "Romulan." leafly.com/strains/romulan.
-  - AllBud strain database. "Romulan." allbud.com/strains/romulan.
   - SeedFinder strain database. "Romulan." seedfinder.eu.
 ---
 

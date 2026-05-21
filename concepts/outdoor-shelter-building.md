@@ -9,7 +9,7 @@ sources: []
 
 # Outdoor Shelter Building
 
-The ability [[query-how-to-build-a-cob-oven-for-outdoor-cooking]] shelter from natural and salvaged materials is a fundamental [[homesteading]] skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
+The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
 
 ## Universal Principles
 
@@ -24,7 +24,7 @@ Regardless of shelter type, these principles apply:
 
 ## Tarp Shelters
 
-The tarp [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most versatile shelter tool. A simple 8x10 or 10x12 silnylon or poly tarp weighs 1-2 pounds and provides instant shelter. Learn these configurations:
+The tarp is the most versatile shelter tool. A simple 8x10 or 10x12 silnylon or poly tarp weighs 1-2 pounds and provides instant shelter. Learn these configurations:
 
 ### A-Frame
 - Run a ridgeline between two trees at waist height
@@ -34,7 +34,7 @@ The tarp [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-do
 - Good for one person with gear
 
 ### Lean-To
-- Tie one edge [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] tarp to a ridgeline between two trees
+- Tie one edge of the tarp to a ridgeline between two trees
 - Stake the opposite edge to the ground at an angle (30-45 degrees)
 - Open front provides heat reflection from a fire (build a fire 3-4 feet from the opening)
 - Good for 1-3 people
@@ -50,13 +50,13 @@ The tarp [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-do
 ### Fly / Dining Fly
 - Tarp suspended horizontally with all four corners elevated
 - Provides rain and sun protection without walls
-- Useful [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] cooking area, work space, or communal gathering space on the homestead
+- Useful as a cooking area, work space, or communal gathering space on the homestead
 
 ### Tarp Tips
 - Carry 50 feet of paracord and 8-10 stakes for maximum configuration options
 - Use natural features (rocks, stumps, branches) as anchors to reduce stake count
 - Tension is key — a tight tarp sheds water; a loose one collects it
-- Create a [[drip-line]] by tying a small cord to the lowest edge so water runs to a point instead of dripping along the entire edge
+- Create a drip line by tying a small cord to the lowest edge so water runs to a point instead of dripping along the entire edge
 
 ## Debris Hut
 
@@ -67,7 +67,7 @@ The debris hut is the most effective shelter for cold conditions when you have n
 1. **Find or make a ridgepole** — a sturdy pole 6-9 feet long, resting on a stump, rock, or forked branch at waist height, with the other end on the ground
 2. **Create the ribbing** — lean sticks against both sides of the ridgepole at a steep angle (45-60 degrees), creating an A-frame skeleton. Leave an opening at one end for entry.
 3. **Add lattice** — weave smaller sticks horizontally across the ribbing to create a framework that will hold debris
-4. **Pile debris** — this is the insulation. Pile dry leaves, pine needles, dead grass, or dry moss 2-3 feet thick on all sides and on top. Deeper is better. This is the most time-consuming step and [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]].
+4. **Pile debris** — this is the insulation. Pile dry leaves, pine needles, dead grass, or dry moss 2-3 feet thick on all sides and on top. Deeper is better. This is the most time-consuming step and the most important.
 5. **Stuff the interior** — fill the inside of the hut with dry debris at least 6-8 inches deep for ground insulation
 6. **Add a door plug** — stuff a pile of debris at the entrance to close it behind you when inside
 7. **Crawl in and wiggle** — your body compresses the debris, so build it thicker than you think you need
@@ -80,7 +80,7 @@ The debris hut is the most effective shelter for cold conditions when you have n
 
 ## Lean-To (Natural Materials)
 
-A lean-to is a simple, open-fronted shelter built against a horizontal pole supported between two trees or [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] tree and the ground.
+A lean-to is a simple, open-fronted shelter built against a horizontal pole supported between two trees or between a tree and the ground.
 
 ### Construction
 
@@ -148,3 +148,7 @@ On a working homestead, shelter-building skills apply beyond survival:
 ## Practice
 
 Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which natural materials in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
+## See Also
+
+- [[roundwood-shelter-building]]
+- [[cob-building-basics-detailed]]

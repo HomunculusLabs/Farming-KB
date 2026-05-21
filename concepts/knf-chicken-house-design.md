@@ -5,7 +5,6 @@ updated: 2026-04-20
 type: concept
 tags: [knf, natural-farming]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 

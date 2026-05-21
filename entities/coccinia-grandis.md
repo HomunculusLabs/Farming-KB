@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben, G.J.H. & Denton, O.A. (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Chomchalow, N. (2004). "Coccinia grandis (L.) Voigt." In: Plant Resources of South-East Asia No. 13: Spices. PROSEA Foundation.
-  - Muniappan, R. et al. (2009). "Invasive Alien Species in the Pacific: A Technical Review and Regional Strategy." SPREP.
   - Dhillon, R.S. et al. (2014). "Ethnobotanical Uses of Coccinia grandis: A Review." International Journal of Pharmacognosy 1(6): 151-156.
 ---
 

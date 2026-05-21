@@ -19,10 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Szára, S. (1956). "Dimethyltryptamine: its metabolism in man." Science, 123(3186), 104–105.
-  - Shanahan, B. & Whiteman, M. (2015). "Authoritative overview of dietary (Pharma-)nutritional psychedelics." Journal of Psychoactive Drugs, 47(5), 383–391.
-  - Tiwari, H.K. et al. (2023). "Tryptamine derivatives: a review of occurrence, synthesis, and pharmacology." Frontiers in Chemistry, 11, 1185.
-  - Jacob, M.S. & Presti, D.E. (2005). "Endogenous psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins reconsidered." Journal of Psychoactive Drugs, 37(2), 167–178.
 created: 2026-05-07---
 ---
 

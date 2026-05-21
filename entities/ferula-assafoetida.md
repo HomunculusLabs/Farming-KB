@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Iranshahy, M. & Iranshahi, M. (2011). "Traditional uses, phytochemistry and pharmacology of asafoetida (Ferula assa-foetida oleo-gum-resin)." Journal of Ethnopharmacology, 134(1), 1-10.
-  - Mahendra, P. & Bisht, S. (2012). "Ferula assa-foetida: Traditional uses and pharmacological activity." Pharmacognosy Reviews, 6(12), 141-146.
-  - Bagheri, S.M. et al. (2014). "Ferula species: A review on traditional uses, phytochemistry and pharmacological activities." Journal of Pharmacy and Pharmacology, 66(4), 457-466.
-  - Shah, G. et al. (2012). "Scientific basis for the therapeutic use of Ferula assa-foetida." Pharmacognosy Reviews, 6(12), 172-179.
   - Appendino, G. et al. (2017). "Phytochemistry and chemotaxonomy of Ferula species." Natural Product Reports, 34(5), 470-492.
 ---
 
@@ -80,3 +76,5 @@ Traditional medicinal uses include treatment of digestive disorders (bloating, f
 In veterinary medicine, asafoetida has been used as a carminative and anthelmintic for livestock. It was historically applied to the hooves of horses and cattle to treat hoof ailments.
 
 ## Ecological and Cultural Role
+Further research into ferula assafoetida continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind ferula assafoetida provides a foundation for both practical application and continued scientific inquiry.

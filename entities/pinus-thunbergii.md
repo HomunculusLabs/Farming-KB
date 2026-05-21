@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richardson, D.M. (1998). "Ecology and Biogeography of Pinus." Cambridge University Press.
-  - Farjon, A. (2013). "A Handbook of the World's Conifers." Brill.
-  - Katsuki, K., et al. (2009). "Genetic variation of Pinus thunbergii along the Pacific coast of Japan." Journal of Plant Research, 122, 357–364.
-  - U.S. Forest Service Silvics Manual. "Pinus thunbergii." USDA.
   - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1972). "Blackstonia." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 3, pp. 55–56. Cambridge University Press.
-  - Verdrovska, L. et al. (2018). "Phytochemical characterization of Blackstonia acuminata." Biochemical Systematics and Ecology, 78: 52–58.
-  - Med-Checklist (2008). "Blackstonia acuminata (W.D.J. Koch) Domin." In: Greuter, W. & Raab-Straube, E. (eds.), Med-Checklist, Vol. 2.
-  - Šiler, B. et al. (2012). "Chemotaxonomy of the genus Blackstonia (Gentianaceae)." Plant Systematics and Evolution, 298: 1713–1722.
   - Tison, J.M. & de Foucault, B. (2014). Flora Gallica: Flore de France. Biotope Éditions.
 ---
 

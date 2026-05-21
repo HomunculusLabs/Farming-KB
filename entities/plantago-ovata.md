@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - McRorie JW, McKeown NM. (2017). "Understanding the Physics of Functional Fibers in the Gastrointestinal Tract." Advances in Nutrition, 8(3), 389-399.
-  - Jalili T. et al. (2019). "The Effect of Psyllium on Type 2 Diabetes." Nutrition Reviews, 77(3), 179-188.
-  - Zafar MI et al. (2019). "Impact of Over-the-Counter Psyllium Fiber Supplementation on Body Weight." Nutrition, 60, 123-131.
   - FDA. (1998). "Health Claim: Soluble Fiber from Certain Foods and Risk of Coronary blesching-cannabis-heart-disease. It is also prescribed for constipation, cannabis-vegetative-growth-stage and 20–30°C during flowering and seed set. The species is sensitive to waterlogging and frost, which limit its cultivation to regions with dry winters and warm springs.
 ---
 

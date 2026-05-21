@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. & Fatto, R. (2019). "ghouled-field-guide-historical-context to the Mushrooms of Britain and Europe." Merlin Unwin Books.
   - Phillips, R. (2010). "Mushrooms: A growing-gourmet-north-american-reishi-species forests, fruiting from midsummer through late autumn.
 ---
 

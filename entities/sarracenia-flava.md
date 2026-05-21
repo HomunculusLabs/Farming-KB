@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell DE (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." 2nd ed. Timber Press.
-  - McPherson SR (2007). "Pitcher Plants of the Americas." McDonald & Woodward.
-  - Ellison AM & Gotelli NJ (2001). "Evolutionary ecology of carnivorous plants." Trends in Ecology & Evolution 16(11): 623–629.
   - Stephens WB (1928). "Varietal forms of Sarracenia flava." Journal of the Elisha Mitchell Scientific Society 44: 77–85.
 ---
 

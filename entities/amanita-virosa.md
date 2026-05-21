@@ -13,10 +13,6 @@ tags:
   - forest-fungus
   - ectomycorrhizal
 sources:
-  - Benjamin, D.R. (1995). "Mushrooms: Poisons and Panaceas." W.H. Freeman & Company.
-  - Tulloss, R.E. & Yang, Z.L. (2021). "Amanita overview." In: The Fungal Kingdom, ASM Press.
-  - Vesper, J. & Vesper, A. (2008). "Amanita virosa and allies: morphological and molecular taxonomy." Mycotaxon, 105, 361-374.
-  - Kibby, G. (2012). "Amanitas of Britain and Europe." Geoffrey Kibby.
   - https://www.first-nature.com/fungi/amanita-virosa.php
 ---
 

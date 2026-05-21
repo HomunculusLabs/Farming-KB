@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Miscellaneous Publication No. 200.
   - Peeters, A. (2004). "Wild Grasses: Their Use in Landscape Design and comparison-prairie-restoration-vs-silvopasture projects across much of the United States.
 ---
 

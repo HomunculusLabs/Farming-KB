@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zhou LW, et al. (2016). "Sanghuangporus gen. nov. (Hymenochaetaceae) accommodates a core group of 'Sanghuang' mushrooms." Mycoscience, 57(6), 431-440.
-  - Wu F, et al. (2019). "Phylogeny and diversity of Sanghuangporus species associated with Morus." Mycologia, 111(5), 823-837.
-  - Chen Q, et al. (2020). "Anti-tumor polysaccharides from Sanghuangporus species: A review." International Journal of Biological Macromolecules, 164, 4251-4262.
-  - Shen J, et al. (2017). "Medicinal values of arbuscular-mycorrhizal-fungal-diversity, 73, 1-10.
 created: 2026-04-28
 ---
 

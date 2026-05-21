@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Magnusson, B. & Magnússon, S.H. (2009). "Lupinus nootkatensis in Iceland: A review of its ecology and impact." Flora Nordica, 12, 45-62.
   - Ljaža, A. et al. (2022). "The role of Lupinus nootkatensis in psilocybin-north-america-pacific-northwest.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Watling, R. & Gregory, N.M. (1987). "Strobilurus and related genera." Mycological Papers 157.
-  - Noordeloos, M.E. (1999). "Strobilurus." In: Flora Agaricina Neerlandica, Vol. 4. CRC Press.
   - Kibby, G. (2012). "Mushrooms and Toadstools: A partial-veil-tropism-protection-before-spore-release leaves a fragile ring that often disappears with age.
 ---
 

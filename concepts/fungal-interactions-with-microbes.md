@@ -14,14 +14,14 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 ## Fungal-Bacterial Interactions
 
 ### Antagonism
-- **Antibiotic production**: Many soil fungi (Penicillium, [[streptomyces]]) produce antibiotics that inhibit bacteria
+- **Antibiotic production**: Many soil fungi (Penicillium, Streptomyces) produce antibiotics that inhibit bacteria
 - **Competition**: Fungi and bacteria compete for the same nutrients and space
 - **Predation**: Some fungi trap and consume bacteria (mycophagous fungi)
 - **Lysis**: Fungal enzymes degrade bacterial cell walls
 
 ### Mutualism
 - **Nutrient exchange**: Bacteria fix nitrogen that fungi and plants use; fungi provide carbon
-- **Physical association**: Bacterial biofilms on [[fungal-hyphae]] ("fungal highway") enhance dispersal
+- **Physical association**: Bacterial biofilms on fungal hyphae ("fungal highway") enhance dispersal
 - **Degradation synergy**: Fungi and bacteria work together to degrade complex organic matter
   - Fungi break down lignin; bacteria consume the released sugars
   - Neither can fully decompose wood alone — partnership is required
@@ -37,18 +37,18 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - Fungi compete for space and nutrients through:
   - Rapid colonization (race for resources)
   - Antibiotic production (inhibit competitors)
-  - Mycoparasitism ([[trichoderma]] attacks other fungi)
+  - Mycoparasitism (Trichoderma attacks other fungi)
   - Enzyme production (degrade competitors' cell walls)
 
 ### Mycoparasitism
-- [[trichoderma-harzianum]]: commercial biocontrol agent that parasitizes plant pathogenic fungi
+- Trichoderma harzianum: commercial biocontrol agent that parasitizes plant pathogenic fungi
 - Mechanisms: coiling around hyphae, penetrating cell walls, secreting lytic enzymes
 - Used against Rhizoctonia, Fusarium, Pythium, and Sclerotinia
 
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
-- [[endophytic-fungi]] within other fungi (mycoviruses)
-- [[arbuscular-mycorrhizal-networks]] connecting multiple plant species
+- Endophytic fungi within other fungi (mycoviruses)
+- Arbuscular mycorrhizal networks connecting multiple plant species
 
 ## Fungal-Viral Interactions
 
@@ -56,7 +56,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - Viruses that infect fungi (found in all major fungal groups)
 - Often asymptomatic — many fungi carry persistent mycoviruses
 - Some mycoviruses reduce fungal virulence (hypovirulence):
-  - Chestnut blight ([[cryphonectria-parasitica]]): hypovirus reduces virulence, allowing chestnut recovery
+  - Chestnut blight (Cryphonectria parasitica): hypovirus reduces virulence, allowing chestnut recovery
   - Used as biocontrol strategy (transmit hypovirulent strains to pathogenic populations)
 
 ### Beneficial Effects
@@ -85,5 +85,12 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 ## Applications
 - **Biocontrol**: Trichoderma, mycophagous fungi, mycoviruses as disease control
 - **Composting**: Fungal-bacterial consortia for efficient decomposition
-- [[soil-food-web-structure]] — for the complete [[soil-food-web]]
+- [[soil-food-web-structure]] — for the complete soil food web
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
+## See Also
+
+- [[fungal-interactions-with-humans]]
+- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
+- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+- [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
+- [[dighton-fungal-trophic-interactions-soil-food-webs]]

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Yatskievych, G. (1999). "Osmundaceae." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 2. Oxford University Press.
-  - Page, C. N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - Jermy, A. C. & Camus, J. (1991). "The taxonomy and biology of Osmunda regalis L." Fern Gazette, 14(3), 121–131.
-  - Bhardwaja, T. N. & Bir, S. S. (1984). "Cytological studies in Osmundaceae." Caryologia, 37(3-4), 269–274.
   - Pryer, K. M. et al. (2004). "Phylogeny and evolution of ferns (monilophytes)." American Journal of Botany, 91(10), 1582–1598.
 ---
 

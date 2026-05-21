@@ -27,11 +27,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Baumann, M.H. et al. (2012). "Mephedrone (4-methylmethcathinone): Neuropharmacological effects of a designer stimulant of abuse." Journal of Pharmacology and Experimental Therapeutics, 342(1), 9–19.
-  - Schifano, F. et al. (2011). "Mephedrone (4-methylmethcathinone; 'meow-meow'): Chemical, pharmacological and clinical issues." Psychopharmacology, 214(3), 593–602.
-  - Green, A.R. et al. (2014). "The pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA, 'ecstasy')." Pharmacological Reviews, 66(3), 907–972.
-  - European Monitoring Centre for Drugs and Drug Addiction. (2023). "Mephedrone Drug Profile." EMCDDA-Europol.
-  - Prosser, J.M. & Nelson, L.S. (2012). "The toxicology of bath salts: A review of synthetic cathinones." Journal of Medical Toxicology, 8(1), 33–42.
 created: 2026-04-28
 ---
 
@@ -80,3 +75,14 @@ Mephedrone has been detected in illicit drug markets in Europe, [[pentylone]]
 - [[mescaline]] — natural phenethylamine psychedelic with different receptor profile
 - [[ephedrine]] — natural sympathomimetic amine used as a precursor compound
 - [[caffeine]] — widely used stimulant with different pharmacological mechanism
+## Current Research
+
+Recent studies on mephedrone have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with mephedrone should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

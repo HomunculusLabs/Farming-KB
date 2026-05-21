@@ -15,7 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.mdcreated: 2026-05-07
 type: concept
 
 created: 2026-05-07

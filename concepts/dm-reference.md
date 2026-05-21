@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-[[dimethyltryptamine]] (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
 
 ## Chemistry
 
@@ -42,11 +42,11 @@ N,N-[[dimethyltryptamine]] (DMT) is a naturally occurring tryptamine compound fo
 
 ### Plants
 
-- **[[psychotria-viridis]]** (chacruna): Primary DMT source in ayahuasca; 0.1-0.6% DMT
+- **Psychotria viridis** (chacruna): Primary DMT source in ayahuasca; 0.1-0.6% DMT
 - **Diplopterys cabrerana** (chaliponga): Up to 1% DMT
-- **[[mimosa-tenuiflora]]** (M. hostilis / jurema): Root bark contains 0.57-1.0% DMT
+- **Mimosa tenuiflora** (M. hostilis / jurema): Root bark contains 0.57-1.0% DMT
 - **Acacia species**: A. confusa, A. obtusifolia, A. maidenii — bark contains DMT
-- **[[anadenanthera-peregrina]]** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
+- **Anadenanthera peregrina** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
 - **Virola species**: V. theiodora, V. sebifera — bark resin used as snuff
 
 ### Animals
@@ -82,7 +82,7 @@ The most common extraction follows an acid-base (A/B) protocol:
 
 Ayahuasca is traditionally prepared by combining:
 - **DMT-containing plant**: Psychotria viridis or Diplopterys cabrerana
-- **MAOI-containing plant**: [[banisteriopsis-caapi]] (ayahuasca vine), which contains harmine, harmaline, and tetrahydroharmine (beta-carboline MAO inhibitors)
+- **MAOI-containing plant**: Banisteriopsis caapi (ayahuasca vine), which contains harmine, harmaline, and tetrahydroharmine (beta-carboline MAO inhibitors)
 
 The beta-carbolines inhibit monoamine oxidase (MAO) in the gut and liver, preventing the rapid oxidative deamination of DMT and allowing it to be orally active. Without the MAOI, orally consumed DMT is inactive because MAO-A rapidly breaks it down before it reaches the brain.
 
@@ -143,8 +143,12 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 
 **Oral (Ayahuasca)**: Typical ceremonial dose 50-100 mg DMT with 50-150 mg harmine/harmaline. Effects depend heavily on MAOI dose and individual MAO activity.
 
+## Safety
+
+### Physical Safety
+
+- DMT has very low toxicity; no known lethal dose in humans
 ## See Also
 
-- [[bioluminescent-fungi]] — Fungal chemistry and ecology
-- [[fungal-symbiosis-types]] — Natural compounds in fungal relationships
-- [[mushroom-taxonomy-history]] — Classification of psychoactive fungi
+- [[cannabis-as-medicine-clinical-reference]]
+- [[permaculture-plant-species-reference]]

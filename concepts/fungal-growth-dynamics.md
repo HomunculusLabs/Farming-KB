@@ -96,7 +96,7 @@ Fungi detect and respond to nutrient-rich patches in soil:
 
 - **Tropisms**: Fungi respond to physical stimuli including gravity (gravitropism), contact (thigmotropism), and surface characteristics (hydrophobicity)
 - **Penetration**: Fungal hyphae can penetrate solid substrates (wood, soil aggregates, root tissues) using a combination of enzymatic digestion and turgor pressure. Appressoria generate enormous pressures (up to 8 MPa) for host penetration
-- **Evasion**: Some fungi grow around barriers rather than through them, using sensory [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] to detect obstacles and redirect growth
+- **Evasion**: Some fungi grow around barriers rather than through them, using sensory mechanisms to detect obstacles and redirect growth
 
 ### Temporal Heterogeneity
 
@@ -118,7 +118,7 @@ Fungi respond to temporal changes in resource availability:
 ### In Wood
 
 - Wood decomposition follows predictable patterns based on wood chemistry and fungal strategy
-- White-[[wood-rot-fungi-white-rot-brown-rot-and-decay-mechanisms]] colonize all wood cell wall components simultaneously
+- White-rot fungi colonize all wood cell wall components simultaneously
 - Brown-rot fungi preferentially remove cellulose and hemicellulose, leaving a modified lignin residue
 - Soft-rot fungi (primarily ascomycetes) create cavities within the secondary cell wall
 - Fungal communities on wood change with decomposition stage, following successional patterns
@@ -147,3 +147,4 @@ Fungi respond to temporal changes in resource availability:
 ## Implications for Management
 
 Understanding fungal growth dynamics informs several practical applications:
+

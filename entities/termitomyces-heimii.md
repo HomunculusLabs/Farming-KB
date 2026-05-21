@@ -20,10 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Heim, R. (1942). "Nouveaux aspects de la mycologie asiatique." Encyclopédie Mycologique 23: 1-260.
-  - Hyder, N. et al. (2018). "A review of Termitomyces: biology, taxonomy, and cultivation." Mycology 9(3): 125-141.
-  - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
-  - Katongole, C. et al. (2019). "dighton-fungal-nutritional-composition-animal-diets of wild Termitomyces species from Uganda." Journal of Food Composition and Analysis 80: 23-28.
   - De Fine Licht, H.H. et al. (2005). "The termite-associated fungus Termitomyces." Insectes Sociaux 52(3): 253-259.
 ---
 

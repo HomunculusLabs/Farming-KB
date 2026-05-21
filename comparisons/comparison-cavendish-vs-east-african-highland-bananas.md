@@ -12,13 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Robinson, J.C. and Sauco, V.G. 2010. Bananas and Plantains. 2nd ed. CABI Publishing."
-  - "Karamura, E.B., et al. 2012. 'Musa Cultivar Names and Synonyms in East Africa.' Bioversity International."
-  - "Daniells, J., et al. 2001. Banana Cultivation in the Tropics. ACIAR Monograph No. 89."
-  - "FAO. 2023. Banana Statistical Compendium 2022. Food and Agriculture Organization of the United Nations."
-  - "Promusa: Banana Knowledge Platform. Bioversity International. https://www.promusa.org"
-  - "Nowakunda, K., et al. 2015. 'Post-Harvest Handling and Utilization of East African Highland Bananas.' Acta Horticulturae 1086: 67–74."
-  - "D'Hont, A., et al. 2012. 'The Banana (Musa acuminata) Genome and the Evolution of Monocotyledonous Plants.' Nature 488: 213–217."created: 2026-05-07
 type: comparison
 
 created: 2026-05-07

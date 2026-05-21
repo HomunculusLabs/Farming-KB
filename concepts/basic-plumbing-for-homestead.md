@@ -28,13 +28,13 @@ PEX has become the standard for residential and homestead plumbing due to its fl
 **Installation:**
 - Use PEX-A (Uponor/Wirsbo) for the best expansion memory and kink resistance
 - PEX-B (Zurn/Viega) is slightly cheaper but less flexible
-- PEX-C [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] least flexible — avoid for main runs
+- PEX-C is the least flexible — avoid for main runs
 - Cut with a dedicated PEX cutter (not a saw) for clean, square cuts
 - Connect using crimp rings (copper rings compressed with a crimp tool) or expansion fittings (PEX-A only)
 - Inspect every crimp ring with a go/no-go gauge after installation
 - Support PEX every 32 inches horizontally, every 4-6 feet vertically
 
-**Where to use:** Interior water supply lines, hot [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] distribution. Not recommended for outdoor exposed runs (UV degrades it).
+**Where to use:** Interior water supply lines, hot and cold distribution. Not recommended for outdoor exposed runs (UV degrades it).
 
 ### Copper
 
@@ -49,7 +49,7 @@ Traditional plumbing material with a proven track record spanning decades.
 
 **Disadvantages:**
 - Higher material and labor cost
-- Requires soldering skills [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] torch
+- Requires soldering skills and a torch
 - Can develop pinhole leaks from acidic water
 - More susceptible to freeze damage than PEX
 - Water hammer can be an issue without air chambers
@@ -66,7 +66,7 @@ Traditional plumbing material with a proven track record spanning decades.
 
 ### PVC and CPVC
 
-Rigid plastic piping for [[hemenway-cold-air-drainage-and-frost-management]] (CPVC only) hot water supply.
+Rigid plastic piping for drainage and (CPVC only) hot water supply.
 
 **PVC (Polyvinyl Chloride):**
 - Used for drain, waste, and vent (DWV) lines
@@ -105,16 +105,12 @@ Rigid plastic piping for [[hemenway-cold-air-drainage-and-frost-management]] (CP
 
 ### Water Heaters
 
-- T&P ([[pf-tek-fruiting-chamber-temperature-and-heating-principles]] pressure) relief valve is mandatory — pipe it to within 6 inches [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] floor or to the exterior
+- T&P (temperature and pressure) relief valve is mandatory — pipe it to within 6 inches of the floor or to the exterior
 - Use dielectric unions when connecting copper to steel (galvanic corrosion prevention)
 - Install an expansion tank on closed-loop systems
 - Set temperature to 120°F to prevent scalding and save energy
 - Flush the tank annually to remove sediment buildup
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
-- [[mushroom-vs-toadstool-terminology]]
 ## Troubleshooting Common Problems
 
 ### Low Water Pressure
@@ -124,7 +120,7 @@ Rigid plastic piping for [[hemenway-cold-air-drainage-and-frost-management]] (CP
 2. Shut-off valve not fully open
 3. Pressure regulator failure (if installed) — test with gauge
 4. Pipe scale buildup in older galvanized or copper pipes
-5. Leaks [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] system reducing pressure
+5. Leaks in the system reducing pressure
 
 ### No Hot Water
 
@@ -146,3 +142,14 @@ Rigid plastic piping for [[hemenway-cold-air-drainage-and-frost-management]] (CP
 - Apply gentle heat with a heat gun, hair dryer, or heat tape — never an open flame
 - Start from the faucet end and work toward the frozen section
 - Once thawed, inspect for cracks or splits that may have occurred
+
+### Dripping Faucets
+
+- Compression faucets: Replace the rubber seat and washer
+- Cartridge faucets: Replace the entire cartridge
+- Ceramic disk faucets: Replace the ceramic cartridge
+## See Also
+
+- [[basic-electrical-for-homestead]]
+- [[homestead-permaculture-design]]
+- [[homestead-workshop-tools]]

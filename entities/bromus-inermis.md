@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth ME, Capels KM, Long S, Anderton LK, editors (2007). "Bromus." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 24. Oxford University Press.
-  - Casler MD, Vogel KP. (2003). "Modification of morphology and forage quality of perennial forage grasses." In: Saha MC, editor. Forage Crops. Science Publishers.
-  - Larson GE, Johnson JR. (1999). "Bromus inermis Leyss." In: Great Plains Flora Association, Flora of the Great Plains. University Press of Kansas.
   - Otto CRV, Roth AM, Carlson BL, Smart MD. (2019). "Land-use change reduces habitat for pollinators and other insects in the US Midwest." Proceedings of the Royal Society B 286: 20190137.
 ---
 

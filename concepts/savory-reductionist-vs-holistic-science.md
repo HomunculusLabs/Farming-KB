@@ -5,7 +5,6 @@ tags: [research, science, paradigm, methodology, holism]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Reductionist vs Holistic Science
 

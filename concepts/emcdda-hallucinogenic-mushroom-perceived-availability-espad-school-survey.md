@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An Emerging Trend Case Study (Hillebrand, Olszewski, Sedefov, 2006)
 type: concept
 ---
 

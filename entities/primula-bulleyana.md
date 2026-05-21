@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hu, Q.M. (1994). "Primula in Flora of China." Science Press, Beijing.
-  - Richards, J. (2003). Primula. Timber Press, Portland, Oregon.
-  - Chen, S.C. & Hu, Q.M. (1990). "A revision of Primula section Proliferae." Bulletin of the Missouri Botanical Garden, 78, 1–84.
-  - Wendelbo, P. (1961). "A monograph of the genus Primula L." Det Norske Videnskaps-Akademi, Matematisk-Naturvitenskapelig Klasse, Skrifter, 3, 1–163.
   - Cullen, J. (1976). "Primula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4, Cambridge University Press.
 ---
 

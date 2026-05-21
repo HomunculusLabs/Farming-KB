@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kukkonen, I. (1990). "Schoenoplectus (Rchb.) Palla." In: Flora Europaea, Vol. 5, pp. 284-287. Cambridge University Press.
-  - Haslam, S.M. (1978). River Plants. Cambridge University Press, pp. 164-182.
-  - Browning, J. & Gordon-Gray, K.D. (1999). "A contribution to the taxonomy of Schoenoplectus lacustris and S. tabernaemontani (Cyperaceae) in Africa." kanna-sceletium-south-african-narcotic Journal of Botany, 65(3), 205-209.
-  - Vymazal, J. (2011). "comparison-constructed-wetlands-vs-bioswales for mollison-designers-wastewater-treatment-wetlands: five decades of experience." Environmental Science & Technology, 45(1), 61-69.
   - Rodewald-Rudescu, L. (1974). Das Schilfrohr (Phragmites communis Trin.). Die Binnengewässer, Band 27. Schweizerbart.
 ---
 

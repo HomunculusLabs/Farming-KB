@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - Finn CE et al. (2008). "Black raspberry." In: Horticultural Reviews 34. Wiley.
   - Dossett M et al. (2010). " America. It
 produces small, dark purple to black berries with an intense, sweet-
 tart flavor.

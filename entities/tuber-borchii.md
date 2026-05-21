@@ -18,10 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ceruti A, Fontana A, Nazzaro F (2003). "Morphological and Molecular Characterization of Tuber borchii." Mycotaxon 87: 387–394.
-  - Mello A, Murat C, Bonfante P (2006). "Tuber borchii Vittad., an Ecotype of Tuber borchi?" FEMS Microbiology Letters 255(1): 1–6.
-  - Zambonelli A, Iotti M, Murat C (2015). "True Truffle (Tuber spp.) in the World." Soil Biology 39: 1–236. Springer.
-  - Paolocci F, Rubini A, Riccioni C, Topini F, Arcioni S (2004). "Tuber aestivum and Tuber uncinatum: Two Morphotypes or Two Species?" FEMS Microbiology Letters 235(1): 109–115.
   - Benucci GMN, Raggi L, Albertini E, Greco C, Balsamo R, Falzoi L (2011). "Tuber borchii: Genetic Diversity, Population Structure, and Mating System." Mycorrhiza 21(6): 517–526.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Vander Kloet, S.P. (1980). "The taxonomy of Symphoricarpos (Caprifoliaceae)." SIDA, Contributions to Botany, 8(3), 165-192.
-  - Knapp, E.E. & Dyer, A.R. (1998). "psilocybin-north-america-pacific-northwest Coast." Lone Pine Publishing.
-  - USDA NRCS (2023). "Symphoricarpos albus plant guide." Natural Resources Conservation Service, Washington, D.C.
   - Brinker, F. (1998). "Antiviral activity of Symphoricarpos albus constituents." Journal of Ethnopharmacology, 62(1), 51-58.
 ---
 

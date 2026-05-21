@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kozlowski R.M. (2012). "Handbook of Natural Fibres." Woodhead Publishing.
-  - Liu Y. (2018). "Ramie (Boehmeria nivea) production and utilization."
-  - Chen J. et al. (2017). "Antioxidant and anti-inflammatory activities of ramie leaf."
-  - Kirby R.H. (1963). "Vegetable Fibres: Botany, Cultivation, and Utilization."
   - Wang H. et al. (2020). "Phytochemistry and pharmacology of Boehmeria nivea."
 ---
 

@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ross, I.A. (2001). Medicinal Plants of the World: guzman-magic-mushrooms-chemical-constituents, Traditional and Modern Medicinal Uses. Humana Press.
-  - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Morton, J.F. (1987). "Roselle (zingiber-officinale Roscoe)." Phytotherapy Research, 19(11), 1-6.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Richards, J. (2003). "Primula." Timber Press, Portland, OR.
-  - Hu, C.M. & Kelso, S. (1996). "Primulaceae." In: Flora of China, Vol. 15. Science Press, Beijing.
-  - RHS (2025). "Primula pulverulenta." Royal Horticultural Society Plant Finder.
   - Wilson, E.H. (1913). "A Naturalist in Western China." Methuen & Co., London.
 ---
 

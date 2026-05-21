@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wagner, W.L. et al. (1999). "Manual of the Flowering Plants of Hawaii." University of Hawaii Press.
-  - Whistler, W.A. (1992). "Polynesian Herbal Medicine." National Tropical Botanical Garden.
-  - Hinkle, M. (2007). "Cordyline fruticosa: a comprehensive review of ethnobotany, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 111(1), 1-15.
-  - Toyama, H. (2006). "Cordyline terminalis in Hawaiian culture." Pacific Science, 60(1), 37-51.
   - Elevitch, C.R. (2006). "Specialty Crops for Pacific Island Agroforestry." Permanent Agriculture Resources.
 ---
 

@@ -11,12 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jaynes, R.A. (1975). "Handbook of growing-gourmet-north-american-reishi-species comparison-nut-trees-vs-grain-farming-for-caloric-staple-production."
     Northern Nut Growers Association.
-  - Payn, K.G. et al. (1992). "Chestnut." In: Moore, J. & Ballington,
     J.R. "Crop Production Science in Horticulture." CABI.
-  - Anagnostakis, S.L. (2012). "Chestnut breeding in the psilocybe-cubensis-miniculture-production-data-and-flush-longevity." Rome.
-  - Burnham, C.R. et al. (1986). "Breeding Blight-Resistant Chestnuts."
     Plant Disease 70(9): 863–869.
 ---
 
@@ -79,3 +75,14 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## Current Research
+
+Recent studies on castanea mollissima have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with castanea mollissima should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

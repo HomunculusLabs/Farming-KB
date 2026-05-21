@@ -48,7 +48,7 @@ Chaga is renowned for its exceptional antioxidant profile:
 
 ### Blood Sugar Regulation
 - Reduces blood glucose levels in diabetic animal models.
-- Inhibits alpha-glucosidase enzyme, slowing [[carbohydrate]] absorption (similar to some diabetes drugs).
+- Inhibits alpha-glucosidase enzyme, slowing carbohydrate absorption (similar to some diabetes drugs).
 - Protects pancreatic beta cells from oxidative damage.
 
 ### Skin Health
@@ -114,7 +114,7 @@ This is critical — chaga is extremely slow-growing:
 - Take no more than 20-30% of the visible conk. Leave the majority to continue growing and allow the tree to survive.
 - Leave at least 2-3 inches of chaga attached to the tree.
 - Never harvest from the same tree more than once every 3-5 years.
-- Do not harvest the rare sterile conk from trees that also show fruiting bodies ([[inonotus-obliquus]] fruiting bodies indicate the tree is dying).
+- Do not harvest the rare sterile conk from trees that also show fruiting bodies (Inonotus obliquus fruiting bodies indicate the tree is dying).
 
 ## Sustainability Concerns
 

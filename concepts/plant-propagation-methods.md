@@ -9,7 +9,7 @@ sources: []
 
 # Plant Propagation Methods
 
-[[permaculture-plant-propagation-guide]] is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
+Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 
 ## Seed Propagation
 
@@ -28,7 +28,7 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 
 ### Seed Treatment Methods
 
-- **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, [[pawpaw]], many native perennials.
+- **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
 - **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower.
 - **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
 
@@ -41,7 +41,7 @@ Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and
 - Cut 3-6 inch sections just below a node
 - Remove lower leaves, keep 2-3 leaves at the top
 - Dip the cut end in rooting hormone (optional for easy-to-root species)
-- Insert into moist rooting medium ([[perlite]], [[vermiculite]], or 50/50 peat-perlite)
+- Insert into moist rooting medium (perlite, vermiculite, or 50/50 peat-perlite)
 - Cover with a humidity dome or plastic bag to maintain high humidity
 - Keep in bright, indirect light at 65-75°F
 - Roots form in 2-4 weeks; test by gently tugging
@@ -64,7 +64,7 @@ Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and
 
 Sections of root that produce new shoots. Works for species that naturally sucker.
 
-- Best for: [[comfrey]], horseradish, oriental poppies, blackberries, raspberries, elderberry
+- Best for: comfrey, horseradish, oriental poppies, blackberries, raspberries, elderberry
 - Take 2-4 inch root sections in late fall or early spring during dormancy
 - Plant horizontally 2 inches deep in pots or nursery beds
 - Keep moist; shoots emerge in 4-8 weeks
@@ -147,3 +147,7 @@ Similar to simple layering but the tip of the branch is buried.
 5. Sever and transplant the following season
 
 **Best for**: blackberries, raspberries, trailing blackberry varieties
+## See Also
+
+- [[hamilton-vegetative-propagation]]
+- [[cannabis-propagation-techniques]]

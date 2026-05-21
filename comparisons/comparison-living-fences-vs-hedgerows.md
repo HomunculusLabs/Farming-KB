@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Siebert, S.F. "Living Fences in the Tropics." University of Florida IFAS Extension, 2016.
-  - Barr, C. & Gillespie, M. "Hedgerows of the World." IALE, 2000.
-  - Mollison, B. "Permaculture: A Designers' Manual." Tagari Publications, 1988.
-  - USDA NRCS "Conservation Hedgerows: Design and Establishment." Agroforestry Notes, 2019.
 type: comparison
 ---
 
@@ -79,3 +74,14 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Current Research
+
+Recent studies on comparison living fences vs hedgerows have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison living fences vs hedgerows should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

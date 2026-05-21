@@ -17,7 +17,6 @@ updated: 2026-04-28
 sources:
   - Linnaeus C. (1753) Species Plantarum
   - Peck CH. (1889) Report of the State Botanist
-  - Cotter HV et al. (2014) The antibiotic agaric of the ancients
   - wiki/raw/papers/ (mycological and ethnopharmacological references)
 ---
 

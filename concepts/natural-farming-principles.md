@@ -10,10 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and
     Practice of Green Philosophy*. 1985.
-  - Fukuoka, Masanobu. *The One-Straw Revolution*. Rodale Press, 1978.
 related_concepts:
   - fukuoka-natural-farming-philosophy
   - permaculture

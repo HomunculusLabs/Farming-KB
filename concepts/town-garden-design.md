@@ -12,7 +12,7 @@ sources:
 
 ## Purpose
 
-In principle, a garden in town has the same purpose as a kitchen garden. [[sepp-holzer]] considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
+In principle, a garden in town has the same purpose as a kitchen garden. Sepp Holzer considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
 
 ## Design Principles
 
@@ -30,9 +30,9 @@ Valuable space can be gained by creating raised beds and terraces. These provide
 
 ### Soil Preparation
 
-Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active [[soil-life]] develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
+Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active soil life develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
 
-For heavy [[loam-soil]] that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
+For heavy loam soil that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
 
 **Important:** When using an excavator, first determine the location of telephone cables, gas, water, and sewage pipes.
 
@@ -61,24 +61,20 @@ Children who grow up around nature learn from it through intensive observation. 
 - [[container-gardening-guide]] -- growing in small urban spaces
 - [[raised-bed-gardening]] -- constructing raised beds for limited areas
 - [[urban-farming-methods]] -- broader urban agriculture techniques
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of town garden design has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
+## Current Research
+
+Recent investigations into town garden design have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with town garden design spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

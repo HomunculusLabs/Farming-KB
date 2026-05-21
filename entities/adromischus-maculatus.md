@@ -10,8 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Tölken, H.R. (1978). "New combinations in Adromischus." Bothalia, 12(3): 375-384.
-  - Van Jaarsveld, E.J. (2002). "Cultivation of Adromischus Species." Aloe, 39(2): 22-28.
   - Pilbeam, J. (2002). "The Genus Adromischus." The Cactus and Succulent Journal, 74(3): 130-138.
 ---
 

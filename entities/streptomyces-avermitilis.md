@@ -15,19 +15,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ikeda, H. et al. (2003). "Complete genome eleusinian-initiation-ritual-sequence-and-comparative-mysteries analysis
     of the industrial microorganism Streptomyces avermitilis." Nature
     Biotechnology, 21(5), 526-531.
-  - Ōmura, S. & Crump, A. (2004). "The life and times of ivermectin." Nature
     Reviews Microbiology, 2(12), 984-989.
-  - Burg, R.W. et al. (1979). "Avermectins, new family of potent
     anthelmintic agents." Antimicrobial Agents and Chemotherapy, 15(3),
     361-367.
-  - Crump, A. & Ōmura, S. (2011). "Ivermectin, 'wonder drug' from Japan."
     Proc. Japan Academy, Series B, 87(2), 13-28.
-  - Cully, D.F. et al. (1994). "Cloning of an avermectin-sensitive
     glutamate-gated chloride channel from C. elegans." Nature, 371, 707-711.
-  - Campbell, W.C. (2012). "History of avermectin and ivermectin." In:
     Ivermectin and Abamectin, Springer.
 ---
 

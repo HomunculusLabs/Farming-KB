@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Windham, M.D. (1993). "Pellaea." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2. Oxford University Press.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
-  - USDA NRCS (2024). "Pellaea atropurpurea Plant Profile." plants.usda.gov.
   - Gastony, G.J. & Yatskievych, G. (1992). "Maternal inheritance of the chloroplast genome in Pellaea." American Journal of Botany, 79(7), 721–726.
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Vitikainen, O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere. It grows predominantly on soil, moss, and occasionally on rock in open, well-lit habitats.
 ---
 

@@ -10,7 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - file: masanobu-fukuoka-the-road-back-to-nature.md
     author: Masanobu Fukuoka
 type: concept

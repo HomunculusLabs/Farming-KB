@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Harlan, J.R. & de Wet, J.M.J. (1969). "Sources of variation in Cynodon dactylon (L.) Pers." brassinosteroid-anti-stress-effects-crop-science, 9(6), 774–778.
-  - Burton, G.W. & Hanna, W.W. (1985). "Bermudagrass." In M.E. Heath et al. (eds.), "Forages: The Science of Grassland Agriculture." 4th ed., Iowa State University Press.
-  - Taliaferro, C.M. et al. (2004). "Bermudagrass." In L.E. Moser et al. (eds.), "Warm-Season (C4) Grasses." ASA, CSSA, SSSA.
   - Shoval, I. (2000). "Cynodon dactylon as a successful weed: a review." Weed Technology, 14(3), 589–597.
 ---
 

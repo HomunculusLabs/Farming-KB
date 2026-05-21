@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---# Carbon-Nitrogen Ratios and Soil Organic Matter
 

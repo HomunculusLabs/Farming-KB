@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Kushi Mints Weed Strain Information." Leafly.com.
-  - AllBud (2024). "Kushi Mints blesching-cannabis-strain-selection-receptor-targeting Review." AllBud.com.
-  - Cookies Genetics breeding records, Bay Area, California.
-  - Phylos Bioscience (2023). "Cannabis Genetic Diversity Report." Phylos Galaxy.
-  - Weedmaps (2024). "Kushi Mints Strain Overview." Weedmaps.com.
 created: 2026-04-28
 ---
 

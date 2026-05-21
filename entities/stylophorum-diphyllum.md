@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden Press.
   - Moerman, D.E. (1998). Native polypore-fungi-eastern-north-america, occurring primarily in the Ohio River Valley and southern Great Lakes region.
 ---
 

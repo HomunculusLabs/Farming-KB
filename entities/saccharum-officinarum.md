@@ -11,8 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - James, N.T. (2004). "Sugarcane." Wiley-Blackwell.
-  - Moore, P.H. & Botha, F.C. (2014). "Sugarcane: Physiology, Biochemistry, and Functional Biology." Wiley.
-  - Daniels, J. & Roach, B.T. (1987). "Taxonomy and Evolution." In Heinz, D.J. (ed.), Sugarcane Improvement Through Breeding. Elsevier.
   - FAO (2023). "FAOSTAT: Sugarcane Production Data." Food and Agriculture Organization.
 ---
 

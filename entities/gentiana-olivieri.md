@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L. & Albert, V. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Davis, P.H. (1978). "Flora of Turkey and the East Aegean Islands, Vol. 6." Edinburgh University Press.
-  - Kew Royal Botanic Gardens. "Gentiana olivieri." Plants of the World Online. https://powo.science.kew.org/
   - Öztürk, M. et al. (2011). "Bitter compounds in Turkish Gentiana species." Pharmaceutical Biology 49(1): 42–48.
 ---
 

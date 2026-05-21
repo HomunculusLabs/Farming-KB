@@ -11,17 +11,17 @@ sources: []
 
 ## Overview
 
-[[lysergic-acid-diethylamide]] (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist [[albert-hofmann]] in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
+Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
 
 This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals.
 
 ## Discovery by Albert Hofmann
 
 ### The Context
-In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the [[ergot-fungus]] ([[claviceps-purpurea]]) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of [[lysergic-acid]].
+In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus (Claviceps purpurea) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid.
 
 ### LSD-25
-On November 16, 1938, Hofmann synthesized the 25th compound in his [[lysergic-acid-amide]] series: lysergic acid diethylamide, or LSD-25. Initial pharmacological testing showed mild effects on uterine contractions in animals, and the compound was shelved as not particularly interesting.
+On November 16, 1938, Hofmann synthesized the 25th compound in his lysergic acid amide series: lysergic acid diethylamide, or LSD-25. Initial pharmacological testing showed mild effects on uterine contractions in animals, and the compound was shelved as not particularly interesting.
 
 ### The Bicycle Day
 On April 16, 1943, Hofmann decided to re-examine LSD-25. While resynthesizing it, he accidentally absorbed a small amount through his skin. He experienced:
@@ -42,10 +42,10 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 - **Psychosis research**: LSD was studied as a "psychotomimetic" — a drug that temporarily produces psychosis-like states
 - **Creativity**: Studies explored LSD's effects on creative problem-solving
 - **Pain management**: Research on LSD for terminal cancer patients, reducing anxiety about death
-- **Consciousness**: Early consciousness research and [[mystical-experience]] studies
+- **Consciousness**: Early consciousness research and mystical experience studies
 
 ### Key Researchers
-- **[[humphry-osmond]]**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
+- **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
 - **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
 - **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
 - **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
@@ -113,3 +113,10 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
+## See Also
+
+- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]
+- [[shirota-psilocin-psilocybin-synthesis]]
+- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
+- [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
+- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]

@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1964). "The active principles of the ergot fungus." In: The Discovery of LSD. McGraw-Hill.
-  - Schardl, C.L. et al. (2006). "Ergot alkaloids — biology and molecular biology." Alkaloids: Chemistry and Biology 63: 45–86.
-  - Wallwey, C. & Li, S.-M. (2011). "Ergot alkaloids: Structure diversity, biosynthetic gene clusters and functional proof." Current Opinion in Chemical Biology 15(2): 233–241.
-  - Gerhards, C. et al. (2014). "Genome mining reveals the biosynthetic gene cluster for festuclavine." Applied Microbiology and Biotechnology 98(8): 3593–3602.
 created: 2026-04-28
 ---
 

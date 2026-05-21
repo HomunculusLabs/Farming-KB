@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Paul Stamets - mycelium-running-conservation-biology-and-fungi
-  - National Center for Biotechnology Information (NCBI) Hericium studies
   - Journal of Neurochemistry - NGF synthesis studies
 ---
 

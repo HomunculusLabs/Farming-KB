@@ -42,7 +42,7 @@ The filamentous growth habit of fungi provides advantages in soil environments, 
 
 mycoremediation-of-petroleum-hydrocarbons
 
-[[cotter-mycoremediation-overview]]
+[[mycoremediation-overview]]
 
 fungal-petroleum-hydrocarbon-degradation-mechanisms
 ## Practical Considerations

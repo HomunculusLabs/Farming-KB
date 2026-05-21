@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Poelt J. (1969). "Bestimmungsschlüssel europäischer Flechten." Ergänzungsheft I. J. Cramer.
-  - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
-  - Nimis PL. (2016). "The Lichens of Italy — A Second Annotated Catalogue." Ettore Majorana Foundation.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
 ---
 

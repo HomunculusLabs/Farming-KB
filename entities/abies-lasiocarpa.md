@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hunt, R.S. (1993). "Abies lasiocarpa." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 2. Oxford University Press.
-  - Earle, C.J. (2024). "The Gymnosperm Database — Abies lasiocarpa." www.conifers.org.
-  - Kral, R. (1993). Pinaceae. In: Flora of North America Editorial Committee (eds.), Flora of North America North of Mexico, Vol. 2, pp. 316–389.
-  - Little, E.L. (1979). "A Checklist of United States Trees (Native and Naturalized)." USDA Agriculture Handbook No. 541.
   - Alexander, R.R., Shepperd, W.D. (1990). "Silvics of Rocky Mountain Forest Trees: Subalpine Fir." USDA Forest Service RM-229.
 ---
 

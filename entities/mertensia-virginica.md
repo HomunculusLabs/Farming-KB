@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cochrane, T.S. (2006). "Mertensia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 16.
-  - RHS (2024). "Mertensia virginica." Royal Horticultural Society Plant Finder.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern  and Adjacent Canada, 2nd ed. New York Botanical Garden.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of polypore-fungi-eastern-north-america and is among the most recognizable wildflowers of eastern deciduous forests.
 ---he plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
 
@@ -80,3 +77,5 @@ Plants are hardy to USDA zones 3–8 and require no special winter care. They to
 The species is best propagated by division of dormant root sections in late summer or by seed sown fresh in autumn. Seeds require cold stratification for 60–90 days to germinate reliably.
 
 Companion plantings include ferns, hostas, and other shade perennials that fill the gap left when bluebells go dormant. Interplanting with late-emerging species maintains garden interest through summer.
+Further research into mertensia virginica continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind mertensia virginica provides a foundation for both practical application and continued scientific inquiry.

@@ -6,9 +6,6 @@ tags: [chemical, phenylpropene, terpene-phenolic, analgesic, anti-inflammatory, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Eugenol.\" PubChem Compound Summary, NCBI. https://pubchem.ncbi.nlm.nih.gov/compound/Eugenol"
-  - "Pramod, K. et al. (2010). \"Eugenol: A natural compound with versatile pharmacological actions.\" Natural Product Communications, 5(12), 1999-2006."
-  - "Kaufmann, S.H. et al. (2000). \"Eugenol and capsaicin effects on ion channels.\" Pain, 88(3), 267-274."
   - "Mulyaningsih, S. et al. (2010). \"Antimicrobial activity of eugenol.\" Fitoterapia, 81(7), 827-831."
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rasanen, L. & Kärenlampi, L. (1980). "A comparative study on the ecology of Vaccinium uliginosum in northern Finland." Annales Botanici Fennici, 17, 253-261.
-  - Lätti, A.K., Riihinen, K.R. & Kainulainen, P.S. (2008). "Analysis of anthocyanin variation in wild populations of Vaccinium uliginosum." Food Chemistry, 107(3), 1042-1049.
-  - Hagerman, A.E. (1995). "Tannin Chemistry." Department of Chemistry, Miami University.
-  - Jaakola, L. & Hohtola, A. (2010). "Effect of latitude on flavonoid biosynthesis in plants." Plant, Cell & Environment, 33(8), 1239-1247.
   - USDA NRCS (2024). "Vaccinium uliginosum Plant Guide." Natural Resources Conservation Service.
 ---
 

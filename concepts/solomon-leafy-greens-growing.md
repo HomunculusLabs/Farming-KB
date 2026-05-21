@@ -5,7 +5,6 @@ updated: 2026-04-26
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 

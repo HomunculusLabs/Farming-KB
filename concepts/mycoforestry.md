@@ -10,7 +10,7 @@ sources:
 
 # Mycoforestry
 
-Using fungi to restore, protect, and enhance forests. One of the four branches of [[mycorestoration]]. From Chapter 6 of *Mycelium Running* by [[paul-stamets]].
+Using fungi to restore, protect, and enhance forests. One of the four branches of [[mycorestoration-overview]]. From Chapter 6 of *Mycelium Running* by [[paul-stamets]].
 
 ## The Problem
 
@@ -98,7 +98,7 @@ Stamets' key argument: "You cannot harvest 3 generations of trees from the same 
 
 ## See Also
 
-- [[mycorestoration]] for the broader framework
+- [[mycorestoration-overview]] for the broader framework
 - [[mycofiltration-overview]] for road reclamation methods
 - [[mycorrhizal-networks]] for the science of fungal-tree partnerships
 - [[fungal-ecology]] for decomposition science

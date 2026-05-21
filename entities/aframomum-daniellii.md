@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Okigbo, R.N. & Mmeka, E.C. (2006). "Antimicrobial potentials of Aframomum daniellii." Journal of Herbs, Spices and Medicinal Plants.
-  - Fowomola, A.A. (2003). "Nutritional and anti-nutritional composition of Aframomum daniellii seeds." Journal of Food Science and Technology.
-  - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. E&S Livingstone.
   - Menzies, I.S. et al. (2004). "permaculture-designers-manual-essential-oil-plants composition of Aframomum species." Phytochemistry.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tucker, G.C. (1994). "Cyperus L." In: Flora huckleberries-and-wild-berries-of-north-america, Vol. 23. Oxford University Press.
-  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
   - Godfrey, R.K. & Wooten, J.W. (1979). guzman-caribbean-neurotropic-fungi-species-distribution of disturbed habitats, wetlands, and agricultural areas across its range.
 ---
 

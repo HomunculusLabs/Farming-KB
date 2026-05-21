@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hauke, R.L. (1993). "Equisetaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - USDA NRCS. "Equisetum variegatum Schleich. ex F.Weber & D.Mohr." PLANTS Database.
   - Jermy, A.C. & Camus, J.M. (1991). "The Illustrated Field Guide to Ferns and Allied Plants." Natural History Museum Publications.
 ---
 

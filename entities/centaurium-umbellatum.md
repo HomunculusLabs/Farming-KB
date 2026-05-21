@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Melderis, A. (1972). "Centaurium." In Tutin, T.G. et al. (eds.), Flora Europaea 3: 56–58. Cambridge University Press.
-  - Schöner, C. & Reif, H. (1996). "Phytochemistry of Centaurium Species." Phytochemistry 42: 637–643.
   - Boucaud-Maitre, D. et al. (2019). "Secoiridoids from Centaurium umbellatum." Journal of Natural Products 82: 1121–1128.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Compton, J.A. et al. (1998). "Phylogeny of Actaea (Ranunculaceae) based on morphology and nuclear ribosomal DNA." Systematic Botany, 23(3), 369–385.
-  - Foster, S. (2013). "Black Cohosh: Actaea racemosa, A Literature Review." HerbalGram, 98, 1–15.
-  - Mahady, G.B. (2005). "Black cohosh (Actaea racemosa, Cimicifuga racemosa): review of the clinical data for safety and efficacy." Menopause, 12(1), 104–108.
-  - USDA NRCS. "Actaea racemosa L. — black cohosh." PLANTS Database.
   - Low Dog, T. et al. (2003). "Black cohosh (Cimicifuga racemosa) for menopausal symptoms." Menopause, 10(4), 299–313.
 ---
 

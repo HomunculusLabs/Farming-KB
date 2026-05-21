@@ -5,7 +5,6 @@ tags: [comparison, water-harvesting, permaculture, earthworks, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 ## Dam Construction vs Swale Design

@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Log Cultivation
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 
 # Mushroom Log Cultivation
 
-Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and [[medicinal-mushrooms]] over multiple years with minimal infrastructure.
+Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and medicinal mushrooms over multiple years with minimal infrastructure.
 
 ## Log Selection
 
@@ -31,7 +32,7 @@ Best species for log cultivation are dense hardwoods with intact bark:
 - **Oak** (Quercus spp.) -- gold standard for shiitake; long-lasting, slow decay
 - **Maple** (Acer spp.) -- good for oyster, shiitake, and lion's mane
 - **Beech** (Fagus spp.) -- excellent for shiitake and maitake
-- **Sweetgum** ([[liquidambar-styraciflua]]) -- suitable for oyster species
+- **Sweetgum** (Liquidambar styraciflua) -- suitable for oyster species
 - Other options: alder, poplar, cottonwood, ironwood, birch
 
 Avoid conifers (resin inhibits mycelium), dead/dying trees (competing fungi already established), and species with paper-thin bark (rapid decomposition). Logs should be 4-8 inches diameter and 3-4 feet long.
@@ -43,7 +44,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 ## Inoculation Process
 
 1. **Drill** holes in a diamond pattern (2 inches apart, 1 inch deep), using 5/16" bit for plug spawn or larger for sawdust
-2. **Fill** each hole with spawn (plug spawn hammered in, or [[sawdust-spawn]] packed with inoculation tool)
+2. **Fill** each hole with spawn (plug spawn hammered in, or sawdust spawn packed with inoculation tool)
 3. **Wax** each hole immediately with food-grade cheese wax or beeswax to seal moisture and exclude contaminants
 4. Also wax the cut ends of the log
 
@@ -51,8 +52,8 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 - **Plug spawn** -- wooden dowels colonized with mycelium; easiest for beginners, hammered into drilled holes
 - **Sawdust spawn** -- sterilized sawdust inoculated with mycelium; faster colonization, higher yields, requires inoculation tool
-- **[[grain-spawn]]** -- not recommended for outdoor logs (attracts pests, vulnerable to contamination)
-- **[[liquid-spawn]]** -- labor-saving for large operations; applied via specialized inoculator
+- **Grain spawn** -- not recommended for outdoor logs (attracts pests, vulnerable to contamination)
+- **Liquid spawn** -- labor-saving for large operations; applied via specialized inoculator
 
 ## Spawn Run Conditions
 
@@ -69,7 +70,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 - **Soaking (force fruiting):** Submerge colonized logs in cold water for 12-24 hours, then rest in shade. Japanese growers call this "soak and strike." Triggers fruiting by simulating rainfall + temperature drop
 - **Natural fruiting:** Occurs in response to seasonal rain, temperature shifts (especially fall), and humidity changes
-- Maitake forms primordia in enclosed bags, requiring bag opening for [[fruiting-body-development]]
+- Maitake forms primordia in enclosed bags, requiring bag opening for fruiting body development
 
 ## Species by Log Type
 

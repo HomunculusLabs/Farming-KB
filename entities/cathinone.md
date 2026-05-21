@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kalix, P. (1992). "Pharmacological properties of the stimulant khat." Pharmacology & Therapeutics, 56(2), 197-216.
-  - Glennon, R.A. et al. (1987). "Evidence for 5-HT2 involvement in the mechanism of action of hallucinogenic agents." Life Sciences, 40(19), 1949-1956.
-  - UNODC (2023). "World Drug Report." United Nations Office on Drugs and Crime.
   - EMCDDA (2022). "Khat Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
 ---
 

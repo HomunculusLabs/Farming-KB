@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kovanda, M. (1970). "Polyploidy and Variation in the campanula-rotundifolia Complex." Preslia, 42, 222–236.
-  - Fedorov, A.A. & Kovanda, M. (1976). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Shetekauri, S. & Gagnidze, R. (2005). "Campanulaceae of the Caucasus." Bulletin of the Georgian National Academy of Sciences.
   - Richards, A.J. (1997). Plant Breeding Systems, 2nd ed. Chapman & Hall.
 ---
 

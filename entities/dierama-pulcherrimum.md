@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hilliard, O.M. & Burtt, B.L. (1991). "Dierama: The Hairbells of Africa." Timber Press.
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora." Strelitzia 9.
   - Royal Horticultural Society. "Dierama pulcherrimum." RHS Plant Finder. rhs.org.uk.
 ---
 

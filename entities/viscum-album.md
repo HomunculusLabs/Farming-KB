@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Urech, K. et al. (2005). \"Preparation of Viscum album L. extracts: Optimized methods for the manufacture of standardized preparations.\" Planta Medica, 71(10), 925-930."
-  - "Hübner, J. & Mürl, G. (2006). \"Mistletoe extracts in oncology: An overview of the evidence.\" Journal of psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Viscum album L.: A review.\" Natural Product Communications, 12(7), 1123-1132."
   - "Büssing, A. (2000). Mistletoe: The Genus Viscum. Harwood Academic Publishers."
 ---
 

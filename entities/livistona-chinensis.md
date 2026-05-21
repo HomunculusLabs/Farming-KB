@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Kew Publishing, Royal Botanic Gardens.
-  - Dowe, J.L. (2009). "A taxonomic account of Livistona R.Br. (Arecaceae)." Kew Bulletin 64(1): 65–85.
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
-  - International Union for Conservation of Nature (IUCN). "Livistona chinensis." The IUCN Red List of Threatened Species.
   - USDA Natural Resources Conservation Service. "Livistona chinensis (Jacq.) R.Br. ex Mart." PLANTS Database.
 ---
 

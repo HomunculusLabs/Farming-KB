@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Frankis, M.P. (2024). "Abies procera." In: Gymnosperm Database. www.conifers.org.
-  - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics psilocybin-north-america-pacific-northwest, where it grows at high elevations.
 ---
 

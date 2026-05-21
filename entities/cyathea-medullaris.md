@@ -12,10 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Large MF, Braggins JE (2004). "Tree Ferns." Timber Press.
-  - Korall P, Pryer KM, Metzgar JS, Schneider H, Conant DS (2006). "Tree ferns: relationships and evolution." Molecular Phylogenetics and Evolution 39(3): 737-755.
-  - New Zealand Plant Conservation Network (2024). "Cyathea medullaris." NZPCN.
-  - Dawson JW (1988). "Forest Vines to Snow Tussocks." Victoria University Press.
   - Brooker SG, Cambie RC, Cooper RC (1987). "Economic Native Plants of New Zealand." DSIR Bulletin.
 ---
 

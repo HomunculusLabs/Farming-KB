@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Product Reports.
-  - Joubran, J. et al. (2003). "Determination of N,N-dimethyltryptamine in Acacia confusa." Journal of Forensic Sciences, 48(5).
-  - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - W.H. Hocking (1993). "Acacia confusa Merr.: A psilocybe-southeast-asia-pacific and the first-pass-metabolism-and-oral-bioavailability of DMT.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Chen, T. et al. (2010). "Cercis chinensis Bunge (Fabaceae): A Review of Its Botany, Phytochemistry, and Pharmacology." Pharmaceutical Crops, 1, 43-50.
-  - Fu, L.K. & Chen, T. (2008). "Cercideae." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China, Vol. 10, Fabaceae. Science Press/Missouri Botanical Garden.
-  - Valentine, D.H. (1962). "The Taxonomy and Biosystematics of Cercis." Journal of the Arnold Arboretum, 43(4), 471-489.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants: Their Identification, Ornamental Characteristics, Culture, Propagation and Uses." 6th ed. Stipes Publishing.
   - Duke, J.A. & Ayensu, E.S. (1985). "Medicinal Plants of China." Reference Publications.
 ---
 

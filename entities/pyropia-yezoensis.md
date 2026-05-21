@@ -12,7 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Miura, A. (1975). "Porphyra cultivation in Japan." In: Tokida, J. & Hirose, H. (eds.), Advances of Phycology in Japan. Junk Publishers.
   - Niwa, K. (2010). "Genetic analysis of artificial hybrids between Pyropia yezoensis and bloomfield-fungal-life-cycle-spiral-versus-circle alternating between a microscopic filamentous conchocelis phase and a macroscopic leaf-like gametophytic phase. Only the gametophyte is harvested for food production.
 ---
 

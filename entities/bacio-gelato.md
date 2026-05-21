@@ -22,8 +22,6 @@ aliases:
   - Bacio Gelato #41
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Leafly Staff (2024). "Bacio Gelato Weed Strain Information." Leafly.com.
-  - AllBud (2024). "Bacio Gelato Strain Review." AllBud.com.
   - Cookies Brand (2023). "Gelato blesching-cannabis-strain-selection-receptor-targeting from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross (girl-scout-cookies Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
 ---
 

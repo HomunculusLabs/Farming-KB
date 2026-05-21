@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis Therapeutic Index Overview
 
-The [[cannabis-health-index]] (CHI) by [[uwe-blesching]] provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
+The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
 
 ## Evidence Grading System
 
@@ -71,10 +71,12 @@ The therapeutic index emphasizes that whole-plant cannabis often outperforms iso
 - [[cannabis-for-chronic-pain]] — for pain management specifics
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific evidence
 - [[cannabis-thc-therapeutic-profile]] — for THC-specific evidence
+## Current Research
 
-## Practical Applications
+Recent studies on cannabis therapeutic index overview have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
+## Practical Considerations
+
+Practitioners working with cannabis therapeutic index overview should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

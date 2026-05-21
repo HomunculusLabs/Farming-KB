@@ -1,4 +1,5 @@
 ---
+
 title: Vegetable Garden Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -132,18 +133,19 @@ If you can crumble a soil ball with your fingers, it is ready to plant. If it cl
 6. Use commercial sprays/dusts as directed, covering undersides of leaves
 
 ## Frost Protection
+
+Cover tender crops (tomatoes, peppers, eggplants) with cardboard boxes, blankets, hot caps, fabric row covers, or newspaper tents. Do not let covers touch plants. Never use metal or plastic sheets (conduct cold). Remove covers in morning.
+
+## Harvest and Storage
+
+Detailed harvest timing and storage conditions for all 25+ crops, organized by storage category (cold/moist, cool/dry, warm/dry, warm/moist) and crop type (root vegetables, cole crops, greens, legumes, vine crops, fruiting vegetables). See [[vegetable-garden-harvest]] for the complete guide.
+
+## Season End
+
+- Clean, repair, and sharpen tools; store dry
+- Wipe metal blades with oily rag to prevent rust
+- Drain fuel and oil from power tools
+- Store pesticides safely, protected from temperature extremes
+
 ## See Also
-
-- [[vegetable-garden-fertilization]] — Complete fertilization program, pH adjustment, organic matter
-- [[vegetable-garden-harvest]] — Harvest timing and storage conditions by crop
-- [[companion-planting-reference]] — Beneficial plant pairings
-- [[seed-saving-techniques]] — Saving seeds from open-pollinated varieties
-- [[mulching-guide]] — Detailed mulching techniques
-- [[soil-testing]] — Soil analysis methods
-- [[interpreting-soil-test-results]] — Understanding soil test reports
-- [[seasonal-planning]] — Year-round garden planning
-
-## Related
-
-- [[vegetable-growing-guide]]
-- [[garden-soil-basics]]
+- [[clay-soil-management-vegetable-garden-solomon]]

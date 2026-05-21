@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Lal, R. (2020). Regenerative agriculture for food and climate. *Journal of Soil and Water Conservation*, 75(5), 123A–124A."
-  - "Lehmann, J. & Joseph, S. (2015). *Biochar for Environmental Management: Science, Technology and Implementation*. 2nd ed. Routledge."
-  - "Laird, D. A., Fleming, P., Wang, B., Horton, R., & Karlen, D. (2010). Biochar impact on nutrient leaching in a Midwestern agricultural soil. *Soil Science Society of America Journal*, 74(2), 517–524."
-  - "Fuchs, M., & Stahr, K. (2017). Humus build-up and yields of raised beds on sand with compost, charcoal and biochar. *Journal of Plant Nutrition and Soil Science*, 180(1), 30–41."
-  - "Whitman, T., & Lehmann, J. (2009). Biochar—One way forward for soil carbon in the tropics. *Environmental Science & Technology*, 43(11), 4244–4249."
   - "Gurwick, N. P., Moore, L. A., Kelly, C., & Elias, P. (2013). A systematic review of biochar research, with a focus on its stability in situ and predictions of its maximum potential to mitigate climate change. *Environmental Science & Technology*, 47(20), 11572–11582."
 ---
 

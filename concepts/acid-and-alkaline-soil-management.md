@@ -75,6 +75,6 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
-- [[soil-conditioners-guide]] — organic materials that help modify [[soil-ph]]
-
-These developments continue to influence modern research and practice in this field.
+- [[soil-conditioners-guide]] — organic materials that help modify soil pH
+Further research into acid and alkaline soil management continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind acid and alkaline soil management provides a foundation for both practical application and continued scientific inquiry.

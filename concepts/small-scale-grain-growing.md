@@ -24,7 +24,7 @@ The most versatile homestead grain. Used for bread flour, pastry flour, flatbrea
 - Spacing: 1-2 inches between plants in rows 6-8 inches apart.
 
 ### Oats (Avena sativa)
-Excellent for human food (oatmeal, granola, flour) and animal feed. Good [[cover-crop]] option.
+Excellent for human food (oatmeal, granola, flour) and animal feed. Good cover crop option.
 
 - Spring oats: plant as soon as soil can be worked in spring.
 - Winter oats: less cold-hardy than winter wheat -- only viable in mild climates (zone 7+).
@@ -67,7 +67,7 @@ Grains are relatively undemanding but respond well to good soil preparation:
 Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small plots and cover cropping.
 
 ### Row Method (Drilled)
-Use a grain drill, [[earthway-seeder]], or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
+Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
 
 ### Seeding Rates (per 1,000 square feet)
 - Wheat: 1-2 pounds
@@ -128,4 +128,4 @@ Separating grain from chaff (the lightweight husks and debris):
 
 - [[saving-seeds]] -- save grain seed from your best plants for next year
 - [[beer-brewing-basics]] -- grow barley and wheat specifically for brewing
-- [[greenhouse-growing]] -- start grain seedlings early indoors in cold climates
+- [[greenhouse-growing-guide]] -- start grain seedlings early indoors in cold climates

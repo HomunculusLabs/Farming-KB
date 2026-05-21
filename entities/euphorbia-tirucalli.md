@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Carter, S. et al. (1988). "Euphorbia tirucalli." Kew Bulletin, 43(2): 261-270.
-  - Jägger, J. et al. (1996). "Tumor-promoting diterpene esters from Euphorbia tirucalli." Journal of Natural Products, 59(9): 872-875.
-  - Rzhepakovsky, I. et al. (2021). "Euphorbia tirucalli: a comprehensive review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 271: 113882.
   - World Conservation Monitoring Centre. Euphorbia tirucalli assessment.
 ---
 

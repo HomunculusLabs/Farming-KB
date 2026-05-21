@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1964). "Ranunculaceae." In: Flora Europaea, Vol. 1. Cambridge University Press.
-  - Compton, J.A. & Culham, A. (2002). "Phylogeny and circumscription of tribe Actaeeae (Ranunculaceae)." Systematic Botany, 27(3), 502-511.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists, Biologists." 2nd ed. Manson Publishing.
-  - Jäger, E.J. et al. (2017). "Rothmaler: Exkursionsflora von Deutschland." Springer Spektrum.
   - Wink, M. & van Wyk, B.E. (2008). "Mind-Altering and Poisonous Plants of the World." Timber Press.
 ---
 

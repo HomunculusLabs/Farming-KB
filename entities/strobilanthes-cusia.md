@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chen SL, et al. (2010). "Strobilanthes cusia: A Traditional Chinese Medicinal Plant." Journal of Ethnopharmacology.
   - Hsu HY. (1986). "Oriental psilocybe-southeast-asia-pacific." MIT Press.
 ---
 

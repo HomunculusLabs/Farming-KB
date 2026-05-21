@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Degen, Á. (1936). "Flora Velebitica." Magyar Tudományos Akadémia, Budapest.
-  - Royal Horticultural Society (2023). "Campanula poscharskyana." RHS Plant Finder. rhs.org.uk.
-  - IUCN (2023). "Campanula poscharskyana." European Red List of Vascular Plants.
   - Trinajstić, I. (1987). "Analitička flora Jugoslavije." Campanulaceae. Zagreb.
 ---
 

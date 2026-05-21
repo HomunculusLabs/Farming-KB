@@ -5,8 +5,6 @@ tags: [ethnobotany, mexico, psychedelics, indigenous-culture, sacred-mushrooms, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998). A worldwide  religious, divinatory, and healing ceremonies for
 centuries, possibly millennia. The rediscovery of these traditions by
 Western science in the mid-20th century, catalyzed by the work of R. Gordon
 Wasson, Roger Heim, and Rolf Singer, profoundly influenced both mycology and

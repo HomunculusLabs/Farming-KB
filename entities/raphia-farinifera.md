@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Otedoh, M.O. (1981). "A revision of the genus Raphia in Africa." Kew Bulletin 36(4): 631-677.
-  - Russell, T.A. (1965). "The Raphia palms of West Africa." Kew Bulletin 20(3): 481-493.
-  - Burkill, H.M. (1997). "The Useful Plants of West Tropical Africa." 2nd ed. Royal Botanic Gardens, Kew.
   - Dransfield, J. & Beentje, H.J. (1995). "The Palms of Madagascar." Royal Botanic Gardens, Kew.
 ---
 

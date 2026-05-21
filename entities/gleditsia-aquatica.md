@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1979). "Leguminosae of the dmt-containing-plants-united-states-halpern: Subfamily Mimosoideae." Memoirs of the New York Botanical Garden, 1(3), 1-152.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. 2nd ed. New York Botanical Garden.
-  - USDA NRCS. (2024). "Gleditsia aquatica." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=GLAQ
   - Godfrey, R.K. & Wooten, J.W. (1981). gleditsia-triacanthos*) but is distinguished by its preference for wetland habitats and its smaller, less formidable thorns. Water locust is found along riverbanks, swamps, and floodplain forests.
 ---
 

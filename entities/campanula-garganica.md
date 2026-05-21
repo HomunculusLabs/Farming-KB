@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A (1976). "Campanula L." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda M (1970). "Polyploidy and Variation in the Campanula garganica Group." Preslia, 42: 206–221.
-  - Royal Horticultural Society (2023). "Campanula garganica." RHS Plant Finder.
   - Eggenberg S, Möhl A (2013). Flora Vegetativa. Haupt Verlag, Bern.
 ---
 
@@ -79,3 +76,5 @@ Plants grown in deep shade produce fewer flowers and more elongated, sparse grow
 The flowers attract a range of pollinators including bees, hoverflies, and small butterflies. The open corolla shape allows access to nectar by short-tongued insects.
 
 Seed set is generally good in wild populations, with each capsule producing numerous minute seeds dispersed by wind through the basal pores. Germination rates are highest in freshly collected seed sown in autumn.
+Further research into campanula garganica continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind campanula garganica provides a foundation for both practical application and continued scientific inquiry.

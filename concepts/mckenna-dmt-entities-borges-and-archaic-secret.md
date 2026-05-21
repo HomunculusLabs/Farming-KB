@@ -17,7 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T (1992) "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness." In The mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained. HarperSanFrancisco. Originally delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen, December 1983.
 type: concept
 ---
 

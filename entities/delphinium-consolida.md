@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jabbour, F. & Renner, S.S. (2012). "A phylogeny of Delphinieae (Ranunculaceae) shows that Aconitum is nested within Delphinium and that Late Miocene transitions to long life cycles in the Himalayas and Southwest China coincide with bursts in diversification." Molecular Phylogenetics and Evolution, 62(3), 928–942.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants." 2nd ed. Timber Press.
-  - Tutin, T.G. et al. (1993). "Flora Europaea, Vol. 1." 2nd ed. Cambridge University Press.
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
   - Davis, P.H. (1965). "Flora of Turkey and the East Aegean Islands." Vol. 1. Edinburgh University Press.
 ---
 

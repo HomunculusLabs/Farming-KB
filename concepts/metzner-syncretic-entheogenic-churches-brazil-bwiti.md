@@ -12,8 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metzner, R. (1998). "hallucinogenic-drugs and Plants in hallucinogenic-drugs-in-psychotherapy-and-shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Grob, C.S. et al. (1996). "Human psychopharmacology of hoasca." J. Nervous & Mental Disease, 184(2), 86-94.
   - Fernandez, W.J. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa. Princeton University Press.
 ---
 

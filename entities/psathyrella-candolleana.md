@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Breitenbach, J. & Kränzlin, F. (1995). "Fungi of Switzerland," Vol. 4. Verlag Mykologia.
-  - Noordeloos, M.E. (2005). "Coprinaceae." Fungi Europaei, Vol. 10. Edizioni Candusso.
-  - Kits van Waveren, E. (1995). "The Genus Psathyrella." Persoonia Supplement.
   - Stamets, P. (2005). "Mycelium Running." Ten Speed Press.
 ---
 

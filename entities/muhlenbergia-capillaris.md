@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hitchcock, A.S. (1950). "Manual of the Grasses of the dmt-containing-plants-united-states-halpern." USDA Miscellaneous Publication No. 200.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Lemke, C. & Muir, J. (2014). "Native grasses for sustainable landscapes." Native Plants Journal, 15(1), 23-35.
   - Peck, J. (2014). "Native Plants of the Southeast." Timber Press.
 ---
 

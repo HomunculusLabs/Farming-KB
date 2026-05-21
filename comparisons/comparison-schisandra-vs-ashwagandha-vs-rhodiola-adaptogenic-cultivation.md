@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Winston, D. & Maimes, S. (2007). Adaptogens: Herbs for Strength, Stamina, and Stress Relief. Healing Arts Press.
-  - Panossian, A. & Wikman, G. (2010). "Effects of Adaptogens on the Central Nervous System." Current Clinical Pharmacology 5(2).
-  - Bone, K. & Mills, S. (2013). The Principles and Practice of Phytotherapy. Churchill Livingstone.
-  - Duke, J. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. CRC Press.
-  - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).created: 2026-05-07
 type: comparison
 
 created: 2026-05-07

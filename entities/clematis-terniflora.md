@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (2000). "Clematis: The Genus." Timber Press.
-  - USDA NRCS Plants Database. "Clematis terniflora Profile."
   - Wang, L. et al. (2018). "Phytochemistry of Clematis species." Journal of Ethnopharmacology 224: 143-156.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kew Royal Botanic Gardens. "Jasione perennis." Plants of the World Online.
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanulaceae in Flora Europaea." Cambridge University Press.
   - Tutin, T.G. et al. (1976). "Flora Europaea, Vol. 4." Cambridge University Press.
 ---
 

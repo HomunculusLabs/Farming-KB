@@ -11,7 +11,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: concept
 ---
 

@@ -5,7 +5,6 @@ tags: [high-tunnel, walipini, greenhouse, comparison-passive-solar-vs-earth-shel
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. chelsea-green-publishing, 2009.
 type: comparison---
 ---# High Tunnel vs Walipini (Underground Greenhouse)
 

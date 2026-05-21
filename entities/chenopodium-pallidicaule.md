@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Mujica, A. & Jacobsen, S.-E. (2006). "Cañihua (Chenopodium pallidicaule)." In: Chandra, R. (ed.), query-best-grain-legumes-for-a-small-homestead, 356-363. Springer.
-  - Repo-Carrasco, R. et al. (2003). "Kañiwa, a nutraceutical grain." Journal of the Science of Food and Agriculture, 83(1), 85-89.
-  - Popenoe, H. et al. (1989). "Lost Crops of the Incas." National Academy Press, Washington, D.C.
   - Jancurová, M. et al. (2009). "Amaranth and quinoa seeds." Czech Journal of Food Sciences, 27, S71-S83.
 ---
 

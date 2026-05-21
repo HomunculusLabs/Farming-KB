@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Parry, C.C. (1877). "Botanical Explorations in Colorado." American Naturalist.
   - Gray, A. (1880). "Synoptical Flora dmt-containing-plants-united-states-halpern.
 ---
 

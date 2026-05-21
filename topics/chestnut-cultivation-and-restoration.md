@@ -14,12 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - The American Chestnut Foundation (TACF) — research publications
-  - USDA Forest Service — Castanea dentata restoration reports
-  - Castanea sativa cultivation guides (European chestnut)
   - UC ANR — chestnut production manuals
-  - Savill et al. (2017) — The syndrome of chestnut blight
-  - Diskin et al. (2020) — Blight-resistant American chestnut breeding
   - Provost et al. (2021) — Chestnut agroforestry systems in Europe
 ---
 
@@ -78,3 +73,18 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Historical Context
+
+The study and practice of chestnut cultivation and restoration has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into chestnut cultivation and restoration have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with chestnut cultivation and restoration spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

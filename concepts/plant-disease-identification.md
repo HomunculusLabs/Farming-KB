@@ -27,13 +27,13 @@ Accurate disease identification is the critical first step in effective plant di
 
 | Symptom Pattern | Likely Cause | Key Distinguishing Features |
 |---|---|---|
-| White powdery coating (top/bottom) | [[powdery-mildew]] | Dry conditions, starts lower leaves, rubs off |
-| Yellow patches with gray fuzz underneath | [[downy-mildew]] | Angular lesions bounded by veins, cool wet weather |
+| White powdery coating (top/bottom) | Powdery mildew | Dry conditions, starts lower leaves, rubs off |
+| Yellow patches with gray fuzz underneath | Downy mildew | Angular lesions bounded by veins, cool wet weather |
 | Brown concentric ring spots ("bullseye") | Early blight (Alternaria) | Starts on lower leaves, solanaceous crops |
 | Yellowing between veins (interveinal) | Nutrient deficiency | Often iron or manganese, pH-related |
 | Mosaic pattern (light/dark green) | Virus (TMV, CMV) | Irregular pattern, may include leaf curling |
 | Small dark spots with yellow halos | Bacterial spot | Water-soaked edges, "shot-hole" when centers drop |
-| Rust-colored pustules on undersides | [[rust-fungi]] | Orange-brown powder when touched |
+| Rust-colored pustules on undersides | Rust fungi | Orange-brown powder when touched |
 | Dark streaking along veins | Bacterial infection | Spreads from margins, systemic movement |
 
 ### Stem Symptoms
@@ -50,7 +50,7 @@ Accurate disease identification is the critical first step in effective plant di
 
 | Symptom Pattern | Likely Cause | Key Distinguishing Features |
 |---|---|---|
-| Dark brown/black rotted roots | Pythium, [[phytophthora]] | Wet soil conditions, "root rot" |
+| Dark brown/black rotted roots | Pythium, Phytophthora | Wet soil conditions, "root rot" |
 | Knots/galls on roots | Root-knot nematode | Visible swellings, stunted top growth |
 | Reddish root discoloration | Fusarium wilt | Vascular discoloration extends into stem |
 | Sparse, stunted root system | Overwatering or nutrient deficiency | No pathogen signs, uniform pattern |
@@ -59,7 +59,7 @@ Accurate disease identification is the critical first step in effective plant di
 
 | Symptom Pattern | Likely Cause | Key Distinguishing Features |
 |---|---|---|
-| Water-soaked lesions, rapid collapse | [[late-blight]] | Fast-spreading, gray fuzz on margins |
+| Water-soaked lesions, rapid collapse | Late blight | Fast-spreading, gray fuzz on margins |
 | Sunken dark spots with pink spore masses | Anthracnose | Concentric rings possible, warm wet weather |
 | Black leathery spots on blossom end | Blossom-end rot | Calcium deficiency, not infectious |
 | Gray fuzzy mold on soft fruit | Botrytis gray mold | Starts on damaged or senescing tissue |
@@ -85,7 +85,7 @@ Accurate disease identification is the critical first step in effective plant di
 ### Apples and Pears
 - Apple scab -- olive-green velvety spots on leaves and fruit
 - Fire blight -- blackened blossoms, shepherd's crook branch tips
-- [[cedar-apple-rust]] -- orange gelatinous spots on leaves and fruit
+- Cedar apple rust -- orange gelatinous spots on leaves and fruit
 - Powdery mildew -- gray-white coating on leaves and shoots
 - Flyspeck and sooty blotch -- dark smudges on fruit surface
 

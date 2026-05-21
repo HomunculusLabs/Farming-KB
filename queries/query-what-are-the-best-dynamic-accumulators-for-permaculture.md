@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Carpenter, Thomas J. How to Make a mollison-designers-forest-garden-layer-canopy-understory. Permanent Publications, 2020."
-  - "White, Robert D. Plants for a Future: Edible, Medicinal and Useful Plants for a Healthier World. Permanent Publications, 1996."
   - "Jacke, Dave, and ) 
 | **cichorium-intybus
 - dynamic-accumulator-plants-calcium-and-magnesium for Permaculture? has a range of practical applications that make it relevant to

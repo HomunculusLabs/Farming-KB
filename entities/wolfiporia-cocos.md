@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wang, Y. & Zhang, J. (2019). "Wolfiporia cocos (Fuling): Phytochemistry and Pharmacology." Journal of Ethnopharmacology, 245, 112166.
-  - Rios, J.L. et al. (2012). "A review on the ethnobotany, pharmacology and phytochemistry of the genus Wolfiporia." Chinese Medicine, 7, 1-13.
-  - Hawksworth, D.L. et al. (1995). Ainsworth & Bisby's Dictionary of the Fungi. 8th ed. CAB International.
-  - Shibata, S. et al. (1992). "Chemistry and biological activities of the sclerotium of Wolfiporia cocos." Planta Medica, 58, S35-S39.
 created: 2026-04-28
 ---
 

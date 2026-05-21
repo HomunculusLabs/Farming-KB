@@ -7,7 +7,6 @@ type: topic
 tags: [truffle, tuber, mycorrhizae, ectomycorrhiza, cultivation, gourmet-fungi, forestry, permaculture]
 sources:
   - raw/papers/teaming-with-microbes-lowenfels.md
-  - raw/papers/benjamin-minge-duggar-mushroom-growing.md
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 

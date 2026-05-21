@@ -9,7 +9,7 @@ sources: []
 
 # Quail Husbandry (Detailed)
 
-Coturnix quail (Coturnix japonica) [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them practical micro-livestock for
+Coturnix quail (Coturnix japonica) are the most practical micro-livestock for
 the homestead. They reach maturity in just 6 weeks, begin laying eggs at 7-8
 weeks, and require minimal space. A single breeder cage (24x18 inches) can
 house a trio (1 male, 2 females). They are quiet, efficient, and ideal for
@@ -48,7 +48,7 @@ several color and production varieties:
 - **Cinnamon** — Light brown, calm.
 
 ### Production Considerations
-- Jumbo Brown and Texas A&M [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] choices for meat production.
+- Jumbo Brown and Texas A&M are the best choices for meat production.
 - Pharaoh and Golden are reliable layers.
 - All varieties interbreed freely.
 
@@ -81,7 +81,7 @@ several color and production varieties:
 - Droppings tray: slide-out tray beneath wire floor. Clean weekly.
 - Ventilation: essential but no drafts. Quail produce ammonia quickly.
 - Lighting: 14-16 hours of light per day for maximum egg production.
-  A simple LED light [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] timer works.
+  A simple LED light on a timer works.
 
 ## Feeding
 
@@ -105,7 +105,7 @@ several color and production varieties:
 
 ### Feed Formulation
 - See [[livestock-feed-formulation]] for making custom rations.
-- Protein [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most critical nutrient — quail need higher protein than
+- Protein is the most critical nutrient — quail need higher protein than
   chickens at all life stages.
 - Avoid medicated feeds unless specifically needed.
 
@@ -132,18 +132,22 @@ several color and production varieties:
 
 ### Processing Steps
 - Restrict feed 6-8 hours before processing (water OK).
-- Dispatch: cervical dislocation is simplest [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] birds.
+- Dispatch: cervical dislocation is simplest for small birds.
 - Scald at 140°F for 15-20 seconds (brief — quail skin tears easily).
 - Pluck by hand or with a small plucker.
-- Cool carcass in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] for 15-30 minutes.
+- Cool carcass in ice water for 15-30 minutes.
 - Eviscerate through vent, remove crop and entrails.
 - Rinse and pat dry.
 - Yield: approximately 70% dress-out (live to edible weight).
 - Quail are typically cooked whole (roasted, grilled, fried).
 - See [[animal-harvest-and-processing]] for broader processing principles.
 
-## See Also
-- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 ## Breeding and Incubation
 
 ### Breeding Ratio
+- 1 male per 2-3 females in breeder cages.
+- Males become aggressive in crowded conditions. Monitor and separate.
+- Breeding season: year-round with 14+ hours of light.
+## See Also
+
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]

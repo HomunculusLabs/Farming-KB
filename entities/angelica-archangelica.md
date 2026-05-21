@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bown, D. (2001). Encyclopedia of Herbs and Their Uses. DK Publishing
-  - Chevallier, A. (2016). Encyclopedia of herbal-medicine. 3rd ed. DK Publishing
-  - Hoffmann, D. (2003). Medical Herbalism. Healing Arts Press
-  - Foster, S. & Duke, J.A. (2013). Peterson Field Guide to Medicinal Plants. 3rd ed. Houghton Mifflin
-  - Duke, J.A. et al. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press
   - Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bernicchia, A. & Gorjón, S.P. (2013). Fungi Europaei, Vol. 12: Hymenochaetales. Candusso Edizioni.
-  - Ryvarden, L. & Gilbertson, R.L. (1993). European Polypores, Part 2. Oslo: Fungiflora.
-  - Fischer, M.S. & Binder, M. (2013). "Species recognition, singh-bioaugmentation-vs-biostimulation-fungal-strategies of bloomfield-wood-decay-fungi-spalted-timber in Trees. Berlin: Springer.
-  - Tabata, M. et al. (2014). "chaga-inonotus-obliquus-medicinal-profile sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
 created: 2026-04-28
 ---
 

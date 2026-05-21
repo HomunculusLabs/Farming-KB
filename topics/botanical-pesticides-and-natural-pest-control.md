@@ -11,9 +11,7 @@ related_concepts:
   - jadam-natural-pesticide-jnp
   - cervantes-neem-oil-organic-pest-control
   - cervantes-pyrethrum-pyrethroid-insecticides
-  - mollison-designers-neem-tree-as-natural-insecticide
   - permaculture-pyrethrum-daisy
-  - neem-azadirachta-indica-arid-zone-multipurpose-tree
   - jeavons-natural-pest-control
   - fukuoka-natural-pest-balance
   - cotter-natural-pest-control-disease-management

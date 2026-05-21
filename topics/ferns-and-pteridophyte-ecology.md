@@ -14,13 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Smith, A.R. et al. (2006). A classification for extant ferns. Taxon, 55(3), 705-731."
-  - "PPG I (2016). A community-derived classification for extant lycophytes and ferns. Journal of Systematics and Evolution, 54(6), 563-603."
-  - "Moran, R.C. (2004). A Natural History of Ferns. Timber Press."
-  - "Kew Royal Botanic Gardens. World Fern Checklist. https://powo.science.kew.org/"
-  - "USDA NRCS. PLANTS Database. https://plants.usda.gov/"
-  - "Raven, P.H., Evert, R.F., & Eichhorn, S.E. (2020). Biology of Plants, 8th ed. W.H. Freeman."
-  - "Jones, D.L. (2019). Encyclopedia of Ferns, 3rd ed. Timber Press."
   - "Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag."
 ---
 

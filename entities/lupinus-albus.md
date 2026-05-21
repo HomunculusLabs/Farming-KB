@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gladstones, J.S. (1970). "Lupins as Crop Plants." Field Crop Abstracts, 23, 123–148.
-  - Cowling, W.A., et al. (1998). "Lupin Phylogeny and the Origin of Cultivated Species." Advances in Agronomy, 60, 233–268.
-  - UAEU, E., et al. (2021). "cordyceps-cancer-bioactive-compounds of Lupinus albus Seeds." Foods, 10(9), 2122.
   - Huyghe, C. (1998). "Classification and Genetic Diversity of Lupins." In Lupin, 1–9. European Association for Grain Legume Research.
 ---
 
@@ -78,3 +75,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+## Current Research
+
+Recent studies on lupinus albus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with lupinus albus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

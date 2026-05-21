@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Van Cutsem, P. et al. (2005). "Chicory (Cichorium intybus L.)" in Encyclopedia of Food Sciences and Nutrition, 2nd ed. Academic Press.
-  - Sultana, B. et al. (2015). "Phenolic compounds and antioxidant activities of chicory." Journal of Functional Foods, 12, 1-9.
-  - Street, R.A. et al. (2013). "Cichorium intybus: Traditional uses, phytochemistry, pharmacology, and toxicology." African Journal of Pharmacy and Pharmacology, 7(43), 2787-2795.
-  - Rizk, T. et al. (2022). "Health benefits of chicory inulin." Journal of Functional Foods, 93, 105128.
   - Bais, H.P. & Ravishankar, G.A. (2001). "Cichorium intybus L. — Cultivation, processing, and applications." Critical Reviews in Food Science and Nutrition, 41(2), 91-119.
 ---
 

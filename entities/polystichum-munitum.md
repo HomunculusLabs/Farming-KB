@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Klinkenberg, B. (2020). "Polystichum munitum." Flora of British Columbia.
-  - Wagner, W.H. Jr. & Flagg, R.O. (2004). "Polystichum." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
-  - Pojar, J. & MacKinnon, A. (1994). Plants of the  with cool, wet
 winters and mild, dry summers.
 ---he species occupies a wide elevational gradient, from sea level to
 approximately 1,800 meters. It is most luxuriant in low-elevation riparian

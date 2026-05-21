@@ -17,9 +17,6 @@ updated: 2026-04-28
 aliases:
   - CBM
 sources:
-  - Krejčí, Z. et al. (1975). "Isolation of cannabimovone from comparison-cannabis-sativa-vs-cannabis-indica." Collection of Czechoslovak Chemical Communications, 40(1), 326–330.
-  - Hanuš, L. et al. (2016). "Cannabimovone, a novel cannabinoid from Cannabis." Phytochemistry, 130, 21–25.
-  - ElSohly, M.A. & Slade, D. (2005). "Chemical constituents of marijuana." Pharmacology & Therapeutics, 95(2), 137–152.created: 2026-05-07
 
 created: 2026-05-07
 ---

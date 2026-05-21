@@ -12,10 +12,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Metzner, R. (1999). "The Psychospiritual Transformations of Participants in Neoshamanic Medicine Circle Rituals." Unpublished research manuscript.
-  - Harner, M. (1980). The Way of the Shaman. Harper & Row.
-  - Halifax, J. (1979). Shamanic Voices: A Survey of Visionary Narratives. Penguin.
   - Eisner, B. (1989). Ecstasy: The MDMA Story. Ronin Publishing.
 ---
 

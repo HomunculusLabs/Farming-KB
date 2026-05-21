@@ -11,7 +11,6 @@ tags:
   - erosion-control
   - dye-plant
 sources:
-  - Shepherd K. (2004). "Dodonaea viscosa: Fire Tolerant Shrub for Revegetation." Rural Industries Research and Development Corporation, Australia.
   - Orwa C, et al. (2009). "Agroforestree Database: a tree reference guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands, as well as parts of the Americas.
 ---
 

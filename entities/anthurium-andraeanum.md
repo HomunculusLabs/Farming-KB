@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Croat, T.B. (1986). "The genus Anthurium (Araceae) in Panama." Monographs in Systematic Botany from the Missouri Botanical Garden, 1, 1-533.
-  - Sheffer, R.D. & Croat, T.B. (1983). "Anthurium (Araceae) of Mexico." Annals of the Missouri Botanical Garden, 70(2), 255-380.
-  - Henny, R.J. (1988). "Anthurium production in Florida." Proceedings of the Florida State Horticultural Society, 101, 277-280.
-  - Kew Royal Botanic Gardens. "Anthurium andraeanum." Plants of the World Online.
   - Dufour, L. & Guérin, V. (2005). "Advances in Anthurium research." Acta Horticulturae, 683, 19-32.
 ---
 

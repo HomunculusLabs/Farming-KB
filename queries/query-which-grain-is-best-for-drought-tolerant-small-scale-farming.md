@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "FAO – Crops and permplant-carob-drought-tolerant-food-tree Varieties (fao.org)"
-  - "National Research Council – Lost Crops of Africa, Vol. I & II (nap.nationalacademies.org)"
-  - "ICRISAT – Pearl Millet and Sorghum Research (icrisat.org)"
-  - "Rodale Institute – Dryland Grain Cropping Systems (rodaleinstitute.org)"
-  - "ECHOcommunity – Small-Scale fukuoka-no-till-grain-production-method Technical Notes (echocommunity.org)"
 created: 2026-04-28
 type: query
 ---

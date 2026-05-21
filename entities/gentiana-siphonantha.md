@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentiana." Flora of China, Vol. 16, pp. 6–35.
-  - Liu, S.W. et al. (2013). "Phytochemical investigation of Gentiana siphonantha roots." Chemistry of Natural Compounds, 49(4): 620–624.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Chen, Y. et al. (2018). "Iridoid glycosides from Gentiana siphonantha and their anti-inflammatory activity." Natural Product Research, 32(15): 1812–1818.
   - Zhang, X.P. et al. (2021). "gentiana-macrophylla group.
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Kew Publishing, Royal Botanic Gardens.
-  - Evans, W.C. (2002). "Trease and Evans' Pharmacognosy." 15th Edition, W.B. Saunders.
   - Gupta, A.K. (2008). "psilocybe-southeast-asia-pacific, particularly the Malay Peninsula, Sumatra, Borneo, and the Philippines. It is one of several palm species that produce the commercially and culturally significant resin known as dragon's blood, a deep red resinous substance used for centuries in traditional medicine, dye production, incense, and varnish.
 ---
 

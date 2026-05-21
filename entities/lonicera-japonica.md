@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wang, J. et al. (2019). "guzman-magic-mushrooms-chemical-constituents and bioactivities of Lonicera japonica." Chinese Herbal Medicines, 11(1), 51-60.
-  - Park, B.J. et al. (2011). "Antioxidant and anti-inflammatory activities of Lonicera japonica." Journal of Medicinal Food, 14(10), 1214-1219.
-  - Lu, Y. et al. (2020). "Lonicera japonica Thunb.: ethnopharmacology, phytochemistry and pharmacology." Journal of Ethnopharmacology, 260, 113107.
   - Schierenbeck, K.A. et al. (2010). "Lonicera japonica." In: Invasive Plants of the World. CABI Publishing.
 ---
 
@@ -79,3 +76,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Further research into lonicera japonica continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind lonicera japonica provides a foundation for both practical application and continued scientific inquiry.

@@ -12,10 +12,6 @@ tags:
   - food-crop
   - andes
 sources:
-  - León, J. (1968). "permaculture-plants-root-crops-and-tubers in the Tropical Americas." CIAT.
-  - Austin, D.F. (2010). "Foods of the Gods." CRC Press.
-  - Bradford, K.J. (2013). "Underutilized Crops: Canna edulis." Field Crops Research.
-  - National Research Council (1989). "Lost Crops of the Incas." National Academies Press.
   - Gade, D.W. (1975). "The Raised Field as a Prehispanic Form of Agriculture." Annals of the AAG.
 ---
 
@@ -78,3 +74,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on canna edulis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with canna edulis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

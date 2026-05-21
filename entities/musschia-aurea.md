@@ -9,10 +9,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Press JR, Short MJ (1994). "Flora of Madeira." HMSO, London.
-  - Jardim R, Francisco-Ortega J (2000). "The endemic flora of Madeira:
     conservation status and priorities." Bocconea 13: 109-120.
-  - Roquet C et al. (2008). "Phylogenetic and biogeographic reconstruction of
     the Campanulaceae." Taxon 57(2): 506-516.
 ---
 

@@ -19,11 +19,6 @@ aliases:
   - Isopulegol
   - (−)-Isopulegol
 sources:
-  - Levin M, Villalobos A, Eiteman MA (2010). "Biosynthesis of (−)-Menthol from (−)-Isopulegol by a mentha-spicata Cell Suspension Culture." Biotechnology Letters 32(12): 1893–1897.
-  - de Carvalho CCCR, da Fonseca MMR (2006). "Carvone: Why and How Should One Bother to Produce This Terpene." Food Chemistry 95(3): 413–422.
-  - Sell CS (2003). "The Chemistry of Fragrances." Royal Society of Chemistry.
-  - "Isopulegol." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
-  - Kamatou GPP, Viljoen AM (2008). "A Review of the Application and lsd-discovery-aftermath-pharmacological-properties of *Agathosma betulina*." Journal of Ethnopharmacology 119(3): 421–430.
 created: 2026-04-28---
 ---
 

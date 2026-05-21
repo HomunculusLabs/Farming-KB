@@ -5,7 +5,6 @@ tags: [crop-rotation, vegetables, organic-gardening, hamilton, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 type: concept
 ---# Three-Year Crop Rotation Plan
 

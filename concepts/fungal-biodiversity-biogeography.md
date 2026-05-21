@@ -115,7 +115,7 @@ Soil harbors the greatest fungal diversity of any habitat:
 Dead wood supports highly diverse fungal communities that change with decomposition stage:
 
 1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios and secondary metabolites
-2. **Partially decomposed**: Brown-rot and [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]-[[wood-rot-fungi-white-rot-brown-rot-and-decay-mechanisms]] become dominant, breaking down cellulose and lignin
+2. **Partially decomposed**: Brown-rot and white-rot fungi become dominant, breaking down cellulose and lignin
 3. **Advanced decay**: Specialized fungi utilizing remaining nutrients; succession toward humus formation
 4. **Very decayed**: Transition to soil fungal community as wood becomes incorporated into humus
 
@@ -125,7 +125,7 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 
 - **Freshwater**: *Ingoldian* fungi (hyphomycetes that produce conidia adapted for underwater dispersal), chytrids parasitizing algae, yeasts in surface films
 - **Marine**: Over 500 species described from wood and mangrove substrates; deep-sea fungi associated with organic falls; sea ice fungi
-- **Leaf decomposition in streams**: Aquatic hyphomycetes are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]s
+- **Leaf decomposition in streams**: Aquatic hyphomycetes are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream food webs
 
 ## Conservation of Fungal Biodiversity
 

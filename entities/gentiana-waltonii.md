@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." In: Flora of China, Vol. 16, pp. 1-23. Science Press.
-  - Burkill, I.H. (1899). "Gentianaceae." In: Hooker, J.D., Flora of British India, Vol. 4.
-  - Clarke, C.B. (1883). "Gentianeae." In: Decne, Prodromus Florae Tibeticae.
   - Royal Botanic Gardens Kew: Gentiana waltonii. https://powo.science.kew.org/
 ---
 

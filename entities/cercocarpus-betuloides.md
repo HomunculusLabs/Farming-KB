@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hickman, J.C. (1993). The Jepson Manual: Higher Plants of California. University of California Press.
-  - Mozingo, H.N. (1987). Shrubs of the Great Basin. University of Nevada Press.
-  - Keeley, J.E. (2006). "Fire management impacts on invasive plants in the western United States." Conservation Biology 20(2): 375–384.
   - USDA NRCS. "Cercocarpus betuloides." PLANTS Database.
 ---
 
@@ -79,3 +76,5 @@ In range management, mountain mahogany is considered a valuable winter browse sp
 - [[pinus-sylvestris]]
 - [[rhus-typhina]]
 - [[vaccinium-angustifolium]]
+Further research into cercocarpus betuloides continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind cercocarpus betuloides provides a foundation for both practical application and continued scientific inquiry.

@@ -19,9 +19,6 @@ tags:
   - ethnobotany
   - ecology
 sources:
-  - Guzmán, G. et al. (2004). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." In: Entheogens and the Development of Culture. Springer.
-  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - Hatanaka, T. (1961). "Taxonomic studies on the genus Gymnopilus." Reports of the Tottori Mycological Institute, 1, 1–69.
   - Bigwood, J. & Beug, M.W. (1982). "Variation in guzman-psilocybin-mushrooms-north-america and East Asia. It is one of the few *Gymnopilus* species known to contain psilocybin and psilocin.
 ---
 

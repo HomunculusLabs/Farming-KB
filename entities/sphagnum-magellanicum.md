@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rydin, H. & Jeglum, J.K. (2013). "The Biology of Peatlands." Oxford University Press, 2nd ed.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 2.
-  - Daniels, R.E. & Eddy, A. (1985). "Handbook of European Sphagna." HMSO, London.
   - Clymo, R.S. (1984). "The limits to peat bog growth." Philosophical Transactions of the Royal Society B 303: 605-654.
 ---
 

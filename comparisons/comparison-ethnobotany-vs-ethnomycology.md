@@ -5,8 +5,6 @@ tags: [ethnobotany, ethnomycology, ethnobiology, traditional-knowledge, fungal-e
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: comparison
 ---
 ## Ethnobotany vs Ethnomycology

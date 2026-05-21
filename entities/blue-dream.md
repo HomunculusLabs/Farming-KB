@@ -13,7 +13,6 @@ updated: 2026-04-28
 sources:
   - Leafly Strain Database
   - Phylos Bioscience Genetic Verification
-  - Mudge, E. et al. (2018). "Cannabinoid and Terpene Profiling of Popular  strain that has become one of the most popular and widely available strains in the  that binds CB2 receptors; anti-inflammatory
 - **Limonene** (~0.1–0.3%) — Citrus notes; mood elevation, stress relief
 - **Linalool** (trace) — Floral; anxiolytic, sedative properties
 - **Caryophyllene oxide** (trace) — Woody, spicy; may contribute to anti-fungal properties

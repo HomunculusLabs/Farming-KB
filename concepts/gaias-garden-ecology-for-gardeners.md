@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 

@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hill, R. (2002). "Permaculture Plants: Comfrey." Permaculture Activist.
-  - Cockfield, J. (1998). "The Comfrey Report: A Handbook for Growers." Good Life Press.
   - Joy, J. (2011). "Comfrey: Past, Present and Future." comparison-dynamic-accumulators-vs-cover-crops in permaculture systems." agroecology and Sustainable Food Systems.---
 ---
 

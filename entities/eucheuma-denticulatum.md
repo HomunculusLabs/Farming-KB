@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Doty, M.S. (1973). "Farming the red seaweed Eucheuma for carrageenan." Micronesica, 9(1), 59-73.
-  - Hayashi, L., et al. (2007). "Carbohydrate economy of the seaweed Eucheuma denticulatum." Journal of Applied Phycology, 19(3), 217-226.
-  - Hurtado, A.Q., et al. (2015). "Development of new strain of Eucheuma denticulatum for commercial cultivation." Journal of Applied Phycology, 27(3), 1085-1092.
   - Bixler, H.J. & Porse, H. (2011). "A decade of change in the seaweed hydrocolloids industry." Journal of Applied Phycology, 23(3), 321-335.
 ---
 

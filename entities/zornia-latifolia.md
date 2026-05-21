@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers." Healing Arts Press.
-  - Farnsworth, N.R. (1968). "Hallucinogenic Plants." Science, 162(3860), 1406-1410.
-  - Holmstedt, B. (1967). "Psychotomimetic Drugs: An Overview." International Journal of Neuropharmacology, 6(5), 403-412.
   - Lewis, W.H. & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man's Health." John Wiley & Sons.
 ---
 

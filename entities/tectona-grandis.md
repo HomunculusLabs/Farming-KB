@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kjaer, E.D. & Kajornsrichon, S. (2014). "Teak (Tectona grandis L.f.): genetic resources, breeding and conservation." Forest soil-nematodes-ecology-and-management, 330, 1-7.
-  - Tewari, D.N. (1992). A Monograph on Teak. International Book Distributors.
-  - FAO (2021). "Tectona grandis (teak)." FAO Ecocrop Database.
   - Kadambi, K. (1972). "On some aspects of natural regeneration of teak." Indian Forester, 98(8), 453-463.
 ---
 

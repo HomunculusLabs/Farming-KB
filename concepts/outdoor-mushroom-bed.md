@@ -141,10 +141,14 @@ The primary substrate for most outdoor bed species. Key considerations:
 - Competing fungi: Trichoderma and other molds appear on exposed substrate. Cover with fresh mulch
 - Animals: deer, squirrels, and rodents may eat fruiting bodies. Netting or motion-activated sprinklers can help
 
+## Fruiting Triggers
+
+Outdoor beds fruit in response to natural environmental cues:
+
+- **Temperature drop**: A shift of 10°F or more, especially after rain
+- **Rainfall**: Heavy rain followed by warm days is the classic trigger
+- **Humidity**: Sustained high humidity (80%+) for several days
 ## See Also
 
-- [[outdoor-wood-lover-cultivation]] for specialized outdoor psilocybe beds
-- [[mushroom-cultivation-methods]] for choosing between cultivation approaches
-- [[mushroom-substrates]] for detailed substrate science
-- [[mushroom-log-cultivation]] for log-based outdoor growing
-- [[garden-mushroom-growing]] for companion planting with fungi
+- [[cervantes-wind-protection-outdoor-cannabis]]
+- [[cervantes-mulch-outdoor-moisture-conservation]]

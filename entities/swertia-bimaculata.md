@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
-  - Kumar, V. & Van Staden, J. (2016). "Swertia: A genus of potent medicinal plants." Journal of Ethnopharmacology, 176, 209–229.
   - Joshi, P. & Dhawan, V. (2005). "psilocybe-southeast-asia-pacific, where it grows in damp meadows and forest clearings.
 ---
 

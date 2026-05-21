@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Westberg, M. (2007). "Candelariella." Nordic Lichen Flora, Vol. 4. Museum of Evolution, Uppsala University.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
 

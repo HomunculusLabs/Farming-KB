@@ -6,7 +6,6 @@ tags: [entheogens, ancient-religion, eleusinian-mysteries, aztec,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 --- Ancient Entheogenic Cults and the Religious Impulse
 

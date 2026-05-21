@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moore, M.O. (1991). "Parthenocissus." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 3, Oxford University Press.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed., Stipes Publishing.
-  - Clemants, S.E. & Moore, G. (2005). "The native flora of the New York City region." Journal of the Torrey Botanical Society, 132(3), 428–456.
-  - Lack, H.W. (2001). "A garden of antiquity." Curtis's Botanical Magazine, 18(2), 89–103.
   - Tallamy, D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 

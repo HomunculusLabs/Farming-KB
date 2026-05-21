@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H. (1984). Sphagnopsida: Sphagnaceae. New York Botanical Garden.
-  - Flatberg, K.I. (2013). "The Norwegian Sphagnum flora." Fagbokforlaget.
-  - Rydin, H. & Jeglum, J.K. (2013). The Biology of Peatlands. Oxford University Press.
   - Daniels, R.E. & Eddy, A. (1985). Handbook of European Sphagna. HMSO.
 ---
 

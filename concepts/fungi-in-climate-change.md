@@ -30,14 +30,14 @@ Mycorrhizal fungi are among the largest sinks for atmospheric carbon dioxide:
 ### Ectomycorrhizal Contributions
 - EMF dominate in boreal and temperate forests (pine, oak, spruce associations)
 - Produce melanized hyphae and necromass that decompose slowly
-- Drive formation of stable [[soil-organic-matter-dynamics-and-fungal-decomposition-interactions]] (SOM) pools
+- Drive formation of stable soil organic matter (SOM) pools
 - Promote formation of mineral-associated organic matter (MAOM)
 
 ### The Decomposition Tradeoff
 A critical tension in fungal climate roles:
 - Saprotrophic fungi decompose organic matter, releasing CO2 (carbon source)
 - Mycorrhizal fungi sequester carbon, building soil stocks (carbon sink)
-- [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]] in fungal community composition between these groups affect net carbon balance
+- Shifts in fungal community composition between these groups affect net carbon balance
 - EMF-dominated forests tend to store more soil carbon than AMF-dominated forests
 
 ## Fungal Responses to Warming

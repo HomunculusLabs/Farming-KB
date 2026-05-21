@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - USDA NRCS. "Hesperis matronalis L." PLANTS Database.
-  - Cullen, J. et al. (1995). "The European Garden Flora." Cambridge University Press.
   - Reichard, S.H. & White, P. (2001). "Horticulture as a pathway of invasive plant introductions in the United States." BioScience, 51(2), 103–113.
 ---
 

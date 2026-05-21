@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong, D.Y. & Pan, K.Y. (2012). "Campanulaceae." In Flora of China, Vol. 19, Science Press.
-  - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
-  - Lee, Y.N. (2004). "Korean Medicinal Plants." Seoul Press.
   - Eddie, W.M. et al. (2003). "Phylogeny of Campanulaceae s.str. inferred from ITS sequences." Edinburgh J. Bot. 60(3): 361–386.
 ---
 

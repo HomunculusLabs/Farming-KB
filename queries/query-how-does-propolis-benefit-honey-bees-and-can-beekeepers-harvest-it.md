@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bankova V. "Chemical diversity of propolis and the problem of standardization." J Ethnopharmacol, 2005.
-  - Simone M, et al. "Propolis and bee health: the natural history and significance of resin use by honey bees." Apidologie, 2009.
-  - Gisder S, et al. "Propolis and its biological activities against pathogens of the honey bee." Apidologie, 2019.
-  - Kujumgiev A, et al. "Antibacterial, antifungal and antiviral activity of propolis." J Ethnopharmacol, 1999.
-  - Huang S, et al. "Propolis: a review of its traditional uses, guzman-magic-mushrooms-chemical-constituents, and pharmacological properties." Evid Based Complement Alternat Med, 2014.
 type: query
 ---
 

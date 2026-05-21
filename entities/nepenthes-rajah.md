@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications, Kota Kinabalu.
-  - Clarke, C.M. (2001). "A Guide to the Pitcher Plants of Sabah." Natural History Publications.
-  - Adam, J.H. & Wilcock, C.C. (1998). "Pitcher plants of Mount Kinabalu." Sabah Parks Publications.
   - Moran, J.A. et al. (2010). "The carnivorous syndrome in Nepenthes pitcher plants." Annals of Botany, 105(5), 821-830.
 ---
 

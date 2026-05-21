@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Nimis, P.L. & Martellos, S. (2008). "ITALIC - The Information System on Italian . Yale University Press.
-  - Seaward, M.R.D. (2010). "Ramalina." In: Nash III, T.H. et al. (eds),  and is
 used in lichen diversity surveys across Europe.
 ---# Taxonomy and Morphology
 

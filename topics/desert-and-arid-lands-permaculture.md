@@ -15,11 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - Bill Mollison, Permaculture: A bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture
-  - Bill Mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course
   - Sepp Holzer, Desert or Paradise
   - Masanobu Fukuoka, The Natural Way of Farming
-  - Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and Sustainable
     Living
 related_concepts:
   - arid-zone-permaculture-strategies-mollison

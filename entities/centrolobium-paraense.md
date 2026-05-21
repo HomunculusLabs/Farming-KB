@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Record, S.J. & Hess, R.W. (1943). "Timbers of the New World." Yale University Press.
-  - Coradin, L. et al. (2011). "Espécies Nativas da Flora Brasileira de Valor Econômico Atual ou Potencial." Jardim Botânico do Rio de Janeiro.
-  - Pennington, T.D. (1997). "The Genus Inga." Royal Botanic Gardens, Kew.
-  - Lewis, G.P. et al. (2005). "Leguminosae of Madagascar." Royal Botanic Gardens, Kew.
   - Carvalho, P.E.R. (2006). "Espécies Arbóreas Brasileiras." Embrapa Florestas.
 ---
 

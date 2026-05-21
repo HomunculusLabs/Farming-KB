@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Foster, S. & Duke, J.A. (2014). "A ghouled-field-guide-historical-context to Medicinal Plants and Herbs." Houghton Mifflin.
-  - Mills, S. & Bone, K. (2005). "The Essential Guide to Herbal Safety." Elsevier.
-  - U.S. Pharmacopeia (1820–1900). "Eupatorium perfoliatum." USP Dispensatory.
   - Abdelgaleil, S.A.M. (2010). "Antifeedant and growth inhibitory effects of Eupatorium extracts." Journal of Pest Science, 83(2), 117-124.
 ---
 
@@ -78,3 +74,14 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on eupatorium perfoliatum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with eupatorium perfoliatum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

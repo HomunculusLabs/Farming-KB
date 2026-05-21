@@ -5,7 +5,6 @@ tags: [fukuoka, natural-farming, soil, cover-crops, orchard-management, legacy, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

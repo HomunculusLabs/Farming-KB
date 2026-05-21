@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Harman, G.E., Howell, C.R., Viterbo, A., Chet, I. & Lorito, M. (2004). "Trichoderma species — opportunistic, avirulent plant symbionts." Nature Reviews Microbiology, 2, 43-56.
-  - Druzhinina, I.S., Seidl-Seiboth, V., Herrera-Estrella, A. et al. (2011). "Trichoderma: the genomics of opportunistic success." Nature Reviews Microbiology, 9, 749-759.
-  - Kubicek, C.P., Herrera-Estrella, A., Seidl-Seiboth, V. et al. (2011). "Comparative genome sequence analysis underscores mycoparasitism as the ancestral life style of Trichoderma." Genome Biology, 12, R40.
-  - Lorito, M., Woo, S.L., Harman, G.E. & Monte, E. (2010). "Translational research on Trichoderma: from omics to the field." Annual Review of Phytopathology, 48, 445-468.
-  - Mukherjee, P.K., Horwitz, B.A., Kenerley, C.M. (2012). "Secondary metabolism in Trichoderma — a genomic perspective." Microbiology, 158, 35-45.
 created: 2026-04-28
 ---
 

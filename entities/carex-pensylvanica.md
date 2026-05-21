@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (2002). Flora of North America North of Mexico, Vol. 23: Magnoliophyta: Commelinidae. Oxford University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Chadde, S.W. (2002). A Great Lakes Wetland Flora. PocketFlora Press.
-  - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
   - Hightshoe, G.L. (1988). Native Trees, Shrubs, and Vines for Urban and Rural America. Van Nostrand Reinhold.
 ---
 

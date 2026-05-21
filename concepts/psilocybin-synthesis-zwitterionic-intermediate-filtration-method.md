@@ -5,7 +5,6 @@ tags: [psilocybin-synthesis, zwitterionic-intermediate, phosphorylation, tetrabe
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis (Shirota, Hakamata & Goda, J. Nat. Prod. 2003)"
 type: concept
 ---
 

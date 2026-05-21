@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Blaschek, W. et al. (2006). Hagers Handbuch der Pharmazeutischen Praxis, Vol. 7. Springer."
-  - "Benigni, R. et al. (1962). Piante Medicinali, Vol. 2. Inverni & Della Beffa."
-  - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals, 3rd Ed. Medpharm Scientific."
-  - "Colombo, M.L. & Bosisio, E. (1996). \"Pharmacological activities of Chelidonium majus.\" Phytotherapy Research, 10(8), 535–536."
   - "Tita, B. et al. (2009). \"Chelidonium majus: acute toxicity of alkaloid fractions.\" Phytotherapy Research, 23(5), 667–672."
 ---
 

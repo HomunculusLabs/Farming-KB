@@ -9,7 +9,7 @@ sources: []
 
 # Goat Cheese Making
 
-Goat milk cheese (chevre) is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]: fresh chevre, feta, and aged gouda.
+Goat milk cheese (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 
 ## Milk Quality Fundamentals
 
@@ -35,7 +35,7 @@ The quality of cheese depends entirely on the quality of the milk.
 
 ## Chevre (Fresh Goat Cheese)
 
-Chevre [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] simplest and most popular goat cheese. Ready to eat in 12-24 hours.
+Chevre is the simplest and most popular goat cheese. Ready to eat in 12-24 hours.
 
 ### Ingredients
 
@@ -46,7 +46,7 @@ Chevre [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-domi
 
 ### Process
 
-1.  **Heat milk** to 22 C (72 F) [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] stainless steel pot
+1.  **Heat milk** to 22 C (72 F) in the stainless steel pot
 2.  **Add culture** — Sprinkle the mesophilic culture over the surface. Let rehydrate for 2 minutes, then stir gently for 30 seconds
 3.  **Add rennet** — Stir the diluted rennet into the milk with 20 gentle up-and-down strokes. Do not over-stir
 4.  **Ripen** — Cover and let sit at room temperature (20-22 C) for 12-18 hours. The milk will set into a soft curd with a layer of whey on top
@@ -79,8 +79,8 @@ Feta is a brined cheese with a tangy, salty flavor. It stores well and improves 
 4.  **Cut curds** — Cut into 1.3 cm (1/2 inch) cubes. Let rest 5 minutes
 5.  **Cook curds** — Slowly raise temperature to 36 C (97 F) over 20 minutes, stirring gently every few minutes
 6.  **Drain** — Ladle curds into cheesecloth-lined colander. Drain for 2 hours
-7.  **Salt** — Cut the drained curd into blocks (5x5x10 cm). Place blocks [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] draining mat and salt all surfaces with 1/2 cup salt total. Let drain 24 hours at room temperature, flipping and re-salting every 8 hours
-8.  **Brine** — [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] saturated brine (dissolve salt in water until no more dissolves, approximately 250 g per liter). Submerge cheese blocks in brine and refrigerate
+7.  **Salt** — Cut the drained curd into blocks (5x5x10 cm). Place blocks on a draining mat and salt all surfaces with 1/2 cup salt total. Let drain 24 hours at room temperature, flipping and re-salting every 8 hours
+8.  **Brine** — Make a saturated brine (dissolve salt in water until no more dissolves, approximately 250 g per liter). Submerge cheese blocks in brine and refrigerate
 9.  **Age** — Feta improves with 1-4 weeks in the brine. It keeps for 3-6 months refrigerated
 
 ## Gouda (Aged Hard Cheese)
@@ -127,7 +127,7 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 ### Rennet
 
 -  **Animal rennet** — Traditional, from calf stomach. Strongest coagulation. Preferred for aged cheeses.
--  **Vegetable rennet** — From [[cardoon]] thistle or fig sap. Weaker coagulation. Required for vegetarian cheese.
+-  **Vegetable rennet** — From cardoon thistle or fig sap. Weaker coagulation. Required for vegetarian cheese.
 -  **Microbial rennet** — Fermentation-produced. Consistent, affordable, vegetarian. Good all-purpose choice.
 -  **Junket tablets** — Available at grocery stores. Weak but work for soft cheeses.
 
@@ -143,5 +143,10 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 -  **Crumbly cheese** — pH too low (over-acidified), or insufficient pressing
 -  **Rubbery cheese** — Temperature too high during cooking, or excess rennet
 -  **Off-flavors** — Check milk quality, sanitation, and feed. Goat milk absorbs flavors readily
+## See Also
 
-See also: [[cheese-making-basics]]
+- [[mollison-designers-goat-dairy-and-cheese-production]]
+- [[cheese-making-basics]]
+- [[blue-cheese]]
+- [[query-how-do-i-make-cheese-at-home]]
+- [[cheese-cannabis]]

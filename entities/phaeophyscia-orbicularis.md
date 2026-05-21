@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
-  - Nash, T.H. III (2008). Lichen Biology (2nd ed.). Cambridge University Press.
-  - Huneck, S., Yoshimura, I. (1996). Identification of Lichen Substances. Springer.
-  - Orange, A. et al. (2009). Lichens of Great Britain and Ireland. British Lichen Society.
   - Moberg, R., Holmasen, I. (1982). Flora of Lichens. Natur och Kultur, Sweden.
 ---
 

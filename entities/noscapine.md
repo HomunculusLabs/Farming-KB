@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Karlsson E et al. (1997). "Noscapine: a profile of the alkaloid and its derivatives." Alkaloids: Chemical and Biological Perspectives 12: 1-34.
-  - Ye K et al. (1998). "Noscapine: a novel microtubule-interfering agent." Proceedings of the National Academy of Sciences 95(4): 1601-1606.
-  - Mahmoudian M, Rahimi-Moghaddam P (2009). "The anti-cancer activity of noscapine." Phytotherapy Research 23(11): 1497-1504.
-  - Cordell GA (1981). Introduction to Alkaloids: A Biogenetic Approach. Wiley-Interscience.
   - Zhou J et al. (2003). "Noscapine analogs as microtubule inhibitors." Journal of Medicinal Chemistry 46(16): 3371-3377.
 ---
 

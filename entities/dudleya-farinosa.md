@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Moran, R. (1951). "A Revision of Dudleya." PhD Thesis, University of California.
-  - Bartel, J.A. (1993). "Dudleya." In: The Jepson Manual: Higher Plants of California. UC Press.
-  - Thomson, P.H. (1993). The Dudleyas. Abbey Garden Press.
-  - California Native Plant Society. "Dudleya farinosa." CalScape Database.
   - Royal Botanic Gardens Kew. "Dudleya farinosa." Plants of the World Online.
 ---
 

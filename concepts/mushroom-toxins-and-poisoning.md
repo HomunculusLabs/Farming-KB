@@ -1,5 +1,4 @@
 ---
-title: Mushroom Toxins And Poisoning
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -88,7 +87,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 **Chemistry:** Ibotenic acid is a glutamate receptor agonist that acts as a neurotoxin. In the body, it is partially decarboxylated to muscimol, a GABA-A receptor agonist with sedative-hallucinogenic properties.
 
-**Species:** [[amanita-muscaria|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
+**Species:** [[amanita-muscaria-guide|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
 
 **Symptoms:** Variable and unpredictable -- agitation, confusion, dizziness, visual distortions, hallucinations, drowsiness, and deep sleep. Effects typically begin 30-60 minutes after ingestion and last 4-8 hours.
 
@@ -120,7 +119,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 ### Particularly Dangerous Look-Alikes
 
-- **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification|Psilocybe cyanescens]] and other "little brown mushrooms" sought by recreational foragers
+- **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification-guide|Psilocybe cyanescens]] and other "little brown mushrooms" sought by recreational foragers
 - **Conocybe species** on lawns are both poisonous and hallucinogenic, a dangerous combination
 - **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-species-guide|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
 

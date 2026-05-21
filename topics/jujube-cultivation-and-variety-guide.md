@@ -12,12 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sheng, H.L. & Tian, L.X. (2019). Chinese jujube: A medicinal plant with potential health benefits. *Journal of Zhejiang University Science B*, 20(7), 517–529."
-  - "Liu, M.J. (2006). Chinese jujube: Botany and horticulture. *Horticultural Reviews*, 32, 229–298."
-  - "Chen, J. & Tsim, K.W.K. (2020). A review of edible jujube, the Ziziphus jujuba fruit: A heath food supplement for anemia prevalence. *Frontiers in Pharmacology*, 11, 593655."
-  - "Gao, Q.H. et al. (2013). Analysis of the dighton-fungal-nutritional-composition-animal-diets in Chinese jujube. *Food Chemistry*, 141(3), 2676–2680."
-  - "Peyvast, G.A. & Talaei, A.R. (2011). Jujube (Ziziphus jujuba Mill.): A review. *Fruits*, 66(2), 93–105."
-  - "Mahajan, R.T. & Chopda, M.Z. (2009). Phytochemical and pharmacological review of Ziziphus jujuba. *Pharmacognosy Reviews*, 3(6), 320–329."
   - "Mark, S.E. (2009). Jujube: An ancient fruit for modern times. *Fruit Gardener*, 11(6), 12–17."
 ---
 

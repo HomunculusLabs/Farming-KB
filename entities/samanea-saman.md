@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nielsen, I.C. (1985). "Notes on the Genus Samanea (Leguminosae-Mimosoideae)." Nordic Journal of Botany.
-  - Little, E.L. & Wadsworth, F.H. (1964). "Common Trees of Puerto Rico and the Virgin Islands." USDA Forest Service.
-  - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae." University of Wisconsin Press.
   - Francis, J.K. & Lowe, C.A. (2000). "Silvics of Native and Exotic Trees of Puerto Rico." USDA Forest Service.
 ---
 

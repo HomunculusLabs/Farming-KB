@@ -5,7 +5,6 @@ tags: [plant-biology, electrophysiology, signaling, action-potentials]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/grahamholmes-what-a-plant-knowsindd.md"
 type: concept
 ---
 

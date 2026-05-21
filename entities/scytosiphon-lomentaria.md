@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fletcher, R.L. (1987). "Seaweeds of the British Isles, Volume 3: Fucophyceae." HMSO.
-  - Lüning, K. (1990). "Seaweeds: Their Environment, Biogeography, and Ecophysiology." Wiley.
-  - Cho, T.O. et al. (2006). "Molecular phylogeny of Scytosiphonaceae." Journal of Phycology, 42, 817-828.
-  - Weinberger, F. et al. (2008). "The life history of Scytosiphon lomentaria." Aquatic Botany, 89, 1-6.
   - Lee, Y.P. & Kang, J.C. (2002). "A catalogue of the seaweeds in Korea." Korean Journal of Phycology, 17, 1-112.
 ---
 

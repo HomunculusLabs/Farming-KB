@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - SARE (query-what-is-biofumigation-and-how-does-it-work Profitably." 3rd ed.
-  - USDA Natural Resources Conservation Service. "Plant Guide: Daikon Radish (Raphanus sativus)."
-  - Ashworth, S. (2013). Seed to Seed. Chelsea Green Publishing.
   - Jeavons, J. (2012). How to Grow More Vegetables. 8th ed. Ten Speed Press.
 ---# Daikon Radish (Raphanus sativus var. longipinnatus)
 

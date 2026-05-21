@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
-  - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
   - "Cardon, D. (2007). Natural Dyes: Sources, Tradition, Technology and Science. Archetype Publications."
 ---
 

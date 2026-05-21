@@ -5,7 +5,6 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, bioremediation, case-studies]
 sources:
-  - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
   - Lamar, R.T. & Dietrich, D.M. (1990). Applied and
     Environmental Microbiology.
 ---

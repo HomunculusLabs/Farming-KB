@@ -5,7 +5,6 @@ tags: [bioremediation, creosote, PAH, white-rot-fungi, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 type: concept
 ---
 

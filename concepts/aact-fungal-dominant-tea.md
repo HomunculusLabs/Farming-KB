@@ -5,7 +5,6 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 ## AACT Fungal Dominant Tea

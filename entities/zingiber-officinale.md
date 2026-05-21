@@ -17,10 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ginger: The Genus Zingiber" (2005). Ravindran, P.N. & Babu, K.N. (eds.). CRC Press.
-  - Ali, B.H. et al. (2008). "Some phytochemical, pharmacological and toxicological properties of ginger (Zingiber officinale Roscoe)." Phytotherapy Research, 22(2), 163–185.
-  - Ernst, E. & Pittler, M.H. (2000). "Efficacy of ginger for nausea and vomiting: a systematic review." British Journal of Anaesthesia, 84(3), 367–371.
-  - Chrubasik, S. et al. (2005). "Ginger for osteoarthritis." Arthritis & Rheumatism.
   - Phongpaichit, S. et al. (2005). "Antimicrobial activities of extracts from family Zingiberaceae." Songklanakarin J. Sci. Technol.
 ---
 ## Zingiber officinale

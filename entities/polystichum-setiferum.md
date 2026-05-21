@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Fraser-Jenkins, C.R. (2007). "Taxonomic revision of three hundred Indian subcontinental pteridophytes." Bishen Singh Mahendra Pal Singh.
-  - Hoshizaki, B.J. & R.C. Moran. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora guzman-psilocybin-mushrooms-north-america, Vol. 2.
-  - Cabi, Europe. (2023). "Polystichum setiferum (soft shield fern)." Invasive Species Compendium.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gladstones, J.S. (1970). "Lupins as crop plants." Field Crop Abstracts, 23, 123-148.
-  - Cowling, W.A. et al. (1998). "Lupin breeding in Australia." In Proc. 9th Intl Lupin Conf. Kluwer.
-  - Lee, J.D. et al. (2007). "Lupinus angustifolius genome map." Theoretical and Applied Genetics, 114(1), 67-80.
   - Petterson, D.S. (1998). "Composition and food uses of lupins." In Proc. 9th Intl Lupin Conf. Kluwer.
 ---
 

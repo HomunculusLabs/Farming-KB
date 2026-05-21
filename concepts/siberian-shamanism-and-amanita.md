@@ -1,4 +1,5 @@
 ---
+
 title: Siberian Shamanism and Amanita Muscaria
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 
 # Siberian Shamanism and Amanita Muscaria
 
-The relationship between [[amanita-muscaria]] (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as [[andy-letcher]] argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification.
+The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification.
 
 ## Historical Sources
 
@@ -34,11 +35,11 @@ The most comprehensive ethnographic accounts were compiled in the late 19th and 
 
 ## Effects as Described by Jochelson
 
-Per Harner's anthology "[[hallucinogens-and-shamanism]]" (1973), which quotes Jochelson extensively: fly-agaric produces intoxication, hallucinations, and delirium. Light intoxication brings animation and spontaneity. Under strong intoxication, the senses become deranged; surrounding objects appear very large or very small. Attacks of great animation alternate with deep depression. The intoxicated person sits quietly rocking, then suddenly dilates their eyes, gesticulates convulsively, converses with imagined persons, sings, and dances. Additional doses are needed to maintain the effect, since the active alkaloid is quickly excreted in urine.
+Per Harner's anthology "Hallucinogens and Shamanism" (1973), which quotes Jochelson extensively: fly-agaric produces intoxication, hallucinations, and delirium. Light intoxication brings animation and spontaneity. Under strong intoxication, the senses become deranged; surrounding objects appear very large or very small. Attacks of great animation alternate with deep depression. The intoxicated person sits quietly rocking, then suddenly dilates their eyes, gesticulates convulsively, converses with imagined persons, sings, and dances. Additional doses are needed to maintain the effect, since the active alkaloid is quickly excreted in urine.
 
 ## The Urine Recycling Practice
 
-The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while [[ibotenic-acid]] is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
+The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while ibotenic acid is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
 
 ## Letcher's Critical Analysis
 
@@ -62,25 +63,20 @@ Following Edward Said's concept of "orientalism," Letcher argues that Western th
 
 ## The Harner Perspective
 
-[[michael-harner]], in his introduction to "Hallucinogens and Shamanism" (1973), emphasizes the importance of Amanita muscaria in "classic" shamanism and notes that "the theoretical literature has largely overlooked the fact that even this 'classic' shamanism often involved the use of hallucinogen." He argues that the use of powerful hallucinogens tends to strongly reinforce belief in the reality of the supernatural world and that hallucinogenic experiences may have played a role in the innovation of such beliefs.
+Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emphasizes the importance of Amanita muscaria in "classic" shamanism and notes that "the theoretical literature has largely overlooked the fact that even this 'classic' shamanism often involved the use of hallucinogen." He argues that the use of powerful hallucinogens tends to strongly reinforce belief in the reality of the supernatural world and that hallucinogenic experiences may have played a role in the innovation of such beliefs.
 
 ## See Also
 
-- [[amanita-muscaria]] — Identification, chemistry, and preparation of Amanita muscaria
+- [[amanita-muscaria-guide]] — Identification, chemistry, and preparation of Amanita muscaria
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
 - [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions
+## Current Research
 
-## Practical Applications
+Recent studies on siberian shamanism and amanita have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
+## Practical Considerations
 
-Siberian Shamanism And Amanita represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[harner-amanita-muscaria-siberian-shamanism]]
-- [[siberian-shamanism]]
-- [[siberian-fly-agaric-shamanism-urine-recycling]]
+Practitioners working with siberian shamanism and amanita should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

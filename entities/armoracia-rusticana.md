@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ackermann, P. et al. (2014). "The glucosinolate degradation products iberin and iberverin show antibacterial activity." Frontiers in Plant Science, 5, 577.
-  - Ju, J. et al. (2012). "The glucosinolate-derived isothiocyanate, allyl isothiocyanate, inhibits angiogenesis in vitro." Journal of Nutritional Biochemistry, 23(12), 1638-1645.
-  - Lazányi, J. et al. (2011). "Antimicrobial activity of horseradish juice." Acta Alimentaria, 40(2), 227-235.
-  - Rideout, M. et al. (2003). "Horseradish peroxidase: a review of biotechnological applications." Critical Reviews in Biotechnology, 23(2), 127-148.
   - Wedelsbäck Bladh, K. & Olsson, K.M. (2011). "Introduction and use of horseradish (Armoracia rusticana) as food and medicine from antiquity to the present." fungal-btex-volatile-compound-degradation is responsible for the characteristic sharp, nasal-clearing heat.
 ---
 

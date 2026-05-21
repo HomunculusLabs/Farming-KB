@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sealy, J.R. (1958). A Revision of the Genus Camellia. Royal Horticultural Society, London.
-  - Parks, C.R. (2002). "Camellias." In: J.M. Miller & T. Crockett (eds.), The American Horticultural Society A-Z Encyclopedia of Garden Plants.
-  - Ackerman, W.L. (2012). Beyond the Camellia Belt. American Camellia Society.
   - Zhang, W. et al. (2020). "Phytochemical constituents and biological activities of Camellia japonica." Journal of Agricultural and Food Chemistry, 68(45), 12480-12492.
 ---
 

@@ -5,7 +5,6 @@ tags: [comparison, mushroom-cultivation, outdoor-growing, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 type: comparison
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Manning, W.E. (1940). "The morphology of the flowers of the Juglandaceae." American Journal of Botany, 27(10), 839-852.
-  - Stone, D.E. (1963). "A review of the genus Carya in China." Journal of the Arnold Arboretum, 44, 359-379.
-  - Lu, A.M. & Stone, D.E. (1994). "Juglandaceae." In: Flora of China, Vol. 4, 267-275.
-  - Grauke, L.J. et al. (2011). "A phylogenetic analysis of Carya." Tree Genetics and Genomes, 7(2), 329-341.
   - Fang, J.Y. et al. (2012). "Forest growing-gourmet-north-american-reishi-species relatives such as pecan (polypore-fungi-eastern-north-america and eastern Asia.
 ---
 

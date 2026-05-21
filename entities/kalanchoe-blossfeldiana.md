@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Boiteau, P. & Allorge-Boiteau, L. (1995). "Kalanchoe (Crassulacées) de Madagascar." Éditions Karthala.
-  - Descoings, B. (2003). "Flore de Madagascar et des Comores: Crassulaceae." Muséum National d'Histoire Naturelle.
-  - Royal Horticultural Society (2023). "Kalanchoe blossfeldiana — RHS Gardening." rhs.org.uk.
-  - Smith, G.F. & Figueiredo, E. (2018). "Kalanchoe of Madagascar." Brittonia, 70(2).
   - Jacobsen, H. (1970). "Lexicon of Succulent Plants." Blandford Press.
 ---
 

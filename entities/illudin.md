@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "McMorris, T.C. & Anchel, M. (1965). \"The isolation and structure of illudin S and illudin M.\" Journal of the American Chemical Society, 87(13), 3010-3011."
-  - "McMorris, T.C. et al. (1987). "Synthesis of illudin S." Tetrahedron Letters, 28(25), 2867-2870."
-  - "Cwik, M.J. et al. (2002). \"Irofulven (6-hydroxymethylacylfulvene, MGI 114), a novel semisynthetic derivative of illudin S.\" Investigational New Drugs, 20(1), 1-12."
   - "Kellogg, G.E. et al. (2004). "Mechanism of action of illudins: alkylation of DNA and thiols." Chemical Research in Toxicology, 17(2), 175-181."
 ---
 
@@ -80,3 +77,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+Further research into illudin continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind illudin provides a foundation for both practical application and continued scientific inquiry.

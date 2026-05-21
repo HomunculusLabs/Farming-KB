@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Davis, P.H. (1982). Flora of Turkey and the East Aegean Islands, Vol. 7. Edinburgh University Press.
-  - RHS (2024). "Stachys byzantina." Royal Horticultural Society Plant Finder.
   - Wikipedia contributors (2024). "Stachys byzantina." Wikipedia, The Free Encyclopedia.
 ---
 

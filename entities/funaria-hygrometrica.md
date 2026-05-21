@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
-  - Shaw, A.J. & Goffinet, B. (2000). "Bryophyte Biology." Cambridge University Press.
   - Magill, R.E. (1990). "Flora of psilocybe-semilanceata, occurring on every continent including Antarctica.
 ---
 

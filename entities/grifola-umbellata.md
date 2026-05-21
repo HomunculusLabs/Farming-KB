@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wasser, S.P. (2002). \"comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides.\" Applied Microbiology and Biotechnology, 60(3), 258-274."
-  - "Ooi, V.E.C. & Liu, F. (2000). \"Immunomodulation and anti-cancer activity of polysaccharide-protein complexes.\" Current Medicinal Chemistry, 7(7), 715-729."
-  - "Bissett, J. (1990). Grifola. In: Fungi of Canada. Agriculture Canada.
-  - "Zhang, L. et al. (2007). \"Structure and antitumor activity of a polysaccharide from Grifola umbellata.\" Carbohydrate Polymers, 68(1), 120-125."
   - "Dai, Y.C. & Yang, Z.L. (2008). \"A revised checklist of medicinal fungi in China.\" Mycosystema, 27(6), 801-824."
 ---
 

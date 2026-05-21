@@ -6,7 +6,6 @@ tags: [grazing, livestock, planned-grazing, animal-impact, stock-density]
 related: [savory-holistic-management-overview, savory-brittle-environments, savory-desertification-causes]
 type: concept
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
 

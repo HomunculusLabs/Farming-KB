@@ -9,9 +9,6 @@ tags:
 date: 2026-05-07
 updated: 2026-05-07
 sources:
-  - "Keller, S. (2007). \"Entomophthora muscae and the related species from the E. muscae complex.\" Mycologia, 99(4), 508-517."
-  - "Elya, C. et al. (2018). \"Robust dynamics of Entomophthora muscae infection in Drosophila melanogaster.\" PLoS Pathogens, 14(7), e1007216."
-  - "Hajek, A.E. & St. Leger, R.J. (1994). \"Interactions between bloomfield-fungal-pathogens-and-parasites and insect hosts.\" Annual Review of Entomology, 39, 293-322."
   - "Roy, H.E. et al. (2006). \"Bizarre interactions and endgames: singh-entomopathogenic-fungi-biocontrol-agents and their arthropod hosts.\" Annual Review of Entomology, 51, 331-357."
 ---
 

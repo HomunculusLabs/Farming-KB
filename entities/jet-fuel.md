@@ -17,7 +17,6 @@ tags:
   - focus
   - creative
 sources:
-  - Leafly. "Jet Fuel Weed Strain Information." www.leafly.com/strains/jet-fuel
   - AllBud. "Jet Fuel 
 renowned for its potent cerebral effects and pungent diesel-fuel aroma. Bred by 303 Seeds
 in Colorado, it combines the energetic genetics of Aspen OG with the legendary

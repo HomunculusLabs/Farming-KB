@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications (Borneo).
-  - Adam, J.H. & Wilcock, C.C. (1998). "Nepenthes of Mount Kinabalu." Sabah Parks Publications.
-  - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique de Buitenzorg.
-  - Schlauer, J. (2000). "Nepenthaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants.
   - World Carnivorous Plant Society. "Nepenthes villosa." https://www.carnivorousplants.org/cp/database/Nepenthes/villosa
 ---
 

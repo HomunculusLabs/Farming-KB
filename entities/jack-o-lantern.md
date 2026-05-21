@@ -6,7 +6,6 @@ tags: [fungi, bioluminescence, toxic-mushroom, lookalike, mycology, forest-ecolo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Desjardin, D.E. et al. (2008). "Bioluminescence in Fungi." Mycologia.
   - Kuo, M. (2023). MushroomExpert.com — Omphalotus species
 ---# Jack-o'-Lantern Mushroom (Omphalotus olearius)
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Schuster RM (1980). "The Hepaticae and Anthocerotae huckleberries-and-wild-berries-of-north-america." Vol. IV. Columbia University Press.
-  - Paton JA (1999). "The Liverwort Flora of the British Isles." Harley Books.
-  - Hodgetts NG et al. (2020). "An annotated checklist of bryophytes of Europe and Macaronesia." Journal of Bryology 42(1).
   - Gradstein SR (2021). "The Liverworts and Hornworts of Colombia and Ecuador." Springer.
 ---
 

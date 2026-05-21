@@ -11,10 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Darrow G.M. (1966). "The Strawberry: History, Breeding and Physiology." Holt, Rinehart and Winston.
-  - Hummer K.E. et al. (2009). "Fragaria: A Genus with Deep Historical Roots and Modern Appeal." HortScience 44(5): 1255-1259.
-  - USDA NRCS (2024). "Fragaria virginiana Duchesne." PLANTS Database.
-  - Hanna J.W. (2022). "Evolution and Diversity of the Wild Strawberry." Frontiers in Plant Science 13: 865234.
   - Bassi P.V. et al. (2021). "The Ellagic Acid Content of growing-gourmet-north-american-reishi-species Wild Strawberries." Food Chemistry 340: 128267.---
 ---
 
@@ -81,3 +77,5 @@ The fruit also provides potassium (150–180 mg per 100 g), magnesium, and iron.
 The species is notable for its high ellagitannin content, particularly ellagic acid, which ranges from 0.5–1.2 mg/g fresh weight depending on accession and growing conditions. Bassi et al. (2021) documented significant variation in ellagic acid among wild populations, with western montane accessions showing higher concentrations than eastern lowland populations.
 
 Total phenolic content ranges from 150–300 mg GAE per 100 g fresh weight, with considerable variation among subspecies. Subspecies *glauca* typically shows higher phenolic content than subsp. *virginiana*, likely reflecting adaptation to higher UV exposure at montane elevations. The antioxidant capacity of wild *F. virginiana* fruit consistently exceeds that of commercial cultivars in comparative assays.
+Further research into fragaria virginiana continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind fragaria virginiana provides a foundation for both practical application and continued scientific inquiry.

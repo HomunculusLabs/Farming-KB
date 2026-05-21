@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wei, F. et al. (2019). "Chemical composition and biological activities of Litsea species." Journal of Ethnopharmacology, 245, 112173.
-  - Li, J. et al. (2017). "Essential oil composition of Litsea species from southern China." Chemistry & Biodiversity, 14(12), e1700334.
-  - Flora of China Editorial Committee (2008). "Flora of China, Vol. 7: Menispermaceae through Capparaceae." Science Press.
-  - Chen, S. et al. (2015). "Phytochemistry and pharmacology of the genus Litsea." Natural Product Communications, 10(8), 1391–1400.
   - Wu, Z. & Raven, P.H. (1999). "Lauraceae." In Flora of China, Vol. 7. Missouri Botanical Garden.
 ---
 

@@ -10,7 +10,6 @@ tags:
   - psilocybin
   - identification
 sources:
-  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -20,7 +19,7 @@ The ecological niches and substrates where psilocybin-containing mushrooms natur
 
 ## Overview
 
-[[psilocybin-mushrooms]] are [[saprophytic-fungi]] -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
+Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
 
 ## Major Habitat Categories
 
@@ -28,7 +27,7 @@ The ecological niches and substrates where psilocybin-containing mushrooms natur
 
 The most characteristic habitat for many psilocybin species, particularly in tropical and subtropical regions:
 
-- **Primary species**: *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
+- **Primary species**: *Psilocybe cubensis* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
 - Other dung-associated species include *Panaeolus cyanescens*, *P. subbalteatus*, and *P. coprophila*.
 - Mushrooms typically fruit directly from dung pats or from soil heavily enriched with manure.
 - Seasonal availability depends on rainfall patterns; in tropical regions, fruiting can occur year-round during wet periods.
@@ -38,8 +37,8 @@ The most characteristic habitat for many psilocybin species, particularly in tro
 
 Temperate grassland habitats support some of the most widely distributed psilocybin species:
 
-- **Primary species**: *[[psilocybe-semilanceata]]* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
-- *[[panaeolus-cinctulus]]* occurs in horse pastures and manured fields.
+- **Primary species**: *Psilocybe semilanceata* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
+- *Panaeolus cinctulus* occurs in horse pastures and manured fields.
 - Grassland species typically prefer cool, damp autumn conditions and are among the most widely distributed psilocybin fungi in Europe and North America.
 - Species in this habitat often fruit in fairy rings or scattered clusters.
 
@@ -47,8 +46,8 @@ Temperate grassland habitats support some of the most widely distributed psilocy
 
 Urban and suburban environments support psilocybin mushrooms in landscaped areas:
 
-- **Primary species**: *[[psilocybe-cyanescens]]* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
-- *[[psilocybe-allenii]]* and *P. ovoideocystidiata* also occur in mulched garden beds.
+- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
+- *Psilocybe allenii* and *P. ovoideocystidiata* also occur in mulched garden beds.
 - These species benefit from the nutrient-rich, moisture-retentive environment of hardwood bark mulch.
 - Fruiting typically occurs in autumn when temperatures drop and moisture increases.
 
@@ -99,10 +98,10 @@ High-altitude grasslands support specialized species:
 - Habitat knowledge is essential for safe identification. Many deadly poisonous mushrooms share habitats with psilocybin species.
 - The greatest risk in dung habitats is confusion with *Panaeolus* species, some of which are toxic.
 - In grasslands, psilocybin species can be confused with various toxic *Galerina* and *Inocybe* species that share similar niches.
-- See psilocybin mushroom identification guide for identification features and [[psychedelic-harm-reduction]] for safety practices.
+- See [[psilocybin-mushroom-identification-guide]] for identification features and [[psychedelic-harm-reduction]] for safety practices.
 
 ## Related Topics
 
 - [[psilocybin-mushroom-global-distribution]] for geographic range
-- psilocybin mushroom identification guide for field identification
+- [[psilocybin-mushroom-identification-guide]] for field identification
 - [[psychedelic-mushroom-pharmacology]] for the active compounds

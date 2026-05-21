@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Alok, S. et al. (2013). "Plant profile, phytochemistry and pharmacology of Asparagus racemosus (Shatavari)." Asian Pacific Journal of Tropical Disease, 3(3), 242-251.
-  - Pandey, S. et al. (2018). "Asparagus racemosus: A review." Pharmacognosy Reviews, 12(23), 57-62.
-  - Williamson, E.M. (2002). "Major Herbs of Ayurveda." Churchill Livingstone.
-  - Chopra, R.N., Nayar, S.L., Chopra, I.C. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
   - Ketkar, A. et al. (2022). "Asparagus racemosus Willd. — A comprehensive review on ethnobotany, phytochemistry, and pharmacological activities." Journal of Ethnopharmacology, 285, 114862.
 ---
 

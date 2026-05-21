@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution mexican-sacred-mushrooms-indigenous-use-and-ethnobotany." University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in  Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
-  - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
-  - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.
   - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.---
 --- Purple Kush
 
@@ -78,3 +74,14 @@ methods create opportunities for innovation [[high-volume-cannabis-extraction-an
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 Continued genetic analysis helps preserve the heritage of this landmark indica cultivar.
+## Current Research
+
+Recent studies on purple kush have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with purple kush should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -9,7 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barros, L., et al. (2014). "Bioactivity and chemical characterization of Bellis perennis." Food Chemistry, 153, 404-410.
   - Kovačević, N., et al. (2006). "oyster-mushroom-log-cultivation-temperate-regions-short-log-method, occurring naturally in meadows, pastures, and lawns across its range.
 ---
 

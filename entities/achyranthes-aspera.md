@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Khare, C.P. (2007). Indian Medicinal Plants: An Illustrated Dictionary. Springer-Verlag.
-  - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Nadkarni, K.M. (1976). Indian copelandia-cyanescens-pantropical-distribution-and-ecology, occurring across South and guzman-psilocybin-mushrooms-south-america, and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
 ---
 

@@ -131,4 +131,4 @@ Mycofiltration fits naturally into [[permaculture-design]] and [[swale-design-co
 - [[bunker-spawn-method]] for spawn production
 - [[mycoremediation-techniques]] for deployment strategies
 - [[straw-cultivation-methods]] for substrate preparation
-- [[mycorestoration]] for the umbrella concept
+- [[mycorestoration-overview]] for the umbrella concept

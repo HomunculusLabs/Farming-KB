@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tamura M (1995). "Ranunculaceae." In: Iwatsuki K, Boufford DE, Ohba H (eds.), Flora of Japan, Vol. IIa: 159–222. Kodansha, Tokyo.
-  - Lehnebach CA (2004). "Phylogenetic relationships in Thalictrum." Poster abstract, Systematic Botany.
   - Grey-Wilson C (2014). "Thalictrum: A Gardener's Guide." The Plantsman 13(3): 162–167.
 ---
 

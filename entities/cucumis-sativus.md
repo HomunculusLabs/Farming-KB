@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Paris, H.S. (2015). "Origin and emergence of the sweet melon." Annals of Botany 116(2): 133–148.
-  - Walters, T.W. & Decker-Walters, D.S. (2005). "Cucumis." In: CABI Crop Protection Compendium.
-  - Staub, J.E. et al. (2008). "Cucumber." In: Prohens & Nuez, Vegetables I, Springer.
   - Wehner, T.C. (2006). "Cucumber breeding." In: Plant Breeding Reviews 6: 323–359.
 ---
 

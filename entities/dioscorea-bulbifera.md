@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Coursey, D.G. (1967). "Yams: Account of the Nature, Origins, Cultivation and Utilisation of the Useful Members of the Dioscoreaceae." Longmans.
-  - Burkill, I.H. (1960). "The Organography and Evolution of the Dioscoreaceae, the Family of the Yams." Journal of the Linnean Society of Botany, 56(366), 319-412.
-  - Osunde, Z.D. & Orhevba, B.A. (2009). "Effect of dighton-fungal-nutritional-composition-animal-diets of aerial yam (Dioscorea bulbifera)." African Journal of Food Science, 3(4), 102-107.
   - Overholt, W.A. et al. (2016). "Air potato (Dioscorea bulbifera): Invasive or useful?" Invasive Plant Science and Management, 9(2), 154-161.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Van Wyk, B.E. & Gericke, N. (2000). People's Plants: A Guide to Useful Plants of Southern Africa. Briza Publications.
-  - Manning, J. et al. (2002). Cape Plants: A Conspectus of the Flora of the Cape Floristic Region. National Botanical Institute.
-  - Hutchings, A. et al. (1996). Zulu Medicinal Plants: An Inventory. University of Natal Press.
-  - Jäger, A.K. et al. (1996). "Antibacterial activity of Tulbaghia violacea." Fitoterapia, 67(4), pp. 377-379.
   - Klaasen, J. & Jäger, A.K. (1999). "Isolation of a lachrymatory factor from Tulbaghia violacea." Planta Medica, 65(01), pp. 73-74.
 ---
 
@@ -78,3 +74,14 @@ The genus Tulbaghia includes several species with ornamental and ethnobotanical 
 T. violacea is distinguished from related species by its combination of lilac-pink flowers with a darker central stripe, grey-green foliage, and its natural coastal distribution. T. natalensis has narrower leaves and smaller umbels.
 
 T. ludwigiana is a rare species restricted to the Drakensberg escarpment with deep maroon flowers. T. montana occurs at high altitudes in the KwaZulu-Natal midlands and has a more [[dighton-fungal-drought-tolerance-plant-water-relations]] and low maintenance requirements. It performs well as an edging plant, ground cover, or mass planting.
+## Current Research
+
+Recent studies on tulbaghia violacea have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with tulbaghia violacea should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

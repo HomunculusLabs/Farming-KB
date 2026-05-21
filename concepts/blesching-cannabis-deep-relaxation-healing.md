@@ -5,7 +5,6 @@ tags: [cannabis, relaxation-response, mind-body-medicine, stress-reduction, nitr
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---
 

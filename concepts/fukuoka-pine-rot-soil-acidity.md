@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   -  in about forty
 percent of samples. These included black change mold and three types of blue
 change mold, all previously undocumented pathogens foreign to the area.

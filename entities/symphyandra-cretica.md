@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
-  - Damboldt J. (1976). "Zur Taxonomie und Chorologie der Gattung Symphyandra." Botanische Jahrbücher, 97(1): 1–42.
   - Janchen E. (1958). "Catalogus Florae Austriae, Part 1." Springer, Vienna.
 ---
 

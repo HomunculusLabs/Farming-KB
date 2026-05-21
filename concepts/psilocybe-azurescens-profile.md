@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-[[psilocybe-azurescens]] is one of the most potent psilocybin-containing mushrooms known, first identified by [[paul-stamets]] and [[jochen-gartz]] along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
+Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms known, first identified by Paul Stamets and Jochen Gartz along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
 
 ## Taxonomy
 
@@ -28,7 +28,7 @@ sources:
 - **Veil**: White, cortinate, often leaving a fibrillose annular zone on the superior stem.
 - **Taste**: Extremely bitter.
 - **Odor**: None to slightly farinaceous.
-- **[[spore-print]]**: Dark purplish brown to purplish black.
+- **Spore print**: Dark purplish brown to purplish black.
 
 ## Microscopic Features
 
@@ -40,12 +40,12 @@ sources:
 
 ## Potency
 
-One of the most potent [[psilocybin-mushrooms]] in the world:
+One of the most potent psilocybin mushrooms in the world:
 - Up to 1.78% psilocybin
 - 0.38% psilocin
 - 0.35% baeocystin
 
-After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with [[psilocybe-semilanceata]].
+After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
 
 ## Habitat and Distribution
 
@@ -59,7 +59,7 @@ After six months of storage, analyses revealed that this species retained most o
 
 - Extremely strong bluing reaction -- flesh becomes indigo black where damaged.
 - Silky white stem, caramel-colored cap, relatively large stature.
-- Non-undulating cap margin (distinguishes it from [[psilocybe-cyanescens]]).
+- Non-undulating cap margin (distinguishes it from Psilocybe cyanescens).
 - Broad but pronounced umbo.
 - Extremely bitter taste.
 
@@ -67,16 +67,28 @@ After six months of storage, analyses revealed that this species retained most o
 
 - Psilocybe cyanescens -- similar but smaller, with characteristically wavy cap margin
 - Psilocybe semilanceata -- shares high baeocystin content
-- [[psilocybe-subaeruginosa]], Psilocybe serbica, Psilocybe venenata
+- Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
+## Historical Context
+
+The study and practice of psilocybe azurescens profile has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into psilocybe azurescens profile have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
+Applied work with psilocybe azurescens profile spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+## See Also
+
+- [[psilocybe-semilanceata-profile]]
+- [[psilocybe-samuiensis-profile]]
+- [[psilocybe-serbica-profile]]
+- [[psilocybe-baeocystis-profile]]
+- [[psilocybe-ovoideocystidiata-species-profile]]

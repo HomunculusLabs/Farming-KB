@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, biology, lab-technique, academia, methods]
-sources:
-  - "raw/papers/working-with-agar.md"
+sources: []
 ---
 
 # Mushroom Genetics and Strain Selection
@@ -106,7 +105,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 ## Popular Strains and Selection Criteria
 
-### For [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
+### For Psilocybe cubensis
 
 | Strain | Origin | Characteristics |
 |--------|--------|-----------------|
@@ -116,7 +115,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 | Cambodian | Angkor Wat | Fast colonizer, moderate-high potency |
 | Ecuador | Ecuadorian highlands | Large, classic appearance, consistent |
 | Thai | Koh Samui | Fast, moderate potency, prolific |
-| Albino A+ | Mutation of A+ | Leucistic ([[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]), higher potency than standard A+ |
+| Albino A+ | Mutation of A+ | Leucistic (white), higher potency than standard A+ |
 | PE6 | PE hybrid | Combines PE potency with easier cultivation |
 
 ### Selection Criteria
@@ -142,9 +141,14 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 ### Microscopy
 
+- Spore size and shape can indicate species and sometimes strain
+- Basidium morphology, cheilocystidia shape — taxonomic identification
+- Requires compound microscope (400-1000x magnification)
+
+### DNA Barcoding
+
+- ITS (Internal Transcribed Spacer) region is the standard barcode for fungi
 ## See Also
 
-- [[fungal-biology-fundamentals]] for the complete fungal lifecycle
-- [[fungal-sexual-reproduction]] for mating type genetics
-- [[agar-work-guide]] for isolation techniques
-- [[mushroom-spawn-making-detailed]] for propagating selected strains
+- [[green-cannabis-grow-bible-strain-selection-genetics]]
+- [[oner-chemdawg-lineage-genetics-strain-profile]]

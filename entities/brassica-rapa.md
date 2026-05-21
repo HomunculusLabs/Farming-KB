@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Warwick, S.I. et al. (2000). "Brassica rapa." In: Brassicaceae, CRC Press.
-  - Prakash, S. & Hinata, K. (1980). "Taxonomy, cytogenetics and origin of Brassica." Advances in Agronomy 33: 237–276.
-  - Song, K. et al. (1990). "rapd-molecular-marker-techniques-fungi analysis of Brassica rapa." Theoretical and Applied Genetics 79: 499–506.
   - Toxopeus, H. & Jansen, R. (1975). "Brassica rapa L." In: Crop Genetic Resources for Today and Tomorrow, Cambridge University Press.
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Galle, O.R. (1997). "Hollies: The Genus Ilex." Timber Press.
-  - Rivera, D. et al. (2007). "Ilex aquifolium L." In: Medicinal and Aromatic Plants of the World. Springer.
-  - Køie, M. et al. (2005). "A Field Guide to the Trees of Europe." Oxford University Press.
-  - Tutin, T.G. et al. (1968-1993). "Flora Europaea, Vol. 2." Cambridge University Press.
   - Bean, W.J. (1980). "Trees and Shrubs Hardy in the British Isles, Vol. 2." John Murray.
 ---
 

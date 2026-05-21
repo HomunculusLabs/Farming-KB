@@ -9,7 +9,7 @@ sources: []
 
 # Beekeeping Seasonal Calendar
 
-Successful beekeeping requires aligning [[cotter-natural-pest-control-disease-management]] tasks with the natural
+Successful beekeeping requires aligning management tasks with the natural
 annual cycle of the colony. This calendar provides month-by-month guidance
 for temperate climates (USDA zones 5-7). Adjust timing by 2-4 weeks for
 warmer or cooler zones.
@@ -55,7 +55,7 @@ warmer or cooler zones.
 - Main nectar flow in most regions — keep supers on
 - Reduce or stop syrup feeding when natural nectar is abundant
 - Continue weekly swarm checks early in the month
-- [[query-when-should-i-flush-my-cannabis-plants-before-harvest]] early honey if frames are capped (at least 80%)
+- Harvest early honey if frames are capped (at least 80%)
 - Monitor Varroa levels — treat if threshold exceeded (3% mite load)
 - Ensure adequate ventilation — prop up inner covers or use screened boards
 

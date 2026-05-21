@@ -46,7 +46,7 @@ Beyond the fourteen essential mineral nutrients, request these additional tests:
 ## Follow Through and Frequency
 
 Most important, all good soil test reports come with specific suggestions for correcting any nutrient deficiencies or excesses. This is what makes the tests worth their minor cost. Make sure your laboratory knows the size of your garden, so recommendations are scaled appropriately. Also ensure the laboratory understands you are an organic gardener and will provide recommendations using [[nutrient-cycling-in-soil]]
-- [[glomalin-and-soil-carbon]]
+- [[glomalin]]
 
 ## Interpreting Nutrient Levels
 

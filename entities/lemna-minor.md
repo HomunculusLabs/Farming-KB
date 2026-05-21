@@ -11,7 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Landolt, E. (1986). \"The family of Lemnaceae — a monographic study.\" Veröffentlichungen des Geobotanischen Institutes der ETH, Stiftung Rübel, 71."
   - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for mollison-designers-wastewater-treatment-wetlands, and potential biofuel feedstock.
 ---
 

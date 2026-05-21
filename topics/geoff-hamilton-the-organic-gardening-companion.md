@@ -5,10 +5,8 @@ created: 2026-05-09
 updated: 2026-05-09
 tags: [organic-gardening, soil-health, composting, pest-control, propagation, fruit-growing, greenhouse, ornamental-gardening, geoff-hamilton, permaculture]
 sources:
-  - Hamilton, G. The Organic Gardening Companion (Nick Hamilton edition). Various chapters.
 type: topic
 related_concepts:
-  - hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles
   - hamilton-organic-soil-management
   - hamilton-the-four-phases-of-soil-management
   - hamilton-deep-bed-system

@@ -7,7 +7,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/medical-botany-heywood.md"
-  - "raw/papers/medicinal-plants-of-north-america-foster.md"
   - "raw/papers/physicians-desk-reference-for-herbal-medicine.md"
 ---
 

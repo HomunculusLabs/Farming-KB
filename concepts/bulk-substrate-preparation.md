@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized [[grain-spawn]] at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
+Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized grain spawn at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for Psilocybe cubensis is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
 
 ## CVG: The Standard Substrate
 
@@ -19,7 +19,7 @@ Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium 
 - Processed from coconut husk fibers, usually sold in compressed bricks (650g is standard).
 - Naturally resistant to contamination — coconut coir contains tannins and other compounds that inhibit microbial growth.
 - Excellent water retention capacity (holds 8-9 times its weight in water).
-- Near-neutral pH (6.0-6.8), ideal for [[accessible-mushroom-cultivation-for-disabilities]].
+- Near-neutral pH (6.0-6.8), ideal for mushroom cultivation.
 - No nutritional supplementation needed for cubensis, though it can be added.
 
 **Vermiculite**
@@ -89,18 +89,18 @@ Horse manure is a traditional substrate, especially for outdoor grows. It provid
 
 ### Straw
 
-Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for [[oyster-mushroom-cultivation]]. Less common for cubensis monotubs due to the extra preparation work.
+Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for oyster mushroom cultivation. Less common for cubensis monotubs due to the extra preparation work.
 
 ### Compost
 
-[[mushroom-compost]] or custom compost mixes can produce excellent results but require careful preparation. The composting process itself must reach thermophilic temperatures (130-170F) to kill pathogens and weed seeds. Not recommended for beginners.
+Mushroom compost or custom compost mixes can produce excellent results but require careful preparation. The composting process itself must reach thermophilic temperatures (130-170F) to kill pathogens and weed seeds. Not recommended for beginners.
 
 ### CVG + Supplementation
 
 Adding nutrition to CVG can boost yields but increases contamination risk:
 
 - **Coffee grounds**: 5-10% by volume. Adds nitrogen. Can be added fresh to bucket tek.
-- **[[wheat-bran]]**: 5-10% by volume. Adds carbohydrates and nitrogen. Requires proper pasteurization.
+- **Wheat bran**: 5-10% by volume. Adds carbohydrates and nitrogen. Requires proper pasteurization.
 - **Blood meal or bone meal**: 2-5% by volume. High nitrogen. Requires pasteurization.
 - **Millet or ground grain**: 5-10% by volume. Very nutritious but very contamination-prone.
 

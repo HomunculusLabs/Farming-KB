@@ -5,12 +5,8 @@ tags: [figs, fruit-trees, variety-selection, climate-zones, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "California Rare Fruit Growers (CRFG) — Fig Fruit Facts"
-  - "University of Florida IFAS Extension — Fig Cultivation Guide"
-  - "Texas A&M AgriLife Extension — Fig Production in Texas"
   - "Stark Bro's Nurseries — Fig Variety Guide"
   - "FigBuddies.com — Community Variety Database"
-  - "Pennsylvania State University Extension — Cold-Hardy Fig Growing"
 type: query
 ---
 ## Final Thoughts

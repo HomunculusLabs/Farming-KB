@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chen, C.K. et al. (2016). "Ophiopogon japonicus — a review of phytochemistry and pharmacology." Journal of Ethnopharmacology.
-  - Wang, J. et al. (2013). "Steroidal saponins from Ophiopogon japonicus tubers." Phytochemistry.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China.
   - Kou, J.P. et al. (2005). "Anti-inflammatory activities of homoisoflavonoids from Ophiopogon japonicus." Planta Medica.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ikeya, Y. et al. (1979). "The Constituents of Kadsura japonica." Chemical & Pharmaceutical Bulletin, 27(7), 1583–1588.
-  - Kuo, Y.H. et al. (2004). "Lignans and Triterpenoids from Kadsura japonica." Journal of Natural Products, 67(11), 1898–1903.
-  - Huang, P. et al. (2008). "Kadsura Species: Ethnopharmacology, Phytochemistry and Pharmacology." Chemistry & Biodiversity, 5(10), 1905–1916.
-  - Oh, S.Y. et al. (2015). "Schisandraceae: A Review of Traditional Uses, Phytochemistry, and Pharmacology." Journal of Ethnopharmacology, 173, 44–66.
   - Ma, G. et al. (2011). "Triterpenoids from Kadsura japonica and their Anti-inflammatory Activity." Planta Medica, 77(11), 1226–1230.
 ---
 

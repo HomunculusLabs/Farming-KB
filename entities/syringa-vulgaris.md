@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fiala, J.L. (1988). Lilacs: The Genus Syringa. Timber Press.
-  - Green, J.S. (1973). "A Monograph of the Genus Syringa." Journal of the Arnold Arboretum, 54(3), 269–341.
-  - Weeks, D.C. (2000). "Syringa vulgaris Cultivar Registration." HortScience, 35(4), 752–761.
-  - Royal Horticultural Society. (2024). "Syringa vulgaris." RHS Plant Finder.
   - McKelvie, A.D. (2000). Grower's Guide to Lilacs. Arrowhead Press.
 ---
 

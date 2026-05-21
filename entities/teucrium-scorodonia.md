@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Newbey, C.R. & Jury, S.L. (1986). "A revision of Teucrium section Scorodonia." Botanical Journal of the Linnean Society, 92(1–2), 49–73.
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed., C&M Floristics.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Pérez-García, F. et al. (2006). "calluna-vulgaris*), bilberry (*pteridium-aquilinum*). It is a common component of Atlantic heathland communities.
 ---
 

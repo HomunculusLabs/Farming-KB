@@ -17,7 +17,7 @@ Central America. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
-pain reliever. [[passiflora-incarnata]] is the primary species used medicinally
+pain reliever. Passiflora incarnata is the primary species used medicinally
 in North American and European herbal practice.
 
 ## Botanical Profile
@@ -38,7 +38,7 @@ its range and regrows vigorously from the root system in spring.
 ## Medicinal Uses
 
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-[[harmala-alkaloids]] (harmine, harmaline in small amounts), and GABA-boosting
+harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:
@@ -138,13 +138,18 @@ From layering:
   - Containing in large pots or raised beds with root barriers
 
 ## Pollinator Plant
+
+Passionflower is an excellent pollinator plant:
+- The complex flowers are pollinated primarily by large bees (carpenter
+  bees, bumblebees) and some butterfly species
+- The leaves are the sole larval food source for several butterfly species,
+  most notably the Gulf fritillary (Agraulis vanillae), variegated fritillary,
+  and zebra longwing
+## Harvesting
+
+Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
 ## See Also
 
-- [[valerian-growing-guide]] -- the classic combination with passionflower
-  for sleep and relaxation formulas
-- [[yarrow-plant-guide]] -- pair with passionflower in nervine tea blends
-  for daytime anxiety support
-
-## Related
-
-- [[st-johns-wort-guide]]
+- [[query-how-do-i-grow-and-use-passionflower-in-my-garden]]
+- [[comparison-passionflower-vs-tulsi]]
+- [[comparison-chamomile-vs-passionflower]]

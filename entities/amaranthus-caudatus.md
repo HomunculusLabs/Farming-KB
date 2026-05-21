@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Stallknecht GF, Schulz-Schaeffer JR (1993). "Amaranth rediscovered." Cereals Foods World 38(7): 487–492.
-  - Repo-Carrasco R et al. (2003). "Kañiwa and kiwicha." In: Underutilized Andean Crops. CIP.
-  - Berger J et al. (2013). "Amaranth." In: Genetic Resources, Chromosome Engineering, and Crop Improvement Vol. 7. CRC Press.
   - Espitia-Rangel E (1994). "Amaranth: The crop of the future." Ceres 26(5): 403–408.
 ---
 

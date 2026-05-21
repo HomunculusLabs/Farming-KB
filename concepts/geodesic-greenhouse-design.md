@@ -9,7 +9,7 @@ sources: []
 
 # Geodesic Greenhouse Design
 
-A geodesic dome greenhouse is a spherical structure made from a network of interlocking triangles. Popularized by [[buckminster-fuller]] in the mid-20th century, the geodesic dome is one of the most efficient structural forms known. As a greenhouse, it offers superior strength, light distribution, energy efficiency, and interior growing space compared to conventional rectangular greenhouses.
+A geodesic dome greenhouse is a spherical structure made from a network of interlocking triangles. Popularized by Buckminster Fuller in the mid-20th century, the geodesic dome is one of the most efficient structural forms known. As a greenhouse, it offers superior strength, light distribution, energy efficiency, and interior growing space compared to conventional rectangular greenhouses.
 
 ## Advantages of the Dome Shape
 
@@ -115,7 +115,7 @@ A proper foundation is essential for the dome's structural integrity:
 - **Wooden base ring:** A pressure-treated 2x6 or 2x8 ring bolted to the bottom tier of the dome, set on gravel or a concrete pad
 - **Concrete ring footing:** A continuous concrete footing poured around the base perimeter, with anchor bolts for the dome frame
 - **Earth bags:** Fill bags with gravel or earth and stack in a ring — provides both foundation and thermal mass
-- **Insulated slab:** For year-round growing, pour an insulated concrete slab with [[radiant-floor-heating]]
+- **Insulated slab:** For year-round growing, pour an insulated concrete slab with radiant floor heating
 
 ## Ventilation
 
@@ -129,7 +129,7 @@ Dome greenhouses can overheat rapidly due to the efficient solar capture. Ventil
 
 ## Passive Solar Features
 
-Enhance the dome's energy efficiency with [[passive-solar-design]]:
+Enhance the dome's energy efficiency with passive solar design:
 
 - **Water storage:** 55-gallon drums painted black and filled with water absorb heat during the day and release it at night. Place along the north wall.
 - **Thermal mass floor:** A stone, brick, or concrete floor absorbs and stores solar heat.
@@ -148,3 +148,4 @@ Enhance the dome's energy efficiency with [[passive-solar-design]]:
 
 - [[grow-tunnel-and-hoop-house]] for simpler, lower-cost season extension structures
 - [[underground-greenhouse-walipini]] for maximum passive solar heating in cold climates
+- [[cold-frame-gardening]] for the simplest season extension option

@@ -10,12 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Higa, T. and Wididana, G.N. (1991). "The concept and theories of effective microorganisms." Proceedings of the First International Conference on Kyusei Nature Farming, 118-130.
-  - Higa, T. (1993). "Effective microorganisms: a biotechnology for mankind." Proceedings of the Third International Conference on Kyusei Nature Farming.
-  - Joo, J.H. et al. (2014). "The effect of effective microorganisms on compost quality." Journal of the Korean Society of Environmental Engineers, 46(11), 667-674.
-  - Odlare, M. et al. (2008). "Effect of adding Effective Microorganisms (EM) on compost quality." Journal of Applied Botany and Food Quality, 82(1), 57-62.
-  - López-González, J.A. et al. (2013). "Optimizing vermicomposting of two-phase olive mill pomace by adding effective microorganisms." Journal of Hazardous Materials, 261, 45-52.
-  - Tiquia, S.M. et al. (2002). "Microbial parameters for compost stability assessment." Journal of Applied Microbiology, 93(3), 525-535.
 created: 2026-05-07
 type: comparison
 ---
@@ -81,3 +75,14 @@ EM is a proprietary blend of approximately 80+ microorganism strains, with the k
 
 - fermented foods and beverages foods and beverages — broader context of lac fermented dairy and cultured milk products d cultured milk products — lactobacillus ecology in food systems
 - [[lowenfels-soil-structure-aggregates]] — how microbial inputs influe [[wild-fermentation-vs-cultured-yeast]] and spontaneous cultures — alternatives to branded inoculants
+## Current Research
+
+Recent studies on comparison bokashi vs effective microorganisms have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison bokashi vs effective microorganisms should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

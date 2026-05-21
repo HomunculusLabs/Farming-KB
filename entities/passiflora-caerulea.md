@@ -8,8 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Ulmer, T. & MacDougal, J.M. (2004). Passiflora: Passionflowers of the World. Timber Press."
-  - "RHS (2023). Passiflora caerulea. Royal Horticultural Society."
   - "Dhawan, K. et al. (2004). \"Passiflora: A review update.\" J. Ethnopharmacol., 94(1), 1–23."
 ---
 

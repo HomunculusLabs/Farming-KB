@@ -19,7 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cannabis Cup Archives. "High Times Cannabis Cup Winners 1994–1999." https://hightimes.com
   - ElSohly, M.A. et al. (2016). "Changes in  with a
 legendary status among cannabis enthusiasts. Originally developed in the
 spanish-cannabis-breeding-scene-history. The most widely

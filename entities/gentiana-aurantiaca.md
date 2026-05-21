@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Liu, S.W. (1990). "A revision of Gentiana sect. Chondrophyllae." Acta Museum Helii.
-  - Yuan, Y.M. & Küpfer, P. (1995). "Molecular phylogenetics of Gentianaceae." Plant Systematics and Evolution.
   - China Flora Editorial Committee (2001). Flora of China, Vol. 16. Science Press, Beijing.
 ---
 

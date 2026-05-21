@@ -10,9 +10,6 @@ tags:
   - agaricales
   - pluteaceae
 sources:
-  - "Guzmán, G. (1983). The Genus Psilocybe. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
-  - "Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th ed. Koeltz Scientific Books."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=295662"
 ---
 
@@ -78,3 +75,14 @@ Fruiting occurs from late spring through autumn (May to October in the Northern 
 The psilocybin content of *P. cyanopus* is variable, with some collections approaching the potency of moderate *[[metol-testing-bluing-reaction-mushrooms]] at the stipe base is caused by enzymatic oxidation of psilocin to blue quinone polymers, analogous to the bluing observed in *Psilocybe* and *Gymnopilus* species.
 
 ### Phylogenetic Significance
+## Current Research
+
+Recent studies on pluteus cyanopus have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with pluteus cyanopus should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

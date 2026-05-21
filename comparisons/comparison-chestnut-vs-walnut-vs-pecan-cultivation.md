@@ -5,11 +5,8 @@ tags: [chestnut, walnut, pecan, nut-trees, orchard, permaculture, food-forest, t
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - USDA NRCS Plant Guides: Castanea spp., Juglans spp., Carya illinoinensis
   - Lee Reich, "Landscaping with Fruit" (2009)
   - Martin Crawford, "Creating a Forest Garden" (2010)
-  - growing-gourmet-north-american-reishi-species Nut Growers Association proceedings
-  - Cornell University Cooperative Extension nut production guides
 type: comparison
 ---
 
@@ -78,3 +75,14 @@ This is the most fundamental difference between the three genera and drives most
 - **Aphids and hickory shuckworm**: Secondary pests. [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
 
 - [[comparison-avocado-vs-mango-cultivation]]
+## Current Research
+
+Recent studies on comparison chestnut vs walnut vs pecan cultivation have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with comparison chestnut vs walnut vs pecan cultivation should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

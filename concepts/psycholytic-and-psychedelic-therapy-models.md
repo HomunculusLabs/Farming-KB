@@ -5,7 +5,6 @@ tags: [psychotherapy, psychedelics, psycholytic, lsd, grof, leary, osmond, clini
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 ---
 

@@ -77,7 +77,7 @@ Solomon notes that most gardeners grossly overwater:
 
 ## Related
 
-- [[drip-irrigation]] — Hand watering techniques
+- [[drip-irrigation-guide]] — Hand watering techniques
 - [[irrigation-systems]] — Sprinkler and irrigation systems
 - [[intensive-planting-spacing]] — How spacing affects water needs
 - [[growing-food-in-hard-times]] — The philosophy behind low-input gardening

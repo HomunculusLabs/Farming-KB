@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Les, D.H. et al. (2006). "Phylogeny and Classification of the Ceratophyllaceae." Systematic Botany, 31(4), 737-751.
-  - Wentz, K. (1977). "Ceratophyllaceae." Flora Neotropica Monograph, 19, 1-35.
-  - Champion, P.D. & Clayton, J.S. (2000). "A Weed Risk Assessment for Ceratophyllum Species in New Zealand." NIWA Client Report.
-  - Kadono, Y. (2004). "Aquatic Plants of Japan." Tokai University Press.
   - Aiken, S.G. (1981). "A Conspectus of the Species of Ceratophyllum." Contributions from the Grey Herbarium of Harvard University, 21, 1-21.
 ---
 

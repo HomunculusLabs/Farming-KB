@@ -11,7 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry MD, Guiry GM (2025). "Ulva lactuca L." AlgaeBase.
   - McDermid KJ, Stuercke B (2003). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in seaweed." Journal of Applied Phycology 23: 543–597.
 ---
 

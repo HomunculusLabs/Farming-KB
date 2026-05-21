@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gilbertson RL, Ryvarden L. "growing-gourmet-north-american-reishi-species Polypores, Vol. 1."
     Fungiflora, Oslo, 1986.
   - Ryvarden L, Gilbertson RL. "comparison-spore-print-collection-vs-spore-syringe-production white
 ---

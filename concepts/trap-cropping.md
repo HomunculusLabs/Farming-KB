@@ -147,3 +147,4 @@ Slugs and snails feed at night on a wide range of plants.
 ### Perimeter Trap Cropping
 
 Plant the trap crop completely around the border of the main crop. Pests approaching from outside encounter the trap crop first and concentrate there.
+

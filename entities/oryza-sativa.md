@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Khush, G.S. (1997). "Origin, dispersal, cultivation and variation of rice." Plant Molecular Biology, 35(1-2), 25-34.
-  - Vaughan, D.A., Lu, B.R., & Tomooka, N. (2008). "The evolving story of rice evolution." Plant Science, 174(4), 394-408.
-  - FAO (2024). "Rice Market Monitor." Food and Agriculture Organization of the United Nations.
-  - Garris, A.J., Tai, T.H., Coburn, J., Kresovich, S., & McCouch, S. (2005). "Genetic structure and diversity in Oryza sativa L." Genetics, 169(3), 1631-1638.
   - IRRI (2023). "World Rice Statistics." International Rice Research Institute.
 ---
 

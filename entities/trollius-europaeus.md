@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hörandl, E. et al. (2005). "Phylogeny of the genus Trollius (Ranunculaceae) based on molecular markers." Plant Systematics and Evolution, 251, 35–51.
-  - Tutin, T.G. et al. (1993). "Flora Europaea, Vol. 1." 2nd ed. Cambridge University Press.
-  - Walters, S.M. (1993). "Trollius." In: Flora Europaea, Vol. 1, pp. 264–265.
-  - Cullen, J. et al. (2011). "The European Garden Flora." 2nd ed. Cambridge University Press.
   - Hegi, G. (1912). "Illustrierte Flora von Mitteleuropa." Vol. III. J.F. Lehmanns Verlag.
 ---
 

@@ -10,7 +10,7 @@ sources: []
 # Cattle Husbandry
 
 Cattle are the largest and most land-intensive homestead livestock, but they
-offer unmatched production of meat, milk, and draft power. [[query-how-to-start-beekeeping-on-a-homestead]]
+offer unmatched production of meat, milk, and draft power. On a homestead
 scale, cattle are best managed through rotational grazing on improved pasture,
 minimizing purchased inputs and maximizing the conversion of forage to food.
 
@@ -47,7 +47,7 @@ minimizing purchased inputs and maximizing the conversion of forage to food.
 ## Rotational Grazing
 
 Cattle thrive on rotational grazing systems. Properly managed, one cow-calf
-pair can be sustained on 2-5 acres depending [[altitude-and-latitude-effects-on-climate]] and pasture quality.
+pair can be sustained on 2-5 acres depending on climate and pasture quality.
 
 - Move cattle every 1-7 days. Faster rotations in spring growth, slower in
   summer and fall.
@@ -87,9 +87,9 @@ handler safety.
 ### Parasite Management
 - Deworm based on fecal egg counts, not calendar. Overuse creates resistance.
 - Strategic deworming: at turnout on pasture, mid-summer, and before winter.
-- Cooperia and Ostertagia [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] problematic internal parasites in cattle.
+- Cooperia and Ostertagia are the most problematic internal parasites in cattle.
 - External parasites: flies (horn flies, face flies), lice, ticks. Use
-  pour-on insecticides, fly tags, or [[integrated-pest-management]].
+  pour-on insecticides, fly tags, or integrated pest management.
 
 ### Common Health Issues
 - Bovine Respiratory Disease (BRD) — stress-related, most common in
@@ -127,7 +127,7 @@ handler safety.
 - Cattle finished entirely on pasture and stored forage.
 - Longer finishing period: 24-30 months total (vs 18-20 for grain-finished).
 - Higher omega-3 fatty acids, CLA, vitamin E. Leaner meat.
-- Requires quality [[pasture-management-and-forage]] ntoxication-medical-management-and-first-aid winter feed storage. See
+- Requires quality pasture management and winter feed storage. See
   [[hay-and-forage-management]].
 - Premium market prices available. Requires consistent marbling genetics.
 - Finish on high-quality pasture or stockpiled fescue for best results.
@@ -147,4 +147,4 @@ handler safety.
 ## Calf Management
 
 - Calving difficulty (dystocia) is higher in first-calf heifers. Monitor
-  closely. Assist only if necessary — [[query-how-does-hemoglobin-know-when-to-release-oxygen]] call a vet.
+  closely. Assist only if necessary — know when to call a vet.

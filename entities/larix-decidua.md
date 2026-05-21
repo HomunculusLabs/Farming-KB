@@ -11,8 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Pǎtruț, I. et al. (2014). "Anatomical Features of Larix decidua." Wood Research 59(3).
   - IUCN Red List. "Larix decidua." https://www.iucnredlist.org/
 ---
 

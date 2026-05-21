@@ -15,10 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Fernández, J.A. (2004). Biology, biotechnology and biomedicine of saffron. Recent Research Developments in Plant Science, 2, 127–159."
-  - "Molina, R.V. et al. (2005). Application of a new strategy for the analysis of saffron spice quality control. In: Saffron: The Genus Crocus. Taylor & Francis."
-  - "Kafi, M. et al. (2006). Saffron (Crocus sativus L.). Medicinal and Aromatic Plants—Industrial Profiles. CRC Press."
-  - "Gresta, F. et al. (2008). Saffron, the age-old panacea: A review of its agronomic, economic, and medicinal aspects. Crop & Pasture Science, 59(12), 1097–1108."
   - "Sampathu, S.R. et al. (2014). Saffron (Crocus sativus L.). In: Handbook of Herbs and Spices (2nd ed.). Woodhead Publishing."
 ---
 

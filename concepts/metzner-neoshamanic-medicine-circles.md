@@ -11,7 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metzner, R. (1998). "hallucinogenic-drugs and Plants in hallucinogenic-drugs-in-psychotherapy-and-shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
   - Metzner, R. (Ed.) (1999). Ayahuasca: Human Consciousness and the Spirits of Nature. New York: Thunder's Mouth Press.
 ---
 

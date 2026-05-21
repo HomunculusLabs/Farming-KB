@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gibbons M. & Spanner T. (2010). "Cultivated Palms of the World." Briza Publications.
-  - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Beccari O. (1905). "Le Palme del Genere Trachycarpus." Webbia.
   - Kew Royal Botanic Gardens (2024). "Plants of the World Online: Trachycarpus wagnerianus."
 ---
 

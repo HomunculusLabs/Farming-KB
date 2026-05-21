@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Tubbs, C.H. & Houston, D.R. (1990). "American Beech (Fagus grandifolia Ehrh.)." USDA Forest Service Silvics Manual.
-  - Forrester, J.A., McGee, G.G. & Mitchell, M.J. (2003). "Effects of beech bark disease on aboveground biomass and species composition in a mature northern hardwood forest." Canadian Journal of Forest Research, 33(12), 2262-2275.
   - Cogbill, C.V. (2000). "Dynamics of the fungal-diversity-boreal-forests-taiga of the Laurentian Highlands, Canada." Canadian Journal of Forest Research, 30(7), 1070-1083.
 ---
 

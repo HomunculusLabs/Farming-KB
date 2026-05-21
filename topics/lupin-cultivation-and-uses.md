@@ -14,11 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Gladstones, J.S. (1970). Lupins as Crop Plants. Field Crop Abstracts, 23, 123–148."
-  - "Cowling, W.A. et al. (1998). Lupin breeding in Australia. In 'Lupins: as Crop Plants' (J.S. Gladstones et al.), pp. 373–404. CAB International."
-  - "SARE (Sustainable Agriculture Research & Education). Cover Crop Topic: Lupin. USDA."
-  - "Lucas, M.M. et al. (2015). Advances in legume research. Frontiers in Plant Science, 6, 364."
-  - "Petterson, D.S. (1998). Composition and food uses of lupins. In 'Lupins as Crop Plants', CAB International."
   - "Wink, M. (2013). Evolution of antifungal-secondary-metabolites-coprophilous-fungi in legumes. Journal of Experimental Botany, 64, 601–616."
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
-  - Tang, J. & Eisenbrand, G. (1992). Chinese Drugs of Plant Origin. Springer-Verlag.
-  - Wang, Z. et al. (2012). "Iridoid glycosides from Gentiana dahurica." Journal of Natural Products, 75(4), 827–832.
   - Royal Botanic Gardens Kew. "Gentiana dahurica." Plants of the World Online.
 ---
 

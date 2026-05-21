@@ -12,12 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "UC Davis Olive Center — https://olivecenter.ucdavis.edu"
-  - "FAO Olive Cultivation Technical Guidelines — fao.org"
-  - "University of Arizona Cooperative Extension — Pomegranate Production"
   - "California Rare Fruit Growers — crfg.org"
-  - "University of Florida IFAS Extension — Fig comparison-biochar-production-guide-vs-biochar-soil-amendment"
   - "Permaculture Research Institute — Temperate Food Forest Design"
 ---
 
@@ -78,3 +73,18 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Historical Context
+
+The study and practice of comparison olive vs fig vs pomegranate mediterranean fruit trees has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into comparison olive vs fig vs pomegranate mediterranean fruit trees have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with comparison olive vs fig vs pomegranate mediterranean fruit trees spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

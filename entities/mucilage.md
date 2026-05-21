@@ -65,7 +65,7 @@ Mucilage composition changes based on nutrient demand (plants modify exudates in
 
 - [[root-hairs]]
 - [[rhizobia]]
-- [[glomalin-and-soil-carbon]]
+- [[glomalin]]
 - [[cation-exchange-capacity]]
 - [[endodermis]]
 

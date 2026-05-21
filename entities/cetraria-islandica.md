@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Ingólfsdóttir, K. (2002). "Usnic Acid." Phytochemistry, 61(7), 729–736.
-  - Freysdottir, J. et al. (2008). "Immunomodulatory Effects of Lichen-Derived Polysaccharides." Phytotherapy Research, 22(9), 1175–1180.
-  - Odinokova, L.N. et al. (2012). "Biologically Active Substances from the Lichen Cetraria islandica." Chemistry of Natural Compounds, 48(3), 465–467.
-  - Tyler, V.E. (1993). The Honest Herbal: A Sensible Guide to the Use of Herbs and Related Remedies. Pharmaceutical Products Press.
   - National Research Council (2008). "Cetraria islandica." In: Lost Crops of Africa, Vol. III.
 ---
 ## Overview

@@ -21,7 +21,6 @@ updated: 2026-04-29
 sources:
   - The Hand-Sculpted House, Ianto Evans et al.
   - Building with Cob, Adam Weismann & Katy Bryce
-  - The Straw Bale House, Athena Swentzell Steen et al.
   - Earthbag Building, Kaki Hunter & Donald Kiffmeyer
 - Timber Frame Construction, Jack Sobon & Roger Schroeder
 related_concepts:

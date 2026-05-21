@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Singh G, Kaur R (2019). "Aconitum ferox: A comprehensive review of its ethnobotany, phytochemistry and pharmacology." Journal of Ethnopharmacology 244: 112–128.
-  - Rawat S et al. (2023). "Aconitine-type alkaloids from Aconitum ferox: toxicity and therapeutic potential." Phytochemistry Reviews 22(3): 445–470.
-  - Pande PC, Tiwari L (2020). "Indigenous uses of Aconitum ferox in the Himalayan region." Ethnobotany Research and Applications 19: 1–14.
   - Tshering G, Wangchuk P (2021). "Bikhma (Aconitum ferox) in Bhutanese traditional medicine." Bhutan Health Journal 7(1): 33–42.
 ---
 

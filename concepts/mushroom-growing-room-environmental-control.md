@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: concept
 tags: [mushroom-cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 

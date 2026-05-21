@@ -12,8 +12,8 @@ sources: []
 ## Overview
 
 Elderberry is a fast-growing, deciduous shrub or small tree prized for both
-its medicinal berries and ornamental value. Native to Europe ([[sambucus-nigra]],
-black elderberry) and North America ([[sambucus-canadensis]], American elderberry),
+its medicinal berries and ornamental value. Native to Europe (Sambucus nigra,
+black elderberry) and North America (Sambucus canadensis, American elderberry),
 elderberries have been used for centuries in traditional medicine for immune
 support, particularly during cold and flu season. Elderberry syrup is one of
 the most popular and well-studied herbal preparations in modern use.
@@ -106,7 +106,7 @@ irrigation.
 ### Irrigation
 Consistent moisture is important for good fruit production, especially during
 flowering and fruit development. Provide 1-2 inches of water per week during
-dry periods. [[drip-irrigation]] is ideal. Once well-established (after 2-3
+dry periods. Drip irrigation is ideal. Once well-established (after 2-3
 years), plants are moderately drought tolerant but produce best with regular
 water.
 
@@ -142,9 +142,14 @@ Berries:
 - Test a few berries for sweetness; ripe berries detach easily from the stem
 - Cut entire clusters with pruning shears
 - Harvest in dry weather; wet berries are more prone to mold
+- Process or freeze within 24 hours of harvest
+
+Elderflowers:
+- Harvest in early to mid-summer when flower umbels are fully open
+- Pick on a dry morning after dew has dried
+- Use fresh for cordials, fritters, and tea, or dry for later use
 ## See Also
 
-- [[hawthorn-berry-guide]] -- another berry-producing medicinal shrub for
-  the homestead
-- [[echinacea-growing-guide]] -- combine with elderberry for comprehensive
-  immune support
+- [[comparison-elderberry-vs-valerian]]
+- [[comparison-elderberry-vs-gooseberry-vs-currant]]
+- [[query-how-do-i-grow-elderberry-for-fruit-and-medicine]]

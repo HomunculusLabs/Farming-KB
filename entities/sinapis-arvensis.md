@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Warwik, S.I. et al. (1986). "The biology of Canadian weeds. 75. Sinapis arvensis L." Canadian Journal of Plant Science, 66(2), 379-403.
   - Müller-Schärer, H. & Dietz, H. (2004). "oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

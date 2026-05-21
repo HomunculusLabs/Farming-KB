@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 254–572.
-  - Aiken, S.G. et al. (2007). Flora of the Canadian Arctic Archipelago. NRC Research Press.
-  - Elven, R. & Murray, D.F. (2007). "Carex bigelowii." In: Flora of the Nordic Countries. Oslo.
-  - Heide, O.M. (2002). "Growth and Reproduction in Carex bigelowii." Nordic Journal of Botany 22(3): 261–270.
   - Bengtsson, B.O. (1993). "Clonal Variation in the Arctic Sedge Carex bigelowii." Evolutionary Ecology 7(2): 203–215.
 ---
 

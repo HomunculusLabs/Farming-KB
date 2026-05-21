@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hörandl, E. (2009). "Evolution and biodiversity of the Ranunculus auricomus complex." Plant Systematics and Evolution, 283(1-2), 1-221.
-  - Hörandl, E. et al. (2009). "Apomixis and hybridogenesis in Ranunculus auricomus." In: Flowering Plant Origin and Evolution.
   - Kew Royal Botanic Gardens. "Ranunculus auricomus L." Plants of the World Online.
 ---
 

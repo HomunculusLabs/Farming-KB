@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sárbu I et al. (2013). "Phytochemical and pharmacological studies on Dictamnus albus." Pharmaceutical Biology, 51(12), 1503-1510.
   - Gonzalez JV et al. (2012). "Chemical composition and biological activity of Dictamnus albus comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap can be ignited by a match held near the flower spikes, producing a brief but visible flame without damaging the plant tissue.
 ---
 

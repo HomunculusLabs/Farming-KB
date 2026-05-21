@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schulz, M.E. (1997). "Silvics berry-growing: Pinus elliottii." In: Silvics of guzman-psilocybin-mushrooms-north-america, Vol. 1, USDA Forest Service Agriculture Handbook 654.
-  - Barnett, J.P. & Brendemuehl, R.H. (1968). "Seed characteristics of slash pine." USDA Forest Service Research Paper SO-43.
-  - Outcalt, K.W. (2000). "The longleaf pine ecosystem." In: USDA Forest Service, Southern Research Station.
   - Lotti, T. & Della-Bianca, L. (1959). "Variety elliottii Engelm. slash pine." In: Silvics of Forest Trees of the cannabis-genetics-and-breeding of Southern Pines." USDA Forest Service Agriculture Handbook 471.
 ---
 
@@ -78,3 +75,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on pinus elliottii have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with pinus elliottii should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

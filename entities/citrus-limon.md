@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Nicolosi, E. et al. (2000). "Citrus phylogeny and genetic origin of important species." Theoretical and Applied Genetics, 100(8), 1155–1166.
-  - Gleason, M., Rouse, R.E. & Krueger, R. (2009). "The origin of citrus." In: Proc. Fla. State Hort. Soc., 122, 1–7.
-  - Ladaniya, M.S. (2008). Citrus Fruit: Biology, Technology and Evaluation. Academic Press.
-  - O'Brien, R.D. (2009). Fats and Oils: Formulating and Processing for Applications. CRC Press.
   - USDA ARS (2024). "Citrus limon (L.) Burm. f." Germplasm Resources permaculture-designers-manual-essential-oil-plants.
 ---
 

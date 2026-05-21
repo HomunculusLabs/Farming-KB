@@ -10,9 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Ickert-Bond, S.M. & Wen, J. (2006). "Phylogeny and biogeography of Altingiaceae." Systematic Botany, 31(2), 321-341.
-  - Li, H.L. (1952). "Floristic relationships between eastern Asia and eastern North America." Transactions of the American Philosophical Society, 42(2), 371-429.
-  - Fu, L. et al. (2002). "Altingiaceae." Flora of China, 4: 80-83.
   - Chang, C.S. et al. (2010). "Genetic diversity of Liquidambar formosana in Taiwan." Botanical Studies, 51(3), 341-350.
 ---
 

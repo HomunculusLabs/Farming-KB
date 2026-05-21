@@ -136,15 +136,20 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Diverse forms evolved: gilled mushrooms, boletes, polypores, puffballs, corals, stinkhorns — each adapted to different spore dispersal strategies
 
 ### Yeast Forms
+
+- Yeast growth (single-celled, budding) evolved independently multiple times from filamentous ancestors
+- Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
+- Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
+
+## Evolutionary Timeline Summary
+
+| Time (Ma) | Event |
+|-----------|-------|
+| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
+| ~1,000-1,500 | Fungi diverge from Animalia |
+| ~800-1,000 | Chytrid lineages diversify |
 ## See Also
 
-- [[fungal-biology-fundamentals]] for how evolutionary innovations manifest in the life cycle
-- [[fungal-ecology]] for the ecological context of fungal evolution
-- [[fungal-biodiversity]] for the diversity produced by evolutionary processes
-- [[fungal-symbiosis-types]] for co-evolution with plants in detail
-- [[mycorrhizal-fungi]] for the most ancient and widespread plant-fungal symbiosis
-
-## Related
-
-- [[yeast-biology]]
-- [[chytrid-fungi-guide]]
+- [[mycelium-running-fungal-evolution-geologic-timescale]]
+- [[fungal-network-resilience-evolution]]
+- [[fungal-speciation-evolution]]

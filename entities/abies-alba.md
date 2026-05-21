@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Issli, H. (1937). "Abies alba." In: Hegi, G., "Illustrierte Flora von Mitteleuropa."
   - Bastien, J.C., et al. (2013). "dighton-fungal-drought-tolerance-plant-water-relations relative to Norway spruce.
 ---
 
@@ -79,3 +77,5 @@ Adherence to established safety protocols and best practices minimizes risks whi
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into abies alba continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind abies alba provides a foundation for both practical application and continued scientific inquiry.

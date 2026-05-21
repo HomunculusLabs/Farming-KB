@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Austin, D.F. (2006). "Foxtail millets (Setaria italica and S. pumila)." Economic Botany, 60(2), 143–153.
-  - Li, Y. & Wu, S.Z. (1996). "Traditional maintenance and breeding of foxtail millet." In: Proceedings of a Workshop on Smart Cereals.
-  - Sharma, N. & Niranjan, K. (2018). "Foxtail millet: properties, processing, health benefits, and uses." Food Reviews International, 34(4), 329–363.
-  - Yang, X. et al. (2012). "Early millet use in northern China." Proceedings of the National Academy of Sciences, 109(10), 3726–3730.
   - Vetriventhan, M. et al. (2020). "Foxtail millet: a crop for the 21st century." Frontiers in Plant Science, 11, 580126.
 ---
 

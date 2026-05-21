@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Barclay WR, et al. (1994). "Production of docosahexaenoic acid by Schizochytrium." US Patent 5,340,594.
-  - Gutman J, et al. (2017). "Evaluation of Schizochytrium-based DHA for cardiovascular health." Nutrition Reviews, 75(10), 838-853.
-  - Jiang Y, et al. (2019). "Metabolic engineering of Schizochytrium for enhanced DHA production." Marine Drugs, 17(12), 695.
-  - Liu Y, et al. (2021). "Industrial production of DHA by Schizochytrium: challenges and opportunities." Bioresource Technology, 324, 124694.
   - Yokoyama R, Honda D (2007). "Taxonomic rearrangement of the genus Schizochytrium." Mycoscience, 48, 215-224.
 ---
 
@@ -79,3 +75,14 @@ They play a significant role in marine microbial food webs as decomposers of com
 The ability to accumulate large lipid reserves rapidly may serve an [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] in fluctuating coastal environments where nutrient pulses are followed by extended periods of scarcity.
 
 ## Strain Improvement
+## Current Research
+
+Recent studies on schizochytrium limacinum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with schizochytrium limacinum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

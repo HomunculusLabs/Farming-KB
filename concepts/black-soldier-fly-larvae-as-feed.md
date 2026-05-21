@@ -9,13 +9,13 @@ sources: []
 
 # Black Soldier Fly Larvae as Feed
 
-Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fish, swine, and other livestock. As homestead-[[scale-insect]] farming grows, BSF larvae offer a locally produced alternative to commercial feed, reducing input costs and closing nutrient cycles.
+Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fish, swine, and other livestock. As homestead-scale insect farming grows, BSF larvae offer a locally produced alternative to commercial feed, reducing input costs and closing nutrient cycles.
 
 ## Nutrition Profile
 
 BSF larvae (dry weight basis) compare favorably to conventional feed ingredients:
 
-| Component | BSF Larvae | [[soybean-meal]] | [[fish-meal]] |
+| Component | BSF Larvae | Soybean Meal | Fish Meal |
 |-----------|-----------|--------------|-----------|
 | Crude Protein | 40-44% | 44-49% | 60-72% |
 | Crude Fat | 30-35% | 1-2% | 8-12% |
@@ -111,8 +111,15 @@ Always check local regulations before feeding BSF-derived products to food-produ
 
 ## Integration with Composting
 
-BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The [[composting]] bin serves dual purpose — waste reduction and feed production. This integrated approach is one of the most efficient protein production methods available at homestead scale, converting low-value organic waste into high-value animal protein.
+BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The composting bin serves dual purpose — waste reduction and feed production. This integrated approach is one of the most efficient protein production methods available at homestead scale, converting low-value organic waste into high-value animal protein.
 
 ## Economic Considerations
 
 At homestead scale, BSF larvae production costs are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
+## See Also
+
+- [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
+- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
+- [[black-soldier-fly-composting]]
+- [[comparison-black-soldier-fly-composting-vs-bokashi]]

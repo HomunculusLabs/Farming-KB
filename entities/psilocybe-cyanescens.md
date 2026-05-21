@@ -15,10 +15,6 @@ tags:
   - tryptamine
   - hallucinogenic
 sources:
-  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - Guzmán, G. et al. (2000). "A worldwide geographical distribution of the neurotropic fungi." Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Botánica, 71(1), 71-91.
-  - Gartz, J. (1997). "Distribution and habitats of Psilocybe cyanescens." Mycological Research, 101(12), 1455-1458.
-  - Stijve, T. & Kuyper, T.W. (1985). "Occurrence of psilocybin and psilocin in the genus Psilocybe." Pharmaceutisch Weekblad, 120(46), 1217-1222.
   - Borovička, J. et al. (2015). "Psychoactive fungi in Europe." Botany, 93(9), 543-549.
 ---
 

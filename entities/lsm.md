@@ -17,8 +17,6 @@ tags:
   - schedule-i
   - controlled-substance
 sources:
-  - Shulgin, A. & Shulgin, A. (1997). "TiHKAL: The Continuation." Transform Press.
-  - Trachsel, D. et al. (2013). "The Psychonautics Wiki — LSM." www.psychonautwiki.org
   - Dean, B.J. et al. (1967). "Psychotomimetic Agents: lsd-d-lysergic-acid-diethylamide." CNS Neuroscience & Therapeutics 14(4): 295-314.
 ---
 

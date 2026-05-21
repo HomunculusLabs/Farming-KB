@@ -5,7 +5,6 @@ tags: [gardening, water-management, arid-climate, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: comparison
 ---
 

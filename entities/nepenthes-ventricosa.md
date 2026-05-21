@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications, Borneo.
-  - McPherson, S.R. (2009). "Pitcher Plants of the Old World." Redfern Natural History Productions.
   - Murphy, D.J. (2023). "A review of the genus Nepenthes in the Philippines." Blumea 68(1): 45-89.
 ---
 

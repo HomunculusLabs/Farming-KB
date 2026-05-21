@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ju, Y.-M. & Rogers, J.D. (1996). "A revision of the genus Hypoxylon." Mycologia Memoir No. 20. APS Press.
-  - Whalley, A.J.S. (1996). "The xylariaceous way of life." Mycological Research, 100(8), 897-904.
-  - Petrini, O. et al. (1995). "xylariaceous-endophytes." Canadian Journal of Botany, 73(S1), S84-S91.
-  - Stadler, M. et al. (2014). "A polythetic approach to the genus Hypoxylon." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 64(1), 1–51.
-  - Sieber, T.N. (2007). "comparison-endophytic-fungi-vs-mycorrhizal-fungi in forest trees." In: Microbial Root Endophytes. Springer, Berlin.
 created: 2026-04-28
 ---
 

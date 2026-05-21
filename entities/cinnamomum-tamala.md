@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rao, P.V. & Gan, S.H. (2014). "Cinnamon: A Multifaceted Medicinal Plant." Evidence-Based Complementary and Alternative Medicine, 2014, 642942.
-  - Srivastava, P.K. (2010). "Cinnamomum tamala (Lauraceae): A Review on Ethnobotany, Phytochemistry, and Pharmacology." Pharmacognosy Reviews, 4(8), 177-183.
   - Barthakur, S. & Arnold, N.P. (1991). "laurus-nobilis.
 ---
 

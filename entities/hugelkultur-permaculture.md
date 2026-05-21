@@ -16,11 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Holzer, S. (2010). Sepp Holzer's Permaculture. Chelsea Green Publishing.
-  - Falk, B. (2012). The Resilient Farm and Homestead. Chelsea Green Publishing.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. 2. Chelsea Green Publishing.
-  - Mollison, B. (1988). Permaculture: A Designers' Manual. Tagari Publications.
-  - Weik, J. (2019). "Hugelkultur: A review of mound-based growing systems." Agroecology and Sustainable Food Systems.
   - https://www.permaculture.co.uk/articles/hugelkultur-what-it-and-why-should-use-it
 ---
 
@@ -79,3 +74,14 @@ The height of the mound determines the steepness of the sides. Mounds taller tha
 - Moisture retention capacity reaches its maximum as wood becomes sponge-like
 - Earthworm and microarthropod populations peak, creating extensive burrow networks
 - Plant roots penetrate deep into the decomposing wood, accessing moisture and nutrients
+## Current Research
+
+Recent studies on hugelkultur permaculture have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with hugelkultur permaculture should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

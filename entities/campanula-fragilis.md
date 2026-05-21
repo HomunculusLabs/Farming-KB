@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Pignatti S (1982). "Flora d'Italia." Edagricole, Bologna.
-  - Fedorov AA (1976). "Campanula L." In: Flora Europaea Vol. 4. Cambridge University Press.
-  - Royal Horticultural Society (2023). "RHS Plant Finder: Campanula fragilis." rhs.org.uk.
-  - Conti F, Manzi A, Pedrotti F (2005). "An Annotated Checklist of the Italian Vascular Flora." Palombi Editori.
   - Clarkson J, Kovačić S (2022). "Phylogeny and Biogeography of Mediterranean Campanula." Taxon.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mathew, B. (1982). The Crocus: A Revision of the Genus Crocus. Timber Press.
-  - Rukšāns, J. (2017). The World of Crocuses. Latvian Academy of Sciences.
-  - Maw, G. (1886). "A Monograph of the Genus Crocus." Journal of the Linnean Society 17: 257-340.
   - Royal Horticultural Society (2024). "Crocus tommasinianus Cultivar Notes." RHS Plant Finder.
 ---
 

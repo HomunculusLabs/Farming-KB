@@ -136,15 +136,17 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 **Cordyceps / Ophiocordyceps**
 - Famous "zombie ant" fungi (Ophiocordyceps unilateralis) manipulate ant behavior — infected ants climb to elevated positions and clamp onto vegetation before dying, optimizing spore dispersal
 - Cordyceps militaris and C. sinensis: Medicinal fungi with immunomodulatory properties
+- Cordycepin (3'-deoxyadenosine) from Cordyceps has antitumor and antiviral activity
+- See [[fungal-pest-control]] for agricultural applications
+
+### Mechanism of Infection
+
+1. **Attachment**: Spores adhere to insect cuticle using hydrophobins and adhesins
+2. **Germination**: Spore germinates when conditions are favorable (humidity, temperature)
+3. **Penetration**: Germ tube produces appressorium. Enzymes (proteases, chitinases, lipases) and mechanical pressure breach the cuticle
+4. **Invasion**: Hyphae proliferate in the hemocoel, producing blastospores (yeast-like cells) that circulate in hemolymph
+5. **Death**: Toxins (destruxins in Metarhizium, beauvericin in Beauveria) and nutrient depletion kill the host
+6. **Sporulation**: Under appropriate conditions, fungus emerges from the cadaver and produces conidia for dispersal
 ## See Also
 
-- [[fungal-ecology]] for fungi in ecological systems
-- [[fungal-biodiversity]] for the diversity of pathogenic fungi
-- [[fungal-pest-control]] for entomopathogenic fungi as biocontrol agents
-- [[mycoremediation-basics]] for fungal enzymatic capabilities relevant to pathogenesis
-- [[mushroom-contamination-identification]] for fungal contaminants in cultivation
-- [[mushroom-pests-and-diseases]] for mushroom crop pests and pathogens
-
-## Related
-
-- [[fungal-plant-diseases]]
+- [[fungal-parasites-predators-rotifers-invertebrates]]

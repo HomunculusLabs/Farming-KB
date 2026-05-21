@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Abbott, S.P. & Curran, R.S. (1997). "The Helvellaceae: systematic revision." Mycotaxon 63: 1–34.
-  - Dissing, H. (1966). "The genus Helvella in Europe." Dansk Botanisk Arkiv.
-  - Kuo, M. (2024). "Helvella acetabulum." MushroomExpert.com.
 created: 2026-04-28
 ---# Overview
 

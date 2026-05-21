@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tu, Y. (2011). \"The discovery of artemisinin and Nobel Prize in Physiology or Medicine.\" Nature Medicine, 17(10), 1217-1220."
-  - "Klayman, D.L. (1985). \"Qinghaosu (artemisinin): an antimalarial drug from China.\" Science, 228(4703), 1049-1055."
-  - "White, N.J. (2008). \"Qinghaosu (artemisinin): the best new drug for malaria?\" Transactions of the Royal Society of Tropical Medicine and Hygiene, 82(5), 655-656."
-  - "WHO (2023). World Malaria Report 2023. World Health Organization."
   - "Covello, P.S. (2008). \"Making artemisinin.\" Phytochemistry, 69(17), 2881-2893."
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Shewry PR, Hey SJ (2015). "The contribution of wheat to human diet and health." Food and Energy Security, 4(3), 178–202.
-  - Dubcovsky J, Dvorak J (2007). "Genome plasticity a key factor in the success of polyploid wheat under domestication." Science, 316(5833), 1862–1866.
-  - FAO (2023). "FAOSTAT: Crops and livestock products." Food and Agriculture Organization.
-  - Gómez-Cadenas A et al. (2015). "An overview of wheat breeding programs." Frontiers in Plant Science, 6, 1003.
   - Curtis T, Halford NG (2014). "Food security: the challenge of increasing wheat yield and the importance of not compromising food safety." Annals of Applied Biology, 164(3), 354–372.
 ---
 

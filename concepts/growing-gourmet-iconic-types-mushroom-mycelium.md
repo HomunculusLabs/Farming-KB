@@ -10,7 +10,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - Growing Gourmet and Medicinal Mushrooms, Paul Stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28
 ---

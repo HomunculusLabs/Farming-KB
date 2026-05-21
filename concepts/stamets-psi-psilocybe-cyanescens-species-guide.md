@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
 ## Psilocybe cyanescens Species Guide ## Overview Wakefield, commonly known as "cyans," "blue halos," or the "wavy-capped Psilocybe," is a moderately to highly potent [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] studies of Pacific Northwest

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
   - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest guzman-allen-gartz-neurotropic-fungi-central-america-caribbean to the Amazon basin.
 ---
 

@@ -19,10 +19,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly. (2024). "Tahoe OG Kush." https://www.leafly.com/strains/tahoe-og-kush
-  - AllBud. (2024). "Tahoe OG." https://www.allbud.com/marijuana-strains/indica/tahoe-og
-  - Wikileaf. (2024). "Tahoe OG Strain Review." https://www.wikileaf.com/strain/tahoe-og/
-  - Cannabis Now. (2023). "The OG Family Tree." https://www.cannabisnow.com/
 created: 2026-04-28
 ---
 

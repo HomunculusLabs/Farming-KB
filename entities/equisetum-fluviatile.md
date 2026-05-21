@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hauke, R.L. (1963). "A taxonomic monograph of Equisetum subgenus Hippochaete." Beihefte zur Nova Hedwigia 8: 1-123.
-  - Page, C.N. (1972). "An assessment of intraspecific variability in Equisetum fluviatile." Watsonia 9: 191-209.
-  - Milberg, P. (1993). "Relationships between seed size/number and competitiveness in Equisetum." Oikos 67: 173-178.
   - USDA NRCS (2024). "Equisetum fluviatile L." PLANTS Database.
 ---
 

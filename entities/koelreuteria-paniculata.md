@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Xu, T. et al. (2020). "Koelreuteria (Sapindaceae): Phylogeny and Biogeography." Botanical Journal of the Linnean Society.
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Swearingen, J. et al. (2010). "Plant Invaders of Mid-Atlantic Natural Areas." NPS/USFWS.
   - Gilman, E.F. & Watson, D.G. (1994). "Koelreuteria paniculata Fact Sheet." UF IFAS Extension.
 ---
 

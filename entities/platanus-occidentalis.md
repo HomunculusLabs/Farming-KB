@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Peattie, D.C. (1953). A Natural History of Trees of Eastern and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin.
-  - Santamour, F.S. (1972). "Interspecific Hybridization in Platanus." Forest Science 18(3): 236-239.
-  - Elias, T.S. (1980). The Complete Trees of North America. Van Nostrand Reinhold.
-  - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service Agriculture Handbook 541.
   - Furnier, G.R. et al. (2007). "Phylogenetics of Platanus." Systematic Botany 32(1): 19-28.
 ---
 

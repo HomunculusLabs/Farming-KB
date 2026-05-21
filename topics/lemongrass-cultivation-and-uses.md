@@ -17,7 +17,6 @@ sources:
     author: "Andrea Chesman"
     publisher: "Storey Publishing"
     year: 2016
-  - title: "Rodale's Illustrated Encyclopedia of Herbs"
     author: "Claire Kowalchik, William H. Hylton"
     publisher: "Rodale Press"
     year: 1998
@@ -29,11 +28,9 @@ sources:
     author: "Ken Fern"
     publisher: "Permanent Publications"
     year: 2010
-  - title: "Medicinal and Aromatic Plants of the World"
     author: "Eckhard von Rudloff"
     website: "https://pfaf.org/user/Plant.aspx?LatinName=Cymbopogon+citratus"
     year: 2012
-  - title: "Herbal Medicine: Biomolecular and Clinical Aspects"
     author: "Irene Roth, Ben-Zion Weiss"
     publisher: "CRC Press"
     year: 2019

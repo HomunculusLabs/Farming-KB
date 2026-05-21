@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorova A, Kovaleva N (2019). "Campanula L. – taxonomy and phylogeny." Botanica Pacifica, 8(2).
-  - Shetler SG, Morin NR (1986). "Asa Gray and his Campanula rotundifolia complex." Rhodora, 88(854).
-  - USDA NRCS Plant Database: Campanula rotundifolia profile.
   - Hooker JD (1876). "The Flora of the British Isles." Reeve & Co.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hammer, S. (2001). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 1, pp. 141–159.
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
-  - Ahti, T. & Hammer, S. (2002). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 2, pp. 531–546.
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
 ---
 

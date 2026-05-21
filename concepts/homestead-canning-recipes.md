@@ -13,7 +13,7 @@ Canning preserves homestead harvests for year-round use. Two methods exist: wate
 
 ## Equipment
 
-- Pressure canner (not a [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] -- must have a dial gauge or weighted gauge)
+- Pressure canner (not a pressure cooker -- must have a dial gauge or weighted gauge)
 - Water-bath canner with rack
 - Mason jars (regular or wide-mouth) and two-piece lids
 - Jar lifter, headspace tool, bubble remover, funnel
@@ -38,11 +38,11 @@ Always inspect jars for chips and cracks. Use new lids each time; rings are reus
 4. Do not add liquid -- corn creates its own
 5. Process pints at 11 psi for 55 minutes; quarts for 85 minutes
 
-Whole-kernel corn is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] longest-processing vegetables due to its density.
+Whole-kernel corn is one of the longest-processing vegetables due to its density.
 
 ## Pressure Canning: Tomatoes (Water-Bath or Pressure)
 
-Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp [[ingham-citric-acid-chlorine-removal-water-treatment]] per quart (half for pints).
+Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp citric acid per quart (half for pints).
 
 Water-bath method:
 1. Dip tomatoes in boiling water 30-60 seconds, then ice bath
@@ -91,7 +91,7 @@ Poultry: bone-in or boneless. Process pints 65 min, quarts 75 min at 11 psi.
 - Check seals after 12-24 hours (lid should be concave and not flex)
 - Remove rings for storage; label with date and contents
 - Store in cool, dark, dry place; use within 12-18 months
-- If a jar did not seal: refrigerate [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] within 3 days, reprocess within 24 hours, or freeze
+- If a jar did not seal: refrigerate and use within 3 days, reprocess within 24 hours, or freeze
 
 ## Altitude Adjustment Table
 
@@ -112,12 +112,17 @@ Poultry: bone-in or boneless. Process pints 65 min, quarts 75 min at 11 psi.
 - Using old canning recipes that haven't been tested for safety
 - Storing jars with rings on (can mask seal failure)
 
-Canning transforms seasonal abundance into shelf-stable food, making it a cornerstone of homestead [[food-preservation-canning]] [[native-american-planting-methods-and-indigenous-agriculture]] uery-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber valuable product for [[farmers-market-selling-guide]].
+Canning transforms seasonal abundance into shelf-stable food, making it a cornerstone of homestead [[food-preservation-canning]] methods and a valuable product for [[farmers-market-selling-guide]].
 
 ## References
 
 - USDA Complete Guide to Home Canning (2015 revision)
-- National Center for Home [[query-how-does-lacto-fermentation-work-for-food-preservation]] (nchfp.uga.edu)
+- National Center for Home Food Preservation (nchfp.uga.edu)
 - Ball Blue Book Guide to Preserving
+## See Also
 
-See also: [[aact-disease-suppression-recipes]]
+- [[jadam-pest-control-recipes]]
+- [[fungal-bacterial-compost-recipes]]
+- [[aact-ingredients-and-tea-recipes]]
+- [[cannabis-nutrient-recipes]]
+- [[korean-natural-farming-imo-recipes]]

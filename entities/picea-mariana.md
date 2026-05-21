@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
-  - Farrar, J.L. (1995). "Trees of the Northern United States and Canada." Iowa State University Press.
   - Heinselman, M.L. (1981). "Fire and Succession in the Conifer Forests of Northern jeavons-climate-adaptation-growing-seasons. Black spruce forests store enormous quantities of carbon in both living biomass and growing-gourmet-north-american-reishi-species spruces, 1.5–3.5 cm long, ovoid, and purplish when young, turning brown at maturity. Cones remain on the tree for 20–30 years, a distinctive trait among spruces. This semi-serotiny allows the species to build a substantial aerial seed bank over decades.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Newall, C.A., Anderson, L.A., & Phillipson, J.D. (1996). "Herbal Medicines: A Guide for Health-Care Professionals." Pharmaceutical Press.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." CRC Press.
-  - Tutin, T.G. et al. (1972). "Flora Europaea, Volume 3." Cambridge University Press.
   - EMA/HMPC (2016). "Assessment Report on Teucrium chamaedrys L., herba." European Medicines Agency.
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---# Lawn Reform and Alternatives in [[fukuoka-road-lawn-culture]] in the design literature. In
 Section 12.12, "The Lawn," Mollison documents the enormous

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Edwards, J.E. et al. (2012). "Hawthorn (Crataegus spp.) in the treatment of cardiovascular disease." Pharmacognosy Reviews, 6(12), 20–31.
-  - USDA NRCS (2024). "Crataegus laevigata (Poir.) DC." PLANTS Database.
-  - European Medicines Agency (2015). "Assessment report on Crataegus spp., folium cum flore." EMA/HMPC/562048/2009.
-  - Chang, Q. et al. (2002). "Hawthorn." Journal of Ethnopharmacology, 79(3), 365–378.
   - Bean, W.J. (1976). "query-how-do-i-grow-and-use-edible-flowers-in-my-garden.
 ---
 

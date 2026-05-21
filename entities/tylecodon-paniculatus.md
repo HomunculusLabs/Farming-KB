@@ -10,8 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Tölken, H.R. (1978). "New combinations in Tylecodon." Bothalia, 12(3): 375-384.
-  - Van Jaarsveld, E.J. & Koutnik, D. (2004). "Cotyledon and Tylecodon." Umdaus Press, Pretoria.
   - Smith, G.F. et al. (2017). "Succulent flora of southern Africa." SANBI Publishing.
 ---
 

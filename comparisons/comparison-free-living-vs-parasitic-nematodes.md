@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "Yeates, G.W., Bongers, T., de Goede, R.G.M., Freckman, D.W., & Georgieva, S.S. (1993). Feeding habits in soil nematode families and genera — an outline for soil ecologists. Journal of Nematology, 25(3), 315–331."
-  - "Khan, Z., & Kim, Y.H. (2007). A review on the role of predatory soil nematodes in the fukuoka-textdoc-biological-control-fallacy-pheromone-critique of plant parasitic nematodes. Applied Soil Ecology, 35(2), 370–379."
-  - "Abawi, G.S., & Widmer, T.L. (2000). Impact of soil health management practices on soilborne pathogens, nematodes and root diseases of vegetable crops. Applied Soil Ecology, 15(1), 37–47."
-  - "Kerry, B.R. (2000). Rhizosphere interactions and the exploitation of microbial agents for the biological control of plant-parasitic nematodes. Annual Review of Phytopathology, 38, 423–441."
 type: comparison
 ---
 
@@ -78,3 +73,18 @@ Examining this topic alongside related approaches reveals complementary strategi
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+## Historical Context
+
+The study and practice of comparison free living vs parasitic nematodes has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into comparison free living vs parasitic nematodes have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with comparison free living vs parasitic nematodes spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

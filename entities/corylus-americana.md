@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Grainger, B. & Waring, P. (2019). "Silviculture of American hazelnut in the central hardwood region." Northern Journal of Applied Forestry, 36(2), 112-119.
-  - Smith, W.H. (1978). "Nutrient losses from American hazelnut litter and soil." Plant and Soil, 50(1), 21-32.
-  - Corden, T.C. (2005). "American hazelnut as an alternative crop for the Midwest." HortTechnology, 15(3), 510-514.
-  - Andrews, M. (2011). "The use of nitrogen isotope ratios in environmental studies." In Nitrogen in the Environment. Elsevier.
   - Molano-Flores, B. (2001). "guzman-psilocybin-mushrooms-north-america.
 ---
 

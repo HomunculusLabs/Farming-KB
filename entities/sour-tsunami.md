@@ -14,10 +14,8 @@ updated: 2026-04-28
 sources:
   - "Ringo, L. (2011). Soure Tsunami breeding notes.
     Southern Humboldt Seed Collective."
-  - "De Meijer, E.P. et al. (2003). \"The inheritance of
     chemical phenotype in comparison-cannabis-sativa-vs-cannabis-indica L.\" Genetics,
     163(1), 335-346."
-  - "Ligresti, A. et al. (2006). \"Antitumor activity of
     plant cannabinoids.\" Molecular Cancer Therapeutics,
     5(3), 729-736."
   - "M lost, J. et al. (2018). \"The pharmacologic and

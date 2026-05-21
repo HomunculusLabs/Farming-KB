@@ -10,9 +10,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clarke R.C. (1998). "Hashish!" Red Eye Press.
-  - Clarke R.C. & Merlin M.D. (2013). "Cannabis: Evolution and Ethnobotany." UC Press.
-  - Small E. (2017). "Cannabis: A Complete Guide." CRC Press.
-  - ElSohly M.A. (2017). "Marijuana and the Cannabinoids." Humana Press.
   - Leafly Staff (2024). "Afghani Strain Information." Leafly.com.
 ---
 

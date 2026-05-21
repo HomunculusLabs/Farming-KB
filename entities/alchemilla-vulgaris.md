@@ -6,8 +6,6 @@ tags: [species, plant, herbal, permaculture, dynamic-accumulator, rosaceae, medi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hoffmann, D. (2003). Medical Herbalism: The Science and Practice of Herbal Medicine. Healing Arts Press."
-  - "Mabey, R. (1996). Flora Britannica. Sinclair-Stevenson."
   - "Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain and Other Temperate Climates. Permanent Publications."
 ---
 

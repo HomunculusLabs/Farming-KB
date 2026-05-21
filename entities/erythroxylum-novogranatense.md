@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Plowman, T. & Hensold, N. (2001). "Names, Types, and Distributions of Erythroxylum." Field Museum of Natural History.
-  - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
-  - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods." Healing Arts Press.
   - Bieri, S. et al. (2006). "erythroxylum-coca. It is one of the four cultivated coca species and the primary source of commercially harvested coca leaves in Colombia.
 ---
 

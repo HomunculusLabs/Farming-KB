@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Olson, D.L. & K.A. (2000). "Elaeagnus angustifolia." Fire Effects Information System, USDA Forest Service.
-  - Knapp, H.D. (2003). "Biological Flora of the British Isles: Elaeagnus angustifolia." Journal of Ecology 91(5): 851-866.
-  - Batten, A.R. (1978). "Elaeagnus in North America." Arnoldia 38(2): 100-113.
-  - Baum, B.R. (1978). "The Genus Elaeagnus: A Taxonomic Revision." Canadian Journal of Botany 56: 564-598.
   - Khasanov, F.O. et al. (2018). "Flavonoids from Elaeagnus angustifolia fruits." Chemistry of Natural Compounds 54(6): 1154-1155.
 ---
 

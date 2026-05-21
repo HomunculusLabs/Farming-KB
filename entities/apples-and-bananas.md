@@ -6,8 +6,6 @@ tags: [strain, cannabis, hybrid, cookies-family, indicia-dominant, fruity, moder
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Strain Database. Apples and Bananas. leafly.com."
-  - "AllBud Strain Reviews. Apples and Bananas. allbud.com."
   - "Phylos Bioscience. The Cannabis Evolution. phylosbioscience.com."
 ---
 

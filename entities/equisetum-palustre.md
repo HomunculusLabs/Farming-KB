@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hauke, R.L. (1993). "Equisetaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
-  - Page, C.N. (1972). "An assessment of inter-specific relationships in Equisetum subgenus Equisetum." New Phytologist, 71(2), 355-369.
-  - Frohne, D. & Pfänder, H.J. (2005). Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists. Timber Press.
   - Milne, R. (2006). "Northern temperate Equisetum species: oyster-mushroom-log-cultivation-temperate-regions-short-log-method of Europe and Asia, where it grows in wet meadows, marshes, and along stream margins.
 ---
 

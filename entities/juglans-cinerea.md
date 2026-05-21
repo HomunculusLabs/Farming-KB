@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rink, G. (1990). "Juglans cinerea L." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
-  - Farrar, J.L. (1995). Trees of the Northern dmt-containing-plants-united-states-halpern and Canada. Iowa State University Press.
-  - Small, E., Catling, P.M. (1999). "Butternut conservation in Canada." Canadian Biodiversity, 3(1), 12-18.
-  - Ostry, M.E. et al. (1994). "Butternut — a forest tree in decline." Northern Journal of Applied Forestry, 11(2), 61-63.
   - Kriebel, H.B. (1949). "A dwarf mutant of butternut." Journal of Heredity, 40(6), 158-160.
 ---
 

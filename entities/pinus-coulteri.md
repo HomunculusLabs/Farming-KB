@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Griffin, J.R. & Critchfield, W.B. (1976). "The distribution of forest trees in California." USDA Forest Service Research Paper PSW-82.
-  - Lanner, R.M. (1999). "Made for Each Other: A Symbiosis of Birds and Pines." Oxford University Press.
-  - Schoenherr, A.A. (1992). "A Natural History of California." University of California Press.
-  - Minnich, R.A. (2007). "California Climate and Vegetation." In: Terrestrial Vegetation of California, 3rd ed., UC Press.
   - Gucker, C.L. (2007). "Pinus coulteri." In: Fire Effects Information System, USDA Forest Service.
 ---
 

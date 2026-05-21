@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hammer, S.A. (2002). "Dumpling and His Wife: New Views of the Genus Conophytum." British Cactus and Succulent Society.
-  - Opel, M.R. (2005). "A morphometric analysis of the Conophytum bilobum complex." Aloe, 42(1-2), 34-41.
   - Ihlenfeldt, H.D. (1988). "Aizoaceae." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants. Springer.
 ---
 

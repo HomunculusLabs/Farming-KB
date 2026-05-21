@@ -6,7 +6,6 @@ updated: 2026-04-28
 sources:
   - Shurtleff & Aoyagi, "The Book of Koji" (2019)
   - Shih, "Asian Foods: Science and Technology" (2018)
-  - Nout & Aidoo, "Asian Fermented Foods" in "Food Biotechnology" (2002)
   - Kodo, "The Art of Koji Making" (2016)
   - Kikkoman Institute, "The Science of Soy Sauce Fermentation"
 ---

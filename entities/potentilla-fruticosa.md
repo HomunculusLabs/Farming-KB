@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - ELKINGTON, T.T. & WOODELL, S.R.J. (1963). "Potentilla fruticosa L." Journal of Ecology.
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
   - USDA NRCS (2024). "Dasiphora fruticosa." PLANTS Database.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Tölken H (1985). "Crassulaceae." In Leistner OA (ed.), Flora of Southern Africa. Botanical Research Institute.
-  - Van Jaarsveld EJ (2010). "Cultivation of Southern African Caudiciform Succulents." Aloe 47(2): 34-41.
-  - Smith GF et al. (2017). "Conservation status of the succulent flora of southern Africa." Bradleya 35: 178-196.
   - Williamson G (2000). "The Richtersveld: South Africa's Hidden Treasure." Succulent Plant Studies 12: 88-103.
 ---
 

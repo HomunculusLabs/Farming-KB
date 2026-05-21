@@ -20,16 +20,13 @@ sources:
   - Bill Mollison, Permaculture: A Designers' Manual
   - Bill Mollison, Permaculture Two
   - Bill Mollison, Permaculture Design Course
-  - David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability
   - Toby Hemenway, Gaia's Garden
   - Cho Han-Kyu, Cho's Global Natural Farming
-  - Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living
   - Sepp Holzer, The Practical Guide to Permaculture
 related_concepts:
   - chicken-keeping-basics
   - chicken-tractor-systems
   - free-range-poultry-forage-design-mollison
-  - mollison-designers-poultry-forage-design-pastured-systems
   - hemenway-chicken-tractor-and-poultry-integration
   - cho-poultry-natural-farming-methods
   - poultry-forage-species-compendium
@@ -40,7 +37,6 @@ related_concepts:
   - mollison-pdc-poultry-forage-systems
   - permaculture-poultry-orchard-integration
   - holzer-poultry-keeping-ducks-geese-and-chickens
-  - mollison-geese-grass-control-and-integrated-poultry
   - integrated-poultry-forage-systems-zone-two
 ---
 

@@ -10,7 +10,6 @@ tags:
   - psilocybin
   - ecology
 sources:
-  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -25,14 +24,14 @@ Psilocybin-containing mushrooms are found on every inhabited continent. They bel
 ## North America
 
 ### United States
-- **Pacific Northwest**: Rich in psilocybin species, particularly *[[psilocybe-cyanescens]]* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[panaeolus-subbalteatus]]* and *P. cyanescens* also occur.
+- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
-- **Northeast**: *[[psilocybe-ovoideocystidiata]]* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
+- **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
-- *[[psilocybe-mexicana]]* (the species first identified by Heim and used by the Mazatec)
+- *Psilocybe mexicana* (the species first identified by Heim and used by the Mazatec)
 - *P. caerulescens*, *P. zapotecorum*, *P. sanctorum*
 - *P. cubensis* in tropical lowland regions
 
@@ -53,14 +52,14 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Europe
 
-- **[[psilocybe-semilanceata]]** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
+- **Psilocybe semilanceata** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
 - **Psilocybe cyanescens** is common in Western Europe, particularly in the Netherlands, Germany, and the UK, where it has naturalized in landscaped wood chip mulch.
 - **Panaeolus cinctulus** occurs widely across Europe in horse pastures and manured fields.
 - Southern European countries (Spain, Italy, Greece) have additional species.
 
 ## Asia
 
-- **Japan**: Several species documented including *[[psilocybe-subcaerulipes]]*, *P. argentipes*, and *P. cubensis* in Okinawa.
+- **Japan**: Several species documented including *Psilocybe subcaerulipes*, *P. argentipes*, and *P. cubensis* in Okinawa.
 - **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *Psilocybe cubensis* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
 - **India**: Species documented in the Western Ghats and northeastern states.
 - **China and Korea**: Limited documentation but species known to occur.
@@ -89,5 +88,5 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 ## Related Topics
 
 - [[psilocybin-mushroom-habitat-types]] for detailed habitat descriptions
-- psilocybin mushroom identification guide for identification features
+- [[psilocybin-mushroom-identification-guide]] for identification features
 - [[psychedelic-mushroom-pharmacology]] for the chemistry

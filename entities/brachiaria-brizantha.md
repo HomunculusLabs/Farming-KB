@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Miles, J.W. et al. (1996). "Release of two Brachiaria brizantha cultivars for improved forage quality and animal productivity." Tropical Grasslands, 30, 21-25.
-  - Keller-Grein, G. et al. (1996). "Origin and taxonomy of Brachiaria and related genera." In Brachiaria: Biology, Agronomy, Improvement. CIAT, Cali, Colombia.
-  - Toledo, J.M. & Schultze-Kraft, R. (1982). "Pasture research and development in tropical Latin America." In FAO Plant Production and Protection Paper 43.
   - Rao, I.M. et al. (2015). "Advances in improving adaptation of Brachiaria grasses to abiotic stresses in the tropics." Crop Science, 55(6), 2519-2534.
 ---
 

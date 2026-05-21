@@ -9,7 +9,6 @@ tags: [root-vegetables, carrots, beets, turnips, parsnips, radishes,
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
   -
 "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - "raw/papers/purdue-home-gardeners-guide.md"

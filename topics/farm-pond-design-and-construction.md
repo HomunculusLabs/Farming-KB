@@ -6,29 +6,21 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md"
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 related_concepts:
   - pond-design-and-construction
   - dam-construction
   - holzer-pond-construction-and-aquaculture
-  - mollison-designers-dam-construction-and-water-storage
   - holzer-pond-lake-design
-  - mollison-designers-pond-edge-configuration-and-yield-maximisation
   - keypoint-dam-water-storage-earthworks
   - holzer-pond-shape-deep-shallow-zones
   - mollison-designers-small-dam-site-selection-design
   - backyard-pond-building
   - hamilton-garden-ponds-and-aquatic-plants
-  - mollison-designers-fish-pond-water-quality-and-aeration
-  - mollison-designers-check-dam-types-and-landscape-placement
   - mollison-farm-dam-design-modifications
   - holzer-pivoting-monk-pond-drainage
   - holzer-water-management-ponds-springs
   - faires-water-harvesting-and-swales
   - hamilton-garden-pond-maintenance
-  - mollison-designers-fish-pond-fertiliser-and-nutrient-cycling
   - pond-maintenance-and-troubleshooting
 ---# Farm Pond Design and Construction
 

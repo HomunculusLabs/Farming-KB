@@ -29,7 +29,7 @@ Approximately 1,000+ species of marine fungi have been described, but the true d
 ## Habitats
 
 ### Mangrove Ecosystems
-Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi colonize:
+Mangroves are the most productive habitat for marine fungal diversity. Fungi colonize:
 - **Prop roots and pneumatophores**: Large surface area for fungal colonization
 - **Submerged wood**: Driftwood and woody debris in intertidal zone
 - **Leaves**: Both attached and detrital mangrove leaves
@@ -37,7 +37,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 
 **Mangrove-associated fungal genera**:
 - *Lignincola*, *Halosarpheia*, *Massarina*, *Phaeosphaeria* (Ascomycetes)
-- *[[halophytophthora]]* (Peronosporomycete)
+- *Halophytophthora* (Peronosporomycete)
 - Many species are restricted to specific mangrove tree species
 
 ### Driftwood and Submerged Wood
@@ -64,7 +64,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Wood and plant debris sinking from surface provides substrate
 
 ### Coral Reefs and Marine Invertebrates
-- [[endophytic-fungi]] in corals, sponges, and algae
+- Endophytic fungi in corals, sponges, and algae
 - Fungal diseases of corals (e.g., aspergillosis of sea fans)
 - Symbiotic fungi in marine sponges produce bioactive compounds
 - Fungi associated with marine algae (endophytes and parasites)
@@ -74,9 +74,9 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 ### Ascomycetes (Most Diverse)
 **Key orders**:
 - *Lulworthiales*: Halosphaeriaceae (the largest family of marine Ascomycetes)
-  - *[[lulworthia]]*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
+  - *Lulworthia*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
 - *Sordariales*: *Savoryella*, *Zopfiella*, *Cumulospora*
-- *Pleosporales*: *Massarina*, *Lophiostoma*, *Phaeosphaeria*, *[[leptosphaeria]]*
+- *Pleosporales*: *Massarina*, *Lophiostoma*, *Phaeosphaeria*, *Leptosphaeria*
 - *Xylariales*: *Xylaria* (some marine species)
 
 **Adaptations**:
@@ -87,7 +87,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 ### Basidiomycetes
 - Fewer species than Ascomycetes in marine habitats
 - Some marine wood-decaying species
-- *[[nia-vibrissa]]* on intertidal wood
+- *Nia vibrissa* on intertidal wood
 - *Digitatispora marina* on submerged wood
 
 ### Chytridiomycetes
@@ -105,7 +105,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 ### Yeasts
 - Marine yeasts found in seawater, sediments, and on marine organisms
 - *Candida*, *Debaryomyces*, *Rhodotorula*, *Sporobolomyces* species
-- *[[aureobasidium-pullulans]]* on marine algae and wood
+- *Aureobasidium pullulans* on marine algae and wood
 - Some produce extracellular polysaccharides
 
 ## Adaptations to Marine Life
@@ -148,3 +148,8 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Halophytophthora baited from sediments using hemp seeds or grass blades
 - Molecular methods (DNA from seawater and sediment) revealing hidden diversity
 - KMV Agar with streptomycin for marine/clinical isolates
+## See Also
+
+- [[marine-fungi-and-salt-marsh-decomposition]]
+- [[marine-fungi-diversity-sampling]]
+- [[marine-mycelial-fungi]]

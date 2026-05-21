@@ -11,10 +11,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
-  - De Smet P.A.G.M. (1997). "The Rational Phytotherapy." Springer.
-  - Shaw P.C. et al. (2008). "Molecular markers in Chinese medicinal plant research." Drug Discovery Today 13(9-10): 443-449.
-  - Li J.X. et al. (2014). "Trichosanthin: structure, function and mechanism." Amino Acids 46(7): 1659-1669.
   - Ng T.B. et al. (2011). "Trichosanthes kirilowii bioactive proteins." Applied Microbiology and Biotechnology 91(3): 629-639.
 ---
 

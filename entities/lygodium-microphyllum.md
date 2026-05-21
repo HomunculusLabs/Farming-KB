@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Pemberton, R.W. & Ferriter, A.P. (1998). "Old World Climbing Fern, Lygodium microphyllum." Aquatics, 20(2), 8-15.
-  - Volin, J.C. et al. (2004). "Effects of Fire and Mechanical Treatments on Old World Climbing Fern." Restoration Ecology, 12(4), 570-584.
-  - Goolsby, J.A. et al. (2006). "Biological Control of the Old World Climbing Fern." Proceedings of the XIII International Symposium on Biological Control of Weeds.
   - Lott, M.S. et al. (2003). "The Ecological Consequences of Lygodium microphyllum Invasion." Florida Scientist, 66, 209-219.
 ---
 

@@ -6,7 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
 type: query
 ---# How Do I Choose Between a Cold Frame, Row Cover, and Low Tunnel?
 

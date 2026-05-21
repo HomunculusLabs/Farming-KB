@@ -14,9 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
-  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities: mollison-designers-appropriate-technology-small-scale-tools for Mushroom Growers. Tool Publications.
-  - Ding, Z. et al. (2010). "Agrocybe cylindracea: A review of its cultivation, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, and health benefits." Journal of Agricultural and Food Chemistry.
  (neurotropic-fungi-taxonomic-classification)
   - Kuo, M. (2024). "Agrocybe cylindracea." MushroomExpert.com.---
 ---# Agrocybe cylindracea (Chestnut Mushroom)
@@ -79,3 +76,5 @@ The species is commercially cultivated in parts of East Asia and Southern Europe
 - [[cyclocybe-cylindracea]]
 
 Understanding this topic in its broader ecological context enhances practical application.
+Further research into agrocybe cylindracea continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind agrocybe cylindracea provides a foundation for both practical application and continued scientific inquiry.

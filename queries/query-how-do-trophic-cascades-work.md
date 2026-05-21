@@ -4,11 +4,6 @@ tags: trophic-cascade, ecology, predator-prey, food-web, keystone-species, ecosy
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hairston, N.G., Smith, F.E. & Slobodkin, L.B. (1960). "Community Structure, Population Control, and Competition." American Naturalist, 94(879), 421-425.
-  - Paine, R.T. (1980). "Food Webs: Linkage, Interaction Strength and Community Infrastructure." Journal of Animal Ecology, 49(3), 667-685.
-  - Estes, J.A. et al. (2011). "Trophic Downgrading of Planet Earth." Science, 333(6040), 301-306.
-  - Schmitz, O.J. (2017). "Predators, Prey, and Ecological Balances." Ecology, 98(6), 1581-1592.
-  - Terborgh, J. & Estes, J.A. (2010). Trophic Cascades: Predators, Prey, and the Changing Dynamics of Nature. Island Press.
 type: query
 created: 2026-04-28
 ---

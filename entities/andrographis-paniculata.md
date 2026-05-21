@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Calabrese, C. et al. (2000). "Effects of a standardized Andrographis paniculata extract on upper respiratory infection symptoms." Journal of Alternative and Complementary Medicine, 6(3), 217-223.
-  - Chang, H.M. & But, P.P.H. (1986). Pharmacology and Applications of Chinese . Clinical evidence supports its efficacy in treating upper
 respiratory tract infections and as an immunomodulatory agent.
 ---# Taxonomy and Morphology
 

@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wilbur, R.L. (1955). "A Revision of the growing-gourmet-north-american-reishi-species Genus Sabatia." Rhodora, 57(680).
   - USDA NRCS. "Sabatia angularis." PLANTS Database.
   - Weakley, A.S. (2022). "Flora of the Southeastern United States." University of polypore-fungi-eastern-north-america.
 ---

@@ -11,7 +11,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Wood-rotting fungi are classified into two major categories based on how they decompose wood: brown rot fungi and white rot fungi. This distinction is critical for understanding how mushrooms can be used for [[cotter-mycoremediation-overview]])
+Wood-rotting fungi are classified into two major categories based on how they decompose wood: brown rot fungi and white rot fungi. This distinction is critical for understanding how mushrooms can be used for [[mycoremediation-overview]])
 - **Maitake** ([[ganoderma-lucidum-reishi-comprehensive-profile]])
 - **Artist conk** (Ganoderma applanatum)
 - **Crust fungus** ([[fungal-chlorinated-aromatic-degradation]] compounds (PCBs, dioxins)

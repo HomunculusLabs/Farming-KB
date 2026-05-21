@@ -10,8 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Tölken, H.R. (1977). "A revision of the genus Crassula in southern Africa." Contributions from the Bolus Herbarium, 8: 1-595.
-  - Van Jaarsveld, E.J. (2010). "Cotyledon and Tylecodon enhanced with Crassula." Umdaus Press, Pretoria.
   - Smith, G.F. et al. (2017). "Succulent flora of southern Africa." SANBI Publishing.
 ---
 

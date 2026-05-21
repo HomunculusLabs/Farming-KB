@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Simon C. A. et al. (2001). "Grateloupia turuturu (Halymeniaceae, Rhodophyta): The correct identity of the non-native species in the Atlantic Ocean." Cryptogamie Algologie.
-  - Goulstone A. & F. Goulstone (2006). "First record of the alien red alga Grateloupia turuturu Yamada (Halymeniaceae) from New Zealand." New Zealand Journal of Botany.
-  - De Clerck O. et al. (2005). "Report of the non-indigenous seaweeds Grateloupia turuturu and Polysiphonia morrowii from Belgium." Belgian Journal of Botany.
   - "Grateloupia turuturu." AlgaeBase. https://www.algaebase.org/
 ---
 

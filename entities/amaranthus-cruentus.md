@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Sauer, J.D. (1967). "The Grain Amaranths and Their Relatives: A Revised Taxonomic and Geographic Survey." Annals of the Missouri Botanical Garden, 54(2), 103-137.
-  - Brenner, D.M. et al. (2000). "Genetic Resources and Breeding of Amaranthus." Plant Breeding Reviews, 19, 227-285.
-  - USDA NAL (2020). "Amaranth, Grain, Uncooked." FoodData Central, fdc.nal.usda.gov.
   - Grubben, G.J.H. & Denton, O.A. (2004). Plant Resources of Tropical Africa 2: Vegetables. PROTA Foundation.
 ---
 

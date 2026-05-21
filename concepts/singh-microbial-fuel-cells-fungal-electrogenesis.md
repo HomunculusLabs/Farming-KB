@@ -5,7 +5,6 @@ tags: [bioenergy, electrochemistry, fungal-physiology, wastewater-treatment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Microbial Fuel Cells and Fungal Electrogenesis
 

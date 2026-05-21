@@ -5,7 +5,6 @@ tags: [fukuoka, natural-diet, yin-yang, seasonal-eating, food-philosophy, japane
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---

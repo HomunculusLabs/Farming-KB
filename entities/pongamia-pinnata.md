@@ -6,9 +6,6 @@ tags: [species, tree, legume, nitrogen-fixer, biofuel, permaculture, agroforestr
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Scott, P.T. et al. (2008). \"Pongamia pinnata: a biofuel and drought-tolerant tree.\" Genome, 51(9), 701-715."
-  - "Kesari, V. & Rangan, L. (2010). \"Development of Pongamia pinnata as a sustainable biofuel feedstock.\" BioEnergy Research, 3, 174-182."
-  - "Murphy, D.J. (2007). \"Future prospects for oilseed and biofuel crops.\" Journal of Experimental Botany, 58(5), 1087-1096."
   - "National Research Council. (1983). Firewood Crops: Shrub and Tree Species for Energy Production. National Academies Press."
 ---
 

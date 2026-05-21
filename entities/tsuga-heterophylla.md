@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Franklin, J.F. & Dryness, C.T. (1973). Natural Vegetation of Oregon and Washington. USDA Forest Service General Technical Report PNW-8.
-  - Minore, D. (1979). "Comparative autecological characteristics of northwestern tree species." USDA Forest Service General Technical Report PNW-87.
-  - Klinka, K. et al. (2000). "Towards a taxonomic classification of humus forms." Forest Science 46(4): 1-49.
   - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
 ---
 

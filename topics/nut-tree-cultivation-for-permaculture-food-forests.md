@@ -11,12 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-2026-04-28
 sources:
-  - J. Russell Smith, "Tree Crops: A Permanent Agriculture" (1929, 1953)
   - Martin Crawford, "Creating a Forest Garden" (2010)
   - Mark Shepard, "Restoration Agriculture" (2013)
-  - Lee Reich, "Growing Figs in Cold Climates" and "Landscaping with Fruit" (2012)
   - USDA NRCS Plant Guides
-  - growing-gourmet-north-american-reishi-species Nut Growers Association (NNGA) proceedings
   - Eric Toensmeier, "comparison-perennial-vegetables-vs-cover-crops" and "The Carbon Farming Solution" (2016)
 ---
 

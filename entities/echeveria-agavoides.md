@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Kimnach, M. (2003). "Echeveria agavoides." Haseltonia, 10: 23-28.
-  - Pilbeam, J. (2008). The Genus Echeveria. British Cactus and Succulent Society.
-  - RHS (2023). "Echeveria agavoides." Royal Horticultural Society Plant Finder.
   - Garcia, R. & Gonzalez, A. (2015). "Crassulaceae of Central Mexico." Acta Botanica Mexicana, 112: 45-72.
 ---
 

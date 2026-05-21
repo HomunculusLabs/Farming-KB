@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Casper, S.J. (1966). "Monographie der Gattung Pinguicula L." Bibliotheca Botanica.
-  - D'Amato, P. (2013). "The Savage Garden: The Revised and Expanded Edition." Ten Speed Press.
-  - Catcheside, D.G. (1980). "Mexican Pinguicula." Carnivorous Plant Newsletter, 9(3), 65-73.
-  - Fleischmann, A. (2012). "A Taxonomic Revision of Pinguicula L. section Orchidioides." PhD Thesis, University of Vienna.
   - Rivadavia, F. et al. (2017). "Phylogenetics of Pinguicula (Lentibulariaceae)." Botanical Journal of the Linnean Society, 184(2), 195-212.
 ---
 

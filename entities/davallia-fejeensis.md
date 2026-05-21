@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Jones, D.L. (1987). "Encyclopaedia of Ferns." Timber Press.
-  - Copeland, E.B. (1947). "Genera Filicum." Chronica Botanica, Waltham, MA.
-  - PPG I (2016). "A community-derived classification for extant lycophytes and ferns." Journal of Systematics and Evolution, 54(6), 563-603.
   - Kato, M. & Tsutsumi, C. (2008). "Davalliaceae." In: "Ferns and Lycophytes of the Pacific." pp. 113-128.
 ---
 

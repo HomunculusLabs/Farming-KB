@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Different plants prefer different soil biology. The ratio of fungi to bacteria (F:B ratio) is one of the most important indicators of soil health and determines what kinds of plants will thrive. This preference is tied to [[ecological-succession]] -- the natural progression from bare soil to old-growth forest.
+Different plants prefer different soil biology. The ratio of fungi to bacteria (F:B ratio) is one of the most important indicators of soil health and determines what kinds of plants will thrive. This preference is tied to ecological succession -- the natural progression from bare soil to old-growth forest.
 
 ## The Two Rules
 
@@ -23,7 +23,7 @@ From Teaming with Microbes:
 
 ## Ecological Succession and Soil Biology
 
-Early succession communities are bacterially dominated. As organic litter accumulates from waste products and the plant life they support, fungal spores finally have enough nutrients to germinate. As plant life and [[the-soil-food-web]] become more varied, fungal numbers increase and short-lived annuals give way to perennial grassland plants, then shrubs, soft hardwoods, expanding saplings, mature hardwoods, and finally the conifers of old-growth forests.
+Early succession communities are bacterially dominated. As organic litter accumulates from waste products and the plant life they support, fungal spores finally have enough nutrients to germinate. As plant life and the soil food web become more varied, fungal numbers increase and short-lived annuals give way to perennial grassland plants, then shrubs, soft hardwoods, expanding saplings, mature hardwoods, and finally the conifers of old-growth forests.
 
 The transition from bacterial to fungal dominance occurs because:
 
@@ -54,7 +54,7 @@ Some trees and shrubs considered transitional in ecological succession -- cotton
 
 **To increase bacteria**: Add bacterial foods (simple sugars, molasses, green composts, plant material low in lignin), keep soil disturbed (tilling favors bacteria), use green mulches.
 
-**To increase fungi**: Add fungal foods (humic acids, [[fish-hydrolysate]], kelp, brown woody materials), minimize soil disturbance, apply brown mulches, avoid excessive tilling which destroys [[fungal-hyphae]].
+**To increase fungi**: Add fungal foods (humic acids, fish hydrolysate, kelp, brown woody materials), minimize soil disturbance, apply brown mulches, avoid excessive tilling which destroys fungal hyphae.
 
 ## Practical Implications
 
@@ -66,21 +66,16 @@ Some trees and shrubs considered transitional in ecological succession -- cotton
 ## Related
 
 - [[soil-food-web-structure]]
-- mycorrhizal inoculation
+- [[mycorrhizal-inoculation]]
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
 - [[nitrogen-cycle-in-soil]]
+## Current Research
 
-## Practical Applications
+Recent studies on bacterial vs fungal soil have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
+## Practical Considerations
 
-Bacterial Vs Fungal Soil represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
-- [[bacterial-vs-fungal-soil-dynamics]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+Practitioners working with bacterial vs fungal soil should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.

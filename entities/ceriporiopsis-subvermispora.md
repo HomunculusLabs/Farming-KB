@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Blanchette, R.A. et al. (2004). "The white-rot fungus Ceriporiopsis subvermispora." Applied Microbiology and Biotechnology.
-  - Martínez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus Ceriporiopsis subvermispora." Nature Biotechnology, 22(6), 679-684.
-  - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
   - Otjen, L. & Blanchette, R.A. (1986). "A discussion of guzman-psilocybin-mushrooms-north-america, Europe, East Asia, and South America.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rodd, M.S. (1998). "A revision of Livistona (Arecaceae)." Nuytsia, 12(1), 75–150.
-  - Jones, D.L. (1996). "Palms Throughout the World." Smithsonian Institution Press.
-  - Dowe, J.L. (2010). "Australian Palms: Biogeography, Ecology and Systematics." CSIRO Publishing.
-  - Harden, G.J. (2002). "Flora of NSW, Vol. 2." NSW University Press.
   - ABRS (2023). "Australian Plant Census: Livistona australis." environment.gov.au.
 ---
 

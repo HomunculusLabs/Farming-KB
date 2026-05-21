@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Iwatsuki K., Yamazaki T., Boufford D.E., Ohba H. (1993). Flora of Japan, Vol. IIIa. Kodansha, Tokyo.
-  - Ho T.N., Liu S.W. (1990). "The genus Gentiana (Gentianaceae) in China." Bulletin of British Museum (Natural History), Botany, 20: 169–186.
-  - Yuan Y.M., Kupfer P. (1995). "Molecular phylogenetics of Gentiana sect. Chondrophyllae." Plant Systematics and Evolution, 196: 83–97.
   - WCSP (2024). "World Checklist of Selected Plant Families: Gentiana thunbergii." Royal Botanic Gardens, Kew.
 ---
 

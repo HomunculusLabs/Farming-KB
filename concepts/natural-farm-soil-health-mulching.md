@@ -5,7 +5,6 @@ tags: [soil, mulching, hugelkultur, organic-gardening, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 type: concept
 ---
 

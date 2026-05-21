@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Godfrey, R.K. (1988). "Trees, Shrubs, and Woody Vines of Northern Florida." University of Georgia Press.
-  - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
   - Radford, A.E. et al. (1968). "Manual of the Vascular Flora of the Carolinas." UNC Press.
 ---
 

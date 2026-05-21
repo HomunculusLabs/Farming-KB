@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lorenzi, H. et al. (2010). "Flora Brasileira: Arecaceae (Palmeiras)." Instituto Plantarum.
-  - Mourelle, C. (2020). "Acrocomia aculeata — a multi-purpose palm of the Neotropics." Botanical Journal of the Linnean Society, 192(2), 251–269.
-  - Ciconini, G. et al. (2013). "Bioproducts from the Brazilian Cerrado: the case of Acrocomia aculeata." Industrial Crops and Products, 44, 438–444.
-  - Montoya, S. et al. (2018). "Macauba palm as a source of bioenergy." Renewable and Sustainable Energy Reviews, 82, 1323–1332.
   - Noblick, L.R. (2017). "A revision of Acrocomia (Arecaceae)." Phytotaxa, 305(1), 1–77.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jalas, J. & Suominen, J. (1986). "Lychnis." Atlas Florae Europaeae, Vol. 7. Committee for Mapping the Flora of Europe.
-  - RHS (2024). "Lychnis coronaria." Royal Horticultural Society Plant Finder.
-  - Oxelman, B. et al. (2001). "The Sileneae — a botanical review." Acta Universitatis Upsaliensis.
   - Hegi, G. (1979). Illustrierte Flora von Mitteleuropa, Vol. III/2. Paul Parey Verlag.
 ---
 

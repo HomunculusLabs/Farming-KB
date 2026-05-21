@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & Manning, J.C. (2000). "Cape Plants: A Conspectus of the Cape Flora of South Africa." MBG Press.
-  - Manning, J.C., Goldblatt, P. & Snijman, D. (2002). "The Color Encyclopedia of Cape Bulbs." Timber Press.
-  - Goldblatt, P. (1987). "A Revision of the Southern African Genus Ixia." Contributions from the Bolus Herbarium, 14: 1-120.
-  - IUCN (2023). "Ixia viridiflora. The IUCN Red List of Threatened Species." iucnredlist.org.
   - RHS (2024). "Ixia viridiflora — Royal Horticultural Society Plant Finder." rhs.org.uk.
 ---
 

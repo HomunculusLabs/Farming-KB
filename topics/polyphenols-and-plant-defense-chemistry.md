@@ -14,14 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-05-19
 sources:
-  - Harborne, J.B. "Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis." 3rd ed., Springer, 1998.
-  - Tsao, R. "Chemistry and Biochemistry of Dietary Polyphenols." Nutrients, vol. 2, no. 12, 2010, pp. 1231-1246.
-  - Cheynier, V. et al. "Plant Phenolics: Recent Advances on Their Biosynthesis, Genetics, and Ecophysiology." Plant Physiology and Biochemistry, vol. 72, 2013, pp. 1-20.
-  - Dixon, R.A. and Paiva, N.L. "Stress-Induced Phenylpropanoid Metabolism." The Plant Cell, vol. 7, no. 7, 1995, pp. 1085-1097.
-  - Quideau, S. et al. "Plant Polyphenols: Chemical Properties, Biological Activities, and Synthesis." Angewandte Chemie International Edition, vol. 50, no. 3, 2011, pp. 586-621.
-  - Lowenfels, J. and Lewis, W. "Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web." Timber Press, 2010.
-  - Dighton, J. "Fungi in Ecosystem Processes." Marcel Dekker, 2003.
-  - Stamets, P. "Mycelium Running: How Mushrooms Can Help Save the World." Ten Speed Press, 2005.
 related_concepts:
   - plant-defense-mechanisms
   - jasmonic-acid-plant-defense-signaling

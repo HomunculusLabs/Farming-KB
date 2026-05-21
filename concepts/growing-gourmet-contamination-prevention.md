@@ -6,7 +6,6 @@ type: concept
 tags: [mushrooms, cultivation, contamination, sterile-technique, HEPA, laboratory, hygiene]
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - label: "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive"
     author: paul-stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md

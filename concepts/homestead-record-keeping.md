@@ -15,7 +15,7 @@ Systematic record keeping transforms a homestead from a collection of guesswork 
 
 - **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
 - **Financial accountability** — understand true costs versus income from homestead products
-- **[[seasonal-planning]]** — refer to past years to optimize planting, harvesting, and preservation schedules
+- **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
 - **Legal and tax** — support deductions, agricultural tax status, and insurance claims
 - **Improvement measurement** — compare year-over-year progress toward your goals
@@ -32,7 +32,7 @@ For each crop, record:
 - Pest and disease observations
 - First harvest date
 - Total yield (weight or count)
-- Taste notes [[mushroom-spawn-vitality-testing-and-quality-assessment]]
+- Taste notes and quality assessment
 - Storage method and shelf life
 
 A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for crop rotation.
@@ -75,13 +75,13 @@ See  for species-specific tracking recommendations.
 
 ### Financial Records
 
-Track every dollar in and out [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] homestead operation. Categories:
+Track every dollar in and out of the homestead operation. Categories:
 
 **Expenses:**
 - Animal feed and supplies
 - Seeds, plants, and garden supplies
 - Fertilizer, amendments, and soil inputs
-- [[coleman-small-farm-equipment-and-tools]] (with depreciation)
+- Equipment and tools (with depreciation)
 - Fuel and utilities
 - Veterinary care and medications
 - Building materials and repairs
@@ -104,7 +104,7 @@ Use a spreadsheet or accounting software. Even a simple notebook organized by mo
 - Significant weather events (storms, droughts, heat waves)
 - Phenological observations (first bloom, leaf out, harvest dates for wild plants)
 
-A weather station ($50-200 for a basic model) automates [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] rainfall tracking.
+A weather station ($50-200 for a basic model) automates temperature and rainfall tracking.
 
 ## Tools and Systems
 
@@ -122,7 +122,7 @@ A weather station ($50-200 for a basic model) automates [[pf-tek-fruiting-chambe
 - Photo documentation (date-stamped photos of garden stages, animal growth, building progress)
 
 ### Hybrid Approach (Recommended)
-Use a pocket notebook for daily field notes, then transfer to a digital system weekly. This captures data [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] moment without exposing electronics to weather, dirt, and livestock. Review and summarize monthly.
+Use a pocket notebook for daily field notes, then transfer to a digital system weekly. This captures data in the moment without exposing electronics to weather, dirt, and livestock. Review and summarize monthly.
 
 ## Seasonal Planning Cycle
 
@@ -130,7 +130,7 @@ Build your record keeping around the annual cycle:
 
 - **Winter** (Dec-Feb): Review previous year's records. Plan next year's garden, animal breeding, and projects. Order seeds and supplies.
 - **Spring** (Mar-May): Record planting dates, soil amendments, weather observations. Begin animal production records.
-- **Summer** (Jun-Aug): Track harvest yields, pest issues, watering schedules. Begin preservation records. Note [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] thriving [[query-who-is-sepp-holzer-and-what-is-his-method]] struggling.
+- **Summer** (Jun-Aug): Track harvest yields, pest issues, watering schedules. Begin preservation records. Note what is thriving and what is struggling.
 - **Fall** (Sep-Nov): Record final harvests, preservation totals, animal processing. Calculate annual financial summary. Note end-of-season observations for next year's planning.
 
 ## Tax and Legal Records
@@ -145,6 +145,11 @@ Maintain separate records for tax purposes:
 
 Consult a tax professional familiar with agricultural operations. Many homestead expenses are deductible if you can demonstrate profit intent.
 
+## Getting Started
+
+Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.
 ## See Also
-- [[permaculture-plant-guilds-companion-planting]]
-- [[permaculture-forest-garden]]
+
+- [[mushroom-farm-record-keeping-profitability]]
+- [[fungal-herbarium-record-keeping-specimen-transactions]]
+- [[chicken-keeping-basics]]

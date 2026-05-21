@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
-  - Egorova, T.V. (1999). The Sedges (Carex L.) of Russia. St. Petersburg State University.
   - guzman-psilocybin-mushrooms-north-america.
 ---
 

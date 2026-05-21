@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - D. J. Mabberley (2017). "Mabberley's Plant-Book." Cambridge University Press.
-  - J. C. R. et al. (2019). "Phytochemistry and pharmacology of Gaultheria species." Journal of Ethnopharmacology 245: 112157.
-  - USDA NRCS (2024). "Gaultheria procumbens L. Plant Guide." nrcs.usda.gov.
-  - S. Foster & V. E. Tyler (1999). "Tyler's Honest Herbal." Haworth Herbal Press.
   - W. H. Lewis & M. P. F. Elvin-Lewis (2003). "Medical Botany." Wiley.
 ---
 

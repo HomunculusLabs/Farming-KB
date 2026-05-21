@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Iwalewa EO, Nwodo OF, Lambert J, et al. (2005). "Antimicrobial activity of Vernonia amygdalina." Journal of Ethnopharmacology.
-  - Erasto P, Grierson DS, Afolayan AJ (2006). "Bioactive sesquiterpene lactones from the leaves of Vernonia amygdalina." Journal of Ethnopharmacology.
-  - Bonsi MLK, Osuji PO, Tuah AK (1995). "Effect of supplementing teff straw with Vernonia amygdalina leaves." Animal Feed Science and Technology.
-  - Yeap SK, Ho WY, Beh BK, et al. (2010). "Vernonia amygdalina, a medicinal plant with anti-cancer properties." African Journal of Traditional Medicine.
   - Gbolade AA (2009). "Inventory of antidiabetic plants in selected districts of Lagos State, Nigeria." Journal of Ethnopharmacology.
 ---
 

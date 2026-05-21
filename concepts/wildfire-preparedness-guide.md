@@ -9,16 +9,16 @@ sources: []
 
 # Wildfire Preparedness Guide
 
-Wildfires are an escalating threat across North America, driven by decades of fire suppression, [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
+Wildfires are an escalating threat across North America, driven by decades of fire suppression, climate change, and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 
 ## Understanding Wildfire Risk
 
 Wildfires spread through three mechanisms:
 1. **Direct flame contact** — Fire touches the structure
 2. **Radiant heat** — Heat from nearby flames ignites combustible materials
-3. **Ember showers** — Burning material carried by wind up to 2 miles ahead [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] fire front — the primary cause of structure loss
+3. **Ember showers** — Burning material carried by wind up to 2 miles ahead of the fire front — the primary cause of structure loss
 
-Most homes lost to [[wildfire]] are ignited by embers, not direct flames. This means most losses are preventable with proper preparation.
+Most homes lost to wildfire are ignited by embers, not direct flames. This means most losses are preventable with proper preparation.
 
 Assess your risk using:
 - State or county fire risk maps
@@ -30,11 +30,11 @@ Assess your risk using:
 
 ## Defensible Space
 
-Defensible space [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] buffer zone around your home where vegetation and combustible materials are managed to reduce fire intensity and ember ignition.
+Defensible space is the buffer zone around your home where vegetation and combustible materials are managed to reduce fire intensity and ember ignition.
 
 ### Zone 1: Immediate Zone (0-5 feet from structure)
 
-This is [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] critical zone. Embers accumulate here and directly threaten the structure.
+This is the most critical zone. Embers accumulate here and directly threaten the structure.
 
 - Remove all dead vegetation, leaves, pine needles, and debris
 - Replace wood mulch with non-combustible material (gravel, river rock, decomposed granite)
@@ -107,11 +107,11 @@ Keep a packed bag for each family member and pet at all times during fire season
 - First aid kit
 - Flashlights with extra batteries
 - Phone charger and backup battery
-- Important documents [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] waterproof bag (insurance policies, ID, deeds, medical records)
+- Important documents in a waterproof bag (insurance policies, ID, deeds, medical records)
 - Cash (ATMs may be unavailable)
 - Medications (7-day supply minimum)
 - Pet food, leashes, carriers, vaccination records
-- Change [[fukuoka-culture-of-clothing-and-meat]] sturdy shoes
+- Change of clothing and sturdy shoes
 - N95 respirator masks (smoke protection)
 - Map with multiple evacuation routes marked
 
@@ -139,11 +139,16 @@ Keep a packed bag for each family member and pet at all times during fire season
 - If you cannot evacuate livestock: open gates to allow them to flee, remove halters, mark animals with phone number (livestock crayon or spray paint)
 - Photograph all animals and property before fire season for insurance documentation
 
-## See Also
-- [[wildfire-firestorm-mechanics]]
-- [[wildfire-ecology-and-management]]
-- [[wildfire-behavior-and-firestorm-dynamics]]
 ## Insurance and Documentation
 
 - Review your homeowner's insurance annually for adequate wildfire coverage
 - Document everything: photograph all structures, contents, livestock, equipment, and infrastructure
+- Store documentation in three places: physical copy in go bag, cloud storage, and off-site physical location
+- Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
+- Keep insurance agent contact information readily available
+- Inventory all major purchases and improvements as they are made
+## See Also
+
+- [[wildfire-firestorm-mechanics]]
+- [[wildfire]]
+- [[wildfire-spread-factors-and-firestorm-conditions]]

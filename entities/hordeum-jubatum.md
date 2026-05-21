@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Grasses of the Western Great Plains." Oxford University Press.
-  - USDA NRCS (2024). "Plant Profile: Hordeum jubatum." Natural Resources Conservation Service.
-  - Wilson, B.L. et al. (2010). "dmt-containing-plants-united-states-halpern." USDA Miscellaneous Publication No. 200.
   - Jacobs, D.L. & Jacobi, W.R. (1991). "Foliar Applied Herbicides for Control of Foxtail Barley." Weed Technology 5(2): 371-374.
 ---
 

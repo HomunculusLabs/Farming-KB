@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Calabrese C, Gregory WL, Leo M, et al. (2008). "Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly." Journal of Alternative and Complementary Medicine, 14(6), 707-713.
-  - Stough C, Downey LA, Lloyd J, et al. (2001). "Examining the nootropic effects of a special extract of Bacopa monniera on human cognitive functioning." Neuropsychopharmacology, 25(4), 530-539.
-  - Singh HK, Dhawan BN. (1997). "Neuropharmacological effects of ayurvedic nootropic Bacopa monniera Linn." Indian Journal of Pharmacology, 29(5), 359-365.
-  - Mathew J, Subramanian S, Nair SM. (2021). "Phytochemistry and pharmacological activities of Bacopa monnieri: A review." Phytomedicine, 85, 153546.
 created: 2026-04-28
 ---
 

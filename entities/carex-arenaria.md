@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). "The Illustrated Field Flora of the British Isles." BSBI.
-  - Akeroyd, J.R. (2014). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
-  - USDA NRCS (2024). "PLANTS Database — Carex arenaria L." plants.usda.gov.
-  - Schaminée, J.H.J. et al. (2010). "Vascular Plant Communities of the Netherlands." KNNV Publishing.
   - Cope, T. & Gray, A. (2009). "Grasses of the British Isles." BSBI Handbook.
 ---
 

@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Eccles, R. (1994). "Menthol and related cooling compounds." Journal of Pharmacy and Pharmacology, 46(8), 618-630.
-  - Patel, T., et al. (2007). "Thermal, mechanical and pain perception threshold: correlations with self-reported fibromyalgia symptoms." European Journal of Pain, 11(2), 159-166.
-  - Hauser, D., et al. (2019). "Menthol — pharmacology of an important naturally-occurring analgesic." Journal of Clinical Pharmacy and Therapeutics, 44(2), 154-165.
   - Galeotti, N., et al. (2002). "Menthol: a natural analgesic compound." Life Sciences, 71(18), 2157-2164.
 ---
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Pegler, D.N. (1983). "The genus Lentinus: a world monograph." Kew Bulletin Additional Series X.
-  - Natarajan, K. & Manjula, B. (2005). "A preliminary study on the genus Panus from Peninsular India." Indian Journal of Mycological Research, 43(2), 1-14.
-  - Kalaw, S.P. et al. (1990). "Cultivation of Panus tigrinus on agricultural waste substrates." The Philippine Journal of Science, 119(2), 183-190.
 created: 2026-04-28
 ---
 

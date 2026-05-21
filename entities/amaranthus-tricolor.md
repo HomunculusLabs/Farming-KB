@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben, G.J.H. & van Sloten, D.H. (1981). "Amaranthus tricolor." In: PROTA Plant Resources of Tropical Africa 2, 37-40.
-  - Makus, J.D. (1984). "Proximate composition and mineral content of eight Amaranthus species." Journal of Food Science, 49(4), 1184-1185.
-  - Stallknecht, G.F. & Schulz-Schaeffer, J.R. (1993). "Amaranth rediscovered." Crops & Soils Magazine, 45(7), 20-23.
   - Brenner, D.M. et al. (2000). "Genetic resources and breeding of Amaranthus." Plant Breeding Reviews, 19, 227-285.
 ---
 

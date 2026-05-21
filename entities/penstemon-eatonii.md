@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Crosswhite, F.S. (1967). "A revision of the Penstemon eatonii complex." American Midland Naturalist 77(1): 53–69.
-  - Freeman, C.C. (2019). "Penstemon eatonii A. Gray." Flora of North America Vol. 17, Oxford University Press.
-  - USDA NRCS Plants Database. "Penstemon eatonii A. Gray." https://plants.usda.gov
   - Lady Bird Johnson Wildflower Center. "Penstemon eatonii." https://www.wildflower.org
 ---
 

@@ -20,14 +20,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Li, T.K. (2002). "He Shou Wu (Polygonum multiflorum)." American
     Journal of Chinese Medicine, 30(4), 559-568.
-  - Lin, L.W. et al. (2015). "He shou wu: A review." Journal of
     Ethnopharmacology, 176, 305-321.
-  - Pharmacopoeia of the PRC (2020 Edition). Chinese Pharmacopoeia Commission.
-  - Wong, V.C. et al. (2011). "Polygonum multiflorum: A review." Chinese
     Medicine, 6(1), 15.
-  - Stirpe, F. et al. (1983). "Anthraquinones from Polygonum multiflorum."
     Phytochemistry, 22(1), 79-81.
 ---
 

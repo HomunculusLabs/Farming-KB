@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stein, J.D. et al. (2003). "Quercus phellos L., willow oak." In: Fire Effects Information System, USDA Forest Service.
-  - Little, E.L. Jr. (1979). "Checklist of United States trees (native and naturalized)." USDA Agriculture Handbook 541.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America, Vol. 2: Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Nixon, K.C. (1993). "Infrageneric classification of Quercus (Fagaceae) and typification of sectional names." Annales des Sciences Forestières, 50, 525-535.
 ---
 

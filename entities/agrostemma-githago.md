@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Royal Botanic Gardens Kew. "Agrostemma githago." Plants of the World Online. https://powo.science.kew.org/
-  - Firbank L.G. (1988). "Biological Flora of the British Isles: Agrostemma githago." Journal of Ecology 76(4): 1085-1093.
-  - Smeets L., van der Meer Q.P. (1996). "Agrostemma githago L." In: Plant Resources of South-East Asia. Pudoc Scientific Publishers.
   - Koedam N., et al. (1992). "Mitogenic and antitumor lectins from the seeds of Agrostemma githago." Journal of Biological Chemistry 267(12): 8356-8363.
 ---
 

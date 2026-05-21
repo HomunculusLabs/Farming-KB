@@ -1,4 +1,5 @@
 ---
+
 title: Ramsbottom Poisonous Fungi Species
 created: 2026-04-12
 updated: 2026-04-12
@@ -37,7 +38,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Poisoning**: 10-12 hour incubation (almost diagnostic). Sudden intense abdominal pain, vomiting, diarrhoea, extreme thirst. Quiescence after ~2 days (most dangerous period). Recurrence in more intense form; nervous system gradually paralysed, liver degenerates, delirium, collapse, death. Recovery is slow with prolonged convalescence.
 
-**Key toxins**: [[amanita]]-toxin (heat-resistant, causes liver degeneration), [[phalloidin]] (polypeptide, destroyed by heat), [[phallin]] (glucoside, attacks red blood cells, destroyed by heat/digestion -- NOT the active poison).
+**Key toxins**: Amanita-toxin (heat-resistant, causes liver degeneration), phalloidin (polypeptide, destroyed by heat), phallin (glucoside, attacks red blood cells, destroyed by heat/digestion -- NOT the active poison).
 
 ## AMANITA VERNA -- Fools' Mushroom
 
@@ -87,11 +88,11 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Poisoning**: NEVER CAUSES DEATH in healthy people. 1-3 hours after eating: delirium and hallucinations, sometimes with intestinal disturbances. Followed by intense stupor and awakening to complete forgetfulness.
 
-**Toxins**: [[muscarine]] (small amounts, NOT matching actual symptoms), mycetoatropine/muscaridine ([[atropine]]-like CNS effects), choline (large amounts, probably causes GI symptoms). Poison resides principally in skin of the cap; considerable variation in amount.
+**Toxins**: Muscarine (small amounts, NOT matching actual symptoms), mycetoatropine/muscaridine (atropine-like CNS effects), choline (large amounts, probably causes GI symptoms). Poison resides principally in skin of the cap; considerable variation in amount.
 
-**Ethnobotanical use**: [[koryak]] tribes of northeast Siberia eat it for "excessive emotion." Urine recycling prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
+**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." Urine recycling prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
 
-**Homeopathic use**: [[agaricus]] (Aga), formerly one of the antipsorics.
+**Homeopathic use**: Agaricus (Aga), formerly one of the antipsorics.
 
 ## AMANITA PANTHERINA -- False Blusher
 
@@ -119,7 +120,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Amongst grass, autumn. Rare in Britain.
 
-**Poisoning**: Mild [[amanita-phalloides]]-type symptoms. Much less dangerous than the Amanitas.
+**Poisoning**: Mild Amanita phalloides-type symptoms. Much less dangerous than the Amanitas.
 
 ## LACTARIUS TORMINOSUS -- Woolly Milk Cap
 
@@ -146,3 +147,6 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 **Habitat**: Woods, summer and autumn.
 
 **Notes**: Acrid substance dispersed in cooking, but best avoided.
+## See Also
+
+- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]

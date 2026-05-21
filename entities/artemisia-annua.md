@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tu, Y. (2011). \"The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine.\" Nature Medicine, 17(10), 1217–1220."
-  - "World Health Organization (2023). Guidelines for the Treatment of Malaria. 4th ed. WHO Press."
-  - "Klayman, D.L. (1985). \"Artemisinin (qinghaosu): An antimalarial drug from China.\" Science, 228(4703), 1049–1055."
   - "Ferreira, J.F.S. & Janick, J. (1996). \"Artemisia annua: Botany, Horticulture, Pharmacology.\" Horticultural Reviews, 18, 159–196."
 ---
 

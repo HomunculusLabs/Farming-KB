@@ -21,9 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pittler, M.H. & Ernst, E. (2006). "Horse chestnut seed extract for
     chronic venous insufficiency." Cochrane Database of Systematic Reviews.
-  - Sirtori, C.R. (2001). "Aescin: Pharmacology, pharmacokinetics and
     oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide. It is valued for its showy white
 flower candles in spring, dense shade canopy, and distinctive palmate foliage.
 The seeds ("conkers") are a rich source of aescin (escin), a saponin mixture

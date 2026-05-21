@@ -12,10 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lorenzi, H. et al. (2010). Flora Brasiliensis: Arecaceae (Palmeiras). Instituto Plantarum, Nova Odessa, SP.
-  - Bondar, G. (1964). Palmeiras do Brasil. Instituto de Botânica, São Paulo.
-  - Dransfield, J. et al. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
-  - Arruda, G.M. et al. (2019). "Carnauba palm (Copernicia prunifera) wax: Properties and uses." Industrial Crops and Products, 135, 190-197.
   - Silva, J.M. & Melo, H.N. (2012). "Sustainable management of carnauba palm in the Brazilian semiarid." Journal of fungal-biodiversity-conservation-status." Environmental Conservation, 36(1), 1-12.
 ---
 

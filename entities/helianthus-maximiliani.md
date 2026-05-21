@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Heiser C.B. Jr. (1976). "The Sunflower." University of Oklahoma Press.
-  - Schilling E.E., Heiser C.B. Jr. (1981). "Infrageneric classification of Helianthus (Compositae)." Taxon 30(2): 393–403.
-  - Kantar M.B., Betts K., Rieseberg L.H. (2015). "Sunflower (Helianthus annuus L.) as a model for studying perenniality." Plant Science 237: 34–45.
-  - USDA NRCS. "Helianthus maximiliani." PLANTS Database.
   - Hatch S.L., Gandhi K.N. (2004). "Flora of Texas." Vol. 1. Botanical Research Institute of Texas.
 ---
 

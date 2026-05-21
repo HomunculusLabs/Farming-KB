@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, G., et al. (2007). 'A new bluing psilocybin from the USA.' Mycotaxon 100: 167–172."
-  - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
-  - "Kriegstein, A., et al. (2022). 'Psilocybe ovoidocystidiata: ecology and chemistry.' Journal of Fungi 8(11): 1147."
-  - "Baroni, K.J. (2021). ' native to the eastern  , Division Basidiomycota, Class Agaricomycetes, Order
 Agaricales, Family Hymenogastraceae, Genus Psilocybe. The species is placed
 in section Cyanescens alongside P. cyanescens, P. azurescens, and
 P. allenii based on its bolete-fungi-appalachian-region, with a natural range extending from Georgia and

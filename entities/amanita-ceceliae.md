@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tulloss, R.E. (1994). "Type Studies in the Genus Amanita." Mycotaxon, 51, 493-507.
-  - Neville, P., Poumarat, S. (2004). "Amanita of Europe." Editions Seta.
-  - Bas, C. (1969). "Morphology and Taxonomy of Amanita and Amanitopsis." Persoonia, 5, 285-297.
-  - Boertmann, D. (1996). "The Genus Amanita in Denmark." Danish Mycological Society.
   - Yang, Z.L. (2015). "Amanita" in Fungal Diversity, 74, 209-278.
 ---
 

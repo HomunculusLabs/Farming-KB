@@ -15,9 +15,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kawagishi, H., et al. (1991). "A facilitator of NGF synthesis from cancer-medicinal-mushrooms-hericium-erinaceus." Phytochemistry, 30(5), 1757-1758.
-  - Wong, K.H., et al. (2007). "Hericium erinaceus: From culinary delicacy to lions-mane-hericium-erinaceus on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
-  - Friedman, M. (2015). "Chemistry, nutrition, and health-promoting properties of Hericium erinaceus." Journal of Agricultural and Food Chemistry, 63(32), 7100-7109.
  (compound data)
 aliases:
   - Hericenone

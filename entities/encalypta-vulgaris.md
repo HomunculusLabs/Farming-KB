@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. 2nd ed. Cambridge University Press.
-  - Crum, H.A. & Anderson, L.E. (1981). Mosses of fukuoka-illusions-of-natural-science Research Council.
   - Hill, M.O. et al. (1991). "An atlas of the mosses of Europe." European Committee for Conservation of Bryophytes.
 ---
 

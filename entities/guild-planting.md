@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing.
-  - Holzer, S. (2011). Sepp Holzer's Permaculture. Chelsea Green Publishing.
-  - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green Publishing.
-  - Whitefield, P. (2004). The Earth Care Manual. Permanent Publications.
   - Crawford, M. (2010). Creating a Forest Garden. Green Books.
 ---
 

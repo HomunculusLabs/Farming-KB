@@ -12,8 +12,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Seki, T., et al. (2010). "Anti-inflammatory Activity of Monoterpenes." Inflammation, 33(5), 353-357.
-  - Vallverdú-Queralt, A., et al. (2015). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Essential Oils." Phytochemistry Reviews, 14(5), 745-766.
   - https://www.phytochemistryjournal.com/
 ---# Camphene
 
@@ -79,3 +77,5 @@ It is used in the production of synthetic camphor, flavor additives, and fragran
 The compound is employed as a food flavoring agent in small quantities, contributing earthy-pine notes to food products. It is listed on the FDA GRAS (Generally Recognized As Safe) registry for use as a flavoring substance.
 
 In traditional medicine, camphene-rich essential oils (particularly cypress and fir needle oils) have been used as expectorants, respiratory decongestants, and mild analgesics in topical rubs and inhalation preparations.
+Further research into camphene continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind camphene provides a foundation for both practical application and continued scientific inquiry.

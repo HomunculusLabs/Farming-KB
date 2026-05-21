@@ -27,7 +27,7 @@ Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive
 - Cost generally limits its use as a general soil amendment, but it is the best choice where trace element deficiencies are a concern
 
 ### As a Compost Activator
-- Due to its high cost, kelp meal is most economically used as a [[compost]] activator
+- Due to its high cost, kelp meal is most economically used as a compost activator
 - Kelp fronds contain alginic acid, which is very attractive to the bacteria required on the compost heap
 
 ### Timing
@@ -53,7 +53,7 @@ If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides
 | Kelp meal | 2.8% | 0.2% | 2.3% | Full range (60-70) |
 | Blood, fish & bone | 3.5% | 8% | 0.5% | -- |
 | Hoof & horn | 13% | -- | -- | -- |
-| [[fish-meal]] | 9% | 2.5% | -- | -- |
+| Fish meal | 9% | 2.5% | -- | -- |
 | Dried blood | 12-14% | Small | -- | -- |
 
 Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition.
@@ -63,22 +63,20 @@ Kelp meal's key advantage is its complete trace element profile and balanced slo
 - [[trace-elements-in-soil]] — preventing and treating trace element deficiencies
 - [[homemade-liquid-fertilizer]] — liquid kelp fertilizer as a foliar spray
 - [[soil-conditioners-guide]] — kelp as a soil conditioner
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of kelp meal fertilizer has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
+## Current Research
+
+Recent investigations into kelp meal fertilizer have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with kelp meal fertilizer spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

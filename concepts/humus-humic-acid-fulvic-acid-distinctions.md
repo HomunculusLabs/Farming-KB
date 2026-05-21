@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea-aact-brewing Tea (AACT), 2004"
 type: concept
 ---
 

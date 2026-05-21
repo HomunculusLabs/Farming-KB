@@ -8,8 +8,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Hanuš LO et al. (2022). "Delta-8-THC: Pharmacology and Toxicology." Cannabis and Cannabinoid Research.
-  - Cinnamon J et al. (2021). "Delta-8-THC: The Scientific Evidence." Journal of Cannabis Research.
   - U.S. DEA (2020). "Interpretive Rule: Synthesis of Tetrahydrocannabinols."
 ---
 

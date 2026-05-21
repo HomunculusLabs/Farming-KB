@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Soicke, H. & Leng-Peschlow, E. (1987). "Characterisation of flavonoids from Baccharis trimera and their antihepatotoxic properties." Planta Medica 53(1): 37–39.
-  - Oliveira, A.C.P. et al. (2005). "Total phenolic content and antioxidant activity of some Brazilian aromatic plants." Brazilian Journal of Pharmacognosy 15(4): 297–301.
-  - Torres, L.M.B. et al. (2000). "Anti-inflammatory activity of aqueous extract of Baccharis trimera." Brazilian Journal of Medical and Biological Research 33: 183–186.
   - Abad, M.J. & Bermejo, P. (2007). "Baccharis (Compositae): a review update." Arkivoc 7: 76–108.
 ---
 

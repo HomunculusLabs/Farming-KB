@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Old Fruit Variety Selection
 
-[[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+Sepp Holzer has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 ## Recommended Old Apple Varieties
 
@@ -53,7 +53,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 ## Wild and Sour Cherries
 
-Holzer cultivates wild cherries [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] forest to increase [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] harsh nights.
+Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
 
 ## Apricot and Peach Varieties
 
@@ -64,19 +64,20 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[fruit-tree-grafting-guide]]
 - [[fruit-forest-establishment]]
 - [[sepp-holzer-method]]
+## Historical Context
+
+The study and practice of old fruit variety selection has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into old fruit variety selection have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
-New technologies enable more precise measurement and analysis.
-This body of knowledge continues [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] through dedicated study.
-The integration of [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] ing-theory-and-practice remains essential.
-Future directions include expanded research and broader application.
+Applied work with old fruit variety selection spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

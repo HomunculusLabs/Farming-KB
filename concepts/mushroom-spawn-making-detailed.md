@@ -30,7 +30,7 @@ In practice, most cultivators limit expansion to 2-3 generations. Beyond this, s
 
 The master jar is the foundation of the entire spawn run. It must be absolutely clean:
 
-1. **Inoculate from the cleanest possible source**: Agar wedge or [[liquid-culture]]. Never use a [[spore-syringe]] for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
+1. **Inoculate from the cleanest possible source**: Agar wedge or liquid culture. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
 2. **Use the best grain preparation**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
 3. **Shake at 20-30% colonization**: Redistribute colonized kernels for faster, more complete colonization.
 4. **Verify 100% colonization**: Every kernel should be white with mycelium. No uncolonized grain visible.
@@ -50,8 +50,8 @@ The master jar is the foundation of the entire spawn run. It must be absolutely 
 **Equipment**:
 - Master jar (fully colonized)
 - Receiver jars (sterilized, cooled)
-- Still air box (SAB) or [[laminar-flow-hood]] (strongly preferred for G2G)
-- 70% [[isopropyl-alcohol]]
+- Still air box (SAB) or laminar flow hood (strongly preferred for G2G)
+- 70% isopropyl alcohol
 - Clean spoon or similar transfer tool (optional)
 - Nitrile gloves and mask
 
@@ -148,3 +148,6 @@ Bad spawn (do not use):
 Strategic shaking dramatically speeds spawn colonization:
 
 1. **No shake after inoculation**: Allow the inoculation point to establish (3-5 days).
+## See Also
+
+- [[mushroom-spawn-making-history-and-pure-culture-revolution]]

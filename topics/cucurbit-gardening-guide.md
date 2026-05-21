@@ -7,9 +7,6 @@ gardening, vegetables, organic]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - solomon-growing-cucurbits-guide Guide (wiki concept)
-  - Hamilton, Geoff. The Ornamental Kitchen Garden. BBC Books, 1997.
-  - Solomon, Steve. container-growing-vegetables-herbs West of the Cascades. Sasquatch Books, 2000.
 related_concepts:
   - solomon-growing-cucurbits-guide
   - cucumber-growing-guide

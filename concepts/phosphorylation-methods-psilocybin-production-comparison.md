@@ -2,7 +2,6 @@
 title: Phosphorylation Methods Psilocybin Production Comparison
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 topic: zwitterionic-phosphate-intermediate-psilocybin-synthesis.md
-  - acetyl-protection-route-psilocin-psilocybin-synthesis.md
 created: 2026-05-09
 ---
 

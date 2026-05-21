@@ -5,7 +5,6 @@ tags: [rice-cultivation, barley, no-till, direct-seeding, clover, natural-farmin
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "139-180, 5204-5260"

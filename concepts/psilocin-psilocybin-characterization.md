@@ -3,7 +3,6 @@ title: Spectroscopic Characterization of tryptamine-chemistry-psilocin-and-psilo
 aliases: [psilocin NMR data, psilocybin spectral properties, australian-magic-mushroom-common-names chemistry]
 tags: [chemistry, spectroscopy, psilocin, psilocybin, analytical chemistry]
 sources:
-  - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-08
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Struwe, L., & Albert, V. A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Körner, C. (2003). "Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems." Springer.
   - McGee, J., & Malcolm, A. (2006). "Gentians." Timber Press, Portland.
 ---
 

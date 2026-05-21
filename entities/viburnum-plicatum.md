@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Donoghue, M. J. et al. (2004). "Phylogeny and biogeography of Viburnum." Molecular Phylogenetics and Evolution, 33(1), 187-200.
-  - Royal Horticultural Society. "Viburnum plicatum." RHS Plant Finder. https://www.rhs.org.uk
-  - Dirr, M. A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Hara, H. (1983). "A Revision of Caprifoliaceae in Japan." University of Tokyo Press.
 ---
 

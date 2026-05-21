@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong, D.Y. & Pan, K.Y. (2012). "Campanulaceae." In Flora of China, Vol. 19, Science Press.
-  - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
   - He, J.Y. et al. (2015). "codonopsis-pilosula (dang shen). The roots contain triterpenoid saponins, polysaccharides, and alkaloids with documented pharmacological activities.
 ---
 

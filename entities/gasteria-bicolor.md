@@ -10,10 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Bayer, M.B. & van Jaarsveld, E.J. (1999). "Gasteria: A Garden and Collector's Guide." National Botanic Gardens of South Africa.
-  - van Jaarsveld, E.J. (2007). "The Genus Gasteria: A Monograph." South African National Biodiversity Institute.
-  - Eggli, U. (2001). "Illustrated Handbook of Succulent Plants: Monocotyledons." Springer.
-  - Pilbeam, J. (1994). "The Succulent Library: Gasteria." The Cactus File.
   - Rowley, G.D. (1978). "The Illustrated Encyclopedia of Succulents." Salamander Books.
 ---
 

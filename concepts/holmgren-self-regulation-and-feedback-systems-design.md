@@ -3,10 +3,8 @@ title: Holmgren Self Regulation And Feedback Systems Design
 source: holmgren-beyond-sustainability
 source_author: David Holmgren
 concepts:
-  - holmgren-trophic-pyramid-energy-hierarchy-societies
   - systems thinking
   - gaia hypothesis
-  - query-what-is-ecological-succession-and-how-can-farmers-use-it to forest
 - mycelial-foraging-resource-allocation:
 ---
 

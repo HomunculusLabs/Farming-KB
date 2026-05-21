@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bryson, C.T., Decker-Walters, D.S. & Wofford, B.E. (2006). "Sedges of the Mississippi Alluvial Valley." USDA Forest Service General Technical Report SRS-95.
   - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora tropical-rainforest-seedling-mycorrhiza-ecological-restoration projects for comparison-constructed-wetlands-vs-bioswales.
 ---
 

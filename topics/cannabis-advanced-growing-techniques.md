@@ -18,11 +18,9 @@ tags:
 date: 2026-05-01
 updated: 2026-05-19
 sources:
-  - "Cervantes, Jorge. Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible"
   - "Green, Greg. The Cannabis Grow Bible"
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
-  - "Oner, S.T. cannabis-sativa Volume 3: The Essential Guide"
 type: topic
 ---
 

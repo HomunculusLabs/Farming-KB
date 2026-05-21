@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Clarke CM (1997). "Nepenthes of Borneo." Natural History Publications, Kota Kinabalu.
-  - Cheek M & Jebb M (2001). "A monograph of Nepenthes (Nepenthaceae)." Blumea 45(2): 137–184.
-  - Murphy RW, Gopalakrishnankone P (2001). "Nepenthes of Indochina." Proceedings of the 4th International Carnivorous Plant Society Conference.
   - Eilenberg H, Paukstadt U, Grosse-Wilde E (2006). "Viscoelasticity of pitcher plant mucilage." Journal of Experimental Botany 57(9): 2195–2203.
 ---
 

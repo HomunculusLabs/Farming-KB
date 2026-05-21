@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fredholm, B.B. et al. (1999). "Actions of caffeine in the brain." Pharmacological Reviews, 51(1), 83-133.
-  - Nehlig, A. (1999). "Are we dependent upon coffee and caffeine?" Food Reviews International, 15(1), 103-118.
-  - McLellan, T.M. et al. (2016). "A systematic review of the reliability of caffeine." Nutrition Reviews, 74(6), 405-414.
-  - Spiller, M.A. (1998). "The pharmacology of caffeine." Progress in Drug Research, 51, 323-373.
   - Glade, M.J. (2010). "Caffeine — not just a stimulant." Nutrition, 26(10), 932-938.
 ---
 

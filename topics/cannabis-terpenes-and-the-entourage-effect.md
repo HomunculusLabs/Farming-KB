@@ -14,18 +14,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
-  - "Robert C. Clarke - clarke-marijuana-botany-cannabinoid-biosynthesis-pathway"
   - "S.T. Oner - Cannabis Sativa Volume 3"
-  - "The Modern Farm - LAB and blesching-cannabis-cannabinoid-terpene-entourage-effect Biosynthesis"
 related_concepts:
   - cannabis-terpene-entourage-effect
   - cannabinoid-terpene-entourage-effect
   - cannabis-terpene-and-aroma-chemistry-clarke
-  - blesching-cannabis-cannabinoid-terpene-entourage-effect
   - cannabis-terpene-profiles
-  - clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles
-  - modern-farm-lab-and-cannabinoid-terpene-biosynthesis
   - oner-cannabis-terpene-profiles-effects
   - cannabis-terpene-entourage-effect-profiles
   - cervantes-terpenoids-terpene-profiles

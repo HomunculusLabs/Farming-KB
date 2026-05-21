@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Bäuerlen, D. & Dransfield, J. (1992). "A revision of Acanthophoenix (Palmae)." Kew Bulletin 47(2): 271-282.
-  - Vaughan, R.E. & Wiehe, P.O. (1937). "Studies on the Vegetation of Mauritius." Journal of Ecology 25(2): 289-343.
-  - Strahm, W. (1996). "The Conservation of Palm Diversity in Madagascar and the Mascarene Islands." In "Proceedings of the International Palm Conference."
   - Maunder, M. et al. (2002). "Conservation of the endemic palms of the Mascarene Islands." Oryx 36(3): 246-254.
 ---
 

@@ -13,7 +13,6 @@ updated: 2026-05-10
 sources:
   - Mathew, B. (1989). "The Iris." Timber Press.
   - USDA NRCS Plants Database. Iris cristata L.
-  - Cullina, W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Kew Plants of the World Online. Iris cristata.
 ---
 

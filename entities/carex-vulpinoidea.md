@@ -9,7 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in Flora huckleberries-and-wild-berries-of-north-america, Vol. 23." Oxford University Press.
   - Bryson, C.T. & DeBusk, W.F. (2021). "Sedges of the Southern guzman-psilocybin-mushrooms-north-america and occurs widely across the eastern and central huckleberries-and-wild-berries-of-north-america, forming extensive stands in marshes and wet meadows.
 ---
 

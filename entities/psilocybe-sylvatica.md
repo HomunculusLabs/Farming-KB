@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G. (1983). "The Genus Psilocybe: A Systematic Revision of the Known Species." Beihefte zur Nova Hedwigia 74.
-  - Stamets, P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
-  - Guzmán, G., Allen, J.W., & Gartz, J. (1998). "A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon 68.
   - Gartz, J. (1994). "Distribution and Evolutionary Trends in Psilocybe." Journal of Ethnopharmacology 41(1-2): 71-77.
 ---
 

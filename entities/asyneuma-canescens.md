@@ -9,11 +9,8 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov AA, Kovanda M (1978). "Campanulaceae." In: Flora Europaea Vol. 4.
     Cambridge University Press.
-  - Oskolski AA et al. (2018). "Wood anatomy of Campanulaceae s.str.: phylogenetic
     and ecological implications." Botanical Journal of the Linnean Society 186(3): 312-331.
-  - Park JM et al. (2006). "Phylogeny and biogeography of Campanulaceae
     s.str." Taxon 55(4): 865-876.
 ---
 

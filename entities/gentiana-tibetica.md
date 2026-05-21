@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." In: Flora of China, Vol. 16. Science Press.
-  - Yang, J.E. et al. (2017). "Iridoid glycosides from Gentiana tibetica." Journal of Asian Natural Products Research 19(4): 342–350.
   - Komatsu, K. et al. (1994). "Comparative study on Tibetan gentian drugs." Natural Medicines 48(3): 192–199.
 ---
 

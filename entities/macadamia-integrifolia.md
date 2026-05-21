@@ -10,11 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Storey, W.B. (1965). "Macadamia integrifolia." Economic Botany, 19(1), 1–10.
-  - Stephenson, R.A. & Gallagher, E.C. (1987). "Macadamia nut production." Acta Horticulturae, 175, 163–168.
-  - Hardner, C.M. et al. (2009). "Macadamia." In Wild Crop Relatives. Springer.
-  - Nagao, M.A. & Hirae, H.H. (1992). "Macadamia: cultivation and physiology." Horticultural Reviews, 13, 257–298.
   - Wall, M.M. & Gentry, T.S. (2007). "Carbohydrate composition during macadamia nut roasting." Journal of Food Science, 72(6), C423–C427.
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: Mushrooms and Mankind
 created: 2026-04-11
 updated: 2026-04-12
@@ -131,7 +132,7 @@ Arthur's work is enthusiastic and wide-ranging but highly speculative. The lingu
 
 ## See Also
 
-- [[amanita-muscaria]] for the biology and chemistry of Amanita muscaria
+- [[amanita-muscaria-guide]] for the biology and chemistry of Amanita muscaria
 - [[psychedelic-mushroom-history]] for the scholarly timeline
 - [[john-allegro]] for the linguistic scholarship
 - [[christmas-mushroom-symbolism]] — Deep dive on Christmas traditions

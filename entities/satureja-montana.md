@@ -8,9 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Šarić-Kundalić, B. et al. (2010). "Antibacterial activity of Satureja montana L. permaculture-designers-manual-essential-oil-plants." Journal of Medicinal Food, 13(2), 447–451.
-  - Skocibusic, M. & Bezić, N. (2004). "Phytochemical analysis and antimicrobial activity of essential oil from Satureja montana." Planta Medica, 70(5), 427–431.
-  - Hazzit, M. et al. (2006). "Biological activities of the essential oil and methanol extract of Satureja montana." Chemistry of Biodiversity, 3(8), 868–876.
   - Ochocka, J.R. et al. (1997). "Antimicrobial activity of Santureja montana essential oil." Journal of Ethnopharmacology, 56(1), 81–85.
 ---
 

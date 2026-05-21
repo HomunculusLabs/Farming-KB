@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, permaculture, cultivation, food-forest]
-sources: ["raw/concepts/perennial-vegetables.md"]
+sources: []
 ---
 
 # Perennial Vegetables

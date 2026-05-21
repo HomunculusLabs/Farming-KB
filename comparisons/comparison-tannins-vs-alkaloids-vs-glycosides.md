@@ -4,12 +4,6 @@ tags: [secondary-metabolites, plant-chemistry, tannins, alkaloids, glycosides, c
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Harborne, J.B. (1998). Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis, 3rd ed. Springer."
-  - "Wink, M. (2010). Functions of Plant antifungal-secondary-metabolites-coprophilous-fungi and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
-  - "Crozier, A., Clifford, M.N., Ashihara, H. (2006). Plant antifungal-secondary-metabolites-coprophilous-fungi: Occurrence, Structure and Role in the Human Diet. Blackwell Publishing."
-  - "Dixon, R.A. & Paiva, N.L. (1995). Stress-Induced Phenylpropanoid Metabolism. The Plant Cell, 7(7), 1085–1097."
-  - "Ziegler, J. & Facchini, P.J. (2008). Alkaloid Biosynthesis: Metabolism and Transport. Annual Review of Plant Biology, 59, 735–769."
-  - "Bowles, E.J. (2020). The Chemistry of Aromatherapeutic Oils, 3rd ed. Allen & Unwin."
 type: comparison
 created: 2026-04-28
 ---

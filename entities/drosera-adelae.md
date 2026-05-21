@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Lowrie, A. (1987). "Carnivorous Plants of Australia." Volume 1. University of Western Australia Press.
-  - Schlauer, J. (2001). "A dichotomous key to the genus Drosera L. (Droseraceae)." Carnivorous Plant Newsletter, 30(3), 68-76.
-  - McPherson, S.R. (2010). "Drosera: Growing Sundews." Redfern Natural History Productions.
   - Hartmeyer, S. (2008). "Carnivorous plants of Australia — The genus Drosera." Australian Carnivorous Plants.
 ---
 

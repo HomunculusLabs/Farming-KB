@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Ehrendorfer, F. (2010). "Anemone and Allies in Europe." Flora Europaea Vol. 1, Cambridge University Press.
-  - Hiebert, R.D. (2014). "Cultivation of European Woodland Anemones." The Plantsman 13(2): 96-101.
   - Li, J. et al. (2019). "Triterpenoid saponins from Anemone sylvestris." Phytochemistry 157: 1-12.
 ---
 

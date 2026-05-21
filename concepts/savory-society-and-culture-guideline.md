@@ -5,7 +5,6 @@ tags: [ethics, community, quality-of-life, social-impact, testing-guidelines]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Society and Culture Guideline
 

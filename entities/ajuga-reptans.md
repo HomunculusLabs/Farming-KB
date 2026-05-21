@@ -20,9 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cullen, J. et al. (2000). "The European Garden Flora." Cambridge University Press.
-  - Newsholme, C. (1993). "Willows: The Genus Salix." B.T. Batsford.
-  - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
 created: 2026-04-28
 ---# Overview
 

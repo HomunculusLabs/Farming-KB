@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Weaver, J.E. & Fitzpatrick, T.J. (1934). "The Prairie." Ecological Monographs.
-  - Knapp, A.K. et al. (1998). "Grassland dynamics: long-term ecological research in tallgrass prairie." Oxford University Press.
-  - Peart, D.R. (1989). "Species distributions in Nebraska sandhills." American Journal of Botany.
-  - Hopkins, A.A. et al. (2009). "Molecular mapping of forage traits in big bluestem." Crop Science.
   - Axelrod, D.I. (1985). "Rise of the Grassland Biome, Central North America." Botanical Review.
 ---
 

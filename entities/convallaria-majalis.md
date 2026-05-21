@@ -13,15 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Smith, R.W. (1982). *Lily of the Valley (Convallaria majalis)*.
     Royal Horticultural Society, London.
-  - Erdemoglu, N., et al. (2004). "Antioxidant activity of
     Convallaria majalis." Journal of Ethnopharmacology, 93(2), 321–324.
-  - Prassas, I., and Diamandis, E.P. (2008). "Novel therapeutic
     applications of cardiac glycosides."
     Nature Reviews Drug Discovery, 7(11), 926–935.
-  - USDA NRCS (2024). "Convallaria majalis L." PLANTS Database.
-  - European Medicines Agency (2015). "Assessment report on
     Convallaria majalis." EMA/HMPC/552579/2009.
 ---
 

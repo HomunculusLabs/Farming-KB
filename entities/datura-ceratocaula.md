@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." Charles C. Thomas.
-  - Symon, D.E. & Haegi, L.A. (1991). "Datura (Solanaceae) in Australia." Flora of Australia, 29, 3-22.
-  - Avery, A.G. (1959). "Blakeslee: The Genus Datura." Ronald Press.
-  - Lockwood, T.E. (1973). "Generic recognition of Brugmansia." Botanical Museum Leaflets, 23(3), 45-55.
   - Bye, R.A. & Linares, E. (1987). "Mexican medicinal plants." Journal of Ethnopharmacology, 19(1), 51-55.
 ---
 

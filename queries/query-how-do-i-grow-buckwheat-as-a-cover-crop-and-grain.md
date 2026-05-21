@@ -3,9 +3,6 @@ title: "How Do I Grow Buckwheat as a Cover Crop and Grain?"
 slug: "how-do-i-grow-buckwheat-as-a-cover-crop-and-grain"
 tags: [cover-crops, grains, buckwheat, soil-building, pollinators]
 related_queries:
-  - query-how-do-i-grow-quinoa-in-my-garden-or-on-my-small-farm
-  - query-how-do-i-grow-sorghum-in-my-garden-or-small-farm
-  - query-how-do-i-grow-barley-in-my-garden-or-small-farm
   - query-why-is-rye-one-of-the-best-winter-cover-crops
 ---
 

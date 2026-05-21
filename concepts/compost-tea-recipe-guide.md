@@ -5,7 +5,6 @@ updated: 2026-04-12
 type: concept
 tags: [soil, compost, tea, biology, application, microbes]
 sources:
-  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
@@ -148,3 +147,5 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - [[bacterial-vs-fungal-soil]]
 - [[protozoa-in-soil]]
 - [[mycorrhizal-inoculation]]
+- [[foliar-feeding-plants]]
+- [[nitrogen-cycle-in-soil]]

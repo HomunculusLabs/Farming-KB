@@ -8,7 +8,6 @@ sources:
   - "raw/concepts/brassica-growing-guide.md"
   - "raw/concepts/growing-brassicas-organically.md"
   - "raw/concepts/solomon-growing-brassicas-guide.md"
-  - "raw/concepts/hamilton-brassica-growing-organic.md"
   - "raw/concepts/cole-crop-harvest-and-storage.md"
 related_concepts:
   - brassica-growing-guide

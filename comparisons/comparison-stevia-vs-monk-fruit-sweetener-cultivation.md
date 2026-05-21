@@ -14,12 +14,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Carakostas, M. et al. (2008). 'Overview: The history, technical function and safety of rebaudioside A, a naturally occurring steviol glycoside, for use in food and beverages.' Food and Chemical Toxicology, 46(S1), S1–S10."
-  - "Li, D. et al. (2014). 'Luo Han Guo (Siraitia grosvenorii): A review of its botany, traditional uses, phytochemistry, pharmacology, and potential toxicity.' Journal of Pharmacy and Pharmacology, 66(8), 1067–1080."
-  - "Singh, S. & Rao, G. (2018). 'Stevia: The genus Stevia.' CRC Press."
-  - "Li, C. & Huang, W. (2015). 'Cultivation of Siraitia grosvenorii (monk fruit) in Guangxi, China: ecological requirements and agronomic practices.' Journal of Agricultural Science, 7(3), 78–87."
-  - "Ceunen, S. & Geuns, J. (2013). 'Steviol glycosides: Chemical diversity, metabolism, and function.' Journal of Natural Products, 76(6), 1201–1228."
-  - "Dai, X. et al. (2020). 'Mogrosides from Siraitia grosvenorii: Biosynthesis, extraction, and applications in food industry.' Frontiers in Nutrition, 7, 44."
 type: comparison
 created: 2026-04-28
 ---
@@ -82,3 +76,5 @@ Stevia offers a much faster return on investment, with multiple leaf harvests pe
 
 **Monk fruit** faces significant [[cervantes-powdery-mildew-prevention-treatment]], fruit rot, and root-knot nematodes. The dioecious nature of the plant (separate male/female vines) adds complexity — growers must maintain appropriate male-to-female ratios (typically 1:10 to 1:20) for pollination. Viral pressure is a major reason tissue [[hamilton-soft-fruit-cultivation]]
 - [[fruit-tree-propagation]]
+Further research into comparison stevia vs monk fruit sweetener cultivation continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind comparison stevia vs monk fruit sweetener cultivation provides a foundation for both practical application and continued scientific inquiry.

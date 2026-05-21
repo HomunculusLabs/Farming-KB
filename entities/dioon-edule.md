@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stevenson, D.W.M. (1987). "Monograph of Zamiaceae." PhD Thesis, Cornell University.
-  - Norstog, K.J. & Nicholls, T.J. (1997). "The Biology of the Cycads." Cornell University Press.
   - González-Astorga, J. et al. (2008). "biological-nitrogen-fixation-agriculture. This symbiotic association supplements the plant's query-how-to-protect-plants-from-frost-and-extend-the-growing-season.
 ---
 

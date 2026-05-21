@@ -6,7 +6,6 @@ tags: [food-preservation, drying, mushroom-storage, nineteenth-century,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/julius-auboineau-palmer-about-mushrooms.md"
 type: concept
 ---
 

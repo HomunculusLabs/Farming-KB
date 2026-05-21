@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Zona, S. (1990). "A monograph of Sabal (Arecaceae: Coryphoideae)." Aliso, 12(2), 583-666.
-  - Weakley, A.S. (2023). "Flora of the Southeastern north-carolina-mycodiversity Herbarium.
   - USDA NRCS (2024). "Sabal minor." PLANTS Database, United States Department of Agriculture.
 ---
 

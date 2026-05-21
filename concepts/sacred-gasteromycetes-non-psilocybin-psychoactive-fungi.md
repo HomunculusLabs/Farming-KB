@@ -7,7 +7,6 @@ tags:
   - ethnomycology
   - gasteromycetes
   - sacred-fungi
-- arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 type: concept
 ---

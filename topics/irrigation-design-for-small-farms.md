@@ -5,26 +5,12 @@ tags: [irrigation, water-management, drip-irrigation, sprinklers, passive-irriga
 date: 2026-05-09
 updated: 2026-05-19
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/concepts/irrigation-systems.md"
-  - "raw/concepts/drip-irrigation-and-microirrigation.md"
   - "raw/concepts/irrigation-watering-techniques.md"
-  - "raw/concepts/solomon-irrigation-systems-sprinkler-design.md"
-  - "raw/concepts/solomon-irrigation-water-management.md"
   - "raw/concepts/passive-irrigation-systems.md"
-  - "raw/concepts/coleman-drip-irrigation-and-water-management.md"
-  - "raw/concepts/jeavons-water-management-irrigation.md"
   - "raw/concepts/holzer-irrigation-principles.md"
   - "raw/concepts/solomon-irrigation-water-scarce.md"
   - "raw/concepts/contour-swale-irrigation-design.md"
-  - "raw/concepts/fukuoka-irrigation-topsoil-erosion-salt-accumulation.md"
-  - "raw/concepts/mollison-designers-traditional-irrigation-systems.md"
-  - "raw/concepts/solomon-drip-irrigation-limitations-home-garden.md"
-  - "raw/concepts/cervantes-drip-irrigation-systems.md"
-  - "raw/concepts/soil-moisture-monitoring-irrigation-management.md"
-  - "raw/concepts/crop-coefficients-irrigation-scheduling.md"
-  - "raw/concepts/keypoint-irrigation-and-saddle-dams.md"
-  - "raw/concepts/orchard-swales-and-flood-irrigation.md"
 related_concepts:
   - irrigation-systems
   - drip-irrigation-guide

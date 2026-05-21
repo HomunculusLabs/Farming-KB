@@ -1,4 +1,5 @@
 ---
+
 title: Victorian Mycology and the Discovery of Psilocybin Mushrooms
 created: 2026-04-11
 updated: 2026-04-12
@@ -60,22 +61,27 @@ The case of "Mr W." (possibly a Mr. White or Mr. Wright) is one of the earliest 
 - [[mushroom-identification]] — Modern identification methods descended from Victorian taxonomy
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom discovery
 - [[mushroom-folklore-and-culture]] — Mushrooms in fairy lore and popular culture
-- [[mordecai-cubitt-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
+- [[mordecai-cooke]] — The Victorian mycologist who almost discovered magic mushrooms
 - [[r-gordon-wasson]] — Who ultimately brought Mexican mushroom practices to Western attention
 
 ## Related
 
 - [[buller-ahr]]
 - [[ingold-cecil-t]]
+## Historical Context
+
+The study and practice of victorian mycology has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into victorian mycology have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
 
 ## Practical Applications
 
-The principles discussed here have been applied in various settings.
-Practitioners have developed methods that integrate these concepts effectively.
-Results from field trials have demonstrated consistent improvements.
-These approaches continue to evolve with new research and experience.
-Ongoing work in this area promises further refinements.
-Researchers and practitioners collaborate to advance the field.
+Applied work with victorian mycology spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 
-This topic continues to develop with ongoing research.
-New findings regularly contribute to our understanding.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

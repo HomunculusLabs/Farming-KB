@@ -10,7 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. Cambridge University Press.
   - Crum, H. & Anderson, L.E. (1981). Mosses of spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982 occurs primarily in late spring to early summer.
 ---
 

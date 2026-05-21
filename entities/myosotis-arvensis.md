@@ -10,10 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grau, J. (1968). "Revision der Gattung Myosotis in Europa." Dissertation, University of Munich.
-  - Royal Horticultural Society (2023). "Myosotis — RHS A-Z Encyclopedia of Garden Plants." rhs.org.uk.
-  - Stace, C.A. (2019). "New Flora of the British Isles." 4th edition. C&M Floristics.
-  - Tutin, T.G. et al. (1972). "Flora Europaea Vol. 3." Cambridge University Press.
   - WCSP (2024). "World Checklist: Myosotis arvensis." Kew Royal Botanic Gardens.
 ---
 

@@ -10,11 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Kew Publishing, Royal Botanic Gardens.
-  - Dowe, J.L. (2009). "A taxonomic account of Livistona R.Br. (Arecaceae)." Kew Bulletin 64(1): 65–85.
-  - Jones, D.L. (1996). "Palms Throughout the World." Smithsonian Institution Press.
-  - International Union for Conservation of Nature (IUCN). "Wodyetia bifurcata." The IUCN Red List of Threatened Species.
   - Australian Government Department of Agriculture, Water and the Environment. "Wodyetia bifurcata A.K.Irvine."
 ---
 

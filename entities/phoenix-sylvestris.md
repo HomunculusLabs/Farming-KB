@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
-  - Barrow, S.C. (1998). "A monograph of Phoenix L. (Palmae)." Kew Bulletin, 53(3), 513-575.
-  - Johnson, D.V. (1998). "Non-wood Forest Products: Palms." FAO Forestry Paper 144.
-  - Singh, R. et al. (2011). "Phoenix sylvestris: Traditional uses, phytochemistry, and pharmacology." Asian Pacific Journal of Tropical Disease, 1(2), 162-167.
   - Houssa, P. et al. (2000). "Wound healing properties of date palm leaves." Fitoterapia, 71(5), 580-583.
 ---
 

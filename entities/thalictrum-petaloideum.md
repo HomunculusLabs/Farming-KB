@@ -10,9 +10,6 @@ tags:
 date: 2025-05-11
 updated: 2025-05-11
 sources:
-  - Wang, W.T. & Zhu, G.H. (2001). "Thalictrum." Flora of China, Vol. 6. Science Press & Missouri Botanical Garden Press.
-  - Tamura, M. (1995). "Ranunculaceae." Flora of Japan, Vol. IIa. Kodansha.
-  - Lee, Y.N. (2004). "Ranunculaceae in Korea." Journal of Korean Plant Taxonomy, 34(3): 187–212.
   - Nichols, G. (2015). "Cultivating Thalictrum Species." Hardy Plant Society Journal, 33(2): 78–85.
 ---
 

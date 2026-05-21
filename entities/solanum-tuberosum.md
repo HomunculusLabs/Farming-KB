@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hawkes, J.G. (1990). "The Potato: Evolution, Biodiversity, and Genetic Resources." Belhaven Press.
-  - Spooner, D.M. et al. (2005). "A single domestication for potato." Proceedings of the National Academy of Sciences, 102, 14694–14702.
-  - Glendinning, D.R. (1983). "Potato introductions and breeding up to the early 20th century." New Phytologist, 94, 479–505.
   - FAO (2023). "FAOSTAT: Potato Production Data." Food and Agriculture Organization.
 ---
 

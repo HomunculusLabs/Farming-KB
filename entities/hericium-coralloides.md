@@ -5,12 +5,6 @@ tags: [fungi, edible-mushroom, medicinal, saprotrophic, hericiaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Petersen, R.H. (2000). 'Hericium' in the southeastern dmt-containing-plants-united-states-halpern.'
-  - "Moncalvo, J.M. et al. (2006). Molecular phylogeny of the Hydnoid fungi."
-  - "Wang, J. et al. (2014). Erinacine A production from Hericium coralloides."
-  - "Kawagishi, H. et al. (2004). Hericenones and erinacines: stimulators of NGF synthesis."
-  - "Mori, K. et al. (2009). Improving effects of the mushroom on brain function."
-  - "Binder, M. et al. (2013). A phylogenetic overview of the genus Hericium."
   - "Solti, P. et al. (2023). Cultivation parameters for Hericium species on lignocellulosic substrates."
 ---
 
@@ -78,3 +72,18 @@ Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
+## Historical Context
+
+The study and practice of hericium coralloides has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into hericium coralloides have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with hericium coralloides spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

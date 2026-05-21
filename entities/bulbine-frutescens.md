@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Williamson G. (2004). "Bulbine in Southern Africa." Umdaus Press.
-  - Van Wyk B.-E., Gericke N. (2000). "People's Plants: A Guide to Useful Plants of Southern Africa." Briza Publications.
-  - Grierson D.S., Afolayan A.J. (1999). "Antimicrobial activity of some medicinal plants used in the Eastern Cape." Journal of Ethnopharmacology 68(1-3): 87-92.
   - Tropicos.org. Missouri Botanical Garden. "Bulbine frutescens (L.) Willd."
 ---
 

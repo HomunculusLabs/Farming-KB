@@ -12,10 +12,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Jumpponen A, Trappe JM. "Dark-septate endophytes: a review of facultative biotrophic root-colonizing fungi." New Phytologist. 1998.
-  - Mandyam K, Jumpponen A. "Seeking the elusive function of the root-colonising dark septate endophyte fungi." Studies in Mycology. 2014.
-  - Knapp DG, Pintado A, Kovács GM. "The dark side is not fastidious — dark septate endophytic fungi of the Northern Hemisphere." FEMS Microbiology Reviews. 2018.
-  - Newsham KK. "A meta-analysis of the effects of dark septate endophytes on plant growth and physiology." Mycorrhiza. 2011.
   - Addy HD, Piercey MM, Currah RS. "Microfungal endophytes in rough fescue roots." Canadian Journal of Botany. 2005.
 ---
 

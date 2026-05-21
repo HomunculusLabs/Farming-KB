@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." 2nd ed. New York Botanical Garden.
-  - Foundation, H. (1978). "Holly Society Yearbook." American Horticultural Society.
-  - U.S. Fish and Wildlife Service. (2005). "National Wetland Plant List." USFWS.
   - Nilsen, E.T. & Muller, W.H. (1981). "Relative leaf toughness of plants from wetland and dry habitats." Botanical Gazette, 142(1), 68–71.
 ---
 

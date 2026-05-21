@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. et al. (1993). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Rivera, D. et al. (2006). "Jiada: gathering and consumption of wild edible plants in the Aragonese Pyrenees." Economic Botany, 60(3), 245–258.
   - Schimmer, O. et al. (1994). "Mutagenic compounds in an Indian medicinal plant, Sisymbrium officinale." Journal of Ethnopharmacology, 44(1), 73–76.
 ---
 

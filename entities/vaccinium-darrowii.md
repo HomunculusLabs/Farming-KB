@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - USDA NRCS (2024). "Vaccinium darrowii." PLANTS Database.
-  - Lyrene, P.M. (2008). "Breeding Blueberries for a Changing Climate." HortScience 43(1): 39–43.
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
-  - Williamson, J.G. & Lyrene, P.M. (2004). "Blueberry Botany and Horticulture." Horticultural Reviews 30: 31–82.
   - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern metzner-william-james-radical-empiricism-multiple-consciousness Camp in 1941, named after blueberry breeder George M. Darrow.
 ---
 

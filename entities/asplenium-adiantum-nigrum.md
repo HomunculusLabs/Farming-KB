@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Page, C.N. (1997). "Ferns: Their Habits in the British and Irish Landscape." Collins New Naturalist.
-  - Prelli, R. (2001). "Les Fougères de France." Éditions Belin.
-  - Van den Heede, C.J. (2003). "Taxonomy and Biogeography of Asplenium adiantum-nigrum." Fern Gazette, 17(1).
   - World Ferns (2025). "Asplenium adiantum-nigrum." World Ferns Database. https://www.worldferns.com
 ---
 

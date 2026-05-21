@@ -5,7 +5,6 @@ tags: [permaculture, ecology, biodiversity, design-principles]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 ## Edge Effect Ecology Edge effect refers to the increased biodiversity, productivity, and ecological complexity that occurs at the boundaries between two different ecosystems or habitat types. [[zone-and-sector-analysis]]

@@ -28,7 +28,7 @@ transmitting deformed wing virus and other pathogens.
 - **Powdered sugar** — dust bees, mites fall through screen; less accurate
 
 ### Treatment Options
-- **[[oxalic-acid]] vapor** — effective during broodless periods (late winter,
+- **Oxalic acid vapor** — effective during broodless periods (late winter,
   after a flow)
 - **Formic acid (MAQS)** — can be used with honey supers on; effective but
   requires temperature management (50-85F)
@@ -53,7 +53,7 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or [[diatomaceous-earth]] in corners of
+- Use beetle blaster traps with oil or diatomaceous earth in corners of
   super boxes
 
 ### Treatment
@@ -148,3 +148,8 @@ Strong colonies raid weak ones, especially during dearths.
 
 ### Prevention
 - Reduce entrances of weak colonies
+- Do not spill syrup or honey in the apiary
+- Feed in the evening to avoid attracting robbers
+- Use robbing screens on weak colonies during dearths
+
+For seasonal timing of these interventions, see [[beekeeping-seasonal-calendar]].

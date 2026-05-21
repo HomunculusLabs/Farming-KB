@@ -5,7 +5,6 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, biodegradation, enzymes, biochemistry]
 sources:
-  - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
   - Gadd, G.M. (2001).  recalcitrant organic
 compounds. These intracellular enzymes catalyze the initial oxidation of
 diverse xenobiotics including aliphatic and aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham. They serve as

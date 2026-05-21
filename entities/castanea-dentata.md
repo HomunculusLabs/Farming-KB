@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Anagnostakis, S.L. (1987). "Chestnut Blight: The Classical Problem of an Introduced Pathogen." Mycologia 79(2): 236-243.
-  - Brauer, F.S. et al. (1950). "Forest Species Composition in the Central Appalachians After the Chestnut Blight." Castanea 15: 89-102.
-  - Freinkel, S. (2007). American Chestnut: The Life, Death, and Rebirth of a Perfect Tree. University of California Press.
-  - McCormick, L.H. & Platt, R.B. (1962). "Recovery of American Chestnut Following the 1950s Blight Epidemic." Journal of Forestry 60: 496-499.
   - Stein, J.D., Baird, R.E. & Smith, J.D. (2000). "Chestnut Blight." The American Phytopathological Society.
 ---
 
@@ -80,3 +76,5 @@ The blight spread rapidly, advancing at an estimated rate of 50 km per year thro
 The fungus kills trees by girdling the trunk, forming expanding cankers that disrupt the flow of water and nutrients. American chestnut had no natural resistance to the Asian pathogen, having evolved in isolation from it for millions of years.
 
 The ecological and economic impact of the blight was catastrophic. The loss of chestnut timber, tannin bark, and nut crops represented one of the largest ecological disturbances in recorded North American history.
+Further research into castanea dentata continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind castanea dentata provides a foundation for both practical application and continued scientific inquiry.

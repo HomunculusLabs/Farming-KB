@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Toelken, H.R. (1985). "Crassulaceae." In: Flora of Southern Africa. Vol. 14.
-  - Descoings, B. (2003). "Kalanchoe." In: Illustrated Handbook of Succulent Plants. Springer.
-  - Smith, G.F. et al. (2019). "Systematics of Kalanchoe (Crassulaceae)." Systematic Botany.
   - Van Jaarsveld, E.J. (2010). "Waterwise Gardening in South Africa." Struik Nature.
 ---
 

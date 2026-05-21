@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Conforti, F. et al. (2006). "chemical-composition-of-hallucinogens and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
-  - Formisano, C. et al. (2007). "Volatile constituents of Acinos arvensis from Italy." Journal of Chromatography A, 1170(1–2), 241–245.
-  - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis permaculture-designers-manual-essential-oil-plants." Flavour and Fragrance Journal, 22(5), 398–401.
   - Tuttolomondo, T. et al. (2013). "childrens-herbal-medicine. Modern research has investigated its essential oil for antimicrobial and antioxidant properties.
 ---
 

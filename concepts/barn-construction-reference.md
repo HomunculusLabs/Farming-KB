@@ -1,4 +1,5 @@
 ---
+
 title: Barn Construction Reference
 created: 2026-04-12
 updated: 2026-04-12
@@ -148,3 +149,5 @@ Costs vary enormously by materials, region, and whether you build yourself or hi
 ## Related Pages
 
 - [[barn-design]] -- Layout, flooring, and bedding
+- [[natural-building]] -- Sustainable building methods
+- [[homesteading-infrastructure]] -- Overall homestead planning

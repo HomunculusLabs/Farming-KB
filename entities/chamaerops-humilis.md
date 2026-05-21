@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Tomlinson, P.B. (1990). "The Structural Biology of Palms." Clarendon Press, Oxford.
-  - Aedo, C. (2013). "Chamaerops humilis." Flora Iberica, 18, 120-124.
   - POWO (2024). "Chamaerops humilis L." Plants of the World Online, Royal Botanic Gardens, Kew.
 ---
 

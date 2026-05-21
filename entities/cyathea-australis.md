@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Large, M.F. & Braggins, J.E. (2004). Tree Ferns. Timber Press.
-  - Jones, D.L. (1998). "Cyatheaceae." In Flora of Australia, Vol. 48, Ferns, Gymnosperms and Allied Groups. ABRS/CSIRO.
-  - Korall, P. et al. (2007). "A molecular phylogeny of scaly tree ferns." Systematic Botany 32(3): 515-526.
   - Tryon, R.M. & Tryon, A.F. (1982). Ferns and Allied Plants. Springer-Verlag.
 ---
 

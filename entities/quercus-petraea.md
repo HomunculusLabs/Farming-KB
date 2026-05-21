@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jones, E.W. (1959). "Biological Flora of the British Isles: Quercus L." Journal of Ecology, 47(1), 169-222.
-  - Kissling, R. (1980). "Quercus petraea (Mattuschka) Liebl." In: Conifers and hardwoods. C.E.C., Brussels.
-  - Philippe, G. & Becquey, J. (1995). "A comparison of the wood anatomy of Quercus petraea and Q. robur." IAWA Journal, 16(4), 425-436.
-  - Kremer, A. & Hipp, A.L. (2020). "Genomics of forest trees: Quercus as a model system." In: Genomics of Plant Genetic Resources, 261-283. Springer.
   - USDA NRCS (2024). "Quercus petraea (Matt.) Liebl." Plants Database, United States Department of Agriculture.
 ---
 

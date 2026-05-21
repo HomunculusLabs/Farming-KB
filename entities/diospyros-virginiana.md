@@ -23,12 +23,8 @@ aliases:
   - Possumwood
   - Simmon
 sources:
-  - Crane EH, Reed C (2016). "Diospyros virginiana." In: Jankovics T,
     ed., Wild Crop Relatives: Genomic and Breeding Resources. Springer.
-  - Peterson R (1977). A edible-wild-mushrooms-by-region Plants of Eastern
     and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin, Boston.
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/diospyros_virginiana.shtml
-  - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
     Management." USDA Forest Service General Technical Report.
   - USDA NRCS Plant Profile. https://plants.usda.gov/home/plantProfile?symbol=DIVI5
 ---

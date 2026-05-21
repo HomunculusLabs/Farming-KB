@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Huxley, A. (1992). "Cyperus L." in New RHS Dictionary of Gardening, Vol. 1. Macmillan.
-  - Simpson, D.A. (2010). "Cyperaceae." in Flora of Tropical East Africa. Royal Botanic Gardens, Kew.
   - comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap, though commercial cultivation has largely ceased.
 ---
 

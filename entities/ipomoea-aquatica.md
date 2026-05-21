@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Grubben GJH, Denton OA (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
-  - Hu CY (1971). "A contribution to the knowledge of the cultivated Ipomoea aquatica." Journal of the Arnold Arboretum 52(2): 247-251.
-  - Yang RJ, Lin HC, Liu TY (1998). "Effects of processing methods on the contents of carotenes and vitamin C in Ipomoea aquatica." Food Chemistry 63(1): 83-87.
   - Holm LG, Plucknett DL, Pancho JV, Herberger JP (1977). "The World's Worst Weeds." University Press of Hawaii.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Park, J.M. et al. (2006). "Phylogeny and Biogeography of Campanula (Campanulaceae)." Molecular Phylogenetics and Evolution, 38: 489–507.
-  - WCSP (2024). "World Checklist of Selected Plant Families: Campanula." Royal Botanic Gardens, Kew.
   - Quézel, P. & Santa, S. (1963). Nouvelle Flore de l'Algérie. CNRS, Paris.
 ---
 

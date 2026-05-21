@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chandler, R.F. et al. (1982). "Ethnobotany and phytochemistry of yarrow, Achillea millefolium." Canadian Journal of Botany, 60(10), 2126-2141.
-  - Bennet, B.C. & Hickman, J.C. (1998). "Yarrow." In: The Jepson Manual: Higher Plants of California. UC Press.
-  - European Medicines Agency (2014). "Assessment report on Achillea millefolium." EMA/HMPC/247627/2009.
-  - Tutin, T.G. et al. (1976). "Flora Europaea, Vol. 4." Cambridge University Press.
   - Saeidnia, S. et al. (2011). "The genus Achillea." Pharmacognosy Reviews, 5(9), 71-79.
 ---
 

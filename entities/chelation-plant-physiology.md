@@ -85,7 +85,7 @@ Ingham's discussion of chelation connects directly to compost tea biology:
 ## See Also
 
 - [[humic-acid]]
-- [[glomalin-and-soil-carbon]]
+- [[glomalin]]
 - [[mycorrhizae]]
 - [[actively-aerated-compost-tea]]
 - [[elaine-ingham]]

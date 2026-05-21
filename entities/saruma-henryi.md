@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wu ZY, Raven PH, Hong DY (2008). "Flora of China, Vol. 5." Science Press.
-  - Kelly LM, González F (2011). "Saruma and the phylogenetic relationships of Aristolochiaceae." Botanical Journal of the Linnean Society 165(1): 4-16.
-  - Neinhuis C, Wanke A (2008). "Aristolochiaceae." In: Kubitzki K (ed.), The Families and Genera of Vascular Plants, Vol. 10. Springer.
   - Christenhusz MJM, Byng JW (2016). "The number of known plants species in the world and its annual increase." Phytotaxa 261(3): 201-217.
 ---
 

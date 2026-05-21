@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Romagnesi, M. (1967). "Les Russules d'Europe et d'Afrique du Nord." Bordas, Paris.
-  - Sarnari, M. (1998). "Fungi Europaei, Vol. 7: Russula." Edizioni Candusso, Alba.
-  - Kibby, G. (2011). "Russula: The Fungal Genus." Published by the author.
   - Bills, G.F. & Booth, T. (1997). "Russula." In: The Mycota IV, Springer.
 ---
 

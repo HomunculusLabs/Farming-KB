@@ -9,11 +9,11 @@ sources: []
 
 # Herb Spiral Construction
 
-An [[herb-spiral]] is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
+An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
 
 ## The Concept
 
-The herb spiral is a classic [[permaculture-design]] pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
+The herb spiral is a classic permaculture design pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
 
 - **Moisture gradient:** The bottom of the spiral collects runoff and stays damp; the top drains quickly and stays dry
 - **Sun exposure gradient:** The top receives full sun from all angles; lower portions may be shaded by the upper sections depending on orientation
@@ -112,16 +112,16 @@ Mediterranean herbs that thrive in hot, dry conditions with sharp drainage:
 - Lavender (Lavandula spp.)
 - Thyme (Thymus vulgaris)
 - Oregano (Origanum vulgare)
-- Sage ([[salvia-officinalis]])
-- Winter savory ([[satureja-montana]])
+- Sage (Salvia officinalis)
+- Winter savory (Satureja montana)
 
 ### Upper Middle (Zone 2) — Warm, Moderately Dry
 
 Herbs that like warmth but slightly more moisture:
 
-- Tarragon ([[artemisia-dracunculus]])
-- Chamomile ([[matricaria-chamomilla]])
-- Calendula ([[calendula-officinalis]])
+- Tarragon (Artemisia dracunculus)
+- Chamomile (Matricaria chamomilla)
+- Calendula (Calendula officinalis)
 - Yarrow (Achillea millefolium)
 - Catnip (Nepeta cataria)
 
@@ -147,3 +147,8 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 - Sweet woodruff (Galium odoratum)
 
 ### North Side vs. South Side
+## See Also
+
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[comparison-herb-spiral-vs-keyhole-beds]]
+- [[herb-spiral-design]]

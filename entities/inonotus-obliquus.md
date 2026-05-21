@@ -11,7 +11,6 @@ tags:
   - betulinic-acid
   - chaga
 sources:
-  - Stamets, P. (2000). "growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
   - Singh, S. et al. (2020). "cancer-medicinal-mushrooms-extraction-bioavailability in human clinical studies." International Journal of Medicinal Mushrooms, 16(1), 1-16.
 ---
 

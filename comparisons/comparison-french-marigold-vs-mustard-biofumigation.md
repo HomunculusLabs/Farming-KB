@@ -13,12 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hutchinson, C.M., McGiffen, M.E. & Ota, K. (2000). Marigold and castor bean as cover crops for nematode management. _Journal of Nematology_, 32(4S), 542–548."
-  - "Kirkegaard, J.A., Sarwar, M., Matthiessen, J.N., et al. (2005). Biofumigation and bioassays: tools to evaluate the fate and impact of isothiocyanates in soil-based systems. _Soil Biology & Biochemistry_, 37(2), 355–364."
-  - "Ploeg, A.T. & Stapleton, J.J. (2001). Glasshouse studies on the effects of time, temperature and amendment of soil with broccoli plant residues on the mortality of _Meloidogyne incognita_ and _M. javanica_. _Nematology_, 3(1), 53–61."
-  - "Wang, K.H., Sipes, B.S. & Schmitt, D.P. (2002). Suppression of _Rotylenchulus reniformis_ by _Tagetes patula_ and _T. erecta_. _Journal of Nematology_, 34(2), 116–122."
-  - "Gimsing, A.L. & Kirkegaard, J.A. (2009). Glucosinolates and biofumigation: fate of glucosinolates and their hydrolysis products in soil. _Phytochemistry Reviews_, 8(1), 299–310."
-  - "Hooks, C.R.R., Wang, K.H., Ploeg, A. & McSorley, R. (2010). Using marigold (_Tagetes spp._) as a cover crop to protect crops from plant-parasitic nematodes. _Applied Soil Ecology_, 46(3), 307–320."
 type: comparison
 ---
 

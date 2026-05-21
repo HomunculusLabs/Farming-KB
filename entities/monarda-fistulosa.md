@@ -12,13 +12,9 @@ tags:
   - permaculture
   - edible
 sources:
-  - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press
     of Kansas.
-  - Moore, M. (1979). "Medicinal Plants of the Mountain West." Museum of New
     Mexico Press.
-  - USDA NRCS (2023). "Plant Profile: Monarda fistulosa." USDA Natural Resources
     Conservation Service.
-  - Kew Royal Botanic Gardens (2023). "Monarda fistulosa L." Plants of the World
     Online.
 ---
 
@@ -80,3 +76,5 @@ produce oils dominated by different constituents (thymol, carvacrol, or geraniol
 chemotypes).
 
 ## Traditional and Modern Medicinal Use
+Further research into monarda fistulosa continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind monarda fistulosa provides a foundation for both practical application and continued scientific inquiry.

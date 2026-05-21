@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
-  - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th edition. Koeltz Scientific Books.
-  - Kuo, M. (2023). "Agrocybe praecox." MushroomExpert.com. https://www.mushroomexpert.com/agrocybe_praecox.html
-  - Hall, I.R., Buchanan, P.K., Yun, W., Cole, A.L.J. (1998). "Edible and palmer-poisonous-mushrooms-deadly-species of the World." Timber Press.
   - Wang, J. et al. (2014). "A review of the bioactivities and pharmacological properties of Agrocybe species." Journal of Ethnopharmacology, 153(2), 331-346.
 ---
 

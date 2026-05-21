@@ -12,8 +12,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Lawrence R, Choudhary S (2006). "Caralluma fimbriata: A novel dietary supplement." Alternative Therapies in Health and Medicine 12(3).
-  - Bader A et al. (2003). "Natural products as appetite suppressants." Planta Medica 69(10).
   - Kuriakose GC et al. (2014). "Caralluma: A review of its traditional uses, phytochemistry, and pharmacology." Pharmacognosy Reviews 8(16).
 ---
 

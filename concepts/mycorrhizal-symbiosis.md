@@ -12,7 +12,6 @@ tags:
   - soil-science
   - symbiosis
 sources:
-  - geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 created: 2026-05-10
 ---
 

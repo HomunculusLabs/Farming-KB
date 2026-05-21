@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. 2nd ed. New York Botanical Garden.
-  - USDA NRCS. (2024). "Kalmia angustifolia." PLANTS Database.
-  - Mulligan, G.A. & Munro, D.B. (1981). "Toxic plants of Canada." Agriculture Canada Publication.
   - Kingsbury, J.M. (1964). Poisonous Plants of the polypore-fungi-eastern-north-america America, ranging from eastern Canada south to the Appalachian Mountains.
 ---
 

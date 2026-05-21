@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, Domestication and Taxonomy." In: Allium brassinosteroid-anti-stress-effects-crop-science. CABI Publishing.
-  - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
-  - Mathew, B. (1996). A Review of Allium Species. Royal Botanic Gardens, Kew.
-  - USDA NRCS (2024). "Allium ampeloprasum L." PLANTS Database.
   - Kamenetsky, R. & Rabinowitch, H.D. (2002). "Flower Development in Allium." In: Allium Crop Science. CABI Publishing.
 ---
 

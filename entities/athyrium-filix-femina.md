@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rothmaler, W. (1963). "Athyrium." In: Exkursionsflora von Deutschland. Volk und Wissen.
-  - Cobb, B. (1963). "A Field Guide to the Ferns and Their Related Families." Houghton Mifflin.
-  - Kershaw, L. (2001). "Trees and Shrubs, Ferns and Herbaceous Plants." Lone Pine Publishing.
-  - Sato, T. (1986). "Cytotaxonomic study of the Athyrium filix-femina complex in Japan." Journal of Japanese Botany, 61, 225–236.
   - Mickel, J. T. (1979). "Athyrium in Mexico." American Fern Journal, 69(3), 83–90.
 ---
 

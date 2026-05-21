@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ma H-P et al. (2011). "Epimedium-derived flavonoids: a review of their pharmacological properties." Pharmacology & Therapeutics, 129(2), 131-146.
-  - Zhang Z et al. (2013). "Icariin and its derivatives: potential agents for osteoporosis." Chinese Journal of Natural Medicines, 11(4), 342-350.
-  - Li X et al. (2015). "Phytochemical and biological studies of Epimedium species: a review." Journal of Asian Natural Products Research, 17(4), 332-354.
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." People's Medical Publishing House.created: 2026-05-07
 
 created: 2026-05-07
 ---

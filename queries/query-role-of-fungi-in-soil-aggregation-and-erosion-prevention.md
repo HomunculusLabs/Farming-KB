@@ -14,12 +14,6 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - Tisdall JM, Oades JM. "Organic matter and water-stable aggregates in soils." Journal of Soil Science. 1982.
-  - Miller RM, Jastrow JD. "Mycorrhizal fungi influence soil structure." In: Arbuscular Mycorrhizas: Physiology and Function. 2000.
-  - Rillig MC, Mummey DL. "Mycorrhizas and soil structure." New Phytologist. 2006.
-  - Leifheit EF, Veresoglou SD, Lehmann A, Morris EK, Rillig MC. "Is there a relationship between root exudates, mycorrhizal fungal colonization and soil aggregation?" Soil Biology and Biochemistry. 2014.
-  - Rillig MC, Aguilar-Trigueros CA, Bergmann J, Verbruggen E, Veresoglou SD. "Plant root and mycorrhizal fungal traits for understanding soil aggregation." New Phytologist. 2015.
-  - Wilson GW, Rice CW, Rillig MC, Springer A, Hartnett DC. "Soil aggregation and carbon sequestration are tightly correlated with the abundance of comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungi." Soil Science Society of America Journal. 2009.
 type: query
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ahti, T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V. (1995). Die Flechten Baden-Württembergs. Eugen Ulmer Verlag.
 ---
 

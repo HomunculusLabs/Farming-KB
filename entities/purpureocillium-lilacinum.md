@@ -21,9 +21,6 @@ aliases:
   - Paecilomyces lilacinus
   - lilac-colored paecilomyces
 sources:
-  - Luangsa-ard, J.J. et al. (2011). "A revision of the genus Paecilomyces sensu lato." Studies in Mycology, 70(1), 137–156.
-  - Kiewnick, S. (2013). "Use of Purpureocillium lilacinum for the biocontrol of root-knot nematodes." IOBC/WPRS Bulletin, 89, 401–405.
-  - Degenkolb, T. & Vilcinskas, A. (2016). "Metabolite profiles of the entomopathogenic fungus Purpureocillium lilacinum." Frontiers in Microbiology, 7, 1678.created: 2026-05-07
 
 created: 2026-05-07
 ---

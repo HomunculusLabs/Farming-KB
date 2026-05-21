@@ -10,9 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zhu, Y.P. (1998). "Chinese Materia Medica: Chemistry, Pharmacology and Applications." CRC Press.
-  - Eigner, D. & Scholz, D. (1999). "Ferula asa-foetida and Curcuma longa in Traditional Medical Treatment." Journal of Ethnopharmacology, 67(1), 1-6.
-  - Li, T.K. et al. (2019). "Galangin: A Review of Its Pharmacology and Clinical Applications." Phytotherapy Research, 33(6), 1472-1485.
   - Rahmani, A.H. et al. (2014). "Health Benefits of Ginger and Galangal." Journal of Traditional and Complementary Medicine, 4(3), 140-144.
 ---
 

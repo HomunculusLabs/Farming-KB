@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Mickel, J.T. & Smith, A.R. (2004). "The Pteridophytes of Mexico." Memoirs of the New York Botanical Garden, 88.
-  - Moran, R.C. & Riba, R. (1995). "Flora Mesoamericana: Psilotaceae a Salvinaceae." Universidad Nacional Autónoma de México.
-  - Gastony, G.J. (1982). "Cibotium (Dicksoniaceae) in Mexico." American Fern Journal, 72(2): 45-52.
   - IUCN Red List. Cibotium schiedei. https://www.iucnredlist.org
 ---
 

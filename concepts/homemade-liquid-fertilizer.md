@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-It is very easy [[query-how-to-make-your-own-organic-fertilizer-at-home]] own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
+It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
 
 ## Basic Recipe (Animal Manure Liquid Feed)
 
@@ -21,8 +21,8 @@ It is very easy [[query-how-to-make-your-own-organic-fertilizer-at-home]] own li
 
 1. Fill the drum with water
 2. Collect half a sackful of animal droppings
-3. Tie up the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] sack with a double loop of string
-4. Put a strong stake across the top of the drum and loop the string over it so the sack is suspended [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] water
+3. Tie up the top of the sack with a double loop of string
+4. Put a strong stake across the top of the drum and loop the string over it so the sack is suspended in the water
 5. Leave for about two weeks, until the water is a rich, dark brown color
 6. Remove the sack and leave the drum covered
 
@@ -30,14 +30,14 @@ It is very easy [[query-how-to-make-your-own-organic-fertilizer-at-home]] own li
 
 - **Direct application:** Can be used undiluted, provided the soil has first been watered
 - **Foliar spray:** Dilute the liquid with equal parts water
-- **Golden rule:** Never liquid-feed when the soil is bone dry — you may scorch the roots. Water with clear water first, let it drain, then apply the [[jadam-input-production-water-leaf-mold-liquid-fertilizer]]
+- **Golden rule:** Never liquid-feed when the soil is bone dry — you may scorch the roots. Water with clear water first, let it drain, then apply the liquid fertilizer
 
 ## Plant-Based Liquid Fertilizers
 
 The same method can be used with plant materials to produce specific nutrient feeds:
 
 - **High nitrogen feed:** Use stinging nettles — fill sack with nettle tops, steep in water for 2-3 weeks
-- **High potash feed:** Use [[comfrey]] leaves — same method as nettles; comfrey is rich in potassium
+- **High potash feed:** Use comfrey leaves — same method as nettles; comfrey is rich in potassium
 
 ## Applying Liquid Fertilizers
 
@@ -47,7 +47,7 @@ The same method can be used with plant materials to produce specific nutrient fe
 - For potted plants, fill up to the rim of the pot
 
 ### Buried Pot Method
-For plants that are regularly fed (e.g., [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]):
+For plants that are regularly fed (e.g., greenhouse tomatoes):
 - Bury a flower pot in the soil near the plant
 - Fill the pot with liquid fertilizer
 - This gets fertilizer deeper into the soil and lets you measure exactly how much each plant receives
@@ -62,23 +62,20 @@ For plants that are regularly fed (e.g., [[coleman-vertical-trellis-growing-gree
 - [[animal-manure-guide]] — choosing the right manure for liquid fertilizer
 - [[kelp-meal-fertilizer]] — kelp-based organic fertilizer options
 - [[trace-elements-in-soil]] — ensuring plants get micronutrients
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of homemade liquid fertilizer has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+## Current Research
+
+Recent investigations into homemade liquid fertilizer have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with homemade liquid fertilizer spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.

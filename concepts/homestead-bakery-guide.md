@@ -15,17 +15,17 @@ A homestead bakery transforms home-milled or purchased grains into bread and bak
 
 ### What Is Sourdough
 
-Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
+Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
 
 - **Carbon dioxide** — Leavens the bread (from wild yeast)
 - **Lactic and acetic acid** — Flavor and preservation (from lactobacilli)
 - **Enzymes** — Break down complex carbohydrates and gluten, improving digestibility
-- **Lower glycemic index** — The [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] fermentation slow sugar absorption
+- **Lower glycemic index** — The acid and fermentation slow sugar absorption
 - **Extended shelf life** — Acidic environment inhibits mold growth (sourdough keeps 5-7 days without preservatives)
 
 ### Creating a Sourdough Starter
 
-A starter is a stable culture of wild yeast and lactobacilli maintained with regular flour [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] feedings:
+A starter is a stable culture of wild yeast and lactobacilli maintained with regular flour and water feedings:
 
 **Day 1:** Mix 1/2 cup whole wheat flour + 1/2 cup warm water (80-85F) in a glass jar. Stir well, cover loosely. Whole wheat flour works best initially because the bran hosts more wild organisms.
 
@@ -40,8 +40,8 @@ A starter is a stable culture of wild yeast and lactobacilli maintained with reg
 ### Maintaining a Starter
 
 - **Daily use:** Feed 1:1:1 ratio (equal weights starter, flour, water). Example: 50g starter + 50g flour + 50g water.
-- **Weekly storage (refrigerator):** Feed the starter, let it rise for 2 hours, then refrigerate. Feed once a week by discarding half and refreshing. Bring to room [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] feed 2-3 times before baking.
-- **Long-term storage (freezer):** Dehydrate a portion of active starter [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] sheet of parchment. Break into flakes, store in a jar. To revive, soak flakes in warm water and begin regular feeding.
+- **Weekly storage (refrigerator):** Feed the starter, let it rise for 2 hours, then refrigerate. Feed once a week by discarding half and refreshing. Bring to room temperature and feed 2-3 times before baking.
+- **Long-term storage (freezer):** Dehydrate a portion of active starter on a sheet of parchment. Break into flakes, store in a jar. To revive, soak flakes in warm water and begin regular feeding.
 - **Hydration:** Most recipes call for 100% hydration (equal weights flour and water). Whole grain starters may benefit from slightly higher hydration (110-120%) because bran absorbs more water.
 
 ## Whole Wheat Bread
@@ -86,7 +86,7 @@ Whole wheat bread behaves differently from white bread:
 
 ### Working with Rye
 
-Rye flour presents unique [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] rewards:
+Rye flour presents unique challenges and rewards:
 
 - **Very low gluten** — Rye contains some gluten proteins, but they do not form the elastic network that wheat gluten does. Rye breads rely on starches and pentosans for structure, not gluten
 - **High pentosan content** — These complex carbohydrates absorb enormous amounts of water (up to 8x their weight). Rye doughs are sticky, soft, and require different handling than wheat doughs
@@ -121,10 +121,6 @@ Rye flour presents unique [[guzman-allen-gartz-psilocybe-taxonomic-challenges-an
 - **Pumpernickel** — Very coarse rye meal. Used in traditional German pumpernickel bread, which is steamed and baked for many hours.
 - **Whole rye berries** — Can be soaked and added to bread for texture.
 
-## See Also
-- [[honey-locust-pod-fodder-timber-production]]
-- [[honey-oil]]
-- [[cannabis-honey-oil-production]]
 ## Commercial Kitchen Requirements
 
 ### Selling Baked Goods Legally
@@ -146,3 +142,14 @@ In most US states, cottage food laws allow limited home baking sales without a c
 - State registration or permit (varies)
 
 ### Scaling to a Commercial Kitchen
+
+If cottage food limits are too restrictive:
+
+- **Shared commercial kitchen** — Rent time in an existing licensed commercial kitchen. $15-40/hour in most areas.
+- **Build a dedicated commercial kitchen** — Requires health department approval, commercial-grade equipment, three-compartment sink, hand-washing sink, separate food prep areas, proper ventilation, and more. Cost: $20,000-$100,000+ depending on scope.
+- **Co-packing** — Partner with an existing bakery to produce your recipes in their facility.
+## See Also
+
+- [[homestead-permaculture-design]]
+- [[homestead-workshop-tools]]
+- [[homestead-internet-options]]

@@ -1,5 +1,4 @@
 ---
-title: Permaculture Multi Purpose Plants
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -115,6 +114,6 @@ When choosing plants for a design, evaluate each candidate against the following
 - [[permaculture-dynamic-accumulator-plants]]
 - [[permaculture-nitrogen-fixing-trees]]
 - permaculture-useful-plants-reference
-- [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]
 - [[comfrey-plant-guide]]
 - [[bamboo-species-guide]]

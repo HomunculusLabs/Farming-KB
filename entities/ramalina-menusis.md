@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - McCune, B. & Geiser, L. (2009). Macrolichens of the Pacific Northwest. 2nd ed. Oregon State University Press.
-  - Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region. Vol. 1. Arizona State University.
   - Knudsen, K. & Flø, S. (2012). "Ramalina menziesii." In: Thell, A. & Moberg, R. (eds.), Nordic Lichen Flora Vol. 4.
 ---
 

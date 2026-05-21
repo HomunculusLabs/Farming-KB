@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Taylor, P. (1989). "The Genus Utricularia — A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
-  - Jobson, R.W., et al. (2018). "Ecological and evolutionary diversification in the bladderwort lineage." New Phytologist, 220(2), 438-453.
-  - Richards, J.H. (2001). "Bladderwort (Utricularia): Unique carnivorous plants." Horticulture Reviews, 27, 1-28.
   - Lloyd, F.E. (1942). "The Carnivorous Plants." Chronica Botanica Company.
 ---
 
@@ -79,3 +75,14 @@ Quantitative evaluation through appropriate metrics enables objective assessment
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on utricularia australis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with utricularia australis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

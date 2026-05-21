@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1972). "Gentianaceae." Flora Europaea, Vol. 3. Cambridge University Press.
-  - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Halda, J.J. (1990). "The Genus Gentiana." Tetre Books.
   - Köhlein, F. (1991). "Gentians." Timber Press.
   - Kozuharov, S.I. & Petrova, A.S. (1991). "Gentiana L." In: Flora of the Republic of Bulgaria, Vol. 10.
 ---

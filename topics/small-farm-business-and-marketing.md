@@ -13,14 +13,9 @@ tags:
 date: 2026-04-30
 updated: 2026-04-30
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "The Winter Harvest Handbook (Eliot Coleman)"
-  - "Permaculture: A Designers' Manual (Bill Mollison)"
-  - "Permaculture: Principles and Pathways Beyond Sustainability (David Holmgren)"
   - "The One-Straw Revolution (Masanobu Fukuoka)"
   - "JADAM system materials"
-  - "duggar-mushroom-growing-history-and-methods (William Falconer, 1891)"
-  - "The Principles of Mushroom Growing (B.M. Duggar, 1915)"
 related_concepts:
   - coleman-direct-marketing-and-csa-models
   - coleman-marketing-economics

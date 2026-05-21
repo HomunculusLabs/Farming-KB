@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Li, B. et al. (2006). Asarum (Aristolochiaceae). Flora of China, 5, 270-278."
-  - "Sugawara, T. et al. (2004). Phylogeny and biogeography of East Asian Asarum. Journal of Plant Research, 117(5), 365-375."
   - "Zhang, X. et al. (2015). dmt-botanical-sources-pharmacology of the traditional Chinese medicine (TCM) drug *Xi Xin* (细辛).
 ---
 

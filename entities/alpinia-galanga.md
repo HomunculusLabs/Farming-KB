@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ravindran, P.N. et al. (2005). \"Alpinia galanga (L.) Willd.\" In: Ravindran, P.N. et al. (eds.), Crops of the Tropics. CRC Press, pp. 289-322."
-  - "Jirovetz, L. et al. (2003). \"Chemical composition and antioxidant activity of essential oil of Alpinia galanga.\" Journal of Essential Oil Research, 15(1), 46-49."
-  - "Choudhury, M. et al. (2019). \"Pharmacological potential of Alpinia galanga: a comprehensive review.\" Phytomedicine, 59, 152893."
-  - "Oonmetta-aree, J. et al. (2006). \"Antimicrobial activity of Alpinia galanga constituents.\" Journal of Agricultural and Food Chemistry, 54(20), 7703-7708."
-  - "Ushimaru, K. et al. (2020). \"Galangin and its derivatives from Alpinia galanga: bioactivities and mechanisms.\" Molecules, 25(13), 2990."
   - "Sirirugsa, P. (1999). Thai Zingiberaceae: Species Diversity and Their Uses. Chiang Mai University Press."
 ---
 

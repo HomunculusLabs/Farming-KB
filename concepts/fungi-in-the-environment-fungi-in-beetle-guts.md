@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 17: Blackwell, M., Suh, S.O. & Nardi, J.B. "Fungi in the hidden environment: the fungi-in-the-gut-of-beetles."
 created: 2026-04-28
 type: concept
 ---

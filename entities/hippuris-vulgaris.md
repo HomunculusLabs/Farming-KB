@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cook, C.D.K. (1990). Aquatic Plant Book. SPB Academic Publishing, The Hague.
-  - Barrat-Segretain, M.H. (1996). "Strategies of reproduction, clonal growth and habitat selection in the aquatic macrophyte Hippuris vulgaris L." Oecologia, 107(3), 357-362.
   - Weih, M. & Rönberg-Wästljung, A.C. (2007). "Shoot morphology affects neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998 in western North America and Patagonia respectively. Some authorities consider these as subspecies of a single polymorphic species.
 ---
 

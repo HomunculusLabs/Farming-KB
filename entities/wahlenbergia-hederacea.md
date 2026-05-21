@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Eddie W.M. et al. (2003). "Phylogeny and biogeography of Wahlenbergia (Campanulaceae)." Australian Systematic Botany 16(3): 403–424.
   - Tutin T.G. (1978). "Wahlenbergia." In: Tutin T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
 ---
 

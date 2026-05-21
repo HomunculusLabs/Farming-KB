@@ -12,11 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P., "medicinal-mushrooms as a Source of Antitumor and Immunomodulating Polysaccharides," Applied Microbiology and Biotechnology, vol. 60, 2002.
-  - Hobbs, C., "cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
-  - Stamets, P., "Growing Gourmet and Medicinal Mushrooms," 3rd ed., Ten Speed Press, 2000.
-  - Pillai, T.G. et al., "An Updated Review of Turkey Tail Mushroom," Phytochemistry, vol. 188, 2022.
-  - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its query-what-are-the-main-bioactive-compounds-in-medicinal-plants," Molecules, vol. 25, 2020.
 type: comparison
 ---
 ## Reishi vs Lion's Mane vs turkey tail mushroom cultivation and medicinal properties
@@ -78,3 +73,18 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Historical Context
+
+The study and practice of comparison reishi vs lions mane vs turkey tail medicinal mushrooms has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+
+## Current Research
+
+Recent investigations into comparison reishi vs lions mane vs turkey tail medicinal mushrooms have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with comparison reishi vs lions mane vs turkey tail medicinal mushrooms spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

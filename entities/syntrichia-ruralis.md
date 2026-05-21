@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Zander, R.H. (1993). Genera of the Pottiaceae: Mosses of Harsh Environments. Buffalo Society of Natural Sciences.
-  - Glime, J.M. (2017). "Syntrichia ruralis." Bryophyte Ecology, Vol. 2. Michigan Technological University.
-  - Mishler, B.D. & Oliver, M.J. (2009). "Resurrection Plants." In: Encyclopedia of Life Sciences. Wiley.
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland, 2nd ed. Cambridge University Press.
   - Proctor, M.C.F. (2000). "The bryophyte paradox: tolerance of desiccation, evasion of drought." Plant Ecology 151: 135-143.
 ---
 

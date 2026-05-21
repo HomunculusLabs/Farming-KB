@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fischer, M.A. et al. (2008). Exkursionsflora für Österreich, Liechtenstein und Südtirol. Land Oberösterreich.
-  - USDA NRCS Plants Database. "Veronica chamaedrys." https://plants.usda.gov
-  - Grime, J.P. et al. (2007). Comparative Plant Ecology. Castlepoint Press.
   - Stace, C.A. (2019). New Flora of the British Isles. C&M Floristics.
 ---
 

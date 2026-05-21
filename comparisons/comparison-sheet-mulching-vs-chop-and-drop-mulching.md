@@ -5,7 +5,6 @@ tags: [comparison, mulching, no-till, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---

@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1964). "The active principles of the ergot-fungus." Proceedings of the Royal Society of Medicine, 57(Suppl), 14–20.
 - Berde, B., Schild, H.O. (1978). lysergic-acid-amide linked to a cyclol ring
   formed by three amino acids: L-valine, L-proline, and L-phenylalanine
 - **IUPAC name:** Ergotaman-3',6',18-trione, 12'-hydroxy-2',5'-α-epoxy-

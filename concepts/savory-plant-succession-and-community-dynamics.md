@@ -10,7 +10,6 @@ related: [savory-ecosystem-foundation-blocks, savory-brittle-environments,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Plant Succession and Community Dynamics
 

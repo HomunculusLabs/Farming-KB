@@ -12,10 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grey-Wilson, C. (2000). "Clematis: The Genus." Timber Press.
-  - Johnson, M. (2001). "The Genus Clematis: A Classification." Acta Horticulturae, 555, 25–38.
-  - Wang, W.T. & Li, L.Q. (2005). "A Revision of Clematis Sect. Meclatis." Journal of Systematics and Evolution, 43(6), 501–538.
-  - Toomer, J. (2010). "The Plant Lover's Guide to Clematis." Timber Press.
   - Royal Horticultural Society (2023). "Clematis tangutica — RHS Plant Finder." rhs.org.uk.
 ---
 

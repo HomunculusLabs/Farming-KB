@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jermy, A.C. & Camus, J.M. (1991). "Blechnaceae." In: The Plant-Book. Cambridge University Press.
-  - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Kermode, L.J. (1972). "A taxonomic revision of the genus Blechnum in psilocybin-north-america-pacific-northwest." Canadian Journal of Botany 50: 267–298.
   - Page, C.N. (1997). "The ferns of Britain and Ireland." 2nd edition. Cambridge University Press.
 ---
 

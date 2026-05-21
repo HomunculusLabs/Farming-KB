@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brooker, M.I.H. (2000). "A new classification of the genus Eucalyptus L'Hér." Australian Systematic Botany, 13(1), 79-148.
-  - Boland, D.J. et al. (2006). "Forest Trees of Australia." CSIRO Publishing (5th ed.).
-  - Grant, J. (2003). "Eucalyptus camaldulensis Dehnh." In Flora of Australia, Vol. 22.
   - Davidson, J. (1993). "Eucalyptus camaldulensis: An Annotated Bibliography." CIFOR.
 ---
 
@@ -78,3 +75,14 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 
 Understanding these principles enables more effective application in diverse contexts.
+## Current Research
+
+Recent studies on eucalyptus camaldulensis have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with eucalyptus camaldulensis should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

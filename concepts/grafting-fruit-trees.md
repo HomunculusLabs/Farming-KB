@@ -9,7 +9,7 @@ sources: []
 
 # Grafting Fruit Trees
 
-Grafting is the art of joining two plants together so they grow as one. In fruit tree [[coleman-cool-house-vs-cold-house-economics-winter-production]], the scion (top portion) provides the desired fruit variety while the rootstock (bottom portion) provides disease resistance, size control, and soil adaptation. Grafting is essential for reproducing named fruit varieties that do not come true from seed.
+Grafting is the art of joining two plants together so they grow as one. In fruit tree production, the scion (top portion) provides the desired fruit variety while the rootstock (bottom portion) provides disease resistance, size control, and soil adaptation. Grafting is essential for reproducing named fruit varieties that do not come true from seed.
 
 ## Grafting Basics
 
@@ -59,7 +59,7 @@ The whip-and-tongue is the strongest graft for joining scions and rootstocks of 
 6. **Join the pieces**: Slide the scion tongue into the rootstock tongue so they interlock. The cambium layers must align on at least one side (preferably both).
 7. **Wrap tightly**: Begin wrapping below the graft union, working upward. Overlap each wrap by half. Cover the entire cut surface. Use parafilm or grafting tape.
 8. **Seal**: Apply grafting wax to any exposed cut surfaces. If using parafilm, the wrap alone is often sufficient.
-9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]], unheated greenhouse, or refrigerator drawer works. Graft union heals in 2-4 weeks.
+9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). A cold frame, unheated greenhouse, or refrigerator drawer works. Graft union heals in 2-4 weeks.
 
 ### Best Timing
 

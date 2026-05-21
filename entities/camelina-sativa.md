@@ -11,10 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Vollmann, J. & Eynck, C. (2015). \"Camelina as a sustainable oilseed crop.\" European Journal of Lipid Science and Technology, 117(9), 1119-1129."
-  - "Putnam, D.H. et al. (1993). \"Camelina: a promising low-input oilseed.\" In: New Crops, Wiley, pp. 314-322."
-  - "Zubr, J. (2003). \"Qualitative variation of Camelina sativa seed from different locations.\" Industrial Crops and Products, 17(3), 195-199."
-  - "Berti, M. et al. (2016). \"Camelina sativa seed yield and quality response to applied nitrogen and growing degree days.\" Agronomy Journal, 108(2), 682-689."
   - "Isbell, T.A. (2009). \"Camelina oil — a new omega-3 source.\" Lipid Technology, 21(5-6), 116-119."
 ---
 

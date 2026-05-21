@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - National Research Council (1989). Lost Crops of the Incas. National Academies Press, Washington.
-  - Hermann, M. & Heller, J. (1997). Andean Roots and Tubers: Ahipa, Arracacha, Maca and Yacon. IPGRI, Rome.
-  - EMR (2023). "Oca (Oxalis tuberosa) — a neglected Andean tuber crop." Experimental Agriculture, 59(e4).
   - CIP (International Potato Center). "Oca: Oxalis tuberosa." Crop factsheet.
 ---
 

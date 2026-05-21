@@ -14,9 +14,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the dmt-containing-plants-united-states-halpern." Pharmacology & Therapeutics 102(2): 131-138.
-  - Stewart O (1987). Peyote Religion: A History. University of Oklahoma Press, Tulsa, OK.
-  - Terry M, Trout K (2008). "The current status of lophophora-williamsii (Cactaceae) in South Texas." Cactus and Succulent Journal 80(6): 292-301.
   - Anderson EF (1969). "The biogeography, ecology, and taxonomy of Lophophora (Cactaceae)." PhD dissertation, Brigham Young University.
 ---
 

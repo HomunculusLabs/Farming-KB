@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Conti, F. et al. (2005). An Annotated Checklist of the Italian Vascular Flora. Palombi Editori, Rome.
-  - Fischer, M.A. et al. (2008). Exkursionsflora für Österreich, Liechtenstein und Südtirol. Land Oberösterreich.
-  - Pils, G. (2016). "Campanula morettiana and the endemic flora of the Dolomites." Phyton 56(1): 15–28.
-  - Wilhalm, T. et al. (2006). "Red List of vascular plants of South Tyrol." Gredleriana 6: 141–198.
   - Strid, A. & Tan, K. (1991). Mountain Flora of Greece, Vol. 2. Edinburgh University Press.
 ---
 

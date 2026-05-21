@@ -1,4 +1,5 @@
 ---
+
 title: Hallucinogenic Mushrooms -- European Legal and Social Trends
 created: 2026-04-11
 updated: 2026-04-12
@@ -102,7 +103,7 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 - [[psilocybin-large-scale-production]] — Room design and production workflow (Gottlieb)
 - [[psilocybin-mushroom-chemistry]] — Potency data
 - [[mushroom-species-guide]] — Species profiles
-- [[amanita-muscaria]] -- Amanita muscaria-specific information
+- [[amanita-muscaria-guide]] -- Amanita muscaria-specific information
 - [[psilocybin-mushroom-chemistry]] -- Dose/effects/health risks (includes EMCDDA clinical data)
 - [[mushroom-legislation-worldwide]] -- Global legal status (includes EU timeline from EMCDDA)
 - hallucinogenic mushrooms european trends -- This page (prevalence and market data)

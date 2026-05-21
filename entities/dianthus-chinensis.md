@@ -9,7 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tutin TG et al. (1964–1980). "Flora Europaea." Cambridge University Press.
   - Zhu YP. (1998). "Chinese fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield habit, long flowering period, and tolerance of diverse growing conditions. Numerous cultivars have been developed in a range of colors including pink, red, white, and bicolor patterns.
 ---
 

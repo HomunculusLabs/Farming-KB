@@ -13,8 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-  - jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 type: concept
 ---
 

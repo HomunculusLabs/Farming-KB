@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). Sedges of the British Isles. BSBI Handbook No. 1.
-  - Akeroyd, J.R. & Wiggington, M. (2013). Carex L. In: Flora of Britain and Ireland, 4th ed.
-  - Walters, S.M. (1980). Carex ornithopoda Willd. in Europe: taxonomy and distribution. Watsonia 13: 89-102.
-  - Ellmauer, T. & Mucina, L. (1993). Caricion montanae in the Eastern Alps. Vegetatio 109: 141-162.
   - Landolt, E. et al. (2010). Flora Indicativa: Ecological Indicator Values of Swiss Flora.
 ---
 

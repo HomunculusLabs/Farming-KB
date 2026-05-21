@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni.
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Wirth, V., Hauck, M. & Schultz, M. (2013). "Die Flechten Deutschlands." Eugen Ulmer Verlag.
 ---
 

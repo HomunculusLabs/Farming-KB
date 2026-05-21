@@ -5,7 +5,6 @@ tags: [natural-farming, scientific-agriculture, philosophy, masanobu-fukuoka, ec
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "Preface, 14-32, 355-465, 2585-2680"

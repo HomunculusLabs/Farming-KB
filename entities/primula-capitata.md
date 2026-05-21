@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Smith, W.W. & Fletcher, H.R. (1949). "The genus Primula: a monograph." Transactions of the Royal Society of Edinburgh, 61(3), 401–499.
-  - Chen, S. et al. (2016). "Phylogeny of Primula section Proliferae." Botanical Journal of the Linnean Society, 180(4), 617–634.
   - Royal Botanic Garden Edinburgh. "Primula capitata." RBGE Living Collections Database.
 ---
 

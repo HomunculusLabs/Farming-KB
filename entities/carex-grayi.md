@@ -10,11 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in North America north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
-  - Flora of North America Editorial Committee (2002). Flora of North America Vol. 23: Cyperaceae. Oxford University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team.
-  - Darke, R. (1999). The Color Encyclopedia of  America. It is named in honor of the
 American botanist Asa Gray.
 ---he species is most famous for its striking perigynia, which are arranged in
 spiny, globular clusters resembling medieval maces or sea urchins. This unique

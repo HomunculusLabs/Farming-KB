@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zhu, Y.P. (1998). "Chinese herbal-materia-medica: Chemistry, Pharmacology and Applications." CRC Press.
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." People's Medical Publishing House.
-  - Li, J. et al. (2017). "Polygala tenuifolia: A Review of Its Phytochemistry, Pharmacology, and Clinical Applications." Journal of Ethnopharmacology, 198, 16-30.
   - Chang, H.M. & But, P.P.H. (1986). "Pharmacology and Applications of Chinese Materia Medica." World Scientific Publishing.
 ---
 

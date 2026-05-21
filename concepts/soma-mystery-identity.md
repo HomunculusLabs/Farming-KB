@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McKenna, Terence. *Food of the Gods: The Search for the Original
     edaphic-factors-microbial-communities of Immortality*.
     Harcourt Brace Jovanovich, 1968.
 related_concepts:

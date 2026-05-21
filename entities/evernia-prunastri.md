@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
-  - Culberson CF (1969). "Chemical and Taxonomic Studies on the Lichens of the Evernia prunastri Group." Bryologist 72(4): 431–443.
   - Guillermet S, et al. (2012). "In vitro antioxidant and anti-inflammatory activities of Evernia prunastri extracts." Journal of Medicinal Plants Research 6(5): 798–806.
 ---
 

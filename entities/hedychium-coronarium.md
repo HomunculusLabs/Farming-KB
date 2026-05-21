@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Sakai, A.K. et al. (2001). \"Hedychium coronarium: An invasive ornamental plant in Hawaiian forests.\" Pacific Science, 55(3), 231-241."
-  - "Ravindran, P.N. et al. (2007). Curcuma: The Genus Curcuma. CRC Press."
-  - "Sultana, N. et al. (2010). \"In vitro anti-inflammatory activity of flowers of Hedychium coronarium.\" Bangladesh Journal of Pharmacology, 5(2), 67-70."
   - "Kumar, S. et al. (2013). \"Phytochemical and pharmacological profile of Hedychium coronarium: A review.\" International Journal of Pharmaceutical Sciences and Research, 4(5), 1746-1752."
 ---
 

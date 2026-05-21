@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Goldblatt, P. & J. Manning (1998). "Gladiolus in Southern Africa." Fernwood Press, Vlaeberg.
-  - Lewis, G.J. (1972). "A revision of the genus Gladiolus (Iridaceae) in southern Africa." Journal of South African Botany Supplement 10.
-  - USDA NRCS Plants Database. "Gladiolus tristis L." https://plants.usda.gov
   - Pacific Bulb Society. "Gladiolus tristis." https://www.pacificbulbsociety.org
 ---
 

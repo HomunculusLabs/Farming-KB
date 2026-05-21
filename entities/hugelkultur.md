@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Holzer, S. (2010). Sepp Holzer's Permaculture. Chelsea Green Publishing.
-  - Toensmeier, E. (2016). The Carbon Farming Solution. Chelsea Green Publishing.
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green Publishing.
 ---
 

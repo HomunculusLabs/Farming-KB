@@ -8,9 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Watling R, Little DT (1980). "A new agaric from Britain." Transactions of the british-mycological-society 74(2): 367-370.
-  - Uljé CB (2005). "Parasola (Coprinus subgenus Parasola) in western Europe." Persoonia 18: 273-321.
-  - Redhead SA, Vilgalys R, Moncalvo JM (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
   - Kibby G (2010). "Parasola plicatilis." Field Mycology 11(2): 59-60.
 ---
 

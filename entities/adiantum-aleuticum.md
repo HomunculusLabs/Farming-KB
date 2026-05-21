@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Parisod, C. & B. Ranker. (2009). "Taxonomic circumscription and phylogeography of the adiantum-pedatum complex." American Fern Journal.
-  - Flora guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 2.
-  - Klinberger, C. & L. Tribsch. (2021). "Biogeography of Adiantum in the Northern Hemisphere." Journal of Biogeography.
-  - Haufler, C.H. et al. (2000). "Isozyme variation in Adiantum aleuticum." Systematic Botany.
   - USDA NRCS. (2024). "Adiantum aleuticum (Aleutian maidenhair)." PLANTS Database.
 ---
 

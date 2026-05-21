@@ -1,4 +1,5 @@
 ---
+
 title: Amanita Muscaria Preparation Methods
 created: 2026-04-12
 updated: 2026-04-12
@@ -25,7 +26,7 @@ sources:
 
 Practical preparation techniques for Amanita muscaria, drawn primarily from Donald E. Teeter's "Amanita Muscaria: Herb of Immortality" (2007) and Siberian ethnographic records. Proper preparation is critical: raw Amanita contains ibotenic acid (nauseating, agitating) which must be converted to muscimol (sedative, psychoactive) through drying and/or heating.
 
-Related: [[amanita-muscaria]], [[soma-hypothesis]]
+Related: [[amanita-muscaria-guide]], [[soma-hypothesis]]
 
 ## Fundamental Chemistry
 
@@ -49,7 +50,7 @@ The simplest preparation. Place dried cap pieces upside-down in a jar; break ste
 
 ## Sacred Wine
 
-Substitute grape juice for water in the ambrosia method (~28g dried per quart juice). Soak 8-12 hours, strain and press. Add a few drops of vinegar per cup to increase [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]. Dilute 2-4 parts water to 1 part wine before drinking.
+Substitute grape juice for water in the ambrosia method (~28g dried per quart juice). Soak 8-12 hours, strain and press. Add a few drops of vinegar per cup to increase potency. Dilute 2-4 parts water to 1 part wine before drinking.
 
 **The dilution paradox**: Adding water to Amanita wine extract paradoxically increases potency and transforms the effect from sedative/dissociative to purely psychedelic (similar to psilocybin or LSD). Teeter theorizes muscimol's polar molecules form chains in concentrated solution that produce the sedative effect; water breaks these chains into individual psychoactive units. This matches ancient practice: Greek and Roman texts describe diluting wine 3:1 to 20:1 with water.
 
@@ -71,7 +72,7 @@ Dried Amanita muscaria resurrects into living mycelium within 3 days when rehydr
 - Requires oxygen (sealed jars produce slow/no growth and foul odors)
 - Prefers 60-80F; 65-70F for 3-day resurrection
 - Mycelium is pure snow white in darkness; turns bluish-gray on light exposure
-- The original specimen pieces turn dark [[query-difference-between-white-rot-and-brown-rot-fungi]] to almost black and grow back together
+- The original specimen pieces turn dark brown to almost black and grow back together
 - Remarkably hardy: even powdered or crushed specimens can resurrect
 - Subsequent resurrections happen faster than the first
 - Must be re-dried before consumption (ibotenic acid reconversion)
@@ -93,7 +94,7 @@ Traditional Siberian practice documented among the Koryak and Chukchi peoples. A
 
 ## See Also
 
-- [[amanita-muscaria]] for identification, ecology, and cultural context
+- [[amanita-muscaria-guide]] for identification, ecology, and cultural context
 - [[soma-hypothesis]] for the Vedic connection
 - [[donald-teeter]] for the author and Ambrosia Society
 - [[entheogen-culture]] for broader context

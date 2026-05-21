@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guiry, M.D. & Guiry, G.M. (2026). "Cystoseira tamariscifolia." AlgaeBase.
-  - Sales, M. & Ballesteros, E. (2009). "Shallow Cystoseira communities in the Balearic Islands." Sciencia Marina, 73(2), 367-378.
-  - Mangialajo, L. et al. (2008). "Patterns of variability of Cystoseira brachycarpa and C. tamariscifolia." Marine Ecology, 29(2), 215-224.
   - Blanfuné, A. et al. (2016). "Recolonization dynamics of Cystoseira." Estuarine, Coastal and Shelf Science, 176, 51-57.
 ---
 

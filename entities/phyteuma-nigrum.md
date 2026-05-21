@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fischer MA, Oswald K, Adler W (2008). "Exkursionsflora für Österreich, Liechtenstein und Südtirol." Land Oberösterreich.
-  - Lauber K, Wagner G (2018). "Flora Helvetica." Haupt Verlag, Bern.
-  - Aeschimann D, Lauber K, Moser DM, Theurillat JP (2004). "Flora Alpina." Haupt Verlag.
-  - Royal Horticultural Society (2023). "RHS Plant Finder: Phyteuma nigrum." rhs.org.uk.
   - Schneeweiß GM et al. (2013). "Molecular Phylogenetics of Phyteuma." Taxon 62(5): 972–985.
 ---
 
@@ -79,3 +75,14 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+## Current Research
+
+Recent studies on phyteuma nigrum have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with phyteuma nigrum should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -1,4 +1,5 @@
 ---
+
 title: European Psilocybin Species
 created: 2026-04-11
 updated: 2026-04-12
@@ -138,12 +139,14 @@ Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samp
 
 ### Other Pluteus Species
 
+- **Pluteus nigroviridis Babos**: Extremely rare (Hungary), only 0.035% psilocybin
+- **Pluteus cyanopus**: Reported from Europe; bluish/violet discolorations
+
+## Mushroom Identification Dangers
+
+### Galerina Fatalities
+
+On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina species mistaking them for Psilocybe. Two recovered after medical treatment; a 16-year-old girl died on December 24. Galerina species contain the same deadly amatoxins as Amanita phalloides — symptoms are insidious with a 12-hour latency period during which irreversible internal damage occurs.
 ## See Also
 
-- [[psilocybin-mushroom-chemistry]] — Global distribution patterns
-- [[mushroom-species-guide]] — Cultivated species profiles
-- [[fungal-research-compound-reference]] — Alkaloid chemistry data
-- [[jochen-gartz]] — Primary researcher
-## Related
-
-- [[gymnopilus-purpuratus]]
+- [[psilocybin-mushroom-european-prevalence-and-trends]]

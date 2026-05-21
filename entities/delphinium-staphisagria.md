@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1964). "Delphinium." Flora Europaea, Vol. 1. Cambridge University Press.
-  - Mshvildadze, V. et al. (2004). "Diterpenoid alkaloids from Delphinium staphisagria." Phytochemistry, 65(15), 2193-2200.
   - Pelletier, S.W. & Djarmati, Z. (1976). "Alkaloids of Delphinium staphisagria." Journal of oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere.
 ---
 

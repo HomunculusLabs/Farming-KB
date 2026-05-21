@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grossheim, A.A. (1967). Flora of the Caucasus, 2nd ed. Vol. 7. Nauka, Moscow.
-  - Fedorov, A.A. & Kovanda, M. (1976). "Campanula L." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kolakovsky, A.A. (1985). "Flora of the Caucasus: A Synoptic Key." Sokhumi University Press.
   - Shetekauri, S. & Gagnidze, R. (2005). "Campanulaceae of the Caucasus." Bulletin of the Georgian National Academy of Sciences.
 ---
 

@@ -4,8 +4,6 @@ tags: [cannabis, breeding, outdoor-cultivation, genetics, open-pollination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 type: concept
 created: 2026-04-28
 ---

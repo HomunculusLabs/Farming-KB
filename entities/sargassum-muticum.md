@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Critchley, A.T. et al. (1990). "A revision of the genus Sargassum (Fucales, Phaeophyta) in the polypore-fungi-eastern-north-america Atlantic." Journal of Phycology.
-  - Engelen, A.H. & Santos, R. (2009). "Which demographic traits determine population growth in the invasive brown seaweed Sargassum muticum?" Journal of Ecology.
-  - Norton, T.A. (1977). "Experiments on the factors influencing the geographic distribution of Sargassum muticum." Marine Biology.
   - Rueness, J. (1989). "Sargassum muticum and other introduced Japanese macroalgae: biological pollution of European coasts." Marine Pollution Bulletin.
 ---
 

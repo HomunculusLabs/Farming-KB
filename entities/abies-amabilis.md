@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Franklin, J.F. & Dyrness, C.T. (1973). "Natural Vegetation of Oregon and Washington." USDA Forest Service General Technical Report PNW-8.
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Klinka, K. et al. (2000). "Distribution and Synopsis of the Ecological and Silvical Characteristics of Tree Species of British Columbia." UBC Press.
   - IUCN (2013). "Abies amabilis." The IUCN Red List of Threatened Species.
 ---
 

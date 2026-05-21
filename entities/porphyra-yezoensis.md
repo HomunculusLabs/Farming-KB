@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Miura, A. (1975). "Porphyra cultivation in Japan." Advances in Phycology, 3, 151–177.
-  - Notoya, M. (1999). "Porphyra (Nori) cultivation in Japan." In: Critchley, A.T. & Ohno, M. (eds.), Seaweed Resources of the World.
-  - Sutherland, J.E. et al. (2011). "A new look at an ancient order: generic revision of the Bangiales." Journal of Phycology, 47, 1131–1151.
   - Yoshida, T. (1998). "Marine algae of Japan." Uchida Rokakuho Publishing, Tokyo.
 ---
 
@@ -80,3 +77,5 @@ yezoensis in modern cultivation due to the latter's faster growth and higher dis
 
 [[pyropia-haitanensis]] is the primary nori species cultivated in southern China, adapted to warmer waters than P.
 yezoensis. It has a shorter cultivation season and different flavor profile.
+Further research into porphyra yezoensis continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind porphyra yezoensis provides a foundation for both practical application and continued scientific inquiry.

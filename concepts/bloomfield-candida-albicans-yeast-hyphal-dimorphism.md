@@ -14,7 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mr. Bloomfield's Orchard (Nicholas P. Money, 2002), Chapters 2 and 3
 type: concept
 ---
 

@@ -21,8 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
-  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria singh-bioaugmentation-vs-biostimulation-fungal-strategies of bloomfield-wood-decay-fungi-spalted-timber in Trees." Springer.
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.---
 ---
 
@@ -79,3 +77,5 @@ It is most commonly found associated with oaks (*Quercus* spp.), hickories
 
 Preferred habitats include hardwood forests, orchards, urban parks, and
 landscaped areas where host trees are present.
+Further research into armillaria tabescens continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind armillaria tabescens provides a foundation for both practical application and continued scientific inquiry.

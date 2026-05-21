@@ -12,12 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - J. Russell Smith, "Tree Crops: A Permanent Agriculture" (1953)
-  - Martin Crawford, "Creating a mollison-designers-forest-garden-layer-canopy-understory" (2010)
   - Mark Shepard, "Restoration Agriculture" (2013)
-  - Eric Toensmeier, "The Carbon Farming Solution" (2016)
-  - USDA Plant Hardiness Zone Map and NRCS Plant Guides
-  - growing-gourmet-north-american-reishi-species Nut Growers Association (NNGA) cultivar recommendations
 type: query
 ---
 

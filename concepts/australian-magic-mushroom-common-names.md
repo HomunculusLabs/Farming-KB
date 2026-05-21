@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"
 type: concept
 ---# Common Names and Epithets for Magic Mushrooms in Australia and New Zealand
 

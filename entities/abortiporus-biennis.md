@@ -16,10 +16,6 @@ tags:
   - mycology
   - forest-pathogen
 sources:
-  - Ryvarden, L. & Gilbourn, C.L. (2004). "European Polypores." Fungiflora.
-  - Bernicchia, A. & Gorjón, S.P. (2010). "Fungi Europaei, Vol. 12: Polyporaceae s.l." Edizioni Candusso.
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
-  - Index Fungorum. "Abortiporus biennis (Bull.) Singer." www.indexfungorum.org.
   - MycoBank. "Abortiporus biennis." www.mycobank.org.
 ---
 

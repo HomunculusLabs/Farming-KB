@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Galeano, G. & Bernal, R. (2005). "Palmas de Colombia: Guía de Campo." Instituto de Ciencias Naturales, Universidad Nacional de Colombia.
-  - Borchsenius, F., Borgtoft-Pedersen, H., & Baslev, H. (1998). "Manual to the Palms of Ecuador." AAU Reports 37, University of Aarhus.
   - Henderson, A., Galeano, G., & Bernal, R. (1995). "amanita-muscaria.
 ---
 

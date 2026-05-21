@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Royal Horticultural Society (2023). "Campanula latiloba." RHS Plant Finder. https://www.rhs.org.uk
-  - Keller, R. (1930). "Synopsis of the Campanula section in Europe." Botanische Jahrbücher, 63: 416-430.
   - Plants of the World Online (2024). "Campanula latiloba A.DC." Kew Science. https://powo.science.kew.org
 ---
 

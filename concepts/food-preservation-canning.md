@@ -136,15 +136,20 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 - Darkness: Light causes potatoes to green and onions to sprout
 - Ventilation: Some airflow to prevent mold and gas buildup
 
+### Suitable Crops
+- **Root vegetables**: Carrots, beets, parsnips, turnips, rutabagas — store in damp sand, sawdust, or leaves
+- **Potatoes and sweet potatoes**: Dark, cool (not as cold as roots — 45-50°F for sweet potatoes)
+- **Onions and garlic**: Cool, dry conditions (lower humidity than root vegetables)
+- **Winter squash and pumpkins**: Cool, dry conditions (50-55°F)
+- **Apples and pears**: Cool, slightly humid conditions. Store away from root vegetables (apples emit ethylene gas that causes sprouting)
+- **Cabbage**: Can be stored in root cellars, often hung by the root
+
+## Quick Reference: Method Selection
+
+| Food | Best Method(s) |
+|------|---------------|
 ## See Also
 
-- [[homestead-canning-recipes]]
-
-- [[homesteading]] — Preservation as a core homesteading skill
-- [[seasonal-planning]] — Planning preservation activities into your seasonal calendar
-- [[vermicomposting]] — Processing food scraps from preservation activities
-- [[composting-systems]] — Managing preservation waste through composting
-
-## Related
-
-- [[homesteading-food-preservation]]
+- [[pressure-canning-food-preservation]]
+- [[query-how-does-lacto-fermentation-work-for-food-preservation]]
+- [[food-preservation-and-storage-methods]]

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Boland, D.J. et al. (2006). "Forest Trees of Australia." CSIRO Publishing.
-  - Pennington, T.D. & Styles, B.T. (1975). "A Monograph of the Meliaceae." New Phytologist.
-  - Orwa, C. et al. (2009). "Agroforestree Database: Toona ciliata." World Agroforestry Centre.
   - IUCN Red List (2023). "Toona ciliata."
   - Palmer, E.R. (1978). "Australian Timbers: Properties and Uses." CSIRO.
 ---

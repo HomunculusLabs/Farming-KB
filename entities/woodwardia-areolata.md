@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Woodwardia." FNA Vol. 2.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern US.
   - USDA NRCS (2024). "Netted Chain Fern." PLANTS Database.
 ---
 

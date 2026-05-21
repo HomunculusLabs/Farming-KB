@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Pautasso, M. et al. (2013). "Emerging fungal threats to animal, plant and ecosystem health." Nature, 494, 36–45.
-  - Cappert, D. et al. (2005). "History and sustainability of emerald ash borer in North America." USDA Forest Service Gen. Tech. Rep. NRS-1.
   - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
 ---
 

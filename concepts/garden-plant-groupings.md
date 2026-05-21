@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 ## Garden Plant Groupings

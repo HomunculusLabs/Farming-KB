@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Spartina Schreb." in Flora huckleberries-and-wild-berries-of-north-america, Vol. 24. Oxford University Press.
-  - Global Biodiversity Information Facility (GBIF). "Spartina pectinata Link." https://www.gbif.org/species/5289750
-  - USDA NRCS. "Plant Guide: Prairie Cordgrass (Spartina pectinata)." USDA Natural Resources Conservation Service.
   - Pennington, D.D. (2007). "Prairie Cordgrass." in dighton-fungal-biomass-production-aquatic-ecosystems in Prairie Cordgrass." Crop Science 47(3): 929-937.
 ---
 

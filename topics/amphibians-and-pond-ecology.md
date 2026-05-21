@@ -11,12 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Semlitsch, R.D. & Bodie, J.R. (1998). "Are Small, Isolated Wetlands Expendable?" mycelium-running-conservation-biology-and-fungi, 12(5), 1129-1133.
-  - Houlahan, J.E. et al. (2000). "Quantitative Evidence for Global Amphibian Population Declines." Nature, 404, 752-755.
-  - Wells, K.D. (2007). The Ecology and Behavior of Amphibians. University of Chicago Press.
-  - Dodd, C.K. (2010). Amphibian Ecology and Conservation. Oxford University Press.
-  - Mollison, B. (1988). Permaculture: A Designers' Manual. Tagari Publications.
-  - Howard, J. (2018). The Wildlife Pond Book. Bloomsbury Wildlife.
   - Gibbons, J.W. et al. (2006). "The Global Decline of Reptiles, Déjà Vu Amphibians." BioScience, 56(8), 598-607.
 ---
 

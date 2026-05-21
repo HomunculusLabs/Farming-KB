@@ -5,16 +5,12 @@ tags: [salvia, salvinorin, ethnobotany, psychedelics, mazatec, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/concepts/salvia-divinorum-and-salvinorin-a.md"
   - "raw/concepts/salvia-divinorum-profile.md"
   - "raw/concepts/salvia-divinorum.md"
   - "raw/concepts/salvinorin-pharmacology.md"
   - "raw/concepts/salvinorin-reference.md"
-  - "raw/concepts/hofmann-salvia-divinorum-discovery.md"
   - "raw/concepts/schultes-salvia-diviners-sage.md"
   - "raw/concepts/schultes-salvia-divinorum.md"
-  - "raw/concepts/plants-of-the-gods-salvia-divinorum-diviners-sage.md"
-  - "raw/concepts/golden-guide-salvia-divinorum-and-diviner-sage.md"
 related_concepts:
   - salvia-divinorum-and-salvinorin-a
   - salvia-divinorum-profile

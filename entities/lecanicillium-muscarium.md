@@ -15,13 +15,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zare, R. & Gams, W. (2001). "A revision of Verticillium section Prostrata." Nova Hedwigia 73(1-2): 167-198.
-  - Goettel, M.S. et al. (2008). "Entomopathogenic fungi as biological agents." In: Insect Pathology.
-  - Kim, J.J. et al. (2010). "Lecanicillium muscarium as a microbial control agent." Biocontrol Science 15(5): 581-598.
-  - Vega, F.E. et al. (2009). "Fungal entomopathogens: new insights into their ecology." Fungal Ecology 2(4): 149-159.
 aliases:
   - L. muscarium
-  - fukuoka-textdoc-biological-control-fallacy-pheromone-critique agent with dual activity against insect pests
 and cervantes-powdery-mildew-prevention-treatment across greenhouse and field crops.
 ---
 

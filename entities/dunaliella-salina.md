@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Borowitzka LJ, Borowitzka MA (1988). "Dunaliella." In: Micro-algal Biotechnology. Cambridge University Press, 27-58.
-  - Oren A (2005). "A hundred years of Dunaliella research." Saline Systems, 1, 2.
-  - Ben-Amotz A, Avron M (1990). "The biotechnology of cultivating the halotolerant alga Dunaliella." Trends in Biotechnology, 8, 121-126.
-  - Ye ZW, et al. (2020). "Biotechnological production of beta-carotene from Dunaliella." Applied Microbiology and Biotechnology, 104, 5719-5731.
   - Ginzburg M (1993). "Dual effect of salt on Dunaliella." Journal of Experimental Botany, 44, 803-807.
 ---
 

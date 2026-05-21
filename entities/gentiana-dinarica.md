@@ -9,10 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Šilić, Č. (1984). "Endemične biljke." Svjetlost, Sarajevo.
-  - Euro+Med PlantBase (2006). "Gentianaceae." Botanic Garden and Botanical Museum Berlin-Dahlem.
-  - Källersjö, M. et al. (2018). "Flora Nordica." Royal Swedish Academy of Sciences.
-  - Tutin, T.G. et al. (1972). "Flora Europaea Vol. 3." Cambridge University Press.
   - IUCN Red List (2024). "European Vascular Plant Assessments."
 ---
 

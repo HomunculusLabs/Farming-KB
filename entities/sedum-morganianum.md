@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Moran, R. (1977). "Sedum morganianum — a recollection." Cactus and Succulent Journal, 49(4), 160-163.
-  - Clausen, R.T. (1975). Sedum of North America. Cornell University Press.
-  - Royal Horticultural Society (2023). "Sedum morganianum." RHS Plant Finder. https://www.rhs.org.uk/Plants/65943/Sedum-morganianum
   - Kimnach, M. (1992). "A new Sedum from S Mexico." Cactus and Succulent Journal, 64(3), 120-122.
 ---
 

@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md, raw/papers/bil
 
 ## Overview
 
-Water is the primary limiting factor in most landscapes. [[permaculture]] water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off.
+Water is the primary limiting factor in most landscapes. Permaculture water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off.
 
 ## Principles
 
@@ -24,7 +24,7 @@ Water is the primary limiting factor in most landscapes. [[permaculture]] water 
 
 ## Swales
 
-A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture [[water-management]].
+A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture water management.
 
 ### Design
 

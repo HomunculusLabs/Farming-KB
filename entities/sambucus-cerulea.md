@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pojar, J. & MacKinnon, A. (1994). "Plants of the Pacific Northwest Coast." Lone Pine Publishing.
-  - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Foster, S. & Hobbs, C. (1999). "A ghouled-field-guide-historical-context to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---
 

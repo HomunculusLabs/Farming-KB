@@ -3,7 +3,6 @@ title: metzner-syncretic-entheogenic-folk-ceremonies Religions and Churches
 aliases: [psychedelic churches, Santo Daime, UDV, halpern-sacramental-peyote-and-native-american-church Church]
 tags: [religion, entheogens, ayahuasca, peyote, iboga, churches]
 sources:
-  - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-08
 ---
 

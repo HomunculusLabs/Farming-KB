@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
-  - Ireland, R.R. (1982). "Moss Flora of the Maritime Provinces." National Museum of Canada.
   - Watson, E.V. (1981). "British Mosses and Liverworts." Cambridge University Press.
 ---
 

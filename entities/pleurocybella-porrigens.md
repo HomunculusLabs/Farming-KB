@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singer R (1947). "New genera of fungi." Mycologia 39(1): 77-89.
-  - Redhead SA, Seifert KP (2001). "Pleurocybella porrigens and fatal encephalopathy." Mycotaxon 78: 437-444.
-  - Sasaki T, et al. (2011). "Pleurocybella porrigens-associated encephalopathy." Journal of Neurology 258(9): 1648-1657.
-  - Kuo M (2024). "Pleurocybella porrigens." MushroomExpert.com.
   - Garibay-Orijel R, et al. (2015). "Edibility and toxicity of Pleurocybella porrigens." Journal of Ethnobiology 35(3): 512-525.
 ---
 

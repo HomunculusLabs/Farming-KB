@@ -3,7 +3,6 @@ title: Plant Vision Light Perception
 aliases:
   - Plant sight
   - Plant vision
-  - Plant chamovitz-ultraviolet-and-infrared-plant-light-perception systems that rival animal
 vision
 in complexity. While lacking eyes and a nervous system, they have
 evolved an

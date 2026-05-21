@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chandel, K.P.S. et al. (1988). "Genetic resources of rice bean (Vigna umbellata)." Indian Journal of Genetics, 48(1), 69-77.
-  - Tomooka, N. et al. (2002). "The Asian Vigna: Genus Vigna subgenus Ceratotropis genetic resources." Springer.
-  - Kumar, S. et al. (2013). "Rice bean (Vigna umbellata): a multipurpose legume for food and nutritional security." Indian Journal of Agricultural Sciences, 83(10), 1119-1125.
-  - Vaughan, D.A. et al. (2005). "The Asian Vigna: evolution, breeding, and conservation." Crop Science, 45(3), 1162-1173.
   - Bhat, R. & Karim, A.A. (2009). "Exploring the nutritional potential of wild and underutilized legumes." Comprehensive Reviews in Food Science and Food Safety, 8(4), 305-331.
 ---
 

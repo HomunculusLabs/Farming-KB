@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fraser-Jenkins, C. R. (2007). "Taxonomic Revision of Three Hundred Indian Subcontinental Pteridophytes." Bishen Singh Mahendra Pal Singh.
-  - Gibby, M. (1987). "Cytology of the male fern (Dryopteris filix-mas aggregate) in Britain." Fern Gazette, 13(4), 109–117.
-  - Foster, S. (1996). "The male fern: a botanical and pharmacognostic review." HerbalGram, 38, 34–41.
-  - Page, C. N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Reichstein, T. (1984). "A report on the Dryopteris filix-mas group in Europe." Proceedings of the Royal Society of Edinburgh, 86B, 75–80.
 ---
 

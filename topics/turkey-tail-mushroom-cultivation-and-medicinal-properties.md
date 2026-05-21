@@ -12,17 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser SP. cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides as a source of antitumor and immunomodulating polysaccharides. Applied Microbiology and Biotechnology. 2002;60(3):258-274.
-  - Stamets P. Growing Gourmet and Medicinal Mushrooms. 3rd ed. Berkeley, CA: Ten Speed Press; 2000.
-  - Cui CH, Chisti Y. Polysaccharopeptides of Coriolus versicolor: physiological activity, uses, and production. Biotechnology Advances. 2003;21(2):109-122.
-  - Kidd PM. The use of mushroom glucans and proteoglycans in cancer treatment. Alternative Medicine Review. 2000;5(1):4-27.
-  - Oba K, et al. Efficacy of adjuvant immunochemotherapy with polysaccharide K for patients with curatively resected colorectal cancer: a meta-analysis. Cancer Science. 2007;98(3):343-350.
-  - Zhang L, et al. Fractionation, characterization and immunomodulatory activities of polysaccharides from staycare-trametes-versicolor-bioremediation-applications. Carbohydrate Polymers. 2018;198:241-251.
-  - Wong KH, et al. Trametes versicolor: a culinary-medicinal mushroom with outstanding biological activities. In: Bioactive Foods in Promoting Health. Academic Press; 2010:373-395.
-  - de Silva DD, et al. Medicinal mushrooms in prevention and treatment of diabetes mellitus. Fungal Diversity. 2012;56(1):1-29.
-  - Bauer R, et al. Trametes versicolor (Turkey Tail): comprehensive review of phytochemistry, pharmacology, and clinical efficacy. Journal of Ethnopharmacology. 2021;276:114245.
-  - Hobbs C. Medicinal Mushrooms: An Exploration of Tradition, Healing & Culture. 3rd ed. Santa Cruz, CA: Botanica Press; 1995.
-  - Chang ST, Buswell JA. Medicinal mushrooms — a prominent source of nutriceuticals. International Journal of Medicinal Mushrooms. 2003;5(4):359-373.
   - Patel S, Goyal A. Recent developments in mushrooms as anti-cancer therapeutics: a review. 3 Biotech. 2012;2(1):1-14.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Watson, E.V. (1981). "British Mosses and Liverworts." 3rd ed. Cambridge University Press.
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Volume 1. Physiological Ecology. Michigan Technological University.
   - Hyvönen, J. & Pursell, R.A. (2009). "Polytrichaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 27.
 ---
 

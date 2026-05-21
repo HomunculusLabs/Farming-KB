@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Herber, B.E. (2003). "Myricaceae." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants, Vol. V, Springer.
-  - Alexander, J.M. et al. (2011). "Colonization of the Azores by the introduced legume Morella faya." Journal of Biogeography 38: 1443-1456.
-  - Vitousek, P.M. & Walker, L.R. (1989). "Biological invasion by Myrica faya in Hawai'i." Ecology 70: 1328-1333.
   - Willis, F. et al. (2020). "Global Invasive Species Database." IUCN Invasive Species Specialist Group.
 ---
 

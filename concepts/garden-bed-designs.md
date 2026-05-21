@@ -148,3 +148,5 @@ Growing vegetables directly in conditioned straw bales, no soil required.
 
 - [[edible-landscaping]]
 - [[container-gardening-guide]]
+- [[rain-garden-design]]
+- [[xeriscaping-guide]]

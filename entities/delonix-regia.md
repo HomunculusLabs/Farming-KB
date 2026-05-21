@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation." University of Wisconsin Press.
-  - Isely, D. (1975). "Leguminosae of the dmt-containing-plants-united-states-halpern: II. Subfamily Caesalpinioideae." Memoirs of the New York Botanical Garden.
   - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference hamilton-ornamental-trees.
 ---
 

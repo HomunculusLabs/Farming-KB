@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kershaw, L. (2001). "nitrogen-fixing-trees-and-shrubs, Ferns and Herbaceous Plants of the Canadian Prairies." Lone Pine Publishing.
-  - Cobb, B. (1963). "A Field Guide to the Ferns and Their Related Families." Houghton Mifflin.
-  - Wagner, W. H. (1986). "Systematics of the fern genus Matteuccia." American Fern Journal, 76(4), 121–128.
-  - Couplan, F. (1998). "The Encyclopedia of Edible Plants of psilocybin-north-america-pacific-northwest." McGraw-Hill.
   - Pryer, K. M. et al. (2004). "Phylogeny and evolution of ferns (monilophytes) with a focus on the early leptosporangiate divergences." American Journal of Botany, 91(10), 1582–1598.
 ---
 

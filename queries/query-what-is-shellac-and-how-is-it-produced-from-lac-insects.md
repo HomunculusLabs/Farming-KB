@@ -4,10 +4,6 @@ tags: [query, shellac, lac-insect, kerria-lacca, natural-resin, wood-finishing, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Varshney, R.K. (1977). Lac Culture in India. Indian Lac Research Institute, Ranchi."
-  - "Jenkins, S. (2004). 'Shellac: A Traditional Finish.' Fine Woodworking Magazine."
-  - "FAO (1990). 'Lac: Production, Processing and Uses.' FAO Agricultural Services Bulletin."
-  - "Champagne, A.M. et al. (2015). 'Lac insect (Kerria lacca) as a source of natural resin.' Journal of Applied Entomology."
 type: query
 created: 2026-04-28
 ---

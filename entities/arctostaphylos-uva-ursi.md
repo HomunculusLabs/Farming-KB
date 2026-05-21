@@ -9,11 +9,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wells, P.V. (1968). "The Arctostaphylos uva-ursi complex in psilocybin-north-america-pacific-northwest."
     Contributions from the Dudley Herbarium 5: 81–114.
-  - European Medicines Agency (2012). "Assessment Report on Arctostaphylos uva-ursi
     folium." EMA/HMPC/581984/2009.
-  - USDA NRCS (2024). "Arctostaphylos uva-ursi Plant Guide." Natural Resources
     Conservation Service.
   - Moerman, D. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---

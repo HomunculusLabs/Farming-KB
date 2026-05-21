@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Soreng RJ, Peterson PM, Romaschenko K, et al. (2017). "A worldwide phylogenetic classification of the Poaceae (Gramineae)." Journal of Systematics and Evolution 55(2): 131–153.
-  - Stewart AV, Joachimiak M, defect A. (2020). "Perennial ryegrass (Lolium perenne L.)." In: Kole C, editor. Genome Mapping and Genomics in Animals and Plants. Springer.
-  - Easton HS, Latch GCM, Tapper BA, Ball OJ-P. (2002). "Neotyphodium lolii endophyte in perennial ryegrass." Proceedings of the New Zealand Grassland Association 64: 159–166.
   - Wilkins PW, Humphreys MO. (2003). "Progress in breeding perennial forage grasses for temperate agriculture." Journal of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 

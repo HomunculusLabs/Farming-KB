@@ -11,11 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Adamson, S. & Metzner, R. (1988). "The Nature of the MDMA Experience and Its Role in Healing, Psychotherapy and Spiritual Practice." Journal of Psychoactive Drugs, 20(1), 87-96.
-  - Shulgin, A. & Shulgin, A. (1991). PiHKAL: A Chemical Love Story. Transform Press.
-  - Saunders, N. (1993). E for Ecstasy. London: Self-Published.
-  - Eisner, B. (1989). Ecstasy: The MDMA Story. Berkeley, California: Ronin Publishing.
   - Greer, G. & Tolbert, R. (1986). "Subjective Reports of the Effects of MDMA in a Clinical Setting." Journal of Psychoactive Drugs, 18(4), 319-327.
 ---
 

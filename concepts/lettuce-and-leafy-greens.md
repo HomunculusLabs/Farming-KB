@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, planting methods, bolt [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]], and harvest strategies.
+Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, planting methods, bolt prevention, and harvest strategies.
 
 ## Lettuce Types
 
@@ -68,7 +68,7 @@ Lettuce and most leafy greens are best direct-sown rather than transplanted, tho
 - Consistent moisture is critical for tender leaves
 - Avoid waterlogged soil which promotes damping off
 
-## [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]
+## Succession Planting
 
 Succession planting ensures a continuous harvest throughout the growing season.
 

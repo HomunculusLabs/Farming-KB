@@ -15,10 +15,6 @@ tags:
   - forest-floor
   - ectomycorrhizal
 sources:
-  - Bon, M. (1990). "The Hygrophorus of Western Europe." Libreria Cientifica.
-  - Courtecuisse, R. & Duhem, B. (1995). Mushrooms and Toadstools of Britain and Europe. HarperCollins.
-  - Bresinsky, A. (2008). "Die Gattung Hygrophorus in Europa." Regensburger Mykologische Schriften, 16, 1–254.
-  - Boertmann, D. (2010). The Fungi of Northern Europe Vol. 2: Hygrophoraceae. Svampetryk.
   - Arnolds, E. (1982). "Ecology and coenology of macrofungi in grasslands and moist heathlands in Drenthe." Bibliotheca Mycologica, 83, 1–408.
 ---
 

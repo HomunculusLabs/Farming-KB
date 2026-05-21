@@ -13,12 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kloepper, J.W. & Schroth, M.N. (1978). Plant growth-promoting rhizobacteria on radishes. Proceedings of the 4th International Conference on Plant Pathogenic Bacteria, 2, 879–882."
-  - "Glick, B.R. (2012). Plant growth-promoting bacteria: mechanisms and applications. Scientifica, 2012, 963401."
-  - "Bhattacharyya, P.N. & Gupta, S.K. (2020). Plant growth-promoting rhizobacteria (PGPR): emergence in agriculture. World Journal of Microbiology and Biotechnology, 36, 61."
-  - "Vessey, J.K. (2003). Plant growth-promoting rhizobacteria as biofertilizers. Plant and Soil, 255, 571–586."
-  - "Lugtenberg, B. & Kamilova, F. (2009). Plant-growth-promoting rhizobacteria. Annual Review of Microbiology, 63, 541–556."
-  - "Backer, R. et al. (2018). Plant growth-promoting rhizobacteria: context, mechanisms of action, and roadmap to commercialization for sustainable agriculture. Frontiers in Plant Science, 9, 1473."
 created: 2026-05-07
 type: query
 ---

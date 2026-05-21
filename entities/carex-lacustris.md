@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
-  - USDA NRCS (2024). "PLANTS Profile — Carex lacustris."
-  - Galatowitsch, S.M. & van der Valk, A.G. (1996). "Restoring prairie wetlands." Iowa State University Press.
   - Kercher, S.M. & Zedler, J.B. (2004). "Multiple disturbances accelerate invasion of reed canary grass in a mesocosm study." Oecologia 138(3): 455–464.
 ---
 

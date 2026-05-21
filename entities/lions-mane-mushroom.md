@@ -12,8 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Stamets, P. (2005). Mycelium Running. Ten Speed Press."
-  - "Kawagishi et al. (2004). Phytochemistry 65(9): 1303-8."
   - "Mori et al. (2009). Phytotherapy Research 23(3): 367-72."
 ---
 *This page is part [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] LLM Wiki entity collection. Last updated: 2026-04-28.*

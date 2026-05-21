@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Upton R (1997). "Sarsaparilla: Smilax spp." American Herbal Pharmacopoeia and Therapeutic Compendium.
-  - Morton JF (1977). "Major Medicinal Plants." Charles C. Thomas Publisher.
-  - Duke JA, Ayensu ES (1985). "Medicinal Plants of China." Reference Publications.
-  - Bandoni AL, Mendiondo ME, Rondina RV, Coussio JD (1972). "Steroidal saponins of Smilax." Phytochemistry 11(2): 819-822.
   - Sautour M, Mitaine-Offer AC, Lacaille-Dubois MA (2007). "The genus Smilax: a review." Natural Product Reports 24(3): 628-645.
 ---
 

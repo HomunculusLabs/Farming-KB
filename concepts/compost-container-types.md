@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-[[compost]] containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
+Compost containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
 
 ## Manufactured Containers
 
@@ -77,6 +77,6 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 
 ## Related
 
-- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
+- [[wormery-construction]] — vermicomposting in a purpose-built box
 - [[composting-materials-alternative]] — sourcing compost materials beyond the garden
 - [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation

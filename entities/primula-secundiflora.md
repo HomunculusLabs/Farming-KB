@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Fletcher, H.R. (1949). "A Monograph of the Genus Primula, Part II." Transactions of the Royal Society of Edinburgh, 61(3), 613–648.
-  - Hu, C.M. & Kelso, S. (1996). "Primulaceae." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China, Vol. 15, 99–185.
   - Chen, S. et al. (2016). "Phylogeny of Primula section Proliferae." Botanical Journal of the Linnean Society, 180(4), 617–634.
 ---
 

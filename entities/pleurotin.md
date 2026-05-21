@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hervey, A. & Brian, P.W. (1948). \"Studies on the production of antibiotics by fungi.\" Annals of Applied Biology, 35(4), 542-552."
-  - "Buu-Hoï, N.P. et al. (1955). \"Pleurotin, a new antibiotic pigment.\" Journal of the Chemical Society, 813-816."
-  - "Evidente, A. et al. (1998). \"Pleurotin and analogues: fungal metabolites with antibiotic and phytotoxic activity.\" Phytochemistry, 48(3), 517-523."
   - "Fischer, E. et al. (2014). "Isolation and structure elucidation of pleurotin-type sesquiterpenes." Journal of Natural Products, 77(9), 2075-2080."
 ---
 

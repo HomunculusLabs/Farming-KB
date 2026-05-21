@@ -5,12 +5,6 @@ tags: [herbal-plant, medicinal, perennial, lamiaceae, edible, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Harley RM et al., Labiatae, in Kubitzki K (ed), Families and Genera of Vascular Plants, Springer, 2004"
-  - "Tutin TG et al., Flora Europaea Vol 3, Cambridge University Press, 1972"
-  - "Gruenwald J et al. (eds), PDR for Herbal Medicines, 4th ed, Thomson Reuters, 2007"
-  - "Stace CA, New Flora of the British Isles, 4th ed, C&M Floristics, 2019"
-  - "European Medicines Agency, HMPC Monograph: Glechomae herba, EMA/HMPC/573163/2009"
-  - "Mahmoudi R et al., 'Chemical composition and antioxidant activity of Glechoma hederacea,' Chem Biodivers, 2022"
   - "Sárosi S et al., 'Essential oil composition of Glechoma hederacea from different origins,' J Essent Oil Res, 2009"
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kovanda, M. (1970). "Polyploidy and Variation in Campanula barbata." Preslia, 42: 206–219.
-  - Lauber, K. & Wagner, G. (2001). Flora Helvetica. 3rd ed. Haupt Verlag, Bern.
-  - Aeschimann, D. et al. (2004). Flora Alpina. Haupt Verlag, Bern.
   - Royal Horticultural Society (2023). "Campanula barbata." RHS Plant Finder. rhs.org.uk.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. & Kovanda, M. (1978). "Campanula L." In Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Royal Horticultural Society (2023). "Campanula carpatica." RHS Plant Finder. rhs.org.uk.
-  - Kovanda, M. (1977). "Studies in Campanula sect. Heterophylla (Fisch.) A. DC." Preslia, 49: 257–276.
   - Hintermann, U. & Weber, H.E. (2001). "Die Gefäßpflanzen." In Handel-Mazzetti, Botanik der Karpaten.
 ---
 

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sørensen, P.D. (1969). "Revision of the genus Dahlia." Dansk Botanisk Arkiv, 23, 1-60.
-  - Hansen, A. & Hjerting, J.P. (1996). "Observations on chromosome numbers and polyploidy in the genus Dahlia." Nordic Journal of Botany, 16(3), 345-351.
-  - De Jong, P.C. (1994). "The native home of the dahlia." Pacific Horticulture, 55, 18-23.
-  - Kew Royal Botanic Gardens. "Dahlia." Plants of the World Online.
   - McMullen, J. (2010). The Dahlia: From the Gardens of the Aztecs to the Gardens of Today. Timber Press.
 ---
 

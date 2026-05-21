@@ -10,10 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3, Part 2: Leguminosae." University of north-carolina-mycodiversity Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
   - USDA NRCS. "The PLANTS Database." plants.usda.gov.
-  - Weakley, A.S. (2015). "Flora of the Southern and Mid-Atlantic States."
   - Evers, G.W. & Schulz-Schaeffer, J.R. (1984). "Lespedeza: History, Characteristics, and Uses." Texas Agricultural Experiment Station Bulletin.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Henderson, A., Galeano, G. & Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
-  - Hodel, D.R. (2013). "Biology, Distribution, and Status of Phoenix canariensis." Principes 37(4): 178–188.
-  - Rivera, D. et al. (2006). "Palms in traditional medicine of the Canary Islands." Economic Botany 60(3): 282–290.
   - IUCN (2019). "Phoenix canariensis — Vulnerable." IUCN Red List of Threatened Species.
 ---
 

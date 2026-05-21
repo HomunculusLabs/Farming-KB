@@ -134,17 +134,17 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 - Various fungal species demonstrate ability to sequester heavy metals through biosorption
 - Mycelial mats can be deployed as passive filters for metal-contaminated water
 - After saturation, metal-loaded fungal biomass can be collected and processed
-## See Also
+- See [[mycoremediation-of-heavy-metals]] for detailed species data and mechanisms
 
-- [[mycoremediation-basics]] for enzyme systems and mechanisms
-- [[mycoremediation-techniques]] for practical implementation methods
-- [[mycoremediation-of-oil-spills]] for petroleum-specific data
-- [[mycoremediation-of-heavy-metals]] for metal biosorption
-- [[mycoremediation-pahs]] for PAH degradation chemistry
-- [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin mechanisms
-- [[mycofiltration-watershed-protection]] for water filtration applications
-- [[mycorestoration-framework]] for the overarching framework
+## Comparative Summary of Case Studies
 
-## Related
+| Case Study | Contaminant | Primary Species | Outcome |
+|-----------|-------------|----------------|---------|
+| Battelle PCB | PCBs, PAHs | Pleurotus ostreatus | PCB degradation without bioaccumulation |
+| Oil Spill Response | Petroleum hydrocarbons | Pleurotus ostreatus | Hydrocarbon breakdown, ecological recovery |
+| E. coli Filtration | Coliform bacteria | Stropharia rugoso-annulata | Dramatic E. coli reduction |
+| WSDOT Roads | Sediment, petroleum | Multiple species | Effective sediment capture, cost-competitive |
+| Creosote Sites | PAHs | P. ostreatus, P. chrysosporium | Significant PAH reduction |
+| Radioactive Sites | Cs-137 | Mycorrhizal species | Bioaccumulation for removal |
 
-- [[mycoremediation-regulatory-framework]]
+## Key Lessons from Case Studies

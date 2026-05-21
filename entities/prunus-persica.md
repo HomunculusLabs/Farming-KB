@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Byrne, D.H. & Raseira, M.C.B. (2014). "Peach (Prunus persica)." In: Handbook of Plant Breeding, Springer.
-  - Layne, D.R. & Bassi, D. (2008). "The Peach: Botany, Production and Uses." CABI Publishing.
-  - Okie, W.R. (1998). "Handbook of Peach and Nectarine Varieties." USDA Agricultural Handbook No. 614.
   - Vizzotto, G. et al. (2014). "Phenolic Compounds in Peach (Prunus persica L. Batsch)." In: Bioactive Foods in Promoting Health, Academic Press.
 ---
 

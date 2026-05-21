@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Harvesting and Potency
 created: 2026-04-12
 updated: 2026-04-12
@@ -138,12 +139,17 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 - Lid with two holes (one for stirring rod, one for syringe needle)
 
 ### Procedure
+
+1. **Pre-sterilize** jar and metal lid in toaster oven at ~300F for 30 minutes; cool; tighten lid
+2. **Wash hands** -- hands are "a prime source for bacteria and microspore contaminants"
+3. **Sterilize work surfaces** with rubbing alcohol; minimize drafts
+4. Run a HEPA air cleaner (99.97% efficiency) for a few hours in a closed room
+5. **Flame sterilize scissors** with alcohol flame; snip mushroom cap as far up the stem as possible
+6. **Place cap gills-down** on jar bottom using straight pin; lid on loosely
+7. **Leave 2 days** in draft-free area away from direct sunlight
+8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid
 ## See Also
 
-- [[pf-tek]] -- Complete PF TEK from substrate to harvest
-- [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction
-- [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
-- [[mushroom-drying-storage]] -- Drying and storage methods
-- [[mushroom-spore-printing-and-storage]] -- Spore techniques
-- [[psilocybin-mushroom-chemistry]] -- Species potency comparison
-- [[psilocybin-mushroom-chemistry]] -- Chemical composition details
+- [[pf-tek-primordia-abort-harvesting-potency-by-age]]
+- [[mushroom-potency-harvesting-and-desiccation-pf-tek]]
+- [[mushroom-potency-harvesting-drying]]

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Morton, J. (1987). "Persimmon." In: Fruits of Warm Climates. Julia F. Morton, Miami, FL.
-  - Giordani, E. et al. (2010). "Japanese Persimmon (Diospyros kaki Thunb.) Fruit: Nutritional ginseng-cultivation-and-medicinal-properties." Journal of Berry Research, 1(2), 97–110.
-  - Novillo, P. et al. (2017). "Persimmon: A Review on Its Composition, Properties, and Uses." Food Reviews International, 33(5), 466–489.
   - Yamada, M. (2005). "Persimmon cannabis-genetics-and-breeding in Japan." Acta Horticulturae, 685, 51–64.---
 ---
 
@@ -79,3 +76,5 @@ In Japan, dried persimmons (hoshigaki) are a traditional winter delicacy, produc
 The species was introduced to the [[dmt-containing-plants-united-states-halpern]] by Commodore Matthew Perry's expedition in 1855 and subsequently to southern Europe. Italian, Spanish, and Israeli growers have developed significant persimmon industries serving European markets.
 
 In Korean culture, dried persimmon (gotgam) is traditionally stuffed with walnuts and served as a seasonal delicacy during the Lunar New Year. In Brazil, persimmon cultivation has expanded rapidly since the 1990s, with the country now ranking among the top five global producers.
+Further research into diospyros kaki continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind diospyros kaki provides a foundation for both practical application and continued scientific inquiry.

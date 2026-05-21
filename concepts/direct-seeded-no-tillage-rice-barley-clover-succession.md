@@ -6,7 +6,6 @@ type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Fukuoka M. The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution. 1987.
 ---
 

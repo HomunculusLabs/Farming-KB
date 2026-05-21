@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
-  - Williams, R.D. et al. (1984). "Centrosema (Leguminosae, Phaseoleae)." Flora Neotropica Monograph 38: 1-45.
-  - USDA NRCS (2024). "Plant Guide: Spurred butterfly pea." USDA Natural Resources Conservation Service.
-  - Clewell, A.F. (1985). "Guide to the vascular plants of the Florida panhandle." Florida State University Press.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.
 ---
 

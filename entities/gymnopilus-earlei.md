@@ -11,9 +11,6 @@ tags:
   - cortinariaceae
   - gymnopilus
 sources:
-  - "Guzmán, G. (1983). The Genus Psilocybe. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
-  - "Hesler, L.R. (1969). growing-gourmet-north-american-reishi-species Species of Gymnopilus. Mycologia Memoir No. 3."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=344952"
 ---
 

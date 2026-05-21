@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Holm, L.G., Plucknett, D.L., Pancho, J.V., & Herberger, J.P. (1977). "The World's Worst Weeds: Distribution and Biology." University Press of Hawaii.
-  - Macdonald, I.A.W., Loope, L.L., Usher, M.B., & Hamann, O. (1989). "Wildlife Conservation and the Spread of Non-Indigenous Species." emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects of Glyphosate and Imazapyr on Alligatorweed (Alternanthera philoxeroides)." Weed Science, 36(5), 700-705.
   - USDA NRCS. "Imperata cylindrica (L.) P. Beauv." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=IMCY2
 ---
 

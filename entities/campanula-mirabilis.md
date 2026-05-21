@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov, A.A. (1957). "Campanula." In: Shishkin, B.K. & Bobrov, E.G. (eds.), Flora of the USSR, Vol. 24. Academy of Sciences, Moscow.
-  - Grossheim, A.A. (1949). "Flora of the Caucasus." Vol. 3. Moscow-Leningrad.
-  - WCSP (2024). "World Checklist of Selected Plant Families: Campanula." Royal Botanic Gardens, Kew.
   - Rätzel, S. & von Mering, S. (2009). "Revision of Campanula sect. Campanula in the Caucasus." Willdenowia, 39(2): 245–262.
 ---
 

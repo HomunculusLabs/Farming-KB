@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Skottsberg, C. (1922). "The Ferns of Juan Fernandez." Natural History of Juan Fernandez and Easter Island, 2: 1-32.
-  - Marticorena, A. & Rodríguez, R. (1995). "Flora de Chile: Pteridophyta." Universidad de Concepción.
-  - Danton, P. & Perrier, C. (2006). "Red List of the vascular plants of the Juan Fernández Islands." Gayana Botánica, 63(2): 153-170.
   - IUCN Red List. Dicksonia berteriana. https://www.iucnredlist.org
 ---
 

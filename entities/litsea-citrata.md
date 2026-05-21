@@ -9,8 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - R. S. J. The Plant List (2013). "Litsea citrata (Nees) Bartell." Royal Botanic Gardens, Kew.
-  - A. N. P. Baser & K. H. C. Baser (2015). "mycovolatiles-fungal-volatile-compounds from Litsea Species." Journal of Agricultural and Food Chemistry, 54(19), 7231-7237.
   - Royal Botanic Gardens, Kew. "Litsea citrata." Plants of the World Online.
 ---
 

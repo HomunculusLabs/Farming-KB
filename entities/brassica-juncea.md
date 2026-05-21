@@ -12,9 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Warwick, S.I. et al. (2006). "Brassica juncea." In: The CABI Encyclopedia of Forest Trees. CABI Publishing.
-  - Li, X. et al. (2012). "Glucosinolate profiles and antioxidant activity of Indian mustard." Food Chemistry, 133(3), 766-773.
-  - Angelova, V. et al. (2004). "Bioaccumulation and distribution of heavy metals in Indian mustard." Environmental Science and Pollution Research, 11(3), 168-172.
   - Hemalatha, S. et al. (2007). "Nutritional and antinutritional composition of Indian mustard." Plant Foods for Human Nutrition, 62(1), 23-28.
 ---
 

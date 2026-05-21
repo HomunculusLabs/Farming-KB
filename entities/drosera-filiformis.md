@@ -9,10 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
-  - D'Amato, P. (2013). "The Savage Garden." Timber Press.
-  - Rivadavia, F. et al. (2003). "Phylogeny of Drosera." American Journal of Botany.
   - Gibson, T.C. (1991). "Distribution of Drosera filiformis." Rhodora 93.
 ---
 

@@ -9,9 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Jacobsen, H. (1960). A Handbook of Succulent Plants. Blandford Press.
-  - Rowley, G.D. (1994). "Succulent Compositae." Strawberry Press.
-  - Nordenstam, B. (2007). "Senecioneae in southern Africa." Phylogeny and Classification, 6: 321-342.
   - Smith, G.F. & Figueiredo, E. (2014). "Senecio mandraliscae in cultivation." Bradleya, 32: 123-130.
 ---
 

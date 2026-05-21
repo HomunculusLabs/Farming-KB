@@ -14,7 +14,6 @@ synonyms:
   - home cannabis garden
   - backyard marijuana
   - small garden cannabis
-  - query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 type: concept
 ---
 

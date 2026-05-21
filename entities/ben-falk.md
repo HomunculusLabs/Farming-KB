@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Falk, B. (2013). The Resilient Farm and Homestead: An Innovative Permaculture and Whole Systems Design Approach. chelsea-green-publishing."
-  - "Falk, B. (2019). The Resilient Farm and Homestead, Revised and Expanded Edition. Chelsea Green Publishing."
-  - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Magazine, 98, 22-29."
   - "Whole Systems Design LLC. (2024). \"About.\" wholesystemsdesign.com."---
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A. (1978). "Campanula L." In: Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda M. (1978). "Campanula latifolia L." In: Tutin TG et al., Flora Europaea. Cambridge Univ. Press.
-  - Richards AJ (1997). "Plant Breeding Systems." 2nd ed. Chapman & Hall, London.
   - Royal Horticultural Society (2023). "Campanula latifolia — RHS Gardening." rhs.org.uk.
 ---
 

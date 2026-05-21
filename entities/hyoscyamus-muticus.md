@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Evans, W.C. (2009). "Trease and Evans' Pharmacognosy." 16th ed. Saunders/Elsevier.
-  - Khashaba, D.S. et al. (1974). "Hyoscyamus muticus: An Egyptian Source of Hyoscyamine and Scopolamine." Planta Medica, 25(3), 233-240.
-  - Oudit, M.M. et al. (2005). "In Vitro Propagation and Hyoscyamine Production in Hyoscyamus muticus." Plant Cell Reports, 23(10-11), 696-701.
-  - Berkov, S. et al. (2005). "Alkaloid Profiling of Hyoscyamus muticus." Phytochemistry, 66(15), 1799-1804.
   - Phytochemistry reviews, Springer. "Tropane Alkaloids: Biosynthesis and Metabolism in Solanaceae."
 ---
 

@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the [[terpenes]], potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
+Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
 
 ## Harvest Timing
 
 Proper timing depends on monitoring trichome development throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
 
-- **Clear [[trichomes]]**: Too early — lower potency, grassy taste
+- **Clear trichomes**: Too early — lower potency, grassy taste
 - **Milky/cloudy trichomes**: Peak potency — energetic, cerebral effect
 - **Amber trichomes**: THC degrading to CBN — more sedative, body-heavy effect
 - **Target**: 50-70% milky with first amber appearing
@@ -30,7 +30,7 @@ Also consider:
 
 ### Flushing
 
-If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers [[nutrient-availability]].
+If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers nutrient availability.
 
 ### Dark Period
 
@@ -148,3 +148,6 @@ After curing, proper storage preserves quality for months to years.
 - **Humidity**: Maintain 58-62% RH using 2-way humidity packs (Boveda 58% or 62%)
 - **Avoid**: Plastic bags (static damages trichomes), refrigerators (condensation), freezers (trichomes become brittle and break off)
 - **Vacuum sealing**: Acceptable for long-term storage if buds are properly cured first
+## See Also
+
+- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]

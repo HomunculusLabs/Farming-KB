@@ -11,9 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hong, D.Y. & Ma, L.M. (1999). "Campanulaceae." In Wu, Z.Y. & Raven, P.H. (eds.), Flora of China, Vol. 19. Science Press & Missouri Botanical Garden.
-  - Lee, Y.N. (2004). "Flora of Korea." Seoul: Kyo-Hak Publishing.
-  - Kim, J.H. et al. (2017). "Pharmacological activities of Adenophora triphylla." Journal of Ethnopharmacology, 202: 120–131.
   - Okuyama, E. et al. (1999). "Structures of acetylated triterpenoid saponins from Adenophora roots." Chemical & Pharmaceutical Bulletin, 47(8): 1176–1179.
 ---
 

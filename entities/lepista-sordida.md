@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland, Vol. 3. Verlag Mykologia."
-  - "Phillips, R. (2010). Mushrooms and Other Fungi of Great Britain and Europe. Pan Macmillan."
-  - "Hongo, T. (1965). \"Notes on Japanese Larger Fungi (13).\" Shiga University, 15, 68-74."
   - "Kirby, G. et al. (2018). \"Nutritional and Bioactive Properties of Tricholomataceae.\" J. Food Chem., 240, 1-12."
 ---
 

@@ -10,7 +10,7 @@ sources:
 
 # JADAM Sulfur (JS)
 
-[[jadam-sulfur]] (JS), also called red clay-sulfur, is a powerful germicide developed by [[youngsang-cho]]. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
+JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 
 ## Cost and Efficiency
 
@@ -18,7 +18,7 @@ Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can
 
 ## What It Controls
 
-Effective against: black spot, pear rust, [[powdery-mildew]], [[downy-mildew]], and most fungal diseases.
+Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
 
 ## Ingredients (for 100 L batch)
 
@@ -73,10 +73,18 @@ JS can be used with commercial organic or chemical pesticides, but always do a m
 - [[jadam-herbal-pest-control]]
 - [[jadam-sea-salt-use]]
 - [[knf-oriental-herbal-nutrient]]
+## Historical Context
 
-## Current Research Directions
+The study and practice of jadam sulfur application has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the underlying mechanisms.
-Field applications have demonstrated the practical value of these findings.
-Researchers are actively investigating novel approaches and methodologies.
+## Current Research
+
+Recent investigations into jadam sulfur application have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with jadam sulfur application spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.

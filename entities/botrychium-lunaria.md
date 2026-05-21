@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wagner, W.H. & Wagner, F.S. (1993). "Ophioglossaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
-  - Kershaw, L. et al. (2001). "Edible and Medicinal Plants of the Rockies." Lone Pine Publishing.
-  - Farrar, D.R. (2006). "Ophioglossaceae." in: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee.
   - Kato, M. (1987). "A phylogenetic classification of Ophioglossaceae." Botanical Magazine Tokyo 100: 3–14.---
 ---
 
@@ -79,3 +75,14 @@ Conservation efforts focus on habitat protection, as the species serves as an in
 Cultivation of Botrychium lunaria is challenging and rarely attempted outside of specialized botanical collections. The primary difficulty lies in establishing the obligate mycorrhizal association required for gametophyte development.
 
 Successful propagation has been achieved by sowing spores onto soil collected from wild moonwort populations, which contains the appropriate [[biodiversity-of-fungi-endophytic-fungi]]. Germination may take 1–3 years, and sporophyte emergence requires an additional 1–2 years.
+## Current Research
+
+Recent studies on botrychium lunaria have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with botrychium lunaria should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

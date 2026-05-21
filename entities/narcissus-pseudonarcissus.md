@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Blanchard, J.W. (1990). "Narcissus: A Guide to Wild Daffodils." The Alpine Garden Society.
-  - Hanks, G.R. (2002). "Narcissus and Daffodil: The Genus Narcissus." Timber Press.
-  - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.
   - USDA NRCS (2024). "PLANTS Database: Narcissus pseudonarcissus." plants.usda.gov.
 ---
 

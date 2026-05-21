@@ -5,9 +5,7 @@ tags: [species, fungus, psilocybin-mushroom, panaeolus, fungi, basidiomycota, bo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - psilocybin-mushrooms-of-the-world-stamets.md
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: entity
 ---
 

@@ -9,10 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
-  - Jain, S.K. (1991). "Dictionary of Indian Folk Medicine and Ethnobotany." Deep Publications.
-  - Srivastava, S. et al. (2009). "Boerhavia diffusa: a review on morphology, phytochemistry and ethnopharmacological aspects." Pharmacognosy Reviews, 3(5), 60-68.
-  - Mishra, S. et al. (2014). "Anti-inflammatory and immunomodulatory activity of Boerhavia diffusa." Journal of Ethnopharmacology, 153(3), 860-869.
   - Adhvaryu, M.R. et al. (2008). "Diuretic, hypotensive and hypocholesterolemic effect of Boerhavia diffusa." Indian Journal of Experimental Biology, 46(12), 862-866.
 ---
 

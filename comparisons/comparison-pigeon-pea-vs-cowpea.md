@@ -5,12 +5,6 @@ tags: [legumes, nitrogen-fixation, cover-crops, tropical-crops, pigeon-pea, cowp
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "FAO Ecoport — Cajanus cajan (Pigeon Pea) profile, fao.org"
-  - "IITA (International Institute of Tropical Agriculture) — Cowpea production guidelines, iita.org"
-  - "ICRISAT — Pigeon Pea: A Climate-Smart Crop, icrisat.org"
-  - "USDA NRCS Plant Guide — Vigna unguiculata, nrcs.usda.gov"
-  - "Sprent, J.I. (2009). Legume Nodulation: A Global Perspective. Wiley-Blackwell."
-  - "Carvalho et al. (2019). Cowpea: a legume crop for a challenging environment. Journal of the Science of Food and Agriculture, 99(9), 4273–4284."
 type: comparison
 ---
 

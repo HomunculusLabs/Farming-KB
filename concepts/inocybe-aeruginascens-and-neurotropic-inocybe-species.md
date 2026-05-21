@@ -12,7 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept

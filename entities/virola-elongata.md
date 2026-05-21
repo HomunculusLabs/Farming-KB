@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Schultes, R.E. & Holmstedt, B. (1971). "Various Hallucinogens of the Myristicaceae." Journal of Psychedelic Drugs, 3(1).
-  - Agurell, S. et al. (1969). "Alkaloids in Certain Species of Virola." Acta Chemica Scandinavica, 23.
-  - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - Schultes, R.E. & Raffauf, R.F. (1990). "The Healing Forest." Dioscorides Press.
 ---
 

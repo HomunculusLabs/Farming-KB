@@ -11,10 +11,6 @@ tags:
   - wildflower
   - permaculture
 sources:
-  - "Bown, D. (1995). Encyclopedia of Herbs and Their Uses. Dorling Kindersley."
-  - "Hornby, R. (2019). Papaver rhoeas L. Journal of Ecology, 107(4), 1587–1605."
-  - "Tyler, V.E. (1993). The Honest Herbal: A Sensible Guide to the Use of Herbs. Pharmaceutical Products Press."
-  - "Blamey, M. & Grey-Wilson, C. (1989). Wild Flowers of Britain and Northern Europe. Hodder & Stoughton."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:536014-1"
 ---
 

@@ -12,10 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Chen, Z.Y. & Li, J. (2005). "Flora of China: Lauraceae." Science Press & Missouri Botanical Garden.
-  - Wu, Z.Y. & Raven, P.H. (1994). "Flora of China, Vol. 7." Science Press & Missouri Botanical Garden.
-  - Jiang, H. et al. (2016). "Chemical composition and biological activities of Litsea cubeba permaculture-designers-manual-essential-oil-plants." Molecules 21(10): 1373.
-  - Ho, C.L. et al. (2010). "Antimicrobial activity and chemical composition of Litsea cubeba leaf oil." Fitoterapia 81(5): 401–404.
   - Wang, W. et al. (2017). "Litsea cubeba: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology 200: 263–275.
 ---
 

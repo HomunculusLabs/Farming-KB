@@ -5,18 +5,11 @@ tags: [mycology, conservation, biodiversity, endangered-species, fungal-ecology]
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Mueller, G.M., Bills, G.F. & Foster, M.S. (eds.). Biodiversity of Fungi: Inventory and Monitoring Methods. Academic Press, 2004.
-  - Hawksworth, D.L. "The fungal dimension of biodiversity: magnitude, significance, and conservation." Mycological Research 95(6):641-655, 1991.
-  - Heilmann-Clausen, J. et al. "Fungi on the IUCN Red List." IUCN, 2024.
-  - Stamets, P. Mycelium Running: How Mushrooms Can Help Save the World. Ten Speed Press, 2005.
-  - Dighton, J. Fungi in Ecosystem Processes. Marcel Dekker, 2003.
-  - Gadd, G.M. et al. (eds.) Fungi in the Environment. Cambridge University Press, 2007.
 related_concepts:
   - fungal-conservation-endangered-species
   - fungal-conservation-strategies
   - fungal-biodiversity-conservation-status
   - fungal-conservation-challenges
-  - fungal-species-rarity-assessment-conservation-challenges
   - freshwater-fungal-habitats-conservation-urgency
   - gadd-fungal-biodiversity-conservation
 ---

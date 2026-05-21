@@ -14,9 +14,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS PLANTS Database - Gaylussacia ursina
-  - Weakley AS (2023) Flora of the Southeastern United States
-  - Gleason HA & Cronquist A (1991) Manual of Vascular Plants of Northeastern US and Canada
-  - Radford AE et al. (1968) Manual of the Vascular Flora of the Carolinas
   - NatureServe Explorer - Gaylussacia ursina
 ---
 

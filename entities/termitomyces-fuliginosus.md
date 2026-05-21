@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of Southeast Asia." Kew Bulletin, 49(4), 717-737.
-  - Heinemann, P. (1977). "Les Termitomyces d'Afrique centrale." Bulletin du Jardin Botanique National de Belgique, 47, 345-383.
-  - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences, 99(23), 14887-14892.
-  - De Fine Licht, H.H. et al. (2005). "The termite-associated fungus *Termitomyces*." Fungal Genetics and Biology, 42(5), 447-454.
-  - Rouland-Lefevre, C. et al. (2006). "Fungal mutualism in termites." Insect Science, 13(6), 429-438.
 created: 2026-05-07
 ---
 

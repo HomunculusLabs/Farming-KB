@@ -13,8 +13,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." accessible-mushroom-cultivation-for-disabilities guide.
-  - Stamets P (1993). Growing Gourmet and medicinal-mushrooms. Ten Speed Press, Berkeley, CA.
   - Rushforth M (2007). "Mushroom cultivation using grain spawn." Mycological Research 111(2): 129-137.
 ---
 

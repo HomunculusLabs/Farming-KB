@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Dodson R.G. (1970). "Kenaf (Hibiscus cannabinus L.)." Econ. Bot. Monogr. 4.
-  - Kozlowski R.M. (2012). "Handbook of Natural Fibres." Woodhead Publishing.
-  - Li X. et al. (2010). "Kenaf bast fiber: a review of production and applications."
-  - Akil H.M. et al. (2011). "Kenaf fibre reinforced composites."
   - Monti A., Alexopoulou E. (2013). "Kenaf: A multi-purpose crop for bio-based materials."
 ---
 

@@ -5,13 +5,6 @@ tags: [nematodes, soil-ecology, soil-food-web, pest-management, nutrient-cycling
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*. Timber Press, 2010.
-  - Elaine Ingham, *The Field Guide I for Actively actively-aerated-compost-tea-aact-brewing Tea*. Soil Foodweb Inc., 2008.
-  - Geoffrey Gadd, Sarah C. Watkinson, and Paul S. Dyer, *Fungi in the Environment*. Cambridge University Press, 2007.
-  - John Dighton, *Fungi in fungal-ecosystem-processes-overview*. Marcel Dekker, 2003.
-  - Nicholas P. Money, *Mr. Bloomfield's Orchard*. Oxford University Press, 2002.
-  - Jorge Cervantes, *Marijuana Horticulture*. Van Patten Publishing, 2015.
 related_concepts:
   - nematode-management
   - nematode-roles-in-soil

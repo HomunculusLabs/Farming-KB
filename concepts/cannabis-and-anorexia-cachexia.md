@@ -16,7 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Blesching, Uwe. "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books, 2015. Chapter IV.
 type: concept
 ---
 

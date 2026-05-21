@@ -1,4 +1,5 @@
 ---
+
 title: Common Homestead Weeds — Identification, Uses, and Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -138,12 +139,12 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 **Identification**: Biennial — flat rosette first year, tall flowering stalk (2-6 feet) second year with large purple flower heads and sharp spines.
 
 **Management**: Easier than Canada thistle — biennial lifecycle means cutting before seed set in year two eliminates that generation. Dig out rosettes in year one.
-## See Also
 
-- [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar
-- [[dynamic-accumulators]] — detailed accumulator plant profiles
-- [[herbal-medicine]] — medicinal uses for common weeds
-- [[no-till-gardening-method]] — soil management approach that reduces weed pressure
-- [[cover-cropping-guide]] — using cover crops for weed suppression
-- [[soil-fertility-management]] — interpreting weed soil indicators and amending
-- [[companion-planting-reference]] — plant communities that compete with weeds
+### Japanese Knotweed (*Fallopia japonica*)
+
+**Identification**: Tall (4-10 feet) bamboo-like stems with red/purple speckles. Large heart-shaped leaves. Small white flower clusters in late summer.
+
+**Why it's a problem**: Extremely invasive — can damage foundations. Spreads by rhizome (any fragment regrows). Listed as noxious weed in many states.
+
+**Management**: Cut repeatedly to starve roots (takes 5+ years of consistent effort). Consult local extension for approved treatments. Never compost or move soil from knotweed areas. Report infestations to local authorities.
+

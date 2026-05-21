@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - RHS (2026). "Cerinthe major." Royal Horticultural Society Plant Finder.
-  - Blamey, M. & Grey-Wilson, C. (2003). "Mediterranean Wild Flowers." HarperCollins.
   - Mabberley, D.J. (2017). "Mabberley's Plant Book." 4th ed. Cambridge University Press.
 ---
 

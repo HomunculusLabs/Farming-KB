@@ -12,7 +12,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Bartsch, I. et al. (2008). \"The genus Laminaria s.l.\" In: Biology of Seaweeds. Springer."
   - "Kerrison, P.D. et al. (2015). \"SACCHARINA: New crops for soil-temperature-plant-growth-rate-doubling-rule, nutritional value, and industrial polysaccharide content.
 ---
 

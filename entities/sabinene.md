@@ -19,11 +19,6 @@ aliases:
   - Sabinen
   - Δ-4-Carene Isomer
 sources:
-  - Bohlmann F, Zeisberg R, Klein E (1971). "New Natural Products from comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytochemistry 10(12): 3253–3263.
-  - Adams RP (2007). "Identification of Essential Oil Components by Gas Chromatography/Mass Spectrometry." Allured Publishing.
-  - Gershenzon J, Dudareva N (2007). "The Function of Terpene Natural Products in the Natural World." Nature Chemical Biology 3(7): 408–414.
-  - Rice PJ, Coats JR (1994). "Insecticidal Properties of Several Monoterpenoid Essential Oils." Pesticide Science 42(4): 261–266.
-  - "Sabinene." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
 created: 2026-04-28
 ---
 

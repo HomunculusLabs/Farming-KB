@@ -9,7 +9,7 @@ sources: []
 
 # Ibogaine Reference
 
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub Tabernanthe iboga. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
 
 ## Chemistry
 
@@ -26,7 +26,7 @@ Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark o
 
 Ibogaine belongs to the iboga alkaloid family. Tabernanthe iboga root bark contains multiple alkaloids:
 - Ibogaine: primary psychoactive compound (1-6% dry weight)
-- Ibogamine, [[tabernanthine]]: related alkaloids
+- Ibogamine, tabernanthine: related alkaloids
 - Noribogaine: active metabolite (may be responsible for anti-addictive effects)
 
 Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- and (-)-enantiomers.
@@ -144,7 +144,11 @@ Proposed anti-addictive mechanisms:
 - Multiple deaths documented, primarily from cardiac arrest
 - Risk factors: pre-existing heart conditions, long QT syndrome, electrolyte imbalances, CYP2D6 poor metabolizer status, concurrent QT-prolonging medications, liver impairment, advanced age, female sex
 
+### Pre-Treatment Screening Requirements
+
+No one should receive ibogaine without comprehensive medical screening:
+- 12-lead ECG to measure QT interval (QTc <440 ms men, <450 ms women)
 ## See Also
 
-- [[lsd-reference]] for comparison with a classical psychedelic
-- [[ketamine-reference]] for another NMDA antagonist
+- [[ibogaine]]
+- [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]]

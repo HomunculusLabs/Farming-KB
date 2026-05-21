@@ -11,11 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H.A. & Anderson, L.E. (1981). Mosses of polypore-fungi-eastern-north-america America. Columbia University Press.
-  - Glime, J.M. (2017). "Fontinalis antipyretica." Bryophyte Ecology, Volume 2. Michigan Technological University.
-  - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. Cambridge University Press, 2nd edition.
-  - Vanderpoorten, A. & Goffinet, B. (2009). Introduction to Bryophytes. Cambridge University Press.
-  - Vitt, D.H. et al. (1988). "The role of bryophytes in stream ecosystems." Journal of the Hattori Botanical Laboratory, 64, 203-215.
   - Arts, G.H.P. (2002). "Ditch banks: a well-connected habitat for aquatic macrophytes." Aquatic Botany, 73(4), 247-260.
 ---
 

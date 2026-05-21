@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gimingham, C.H. (1972). "Ecology of Heathlands." Chapman and Hall, London.
-  - Grieve, M. (1931). "A Modern Herbal." Penguin; "Heather" entry.
-  - Webster, R.E. (2010). "Heather (Calluna vulgaris): A review of its uses and economic potential." Botanical Journal of Scotland, 62(1), 57-76.
-  - Rix, M. (2011). "Calluna." Curtis's Botanical Magazine, 28(3), 196-209.
 created: 2026-05-07
 ---
 
@@ -81,3 +77,5 @@ The heather beetle (Lochmaea suturalis) is the primary herbivore, with outbreaks
 Heather provides nesting cover and food for red grouse (Lagopus lagopus scotica), whose diet is approximately 90% heather shoots in winter.
 
 In [[permaculture]] and [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native [[hamilton-wildflower-meadow]] mixes.
+Further research into calluna vulgaris continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind calluna vulgaris provides a foundation for both practical application and continued scientific inquiry.

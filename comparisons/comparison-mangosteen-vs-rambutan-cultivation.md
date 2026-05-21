@@ -14,7 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
 ---# Mangosteen vs Rambutan Cultivation
 

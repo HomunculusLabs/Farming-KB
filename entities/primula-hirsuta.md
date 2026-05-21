@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richards, J. (2003). "Primula." Timber Press.
-  - Aichele, D. & Schwegler, H.W. (2011). "A Colour Atlas of Poisonous Plants." Brill.
-  - The Plant List (2013). Version 1.1. Published online.
   - IUCN Red List of Threatened Species (2023).
   - Wendelberger, G. & Wendelberger, H. (2014). "Alpenpflanzen." Eugen Ulmer Verlag.
 ---

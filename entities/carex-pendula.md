@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
-  - Akeroyd, J.R. (2014). "Carex pendula." in Stace, C.A., New Flora of the British Isles, 4th ed. C&M Floristics.
   - jeavons-climate-adaptation-growing-seasons before senescing, contributing to the accumulation of dense carex-nigra and dighton-fungal-drought-tolerance-plant-water-relations despite its preference for moist soils. Mulching with jadam-canker-leaf-spot-pesticide diseases caused by stamets-growing-room-air-circulation-co2-management. These infections rarely cause significant mortality but can reduce the ornamental quality of cultivated plants.
 ---
 

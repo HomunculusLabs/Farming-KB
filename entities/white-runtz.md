@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Staff (2023). \"White Runtz Cannabis Strain Information.\" Leafly.com."
-  - "AllBud (2023). \"White Runtz Strain Review.\" AllBud.com."
-  - "Hodge, B. (2021). \"The Runtz Family Tree: A Genetic Breakdown.\" Cannabis Now Magazine."
-  - "query-sog-vs-scrog-cannabis-training-methods University (2023). \"Growing White Runtz: Complete Guide.\" CTU.edu."
   - "WikiLeaf (2023). \"White Runtz Strain Information.\" WikiLeaf.com."
 ---
 

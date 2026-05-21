@@ -11,10 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. (1993). "Thalictrum." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Park, K.R. & Whitten, W.M. (1997). "Phylogeny of Thalictrum." Systematic Botany, 22(3): 453-463.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States. 2nd ed. New York Botanical Garden.
-  - Kaplan, S.M. & Mulcahy, D.L. (1971). "Mode of pollination in Thalictrum." Evolution, 25(3): 536-540.
   - Coffey, T.B. (1993). The History and Folklore of polypore-fungi-eastern-north-america, where it grows in rich deciduous woodlands and moist slopes. The species is notable for its delicate, columbine-like foliage and wind-pollinated flowers.
 ---
 

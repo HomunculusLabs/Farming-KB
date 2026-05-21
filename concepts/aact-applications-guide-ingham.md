@@ -5,7 +5,6 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 

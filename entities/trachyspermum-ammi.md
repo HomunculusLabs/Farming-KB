@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bhat, R.R. et al. (2022). "Phytochemistry and pharmacological activities of Trachyspermum ammi." Phytomedicine, 96, 153756.
-  - Singh, N. & Rajini, P.S. (2004). "Antioxidant activity of ajwain extract." Food Chemistry, 92(4), 683-688.
-  - Srivastava, S. (2017). "A review on pharmacological properties of Trachyspermum ammi." International Journal of Pharmaceutical Sciences, 9(2), 15-24.
-  - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Kapoor, L.D. (2000). Handbook of Ayurvedic Medicinal Plants. CRC Press.
 ---
 

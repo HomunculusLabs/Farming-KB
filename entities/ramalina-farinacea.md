@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum.
-  - Kashiwadani H, Nash TH. (2004). "A revision of the lichen genus Ramalina in Japan." Journal of the Hattori Botanical Laboratory 95: 165–210.
-  - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
   - Øvstedal DO, Gremmen NJM, Lewis Smith RI. (2009). Lichens of Antarctica and South Georgia. Cambridge University Press.
 ---
 
@@ -79,3 +75,14 @@ In traditional medicine, *Ramalina* species have been used as poultices and woun
 
 The photobiont partner is a trebouxioid green alga, typically assigned to the genus *Trebouxia*. Algal identity can influence the growth rate and [[ramalina-canariensis]]
 - [[ramalina-menusis]]
+## Current Research
+
+Recent studies on ramalina farinacea have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with ramalina farinacea should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

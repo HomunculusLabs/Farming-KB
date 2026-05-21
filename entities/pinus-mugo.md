@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2013). "Pinus mugo." A Handbook of the World's Conifers. Brill.
-  - Businský, R. (1999). "Taxonomic Revision of Pinus mugo Complex." Preslia 71.
-  - Christensen, K.I. (1987). "Taxonomic Revision of Pinus mugo Complex." Nordic Journal of Botany 7.
   - Montesinos-Navarro, A. et al. (2013). "Nurse Plants and Successional Pines." Journal of Ecology 101(5).
 ---
 

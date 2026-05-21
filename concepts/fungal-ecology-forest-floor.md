@@ -17,12 +17,12 @@ Fungi are non-photosynthetic organisms whose primary ecological role is decompos
 
 1. **Primary colonizers**: Bacteria and sugar fungi attack readily available sugars and simple compounds
 2. **Secondary decomposers**: More specialized fungi break down cellulose and hemicellulose
-3. **Tertiary decomposers**: White rot and [[brown-rot]] fungi break down lignin, the most recalcitrant component of wood
+3. **Tertiary decomposers**: White rot and brown rot fungi break down lignin, the most recalcitrant component of wood
 
 ## Wood Decay Fungi
 
 ### White Rot Fungi
-The most numerous decomposers of wood. Produce enzymes ([[lignin-peroxidase]], [[manganese-peroxidase]], laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: [[oyster-mushroom]] ([[pleurotus-ostreatus]]), turkey tail (Trametes versicolor), shiitake ([[lentinula-edodes]]), reishi ([[ganoderma-lucidum]]).
+The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, manganese peroxidase, laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail (Trametes versicolor), shiitake (Lentinula edodes), reishi (Ganoderma lucidum).
 
 ### Brown Rot Fungi
 Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulose, leaving behind brownish, cubically cracked lignin. Commonly seen on downed conifers. Examples: sulphur shelf (Laetiporus sulphureus), agarikon (Fomitopsis officinalis), split-gill polypore (Schizophyllum commune).
@@ -33,7 +33,7 @@ Mycorrhizal fungi form symbiotic associations with the roots of most forest tree
 
 - **Ectomycorrhizal**: Form a sheath around root tips; associate with oaks, pines, spruces, firs, birches. The fungal partner extends the root system's effective reach by 10-100x, accessing water and nutrients (especially phosphorus) far beyond the root zone.
 - **Endomycorrhizal (VAM)**: Penetrate root cells; associate with most herbaceous plants and some trees.
-- **The [[wood-wide-web]]**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
+- **The Wood Wide Web**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
 
 ## Soil Formation
 
@@ -54,31 +54,33 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- mycoremediation overview
+- [[mycoremediation-overview]]
 - [[mushroom-foraging-safety]]
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of fungal ecology forest floor has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
+## Current Research
+
+Recent investigations into fungal ecology forest floor have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with fungal ecology forest floor spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of fungal ecology forest floor.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into fungal ecology forest floor continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

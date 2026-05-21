@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Bluing Reaction
 created: 2026-04-12
 updated: 2026-04-12
@@ -15,7 +16,6 @@ tags:
 - patterns
 
 sources:
-  - raw/papers/magic-mushrooms-around-the-world-gartz.md
   - raw/papers/magic_mushrooms_around_the_world.md
 ---
 

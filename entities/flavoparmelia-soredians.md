@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region. Vol. 1. Arizona State University.
-  - Hale, M.E. (1979). "A Revision of the Lichen Family Physciaceae in the Continental United States and Canada." Mycotaxon, 9(1), 31-80.
   - Crespo, A. et al. (2010). "Phylogeny and taxonomy of the Flavoparmelia group (Parmeliaceae, Ascomycota)." Taxon, 59(6), 1815-1825.
 ---
 

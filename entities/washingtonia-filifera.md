@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hodel, D.R. (2014). "The genus Washingtonia." Palms 58(2): 73-92.
-  - Cornett, J.W. (2014). "Ecology of the California fan palm." The Frond 18(1): 1-14.
-  - Henderson, A., Galeano, G., & Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
-  - Minnich, R.A. (2006). "California's Fading Wildflowers." University of California Press.
   - Barbour, M.G. (1973). "The California fan palm: ecology and distribution." Madroño 22(4): 177-188.
 ---
 

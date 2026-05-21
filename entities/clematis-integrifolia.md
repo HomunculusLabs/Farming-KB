@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Johnson M (2001). "The Genus Clematis." The Clematis Society, UK.
-  - Grey-Wilson C (2000). "Clematis: The Genus." Timber Press, Portland.
   - Wang WT, Li LQ (2005). "Clematis." Flora of China, Vol. 6: 333–386.
 ---
 

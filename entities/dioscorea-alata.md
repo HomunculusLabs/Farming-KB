@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Coursey, D.G. (1967). "Yams: An Account of the Nature, Origins, Cultivation and Uses of the Edible Yams of West Africa." Longmans.
-  - Arnason, T. et al. (1980). "Maya medicinal plants of San Jose Succotz, Belize." Journal of Ethnopharmacology 2(4): 345-364.
-  - Mignouna, H.D. et al. (2009). "Yam (*Dioscorea* spp.): Overview." In: Vol. 2, Fruits and Nuts, Springer.
-  - Bredeson, J.V. et al. (2016). "The genome of *Dioscorea alata*: A resource for yam genetic improvement." BMC Genomics 17: 553.
 created: 2026-04-28
 ---
 

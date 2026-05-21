@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bhat, R., et al. (2012). "Senna alata: A review of its ethnomedicinal uses, phytochemistry, and pharmacology." Journal of Pharmacy Research 5(5): 2434–2438.
-  - Jain, S.K. (1991). "Dictionary of Indian Folk Medicine and Ethnobotany." Deep Publications.
-  - Lewis, W.H., & Elvin-Lewis, M.P.F. (1977). "Medical Botany: Plants Affecting Man's Health." Wiley.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.created: 2026-05-07
 
 created: 2026-05-07
 ---

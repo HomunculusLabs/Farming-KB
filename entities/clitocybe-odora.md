@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Breitenbach, J. & Kränzlin, F. (1981). Fungi of Switzerland Vol. 3. Boletaceae, Agaricaceae."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
   - "Lincoff, G.H. (1981). National Audubon Society  is fresh. Commonly called the aniseed funnel or anise-scented clitocybe, it is found across temperate forests of Europe and , needles, and ; may also have weakly 
 - **Season:** Late summer to late autumn (August–November in the Northern Hemisphere); fruiting triggered by cool, moist conditions

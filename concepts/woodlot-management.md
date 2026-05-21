@@ -19,8 +19,8 @@ Sustainable forestry means harvesting no more wood than the forest grows each ye
 - Harvest individual trees or small groups rather than clear-cutting
 - Retain dead standing trees (snags) for wildlife habitat
 - Protect riparian zones (stream banks) with uncut buffer strips
-- Encourage [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] for resilience
-- Minimize [[soil-disturbance-mycorrhizal-impact]] during logging operations
+- Encourage species diversity for resilience
+- Minimize soil disturbance during logging operations
 - Regenerate harvested areas promptly (natural seeding or planting)
 
 ## Firewood Species
@@ -47,7 +47,7 @@ Wood species vary significantly in heat output, burn characteristics, and season
 
 ## Cordwood
 
-A cord [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] standard unit of firewood measurement: a stacked pile 4 feet high x 4 feet wide x 8 feet long = 128 cubic feet. Actual wood volume is approximately 80-90 cubic feet (the rest is air space between pieces).
+A cord is the standard unit of firewood measurement: a stacked pile 4 feet high x 4 feet wide x 8 feet long = 128 cubic feet. Actual wood volume is approximately 80-90 cubic feet (the rest is air space between pieces).
 
 ### Stacking for Seasoning
 
@@ -78,7 +78,7 @@ For sustainable harvesting, identify and select trees based on:
 ### Felling Direction
 
 Plan the fall direction before making any cuts. Consider:
-- Lean [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] tree (trees tend to fall [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] direction they lean)
+- Lean of the tree (trees tend to fall in the direction they lean)
 - Wind direction
 - Escape routes (always have two clear escape routes at 45 degrees from the fall direction)
 - Avoid falling trees into other trees (hang-ups are dangerous)
@@ -99,7 +99,7 @@ Plan the fall direction before making any cuts. Consider:
 
 ## Chainsaw Safety
 
-Chainsaws [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] dangerous tool on the homestead. Follow these rules without exception:
+Chainsaws are the most dangerous tool on the homestead. Follow these rules without exception:
 
 - Always wear chaps, eye protection, hearing protection, gloves, and boots
 - Keep both hands on the saw at all times
@@ -124,4 +124,4 @@ Coppicing is the practice of cutting a tree at ground level, which stimulates th
 
 - [[building-with-natural-materials]] for using woodlot timber in construction
 - [[wildlife-habitat-creation]] for managing forests as wildlife habitat
-- [[off-grid-electricity-basics]] for wood [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] heating alternative to electric heat
+- [[off-grid-electricity-basics]] for wood as a heating alternative to electric heat

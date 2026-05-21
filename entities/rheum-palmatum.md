@@ -20,12 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's
     Republic of China." China Medical Science Press.
-  - Huang, K.C. (1999). "The Pharmacology of Chinese Herbs." CRC Press.
-  - Crownover, R.J. (2010). "Rheum palmatum: A Review of Botany,
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
-  - Li, T.K. (1974). "An Introduction to Chinese holzer-medicinal-and-culinary-herbs-compendium
 - permaculture-plants-edible-perennials-understory
 ---
 ## Practical Considerations

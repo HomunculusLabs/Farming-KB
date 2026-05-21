@@ -10,8 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Lord, T. (2006). "Pulmonaria: A Gardener's Guide." RHS Plant Monograph Series.
-  - Bollinger, M. et al. (2014). "Phytochemistry of Boraginaceae: Pulmonaria." Pharmaceutical Biology, 52(3), 370-379.
   - RHS Plant Finder: Pulmonaria saccharata cultivars and hybrids.
 ---
 

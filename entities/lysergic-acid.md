@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hofmann, A. (1979). \"The history of LSD and the ergot alkaloids.\" Pharmacy International, 1(8), 271-276."
-  - "Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens, 2nd ed. Charles C. Thomas."
-  - "Stoll, A. & Hofmann, A. (1943). \"Partialsynthese von Alkaloiden vom Lysergsäure-Typ.\" Helvetica Chimica Acta, 26(3), 944-965."
-  - "Griffiths, R.R. et al. (2016). \"Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance.\" Psychopharmacology, 233(18), 3455-3471."
   - "Nichols, D.E. (2016). \"Psychedelics: Pharmacology and implications for treatment.\" Pharmacological Reviews, 68(2), 264-335."
 ---
 

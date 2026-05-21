@@ -4,13 +4,6 @@ tags: [elderberry, sambucus, medicinal-herbs, berry-cultivation, permaculture, p
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Charlebois D, Bylka W. 2020. Elderberry (Sambucus nigra L.): A comprehensive review of its phytochemistry, health benefits, and toxicity. Phytotherapy Research, 34(11): 2795–2814.
-  - Thomas JE, et al. 2020. Genotype and nitrogen source influence growth and phenolic production in American elderberry (Sambucus canadensis). Industrial Crops and Products, 149: 112317.
-  - Finn CE, Thomas J. 2020. Elderberry: A new specialty crop for Missouri. University of Missouri Extension Guide G985.
-  - USDA NRCS. Sambucus nigra ssp. canadensis plant guide. USDA Natural Resources Conservation Service.
-  - Rawson NE, et al. 2022. A review of North American elderberry cultivars and their uses. HortScience, 57(2): 131–140.
-  - Byers PL, Thomas JE. 2018. Growing elderberries in Missouri. University of Missouri Extension, IPM1028.
-  - Osmani Z, et al. 2020. Elderberry: A review of query-what-are-the-main-bioactive-compounds-in-medicinal-plants, health benefits, and safety. Journal of Berry Research, 10(1): 107–131.
   - Moyer RA, et al. 2002. Anthocyanin composition of black elderberry (Sambucus nigra L.) juice. Journal of Agricultural and Food Chemistry, 50(19): 5459–5465.
 ---
 

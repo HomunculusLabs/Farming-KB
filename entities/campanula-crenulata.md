@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Grossheim, A.A. (1967). Flora of the Caucasus, 2nd ed. Vol. 7. Nauka, Moscow.
-  - Kolakovsky, A.A. (1985). "Flora of the Caucasus: A Synoptic Key." Sokhumi University Press.
-  - Shetekauri, S. & Gagnidze, R. (2005). "Campanulaceae of the Caucasus." Bulletin of the Georgian National Academy of Sciences.
   - Takhtajan, A.L. (ed.) (2001). Flora of Russia: The European Part and Bordering Regions. Balkema.
 ---
 

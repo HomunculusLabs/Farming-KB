@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bowers, J.E. (1992). "Helenium autumnale (Asteraceae): Nectar and pollen use by bumblebees." Great Basin Naturalist 52(3): 240–247.
-  - Clewell, A.F. (1985). "Guide to the Vascular Plants of the Florida Panhandle." Florida State University Press.
-  - USDA NRCS. "Helenium autumnale plant profile." plants.usda.gov.
-  - Cullina, W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Tallamy, D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 

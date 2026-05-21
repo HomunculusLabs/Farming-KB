@@ -57,7 +57,7 @@ The layer that bridges the reservoir and soil:
 The growing medium sits on top of the wicking medium:
 
 - **Depth:** Minimum 8-10 inches above the wicking medium. 12 inches is ideal for most vegetables.
-- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, [[compost]], and aeration material ([[perlite]], pumice, coarse sand) works well.
+- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, compost, and aeration material (perlite, pumice, coarse sand) works well.
 - **Do not use pure potting mix:** It's too light and wicks poorly. Include some mineral soil for better capillary action.
 - **Do not use garden soil straight:** It can become compacted and inhibit wicking. Mix with compost and aeration material.
 
@@ -137,13 +137,19 @@ The growing medium sits on top of the wicking medium:
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider [[companion-planting]] for pest management and efficient space use
+- Consider companion planting for pest management and efficient space use
 
-## See Also
-- [[wicking-bed-materials-construction-variants]]
-- [[wicking-bed-crop-selection-seasonal-management]]
 ## Maintenance
 
 - **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
 - **Top-dress with compost:** Apply 1-2 inches of compost each season
 - **Replace soil:** Every 2-3 years, replace the top few inches of soil with fresh compost-soil mix
+- **Clean reservoir:** Every 1-2 years, drain and flush the reservoir to remove sediment buildup
+- **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
+
+## Water Efficiency
+## See Also
+
+- [[wicking-bed-materials-construction-variants]]
+- [[comparison-wicking-bed-vs-raised-bed]]
+- [[wicking-bed-water-movement-physics]]

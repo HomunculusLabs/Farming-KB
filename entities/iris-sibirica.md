@@ -10,8 +10,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Mathew, B. (1989). The Iris. Batsford Press.
-  - Room, H. (2015). "Iris sibirica cultivar trials." RHS The Garden 140(3): 42-47.
-  - USDA NRCS Plants Database. Iris sibirica L. https://plants.usda.gov
   - Colon-Crillac, R. et al. (2018). "Phytochemistry of Siberian Iris." Phytochemistry 148: 15-28.
 ---
 

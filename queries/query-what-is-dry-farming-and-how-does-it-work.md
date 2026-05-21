@@ -5,7 +5,6 @@ tags: [query, dry-farming, water-conservation, soil-management, sustainable-agri
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
 

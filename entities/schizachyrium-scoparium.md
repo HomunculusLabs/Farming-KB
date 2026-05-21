@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Peeters, A. (2004). "Wild and sown grasses: profiles of a temperate species selection." Blackwell Publishing.
-  - USDA NRCS. "Schizachyrium scoparium." PLANTS Database.
-  - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
-  - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium, Utah State University.
   - Harpes, J.L. et al. (2003). "Schizachyrium scoparium (Michx.) Nash." In: Flora tropical-rainforest-seedling-mycorrhiza-ecological-restoration, ornamental landscaping, and livestock forage.
 ---
 

@@ -18,7 +18,6 @@ sources:
   - Marijuana Horticulture (Jorge Cervantes)
   - Teaming with Microbes (Lowenfels & Lewis)
   - Cannabis Living Soil Guide (concept page)
-  - Cannabis Soil and Nutrient Requirements (concept page)
 related_concepts:
   - cannabis-living-soil-guide
   - cannabis-soil-and-nutrient-requirements

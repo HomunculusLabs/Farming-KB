@@ -10,7 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rogers, D.L., Sturmbauer, C., Peery, M.Z. (2000). "Genetic Variation and the Status of Monterey Pine (*Pinus radiata* D. Don)." Forest Genetics, 7(1), 1–12.
   - Lavery, P.B., Mead, D.J. (1998). "Pinus radiata: A Narrow Endemic from coleman-sunlight-and-winter-crop-growth-rates in plantations are extraordinary, with mean annual increments of 25–40 m³/ha/year on good sites. Rotation lengths range from 25–35 years for pulpwood to 35–45 years for sawlogs.
 ---
 

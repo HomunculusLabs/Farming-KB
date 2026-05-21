@@ -1,4 +1,5 @@
 ---
+
 title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,9 +23,9 @@ sources:
 
 # Fermented Mixed Compost (FMC)
 
-Fermented Mixed Compost is KNF's signature [[composting]] method. It combines IMO-4 (cultivated [[indigenous-microorganisms]]) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
+Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated indigenous microorganisms) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
 
-FMC is the bridge between KNF liquid inputs and long-term soil building. While KNF sprays provide immediate nutrition, FMC builds [[the-soil-food-web]] infrastructure that sustains plant health between applications.
+FMC is the bridge between KNF liquid inputs and long-term soil building. While KNF sprays provide immediate nutrition, FMC builds the soil food web infrastructure that sustains plant health between applications.
 
 ## Two Methods
 
@@ -41,7 +42,7 @@ A straightforward approach for on-farm compost production.
 - Optional: FPJ, FAA, OHN, LAB diluted 1:1000 as moisture source
 
 **Process**:
-1. Prepare organic matter — chop crop residues into 5-10 cm pieces for faster [[decomposition]]
+1. Prepare organic matter — chop crop residues into 5-10 cm pieces for faster decomposition
 2. Mix organic matter with IMO-4 thoroughly on soil floor (not concrete)
 3. Adjust moisture to 60-65% (squeeze test: holds shape when squeezed, breaks when dropped)
 4. Build pile on soil floor — maximum height 50-70 cm
@@ -72,7 +73,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 | FPJ diluted 1:1000 | 20-30 L | Microbial energy |
 | FAA diluted 1:1000 | 10-20 L | Nitrogen boost |
 | OHN diluted 1:1000 | 10-20 L | Disease prevention |
-| LAB diluted 1:1000 | 10-20 L | [[lactic-acid-bacteria]] boost |
+| LAB diluted 1:1000 | 10-20 L | Lactic acid bacteria boost |
 | Seawater | 3-5 L | Full-spectrum minerals |
 | Water (non-chlorinated) | As needed | Moisture adjustment |
 
@@ -137,13 +138,17 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 
 ## Seasonal Timing
 
-Make FMC between November and March for best results. Cool, dry weather favors fermenting microbes ([[aspergillus-oryzae]], Absida, Mucor, Rhizopus) over bacteria. In summer's heat and humidity, bacteria multiply too fast and outcompete fermenters, causing decay. The first stage of FMC is saccharification — fermenting microbes make sugars unimpeded by bacteria in late fall/winter conditions.
+Make FMC between November and March for best results. Cool, dry weather favors fermenting microbes (Aspergillus oryzae, Absida, Mucor, Rhizopus) over bacteria. In summer's heat and humidity, bacteria multiply too fast and outcompete fermenters, causing decay. The first stage of FMC is saccharification — fermenting microbes make sugars unimpeded by bacteria in late fall/winter conditions.
 
 ## Material Selection Philosophy
 
 From Cho's recipe book — four principles for choosing FMC ingredients:
 
 1. **Include all four realms**: mountain (fallen leaf or fruit), paddy (rice bran or straw), field (oil dreg, bean dreg, bush clover), and sea (fish waste or seaweed)
-2. **Protein-rich animal materials**: bone meal, [[fish-meal]] as major ingredients alongside plant materials
+2. **Protein-rich animal materials**: bone meal, fish meal as major ingredients alongside plant materials
 3. **Avoid agricultural by-products** (chemically treated residues)
 4. **Microbe food = human food = plant food**: choose high-quality diverse materials
+## See Also
+
+- [[knf-fermented-mixed-compost]]
+- [[cho-fermented-mixed-compost-methods]]

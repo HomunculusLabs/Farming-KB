@@ -135,16 +135,20 @@ Cloches are individual plant protectors — small covers placed over single plan
 - Emergency frost protection for sensitive plants
 
 ## Succession Planting
+
+Succession planting is the practice of staggering plantings of the same crop at intervals to ensure continuous harvests rather than a single glut.
+
+### Methods
+
+- **Same crop, staggered dates**: Plant lettuce, beans, radishes, or carrots every 2-3 weeks.
+- **Same space, different crops**: Follow a spring crop (peas) with a summer crop (beans) and then a fall crop (garlic).
+- **Relay cropping**: Plant a second crop before the first is finished (intercropping with a time gap).
+- **Variety selection**: Plant early, mid, and late-season varieties of the same crop.
+
+### Planning
+
+- Know your first and last frost dates.
 ## See Also
 
-- [[seasonal-planning]] — Building your year-round planting calendar
-- [[raised-bed-gardening]] — Raised beds warm faster in spring
-- [[companion-planting-reference]] — Strategic plant combinations for season extension
-- [[homesteading]] — Maximizing self-sufficiency through extended seasons
-
-## Related
-
-- [[beekeeping-basics]]
-- [[drip-irrigation]]
-- [[seed-saving-techniques]]
-- [[cold-climate-gardening]]
+- [[greenhouse-gardening-and-season-extension]]
+- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]

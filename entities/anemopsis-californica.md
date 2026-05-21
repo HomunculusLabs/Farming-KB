@@ -21,9 +21,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moore, M. (1989). "Medicinal Plants of the Desert and Canyon West." Museum of New Mexico Press.
-  - Kamali, K.H. & Riegel, N. (1976). "The chemistry of Anemopsis californica." Journal of Pharmaceutical Sciences 65(11): 1764–1766.
-  - Medina, S. et al. (2005). "Antimicrobial activity of Anemopsis californica essential oil." Journal of Ethnopharmacology 98(3): 377–380.
   - Henrickson, J. (1976). "A revision of Anemopsis (Saururaceae)." Aliso 8(4): 451–465.
 ---
 

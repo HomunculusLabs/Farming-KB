@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Campbell, C.G. (1997). Grasspea: Lathyrus sativus L. Promoting the conservation and use of underutilized and neglected crops. IPGRI.
-  - Vaz Patto, M.C. et al. (2006). "Lathyrus sativus." In: query-best-grain-legumes-for-a-small-homestead, Springer.
-  - Lambein, F. et al. (2018). "Grass pea and its neurotoxin ODAP." Phytochemistry Reviews.
   - Hanbury, C.D. et al. (2000). "A review of Lathyrus sativus." Experimental Agriculture.
 ---
 

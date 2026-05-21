@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - van Scheepen, J. (1996). "Tulipa L." In: Flora of Turkey, Vol. 8. Edinburgh University Press.
-  - Christenhusz, M.J.M. et al. (2013). "Tulipa." In: World Checklist of Selected Plant Families. Royal Botanic Gardens, Kew.
-  - Le Nard, M. & de Hertogh, A.A. (1993). "The Physiology of Flower Bulbs." Elsevier Science.
   - Goldblatt, P. et al. (2006). "Molecular Systematics of Tulipa." Systematic Botany 31(3): 529–543.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bye, R. & Linares, E. (1983). "The role of plants found in the Mexican markets and their importance in ethnobotanical studies." Journal of Ethnobiology, 3(1), 1-13.
-  - Martínez, M. (1969). Las Plantas Medicinales de México. Ediciones Botas, México.
-  - Heiser, C.B. (1978). "The genus Porophyllum (Compositae)." Contributions from the Gray Herbarium of Harvard University, 208, 3-47.
   - Argueta, A. (1994). Atlas de las Plantas de la Medicina Tradicional Mexicana. Instituto Nacional Indigenista, México.
 ---
 

@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mehlenbacher, S.A. (2004). "Revised nomenclature of the filbert." Journal of the American Society for Horticultural Science 129(5): 708-713.
-  - Solar, A. et al. (2006). " hazelnut breeding." Plant Breeding Reviews 26: 281-354.
-  - Boccacci, P. et al. (2006). "Molecular characterization of hazelnut germplasm." Genome 49(6): 662-672.
   - Roversi, A. (1971). "uncommon-specialty-fruit-crops-for-permaculture." CABI Publishing.
 ---
 

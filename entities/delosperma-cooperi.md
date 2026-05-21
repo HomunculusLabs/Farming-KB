@@ -9,9 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hartmann, H.E.K. (2001). Illustrated Handbook of Succulent Plants: Aizoaceae A-E. Springer.
-  - Bouchenak-Khelladi, Y. et al. (2016). "Phylogeny and biogeography of Aizoaceae." Taxon, 65(4): 751-762.
-  - Royal Horticultural Society. Delosperma cooperi RHS Plant Finder record.
   - Rodgerson, C. (1998). "Delosperma: hardy ice plants." The Plantsman, 1(3): 148-154.
 ---
 

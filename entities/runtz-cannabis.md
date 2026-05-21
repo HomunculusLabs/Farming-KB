@@ -13,9 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly strain database. https://www.leafly.com/strains/runtz
   - AllBud strain information. https://www.allbud.com/
-  - Cookies Fam Genetics — original breeder information
   - "Phytochemical profiling of high-THC cannabis cultivars." Journal of vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015, 2023.
 ---
 

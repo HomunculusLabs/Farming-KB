@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Coursey, D.G. (1967). Yams: Account of the Nature, Origins, Cultivation and Utilisation of the Useful Species of Dioscorea. Longmans, London.
-  - Hahn, S.K. (1995). "Yam (Dioscorea spp.)." In: Advances in Agronomy, Vol. 52, pp. 215–266.
-  - IITA (International Institute of Tropical Agriculture). "Yam Production." Crop guides, Ibadan, Nigeria.
   - Mignouna, H.D. et al. (2009). "Yam genomics and breeding." In: Plant Breeding Reviews, Vol. 33.
 ---
 

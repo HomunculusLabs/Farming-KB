@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Craven, L.A. & Dawes, M.D. (2017). "Callistemon and Melaleuca — A Clarification." Australian Systematic Botany 30(5): 377-385.
-  - Harden, G.J. et al. (2014). "Flora of NSW, Volume 2." Royal Botanic Gardens & Domain Trust.
-  - Wrigley, J.W. & Fagg, M. (1993). "Bottlebrushes, Paperbarks and Tea Trees." Angus & Robertson.
   - Brophy, J.J. et al. (2000). "query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates worldwide.
 ---
 

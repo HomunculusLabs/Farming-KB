@@ -16,10 +16,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. 'Pineapple Express blesching-cannabis-strain-selection-receptor-targeting Information.' Leafly, https://www.leafly.com/strains/pineapple-express"
-  - "Wikileaf. 'Pineapple Express Strain Review.' Wikileaf, https://www.wikileaf.com/strain/pineapple-express"
-  - "AllBud. 'Pineapple Express marijuana-strain-guide-hybrid Information.' AllBud, https://www.allbud.com/marijuana-strains/hybrid/pineapple-express"
-  - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.' Cannabis and Cannabinoid Research."
   - " Cannabis Now. 'The Real Story Behind Pineapple Express.' https://cannabisnow.com"---
 ---
 
@@ -81,3 +77,5 @@ Technical challenges often relate to the complexity of interactions
 between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
+Further research into pineapple express continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind pineapple express provides a foundation for both practical application and continued scientific inquiry.

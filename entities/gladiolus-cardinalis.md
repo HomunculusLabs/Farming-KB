@@ -10,8 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Goldblatt, P. & Manning, J.C. (1998). "Gladiolus in Southern Africa." Fernwood Press.
-  - Goldblatt, P. (1996). "Iridaceae." Flora of Southern Africa, Vol. 7.
   - USDA NRCS Plants Database. "Gladiolus cardinalis." plants.usda.gov.
 ---
 

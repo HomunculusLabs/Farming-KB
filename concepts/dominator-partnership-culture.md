@@ -13,9 +13,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Riane Eisler (1987). "The Chalice and the Blade: Our History, Our Future." Harper & Row.
-  - Terence McKenna (1992). "Food of the Gods: The Search for the Original Tree of Knowledge." Bantam Books.
-  - Gimbutas, M. (1991). "The Civilization of the Goddess." Harper San Francisco.
   - Eisler, R. & Loye, D. (1990). "The Chalice and the Blade in Global History." Journal of Social Evolutionary Systems.
 ---
 

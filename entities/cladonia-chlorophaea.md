@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ahti T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum.
-  - Hammer S. (2001). "A revision of the Australian Cladonia." Bibliotheca Lichenologica 78.
   - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
 ---
 

@@ -11,8 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Ledig, F.T. et al. (2005). "Genetic variation in Picea breweriana." Canadian Journal of Forest Research 35(6): 1407–1418.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics chamaecyparis-lawsoniana*), white fir (*Abies concolor*), Shasta red fir (*tsuga-mertensiana*).
 ---
 

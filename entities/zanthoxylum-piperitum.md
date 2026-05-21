@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Onishi, Y. et al. (2018). "Phytochemical and pharmacological studies of Zanthoxylum piperitum." Journal of Natural Medicines, 72, 517–527.
-  - Honda, G. et al. (1996). "Illustrated Medicinal Plants of the World." Kyoritsu Shuppan Co., Tokyo.
-  - Huang, P. et al. (2020). "Evolutionary history of the temperate woody spice Zanthoxylum (Rutaceae)." Molecular Phylogenetics and Evolution, 143, 106676.
   - Kashiwada, Y. et al. (1997). "Antioxidants from the pericarp of Zanthoxylum piperitum." Phytochemistry, 44(6), 1125–1127.
 ---
 

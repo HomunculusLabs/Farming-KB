@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 ---# The Telluride Mushroom Festival and Modern Mycological Culture
 

@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Li JX et al. (2011). "Curcuma phaeocaulis: a review of its phytochemistry and pharmacology." Journal of Ethnopharmacology, 136(2), 507-517.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press.
-  - Ji DB et al. (2016). "Curcumol from Curcuma phaeocaulis induces apoptosis." Molecules, 21(3), 371.
-  - Joshi RK (2014). "Chemical composition and antimicrobial activity of Curcuma phaeocaulis rhizome essential oil." Journal of Pharmacy & Bioallied Sciences, 6(2), 144-147.
   - Chen W et al. (2019). "Germacrone suppresses tumor growth via multiple pathways." Frontiers in Pharmacology, 10, 589.
 ---
 

@@ -10,7 +10,6 @@ related: [savory-overgrazing-vs-overrest, savory-brittle-environments,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Rest as a [[savory-holistic-resource-management-animal-impact]] Management differs fundamentally
 from the short physiological rest a plant requires to recover from

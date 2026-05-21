@@ -10,10 +10,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "López, P. et al. (1999). \"Phytochemistry of conium-maculatum.\" Phytochemistry, 50(2), 277-281."
-  - "Vetter, J. (2004). \"Poison hemlock (Conium maculatum L.).\" Toxicon, 44(4), 363-366."
-  - "Frank, B.S. et al. (1995). \"Conium maculatum: A toxicological review.\" Veterinary and Human Toxicology, 37(4), 345-348."
-  - "Upadhyay, S. et al. (2010). \"Conium maculatum — an overview.\" International Journal of Pharmaceutical Sciences and Research, 1(9), 1-8."
   - "Coombe, D.E. (1956). \"Biological flora of the British Isles: Conium maculatum L.\" Journal of Ecology, 44(1), 281-292."
 ---
 

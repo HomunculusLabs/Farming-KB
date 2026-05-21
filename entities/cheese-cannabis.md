@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995–2014)." Drug and cannabis-for-alcohol-dependence, 171, 107–111.
-  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar II." Drug cannabis-cultivar-effects-soil-microbiome attribution." Scientific Reports, 9, 20523.
-  - Smart, R. et al. (2017). "cervantes-medical-marijuana-pharmacology policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
-  - UK Drug Policy Commission (2012). "Classification and the Misuse of Drugs Act: An Overview." London: UKDPC.
 created: 2026-04-28
 ---
 

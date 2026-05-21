@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
-  - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
-  - Glime, J.M. (2017). "Bryophyte Ecology." Vol. 1. Michigan Technological University.
   - Vitt, D.H. (1988). "Mosses of the Lake Superior Region." Michigan State University Press.
 ---
 

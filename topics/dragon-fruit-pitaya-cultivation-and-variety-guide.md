@@ -4,13 +4,6 @@ tags: [dragon-fruit, pitaya, tropical-fruit, cactus, cultivation, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mizrahi, Y. et al. (1997). 'Hylocereus: A new fruit crop for the Negev Desert of Israel.' Acta Horticulturae, 434, 21–30."
-  - "FAO. (2022). FAOSTAT: Food and Agriculture Organization Corporate Statistical Database. Rome: FAO."
-  - "Le Bellec, F. et al. (2006). 'The Dragon Fruit (Hylocereus spp.): A Fruit Crop for the Dry Tropics?' Fruits, 61(5), 327–336."
-  - "Crane, J.H. & Balerdi, C.F. (2005). 'Pitaya Growing in the Florida Home Landscape.' UF/IFAS Extension EDIS, HS1068."
-  - "Nerd, A. & Mizrahi, Y. (1999). 'The effect of ripening stage on fruit quality after storage.' Postharvest Biology and Technology, 15(2), 103–110."
-  - "Raveh, E. et al. (1998). 'Phenology and breeding system of the climbing cactus Hylocereus polyrhizus.' Annals of Botany, 82(4), 429–434."
-  - "California Rare Fruit Growers (CRFG). 'Dragon Fruit Fruit Facts.' crfg.org."
   - "Royal Horticultural Society (RHS). 'Hylocereus (Dragon Fruit).' rhs.org.uk."
 ---
 

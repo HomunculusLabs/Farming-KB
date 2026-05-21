@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Racchi, M.L. et al. (2018). "Abrus precatorius: A Review on Its Phytochemistry and Pharmacology." Phytomedicine, 50, 201-210."
-  - "Mack, R.N. (1991). "The Commercial Seed Trade: An Early disperser of Weeds in the United States." Economic Botany, 45(2), 257-273."
-  - "Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. E.&S. Livingstone."
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 

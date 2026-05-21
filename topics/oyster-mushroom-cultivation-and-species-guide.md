@@ -14,8 +14,6 @@ tags:
 related:
   - mushroom-cultivation-fundamentals
   - mushroom-substrate-preparation-and-formulation
-  - mushroom-spawn-production-and-laboratory-techniques
-  - mushroom-contamination-identification-and-troubleshooting
   - advanced-gourmet-mushroom-cultivation
   - medicinal-mushroom-cultivation-and-use
 ---

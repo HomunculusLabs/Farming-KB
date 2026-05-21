@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
-  - Katsuki, T. et al. (2013). "Genetic variation in Cryptomeria japonica populations." Tree Genetics & Genomes, 9, 645–658.
   - Japan Forest Agency (2020). "National Forest Inventory Report." Ministry of Agriculture, Forestry and Fisheries.
 ---
 

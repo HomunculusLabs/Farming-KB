@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Compost Substrates (Agaricus)
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,11 +20,11 @@ sources:
 
 # Mushroom Compost Substrates (Agaricus)
 
-Compost preparation for Agaricus (button mushroom) [[straw-substrate-pasteurization-methods-mushroom-cultivation]] from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
+Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
 
 ## Purpose of Composting
 
-The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I ([[stamets-cultivator-wood-lovers-bed-preparation-outdoor]] mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
+The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I (outdoor mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
 
 ## Compost Formulas (Stamets)
 
@@ -73,9 +74,14 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[mushroom-species-guide]] — Species-specific substrate requirements
 - [[mushroom-contamination-identification]] — Contamination prevention and recovery
+## Current Research
 
-## Current Research Directions
+Recent studies on mushroom compost substrates have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
 
-Ongoing studies continue to explore new aspects of this topic.
-Recent advances have provided deeper insights into the mechanisms involved.
-These developments have practical implications for both researchers and practitioners.
+## Practical Considerations
+
+Practitioners working with mushroom compost substrates should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

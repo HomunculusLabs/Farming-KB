@@ -15,15 +15,15 @@ Edible wild mushroom species vary significantly by region in North America. This
 
 ### Spring (April-June)
 - **Morels (Morchella americana, M. esculentoides)**: Peak in May; under dead elms, ash, tulip poplar, and old apple trees; black morels appear first, followed by yellow and half-free morels
-- **[[oyster-mushrooms]] ([[pleurotus-ostreatus]])**: On dead hardwood; available spring through fall
+- **Oyster mushrooms (Pleurotus ostreatus)**: On dead hardwood; available spring through fall
 - **Dryad's saddle (Cerioporus squamosus)**: May on dead elm; only young specimens are edible; can be tough
-- **Pheasant back ([[polyporus-umbellatus]])**: Spring on dead maple and oak
+- **Pheasant back (Polyporus umbellatus)**: Spring on dead maple and oak
 
 ### Summer (June-August)
 - **Chanterelles (Cantharellus cibarius)**: Late June through August; oak and beech forests
-- **[[chicken-of-the-woods]] ([[laetiporus-sulphureus]])**: June onward; on oak and other hardwoods
+- **Chicken of the woods (Laetiporus sulphureus)**: June onward; on oak and other hardwoods
 - **Black trumpet (Craterellus fallax)**: Late summer in mixed hardwood forests
-- **Boletes ([[boletus-edulis]], B. bicolor, B. pallidus)**: Mid-summer; under oaks and conifers
+- **Boletes (Boletus edulis, B. bicolor, B. pallidus)**: Mid-summer; under oaks and conifers
 
 ### Fall (September-November) -- Peak Season
 - **Hen of the woods/Maitake (Grifola frondosa)**: September-October; base of oak trees; can be enormous (up to 50 lbs)
@@ -143,8 +143,13 @@ Edible wild mushroom species vary significantly by region in North America. This
 - **Black trumpet (Craterellus cornucopioides)**: Winter in coastal forests
 
 ## Dangerous Look-alikes by Region
+
+### Amanita Species (Nationwide)
+- **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible paddy straw mushroom
+- **Destroying angel (A. virosa, A. bisporigera)**: White mushroom in the button stage resembles meadow mushroom and puffballs
+- Always check for: white gills, volva (cup at base), ring on stem, growing from volva in soil
 ## See Also
 
-- [[mushroom-foraging-safety]] -- ethical harvesting practices for all regions
-- [[mushroom-cooking-techniques]] -- how to prepare your regional finds
-- [[mushroom-festivals-and-events]] -- forays and events by region
+- [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
+- [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
+- [[edible-wild-mushrooms-foraging-guide]]

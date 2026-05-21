@@ -10,8 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Smith, E.B. (2006). "Coreopsis." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
-  - USDA NRCS (2024). "Coreopsis lanceolata L." PLANTS Database. https://plants.usda.gov
   - Radford, A.E. et al. (1968). *Manual of the Vascular Flora of the Carolinas*. University of dmt-containing-plants-united-states-halpern, where it inhabits open woodlands, prairies, and roadsides.
 ---
 

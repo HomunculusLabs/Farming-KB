@@ -5,7 +5,6 @@ tags: [peroxidase, pah-degradation, lignin-peroxidase, manganese-peroxidase, fun
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Peroxidase-Catalyzed PAH Degradation by Fungi
 

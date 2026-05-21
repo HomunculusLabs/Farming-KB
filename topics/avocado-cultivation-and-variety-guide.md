@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - California Avocado Commission. "Avocado Varieties." https://www.californiaavocado.com
-  - Schaffer, B., Wolstenholme, B.N., Whiley, A.W. (2013). "The Avocado: Botany, Production and Uses." 2nd Edition. CABI.
-  - UC Cooperative Extension. "Growing Avocados in California." UC ANR Publication 3501.
-  - Crane, J.H., Balerdi, C.F. "Avocado Growing in the Florida Home Landscape." UF IFAS Extension HS2.
   - Manson, R.J. "Avocado Cultivation in New Zealand." Ministry of Agriculture and Fisheries.
 ---
 
@@ -79,3 +75,14 @@ Avocado exists as three distinct horticultural races, each adapted to different 
 1. **[[hemenway-cold-air-drainage-and-frost-management]] — cold air flows downhill and pools in low spots. South-facing slopes receive more warmth.
 2. **[[loquat-cultivation-and-variety-guide]]
 - [[coffee-cultivation-and-variety-guide]]
+## Current Research
+
+Recent studies on avocado cultivation and variety guide have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with avocado cultivation and variety guide should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

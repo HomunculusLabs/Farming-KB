@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Maguire, B. (1978). "The genus Heliamphora (Sarraceniaceae) of the Guayana Highlands." Brittonia, 30(3), 310-323.
-  - Wistuba, A., Harbarth, P., Carow, T. (2001). "Carnivorous Plants of the Venezuelan Tepuis." Koeltz Scientific Books.
-  - Brewer, J.S. (1999). "Effects of fire and competition on the recruitment and survival of Sarracenia and Heliamphora." American Journal of Botany, 86(7), 1052-1057.
-  - Jaffe, K. et al. (1992). "Chemical ecology of the pitcher plant Heliamphora nutans." Chemoecology, 3(1), 23-28.
   - McPherson, S. (2007). "Pitcher Plants of the Americas." Redfern Natural History Productions.
 ---
 

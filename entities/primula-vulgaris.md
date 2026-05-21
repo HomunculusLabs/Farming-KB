@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Richards, A.J. (2003). "Primula." 2nd ed. B.T. Batsford, London.
-  - Valente, L.M. et al. (2010). "Systematics and Evolution of *Primula*." In: Primulaceae. Springer.
-  - Mast, A.R. et al. (2001). "Molecular Phylogenetics of Primulaceae." American Journal of Botany 88(10): 1911–1924.
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
 ---
 

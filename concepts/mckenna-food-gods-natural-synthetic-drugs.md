@@ -5,7 +5,6 @@ tags: [drugs, natural, synthetic, mckenna, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
 ---

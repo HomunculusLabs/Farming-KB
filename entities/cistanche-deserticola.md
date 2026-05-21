@@ -5,9 +5,6 @@ tags: [medicinal-plant, parasitic-plant, tcm-herb, desert-ecology, orobanchaceae
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Lu, Y. et al. (2024). Phytochemistry and pharmacology of Cistanche deserticola. Journal of Ethnopharmacology, 321, 117925."
-  - "Duan, J.A. et al. (2023). Cistanche species: chemical constituents and biological activities. Phytomedicine, 114, 154862."
-  - "Wang, Y. et al. (2022). Conservation genetics of Cistanche deserticola in the Gobi Desert. Biological Conservation, 272, 109637."
   - "Zheng, H. et al. (2021). Cistanche deserticola polysaccharides: structure, bioactivity, and applications. Carbohydrate Polymers, 260, 117812."
 ---
 

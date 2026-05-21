@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H. (1984). Sphagnaceae of psilocybin-north-america-pacific-northwest. University of Michigan Herbarium.
-  - Andrus, R.E. (1980). "Sphagnaceae." Flora of North America North of Mexico, Vol. 2.
-  - Rydin, H. & Jeglum, J.K. (2006). The Biology of Peat Mosses. University of Helsinki Press.
   - Clymo, R.S. & Hayward, P.M. (1982). "The ecology of Sphagnum." Bryological Times 30: 1–21.
 ---
 

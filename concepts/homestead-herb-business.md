@@ -24,13 +24,13 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 - Lavender: perennial, flowers and leaves, crosses into crafts and medicine
 - Mint: perennial, spreads aggressively (contain it), popular for tea
 
-### [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]] (Higher Margin, Niche Market)
+### Medicinal Herbs (Higher Margin, Niche Market)
 - Chamomile: calming tea, easy to grow, high demand
 - Echinacea: immune support, popular tincture ingredient
 - Lemon balm: calming, easy to grow, perennial
 - Calendula: skin healing, salves, infused oils, annual
 - Peppermint: digestive, tea, tincture
-- [[yarrow]]: wound healing, fever reduction, perennial
+- Yarrow: wound healing, fever reduction, perennial
 - Holy basil (tulsi): adaptogen, growing popularity
 - Valerian: sleep aid, root harvest, perennial
 - Elderberry: syrup, immune support, shrub
@@ -90,7 +90,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Shelf life: 3-5 years
 
 ### Salves and Balms
-- Create herb-infused oil first: slow-cook dried herbs in carrier oil ([[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]], coconut, jojoba) on low heat for 2-4 hours or solar infuse for 2-4 weeks
+- Create herb-infused oil first: slow-cook dried herbs in carrier oil (olive, coconut, jojoba) on low heat for 2-4 hours or solar infuse for 2-4 weeks
 - Strain oil
 - Combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio by weight)
 - Heat gently until beeswax melts
@@ -144,7 +144,10 @@ Start with 5-8 varieties. Recommended starter mix:
 ## Sales Channels
 
 - Farmers markets: see [[farmers-market-selling-guide]] for booth and display guidance
-- Online: Etsy, Shopify, see [[online-homestead-sales]]
+- Online: Etsy, Shopify, see online homestead sales
 - CSA additions: herb shares, dried herb boxes
 - Local stores: natural food stores, gift shops, co-ops
 - Herbalists and practitioners: wholesale to acupuncturists, naturopaths
+## See Also
+
+- [[homestead-mushroom-business]]

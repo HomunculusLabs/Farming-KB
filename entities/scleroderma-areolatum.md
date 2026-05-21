@@ -9,9 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI.
-  - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
-  - Bougher, N.L. & Syme, K. (1998). "Fungi of Southern Australia." University of Western Australia Press.
   - Castellano, M.A. et al. (1989). "Key to the Species of Scleroderma." Mycotaxon 34: 387–395.
 ---
 

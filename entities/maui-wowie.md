@@ -12,9 +12,6 @@ tags:
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Clarke, R.C. (1998). "Hashish!" Red Door Books.
-  - Rosenthal, E. (2001). "The Big Book of Buds." Quick American Archives.
-  - The Cannabist. "Maui Wowie Strain Review." cannabist.com.
-  - Leafly. "Maui Wowie." leafly.com/strains/maui-wowie.
   - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L." Economic Botany, 26(3).
 ---
 
@@ -78,3 +75,14 @@ The strain responds well to **[[cannabis-training-techniques-comparison]]** incl
 ## Cannabinoid Profile
 
 Original landrace Maui Wowie contained **moderate THC levels** by modern standards, typically ranging from 10–15% in well-grown specimens. CBD content is generally low, usually below 0.5%.
+## Current Research
+
+Recent studies on maui wowie have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with maui wowie should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

@@ -11,10 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Lis-Balchin, M. (2002). "Lavender: The Genus Lavandula." Taylor & Francis.
-  - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
-  - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender permaculture-designers-manual-essential-oil-plants." Phytotherapy Research.
-  - European Medicines Agency (2013). "Assessment report on Lavandula angustifolia Mill." EMA/HMPC/5892/2009.
   - Prashar, A. et al. (2004). "Chemical composition of cannabis-honey-oil-production.
 ---
 

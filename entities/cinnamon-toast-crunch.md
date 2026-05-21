@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database. "Cinnamon Toast Crunch." leafly.com.
-  - AllBud. "Cinnamon Toast Crunch blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
-  - Wikileaf. "Cinnamon Toast Crunch Strain Review." wikileaf.com.
-  - Growers Network. "Modern Cookie-Lineage Hybrids: Genetics and cannabis-terpene-profiles-sativa." growersnetwork.org.
 created: 2026-04-28
 ---
 

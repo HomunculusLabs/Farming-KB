@@ -1,4 +1,5 @@
 ---
+
 title: Homestead Startup Checklist
 created: 2026-04-11
 updated: 2026-04-12
@@ -129,21 +130,21 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Establish [[food-forest-design]] guilds with understory planting
 - [ ] Build integrated mushroom cultivation on logs and spent substrate
 - [ ] Set up greywater system from house to garden
-## See Also
+- [ ] Explore solar panels, rocket stove, or other energy systems
 
-- [[homesteading-infrastructure]] \u2014 core systems design and layout
-- [[seasonal-planning]] \u2014 full monthly task calendar for Zone 7-8
-- [[permaculture-design]] \u2014 zone and sector analysis methodology
-- [[duck-keeping]] \u2014 breed selection, housing, feed, predator protection
-- [[goat-keeping]] \u2014 breeds, fencing, pasture, health, dairy
-- [[food-forest-design]] \u2014 seven layers, guilds, planting order
-- [[greenhouse-design]] \u2014 types, sizing, passive solar, budget
-- [[composting-systems]] \u2014 hot/cold composting, vermicompost, bokashi
-- [[water-management]] \u2014 catchment, irrigation, greywater
-- [[food-preservation-canning]] \u2014 canning, fermentation, dehydrating, root cellaring
-- [[seed-saving-techniques]] \u2014 open-pollinated varieties, isolation, storage
-- [[cover-cropping-guide]] \u2014 cover crop selection and management
+## First Year Calendar
 
-## Related
-
-- [[outdoor-shelter-building]]
+| Month | Focus | Key Actions |
+|-------|-------|-------------|
+| Jan | Plan | Soil test, seed orders, zone mapping, fencing |
+| Feb | Seeds | Start onions/peppers indoors, prune fruit trees, order animals |
+| Mar | Soil | Direct sow cool crops, build beds, start compost, get ducklings |
+| Apr | Plant | Transplant tomatoes/peppers, set up duck housing, first pasture rotation |
+| May | Grow | Everything in ground, start goat pasture rotation, compost tea weekly |
+| Jun | Maintain | Succession planting, pest management, flip cannabis to flower |
+| Jul | Peak | Harvest daily, preserve, mulch heavily, monitor animals |
+| Aug | Preserve | Can/freeze/dry peak harvest, start fall crops, cover crop empty beds |
+| Sep | Harvest | Peak harvest, cure cannabis, winterize animal housing |
+| Oct | Winterize | Plant garlic/cover crops, root cellaring, clean grow space |
+| Nov | Rest | Mulch perennials, greenhouse winter growing, evaluate year |
+| Dec | Plan | Tool repair, seed orders, review and adjust systems |

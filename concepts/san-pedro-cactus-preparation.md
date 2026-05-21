@@ -70,7 +70,7 @@ This method breaks cell walls for more efficient extraction:
 1. Chop cleaned cactus flesh into small pieces
 2. Place in a freezer bag and freeze solid (24 hours minimum)
 3. Thaw completely
-4. Repeat freeze-[[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]] 2–3 times
+4. Repeat freeze-thaw cycle 2–3 times
 5. After the final thaw, proceed with the tea method above — extraction will be more complete
 
 ### Method 3: Resin Extraction
@@ -113,7 +113,7 @@ Effects include:
 San Pedro is exceptionally easy to grow from cuttings:
 
 1. Allow a cut section to callus (dry and seal) for 2–4 weeks in a shaded, dry area
-2. [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] the callused end 3–5 cm deep in well-draining cactus soil
+2. Plant the callused end 3–5 cm deep in well-draining cactus soil
 3. Do not water until roots form (2–6 weeks)
 4. Once rooted, water thoroughly then allow soil to dry completely between waterings
 5. Provide full sun to partial shade

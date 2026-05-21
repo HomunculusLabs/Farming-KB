@@ -11,9 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Jensen U, Nielsen LR (2018). "Aconitum septentrionale: biology and alkaloid chemistry of the northern monkshood." Nordic Journal of Botany 36(11): 1–12.
-  - Nyman MC, Ahlner J (2020). "Diterpene alkaloids in Scandinavian Aconitum species." Phytochemistry Letters 35: 120–128.
-  - Mossberg B, Stenberg L (2018). Den nordiska floran. Bonnier Fakta, Stockholm.
   - Karlsson T (2022). "Poisoning incidents involving Aconitum septentrionale in northern Sweden." Clinical Toxicology 60(5): 589–595.
 ---
 

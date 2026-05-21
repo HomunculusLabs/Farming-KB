@@ -9,8 +9,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gibson, M.R. et al. (2012). "Multiple origins of carnivory within Droseraceae." American Journal of Botany, 99(8), 1412-1423.
-  - Rivadavia, F. et al. (2003). "A phylogenetic analysis of Drosera." Botanical Journal of the Linnean Society, 143(4), 473-490.
   - Schlauer, J. (2009). "Drosera regia Stephens." In: Carnivorous Plant Database. Available at: http://www.omnisterra.com/bot/cp_home.cgi
 ---
 
@@ -79,3 +77,5 @@ Understanding the underlying mechanisms enables optimization and troubleshooting
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+Further research into drosera regia continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind drosera regia provides a foundation for both practical application and continued scientific inquiry.

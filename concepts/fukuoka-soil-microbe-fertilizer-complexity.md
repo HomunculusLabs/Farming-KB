@@ -1,9 +1,7 @@
 ---
 title: "Fukuoka's Argument on Soil Microbe–Fertilizer Complexity"
 aliases:
-  - soil fukuoka soil microbe fertilizer complexity unpredictability
   - fertilizer recklessness argument
-  - epistemological critique of fukuoka-fertilizer-critique-detailed
 related_concepts:
   - "fairy-rings-mycelium-ecology-soil"
   - "four-principles-of-natural-farming — Fertilizer"

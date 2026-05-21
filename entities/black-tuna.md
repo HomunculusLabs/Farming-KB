@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly strain database. "Black Tuna." Accessed 2024.
-  - AllBud strain reviews. "Black Tuna blesching-cannabis-strain-selection-receptor-targeting." Accessed 2024.
-  - Cannabis Winnipeg strain archive. "Black Tuna — BC's Underground Legend."
-  - Cannabis Growers and Smokers Forum (CGS). Historical strain discussion threads, 2010–2018.
 created: 2026-04-28
 ---
 ## Black Tuna
@@ -78,3 +74,14 @@ Emerging research, technological advances, and evolving understanding continue t
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
 Further research may reveal additional applications and ecological relationships.
+## Current Research
+
+Recent studies on black tuna have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with black tuna should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

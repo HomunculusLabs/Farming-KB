@@ -13,14 +13,14 @@ Timber framing is a traditional building method where large timbers are joined t
 
 ## History
 
-Timber framing has been practiced for thousands of years across Europe, Asia, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] Americas. Notable traditions include:
+Timber framing has been practiced for thousands of years across Europe, Asia, and the Americas. Notable traditions include:
 
-- **European half-timber (Fachwerk):** Exposed [[comparison-bamboo-construction-vs-timber-frame-basics]] with wattle-and-daub or brick infill
+- **European half-timber (Fachwerk):** Exposed timber frame with wattle-and-daub or brick infill
 - **Japanese post-and-beam:** Complex joinery with minimal metal, often using reclaimed timber
 - **New England timber frame:** Brought by English colonists; evolved into the classic American barn
-- **British cruck frame:** Large curved timbers (crucks) forming the full height [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] building
+- **British cruck frame:** Large curved timbers (crucks) forming the full height of the building
 
-The craft declined with the introduction of stick framing (dimensional lumber with nails) [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mid-1800s but has seen a strong revival since the 1970s.
+The craft declined with the introduction of stick framing (dimensional lumber with nails) in the mid-1800s but has seen a strong revival since the 1970s.
 
 ## Wood Selection
 
@@ -29,7 +29,7 @@ The craft declined with the introduction of stick framing (dimensional lumber wi
 Choose locally available species when possible:
 
 - **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with hand tools.
-- **[[douglas-fir]]:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
+- **Douglas fir:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
 - **Eastern white pine:** Light, easy to work, adequate for smaller structures. Less rot resistant — keep out of ground contact.
 - **Hemlock:** Strong, rot resistant, widely available in eastern North America. Can be brittle in tension.
 - **Cedar (western red, eastern):** Naturally rot resistant, lighter weight. Good for exposed exterior elements.
@@ -55,7 +55,7 @@ Timber frame joinery uses interlocking wood-to-wood connections secured with woo
 
 ### Mortise and Tenon
 
-The fundamental timber frame joint. A rectangular hole (mortise) is cut into one timber, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] corresponding projection (tenon) is cut on the mating timber.
+The fundamental timber frame joint. A rectangular hole (mortise) is cut into one timber, and a corresponding projection (tenon) is cut on the mating timber.
 
 - **Through tenon:** Tenon passes completely through the mortise, visible on the far side. Strong and classic.
 - **Blind tenon:** Tenon stops inside the mortise, not visible. Cleaner appearance.
@@ -97,7 +97,7 @@ A bent is a cross-sectional assembly of posts, beams, and braces that forms one 
 
 - **Common rafter:** Rafters bear on plates, ridge, and sometimes purlins
 - **Principal rafter and purlin:** Large principal rafters support purlins, which in turn carry common rafters
-- **Hammerbeam:** A sophisticated medieval design where short horizontal beams (hammerbeams) project from the [[plant-cell-wall-and-water-pathways]] support the roof structure
+- **Hammerbeam:** A sophisticated medieval design where short horizontal beams (hammerbeams) project from the wall and support the roof structure
 - **King post truss:** A central vertical post with angled struts — simple and efficient for spans up to 30 feet
 - **Queen post truss:** Two vertical posts with a connecting tie beam — suitable for longer spans
 
@@ -134,11 +134,9 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Light straw-clay:** Insulative infill within temporary forms between timbers
 - **Hempcrete:** Pack or spray hemp-lime mix around the frame
 - **Cob:** Build cob walls between the timbers or use cob as an exterior skin
-- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, [[cellulose]], or mineral wool
+- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, cellulose, or mineral wool
 - **Structural insulated panels (SIPs):** Pre-fabricated foam-core panels attached to the outside of the frame
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Tools
 
 ### Hand Tools (Traditional)
@@ -147,3 +145,10 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Hand saws (rip and crosscut):** Cutting timbers to length
 - **Chisels (1/4 inch to 2 inch):** Cutting mortises and tenons
 - **Mallet:** Driving chisels — use a wooden mallet to avoid damaging chisel handles
+- **Boring machine or brace and bit:** Drilling peg holes and mortises
+- **Hand plane (jack and smoothing):** Flattening and finishing surfaces
+- **Drawknife and spokeshave:** Shaping curved elements
+## See Also
+
+- [[comparison-reciprocal-roof-vs-timber-frame]]
+- [[comparison-timber-frame-vs-rammed-earth]]

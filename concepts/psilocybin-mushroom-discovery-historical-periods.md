@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
 type: concept
 ---
 

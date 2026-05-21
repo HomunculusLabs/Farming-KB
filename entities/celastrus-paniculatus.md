@@ -11,8 +11,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Raju K., et al. (2013). "Nootropic activity of Celastrus paniculatus seed." Pharmacognosy Reviews.
-  - Bhanumathy M., et al. (2010). "Celastrus paniculatus Willd.: A review." International Journal of Pharmaceutical Sciences.
   - Gattu M., et al. (1997). "Celastrus paniculatus seed oil improves learning and memory." Journal of Ethnopharmacology.
 ---
 

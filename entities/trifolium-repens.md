@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (1983). Handbook of Energy Crops. Purdue University Center for New Crops and Plant Products.
-  - Frame, J. (2005). "Forage legumes for temperate grasslands." Science Publishers.
-  - Sweets, L. (2021). "White clover (Trifolium repens): A review of its uses, benefits, and management." Permaculture Research Institute.
   - National Institute of Health. (2020). "Isoflavones in red and white clover: A review of their pharmacological properties."
 ---
 ## Trifolium repens

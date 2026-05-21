@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Tutin, T.G. & Heywood, V.H. (1964). "Flora Europaea, Vol. 1." Cambridge University Press.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Pharmacists, Doctors, Toxicologists, Biologists." 2nd ed., Manson Publishing.
-  - Ruijgrok, H.W.L. (1966). "The Distribution of Ranunculin and Protoanemonin in the Ranunculaceae." Proc. Koninklijke Nederlandse Akademie van Wetenschappen, 69C: 591–603.
   - Holm, L. et al. (1997). "World Weeds: Natural Histories and Distribution." John Wiley & Sons.
 ---
 

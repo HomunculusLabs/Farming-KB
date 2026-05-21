@@ -11,8 +11,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "Rix, M. (1997). Dianthus. Timber Press."
-  - "Royal Horticultural Society. (2023). Dianthus barbatus — Sweet William."
-  - "Valdés, B. (2012). Caryophyllaceae. In Euro+Med PlantBase."
   - "Jäger, E.J. et al. (2008). Rothmaler Exkursionsflora. Spektrum."
 ---
 

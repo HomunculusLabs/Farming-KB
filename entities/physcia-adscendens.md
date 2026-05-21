@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
-  - Smith, C.W. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Nash III, T.H. et al. (2002). "Lichen Flora of the Greater Sonoran Desert Region." Vol. 1. ASU.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens psilocybe-semilanceata and is considered an indicator of moderate to high nitrogen enrichment.
 ---
 

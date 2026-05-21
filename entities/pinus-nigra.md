@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Richardson, D.M. (1998). "Pinus nigra." Ecology and Biogeography of Pinus. Cambridge University Press.
-  - Farjon, A. (2013). "Pinus nigra." A Handbook of the World's Conifers. Brill.
-  - EUFORGEN (2009). "Pinus nigra: Technical Guidelines for Genetic Conservation." European Forest Genetic Resources Programme.
-  - Katsavouni, S. (1990). "Pinus nigra Arnold in Greece." PhD Thesis, Aristotle University of Thessaloniki.
   - Isajev, V. et al. (2004). "Genetic resources of European black pine (Pinus nigra Arnold)." Silva Balcanica, 5(1), 15–28.
 ---
 

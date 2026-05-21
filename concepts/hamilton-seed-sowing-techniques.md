@@ -5,7 +5,6 @@ tags: [seeds, propagation, organic-gardening, hamilton, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 type: concept
 ---# Seed Sowing Techniques in Organic Gardening
 

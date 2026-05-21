@@ -11,9 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Browicz, K. (1982). "Chorology of nitrogen-fixing-trees-and-shrubs in South-West Asia." Polish Academy of Sciences.
-  - Denk, T. & Grimm, G.W. (2009). "Significance of pollen characteristics for inferring evolutionary relationships in Fagus." Botanical Journal of the Linnean Society.
-  - Tilia, D. (2004). "The genus Fagus in southeastern Europe and western Asia." Turkish Journal of Botany.
   - EUFORGEN (2023). "Fagus orientalis — Genetic Resources." European Forest Genetic Resources Programme.
 ---
 

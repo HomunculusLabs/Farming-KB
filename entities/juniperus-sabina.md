@@ -11,10 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. Medpharm Scientific Publishers.
   - Tutin, T.G. et al. (1993). "Flora Europaea, Volume 1." 2nd ed. Cambridge University Press.
 ---
 

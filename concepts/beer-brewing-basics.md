@@ -35,7 +35,7 @@ The backbone of beer. Malted barley provides fermentable sugars. During malting,
 ### Hops
 Provide bitterness (to balance malt sweetness), flavor, and aroma. Also act as a natural preservative.
 
-- Bittering hops: added early in the boil (60-90 minutes). [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] alpha acid varieties (Magnum, Chinook, Columbus).
+- Bittering hops: added early in the boil (60-90 minutes). High alpha acid varieties (Magnum, Chinook, Columbus).
 - Flavor hops: added mid-boil (15-30 minutes). Moderate alpha acid (Citra, Centennial, Willamette).
 - Aroma hops: added late in the boil (0-5 minutes) or during dry-hopping. High aromatic oils (Cascade, Simcoe, Mosaic, Saaz).
 - Hop forms: pellet (most common), whole leaf, or plug.
@@ -108,7 +108,7 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 - Cap immediately.
 - Store at room temperature (65-75F) for 2-3 weeks.
 - Refrigerate for 24 hours before serving.
-- Alternative: kegging with a CO2 [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] provides faster carbonation (2-3 days) and eliminates bottling labor.
+- Alternative: kegging with a CO2 system provides faster carbonation (2-3 days) and eliminates bottling labor.
 
 ## Growing Your Own Ingredients
 

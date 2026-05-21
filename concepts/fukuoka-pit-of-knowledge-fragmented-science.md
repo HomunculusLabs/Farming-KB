@@ -4,9 +4,7 @@ tags: [fukuoka, epistemology, scientific-method, natural-farming, philosophy, mu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-road-back-to-nature.md
-  - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 created: 2026-04-28
 type: concept
 ---

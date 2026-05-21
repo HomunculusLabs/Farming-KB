@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
-  - Dirr, M.A. (1998). "Manual of Woody Landscape Plants." Stipes Publishing.
-  - Walters, R.S. & Yawney, H.W. (1990). "Acer rubrum." In: Silvics of North America, Vol. 2. USDA.
   - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 

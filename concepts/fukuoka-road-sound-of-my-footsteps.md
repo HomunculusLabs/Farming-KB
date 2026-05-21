@@ -5,8 +5,6 @@ tags: [travel, europe, philosophy, culture, observation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - "raw/papers/one-fukuoka-road-one-straw-revolution-continuation"
 type: concept
 ---
 

@@ -10,11 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann A (1978). "Psychotomimetic agents." In: Handbook of Experimental Pharmacology, Vol. 45. Springer.
-  - Stoll A, Hofmann A (1943). "Partialsynthese von Alkaloiden vom Typus des Ergobasins." Helvetica Chimica Acta, 26, 944-955.
-  - Rothlin E, Cerletti A (1949). "Pharmacology of the ergot alkaloids." Journal of Pharmacy and Pharmacology, 1(8), 593-606.
-  - US Pharmacopeia (2023). "Ergonovine Maleate Monograph." USP-NF.
-  - Speeter M, Anthony WC (1954). "Ergonovine and related compounds." Journal of the American Chemical Society, 76, 6208-6212.
 created: 2026-04-28
 ---
 

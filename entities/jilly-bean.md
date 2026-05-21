@@ -11,10 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Subcool, T.G.A. (2009). "The Dank: The Very Best of the Dank." Green Candy Press.
-  - cannabis.info strain database — Jilly Bean profile and user reviews.
-  - Leafly strain database — Jilly Bean (accessed 2026).
-  - Mudge, E.M. et al. (2018). "Cannabinoid and terpene profiling of commercial  strain created by
 Subcool of thc-content-factors-cultivation-freshness-storage-degradation-blesching typically ranges from 15–22%, with some phenotypes
 reaching 25%. CBD content is generally low (<1%). Jilly Bean is
 available in both regular and oner-jack-the-ripper-jacks-cleaner-space-queen — a Romulan × Cinderella 99 cross

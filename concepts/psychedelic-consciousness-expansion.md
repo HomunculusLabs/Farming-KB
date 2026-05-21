@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [psychedelics]
 sources:
-  - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
   - "raw/papers/leary-t-the-psychedelic-experience.md"
   - "raw/papers/the-psilocybin-mushroom-image-guide.md"
 ---

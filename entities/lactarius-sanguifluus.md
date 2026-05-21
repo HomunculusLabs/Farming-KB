@@ -17,12 +17,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Basso, M.T. (1999). Lactarius Pers. Fungi Europaei Volume 7. Edizioni Candusso, Allessandria."
-  - "Heilmann-Clausen, J., et al. (1998). The genus Lactarius in Denmark. Mycotaxon, 68, 313-334."
-  - "Nuytinck, J. (2005). Studies in Lactarius subgenus Dapetes. PhD thesis, Ghent University."
-  - "Berglund, L. & Miller, O.K. (2002). The Lactarius sanguifluus group in western psilocybin-north-america-pacific-northwest. Mycotaxon, 84, 161-170."
-  - "Breitenbach, J. & Kränzlin, F. (1991). Fungi of Switzerland Volume 3: Boletes and Agarics. Verlag Mykologia."
-  - "Fleming, A. (2013). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press."
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=184956"
 ---
 

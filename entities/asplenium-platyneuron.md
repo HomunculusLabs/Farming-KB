@@ -9,9 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Asplenium." Flora of guzman-psilocybin-mushrooms-north-america North of Mexico, Vol. 2. Oxford University Press.
-  - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
-  - USDA NRCS (2024). "Asplenium platyneuron Plant Profile." plants.usda.gov.
   - Haufler, C.H. et al. (2000). "Phylogeny of the fern genus Asplenium." Systematic Botany, 25(2), 230–244.
 ---
 

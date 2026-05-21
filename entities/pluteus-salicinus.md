@@ -5,7 +5,6 @@ updated: 2026-05-09
 type: entity
 tags: [species, fungi, basidiomycota, pluteaceae, pluteus, psilocybin, wood-inhabiting]
 sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 

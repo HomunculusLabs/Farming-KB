@@ -77,10 +77,5 @@ Sheet mulching accelerates ecological succession in the soil. The layered organi
 - [[food-forest-design]] — Using sheet mulch to establish food forests
 - [[soil-food-web-nutrient-cycling]] — The biology that sheet mulching supports
 - [[gaia-garden-plant-guilds]] — Plant communities that benefit from sheet-mulched soil
-
-Sheet Mulching represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
-
-## See Also
-- [[urban-rooftop-gardening-and-sheet-mulching]]
-- [[sheet-mulching-methods-urban-permaculture]]
-- [[sheet-mulching-lasagna-gardening]]
+Further research into sheet mulching continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind sheet mulching provides a foundation for both practical application and continued scientific inquiry.

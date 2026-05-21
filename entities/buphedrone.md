@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kelly JP (2011). "Cathinone derivatives: A review of their chemistry, pharmacology and toxicology." Drug soil-testing-and-analysis.
-  - Zawilska JB, Wojcieszak J (2013). "Designer cathinones — An emerging class of novel recreational drugs." Forensic Science International.
-  - EMCDDA (2015). "Perspectives on drugs: Synthetic cathinones." European Monitoring Centre for Drugs and Drug Addiction.
   - Prosser JM, Nelson LS (2012). "The toxicology of bath salts: A review of synthetic cathinones." Journal of Medical Toxicology.
 ---
 

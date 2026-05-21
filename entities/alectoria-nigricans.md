@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
-  - "Thomson, J.W. (1984). American Arctic Lichens, Vol. 1. Columbia University Press."
-  - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
 ---
 

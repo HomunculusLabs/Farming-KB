@@ -18,9 +18,6 @@ updated: 2026-04-28
 sources:
   - Lis-Balchin M. (2006) — Aromatherapy Science
   - Sovová H. (2012) — Supercritical Fluid Extraction
-  - ACS Green Chemistry Institute — solvent-free extraction comparisons
-  - Ravindran B. et al. (2022) — Essential oil extraction: a review
-  - Tisserand R., Young R. (2014) — Essential Oil Safety (2nd ed.)
   - Reverchon E., Marco I.D. (2006) — Supercritical fluid extraction of essential oils
 ---
 

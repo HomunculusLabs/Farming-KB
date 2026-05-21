@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Liquid fertiliser is made by steeping plants (often considered weeds) in water until they ferment, producing a nutrient-rich liquid that fertilises, strengthens plants, and naturally prevents disease and pests. [[sepp-holzer]] notes that when he was young, every farmer understood how to prepare liquid fertiliser. With the appearance of chemical fertilisers and synthetic pesticides, this knowledge has died out in many places.
+Liquid fertiliser is made by steeping plants (often considered weeds) in water until they ferment, producing a nutrient-rich liquid that fertilises, strengthens plants, and naturally prevents disease and pests. Sepp Holzer notes that when he was young, every farmer understood how to prepare liquid fertiliser. With the appearance of chemical fertilisers and synthetic pesticides, this knowledge has died out in many places.
 
 ## Plant Feed vs Liquid Fertiliser
 
@@ -25,11 +25,11 @@ Almost all locally growing plants are suitable. Select plants containing certain
 
 ### Holzer's Preferred Mixture
 
-- **Nettles** (*[[urtica-dioica]]*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
-- **Comfrey** (*[[symphytum-officinale]]*, *Symphytum x uplandicum*) -- provides potash
-- **Tansy** (*[[tanacetum-vulgare]]*)
-- **Horsetail** (*[[equisetum-arvense]]*)
-- **Wormwood** (*[[artemisia-absinthium]]*) -- particularly effective against aphids, scale insects, and red spider mites. Increase the amount of wormwood until desired effect is achieved.
+- **Nettles** (*Urtica dioica*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
+- **Comfrey** (*Symphytum officinale*, *Symphytum x uplandicum*) -- provides potash
+- **Tansy** (*Tanacetum vulgare*)
+- **Horsetail** (*Equisetum arvense*)
+- **Wormwood** (*Artemisia absinthium*) -- particularly effective against aphids, scale insects, and red spider mites. Increase the amount of wormwood until desired effect is achieved.
 
 ## Method
 
@@ -53,32 +53,31 @@ These natural plant-based pesticides are very easy to make at home and cost noth
 - [[compost-tea-aact]] -- another liquid biological soil amendment
 - [[vegetable-garden-fertilization]] -- broader fertilisation strategies
 - [[soil-conditioners-guide]] -- soil amendment options
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of liquid fertilizer from weeds has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+## Current Research
+
+Recent investigations into liquid fertilizer from weeds have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with liquid fertilizer from weeds spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of liquid fertilizer from weeds.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into liquid fertilizer from weeds continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

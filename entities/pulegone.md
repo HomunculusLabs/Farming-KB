@@ -12,10 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Anderson, I.B. et al. (1996). "Pennyroyal toxicity: measurement of toxic metabolite levels in two cases and review." Annals of Internal Medicine 124(8): 726-734.
-  - Moorthy, B., Madyastha, K.M. (1990). "Metabolism of pulegone in rat." Xenobiotica 20(4): 387-396.
-  - Gordon, W.P., Huitric, A.C., Seth, C.L., McClanahan, R.H., Nelson, S.D. (1987). "The metabolism of the abortifacient terpene, (R)-(+)-pulegone, to a proximate toxin, menthofuran." Drug Metabolism and Disposition 15(5): 589-594.
-  - Faulkner, J., Skibinski, G., McGiffin, D. (2021). "The psychotropic effects of terpenes: A systematic review." Journal of Psychoactive Drugs 53(4): 345-357.
   -EMA/HMPC (2016). "Assessment report on Mentha pulegium L., herba." European Medicines Agency, EMA/HMPC/640547/2014.
 created: 2026-04-28
 ---

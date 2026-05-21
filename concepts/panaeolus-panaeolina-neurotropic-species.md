@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the neurotropic-fungi"
 type: concept
 ---
 

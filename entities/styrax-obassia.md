@@ -8,10 +8,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
-  - Fritsch, P.W. et al. (2001). "Phylogeny of Styrax Based on Morphological Characters." American Journal of Botany 88(5).
-  - RHS (2024). "Styrax obassia." Royal Horticultural Society Plant Finder.
-  - Huxley, A. (1992). The New RHS Dictionary of Gardening. Macmillan Press.
   - Ohba, H. (2006). "Styracaceae." Flora of Japan IIb: 164–168.
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Shao, B. et al. (2007). "Steroidal Saponins from Smilax glabra and Their Biological Activities." Natural Product Reports, 24(6), 1321-1338."
-  - "Chen, J. et al. (2019). "Phytochemistry and Pharmacology of Smilax glabra: A Review." Journal of Ethnopharmacology, 244, 112149."
-  - "Chinese Pharmacopoeia Commission. (2020). Pharmacopoeia of the People's Republic of China, Vol. I. China Medical Science Press."
   - "The Royal Botanic Gardens, Kew. (2024). Smilax glabra. Plants of the World Online."
 ---
 

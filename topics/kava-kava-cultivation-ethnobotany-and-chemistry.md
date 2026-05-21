@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lebot V, Merlin M, Lindstrom L. Kava: The Pacific Drug. Yale University Press, 1992.
-  - Singh YN. Kava: An overview. Journal of Ethnopharmacology. 1992;37(1):13-45.
-  - Sarris J, LaPorte E, Schweitzer I. Kava: A comprehensive review of efficacy, safety, and pharmacology. Australian and New Zealand Journal of Psychiatry. 2011;45(1):27-35.
-  - Teschke R, Wolff A, Frenzel C, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver International. 2012;32(10):1423-1432.
   - WHO. Kava: A review of the safety of traditional and complementary/alternative medicine. WHO, 2007.
 ---
 

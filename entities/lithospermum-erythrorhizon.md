@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Papageorgiou VP et al. (1999). "The chemistry and biology of alkannin and shikonin." Angewandte Chemie International Edition, 38(1-2), 151-160.
-  - Andújar I et al. (2012). "lsd-discovery-aftermath-pharmacological-properties of shikonin." Journal of Pharmacy and Pharmacology, 64(9), 1271-1281.
-  - Chen X et al. (2002). "Anti-inflammatory and antioxidant activities of Lithospermum erythrorhizon." Phytotherapy Research, 16(4), 321-326.
-  - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China.
   - Yadav DK et al. (2017). "Shikonin and its derivatives: A comprehensive review." European Journal of Medicinal Chemistry, 136, 36-48.---
 ---
 

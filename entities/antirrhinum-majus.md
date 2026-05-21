@@ -12,9 +12,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Schwarz-Sommer, Z. et al. (1990). \"Genetic control of flower development in Antirrhinum majus.\" Science, 250(4983), 931-936."
-  - "Gubitz, T. et al. (2004). \"Molecular phylogeny of the Antirrhineae.\" Plant Systematics and Evolution, 249, 143-156."
-  - "Glover, B.J. & Martin, C. (1998). \"The role of petal cell shape and pigmentation in pollination success in Antirrhinum majus.\" Heredity, 80, 778-784."
   - "Elcombe, S. et al. (2004). \"Genetic control of surface morphogenesis in Antirrhinum petals.\" New Phytologist, 163, 165-172."
 ---
 

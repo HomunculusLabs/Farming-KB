@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Berg, C.C. & Corner, E.J.H. (2005). "Ficus L. (Moraceae)." Flora Malesiana, Ser. I, 17(2), 1-730.
   - Chaudhary, R.P. (1998). "Biodiversity in Nepal: amanita-muscaria make it a common feature of temple grounds, parks, and roadside plantings in South and Southeast Asia.
 ---
 

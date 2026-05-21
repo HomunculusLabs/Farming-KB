@@ -11,7 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Craigie, J.S. (1990). \"query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work conditions and reproductive state.
 ---
 

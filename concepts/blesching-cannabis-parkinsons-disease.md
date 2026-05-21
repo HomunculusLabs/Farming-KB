@@ -5,7 +5,6 @@ tags: [cannabis, parkinsons, neurodegenerative, cbd, endocannabinoid]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# Cannabis and Parkinson's Disease
 

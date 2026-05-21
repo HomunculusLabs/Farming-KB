@@ -8,10 +8,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Tanaka, T. (1976). "Tanaka's Cyclopedia of Edible Plants of the World." Keigaku Publishing.
-  - Hu, S.Y. (2005). "Food Plants of China." Chinese University Press.
-  - Small, E. (2011). "Top 100 Exotic Food Plants." CRC Press.
-  - Ueda, J. et al. (2012). "Stachys affinis tubers: composition and functional properties." Food Chemistry, 133(4), 1423-1428.
   - Uphof, J.C.T. (1968). "Dictionary of Economic Plants." Cramer Verlag.
 ---
 

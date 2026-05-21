@@ -11,9 +11,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Ballian, D. et al. (2006). "Genetic Variability of Serbian Spruce (*Picea omorika*)." Annals of Forest Science 63(4): 375–380.
-  - Isajev, V. et al. (2003). "Genetic Resources of Serbian Spruce." Plant Genetic Resources Newsletter 135: 33–38.
   - Krüssmann, G. (1985). "Manual of Cultivated Conifers." Timber Press.
 ---
 

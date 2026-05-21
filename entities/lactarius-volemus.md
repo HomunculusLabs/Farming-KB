@@ -14,10 +14,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kuo, M. (2024). "Lactarius volemus." MushroomExpert.com.
-  - Heilmann-Clausen, J. et al. (1998). "The genus Lactarius." Fungi of Northern Europe, Vol. 2.
-  - Verbeken, A. & Walleyn, R. (2010). "Monograph of Lactarius in tropical Africa." Fungus Flora of Tropical Africa.
-  - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
   - Arnolds, E. (1986). "Ecology and coenology of macrofungi in grasslands and moist heathlands." Bibl. Mycol., 90.
 ---
 ## Lactarius volemus

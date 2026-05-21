@@ -12,13 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Belnap, J. & Lange, O.L. (2001). Biological Soil Crusts: Structure, Function, and Management. Springer.
-  - Weber, B. et al. (2016). Biological Soil Crusts: An Organizing Principle in Drylands. Springer.
-  - Pointing, S.B. & Belnap, J. (2012). "Microbial climatology and global distribution of biological soil crusts." Nature Reviews Microbiology, 10(8), 558-569.
-  - Elbert, W. et al. (2012). "Cryptogamic covers on the global surface of Earth." Nature Geoscience, 5, 459-463.
-  - Bowker, M.A. et al. (2018). "Climate change and physical disturbance cause similar community shifts in biological soil crusts." PNAS, 105(32), 11264-11269.
-  - Ferrenberg, S. et al. (2015). "Climate change and physical disturbance cause similar community shifts in biological soil crusts." PNAS, 112(41), 12116-12121.
-  - Faist, A.M. et al. (2021). "Biocrusts in dryland ecosystems: A review of diversity, function, and restoration." Restoration Ecology, 29, e13251.
   - Rodriguez-Caballero, E. et al. (2018). "Global cycling of nitrogen and carbon is driven by biological soil crusts." Nature Geoscience, 11, 708-712.
 ---
 ## Hydrological Functions

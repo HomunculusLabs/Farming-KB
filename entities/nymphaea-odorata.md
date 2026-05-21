@@ -9,12 +9,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Beal, E.O. (1956). "Taxonomic Revision of the Genus Nymphaea."
     American Midland Naturalist 56(1): 147–167.
-  - Crow, G.E. & Hellquist, C.B. (2000). "psilocybin-north-america-pacific-northwest." University of Wisconsin Press.
-  - USDA NRCS (2024). "Nymphaea odorata Plant Guide." Natural Resources
     Conservation Service.
-  - Wiersema, J.H. (1988). "bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation is bright green; the underside is often reddish or
 purplish.
 ---
 

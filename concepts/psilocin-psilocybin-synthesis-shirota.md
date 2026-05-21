@@ -18,7 +18,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Shirota, O.; Hakamata, W.; Goda, Y. J. Nat. Prod. 2003, 66, 885-887. DOI: 10.1021/np030059u"
 created: 2026-05-07
 type: concept
 ---

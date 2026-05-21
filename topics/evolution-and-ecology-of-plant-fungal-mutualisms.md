@@ -16,7 +16,6 @@ related:
   - fungal-ecology-and-environmental-biology
   - the-soil-food-web
   - endophytic-fungi-hidden-symbionts-within-plants
-  - dark-septate-endophytes-and-non-mycorrhizal-fungal-symbioses
   - mycorrhizal-inoculation-and-inoculum-production
   - composting-and-soil-biology
 ---

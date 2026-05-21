@@ -15,10 +15,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Sarris J, et al. Herbal medicine for depression, anxiety, and insomnia: a review of psychopharmacology and clinical evidence. European Neuropsychopharmacology. 2014;24(5):672-686.
-  - Lakhan SE, Vieira KF. Nutritional and herbal supplements for anxiety and anxiety-related disorders. Nutrition Journal. 2010;9:42.
-  - Savage K, et al. Anxiolytic effects of kava: a systematic review and meta-analysis. Journal of Psychopharmacology. 2023.
-  - Mills S, Bone K. The Essential Guide to Herbal Safety. Elsevier, 2005.
   - Ulbricht C, et al. An evidence-based systematic review of chamomile. Journal of Herbal Pharmacotherapy. 2005;5(2):47-77.
 ---
 

@@ -6,9 +6,6 @@ tags: [species, plant, herbal, medicinal, permaculture, lamiaceae, hormonal, ada
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wuttke, W. et al. (2003). 'Phytotherapy of premenstrual syndrome with Vitex agnus castus.' Phytomedicine 10(Suppl 4): 67–71."
-  - "Hoffmann, D. (2003). Medical Herbalism: The Science and Practice of Herbal Medicine. Healing Arts Press."
-  - "Bone, K. & Mills, S. (2013). The Essential Guide to Herbal Safety. Elsevier."
   - "Royal Botanic Gardens, Kew. Plants of the World Online. kew.org."
 ---
 

@@ -10,9 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Cole, D.T. & N.A. Cole (2005). "Lithops: Treasures of the Veld." Succulent Plant Research Vol. 7, David Hunt Publishers.
-  - Hammer, S. (2010). "Lithops: The Genus Lithops." Handbook of Succulent Plants Vol. 1, Springer.
-  - Smith, G.F. et al. (1998). "Mesembs of the World." Briza Publications, Pretoria.
   - Kew Plants of the World Online. "Lithops localis (N.E.Br.) Schwantes." https://powo.science.kew.org
 ---
 

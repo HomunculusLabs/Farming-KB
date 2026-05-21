@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-The legal status of [[psilocybin]]-containing mushrooms varies dramatically across the world, ranging from complete prohibition to decriminalization to regulated medical use. This page provides a global overview as of 2026. Laws change frequently; always verify current local regulations.
+The legal status of psilocybin-containing mushrooms varies dramatically across the world, ranging from complete prohibition to decriminalization to regulated medical use. This page provides a global overview as of 2026. Laws change frequently; always verify current local regulations.
 
 See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
@@ -48,7 +48,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
 ### Mexico
 
-- [[psilocybin-mushrooms]] ([[teonanacatl]]) are not specifically scheduled in federal law
+- Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
 - Sale and commercial distribution are prohibited under general drug laws
 - Traditional indigenous use (Mazatec and other groups) is culturally tolerated
 - See [[maria-sabina-mazatec-mushroom-ceremony]] for indigenous context
@@ -126,7 +126,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 **Legal challenges with wild fungi**: Several countries struggled with whether to criminalize landowners where mushrooms grow wild. Solutions included specifying "prepared/treated" mushrooms (UK/Ireland approach), "dried/processed" (Dutch Supreme Court), or "organism" rather than "plant" (Germany). The Italian, Greek, Cypriot, and Lithuanian laws used catch-all terms about "plants from which narcotic substances can be extracted," which technically may not cover fungi.
 
-**Smartshop era**: Prior to the 2005 UK ban, an estimated 300 shops/market stalls sold hallucinogenic mushrooms across the UK with annual turnover around GBP 1 million. In the Netherlands, 120-150 [[smartshops]] sold mushrooms (estimated 50% of smartshop turnover). The Dutch fresh mushroom loophole persisted from 2002 until full ban in 2008.
+**Smartshop era**: Prior to the 2005 UK ban, an estimated 300 shops/market stalls sold hallucinogenic mushrooms across the UK with annual turnover around GBP 1 million. In the Netherlands, 120-150 smartshops sold mushrooms (estimated 50% of smartshop turnover). The Dutch fresh mushroom loophole persisted from 2002 until full ban in 2008.
 
 ## Latin America
 
@@ -148,3 +148,6 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 ### Japan
 
 - Psilocybin is controlled under the Narcotics and Psychotropics Control Law
+## See Also
+
+- [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]]

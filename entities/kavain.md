@@ -11,11 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Lebot, V., Merlin, M. & Lindstrom, L. (1992). "Kava: The Pacific Elixir." Yale University Press.
-  - Singh, Y.N. (1992). "Kava: An overview." Journal of Ethnopharmacology, 37(1), 13-45.
-  - Sarris, J. et al. (2011). "Kava for generalised anxiety disorder." Journal of Clinical Psychopharmacology, 31(5), 583-587.
-  - Teschke, R. et al. (2010). "Kavain, the main kavalactone." Phytomedicine, 17(7), 504-507.
-  - Fu, P.P. et al. (2008). "Kava lactones." Journal of Environmental Science and Health, 43(1), 19-27.
 created: 2026-05-07
 ---
 

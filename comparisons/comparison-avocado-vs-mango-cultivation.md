@@ -10,10 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "California Avocado Society — Growing Avocados: A Grower's Guide (2023)"
-  - "University of Florida IFAS Extension — Mango Growing in the Florida Home Landscape (2024)"
-  - "Martin Crawford, Creating a mollison-designers-forest-garden-layer-canopy-understory, 2nd ed., Green Books (2022)"
-  - "FAO — Ecological fukuoka-orchard-management-detailed for Subtropical Fruits (2023)"
 type: comparison
 ---
 

@@ -10,8 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rubatzky, V.E., Quiros, C.F., Simon, P.W. (1999). "Carrots and Related Vegetable Umbelliferae." CABI Publishing.
-  - "Pastinaca sativa." USDA Natural Resources Conservation Service PLANTS Database.
   - Small, E. (2014). "oyster-mushroom-log-cultivation-temperate-regions-short-log-method, valued for their high sugar content and nutty sweetness.
 ---
 

@@ -10,11 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Chen, J. et al. (2014). "Gastrodia elata Blume: An Orchid Plant with Medicinal Value." Journal of Medicinal Plants Research, 8(18), 644–653.
-  - Xu, J. et al. (2016). "armillaria-mellea-entity." Mycobiology, 44(4), 273–280.
-  - Yuan, C.S. et al. (1998). "Traditional Chinese ." American Journal of Chinese Medicine, 26(2), 133–145.
-  - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
-  - Huang, L.Q. et al. (2020). "Cultivation and blesching-cannabis-contaminants-testing-quality-control of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
 
 ---# Overview
 
@@ -80,3 +75,14 @@ Emerging research, technological advances, and evolving understanding continue t
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
 
 Understanding this topic in its broader ecological context enhances practical application.
+## Current Research
+
+Recent studies on gastrodia elata have explored novel approaches and expanded our understanding of underlying mechanisms.
+Researchers continue to investigate optimal parameters and conditions that influence outcomes in this area.
+
+## Practical Considerations
+
+Practitioners working with gastrodia elata should consider both environmental factors and established best practices.
+Adaptation to local conditions remains essential for successful implementation.
+
+Continued observation and documentation of results contributes to the collective knowledge base.

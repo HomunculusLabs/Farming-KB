@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Varty, N. & Guadagnin, D.L. (2015). "Dalbergia nigra." The IUCN Red List of Threatened Species.
-  - Cascon, V. & Gilbert, B. (2000). "Characterization of the Chemical Composition of Oleoresins of Dalbergia nigra." Flavour and Fragrance Journal 15(2): 119-125.
-  - Rizzini, C.T. (1971). "Árvores e Madeiras Úteis do Brasil." Editora Edgard Blücher.
   - MacLachlan, J. (2014). "The Rosewood Trade." Traffic Bulletin 26(2): 52-59.
 ---
 

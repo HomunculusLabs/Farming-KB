@@ -9,10 +9,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Brickell, C.D. & Mathew, B. (1976). Daphne: The Genus in the Wild and in Cultivation. Alpine Garden Society.
-  - Halstead, J.M. (1978). "Poisonous Plants in Britain." HMSO Publications.
-  - Nevling, L.I. (1959). "A Taxonomic Revision of the Genus Daphne." Journal of the Arnold Arboretum 40.
-  - Rutishauser, R. et al. (2005). "Thymelaeaceae Phylogeny." Botanical Journal of the Linnean Society.
   - Bean, W.J. (1976). Trees and Shrubs Hardy in the British Isles. 8th ed. John Murray.
 ---
 

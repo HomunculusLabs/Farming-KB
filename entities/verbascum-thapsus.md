@@ -11,7 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "U.S. Department of Agriculture, Natural Resources Conservation Service (PLANTS Database). Verbascum thapsus L."
   - "Foster, S. & Duke, J.A. (2014). A Field Guide to Medicinal Plants and Herbs of Eastern and Central berry-growing, Australia, and other medicinal-herbs-for-livestock in Western herbalism, prized primarily for its soothing effects on the respiratory tract. The plant is characterized by its tall, woolly flowering spike and large, fuzzy basal leaves that form a distinctive rosette in the first year of growth.
 ---
 

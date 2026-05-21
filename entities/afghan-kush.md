@@ -13,8 +13,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Clarke, R.C. (1998). Hashish! Redeye Press."
-  - "Small, E. (2017). Cannabis: A Complete Guide. CRC Press."
-  - "Mills, S. et al. (2020). \"Genetic structure of  strain originating from the
 Hindu Kush mountain range spanning Afghanistan and northern Pakistan.
 ---t is one of the most genetically influential [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
 

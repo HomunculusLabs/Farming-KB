@@ -10,10 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
-  - James PW, White FJ, Coppins BJ. (2006). "Nephroma" in Purvis OW, Coppins BJ, Hawksworth DL, et al. (eds.), "The Lichen Flora of Great Britain and Ireland." Natural History Museum, London.
-  - Goward T, McCune B, Meidinger D. (1994). "The Lichens of British Columbia." British Columbia Ministry of Forests, Special Report Series 8.
-  - White FJ, James PW. (1988). "Studies on the genus Nephroma. I. The European and North American species." The Lichenologist 20(2): 131–181.
   - Jørgensen PM, Ryvarden L. (1985). "Nordic Lichen Flora." Scandinavian Lichen Society.
 ---
 

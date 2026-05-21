@@ -11,8 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. "A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi." Mycotaxon. 1998.
-  - Stijve T, Kuyper TW. "Occurrence of psilocybin in various higher fungi." Persoonia. 1985.
   - Stamets P. "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press. 1996.
 ---
 

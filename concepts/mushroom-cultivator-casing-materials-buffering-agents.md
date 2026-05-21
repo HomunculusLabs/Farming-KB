@@ -6,7 +6,6 @@ tags: cotter-compost-substrate-preparation-manure-mushroom-cultivation], mushroo
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
 type: concept
 ---
 

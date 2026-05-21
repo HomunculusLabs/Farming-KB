@@ -13,9 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke JA. "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press, 2002.
-  - Foster S, Duke JA. "A Field Guide to Medicinal Plants." Houghton Mifflin, 2014.
-  - Tyler VE, Brady LR, Robbers JE. "Pharmacognosy." 9th ed. Lea & Febiger, 1988.
   - USDA NRCS. "Sanguinaria canadensis Plant Guide." USDA Natural Resources Conservation Service, 2023.
 ---
 

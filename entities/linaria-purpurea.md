@@ -9,11 +9,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Sutton, D.A. (1988). "A Revision of the Tribe Antirrhineae." Oxford University Press.
-  - Kew Plants of the World Online: Linaria purpurea. https://powo.science.kew.org
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th edition. Cambridge University Press.
-  - RHS Plant Finder: Linaria purpurea. Royal Horticultural Society.
-  - Viano, J. (1978). "Les linaires à graines alées du bassin méditerranéen." Bulletin de la Société Botanique de France, 125, 519-532.
   - Fenster, C.B. et al. (2006). "Pollination syndromes in Penstemon and Linaria." American Journal of Botany, 93(8), 1134-1142.
 ---
 

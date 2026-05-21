@@ -12,10 +12,6 @@ tags:
   - fabaceae
   - agroforestry
 sources:
-  - "Nene, Y.L. & Sheila, V.K. (1990). Pigeonpea: Geography and Importance. ICRISAT."
-  - "Saxena, K.B. et al. (2010). \"Cajanus cajan: A review of genetic resources.\" Genetic Resources and Crop Evolution, 57, 1-21."
-  - "Chauhan, Y.S. et al. (2015). \"Pigeonpea production systems and potential for improvement.\" Field Crops Research, 182, 33-43."
-  - "Sheldrake, A.R. & Narayanan, A. (1979). \"Growth, development and plant-nutrient-uptake-mechanisms in pigeonpea.\" Field Crop Abstracts, 32, 1-25."
   - "Van der Maesen, L.J.G. (1980). \"Cajanus and Atylosia.\" Wageningen Agricultural University Papers."
 ---
 

@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, gardening, cultivation, beginner, drying, harvesting]
-sources:
-  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-si.md"
+sources: []
 ---
 
 ## Overview
@@ -28,13 +27,13 @@ Return year after year in appropriate climate zones. Some are evergreen; others 
 | Mint | 3-9 | Extremely invasive — always container-grow |
 | Chives | 3-9 | Clump-forming, divide every 3 years |
 | Lavender | 5-9 | Needs excellent drainage; short-lived in humidity |
-| [[query-how-do-i-grow-and-use-lemon-balm-in-my-garden]] | 3-9 | Mint family, can be invasive |
+| Lemon Balm | 3-9 | Mint family, can be invasive |
 | Tarragon (French) | 4-9 | Dies back in winter; reliable returner |
 | Winter Savory | 5-8 | Hardy, peppery flavor |
 | Fennel | 5-9 | Perennial in mild zones; self-seeds freely |
 
 ### Annual Herbs
-Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] growing season. Must be replanted each year, though some self-seed readily.
+Complete their life cycle in one growing season. Must be replanted each year, though some self-seed readily.
 
 | Herb | Notes |
 |------|-------|
@@ -56,7 +55,7 @@ Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-en
 ### Mediterranean / Italian
 - Basil, oregano, rosemary, thyme, parsley
 - Essential for pasta sauces, pizza, grilled meats
-- Basil [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] standout annual; oregano and thyme are perennial staples
+- Basil is the standout annual; oregano and thyme are perennial staples
 
 ### French / fines herbes
 - Chives, tarragon, parsley, chervil
@@ -76,7 +75,7 @@ Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-en
 - Chamomile (German annual, Roman perennial), lemon balm, peppermint, spearmint, lemon verbena, bee balm, holy basil (tulsi), anise hyssop
 
 ### Medicinal Herbs
-- Echinacea, calendula, [[yarrow]], valerian, holy basil, elderberry, goldenseal
+- Echinacea, calendula, yarrow, valerian, holy basil, elderberry, goldenseal
 - Many have deep traditional use and growing pharmacological evidence
 - Research specific herbs thoroughly before medicinal use
 
@@ -99,7 +98,7 @@ Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-en
 - Basil demands consistent moisture — wilts dramatically when dry
 - Mint prefers consistently moist soil
 - Lavender and rosemary prefer to dry out between waterings
-- Overwatering is [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of indoor herb death
+- Overwatering is the most common cause of indoor herb death
 
 ## Drying and Preserving
 
@@ -117,7 +116,7 @@ Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-en
 - Typically 4-8 hours depending on herb and thickness
 
 ### Freezing
-- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] herbs that lose flavor when dried: basil, cilantro, chives, dill, parsley
+- Best for herbs that lose flavor when dried: basil, cilantro, chives, dill, parsley
 - Chop herbs, pack into ice cube trays, cover with water or olive oil, freeze
 - Pop cubes out and store in freezer bags for up to 6 months
 - Alternatively, freeze whole leaves in bags
@@ -140,10 +139,17 @@ Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-en
 
 Growing herbs indoors extends the harvest year-round, especially for tender perennials and annuals.
 
+### Best Herbs for Indoors
+- Basil, chives, mint, parsley, oregano, thyme, rosemary, cilantro
+- Avoid: dill and fennel (too tall), lavender (needs specific conditions)
+
+### Light Requirements
+- Minimum 6 hours of bright, direct light daily
+- South-facing window is ideal in northern hemisphere
+- Supplement with full-spectrum LED grow lights if natural light is insufficient
+- Use a timer for 12-14 hours of light per day with supplemental lighting
 ## See Also
 
-- [[lettuce-and-leafy-greens]] for companion greens
-- [[urban-farming-methods]] for container and indoor growing techniques
-- [[seasonal-gardening-calendar]] [[making-hills-for-planting]] and harvesting timing
-
-## Related
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[calea-zacatechichi-dream-herb-ethnobotany]]
+- [[homestead-herb-business]]

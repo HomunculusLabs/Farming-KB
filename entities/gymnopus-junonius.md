@@ -9,10 +9,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Corner, E.J.H. (1954). 'The genus Gymnopus.' Transactions of the British Mycological Society, 37(1), 1-10."
-  - "Antonín, V., et al. (2010). 'Gymnopus (Basidiomycota, Agaricales) in the Czech Republic.' Czech Mycology, 62(2), 131-198."
-  - "Redhead, S.A., et al. (2002). 'Marasmius and related genera.' Mycotaxon, 83, 279-304."
 created: 2026-04-28
 ---
 

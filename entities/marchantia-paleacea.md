@@ -10,7 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bischler-Causse, H. (1993). "Marchantia L.: The European and African Taxa." Bryophytorum Bibliotheca, Vol. 44. J. Cramer, Berlin.
   - Schuster, R.M. (1992). "The Hepaticae and Anthocerotae marchantia-polymorpha. It is widely distributed across temperate and subtropical regions of the Northern Hemisphere, growing on moist, calcareous soils.
 ---
 

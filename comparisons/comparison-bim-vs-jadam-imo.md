@@ -5,7 +5,6 @@ tags: [comparison, indigenous-microorganisms, organic-farming, soil-biology, fer
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
 type: comparison
 ---
 

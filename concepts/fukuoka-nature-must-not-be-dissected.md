@@ -10,8 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
 

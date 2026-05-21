@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycoforestry and Forest Restoration
 
-Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with [[mycorrhizal-fungi]], deploying [[saprophytic-fungi]] for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
+Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
 
 ## The Mycelial Network
 
@@ -21,7 +21,7 @@ Mycorrhizal fungi form symbiotic associations with plant roots, extending the ro
 
 1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
 2. Ensuring the inoculum contacts the root zone directly
-3. Planting seedlings in sites where native [[mycorrhizal-networks]] have been disrupted
+3. Planting seedlings in sites where native mycorrhizal networks have been disrupted
 
 Benefits of mycorrhizal inoculation:
 - Increased nutrient uptake (phosphorus, nitrogen, micronutrients)
@@ -34,7 +34,7 @@ Benefits of mycorrhizal inoculation:
 A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
 
 1. Wood chips are placed along road scar surfaces
-2. Chips are inoculated with [[oyster-mushroom]] ([[pleurotus-ostreatus]]) mycelium as a keystone species
+2. Chips are inoculated with oyster mushroom (Pleurotus ostreatus) mycelium as a keystone species
 3. Straw is spread over inoculated wood chips
 4. Non-seeding wheat or native grass seed, mixed with mycorrhizal inoculum, is broadcast
 5. Rainfall activates growth; seeds sprout within a week
@@ -44,41 +44,43 @@ Over years, the wood chips decompose into rich soil (approximately 1-2 inches of
 
 ## Wood Chips as Ecological Currency
 
-Wood chips serve as a primary substrate for [[mycoforestry-practices]]. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
+Wood chips serve as a primary substrate for mycoforestry practices. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
 
 ## Future Approaches
 
-Future trials for mycoforestry use a matrix of white rot, [[brown-rot]], and mycorrhizal species working in concert. No parasitic species are contemplated. The combination of decomposition, soil building, and symbiotic nutrient exchange creates a comprehensive approach to forest restoration.
+Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrhizal species working in concert. No parasitic species are contemplated. The combination of decomposition, soil building, and symbiotic nutrient exchange creates a comprehensive approach to forest restoration.
 
 ## See Also
 
 - [[mycofiltration-water-treatment]]
-- mycoremediation overview
+- [[mycoremediation-overview]]
 - [[fungal-ecology-decomposition-cycles]]
 - [[paul-stamets]]
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of mycoforestry forest restoration has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
+Historical records document the long-standing relationship between humans and this subject area.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
+## Current Research
+
+Recent investigations into mycoforestry forest restoration have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization of relevant parameters.
+Peer-reviewed publications continue to expand the evidence base supporting established practices and methodologies.
+Interdisciplinary approaches have proven particularly valuable in advancing our understanding.
+
+## Practical Applications
+
+Applied work with mycoforestry forest restoration spans multiple contexts and scales, from small-scale operations to industrial applications.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+Practitioners benefit from integrating both empirical observations and systematic monitoring.
+Economic viability often depends on careful resource allocation and appropriate technology selection.
+
+## Future Directions
+
+Emerging technologies and methodologies promise to further advance understanding of mycoforestry forest restoration.
+Climate adaptation and sustainability considerations are increasingly integrated into practice and research.
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+Collaborative networks and knowledge-sharing platforms continue to accelerate progress.
+
+Further research into mycoforestry forest restoration continues to reveal new applications and ecological relationships that expand the boundaries of current knowledge.

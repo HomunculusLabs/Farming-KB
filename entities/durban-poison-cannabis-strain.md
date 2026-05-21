@@ -13,10 +13,6 @@ tags:
   - landrace-strain
   - terpene-rich
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995-2014)." Biological Psychiatry, 79(7), 613-619.
-  - Mudge, E.M. et al. (2019). "cannabis-sativa L. (Cannabaceae): A review of its traditional uses, phytochemistry, and pharmacology." Planta Medica, 85(12), 1007-1020.
-  - Smart, R. et al. (2017). "The Phytochemical Diversity of Commercial Cannabis in the United States." PLoS ONE, 12(12), e0188826.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug african-landrace-sativa-genetic-contributions-modern-breeding-oner ancestry. It remains one of the few strains widely recognized as a true or near-true landrace variety in commercial markets.
 ---
 

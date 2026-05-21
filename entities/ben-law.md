@@ -12,9 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - Law, B. (2001). The Woodland House: Building with Roundwood Timber.
   Permanent Publications.
-  - Law, B. (2005). The Woodland Way: A Permaculture Approach to
   Sustainable Woodland Management. Permanent Publications.
   - Law, B. (2010). Roundwood fukuoka-natural-farming-temperate-climates. Permanent Publications.
 ---

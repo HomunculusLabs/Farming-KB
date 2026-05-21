@@ -10,7 +10,6 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Page, C.N. (1997). "The Ferns of Britain and Ireland." 2nd edition. Cambridge University Press.
   - Ricci, R. (2006). "The Plantfinder's Guide to Ferns." Timber Press.
 ---
 

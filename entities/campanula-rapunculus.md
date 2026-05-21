@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Fedorov A (1969). "Campanula L." In: Flora URSS, Vol. 24.
-  - Tutin TG, et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
-  - Kirschner J (2004). "Campanula rapunculus." In: Euro+Med PlantBase.
   - Couplan F (1998). The Encyclopedia of Edible Plants fukuoka-western-root-vegetable-deficiency. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
 ---
 

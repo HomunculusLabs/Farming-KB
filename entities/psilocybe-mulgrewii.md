@@ -6,7 +6,6 @@ tags: [psilocybin-mushroom, hymenogastraceae, section-cyanescens, pacific-northw
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
@@ -78,3 +77,5 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+Further research into psilocybe mulgrewii continues to reveal new applications and ecological relationships.
+Understanding the fundamental principles behind psilocybe mulgrewii provides a foundation for both practical application and continued scientific inquiry.

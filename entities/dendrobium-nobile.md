@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Wood HP (2006). "The Dendrobiums." A.R.G. Gantner Verlag, Ruggell.
-  - Ng TB, Liu J, Wong JH (2012). "Review of research on Dendrobium nobile." Journal of Pharmacy and Pharmacology, 64(12): 1679–1693.
   - Royal Botanic Gardens Kew. "Dendrobium nobile Lindl." Plants of the World Online.
 ---
 

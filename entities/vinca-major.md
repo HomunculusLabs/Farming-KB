@@ -20,8 +20,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in  worldwide, becoming invasive in parts of * (lesser
 periwinkle) is more widely used in guzman-psilocybin-mushrooms-north-america (USDA zones 4–9), Japan, Australia, and New Zealand.
 ---hrives in shaded to partially shaded sites in woodlands, hedgerows, and
 stream banks. Tolerates full shade and a range of soil types, preferring

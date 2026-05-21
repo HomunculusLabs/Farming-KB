@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
-  - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
-  - Wirth, V. (2010). Flechten Baden-Württembergs. Eugen Ulmer KG.
   - Søchting, U. (2004). "Xanthoria (Teloschistaceae) in the Nordic area." Nordic Journal of Botany, 24(4), 453-470.
 ---
 

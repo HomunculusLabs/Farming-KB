@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Bayer, M.B. (1999). "Haworthia Revisited." Umdaus Press, Hatfield.
-  - Breuer, I. (2009). "The Genus Haworthia." Synopsis and Species List.
-  - Scott, C.L. (1985). "The Genus Haworthia." Aloe Books, Pretoria.
   - Manning, J.C. et al. (2014). "Amaryllidaceae, Asphodelaceae." In: Plants of the Greater Cape Floristic Region.
 ---
 

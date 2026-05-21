@@ -19,7 +19,6 @@ tags:
 aliases:
   - "Convolvulus prostratus"
   - "Convolvulus microphyllus"
-  - "herbal-materia-medica." Popular Prakashan, Mumbai.
 created: 2026-04-28
 ---
 

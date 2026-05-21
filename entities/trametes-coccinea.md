@@ -11,9 +11,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, R.L. (2004). "Polypores of psilocybin-north-america-pacific-northwest." Fungiflora, Oslo.
-  - Núñez, M. & Ryvarden, L. (2001). "A Monograph of the Genus Trametes." Synopsis Fungorum 14.
-  - Justo, A. et al. (2017). "A revised morphological classification of the Polyporales." Mycologia, 109(4), 668-686.
   - URL: https://www.indexfungorum.org/
 created: 2026-04-28
 ---

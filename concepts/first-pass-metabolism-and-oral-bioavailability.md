@@ -8,7 +8,6 @@ date: 2026-05-02
 sources:
 related:
   - cytochrome-p450-enzymes-drug-metabolism
-  - blesching-cannabis-pharmacokinetics-and-bioavailability
 type: concept
 ---# Overview
 First-pass metabolism is the loss of an orally absorbed drug before it reaches systemic circulation.

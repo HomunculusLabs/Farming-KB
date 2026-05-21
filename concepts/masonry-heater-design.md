@@ -125,14 +125,6 @@ Masonry heaters are sized by the square footage they need to heat:
 - High-temperature silicone for joints
 - All joints must be airtight to prevent smoke leakage
 
-## See Also
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[winter-harvest-tools-equipment-suppliers]]
-
-## See Also
-- [[pellet-stove-heating]]
-- [[firewood-seasoning-and-storage]]
-- [[earth-plaster-and-natural-finishes]]
 ## Building a Masonry Heater
 
 ### Foundation Requirements
@@ -147,3 +139,16 @@ Masonry heaters are sized by the square footage they need to heat:
 1. Design: Create detailed plans with firebox dimensions, channel layout, and chimney path
 2. Foundation: Pour reinforced concrete pad
 3. Base course: Lay first courses of brick, establishing the footprint
+4. Firebox: Build firebox with firebrick and refractory mortar
+5. Baffles: Build internal channels or bell chambers
+6. Outer shell: Continue masonry courses, enclosing the internal structure
+7. Cleanouts: Install access doors at channel bottoms
+8. Chimney connection: Transition to chimney flue
+9. Facing: Apply stone, tile, or plaster to the exterior
+10. Curing: Build small, cool fires for the first week to dry the mortar gradually
+
+### Safety Clearances
+## See Also
+
+- [[comparison-masonry-heater-design-vs-solar-cooking-methods]]
+- [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design]]

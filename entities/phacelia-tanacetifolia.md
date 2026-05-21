@@ -13,11 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Boechat, G.G. et al. (2020). "Phacelia tanacetifolia: A versatile cover crop mushroom-cultivation-for-sustainable-agriculture." Agronomy for Sustainable Development, 40, 23.
-  - Buck, J. (2016). "Floral resource availability for pollinators under different cover crop regimes." Journal of Pollination Ecology, 18, 1–12.
-  - Lovell, S.T. (2013). "Multifunctional urban agriculture for sustainable land use planning." Sustainability, 5(4), 1400–1423.
-  - Isaacs, R. et al. (2009). "Maximum pollinator visitation to Phacelia tanacetifolia occurs mid-morning." Journal of Apicultural Research, 48(3), 185–188.
-  - Tephart, Y. et al. (2019). "Cover crop impacts on soil health in organic systems." Renewable Agriculture and Food Systems, 34(4), 312–325.created: 2026-05-07
 
 created: 2026-05-07
 ---

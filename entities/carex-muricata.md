@@ -10,10 +10,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
-  - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
-  - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics and evolution of Carex section Acutae." *Botanical Review* 74: 261-287.
-  - Global Biodiversity Information Facility (GBIF). *Carex muricata L.* https://www.gbif.org/species/2723096
   - Flora Europaea. *Carex muricata*. https://rbg-web2.rbge.org.uk/FE/fe.html
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States: Dicotyledons." University of Georgia Press.
   - Weakley, A.S. (2023). "Flora of the Southeastern United States." University of persea-americana, and shares many morphological characteristics including aromatic foliage and drupaceous fruit. Swamp bay serves as a primary larval host plant for the palamedes swallowtail butterfly.
 ---
 

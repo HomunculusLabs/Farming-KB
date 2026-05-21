@@ -5,7 +5,6 @@ tags: [cannabis, oxidative-stress, antioxidants, neuroprotection, ecs]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---
 

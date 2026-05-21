@@ -11,8 +11,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Parsons, W.T. & Cuthbertson, E.G. (2001). "Noxious Weeds of Australia." 2nd ed. CSIRO.
-  - Piggin, C.M. & Sheppard, A.W. (2009). "Echium plantagineum." In: Invasive Plants. CABI.
   - Cronin, E.H. (1970). "Ecology and Control of Echium plantagineum." CSIRO Australia.
 ---
 

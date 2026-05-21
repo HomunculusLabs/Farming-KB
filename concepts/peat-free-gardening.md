@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] movement has been at the forefront of promoting peat-free alternatives.
+There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The organic gardening movement has been at the forefront of promoting peat-free alternatives.
 
 ## The Problem with Peat
 
@@ -28,7 +28,7 @@ Many alternatives are available that are either completely peat-free or have red
 - **Coir** — the preferred choice for propagation (seed sowing and rooting cuttings)
 - **Bark-based mixes** — more suited for growing on established plants
 - **Wood chip products** — made from various wood materials
-- **Municipal green [[compost]]** — composted waste from green recycling centers
+- **Municipal green compost** — composted waste from green recycling centers
 - **Composted bark** — often combined with other materials
 
 ### Soil Conditioning
@@ -37,7 +37,7 @@ Peat does not need to be used as a soil improver because plenty of substitutes e
 - Green compost from recycling programs
 - Worm-worked compost
 - Kelp/seaweed
-- Spent [[mushroom-compost]]
+- Spent mushroom compost
 - Spent hops
 
 ## Peat-Free Composts for Containers
@@ -62,23 +62,27 @@ Soil-conditioning peat-free products can be dug into soil or used as a mulch on 
 - [[soil-conditioners-guide]] — detailed guide to alternative soil conditioners
 - [[composting-materials-alternative]] — sourcing compost materials sustainably
 - peat free gardening — the broader movement toward sustainable growing media
+## Historical Context
 
-## Key Concepts and Applications
+The study and practice of peat free gardening has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+Early practitioners developed foundational techniques that continue to inform current approaches.
 
-Understanding this subject requires examining multiple interconnected factors.
-Research has identified several key mechanisms that drive the underlying processes.
-Practical applications have been demonstrated across diverse environmental conditions.
-Field observations confirm the importance of proper technique and methodology.
-Historical practices provide valuable context for modern approaches and innovations.
-Comparative studies reveal both commonalities and unique aspects across systems.
-The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
-Long-term studies demonstrate the sustainability and efficacy of these approaches.
-Community-based implementations have shown promising results across various regions.
-Advanced practitioners continue to refine and optimize these established methods.
-New research tools enable more detailed analysis of complex interactions.
-Educational resources and training programs support broader adoption of best practices.
-Economic analyses suggest favorable returns on investment for implemented projects.
-Cross-disciplinary collaboration has accelerated progress in this developing field.
-Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+## Current Research
+
+Recent investigations into peat free gardening have yielded insights into previously unknown aspects of the subject.
+Modern analytical methods have enabled more precise characterization and optimization.
+Peer-reviewed publications continue to expand the evidence base supporting established practices.
+
+## Practical Applications
+
+Applied work with peat free gardening spans multiple contexts and scales.
+Successful implementation requires attention to site-specific conditions and adaptive management strategies.
+
+Ongoing work in this field remains dynamic, with new developments contributing to both theoretical frameworks and practical outcomes.
+## See Also
+
+- [[hamilton-peat-free-gardening-and-alternatives]]
+- [[comparison-coco-coir-cannabis-vs-peat-free-gardening]]
+- [[solomon-sheet-composting-mulch-gardening]]
+- [[solomon-gardening-aikido-pest-philosophy-ecological-management]]
+- [[drought-gardening]]

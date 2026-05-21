@@ -9,10 +9,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hegnauer, R. (1973). "Chemotaxonomie der Pflanzen." Birkhäuser Verlag.
-  - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists." Timber Press.
-  - Hutchings, M. (1987). "The Population Biology of the Early Spider Orchid Ophrys sphegodes Mill. I. A Demographic Study from 1975 to 1984." Journal of Ecology, 75(3), 711-727.
-  - USDA NRCS. "Caltha palustris L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=CAPA2
   - Erhardt, W. et al. (2008). "The Royal Horticultural Society Gardeners' Encyclopedia of Plants and Flowers." Dorling Kindersley.
 ---
 

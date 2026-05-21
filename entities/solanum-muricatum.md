@@ -10,9 +10,6 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Anderson, G.J. (1979). "The Systematics of Solanum sect. Basarthrum." University of Connecticut PhD Dissertation.
-  - Heiser, C.B. (1964). "Origin and Variability of the Pepino (Solanum muricatum)." Baileya 12.
-  - Prohens, J. et al. (2005). "Variation for Fruit Shape and Size in Pepino." Journal of Horticultural Science & Biotechnology 80(2).
   - Murray, K.E. et al. (1988). "Volatile Flavor Compounds of the Pepino Fruit." Journal of the Science of Food and Agriculture 43(3).
 ---
 

@@ -10,7 +10,7 @@ sources:
 
 # JADAM Herbal Pest Control (JHS)
 
-JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with [[jadam-wetting-agent]] (JWA) and optionally [[jadam-sulfur]] (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides.
+JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with JADAM wetting agent (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides.
 
 ## Why Herbal Pest Control
 
@@ -22,10 +22,10 @@ JADAM natural pesticide costs about 1/50 of buying chemical pesticides.
 
 Common plants with strong insect-repelling effects:
 
-- **[[jerusalem-artichoke]]** ([[helianthus-tuberosus]]) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
+- **Jerusalem artichoke** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
 - **Gingko** -- Tree has perfect defense mechanism against pests and diseases. Use fresh leaves, fallen leaves, and fruits.
 - **Korean pasque flower** (Pulsatilla koreana) -- Root is used. Strongest pesticide effect of all. Used in oriental medicine for blood circulation.
-- **Red spider lily** ([[lycoris-radiata]]) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
+- **Red spider lily** (Lycoris radiata) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
 - **Pokeweed, water pepper, bracken, foxglove** -- Also effective
 
 Other options: tobacco leaves (steep 15 days), hot pepper (steep 1 month), garlic (steep 1 month), gingko fruits (steep 1 month).

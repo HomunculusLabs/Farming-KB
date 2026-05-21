@@ -11,7 +11,6 @@ related_concepts:
   - biodynamic-preparations
   - comparison-biodynamic-vs-permaculture
   - comparison-biodynamic-vs-biointensive
-  - comparison-biodynamic-preparations-vs-biofertilizers
   - comparison-knf-vs-biodynamic
   - comparison-sepp-holzer-vs-biodynamic
 ---

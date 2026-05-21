@@ -12,8 +12,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Roper, T. (1993). Rowan. Tree News Publications.
-  - Mitchell, A.F. (1974). A ghouled-field-guide-historical-context to the Trees of Britain and Northern Europe. Collins.
-  - Czerwinski, A. et al. (2020). "Chemical composition of rowanberry." Journal of Food Composition and Analysis.
   - Bean, W.J. (1980). Trees and Shrubs Hardy in the British Isles. John Murray.
 ---
 

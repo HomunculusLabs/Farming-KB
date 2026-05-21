@@ -13,12 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Epstein, E. (1999). "Silicon." Annual Review of Plant Physiology and Plant Molecular Biology, 50, 641–664.
-  - Ma, J.F. & Yamaji, N. (2006). "Silicon uptake and accumulation in higher plants." Trends in Plant Science, 11(8), 392–397.
-  - Datnoff, L.E., Snyder, G.H., & Korndörfer, G.H. (2001). "Silicon in Agriculture." Elsevier.
-  - White, P.J. & Broadley, M.R. (2003). "Calcium in plants." Annals of Botany, 92(4), 487–511.
-  - Marschner, H. (2012). "Mineral Nutrition of Higher Plants," 3rd ed. Academic Press.
-  - Debona, D. et al. (2017). "Silicon: A new weapon in the war against rice blast disease." Frontiers in Plant Science, 8, 2014.
 created: 2026-05-07
 type: comparison
 ---

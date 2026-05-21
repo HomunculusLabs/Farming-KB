@@ -21,11 +21,6 @@ aliases:
   - Goldtooth Waxy Cap
   - Hygrophore à Dents Dorées
 sources:
-  - Bresinsky A, Besl H (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
-  - Courtecuisse R, Duhem B (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
-  - Kühner R, Romagnesi H (1953). "Flore Analytique des Champignons Supérieurs." Masson.
-  - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland Vol 3." Verlag Mykologia.
-  - "Hygrophorus chrysodon." Index Fungorum. www.indexfungorum.org.
 created: 2026-04-28
 ---
 

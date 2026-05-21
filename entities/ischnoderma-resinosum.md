@@ -11,9 +11,6 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores. Part 1." Synopsis Fungorum 6: 1-387.
-  - Pegler, D.N. & Spencer, D.M. (2001). "The British Basidiomycota." Royal Botanic Gardens, Kew.
-  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology 60(3): 258-274.
   - Dai, Y.C. et al. (2006). "Wood-inhabiting fungi in southern China." Sylloge Fungorum 23: 1-338.
 ---
 

@@ -9,7 +9,7 @@ sources: []
 
 # Rabbit Processing Guide
 
-On-farm rabbit processing provides a direct source of lean, high-quality meat and is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] processing itself requires minimal equipment compared to larger livestock.
+On-farm rabbit processing provides a direct source of lean, high-quality meat and is one of the most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, and the processing itself requires minimal equipment compared to larger livestock.
 
 ## Preparation
 
@@ -55,7 +55,7 @@ The two most common humane methods for on-farm rabbit dispatch:
 
 ### Bleet (Stunning and Exsanguination)
 
-1. Place the rabbit [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] killing cone, inverted
+1. Place the rabbit in the killing cone, inverted
 2. Hold the head firmly and deliver a sharp blow to the back of the skull with a heavy stick or rabbit punch tool
 3. Immediately cut the jugular veins and carotid arteries on both sides of the neck
 4. Allow the rabbit to bleed out completely (2-3 minutes)
@@ -93,13 +93,13 @@ The entire skinning process takes 2-3 minutes with practice.
 A rabbit can be left whole or cut into pieces for cooking:
 
 -  **Whole** — Leave intact for roasting or braising. Truss the legs.
--  **Pieces** — Cut into: 2 hind legs, 2 front legs, saddle (loin), and rib cage sections. This [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most versatile cut.
+-  **Pieces** — Cut into: 2 hind legs, 2 front legs, saddle (loin), and rib cage sections. This is the most versatile cut.
 -  **Boneless** — More advanced. Remove legs and saddle from the carcass. Yield is approximately 60-70% boneless meat from dressed weight.
 
 ## Chilling
 
--  **Immediate chilling** is critical for meat [[mollison-designers-fish-pond-water-quality-and-aeration]] safety
-- Submerge carcasses in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] (1 part ice to 1 part water) for 30-60 minutes
+-  **Immediate chilling** is critical for meat quality and safety
+- Submerge carcasses in ice water (1 part ice to 1 part water) for 30-60 minutes
 - Target core temperature below 4 C (40 F) within 2 hours of processing
 - Store chilled carcasses in the refrigerator at 0-4 C for up to 5 days
 - For longer storage, freeze immediately after chilling
@@ -137,8 +137,17 @@ Rabbit meat is exceptionally lean and nutritious:
 - Iron, B12, and niacin content comparable to other lean meats
 - Low in cholesterol relative to other red meats
 
+## Regulations
+
+In the United States, the USDA exempts rabbit processing from federal inspection if:
+- The producer raises and processes the rabbits on their own farm
+- Sales are direct to the end consumer (no retail, restaurant, or wholesale)
+- The producer does not process rabbits from other farms
+
+Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
+
+## Waste Utilization
 ## See Also
-- [[rabbit-husbandry]]
-- [[home-butcher-shop-setup]]
-- [[quail-husbandry-detailed]]
-- [[homestead-poultry-health]]
+
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
+- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]

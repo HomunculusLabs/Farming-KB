@@ -10,9 +10,6 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moore, M.O. (1991). "Classification and systematics of polypore-fungi-eastern-north-america American Vitis." Taxon, 40(4), 579-594.
-  - Galet, P. (1998). "A Practical Ampelography: Grapevine Identification." Cornell University Press.
-  - Comeaux, B.L. et al. (1987). "Enological characteristics of selected Vitis aestivalis grape cultivars." American Journal of Enology and Viticulture, 38(2), 139-143.
   - USDA NRCS (2024). "Vitis aestivalis Michx. Plant Guide." USDA Natural Resources Conservation Service.
 ---
 

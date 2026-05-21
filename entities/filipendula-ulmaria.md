@@ -12,9 +12,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "European Medicines Agency. (2015). \"Assessment report on Filipendula ulmaria.\" EMA/HMPC/438763/2010."
-  - "Mulinacci, N. et al. (2008). \"Flavonoids and phenolic acids in meadowsweet.\" J. Pharm. Biomed. Anal., 48(3), 642-648."
-  - "Barnes, J., Anderson, L.A., & Phillipson, J.D. (2007). Herbal Medicines, 3rd ed. Pharmaceutical Press."
   - "Kutschera, L. & Lichtenegger, E. (1982). Wurzelatlas mitteleuropäischer Grünlandpflanzen. Gustav Fischer."
 ---
 

@@ -11,7 +11,6 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zona, S. (1990). "A monograph of Sabal (Arecaceae: Coryphoideae)." Aliso, 12(2), 583-666.
   - Henderson, A. et al. (1995). "dmt-containing-plants-united-states-halpern, the Bahamas, Cuba, and the Turks and Caicos Islands. It is the state tree of both Florida and South Carolina.
 ---
 
