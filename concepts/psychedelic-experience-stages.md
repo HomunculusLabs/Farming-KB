@@ -1,5 +1,5 @@
 ---
-title: Psychedelic [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]] Stages — Turner's Model
+title: Psychedelic mckenna-dmt-onset-phenomenology-and-mode-shift-experience Stages — Turner's Model
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

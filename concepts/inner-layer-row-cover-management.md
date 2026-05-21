@@ -1,6 +1,6 @@
 ---
 title: Inner Layer Row Cover Management
-source: eliot-coleman-winter-harvest-[[eliot-coleman-and-the-winter-harvest-handbook]].md
+source: eliot-coleman-winter-harvest-eliot-coleman-and-the-winter-harvest-handbook.md
 type: concept
 ---
 ## Related Concepts

@@ -18,7 +18,7 @@ tags:
 sources:
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - raw/unknown-nutrient-and-dynamic-accumulators.md
-- raw/william-ozier-williams-pdc_-a-permaculture-[[permaculture-zone-one-zone-two-design]]-cours.md
+- raw/william-ozier-williams-pdc_-a-permaculture-permaculture-zone-one-zone-two-design-cours.md
 - web-research
 ---
 

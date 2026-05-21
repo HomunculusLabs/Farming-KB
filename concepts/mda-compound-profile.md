@@ -57,15 +57,15 @@ MDA can be formed as a metabolite of MDMA through N-demethylation, which contrib
 ## Pharmacology
 
 MDA acts on multiple neurotransmitter systems:
-- **Serotonin**: Releases serotonin and acts as a 5-HT2A receptor agonist (responsible for psychedelic effects)
+- **[[serotonin]]**: Releases serotonin and acts as a 5-HT2A receptor agonist (responsible for psychedelic effects)
 - **Dopamine**: Releases dopamine (responsible for stimulant effects)
 - **Norepinephrine**: Releases norepinephrine (responsible for cardiovascular effects)
 
-This blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See phenethylamine-receptor-pharmacology.
+This blue-light-[[phototropism]]-red-light-[[photoperiodism]]-dual-plant-vision-system action — serotonin release plus 5-HT2A agonism — distinguishes MDA from purely empathogenic or purely psychedelic compounds. See phenethylamine-receptor-pharmacology.
 
 ## Synthesis
 
-MDA is typically synthesized from safrole or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
+MDA is typically synthesized from [[safrole]] or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
 
 See also: mdma-in-pihkal-context, dob-compound-profile, phenethylamine-chemistry-basics, phenethylamine-receptor-pharmacology
 
@@ -85,4 +85,3 @@ New findings regularly contribute to our understanding.
 - [[ahcc-active-hexose-correlated-compound]]
 - [[aleph-compound-profile]]
 - [[lsd-compound-profile]]
-- [[shulgin-mda-compound-profile]]

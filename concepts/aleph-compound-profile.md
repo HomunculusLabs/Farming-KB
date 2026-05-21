@@ -92,9 +92,9 @@ that can amplify overall effectiveness.
 
 ## See Also
 - [[2c-b-compound-profile]]
-- [[shulgin-mda-compound-profile]]
+- [[mda-compound-profile]]
 - [[5-meo-dmt-compound-profile]]
-- [[shulgin-mda-compound-profile]]
+- [[mda-compound-profile]]
 - [[2c-t-7-compound-profile]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

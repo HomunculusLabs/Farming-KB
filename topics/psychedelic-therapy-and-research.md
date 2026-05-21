@@ -3,15 +3,15 @@ title: Psychedelic Therapy and Research
 type: topic
 tags: [psychedelic-therapy, mdma, psilocybin, lsd, clinical-research, psychiatry, mental-health, consciousness, psychopharmacology]
 related:
-  - [[mdma-compound-profile]]
-  - [[psilocybin-therapy]]
-  - [[psychedelic-therapy-foundations]]
-  - [[psychedelic-therapy-mechanisms]]
-  - [[psychedelic-therapy-set-and-setting]]
-  - [[psychedelic-research-timeline]]
-  - [[controlled-substances-act-and-psychedelic-research]]
-  - [[psycholytic-and-psychedelic-therapy-models]]
-  - [[psychedelic-therapy-shamanism-comparison]]
+  - mdma-compound-profile
+  - psilocybin-therapy
+  - psychedelic-therapy-foundations
+  - psychedelic-therapy-mechanisms
+  - psychedelic-therapy-set-and-setting
+  - psychedelic-research-timeline
+  - controlled-substances-act-and-psychedelic-research
+  - psycholytic-and-psychedelic-therapy-models
+  - psychedelic-therapy-shamanism-comparison
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
   - shroom-a-cultural-history-of-the-magic-mushroom.md

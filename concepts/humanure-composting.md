@@ -7,7 +7,7 @@ type: concept
 tags:
 - compost
 - homesteading
-- [[gaias-garden-soil-food-web-living-soil]]
+- gaias-garden-soil-food-web-living-soil
 - biology
 - regenerative
 - composting

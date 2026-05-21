@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-DOET (2,5-dimethoxy-4-ethyl[[shulgin-mda-compound-profile]] #35. It is a member
+DOET (2,5-dimethoxy-4-ethyl[[mda-compound-profile]] #35. It is a member
 of the DO (dimethoxyamphetamine) family, distinguished by an ethyl group at
 the 4-position rather than the halogen atoms found in more famous DO
 compounds like DOB, DOC, and DOI.

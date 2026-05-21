@@ -1,5 +1,5 @@
 ---
-title: Protected Cultivation — [[coleman-double-layer-protection-greenhouse-row-cover]]s and Low Tunnels
+title: Protected Cultivation — coleman-double-layer-protection-greenhouse-row-covers and Low Tunnels
 created: 2026-04-26
 tags: [row-covers, low-tunnels, protected-cultivation, coleman
 sources: The Winter Harvest Handbook, Eliot Coleman (2009)

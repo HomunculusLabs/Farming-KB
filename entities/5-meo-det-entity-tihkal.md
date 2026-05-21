@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal, tryptamines]
-sources: ["raw/papers/shulgin-mda-compound-profile|shulgin-a-tihkal.md"]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 ## 5-MeO-DET — TIHKAL #36
 

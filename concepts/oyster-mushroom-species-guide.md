@@ -1,5 +1,5 @@
 ---
-title: [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] Species Guide
+title: oyster-mushroom-log-cultivation-temperate-regions-short-log-method Species Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

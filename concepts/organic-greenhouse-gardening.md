@@ -8,7 +8,7 @@ tags:
 - gardening
 - indoor
 - equipment
-- plant-[[query-how-does-soil-temperature-affect-plant-growth-and-how-can-i-manage-it]]
+- plant-query-how-does-soil-temperature-affect-plant-growth-and-how-can-i-manage-it
 - organic
 - lighting
 - design

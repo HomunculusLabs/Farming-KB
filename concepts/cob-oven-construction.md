@@ -1,5 +1,5 @@
 ---
-title: Cob Oven [[query-when-should-i-use-slip-form-stone-construction]]
+title: Cob Oven query-when-should-i-use-slip-form-stone-construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

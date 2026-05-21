@@ -8,7 +8,7 @@ tags:
 - jadam
 - recipe
 - pesticide
-- pest-[[jadam-natural-pesticide-ultra-low-cost-pest-control]]
+- pest-jadam-natural-pesticide-ultra-low-cost-pest-control
 - water
 - wood-rot
 - plant-systems
