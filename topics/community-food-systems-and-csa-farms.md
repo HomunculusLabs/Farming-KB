@@ -14,7 +14,8 @@ related_concepts:
   - small-scale-intensive-food-systems-mollison
   - mollison-town-permaculture-urban-food-systems
   - williams-pdc-food-systems
----ommunity food systems represent a fundamental reimagining of how food moves
+---
+ommunity food systems represent a fundamental reimagining of how food moves
 from farm to table. Unlike the industrial supply chain — where produce may
 travel thousands of miles through processing facilities, distribution centers,
 and retail shelves — community food systems prioritize local production, direct

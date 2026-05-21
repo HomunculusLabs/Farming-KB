@@ -1,5 +1,6 @@
 ---
 title: "Root fukuoka-semi-wild-vegetable-growing-natural-method Guide: Carrots, Beets, Turnips,
+---
   Parsnips, and Radishes"
 subtitle: "Comprehensive cultivation guide for temperate root crops,
   from soil preparation through harvest and winter storage"

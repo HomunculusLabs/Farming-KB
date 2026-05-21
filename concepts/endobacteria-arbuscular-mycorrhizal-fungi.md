@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Endobacteria in Arbuscular Mycorrhizal Fungi
+---
+# Endobacteria in Arbuscular Mycorrhizal Fungi
 
 ## Overview
 

@@ -3,6 +3,7 @@ title: Jorge Cervantes
 created: 2026-04-28
 updated: 2026-05-06
 type: person
+---
 subtype: horticulture author
 aliases:
   - George Van Patten
@@ -30,7 +31,8 @@ tags:
   - author
   - indoor-growing
   - medical-cannabis
----# Jorge Cervantes
+---
+# Jorge Cervantes
 
 ## Overview
 

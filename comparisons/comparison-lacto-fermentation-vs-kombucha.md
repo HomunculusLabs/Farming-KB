@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Comparison: Lacto-Fermentation vs. Kombucha
+---
+# Comparison: Lacto-Fermentation vs. Kombucha
 
 Both lacto-fermentation and kombucha are [[fukuoka-microbial-ecology-decomposition]], substrate requirements, biochemical pathways, and end products. Understanding these differences is essential for choosing the right method for a given ingredient or desired outcome.
 

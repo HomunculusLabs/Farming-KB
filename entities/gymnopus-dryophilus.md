@@ -16,7 +16,8 @@ updated: 2026-04-28
 sources:
  (taxonomic classification)
   - Royse, D.J. (2014). "Mycological and cultural characteristics of the edible Collybia dryophila group." Applied Microbiology, 28(4), 582-588.
----# Gymnopus dryophilus (Oak-loving Collybia)
+---
+# Gymnopus dryophilus (Oak-loving Collybia)
 
 ## Overview
 

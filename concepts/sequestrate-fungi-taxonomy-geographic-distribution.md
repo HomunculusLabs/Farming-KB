@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Sequestrate Fungi Taxonomy and Geographic Distribution
+---
+# Sequestrate Fungi Taxonomy and Geographic Distribution
 
 The [[sequestrate-fungi]] occur in three major groups:
 

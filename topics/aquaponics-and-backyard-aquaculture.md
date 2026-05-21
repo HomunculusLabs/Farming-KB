@@ -1,5 +1,6 @@
 ---
 title: Aquaponics and Backyard Aquaculture
+---
 subtitle: Integrated fish and plant systems from ancient rice paddies to modern
   recirculating ecosystems
 tags: [aquaponics, aquaculture, permaculture, hydroponics, fish-farming,

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Wildfire Dynamics and Firestorm Behavior in Permaculture Design
+---
+# Wildfire Dynamics and Firestorm Behavior in Permaculture Design
 
 [[holzer-permaculture-landscape-design]]. Understanding how fires behave, spread, and
 intensify is essential for placing structures, selecting species, and

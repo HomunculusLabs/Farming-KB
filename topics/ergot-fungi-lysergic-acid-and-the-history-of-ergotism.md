@@ -1,5 +1,6 @@
 ---
 title: Ergot Fungi, Lysergic Acid, and the History of Ergotism
+---
 subtitle: From medieval plagues and sacred mysteries to the birth of modern psychopharmacology
 tags: [ergot, claviceps, lysergic-acid, lsd, mycology, history, toxicology,
   psychedelics, ethnomycology, alkaloids, eleusinian-mysteries]

@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/chos-global-natural-farming.md"
 type: concept
----# Natural Farming Microbial Inoculants
+---
+# Natural Farming Microbial Inoculants
 
 Microbial inoculants are living microorganism preparations applied to
 soil or plants to enhance nutrient cycling, [[cho-han-kyu]], uses

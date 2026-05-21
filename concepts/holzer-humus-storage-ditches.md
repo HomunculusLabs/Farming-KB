@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Humus Storage Ditches
+---
+# Humus Storage Ditches
 
 Humus storage ditches are one of [[krameterhof-holzer-model-farm]] and can be adapted
 to virtually any terrain.

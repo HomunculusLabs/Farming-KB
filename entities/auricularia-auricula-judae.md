@@ -15,7 +15,8 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
  — Auricularia polysaccharide and cardiovascular studies
   - Stamets, P. (2000). cancer-medicinal-mushrooms-extraction-bioavailability in Human Clinical Studies." Pharm. Nutr.
---- Auricularia auricula-judae
+---
+ Auricularia auricula-judae
 
 **Wood Ear** · **Jew's Ear** · **Jelly Ear** · **黑木耳** (Mù'ěrguā)
 

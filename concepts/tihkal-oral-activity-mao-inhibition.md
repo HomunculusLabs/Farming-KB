@@ -3,6 +3,7 @@ title: Tihkal Oral Activity Mao Inhibition
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [MAO, oral activity, rendering them pharmacologically inactive.]
+---
 Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[ayahuasca]] (combining DMT-[[dmt-maoi-plants-united-states]] with MAOI-[[query-how-does-one-carbon-metabolism-affect-methylation]] ([[dipt]]): orally active
 - N-ethyl-N-isopropyl (EIPT): orally active
 

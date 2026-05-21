@@ -1,5 +1,6 @@
 ---
 title: Ecological Sanitation and Waste Recycling Systems
+---
 subtitle: Closing the loop between human waste, water, and fertile soil
 tags:
   - sanitation

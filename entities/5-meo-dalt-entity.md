@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10006078/
----# 5-MeO-DALT (N,N-Diallyl-5-methoxytryptamine)
+---
+# 5-MeO-DALT (N,N-Diallyl-5-methoxytryptamine)
 
 ## Overview
 

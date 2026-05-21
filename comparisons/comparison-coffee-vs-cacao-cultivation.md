@@ -11,6 +11,7 @@ type: comparison
   - shade-grown
   - tree-crops
   - small-scale-farming
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

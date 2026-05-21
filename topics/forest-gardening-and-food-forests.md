@@ -1,5 +1,6 @@
 ---
 title: Forest Gardening and Food Forests
+---
 subtitle: Designing Self-Sustaining Edile Ecosystems Modeled on Natural Woodlands
 tags: [permaculture, food-forest, agroforestry, polyculture, guild-design, self-sufficiency, ecological-design]
 date: 2026-04-28

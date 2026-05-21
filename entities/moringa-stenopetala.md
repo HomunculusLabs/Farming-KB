@@ -15,7 +15,8 @@ leaf vegetable, dighton-fungal-communities-grassland-soils in southern Ethiopia 
 micronutrient source during dry seasons. The tree is increasingly recognized
 for water-absorption-variability-grass-seed-substrate-preparations. It is drought-deciduous, dropping leaves in dry periods and
 refoliating rapidly with rains.
----ntroduced to Tanzania, Uganda, and India for [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]s contain glucomoringin (a Moringaceae-specific glucosinolate),
+---
+ntroduced to Tanzania, Uganda, and India for [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]s contain glucomoringin (a Moringaceae-specific glucosinolate),
 quercetin, kaempferol, and chlorogenic acid as primary constituents.
 
 Hypoglycemic activity is confirmed in animal models. Aqueous leaf extracts

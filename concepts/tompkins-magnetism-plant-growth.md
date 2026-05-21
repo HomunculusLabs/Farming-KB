@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
----# Magnetism and Plant Growth
+---
+# Magnetism and Plant Growth
 
 The influence of magnetic fields on plant growth has been observed
 across centuries and cultures, from folk wisdom about planting seeds

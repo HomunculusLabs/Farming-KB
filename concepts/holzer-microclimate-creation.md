@@ -13,7 +13,8 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
----# Holzer Microclimate Creation
+---
+# Holzer Microclimate Creation
 
 Creating microclimates is one of [[holzer-crater-gardens-hugelkultur]] built
 into the ground are protected from wind, function as heat traps, and

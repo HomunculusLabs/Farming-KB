@@ -17,12 +17,14 @@ tags:
   - edible
   - traditional-medicine
   - perennial
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Nam, M.H. et al. (2017). " of
+  - Nam, M.H. et al. (2017).  of
 Europe, Asia, Africa, and cannabis-for-inflammatory-conditions.
----he genus name *Prunella* likely derives from the German *Brunelle* (quinsy),
+---
+he genus name *Prunella* likely derives from the German *Brunelle* (quinsy),
 referring to its traditional use for throat ailments. The common name "self-heal"
 reflects its reputation as a versatile folk remedy for minor injuries and
 infections.

@@ -12,7 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Preston, R.J. (1976). mollison-course-coppice-forest-management, black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
----# Cultivation
+---
+# Cultivation
 
 Black maple transplants readily as balled-and-burlapped or container-grown stock. It requires full sun for optimal growth and develops a strong [[acer-saccharum]]
 - [[ribes-nigrum]]

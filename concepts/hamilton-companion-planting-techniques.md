@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Companion Planting Techniques
+---
+# Companion Planting Techniques
 
 Companion planting is a technique practiced by many organic gardeners.
 The theory is that plants have specific likes and dislikes concerning

@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Bacteriophages vs Antibiotics
+---
+# Bacteriophages vs Antibiotics
 
 Bacteriophages (phages) and antibiotics are the two primary antimicrobial strategies used to combat [[cannabis-health-methods-of-administration]] are critical for maintaining efficacy throughout treatment.
 

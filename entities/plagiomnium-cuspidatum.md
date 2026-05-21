@@ -12,7 +12,8 @@ updated: 2026-05-10
 sources:
   - Flora  moisture retention and
 provides microhabitat for numerous invertebrate species.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 Plagiomnium cuspidatum was originally described as Mnium cuspidatum by Johann
 Hedwig in 1801. It was transferred to the genus Plagiomnium by T. Koponen in

@@ -8,25 +8,25 @@ tags:
   - berry-cultivation
   - permaculture
   - fruit-shrubs
+---
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - title: "The Berry Grower's Companion"
+  - title: The Berry Growers Companion
     author: "Barbara L. Bowling"
     year: 2000
-  - title: "Growing Fruit"
+  - title: Growing Fruit
     author: "Harry Baker"
     publisher: "Royal Horticultural Society"
     year: 2015
     url: "https://fruit.cornell.edu/berry/"
     url: "https://catalog.extension.oregonstate.edu/em9161"
-  - title: "The Holistic Orchard"
+  - title: The Holistic Orchard
     author: "Michael Phillips"
     year: 2011
 type: comparison
 created: 2026-05-03
 ---
-
 ## Elderberry vs Gooseberry vs Currant (Ribes) — Cultivation Comparison
 
 Three of the most rewarding berry shrubs for home orchards and permaculture sites,

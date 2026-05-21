@@ -15,6 +15,7 @@ tags:
   - climbing-vine
 created: 2026-04-28
 updated: 2026-04-28
+---
 aliases:
   - Smilax ornata
   - Mexican sarsaparilla
@@ -23,7 +24,8 @@ aliases:
   - Smilax aristolochiifolia
 sources:
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/smilax_ornata.shtml
----# Overview
+---
+# Overview
 
 **Smilax ornata** is a perennial climbing vine in the family Smilacaceae (sometimes placed in Asparagaceae subfamily Smilacoideae).
 

@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Nonsystemic Endophytic Fungi of Nongrass Hosts
+---
+# Nonsystemic Endophytic Fungi of Nongrass Hosts
 Nonsystemic endophytic fungi colonize plant tissues internally
 without causing visible disease symptoms, in contrast to the
 well-known [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within

@@ -10,7 +10,8 @@ sources:
  (search: bioacoustic monitoring ecology)
  (search: bioacoustics review)
   - https://www.pnas.org/ (search: acoustic communication animals)
----# What Is Bioacoustics?
+---
+# What Is Bioacoustics?
 
 Bioacoustics is the interdisciplinary [[duggar-mushroom-environmental-factors-temperature-moisture-light]] like temperature, humidity, and vegetation density affect transmission.
 - **Perception and neurobiology:** Investigating how auditory systems decode acoustic signals, including frequency discrimination, sound localization, and the neural processing of complex vocalizations.

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Layering Propagation Techniques
+---
+# Layering Propagation Techniques
 
 Layering is a method of increasing plants that involves burying part of
 a stem in the soil while it remains attached to the parent plant. The

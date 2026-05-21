@@ -6,7 +6,8 @@ updated: 2026-05-03
 sources:
 created: 2026-05-03
 type: query
----# What Are Predatory Mites and How Can I Use Them for Pest Control?
+---
+# What Are Predatory Mites and How Can I Use Them for Pest Control?
 
 ## Quick Answer
 

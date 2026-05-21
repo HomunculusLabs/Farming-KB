@@ -2,6 +2,7 @@
 title: Cotter Grain Spawn Production
 created: 2026-04-26
 tags: [spawn-production, grain]
+---
 Autoclavable bags with aeration filters are used for large quantities. Oven
 bags or microwavable bags work in a pinch. The preferred expansion path is
 double-layer-tinfoil-jar-covering-pressure-cooker-method or autoclave. Process at 12-15 PSI for two hours.

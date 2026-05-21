@@ -1,5 +1,6 @@
 ---
 title: Acidobacteria iii1-15 Decline in Cannabis Endorhiza
+---
 slug: cannabis-acidobacteria-iii1-15-endorhiza-decline-two-tier-model
 tags:
   - acidobacteria

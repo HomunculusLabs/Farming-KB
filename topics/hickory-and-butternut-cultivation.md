@@ -12,7 +12,8 @@ updated: 2026-04-28
 sources:
   - USDA Forest Service Silvics Manual
   - Cornell University Horticulture Department
----# Hickory and Butternut Cultivation
+---
+# Hickory and Butternut Cultivation
 
 ## Overview
 

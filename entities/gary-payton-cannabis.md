@@ -12,6 +12,7 @@ tags:
   - gas-terpene-profile
   - exotic-cannabis
   - west-coast-genetics
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

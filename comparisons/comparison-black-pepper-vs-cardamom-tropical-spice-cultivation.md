@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Parry, J.W. (1969). *Spices: Their Morphology, Histology and Chemistry*. Chemical Publishing Company.
----# Overview
+---
+# Overview
 
 Black pepper (*[[irrigation-systems]] are increasingly adopted in commercial pepper plantations in India, Vietnam, and Indonesia. Mulching the root zone with dried leaves or coconut coir also helps retain soil moisture between rainfall events.
 

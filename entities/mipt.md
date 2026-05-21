@@ -12,7 +12,8 @@ updated: 2026-04-28
 sources:
 documented in TIHKAL (Tryptamines I Have Known and Loved) with a full
 self-experiment report.
----IPT is structurally related to DMT and DPT, differing by the N-alkyl
+---
+IPT is structurally related to DMT and DPT, differing by the N-alkyl
 substitution pattern. The isopropyl group confers unique pharmacokinetic
 properties that distinguish it from other short-acting tryptamines.
 

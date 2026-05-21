@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Cover Crops and Soil Biology
+---
+# Cover Crops and Soil Biology
 
 Cover crops are plants grown primarily to benefit the soil rather than for
 harvest. In "Teaming With Microbes," Lowenfels and Lewis present cover crops

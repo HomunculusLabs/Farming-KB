@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Solar Food Drying and Preservation
+---
+# Solar Food Drying and Preservation
 
 [[mollison-designers-herb-spiral-design-construction]] gardens are excellent candidates
   for solar drying.

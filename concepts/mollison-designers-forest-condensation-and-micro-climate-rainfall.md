@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Forest Condensation and Micro-Climate Rainfall
+---
+# Forest Condensation and Micro-Climate Rainfall
 
 One of the most significant yet underappreciated functions of
 forests is their ability to generate water through condensation and

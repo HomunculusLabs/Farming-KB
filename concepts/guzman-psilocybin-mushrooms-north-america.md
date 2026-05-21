@@ -1,6 +1,7 @@
 ---
 title: Psilocybin Mushrooms of North America (USA and Canada)
 created: 2026-04-26
+---
 aliases:
   - Neurotropic fungi of North America
   - Magic mushrooms of USA

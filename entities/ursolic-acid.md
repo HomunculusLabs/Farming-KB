@@ -16,7 +16,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Liu, J. (1995). "Pharmacology of oleanolic acid and ursolic acid." Journal of Ethnopharmacology.
----# Ursolic Acid
+---
+# Ursolic Acid
 
 ## Overview
 

@@ -10,6 +10,7 @@ tags:
   - nut-tree
   - agroforestry
   - food-forest
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -19,7 +20,8 @@ sources:
 - **Flowers:** Monoecious. Male catkins: pendulous, green-yellow, 5–10 cm long, appearing with or before leaves in spring. Female flowers: small, in clusters of 2–5 at twig tips, with bright red stigmas.
 - **Fruit:** Spherical drupe, 3–5 cm diameter. Green, fleshy husk encloses a hard, deeply ridged, corrugated nut shell. Husk stains skin dark brown (used historically as a dye).
 - **Roots:** Deep taproot system; extensive lateral roots; all parts produce juglone
----## Distinguishing Features
+---
+## Distinguishing Features
 
 1. **Chambered pith:** The most reliable diagnostic feature; cut a twig lengthwise to reveal chambers
 2. **Bark:** Deeply furrowed diamond pattern unique among eastern hardwoods

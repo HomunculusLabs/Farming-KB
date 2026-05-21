@@ -13,7 +13,8 @@ updated: 2026-04-28
 sources:
  (hericium erinaceus neurogenesis)
   - Mizuno, T. (1995). "Bioactive biomolecules of mushrooms." Food Reviews International.
----# Lion's Mane (Hericium erinaceus)
+---
+# Lion's Mane (Hericium erinaceus)
 
 ## Overview
 

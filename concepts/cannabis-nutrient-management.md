@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
----# Cannabis Nutrient Management
+---
+# Cannabis Nutrient Management
 
 ## Overview
 

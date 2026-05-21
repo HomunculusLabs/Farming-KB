@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Community Analysis by Molecular Methods in Remediation
+---
+# Fungal Community Analysis by Molecular Methods in Remediation
 
 Understanding [[mineralogical-controls-fungal-community-structure]] and dynamics in contaminated
 environments is essential for predicting remediation outcomes and

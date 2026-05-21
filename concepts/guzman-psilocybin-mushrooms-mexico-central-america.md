@@ -1,6 +1,7 @@
 ---
 title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Mexico and guzman-allen-gartz-neurotropic-fungi-central-america-caribbean
 created: 2026-04-26
+---
 aliases:
   - Neurotropic fungi of Mexico
   - Magic mushrooms of Central America

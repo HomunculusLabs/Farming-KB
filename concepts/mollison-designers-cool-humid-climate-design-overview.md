@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Cool Humid Climate Design Overview
+---
+# Cool Humid Climate Design Overview
 
 Mollison devotes extensive attention to the cool humid [[polypore-fungi-eastern-north-america]] America, southern South America,
 and highland regions globally. This is the most agriculturally productive

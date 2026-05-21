@@ -3,11 +3,10 @@ title: Cho's Global comparison-natural-farming-vs-permaculture - Livestock Appli
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Cho's Global Natural Farming
+  - Chos Global Natural Farming
 type: concept
 tags: [animal-husbandry, natural-farming]
 ---
-
 ## Cho's Global Natural Farming - Livestock Applications
 
 Dr. Cho's Natural Farming extends beyond crop production to encompass a comprehensive system for raising livestock, particularly poultry. The livestock component of CGNF mirrors the same principles applied to crops: eliminate chemical inputs, leverage [[knf-chicken-house-design]] is engineered to be self-maintaining -- no bad smell, no emissions, no cleaning needed, and no disease. Each structural element serves a specific purpose:

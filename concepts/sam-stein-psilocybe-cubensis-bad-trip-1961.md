@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Sam Stein's Psilocybe Cubensis Bad Trip (1961)
+---
+# Sam Stein's Psilocybe Cubensis Bad Trip (1961)
 
 ## The First Documented Psilocybin Bad Trip in a Laboratory Setting
 

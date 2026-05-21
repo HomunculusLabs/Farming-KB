@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Arbuscule Isolation and Metabolic Activity Assays
+---
+# Arbuscule Isolation and Metabolic Activity Assays
 
 ## Overview
 

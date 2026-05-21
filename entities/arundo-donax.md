@@ -17,11 +17,13 @@ tags:
   - riparian
   - giant-reed
   - biofuel
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.fs.usda.gov/plantguide/pdf/pg_ardo.pdf
----# Arundo donax
+---
+# Arundo donax
 
 ## Overview
 

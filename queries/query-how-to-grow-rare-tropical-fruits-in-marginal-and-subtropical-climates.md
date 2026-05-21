@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
----# How to Grow Rare Tropical Fruits in Marginal and Subtropical Climates
+---
+# How to Grow Rare Tropical Fruits in Marginal and Subtropical Climates
 
 ## Which Rare Tropical Fruits Can Survive Marginal Conditions?
 

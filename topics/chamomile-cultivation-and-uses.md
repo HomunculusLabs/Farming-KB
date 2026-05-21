@@ -12,7 +12,8 @@ related_concepts:
   - medicinal-herb-growing-guide
   - herbal-medicine-making
   - companion-planting-and-polycultures
----# [[matricaria-chamomilla]], formerly Matricaria recutita) and
+---
+# [[matricaria-chamomilla]], formerly Matricaria recutita) and
 Roman chamomile (Chamaemelum nobile, formerly Anthemis nobilis). Despite their
 shared common name and overlapping medicinal profiles, these two plants differ
 markedly in their botany, growth habits, preferred growing conditions, and

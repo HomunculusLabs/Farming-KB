@@ -16,6 +16,7 @@ tags:
   - invasive
   - erosion-control
   - fast-growing
+---
 date: 2026-05-09
 updated: 2026-05-09
 sources:
@@ -24,7 +25,8 @@ aliases:
   - Purple Bamboo
   - Kuro-chiku
   - Moso-chikyu
----# Overview
+---
+# Overview
 
 **Phyllostachys nigra** is a running bamboo species native to the Hunan and Jiangxi provinces of southern China, renowned for the striking dark purple-to-black coloration of its mature culms. It is one of the most widely recognized ornamental bamboos globally, prized for its dramatic color contrast against green foliage and its elegant, arching habit.
 

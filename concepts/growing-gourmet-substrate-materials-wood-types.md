@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Substrate Materials and Wood Types for Mushroom Cultivation
+---
+# Substrate Materials and Wood Types for Mushroom Cultivation
 
 The potential for recycling organic wastes with fungi seems
 unlimited. Surprisingly, many mushrooms thrive on base materials

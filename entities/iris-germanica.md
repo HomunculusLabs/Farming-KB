@@ -11,7 +11,8 @@ updated: 2026-05-09
 sources:
   - Mathew, B. (1981). "The Iris." Batsford.
 and Iris variegata (hungarian iris), both native to the Balkans.
----he plant grows from thick, fleshy rhizomes that spread horizontally at or
+---
+he plant grows from thick, fleshy rhizomes that spread horizontally at or
 just below the soil surface. These rhizomes store starches and fragrant
 [[guzman-psilocybin-mushrooms-north-america]], and
 parts of North Africa and western Asia. In Mediterranean countries, it has

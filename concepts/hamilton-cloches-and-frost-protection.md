@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cloches and Frost Protection in Organic Gardening
+---
+# Cloches and Frost Protection in Organic Gardening
 
 [[hamilton-deep-bed-system]]
 - [[hamilton-vegetable-planning-rotation]]

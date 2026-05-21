@@ -12,7 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - https://www.conifers.org/pi/la/occidentalis.php
----# Overview
+---
+# Overview
 
 Western larch (*Larix occidentalis*) is a large deciduous conifer native to the mountainous regions of the Pacific Northwest. It is the most massive of the world's larch species, capable of reaching heights of 60 meters with trunk diameters exceeding 2 meters. Champion trees have been recorded with heights approaching 70 meters, making western larch one of the tallest hardwood-needle conifers in the world.
 

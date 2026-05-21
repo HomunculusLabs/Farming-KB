@@ -15,7 +15,8 @@ sources:
  — chupacabra-strain-profile-sickmeds-oner and reviews
  — cannabis genomics and landrace mapping
 created: 2026-04-28
----Durban Poison** is a pure  race [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
+---
+Durban Poison** is a pure  race [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage
 

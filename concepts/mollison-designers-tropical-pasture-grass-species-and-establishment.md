@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Tropical Pasture Grass Species and Establishment
+---
+# Tropical Pasture Grass Species and Establishment
 
 The selection and establishment of tropical pasture grasses is a
 critical design factor for livestock systems in humid, sub-humid, and

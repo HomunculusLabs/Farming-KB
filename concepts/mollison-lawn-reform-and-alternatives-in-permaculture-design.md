@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Lawn Reform and Alternatives in [[fukuoka-road-lawn-culture]] in the design literature. In
+---
+# Lawn Reform and Alternatives in [[fukuoka-road-lawn-culture]] in the design literature. In
 Section 12.12, "The Lawn," Mollison documents the enormous
 environmental cost of ornamental lawns and proposes permaculture
 alternatives that convert wasted resources into food, habitat, and

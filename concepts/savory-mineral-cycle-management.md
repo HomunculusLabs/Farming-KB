@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mineral Cycle Management
+---
+# Mineral Cycle Management
 
 The mineral cycle is one of the four [[savory-holistic-resource-management-animal-impact]] Management. It describes the circular journey of
 nutrient elements through the ecosystem, from deep soil layers to

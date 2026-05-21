@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Herpes (HSV-1 and HSV-2)
+---
+# Cannabis and Herpes (HSV-1 and HSV-2)
 
 ## Overview
 

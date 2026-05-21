@@ -1,5 +1,6 @@
 ---
 title: "Sustainable Forestry, Coppicing, and Woodlot Management"
+---
 subtitle: "Designing productive tree systems for fuel, timber, habitat, fungi, and farm resilience"
 tags: [forestry, coppicing, woodlot, agroforestry, permaculture, mycoforestry, timber]
 date: 2026-04-28

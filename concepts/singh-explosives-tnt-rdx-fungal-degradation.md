@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Explosives TNT and RDX Fungal Degradation
+---
+# Explosives TNT and RDX Fungal Degradation
 
 Military munitions contamination from manufacturing, testing, and disposal
 activities has introduced persistent explosive compounds into soils and

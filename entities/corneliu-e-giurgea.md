@@ -1,6 +1,7 @@
 ---
 title: "Corneliu E. Giurgea"
 type: entity
+---
 entity_type: person
 aliases:
   - Corneliu Giurgea
@@ -25,7 +26,8 @@ tags:
 sources:
 related_concepts:
   - nootropic-herbs-guide
----# Corneliu E. Giurgea
+---
+# Corneliu E. Giurgea
 
 ## Overview
 

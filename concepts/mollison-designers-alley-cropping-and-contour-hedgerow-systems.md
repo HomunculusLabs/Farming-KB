@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Alley Cropping and Contour Hedgerow Systems
+---
+# Alley Cropping and Contour Hedgerow Systems
 
 Alley cropping, also known as hedgerow intercropping, is an agroforestry
 practice that integrates rows of perennial woody plants with annual or

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Peroxidase-Catalyzed PAH Degradation by Fungi
+---
+# Peroxidase-Catalyzed PAH Degradation by Fungi
 
 Enzyme treatment provides a powerful strategy for the removal of
 [[fungal-manganese-peroxidase-remediation]] (MnP), which

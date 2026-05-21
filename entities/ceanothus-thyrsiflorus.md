@@ -1,6 +1,7 @@
 ---
 title: "Ceanothus thyrsiflorus"
 type: species
+---
 aliases:
   - "Blueblossom"
   - "California Lilac"

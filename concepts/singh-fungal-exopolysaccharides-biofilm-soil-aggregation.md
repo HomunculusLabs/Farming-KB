@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
+---
+# Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
 
 Fungal exopolysaccharides (EPS) and related extracellular polymeric substances
 play critical roles in [[soil-structure-formation]], water retention, and

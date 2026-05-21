@@ -135,5 +135,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[dimethyltryptamine-n-oxide]]
 - [[dmt-dimethyltryptamine-experience-guide]]
-- [[dmt-nn-dimethyltryptamine]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
 - [[dmt-nn-dimethyltryptamine-comprehensive]]

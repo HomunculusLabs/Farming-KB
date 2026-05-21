@@ -16,7 +16,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Ameri, A. (1998). "The effects of aconitum alkaloids on the central nervous system." Progress in Neurobiology, 56(2), 211-235.
----# Aconitine
+---
+# Aconitine
 
 ## Overview
 

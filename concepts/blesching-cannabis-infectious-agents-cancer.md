@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Infectious Agents and Cancer - Cannabis Research
+---
+# Infectious Agents and Cancer - Cannabis Research
 
 ## Overview
 

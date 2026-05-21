@@ -1,5 +1,6 @@
 ---
 title: Home Cheesemaking and Dairy Fermentation
+---
 subtitle: Household-scale transformation of milk into cheese, yogurt, kefir, butter, and integrated homestead dairy products.
 tags:
   - cheesemaking
@@ -30,7 +31,8 @@ related_concepts:
   - homestead-dairy-guide
   - kefir-making
   - small-scale-dairy-guide
---- Home Cheesemaking and Dairy Fermentation
+---
+ Home Cheesemaking and Dairy Fermentation
 Home cheesemaking and dairy fermentation are household-scale practices that
 convert fresh milk into cheese, yogurt, kefir, butter, cultured cream, and
 other preserved foods. The field joins animal husbandry, microbiology, kitchen

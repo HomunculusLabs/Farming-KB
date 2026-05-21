@@ -17,7 +17,8 @@ related_concepts:
   - permaculture-insectary-plants
   - insectary-plantings
   - gaias-garden-beneficial-insects-gallery
----# Insectary Plants and Beneficial Insect Habitat Design
+---
+# Insectary Plants and Beneficial Insect Habitat Design
 
 ## Overview
 

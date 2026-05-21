@@ -1,5 +1,6 @@
 ---
 title: Cannabis Core Endorhiza Taxa Xanthomonadaceae Oxalobacteraceae Actinomycetales
+---
 wiki_slug: cannabis-core-endorhiza-taxa-xanthomonadaceae-oxalobacteraceae-actinomycetales
 category: Microbiology
 subcategory: Endophytes

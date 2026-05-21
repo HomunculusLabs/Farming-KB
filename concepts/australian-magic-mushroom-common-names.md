@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Common Names and Epithets for Magic Mushrooms in Australia and New Zealand
+---
+# Common Names and Epithets for Magic Mushrooms in Australia and New Zealand
 
 ## Introduction
 

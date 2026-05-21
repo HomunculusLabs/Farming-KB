@@ -16,7 +16,8 @@ iboga*. It is a long-acting compound with significant pharmacological activity
 at multiple receptor systems. Noribogaine is increasingly recognized as the
 principal mediator of ibogaine's anti-addictive effects, with a plasma
 half-life far exceeding that of the parent compound.
----# Chemical Properties
+---
+# Chemical Properties
 
 IUPAC name: (12S)-12-hydroxy-7-ethyl-6,6a,7,8,9,10,12,12b-octahydro-5H-
 6,9-methanoquinolizino[3,2,1-ij]pyrido[3,4-b]indole

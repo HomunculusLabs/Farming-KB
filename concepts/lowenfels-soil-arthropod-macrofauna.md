@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Soil Arthropods and Macrofauna
+---
+# Soil Arthropods and Macrofauna
 
 The larger organisms of the soil food web, including arthropods and other
 macrofauna, are the visible ecosystem engineers that shape soil structure,

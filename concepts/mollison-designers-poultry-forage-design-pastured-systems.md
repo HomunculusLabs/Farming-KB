@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Poultry Forage Design and Pastured Systems
+---
+# Poultry Forage Design and Pastured Systems
 
 Mollison presents poultry as the most accessible and productive livestock for
 small-scale permaculture systems. Chickens convert forage, insects, and

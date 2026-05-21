@@ -17,11 +17,13 @@ tags:
   - evergreen
   - hedging
   - anti-fungal
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK537047/
----# Thuja occidentalis
+---
+# Thuja occidentalis
 
 ## Overview
 

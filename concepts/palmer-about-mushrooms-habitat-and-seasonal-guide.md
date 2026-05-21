@@ -6,6 +6,7 @@ sources:
   - "raw/papers/julius-auboineau-palmer-about-mushrooms.md"
 type: concept
 tags: [habitat]
+---
 
 ## Key Considerations
 

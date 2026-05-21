@@ -15,6 +15,7 @@ tags:
   - antimicrobial
   - asian-flora
   - temperate-tree
+---
 aliases:
   - Nigaki
   - Japanese Quassia

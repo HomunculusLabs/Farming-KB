@@ -1,6 +1,7 @@
 ---
 title: "Wangiella dermatitidis — Phaeohyphomycosis and Brain-Invasion by Melanized Fungi"
 source: "Mr. Bloomfield's Orchard"
+---
 source_path: "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 concepts:
   - wangiella-dermatitidis

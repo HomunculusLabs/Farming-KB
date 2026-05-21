@@ -1,5 +1,6 @@
 ---
 title: Glossolalia and Tryptamine Language
+---
 aliases:
   - glossolalia
   - speaking in tongues

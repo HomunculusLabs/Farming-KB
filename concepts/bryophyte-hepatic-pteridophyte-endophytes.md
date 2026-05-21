@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes
+---
+# Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes
 
 The association of [[pteridium-aquilinum]] (bracken fern) are colonized by a variety
 of fungi, including:

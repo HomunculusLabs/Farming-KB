@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
+---
+# [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - Some individuals use cannabis as a substitute for stimulant medications,
   reporting fewer side effects such as appetite suppression and insomnia
 - A notable study found that adults with ADHD who used cannabis showed

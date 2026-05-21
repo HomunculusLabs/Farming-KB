@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Coppicing Management of Legume Trees in Permaculture
+---
+# Coppicing Management of Legume Trees in Permaculture
 
 Coppicing is the practice of cutting trees or shrubs to ground level
 to stimulate regrowth from the stump. In permaculture systems,

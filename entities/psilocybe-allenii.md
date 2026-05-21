@@ -17,11 +17,13 @@ tags:
   - hymenogastraceae
   - cyanescens-section
   - john-allen
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.first-nature.com/fungi/psilocybe-allenii.php
----# Psilocybe allenii
+---
+# Psilocybe allenii
 
 ## Overview
 

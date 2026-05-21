@@ -10,6 +10,7 @@ tags:
   - endemism
   - neurotropic-fungi
   - wiki-concept
+---
 date: 2026-05-10
 updated: 2026-05-10
 sources:

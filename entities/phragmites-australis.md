@@ -1,6 +1,7 @@
 ---
 title: "Phragmites australis"
 type: species
+---
 aliases:
   - "common reed"
   - "Phragmites communis"

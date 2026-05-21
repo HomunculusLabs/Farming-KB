@@ -13,7 +13,8 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
----# Holzer Intercropping by Height and Suntraps
+---
+# Holzer Intercropping by Height and Suntraps
 
 Communities work best for humans, plants, and animals. In a polyculture,
 plants support and protect each other. Water and nutrients are utilised

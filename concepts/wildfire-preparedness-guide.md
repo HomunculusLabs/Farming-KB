@@ -18,7 +18,7 @@ Wildfires spread through three mechanisms:
 2. **Radiant heat** — Heat from nearby flames ignites combustible materials
 3. **Ember showers** — Burning material carried by wind up to 2 miles ahead of the fire front — the primary cause of structure loss
 
-Most homes lost to wildfire are ignited by embers, not direct flames. This means most losses are preventable with proper preparation.
+Most homes lost to [[wildfire]] are ignited by embers, not direct flames. This means most losses are preventable with proper preparation.
 
 Assess your risk using:
 - State or county fire risk maps

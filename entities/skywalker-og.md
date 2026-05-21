@@ -16,11 +16,13 @@ tags:
   - insomnia
   - earthy-aroma
   - pine-aroma
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.allbud.com/marijuana-strains/indica/skywalker-og
----# Skywalker OG
+---
+# Skywalker OG
 
 ## Overview
 

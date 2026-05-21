@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Small Farm Equipment and Tools
+---
+# Small Farm Equipment and Tools
 
 [[coleman-french-intensive-bed-method]] system of the four-season
 farm.

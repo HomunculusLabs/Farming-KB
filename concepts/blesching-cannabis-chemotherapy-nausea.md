@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Chemotherapy-Induced Nausea and Vomiting
+---
+# Cannabis and Chemotherapy-Induced Nausea and Vomiting
 
 Chemotherapy-induced nausea and vomiting (CINV) represents the strongest
 evidence base for medical cannabis in "The [[cbd-to-thc-isomerization-chemistry]] may enhance antiemetic effects while

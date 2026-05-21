@@ -1,6 +1,7 @@
 ---
 title: Émile Clapeyron
 type: entity
+---
 entity_type: person
 aliases:
 - Benoît Paul Émile Clapeyron

@@ -1,6 +1,7 @@
 ---
 title: "Sinapis alba"
 type: species
+---
 aliases:
   - white mustard
   - yellow mustard

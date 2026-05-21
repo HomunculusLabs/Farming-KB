@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Composting Bioremediation of Contaminated Soils
+---
+# Fungal Composting Bioremediation of Contaminated Soils
 
 Composting is one of the most promising reactor systems for hazardous soil
 treatment, employing thermophilic microbial activity to degrade organic

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Avenue Cropping with Legumes in Permaculture
+---
+# Avenue Cropping with Legumes in Permaculture
 
 Avenue cropping is a deliberate fuelwood, mulch, and soil
 improvement crop integration system of great use in the

@@ -1,5 +1,6 @@
 ---
 title: Straw Bale Construction
+---
 subtitle: "A comprehensive guide to building with plastered straw bales — from historical origins to modern practice"
 tags: [natural-building, straw-bale, sustainable-architecture, insulation, permaculture, owner-builder]
 date: 2026-05-02

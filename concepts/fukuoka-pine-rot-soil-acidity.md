@@ -13,7 +13,8 @@ sources:
   -  in about forty
 percent of samples. These included black change mold and three types of blue
 change mold, all previously undocumented pathogens foreign to the area.
----econd, nematode infestation was only visible under a microscope after a pine
+---
+econd, nematode infestation was only visible under a microscope after a pine
 was a quarter to half withered. The new pathogenic fungi arrived before the
 nematodes. The nematodes were feeding on the fungi, not the tree.
 

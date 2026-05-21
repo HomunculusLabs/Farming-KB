@@ -1,5 +1,6 @@
 ---
 title: "Crop Rotation and Succession Planting"
+---
 subtitle: "Strategies for soil health, pest management, and continuous harvests through planned crop sequencing"
 tags: [agriculture, soil-health, organic-gardening, crop-rotation, succession-planting, permaculture, pest-management, soil-fertility, sustainable-farming]
 date: 2026-05-09

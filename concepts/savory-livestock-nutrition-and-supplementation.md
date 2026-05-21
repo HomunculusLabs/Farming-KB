@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Livestock Nutrition and Supplementation
+---
+# Livestock Nutrition and Supplementation
 
 The relationship between what livestock do to vegetation and landscape production in a
 grazing cell and what they actually need by way of nutrition is a complex management

@@ -17,11 +17,13 @@ tags:
   - climbing-shrub
   - anti-microbial
   - antioxidant
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 the bioactive quinone embelin as their principal constituent.
----he species is native to the Indian subcontinent and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]")
+---
+he species is native to the Indian subcontinent and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]")
 - **Seeds:** One per fruit, globular, 2–3 mm, brownish
 
 ## Distribution and Habitat

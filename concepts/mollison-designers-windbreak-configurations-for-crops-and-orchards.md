@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Windbreak Configurations for Crops and Orchards
+---
+# Windbreak Configurations for Crops and Orchards
 
 Windbreaks are essential for many crop yields, particularly in
 orchards. Wind causes mechanical damage, salt-burn, and may transfer

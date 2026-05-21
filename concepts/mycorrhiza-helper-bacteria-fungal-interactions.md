@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Mycorrhiza Helper Bacteria and Fungal-Bacterial Interactions
+---
+# Mycorrhiza Helper Bacteria and Fungal-Bacterial Interactions
 
 ## Overview
 

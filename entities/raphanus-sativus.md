@@ -1,6 +1,7 @@
 ---
 title: Raphanus Sativus
 type: species
+---
 aliases:
   - Radish
   - Daikon

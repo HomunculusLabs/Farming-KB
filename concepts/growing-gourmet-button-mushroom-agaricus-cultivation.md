@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Button Mushroom (Agaricus brunnescens and A. bitorquis) Overview
+---
+# Button Mushroom (Agaricus brunnescens and A. bitorquis) Overview
 
 ## Overview and Historical Context
 

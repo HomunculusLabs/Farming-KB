@@ -1,6 +1,7 @@
 ---
 title: Mazatec people
 type: ethnic_group
+---
 subtype: Indigenous people of Mexico
 aliases:
   - Mazatec
@@ -29,7 +30,8 @@ created: 2026-05-02
 updated: 2026-05-02
 status: complete
 tags: [profile]
----# Mazatec people
+---
+# Mazatec people
 
 The **Mazatec people** are an Indigenous people of Mexico associated especially with the Sierra Mazateca in northern Oaxaca.
 They also live in neighboring communities of Puebla and Veracruz, reflecting migration, trade, and regional continuity around the Papaloapan basin.

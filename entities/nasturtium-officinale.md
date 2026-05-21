@@ -14,11 +14,13 @@ tags:
   - traditional-medicine
   - watercress
   - aquatic-agriculture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA Natural Resources Conservation Service: Nasturtium officinale plant profile
----# Nasturtium officinale (Watercress)
+---
+# Nasturtium officinale (Watercress)
 
 ## Overview
 

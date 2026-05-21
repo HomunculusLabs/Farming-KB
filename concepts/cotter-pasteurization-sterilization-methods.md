@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Pasteurization and Sterilization Methods
+---
+# Pasteurization and Sterilization Methods
 
 ## Overview
 

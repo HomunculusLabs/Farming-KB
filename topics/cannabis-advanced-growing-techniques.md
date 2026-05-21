@@ -1,5 +1,6 @@
 ---
 title: cannabis advanced growing techniques
+---
 subtitle: "A comprehensive guide to canopy management, plant training, environmental optimization, and post-harvest processing for high-performance cannabis cultivation."
 tags:
   - cannabis

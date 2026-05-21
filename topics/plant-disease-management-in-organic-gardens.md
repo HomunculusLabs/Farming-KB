@@ -1,5 +1,6 @@
 ---
 title: "Plant plant-disease-management-solomon in Organic Gardens"
+---
 subtitle: "Ecological diagnosis, prevention, and organic plant disease management"
 tags: [plant-pathology, organic-gardening, diseases, fungi, oomycetes, bacteria]
 date: 2026-04-28
@@ -22,7 +23,8 @@ related_concepts:
   - cervantes-fusarium-vascular-wilt-diseases
   - jadam-fungal-disease-management
   - downy-mildew-biology-diversity-peronosporales
----# Plant Disease Management in Organic Gardens
+---
+# Plant Disease Management in Organic Gardens
 
 Plant disease management in organic gardens is the practice of reducing
 crop losses from fungi, bacteria, oomycetes, and related organisms by

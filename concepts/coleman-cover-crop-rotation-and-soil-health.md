@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cover Crop Rotation and Soil Health
+---
+# Cover Crop Rotation and Soil Health
 
 Eliot Coleman's approach to crop rotation and [[jeavons-green-manures-cover-crops]] to build soil, he has moved toward a system where
 intensive commercial cropping itself contributes [[gaias-garden-cover-crops-soil-building]] where they fit the rotation.

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Chestnut as Multipurpose Tree Crop
+---
+# Chestnut as Multipurpose Tree Crop
 
 The chestnut (Castanea spp., including C. sativa, C. dentata, and C.
 pumila/chinquapin) is cited throughout the Permaculture [[permaculture-livestock-forage-systems]]. Mollison treats

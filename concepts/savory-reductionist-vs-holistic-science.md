@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Reductionist vs Holistic Science
+---
+# Reductionist vs Holistic Science
 
 A fundamental difference exists between holism as it applies to management and the
 long-hallowed procedures of [[psilocybin-isolation-and-early-scientific-research]]. [[fukuoka-road-critique-of-modern-science]], which Savory calls

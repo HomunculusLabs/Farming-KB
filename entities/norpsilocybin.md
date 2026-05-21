@@ -1,6 +1,7 @@
 ---
 title: "Norpsilocybin"
 type: chemical
+---
 aliases:
   - "4-Hydroxy-N,N-dimethyltryptamine"
   - "4-OH-DMT"

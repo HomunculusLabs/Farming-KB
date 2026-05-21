@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Plant Nursery and Species Selection for Permaculture
+---
+# Plant Nursery and Species Selection for Permaculture
 
 Bill Mollison places the plant nursery as one of the critical
 early-stage components in any [[mollison-tree-crop-systems-permaculture]]

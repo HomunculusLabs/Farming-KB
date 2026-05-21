@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Transformation of Pentachlorophenol in Soils
+---
+# Fungal Transformation of Pentachlorophenol in Soils
 
 Pentachlorophenol (PCP) is a widely used wood preservative and
 biocide that has caused extensive soil contamination. Fungal

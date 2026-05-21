@@ -1,6 +1,7 @@
 ---
 title: Straw Mulch In Agriculture
 tags: [agriculture, soil-health, mulching, organic-farming, the use of straw in]
+---
 farming is a crucial issue. The practice of returning all straw and [[natural-farm-soil-health-mulching]]
 - [[fukuoka-culture-of-clothing-traditional-garb-natural-farming]] knowledge combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable

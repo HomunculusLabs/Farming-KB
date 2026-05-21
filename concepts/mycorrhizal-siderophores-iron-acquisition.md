@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Mycorrhizal Siderophores and Iron Acquisition
+---
+# Mycorrhizal Siderophores and Iron Acquisition
 
 ## Overview
 

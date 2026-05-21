@@ -16,6 +16,7 @@ tags:
   - rasayana
   - indian-herbs
   - traditional-medicine
+---
 aliases:
   - "Convolvulus prostratus"
   - "Convolvulus microphyllus"

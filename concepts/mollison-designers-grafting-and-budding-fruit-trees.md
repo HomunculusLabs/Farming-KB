@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Grafting and Budding Fruit Trees
+---
+# Grafting and Budding Fruit Trees
 
 Grafting and budding are essential propagation skills in Bill
 Mollison's Permaculture: A [[fukuoka-pruning-fruit-tree-natural-management]] do not grow "true to type" from

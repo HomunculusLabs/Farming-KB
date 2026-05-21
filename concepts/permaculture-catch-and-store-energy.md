@@ -8,7 +8,7 @@ topics: [permaculture, energy, water-storage, soil-humus, carbon-sequestration, 
 
 ## Permaculture Design Principle #2 — "Make Hay While the Sun Shines"
 
-[[permaculture-principle-catch-and-store-energy]] addresses the fundamental challenge
+[[permaculture-principle-2-catch-store-energy]] addresses the fundamental challenge
 of terrestrial life: energy arrives in pulses (sunlight, rainfall, seasonal growth)
 but needs to be available continuously. Natural systems have evolved sophisticated
 mechanisms for catching and storing energy; permaculture design aims to understand

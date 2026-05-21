@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "A Selection of Permaculture Plants (Nugent & Boniface) (wiki raw source)"
----# Vaccinium corymbosum
+---
+# Vaccinium corymbosum
 
 Vaccinium corymbosum, the northern highbush blueberry, is a deciduous shrub
 in the Ericaceae native to [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] essential for [[guzman-psilocybin-mushrooms-north-america]], Nova Scotia to Georgia and

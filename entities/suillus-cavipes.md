@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 *P. monticola*, *P. flexilis*) across North America.
----he species is distinguished by its prominently hollow stipe, sticky
+---
+he species is distinguished by its prominently hollow stipe, sticky
 chestnut-brown cap, and tendency to bruise slowly reddish-brown.
 
 It is considered edible, though opinions vary on culinary quality compared

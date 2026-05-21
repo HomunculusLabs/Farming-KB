@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mushrooms in Civilization and History
+---
+# Mushrooms in Civilization and History
 
 Humanity's use of mushrooms extends back to Paleolithic times.
 Few people, even anthropologists, comprehend how influential

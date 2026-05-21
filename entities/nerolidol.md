@@ -14,7 +14,8 @@ updated: 2026-04-28
 sources:
 cultivars. It exists as two isomers: cis-nerolidol and trans-nerolidol, with
 trans being more common in nature.
----he compound is valued for its sedative, anti-inflammatory, and antimicrobial
+---
+he compound is valued for its sedative, anti-inflammatory, and antimicrobial
 properties. In cannabis, it contributes to the characteristic woody, floral
 aroma and is believed to enhance transdermal absorption of co-occurring
 cannabinoids and terpenes, making it a functional component of the entourage

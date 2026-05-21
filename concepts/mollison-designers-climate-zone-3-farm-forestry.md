@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Zone 3 - Farm Forestry and Broadacre Systems
+---
+# Zone 3 - Farm Forestry and Broadacre Systems
 
 Zone 3 in the holmgren-food-forests-agroforestry for
 the broader context.

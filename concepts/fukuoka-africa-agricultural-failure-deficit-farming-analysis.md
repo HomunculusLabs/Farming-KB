@@ -11,6 +11,7 @@ tags:
   - food-security
   - ecology
   - masanobu-fukuoka
+---
 summary: >
   Masanobu Fukuoka's observations across Africa revealed that the continent's
   agricultural crisis was caused by the systematic destruction of indigenous farming

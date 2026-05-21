@@ -3,6 +3,7 @@ title: Aloe Vera
 created: 2026-04-28
 type: species
 tags: [species, plant, succulent, herbal, medicinal, from ancientEgyptian, Greek]
+---
 most widely used medicinal plants worldwide. Despite this popularity, the
 quality of clinical evidence varies considerably by indication, with strong
 support for topical burn treatment but more limited evidence for many internal

@@ -17,11 +17,13 @@ tags:
   - erinacines
   - hericenones
   - mycophagy
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.speciesfungorum.org/Names/SFNames.asp
----# Hericium abietis
+---
+# Hericium abietis
 
 ## Overview
 

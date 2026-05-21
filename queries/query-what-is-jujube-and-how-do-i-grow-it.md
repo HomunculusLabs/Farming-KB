@@ -2,7 +2,8 @@
 title: What Is Jujube (Chinese Date) and How Do I Grow It?
 created: 2026-04-28
 tags: [jujube, chinese-date, ziziphus-jujuba]
-------# What Is Jujube (Chinese Date) and How Do I Grow It?
+---
+---# What Is Jujube (Chinese Date) and How Do I Grow It?
 
 A comprehensive growing guide for one of the most underappreciated fruit trees
 in temperate and subtropical orchards.

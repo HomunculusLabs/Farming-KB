@@ -1,5 +1,6 @@
 ---
 title: "Iboga Ibogaine and the Bwiti African Psychedelic Medicine"
+---
 subtitle: "From Central African initiation ceremonies to controversial addiction-interrupting therapy"
 tags: [iboga, ibogaine, bwiti, addiction, psychedelics, africa, ethnobotany, therapy]
 date: 2026-04-28

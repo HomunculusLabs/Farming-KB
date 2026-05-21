@@ -10,11 +10,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Permaculture Designers' Manual — Bill Mollison"
-  - "Edible Forest Gardens Vol. 1 & 2 — Dave Jacke"
-  - "Restoration Agriculture — Mark Shepard"
-  - "Creating a Forest Garden — Martin Crawford"
-  - "Call of the Reed Warbler — Charles Massy"
+  - Permaculture Designers Manual — Bill Mollison
+  - Edible Forest Gardens Vol. 1 & 2 — Dave Jacke
+  - Restoration Agriculture — Mark Shepard
+  - Creating a Forest Garden — Martin Crawford
+  - Call of the Reed Warbler — Charles Massy
 ---
 ## Final Thoughts
 

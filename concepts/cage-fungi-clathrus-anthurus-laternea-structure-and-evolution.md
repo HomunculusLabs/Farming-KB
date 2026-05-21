@@ -3,11 +3,10 @@ title: stinkhorn-cage-fungi-reproductive-biology — Clathrus, Anthurus, and Lat
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Mr. Bloomfield's Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)"
+  - Mr. Bloomfields Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)
 type: concept
 tags: [cage-fungi, clathrus, anthurus, laternea, gasteromycetes, coevolution, insect-dispersal]
 ---
-
 ## Cage Fungi — Clathrus, Anthurus, and Laternea
 
 Cage fungi produce some of the most extraordinary fruiting bodies in the

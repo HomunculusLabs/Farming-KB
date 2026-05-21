@@ -16,12 +16,14 @@ tags:
   - rue
   - garden-herb
   - history-of-medicine
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 Mediterranean pharmacology and Roman cuisine but has declined in modern use
 due to its toxicity at therapeutic doses. The guzman-central-america-neurotropic-fungi-species-distribution and Habitat
----ue is native to the Balkan Peninsula (particularly the Dalmatian coast of
+---
+ue is native to the Balkan Peninsula (particularly the Dalmatian coast of
 modern Croatia), Greece, and southern Italy. It has been widely naturalized
 across southern and central Europe, [[guzman-psilocybin-mushrooms-africa]], the Middle East, and
 [[guzman-psilocybin-mushrooms-south-america]]. The plant prefers well-drained,

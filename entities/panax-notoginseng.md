@@ -17,11 +17,13 @@ tags:
   - yunnan-baiyao
   - anti-inflammatory
   - neuroprotective
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/panax-notoginseng
---- Panax notoginseng
+---
+ Panax notoginseng
 ## Overview
 - **Common names**: Tienchi ginseng, San Qi, Sanchi, Notoginseng, Tianqi
 - **Family/Genus**: Araliaceae / *Panax*

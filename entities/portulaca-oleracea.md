@@ -17,11 +17,13 @@ tags:
   - portulacaceae
   - annual-herb
   - traditional-medicine
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.fs.fed.us/wildflowers/plant-of-the-week/portulaca_oleracea.shtml
----# Portulaca oleracea
+---
+# Portulaca oleracea
 
 **Common names:** Purslane, pigweed, verdolaga, little hogweed, pusley, rigla
 

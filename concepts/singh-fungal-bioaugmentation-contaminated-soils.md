@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Bioaugmentation of Contaminated Soils with Fungi
+---
+# Bioaugmentation of Contaminated Soils with Fungi
 
 Bioaugmentation is the deliberate introduction of selected microorganisms
 to [[fungal-bioaugmentation]] contaminated soils involves

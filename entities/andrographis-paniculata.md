@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 respiratory tract infections and as an immunomodulatory agent.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 **Kingdom:** Plantae — **Family:** Acanthaceae — **Genus:** Andrographis
 

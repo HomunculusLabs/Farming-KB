@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Big Buddha Seeds — breeder catalog and strain documentation."
----# Blue Cheese
+---
+# Blue Cheese
 
 ## Overview
 

@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.fao.org/3/y5022e/y5022e06.htm
----# Fermented Dairy and Cultured Milk Products
+---
+# Fermented Dairy and Cultured Milk Products
 
 Fermented dairy products are among the oldest processed foods in human history, dating back at least 10,000 years to the domestication of ruminants in the Fertile Crescent. By harnessing  bacteria (LAB) and other microorganisms, milk is transformed into a staggering variety of products with extended [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways:
 

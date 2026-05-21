@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Drip Irrigation and Water Management
+---
+# Drip Irrigation and Water Management
 
 [[coleman-claytonia-winter-harvest-cultivation]] system is fundamentally different
 from summer growing. The cold, low-light environment of an unheated

@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [jadam]
 - jadam-rice-bran-problems, perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
+---
 
 ## Philosophical Depth
 

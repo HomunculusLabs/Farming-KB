@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Bioavailability
+---
+# Bioavailability
 
 Bioavailability is a critical factor controlling the success of fungal
 bioremediation in [[fungal-competition-survival-contaminated-soils]]. It refers to the fraction of a

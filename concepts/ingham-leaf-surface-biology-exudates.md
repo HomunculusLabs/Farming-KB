@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Leaf Surface Biology and Exudates in Compost Tea
+---
+# Leaf Surface Biology and Exudates in Compost Tea
 
 Understanding leaf surface biology is essential for effective
 [[elaine-ingham]]'s field

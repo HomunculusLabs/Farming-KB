@@ -2,6 +2,7 @@
 title: Fukuoka Kochi Rice Borer Eradication Debacle
 created: 2026-04-28
 tags: [rice-borer, pest-eradication, rice borers congregate on this soft, vulnerable]
+---
 rice. The farmer could take advantage of this behavior by collecting
 the insects in one area and destroying them, but what would happen
 if he left them alone? Although one might expect them to spread out

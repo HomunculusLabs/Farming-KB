@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Smart, R. et al. (2022). \"query-how-does-no-till-cannabis-cultivation-work Practices and Potency.\" Drug and cannabis-for-alcohol-dependence, 237, 109588."---
----# Blackberry Kush
+---
+# Blackberry Kush
 
 ## Overview
 

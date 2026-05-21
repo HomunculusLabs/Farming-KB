@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Self-Sufficiency Through Vegetable Gardening
+---
+# Self-Sufficiency Through Vegetable Gardening
 
 Steve Solomon's "Gardening When It Counts" is fundamentally about growing
 food that truly sustains you. This page synthesizes his key arguments and

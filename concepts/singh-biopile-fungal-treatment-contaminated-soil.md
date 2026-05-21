@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Biopile Fungal Treatment of Contaminated Soil
+---
+# Biopile Fungal Treatment of Contaminated Soil
 
 Biopile treatment is an engineered ex-situ bioremediation technology that
 combines soil excavation, nutrient amendment, aeration, and moisture control

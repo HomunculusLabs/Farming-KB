@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.647481/full
---- Ashwagandha Cultivation, Uses, and Adaptogenic Properties
+---
+ Ashwagandha Cultivation, Uses, and Adaptogenic Properties
 
 ## Overview
 

@@ -1,6 +1,7 @@
 ---
 title: Pyridoxamine Phosphate
 type: chemical
+---
 aliases:
   - PMP
   - pyridoxamine 5'-phosphate
@@ -18,7 +19,8 @@ related_concepts:
   - pyridoxal-phosphate-coenzyme-chemistry
 sources:
 tags: [profile]
----# Pyridoxamine Phosphate
+---
+# Pyridoxamine Phosphate
 
 Pyridoxamine phosphate is the aminated phosphate form of vitamin B6.
 It is usually abbreviated PMP in enzyme-mechanism literature.

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cottage Garden Design Principles
+---
+# Cottage Garden Design Principles
 
 For the average gardener with a moderately sized garden, the
 "cottage-garden" design offers distinct advantages over other styles.

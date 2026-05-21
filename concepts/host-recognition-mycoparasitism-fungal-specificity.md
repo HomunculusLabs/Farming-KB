@@ -9,7 +9,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Host Recognition and Specificity in Fungal Mycoparasitism
+---
+# Host Recognition and Specificity in Fungal Mycoparasitism
 
 Mycoparasitism, the parasitic interaction of one fungus
 with another, depends critically on the ability of the

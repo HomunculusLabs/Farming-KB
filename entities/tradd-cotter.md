@@ -15,7 +15,8 @@ sources:
   - concepts/mushroom-infused-honey-preparation.md
   - concepts/cardboard-cultivation-low-tech-spawn.md
 status: complete
----# Tradd Cotter
+---
+# Tradd Cotter
 
 ## Overview
 

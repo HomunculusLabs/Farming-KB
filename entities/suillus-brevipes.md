@@ -15,12 +15,14 @@ tags:
   - foraging
   - wild-mushrooms
   - forest-ecology
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 The species epithet *brevipes* ("short foot") refers to its characteristically
 stumpy, nearly absent stipe. It forms psilocybin-north-america-pacific-northwest and Rocky Mountains.
----nlike many Suillus species, S. brevipes lacks a [[palmer-mushroom-hunting-field-identification]]
+---
+nlike many Suillus species, S. brevipes lacks a [[palmer-mushroom-hunting-field-identification]]
 relatively straightforward.
 
 ## Taxonomy

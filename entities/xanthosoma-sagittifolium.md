@@ -16,6 +16,7 @@ tags:
   - caribbean-crop
   - subsistence-agriculture
   - ornamental
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -31,7 +32,8 @@ aliases:
   - mangareto
   - otoe
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Xanthosoma sagittifolium* (malanga, tannia, yautia) is a tropical herbaceous perennial in the family Araceae, cultivated primarily for its starchy underground cormels and edible young leaves.
 

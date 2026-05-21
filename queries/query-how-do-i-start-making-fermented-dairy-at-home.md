@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# How Do I Start Making Fermented Dairy at Home?
+---
+# How Do I Start Making Fermented Dairy at Home?
 
 Starting fermented dairy at home is one of the easiest and most rewarding entry points into food fermentation. It requires minimal equipment, low upfront cost, and delivers impressive results quickly. This guide walks you through choosing your first product, gathering supplies, and making your first successful batch.
 

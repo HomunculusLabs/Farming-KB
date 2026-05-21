@@ -1,5 +1,6 @@
 ---
 title: "Kirchhoff's Circuit Laws"
+---
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
 tags: [electrical-engineering, circuits, electromagnetism, often abbreviated KVL]
 

@@ -16,7 +16,8 @@ updated: 2026-04-28
 sources:
 type: query
 created: 2026-04-28
----# Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles?
+---
+# Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles?
 
 ## Short Answer
 

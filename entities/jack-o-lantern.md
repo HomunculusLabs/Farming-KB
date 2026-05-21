@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2023). MushroomExpert.com — Omphalotus species
----# Jack-o'-Lantern Mushroom (Omphalotus olearius)
+---
+# Jack-o'-Lantern Mushroom (Omphalotus olearius)
 
 The jack-o'-lantern mushroom is a bioluminescent, toxic fungus found across temperate and subtropical regions worldwide. Named for its bright orange coloration and eerie green glow in darkness, it is one of the most significant [[cantharellus-cibarius-entity]]*) by inexperienced foragers. Its ability to produce light through bioluminescence makes it one of approximately 110 known bioluminescent fungal species.
 

@@ -15,7 +15,8 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   -  with desirable morphological characteristics
 - Exhibit improved nutritional profiles fungi-cultivated-mushrooms-pathogens-competitors are basidiomycetes, which typically have a tetrapolar mating system governed by two unlinked mating type loci, commonly designated A and B.
---- The **A locus** controls nuclear pairing and clamp [[fruiting-conditions]]. Only through actual cultivation can the true performance characteristics of a hybrid be assessed. Yield, timing, morphology, and quality of fruiting bodies are all evaluated.
+---
+ The **A locus** controls nuclear pairing and clamp [[fruiting-conditions]]. Only through actual cultivation can the true performance characteristics of a hybrid be assessed. Yield, timing, morphology, and quality of fruiting bodies are all evaluated.
 
 ### Step 6: Stabilization and Preservation
 

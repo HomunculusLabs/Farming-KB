@@ -8,7 +8,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Downy Mildew Biology and Diversity (Peronosporales)
+---
+# Downy Mildew Biology and Diversity (Peronosporales)
 
 Downy mildews are a group of obligate biotrophic [[straminipiles-oomycetes-fungus-like-chromists]] and part of the broader [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] and encyst near stomata, then
 produce germ tubes that penetrate through the stomatal

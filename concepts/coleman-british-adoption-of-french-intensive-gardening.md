@@ -4,6 +4,7 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels]
+---
 The transfer of French intensive cervantes-chemical-fertilizers-guide as "pompously labeled and
 unworthy drugs." The gardening world finally took notice.
 

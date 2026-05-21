@@ -2,6 +2,7 @@
 title: Douglas-fir
 created: 2026-04-28
 type: species
+---
 scientific_name: stamets-forest-mycelial-biomass-topsoil-douglas-fir
   - Oregon pine
   - Douglas spruce
@@ -18,7 +19,8 @@ tags:
 sources:
 date: 2026-05-02
 updated: 2026-05-02
----# Douglas-fir
+---
+# Douglas-fir
 
 **Douglas-fir** (*Pseudotsuga menziesii*) is a large evergreen conifer native to western [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] in the world and a keystone [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]] pages, it often appears as a [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]] | Plantae |
 | Clade | Tracheophytes |

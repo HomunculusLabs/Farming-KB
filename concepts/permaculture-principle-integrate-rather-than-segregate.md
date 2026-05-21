@@ -60,7 +60,7 @@ Holmgren acknowledges that segregation can sometimes be useful. The carefully de
 
 ## Connections
 
-This principle relates to [[permaculture-principle-produce-no-waste]] (integration closes loops), [[permaculture-principle-use-and-value-diversity]] (diverse elements enable integration), [[permaculture-principle-catch-and-store-energy]] (integrated systems store more energy), and [[permaculture-principle-design-from-patterns-to-details]] (patterns of integration). See also [[permaculture-principles]], [[permaculture-guild-design]], and [[food-forest-design]].
+This principle relates to [[permaculture-principle-produce-no-waste]] (integration closes loops), [[permaculture-principle-use-and-value-diversity]] (diverse elements enable integration), [[permaculture-principle-2-catch-store-energy]] (integrated systems store more energy), and [[permaculture-principle-design-from-patterns-to-details]] (patterns of integration). See also [[permaculture-principles]], [[permaculture-guild-design]], and [[food-forest-design]].
 ## Historical Context
 
 The study and practice of permaculture principle integrate rather than segregate has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.

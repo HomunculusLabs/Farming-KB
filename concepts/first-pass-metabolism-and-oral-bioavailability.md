@@ -9,7 +9,8 @@ sources:
 related:
   - cytochrome-p450-enzymes-drug-metabolism
 type: concept
----# Overview
+---
+# Overview
 First-pass metabolism is the loss of an orally absorbed drug before it reaches systemic circulation.
 It is also called presystemic metabolism.
 After swallowing, a drug must dissolve, cross the intestinal wall, enter portal blood, pass through

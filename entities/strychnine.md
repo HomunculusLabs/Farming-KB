@@ -16,7 +16,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - http://www.inchem.org/documents/pims/pharm/strychni.htm (WHO PIM)
----# Strychnine
+---
+# Strychnine
 
 ## Overview
 

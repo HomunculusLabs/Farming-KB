@@ -13,7 +13,8 @@ sources:
 - As nurse crops for establishing perennial pastures
 - Both contribute to soil arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
----# Key Considerations
+---
+# Key Considerations
 
 Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental

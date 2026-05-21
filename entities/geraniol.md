@@ -9,6 +9,7 @@ tags:
   - insect-repellent
   - anti-inflammatory
   - cannabis-terpene
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -20,7 +21,8 @@ staphylococcus-aureus* (64 µg/mL),
 *Escherichia coli* (256 µg/mL), and *rosa-damascena* (damask rose) | 10–25% | Perfumery standard |
 | *ocimum-basilicum* (basil) | 1–8% | Culinary herb |
 | Cannabis cultivars | Trace – 0.5% | Floral-rosy aroma contributor |
----n cannabis, geraniol is classified as a minor terpene but contributes
+---
+n cannabis, geraniol is classified as a minor terpene but contributes
 a distinctive sweet, floral, and slightly citrusy aroma. It is more
 commonly detected in sativa-dominant and hybrid cultivars.
 

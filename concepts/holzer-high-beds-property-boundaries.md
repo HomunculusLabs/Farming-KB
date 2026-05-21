@@ -13,7 +13,8 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
----# Holzer High Beds as Property Boundaries
+---
+# Holzer High Beds as Property Boundaries
 
 A large property usually needs wind and noise protection, as well as a screen
 for privacy. The [[query-how-to-grow-and-use-oca-in-temperate-climates]]: thyme, marjoram, strawberries, strawflowers

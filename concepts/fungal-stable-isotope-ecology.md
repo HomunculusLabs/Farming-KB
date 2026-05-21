@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Stable Isotope Ecology
+---
+# Fungal Stable Isotope Ecology
 
 Natural abundance stable isotope analysis of carbon (13C/12C) and nitrogen
 (15N/14N) in fungal tissue provides powerful tools for investigating fungal

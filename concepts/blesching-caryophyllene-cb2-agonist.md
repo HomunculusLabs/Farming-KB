@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Beta-Caryophyllene as a Dietary CB2 Agonist
+---
+# Beta-Caryophyllene as a Dietary CB2 Agonist
 
 Beta-caryophyllene (BCP) is a naturally occurring sesquiterpene that has
 garnered significant attention in cannabinoid research for its unique

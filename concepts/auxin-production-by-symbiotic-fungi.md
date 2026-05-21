@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Auxin Production by Symbiotic Fungi
+---
+# Auxin Production by Symbiotic Fungi
 
 ## Overview
 

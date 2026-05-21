@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Tessellation and Annidation in Permaculture Design
+---
+# Tessellation and Annidation in Permaculture Design
 
 Tessellation and annidation are fundamental pattern strategies drawn
 from nature and applied in [[bill-mollison]] explores these concepts

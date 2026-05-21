@@ -41,7 +41,7 @@ publication), though full cultivation protocols are not described.
 Found in forest environments, associated with hardwood debris in the
 Pacific Northwest and other temperate regions. The Prince fruits during
 the summer months, specifically from late July through September in the
-Pacific Northwest. This fruiting window overlaps with [[stropharia-rugoso-annulata]]
+Pacific Northwest. This fruiting window overlaps with [[stropharia-rugosoannulata]]
 - agaricus augustus
 - [[boletus-edulis]]
 ## Practical Considerations

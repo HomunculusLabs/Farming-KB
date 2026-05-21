@@ -9,7 +9,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# The Merciful Death for Barley — Japanese Agricultural Policy
+---
+# The Merciful Death for Barley — Japanese Agricultural Policy
 
 ## The Wheat Experiment
 

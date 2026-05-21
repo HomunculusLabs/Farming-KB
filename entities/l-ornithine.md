@@ -1,6 +1,7 @@
 ---
 title: L-Ornithine
 type: chemical
+---
 aliases:
   - ornithine
   - L-ornithine
@@ -19,7 +20,8 @@ sources:
 created: 2026-05-02
 updated: 2026-05-02
 tags: [profile]
----# L-Ornithine
+---
+# L-Ornithine
 
 ## Overview
 

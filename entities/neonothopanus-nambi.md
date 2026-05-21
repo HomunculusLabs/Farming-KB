@@ -14,7 +14,8 @@ updated: 2026-04-28
 sources:
 saprotroph on singh-fungal-biosensors-environmental-monitoring, and
 synthetic biology applications.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 **Kingdom:** Fungi — **Phylum:** Basidiomycota — **Class:** Agaricomycetes — **Order:** Agaricales — **Family:** Omphalotaceae — **Genus:** Neonothopanus — **Species:** N. nambi (Speg.) R.H. Petersen
 

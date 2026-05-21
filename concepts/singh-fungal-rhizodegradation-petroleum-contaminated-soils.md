@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Rhizodegradation of Petroleum-Contaminated Soils
+---
+# Fungal Rhizodegradation of Petroleum-Contaminated Soils
 
 Rhizodegradation, also termed phytoremediation-enhanced biodegradation, harnesses
 the synergistic interactions between plant roots and their associated fungal

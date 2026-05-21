@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Maas-van de Kamer, H. & Maas, P.J.M. (2008). Cannaceae. Flora Neotropica
----# Canna indica
+---
+# Canna indica
 
 **Canna indica**, commonly known as **Indian shot**, **African arrowroot**, or simply **canna lily**, is a perennial herbaceous plant in the family Cannaceae. Native to tropical and subtropical regions of the Americas, it has been widely naturalized across the tropics and warm temperate zones worldwide. Valued for its striking ornamental flowers, edible rhizomes, and utility in [[soil-temperature-plant-growth-rate-doubling-rule]]: can reach full height within a single [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern [[psilocybe-southeast-asia-pacific]]
 - [[mollison-climate-zones-permaculture-strategies]])

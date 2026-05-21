@@ -13,6 +13,7 @@ tags:
   - temperate-fungi
   - bracket-fungus
   - Coriolopsis
+---
 date: 2026-04-28
 updated: 2026-04-28
 aliases:

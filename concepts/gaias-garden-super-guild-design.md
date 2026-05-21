@@ -3,12 +3,11 @@ title: Super-Guild Design
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Hemenway - Gaia's Garden"
+  - raw/papers/bill-mollison-permaculture-design-course.md
+  - Hemenway - Gaias Garden
 type: concept
 tags: [design, gardening, plant-systems]
 ---
-
 ## Super-Guild Design
 
 A super-guild is an interconnected landscape-scale assemblage where multiple individual [[gaias-garden-three-sisters-guild]].

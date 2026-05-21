@@ -1,5 +1,6 @@
 ---
 title: Allelopathy and allelopathy and chemical warfare in plants in Plants
+---
 subtitle: How Plants Compete, Communicate, and Manipulate Their Neighbors Through Chemistry
 tags:
   - allelopathy

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungi in Volcanic and Glacier Primary Succession
+---
+# Fungi in Volcanic and Glacier Primary Succession
 
 Primary succession on newly exposed substrates, whether from volcanic
 eruption or glacial retreat, depends critically on fungal partners for

@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/seaweed-aquaculture
----# Seaweed Farming and Marine Aquaculture
+---
+# Seaweed Farming and Marine Aquaculture
 
 Seaweed farming (also called macroalgae mariculture or seaweed aquaculture) is the cultivation of marine macroalgae for food, feed, fertilizers, bioplastics, pharmaceuticals, and carbon sequestration. It is one of the fastest-growing sectors of global aquaculture, producing over 35 million tonnes annually (predominantly in East and Southeast Asia). Seaweed requires no freshwater, no arable land, and no fertilizers — it grows by extracting dissolved nutrients (nitrogen, phosphorus, carbon) directly from seawater, making it one of the most sustainable forms of food production on Earth.
 

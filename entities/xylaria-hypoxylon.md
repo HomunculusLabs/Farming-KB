@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stadler, M. et al. (2014). "A glimpse into the treasure chest — Xylaria." Fungal Diversity.
----# Xylaria hypoxylon (Candlesnuff Fungus)
+---
+# Xylaria hypoxylon (Candlesnuff Fungus)
 
 ## Overview
 

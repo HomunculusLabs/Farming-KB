@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Mycorrhizal Network and Nutrient Sharing
+---
+# Mycorrhizal Network and Nutrient Sharing
 
 Mycorrhizal fungi form symbiotic associations with the vast majority of land
 plants. In "[[dighton-aquatic-hyphomycete-conidia-community-dynamics]].

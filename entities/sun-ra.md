@@ -3,6 +3,7 @@ title: Sun Ra
 created: 2026-05-02
 updated: 2026-05-02
 type: entity
+---
 entity_type: person
 aliases:
   - Sun Ra

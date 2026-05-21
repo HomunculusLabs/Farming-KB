@@ -1,5 +1,6 @@
 ---
 title: Shirota Glyoxalylamide Formation Oxalyl Chloride Indole
+---
 aliases: ["oxalyl chloride indole acylation", "glyoxalylamide-intermediate-in-tryptamine-synthesis tryptamine", "Shirota oxalyl chloride procedure"]
 tags: [synthesis]
 The conversion of 4-acetylindole to 3-dimethylaminooxalyl-4-acetylindole proceeds in two discrete steps within the same reaction sequence.

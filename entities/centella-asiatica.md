@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://doi.org/10.1002/ptr.5110
----# Centella asiatica
+---
+# Centella asiatica
 
 ## Overview
 

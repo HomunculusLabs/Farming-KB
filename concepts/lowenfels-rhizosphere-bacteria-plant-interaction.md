@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Rhizosphere Bacteria and Plant Interaction
+---
+# Rhizosphere Bacteria and Plant Interaction
 
 The rhizosphere is the narrow zone of soil immediately surrounding plant roots
 that is directly influenced by root secretions and associated soil microorganisms.

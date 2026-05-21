@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Tree Oyster Mushroom ([[growing-gourmet-north-american-reishi-species]] P. sapidus also shares
+---
+# Tree Oyster Mushroom ([[growing-gourmet-north-american-reishi-species]] P. sapidus also shares
 synonymy with P. ostreatus according to Vilgalys et al. (1993). P.
 columbinus is also in doubt as a separately valid species.
 

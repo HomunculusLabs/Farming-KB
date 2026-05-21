@@ -3,6 +3,7 @@ title: Rolf Singer
 created: 2026-04-28
 updated: 2026-05-06
 type: person
+---
 subtype: mycologist
 born: 1906-06-23
 died: 1994-01-18

@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research
+---
+# Carbon Isotope Labelling in Mycorrhizal Fatty Acid Research
 
 ## Overview
 

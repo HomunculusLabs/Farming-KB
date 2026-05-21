@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Thermophilic and Thermotolerant Fungi
+---
+# Thermophilic and Thermotolerant Fungi
 
 Thermophilic and thermotolerant fungi represent a specialized
 ecological group capable of growth at elevated temperatures

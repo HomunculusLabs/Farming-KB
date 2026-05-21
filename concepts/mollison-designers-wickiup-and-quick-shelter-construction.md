@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Wickiup and Quick Shelter Construction
+---
+# Wickiup and Quick Shelter Construction
 
 Quick shelters built from locally available [[permaculture-earthworks]] and construction phases, demonstration of low-cost building
 techniques, and long-term culturally appropriate housing in many climates.

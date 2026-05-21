@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Permaculture Design Methods and Analysis
+---
+# Permaculture Design Methods and Analysis
 
 The [[mollison-designers-chicken-tractors-egg-production]]), these techniques are merely tools. It is the design
 methodology that determines whether a system functions as an integrated whole

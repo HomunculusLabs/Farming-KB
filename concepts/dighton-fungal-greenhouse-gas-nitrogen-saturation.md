@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Greenhouse Gas Dynamics Under Nitrogen Saturation
+---
+# Fungal Greenhouse Gas Dynamics Under Nitrogen Saturation
 
 Nitrogen saturation of forest ecosystems, driven by chronic atmospheric
 [[nitrous-oxide]] (N2O) and methane (CH4). Fungi play indirect but

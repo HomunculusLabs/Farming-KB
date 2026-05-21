@@ -76,6 +76,6 @@ The principles discussed here have been applied in various contexts, from tradit
 This topic intersects with several broader themes and specialized areas of study. Understanding these connections provides a more complete picture of the subject matter.
 ## See Also
 
-- [[boletus-subtomentosus]] — another blueing bolete discussed by Palmer
+- [[boletus-sub-tomentosus]] — another blueing bolete discussed by Palmer
 - [[boletus-edulis]] — the king bolete
 - [[boletus-felleus]] — the bitter bolete to avoid

@@ -75,7 +75,7 @@ foundation for developing deep expertise and contributing to the field.
 
 ## See Also
 
-- [[lamb-bread]]
+- [[lambs-bread]]
 
 ## Overview
 

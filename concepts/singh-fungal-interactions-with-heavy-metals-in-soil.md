@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Interactions with Heavy Metals in Soil
+---
+# Fungal Interactions with Heavy Metals in Soil
 
 ## Overview
 

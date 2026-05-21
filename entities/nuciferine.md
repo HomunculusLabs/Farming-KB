@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 embryos of the plant at concentrations of 0.02–0.06% dry weight.
----he compound has attracted pharmacological interest for its complex
+---
+he compound has attracted pharmacological interest for its complex
 receptor profile, acting as a partial agonist at dopamine D2 and D3
 receptors and a serotonin 5-HT2A receptor antagonist. Despite structural
 similarity to classical aporphine alkaloids like apomorphine, nuciferine

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Atmospheric Steam Sterilization of Sawdust Substrates
+---
+# Atmospheric Steam Sterilization of Sawdust Substrates
 
 Many cultivators cannot afford, nor have access to, large
 production-style [[water-management]] at sea level boils at 212 degrees F (100 degrees C),

@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Craterellus cornucopioides." MushroomExpert.com
----# Craterellus cornucopioides (Black Trumpet)
+---
+# Craterellus cornucopioides (Black Trumpet)
 
 ## Overview
 

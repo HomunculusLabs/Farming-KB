@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Endophytic Fungi and Plant Growth Promotion in Contaminated Soils
+---
+# Endophytic Fungi and Plant Growth Promotion in Contaminated Soils
 
 ## Overview
 

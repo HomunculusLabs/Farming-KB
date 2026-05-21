@@ -1,5 +1,6 @@
 ---
 title: Bioremediation Using Fungi
+---
 subtitle: How fungi degrade pollutants and restore contaminated environments
 tags: [bioremediation, mycoremediation, fungi, pollution, enzymes, heavy-metals, ecology]
 date: 2026-04-28

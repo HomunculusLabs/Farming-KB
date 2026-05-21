@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Flood Retardation by Trees and Earthworks
+---
+# Flood Retardation by Trees and Earthworks
 
 Mollison documents the powerful role of trees and earthworks in reducing
 flood peaks, moderating stream flow, and preventing the catastrophic

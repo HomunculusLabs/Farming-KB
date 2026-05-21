@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Soil Protozoa vs Nematodes in Nutrient Cycling
+---
+# Soil Protozoa vs Nematodes in Nutrient Cycling
 
 ## Overview
 

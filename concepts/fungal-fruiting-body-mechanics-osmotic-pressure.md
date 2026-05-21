@@ -3,11 +3,10 @@ title: Fungal Fruiting Body Mechanics Osmotic Pressure
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Money - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists"
+  - Money - Mr. Bloomfields Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
 type: concept
 tags: [fungi, mycology, biomechanics, osmotic-pressure, hyphae, fruiting-body, spore-dispersal, mycelium, turgor-pressure]
 ---
-
 ## Overview
 
 The dramatic emergence of fungal [[dighton-fungal-decomposition-leaf-litter-dynamics]] to mushrooms pushing up through asphalt — is one of the most visually

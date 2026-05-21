@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Poisonous Mushroom Lookalikes in Cultivation
+---
+# Poisonous Mushroom Lookalikes in Cultivation
 
 [[growing-gourmet-mushrooms-civilization-history]], making accurate identification an
 essential survival skill for anyone [[growing-gourmet-enoki-cultivation]]

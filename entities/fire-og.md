@@ -12,13 +12,15 @@ tags:
   - recreational-cannabis
   - medical-cannabis
   - legacy-strain
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 Fernando Valley OG) with an **OG Kush** backcross. Developed in Southern California during
 the early 2000s medical cannabis era, Fire OG has become a staple of the cannabis-terpene-profile.
----he genetic ratio is approximately 70% indica / 30% sativa. Both parent strains trace
+---
+he genetic ratio is approximately 70% indica / 30% sativa. Both parent strains trace
 back to the original Chemdawg × Lemon Thai × [[cannabis-glandular-trichome-types-resin-production-clarke]] is abundant, making buds sticky to the touch with a
 slightly oily texture. Interior calyxes may show subtle purple hues in cooler growing
 conditions.

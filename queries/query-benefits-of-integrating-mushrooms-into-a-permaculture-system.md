@@ -26,7 +26,7 @@ minimal maintenance.
 From a design perspective, mushrooms fit naturally into multiple permaculture
 zones. Logs inoculated with shiitake or oyster spawn can be placed in Zone 2
 or 3 food forests, where they produce mushrooms seasonally while providing
-[[stropharia-rugoso-annulata]] cleans
+[[stropharia-rugosoannulata]] cleans
   runoff water and captures nutrients
 - Fungal networks improve soil structure, water retention, and nutrient
   cycling within the [[query-how-to-start-a-food-forest]]

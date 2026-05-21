@@ -17,7 +17,8 @@ updated: 2026-04-28
 sources:
  (taxonomic classification)
   - https://www.firstnature.com/fungi/macrolepiota-rachodes.php
----# Macrolepiota rachodes (Shaggy Parasol)
+---
+# Macrolepiota rachodes (Shaggy Parasol)
 
 ## Overview
 

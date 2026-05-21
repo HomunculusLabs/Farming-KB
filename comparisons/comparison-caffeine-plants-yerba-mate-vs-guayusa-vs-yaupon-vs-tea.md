@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Yerba Mate vs Guayusa vs Yaupon vs Tea
+---
+# Yerba Mate vs Guayusa vs Yaupon vs Tea
 
 ## At a Glance
 

@@ -1,5 +1,6 @@
 ---
 title: "McKenna's Decentralizing Bender"
+---
 slug: mckenna-decentralizing-bender-western-intellectual-history-consciousness
 tags:
   - consciousness

@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sneader, W. (2005). Drug Discovery: A History. Wiley.
----# Helichrysum italicum (Curry Plant, Immortelle)
+---
+# Helichrysum italicum (Curry Plant, Immortelle)
 
 **Helichrysum italicum**, commonly known as **immortelle**, **everlasting flower**, **curry plant**, or **Italian strawflower**, is a strongly aromatic perennial herb of the family **Asteraceae**. Native to the Mediterranean basin, it is celebrated for its extraordinary [[childrens-herbal-medicine]].
 

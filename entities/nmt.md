@@ -1,6 +1,7 @@
 ---
 title: "N-Methyltryptamine"
 type: chemical
+---
 aliases:
   - NMT
   - Monomethyltryptamine

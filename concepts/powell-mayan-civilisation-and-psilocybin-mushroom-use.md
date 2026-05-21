@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- Mayan Civilisation and Psilocybin Mushroom Use
+---
+ Mayan Civilisation and Psilocybin Mushroom Use
 
 Simon G. Powell examines the evidence linking the classical Mayan civilisation
 of Mesoamerica to the ritual use of [[entheogenic-fungi-history]] into their religious practices, and that these

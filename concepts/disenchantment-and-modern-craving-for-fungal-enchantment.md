@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Disenchantment and the Modern Craving for Fungal Enchantment
+---
+# Disenchantment and the Modern Craving for Fungal Enchantment
 
 Why has the modern West embraced the [[dmt-self-transforming-machine-elves-mckenna]]
 elves in a parallel dimension is likely to meet with a cynical and

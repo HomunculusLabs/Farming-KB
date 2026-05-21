@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://asm.org/Articles/2020/May/Bacteriophages-in-Soil
----# Bacteriophages and Viral Ecology
+---
+# Bacteriophages and Viral Ecology
 
 Bacteriophages (phages) are viruses that infect and replicate within [[fukuoka-eastern-western-medicine-healing-world-crisis]], though research continued in the Soviet Union (notably the Eliava
   Institute in Georgia).

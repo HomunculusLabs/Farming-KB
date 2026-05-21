@@ -1,5 +1,6 @@
 ---
 title: "Home Winemaking and Country Brewing"
+---
 subtitle: "A comprehensive guide to making wine, cider, mead, beer, and country wines at home from garden and homestead ingredients"
 tags: [fermentation, homesteading, wine, beer, cider, mead, brewing, beverages, self-sufficiency]
 date: 2026-05-08

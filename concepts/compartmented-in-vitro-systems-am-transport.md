@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Compartmented In Vitro Systems for AM Transport Studies
+---
+# Compartmented In Vitro Systems for AM Transport Studies
 
 ## Overview
 
@@ -66,7 +67,7 @@ When applying these concepts, consider regional variations, available resources,
 - [[xylem-and-phloem-transport-systems-in-plants]]
 - [[zeri-circular-economy-systems]]
 - [[dom]]
-- [[g-13]]
+- [[g13]]
 - [[mycelium]]
 
 ## Overview

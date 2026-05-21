@@ -16,6 +16,7 @@ tags:
   - plant-alkaloid
   - medicinal-chemistry
   - pharmacology
+---
 aliases:
   - "norharmane"
   - "9H-pyrido[3,4-b]indole"

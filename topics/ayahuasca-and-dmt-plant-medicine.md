@@ -1,5 +1,6 @@
 ---
 title: Ayahuasca and DMT Plant Medicine
+---
 subtitle: Botany, Chemistry, Indigenous Traditions, and Modern Research on the Amazon's Master Plant
 created: 2026-05-20
 updated: 2026-05-20

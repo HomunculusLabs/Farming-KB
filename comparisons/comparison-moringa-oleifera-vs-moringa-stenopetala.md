@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Moringa oleifera vs. Moringa stenopetala
+---
+# Moringa oleifera vs. Moringa stenopetala
 
 *Two "miracle trees" from different continents with overlapping but distinct strengths.*
 

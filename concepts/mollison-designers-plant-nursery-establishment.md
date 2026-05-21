@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Plant Nursery Establishment in Permaculture Systems
+---
+# Plant Nursery Establishment in Permaculture Systems
 
 The plant nursery is the engine of permaculture establishment. In
 *Permaculture: A Designers' Manual*, Bill Mollison repeatedly

@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.iwr.uni-bremen.de/biogas
----# Biogas Digesters and Anaerobic Digestion Systems
+---
+# Biogas Digesters and Anaerobic Digestion Systems
 
 ## Overview
 

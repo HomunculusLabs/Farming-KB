@@ -13,12 +13,14 @@ tags:
   - saprotrophic
   - mycology|mycology
   - permaculture|permaculture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  (neurotropic-fungi-taxonomic-classification)
   - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 52, 49-93.---
----# Pycnoporus cinnabarinus (Cinnabar Polypore)
+---
+# Pycnoporus cinnabarinus (Cinnabar Polypore)
 
 ## Overview
 

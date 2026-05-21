@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Autumn Garden Tasks
+---
+# Autumn Garden Tasks
 
 Autumn is one of the busiest and most important seasons in the gardening
 year. The work done now lays the foundations for next year's successes,

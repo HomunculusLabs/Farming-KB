@@ -6,7 +6,8 @@ sources:
   - "raw/papers/urban-permaculture-guerilla-gardening.md"
 type: concept
 tags: [culture, permaculture, plant-systems, plants]
---- [[dighton-fungus-cultivation-ants-termites-bark-beetles]] carry fungal
+---
+ [[dighton-fungus-cultivation-ants-termites-bark-beetles]] carry fungal
 spores into fallen trees, and fungi help break down wood back into soil that
 provides materials for new trees to grow.
 

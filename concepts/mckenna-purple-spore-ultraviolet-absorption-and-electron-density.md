@@ -14,6 +14,7 @@ tags:
   - purple-pigment
   - melanin
 created: 2026-05-11
+---
 related:
   - mckenna-stropharia-cubensis-as-teleological-agent
   - mckenna-food-of-the-gods-hypothesis

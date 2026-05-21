@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 - **Spores:** Globose to broadly ellipsoid, smooth, 8–12 × 6.5–9 μm, non-amyloid
----## Varieties and Color Morphs
+---
+## Varieties and Color Morphs
 
 The color of the cap varies significantly across the species' range:
 

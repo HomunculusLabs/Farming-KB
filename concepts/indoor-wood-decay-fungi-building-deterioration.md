@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Indoor Wood-Decay Fungi and Building Deterioration
+---
+# Indoor Wood-Decay Fungi and Building Deterioration
 
 Wood-decay fungi that colonize buildings represent a significant threat to
 built structures worldwide. Among these, the dry [[meruliporia-incrassata]] causes extensive [[dmt-containing-plants-united-states-halpern]], while [[bioremediation-fenton-chemistry-brown-rot-fungi]] form two types of root-like structure for colonization and

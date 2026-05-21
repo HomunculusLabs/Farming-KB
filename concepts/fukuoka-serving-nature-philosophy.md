@@ -9,7 +9,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Serving Nature — The Philosophy of Non-Intervention
+---
+# Serving Nature — The Philosophy of Non-Intervention
 
 ## Extravagance of Desire
 

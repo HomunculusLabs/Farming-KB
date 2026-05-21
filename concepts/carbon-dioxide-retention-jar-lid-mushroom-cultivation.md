@@ -1,5 +1,6 @@
 ---
 title: "CO2 Retention and Gas Exchange Through Loose Jar Lids in accessible-mushroom-cultivation-for-disabilities"
+---
 concept_type: technique
 domain: mycology
 source:

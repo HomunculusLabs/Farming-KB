@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Appropriate Technology and Small-Scale Tools
+---
+# Appropriate Technology and Small-Scale Tools
 
 Bill Mollison's [[keyline-design]] pasture improvement.
 

@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Soil Protozoa and Nutrient Cycling
+---
+# Soil Protozoa and Nutrient Cycling
 
 Protozoa are single-celled eukaryotic organisms that play a critical role in
 the soil food web as the primary consumers of bacteria. In "Teaming With

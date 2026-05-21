@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Mental Disorders: General Overview
+---
+# Cannabis and Mental Disorders: General Overview
 
 The relationship between cannabis and mental health is one of the most complex
 and widely debated topics in medical cannabis research. According to Uwe

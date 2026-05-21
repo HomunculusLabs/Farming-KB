@@ -9,7 +9,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Soil Surface and Capping
+---
+# Soil Surface and Capping
 
 The condition of the soil surface is the single most critical factor
 determining the health of all four [[savory-holistic-resource-management-animal-impact]] Management, [[jadam-soil-surface-management-no-till]] is central to

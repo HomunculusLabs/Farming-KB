@@ -1,5 +1,6 @@
 ---
 title: "Cold Shock Selectivity in Fruiting of Psilocybe Species"
+---
 concept_type: cultivation_technique
 domain: mycology
 source: "Cultivation of fruitbodies and sclerotia on sterilised grass seed (guid-mhtml_file)"

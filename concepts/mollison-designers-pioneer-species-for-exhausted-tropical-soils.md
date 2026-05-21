@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Pioneer Species for Exhausted Tropical Soils
+---
+# Pioneer Species for Exhausted Tropical Soils
 
 Wherever overgrazing plus fire or cut-and-burn forestry has ruined
 native forests, particularly towards the wet-dry tropics, closed

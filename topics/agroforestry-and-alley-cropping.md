@@ -1,5 +1,6 @@
 ---
 title: Agroforestry and comparison-alley-cropping-vs-silvopasture
+---
 subtitle: Integrating Trees with Crops and Livestock for Resilient Production Systems
 tags:
   - agroforestry

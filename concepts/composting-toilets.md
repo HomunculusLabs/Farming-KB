@@ -2,6 +2,7 @@
 title: "comparison-composting-toilets-vs-greywater-systems-detailed"
 created: 2026-04-28
 tags: [permaculture]
+---
 
 Mollison frequently pointed out that a single flush toilet contaminates
 approximately 13,000 liters of clean water per year to transport a few

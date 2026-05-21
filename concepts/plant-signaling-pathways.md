@@ -8,7 +8,8 @@ sources:
   - "raw/papers/symbiotic-fungi.md"
   - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
----# Plant Signaling Pathways
+---
+# Plant Signaling Pathways
 
 ## Overview
 

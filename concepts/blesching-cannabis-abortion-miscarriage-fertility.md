@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis, Abortion, Miscarriage, and Fertility
+---
+# Cannabis, Abortion, Miscarriage, and Fertility
 
 The [[blesching-cannabis-therapeutic-window-dosing]] varies between individuals and conditions
 - This explains why historical sources describe cannabis both as preventing

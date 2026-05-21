@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Fungal Endemism and Host Specificity
+---
+# Fungal Endemism and Host Specificity
 
 Endemism, the restriction of a species to a particular geographic
 area, and host specificity, the dependence of a fungal species on

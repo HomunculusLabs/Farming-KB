@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.wikileaf.com/strain/purple-punch/
----# Purple Punch
+---
+# Purple Punch
 
 **Purple Punch** is an indica-dominant hybrid [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the late 2010s and 2020s.
 Renowned for its striking purple coloration, sweet dessert-like aroma, and deeply relaxing effects, Purple Punch has earned a reputation as a premier "nighttime" strain.

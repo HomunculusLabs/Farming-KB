@@ -14,7 +14,8 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Clarke, R.C. (1998). Hashish! Redeye Press."
 Hindu Kush mountain range spanning Afghanistan and northern Pakistan.
----t is one of the most genetically influential [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
+---
+t is one of the most genetically influential [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
 
 Renowned for its [[cannabis-hashish-production]] heritage
 - **Pistils:** Abundant orange-brown hairs at maturity

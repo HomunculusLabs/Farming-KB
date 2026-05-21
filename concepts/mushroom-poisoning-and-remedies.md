@@ -83,7 +83,7 @@ Palmer made several important observations about how growing conditions affect
 mushroom quality and safety, demonstrating the extremely susceptible character
 of fungi:
 
-- **Acidulous fermentation**: The *[[boletus-subtomentosus]]* (olive-red boletus),
+- **Acidulous fermentation**: The *[[boletus-sub-tomentosus]]* (olive-red boletus),
   normally edible, became poisonous when heavily charged with water from dew or
   rain. Its spongy substance entered a state of acidulous fermentation, exhibiting
   brilliant blue when pressed, cut, or broken. Three cases of illness from this

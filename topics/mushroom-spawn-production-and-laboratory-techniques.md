@@ -1,5 +1,6 @@
 ---
 title: Mushroom Spawn Production and Laboratory Techniques
+---
 subtitle: The science and practice of creating, isolating, and scaling
   mycelial cultures for accessible-mushroom-cultivation-for-disabilities
 tags: [mycology, mushroom-cultivation, spawn, agar, sterilization,

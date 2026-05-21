@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Boletus_regius
----# Boletus regius
+---
+# Boletus regius
 
 **Boletus regius**, commonly known as the **royal bolete**, is a species of [[fagus-sylvatica]]*)
 - **Chestnut** (*[[carpinus-betulus]]*)

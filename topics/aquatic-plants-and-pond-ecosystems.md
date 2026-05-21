@@ -1,5 +1,6 @@
 ---
 title: "Aquatic Plants and Pond Ecosystems"
+---
 subtitle: "Ecology, design, food plants, and management of living pond systems."
 tags: [ponds, aquatic-plants, aquaculture, permaculture, hydrology, duckweed, water-quality]
 date: 2026-04-28
@@ -32,7 +33,8 @@ related_concepts:
   - pond-and-aquaculture
   - holzer-aquaculture-pond-construction
   - permaculture-duckweed
---- Aquatic Plants and Pond Ecosystems
+---
+ Aquatic Plants and Pond Ecosystems
 Aquatic plants and pond ecosystems are freshwater systems in which water,
 sediments, plants, microbes, invertebrates, fish, waterfowl, and surrounding
 land vegetation form a single ecological unit. In gardens and farms, the same

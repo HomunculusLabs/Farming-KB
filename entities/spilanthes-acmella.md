@@ -16,7 +16,8 @@ sources:
  — spilanthol pharmacology and immunomodulatory studies
  — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
   - Prakash, O. et al. "Acmella oleracea: A Comprehensive Review on Its Phytochemistry and Pharmacological Properties." Phytotherapy Research, 2021.
----# Spilanthes acmella
+---
+# Spilanthes acmella
 
 **Spilanthes acmella** (L.) Murr., commonly known as the **toothache plant**, **paracress**, **buzz button**, or **Szechuan buttons**, is an annual herbaceous plant in the family Asteraceae. Native to the tropics of Brazil and Peru, it is widely naturalized across tropical and subtropical regions worldwide. The plant is prized for its potent tingling, numbing sensation caused by the alkylamide spilanthol, making it both a culinary curiosity and a traditional remedy for toothaches and oral inflammation.
 

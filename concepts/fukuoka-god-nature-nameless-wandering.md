@@ -13,6 +13,7 @@ tags: [fukuoka, if this flows left]
 - The vision of God seen by Christians in Europe is only a profile seen from the West
 
 - Muslims know only the northern profile of God and Japanese only the eastern profile
+---
 
 ## Monotheism and Polytheism Are One
 

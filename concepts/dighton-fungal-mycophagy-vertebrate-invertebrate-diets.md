@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Mycophagy by Vertebrate and Invertebrate Animals
+---
+# Fungal Mycophagy by Vertebrate and Invertebrate Animals
 
 Mycophagy -- the consumption of fungi by animals -- is a widespread trophic
 interaction across terrestrial ecosystems. Fungi serve as important food

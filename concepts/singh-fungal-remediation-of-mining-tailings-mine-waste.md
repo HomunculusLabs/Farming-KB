@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Remediation of Mining Tailings and Mine Waste
+---
+# Fungal Remediation of Mining Tailings and Mine Waste
 
 Mining tailings and waste rock represent some of the most challenging
 environments for [[cannabis-grow-nutrient-deficiency-problem-solving]], and physical instability.

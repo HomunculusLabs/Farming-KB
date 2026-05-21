@@ -1,5 +1,6 @@
 ---
 title: "Beneficial Insects and Biological Pest Control"
+---
 subtitle: "A Comprehensive Guide to Natural Pest Management Through Predators, Parasitoids, and Habitat Design"
 created: 2026-05-20
 updated: 2026-05-20

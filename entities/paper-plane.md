@@ -1,6 +1,7 @@
 ---
 title: "Paper Plane"
 type: strain
+---
 aliases:
   - "Paper Plane #3"
   - "Paper Plane OG"

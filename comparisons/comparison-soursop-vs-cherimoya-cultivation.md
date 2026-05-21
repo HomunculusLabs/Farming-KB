@@ -13,7 +13,8 @@ updated: 2026-04-28
 sources:
 created: 2026-04-28
 type: comparison
----# Soursop vs Cherimoya — Cultivation Comparison
+---
+# Soursop vs Cherimoya — Cultivation Comparison
 
 Both soursop (*Annona muricata*) and cherimoya (*Annona cherimola*) belong to the *Annonaceae* family and are prized for their creamy, aromatic flesh. Despite their close botanical relationship, they occupy different climatic niches and present distinct cultivation requirements. This comparison covers their key differences and similarities for growers choosing between the two.
 

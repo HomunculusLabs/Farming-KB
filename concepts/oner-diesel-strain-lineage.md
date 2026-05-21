@@ -8,7 +8,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# The Diesel Strain Lineage and Family Tree
+---
+# The Diesel Strain Lineage and Family Tree
 
 ## Origins of the Diesel Family
 

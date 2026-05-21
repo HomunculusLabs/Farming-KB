@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Interactions with Plant Pathogens and Biocontrol
+---
+# Mycorrhizal Interactions with Plant Pathogens and Biocontrol
 
 [[fungal-ecology]], these interactions highlight the complex
 balance between [[dighton-fungal-mediated-plant-competition]]

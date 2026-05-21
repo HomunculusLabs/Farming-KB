@@ -17,6 +17,7 @@ tags:
   - medicinal-plants
   - traditional-medicine
   - fabaceae
+---
 aliases:
   - "Acacia senegal"
   - "Senegalia senegal"

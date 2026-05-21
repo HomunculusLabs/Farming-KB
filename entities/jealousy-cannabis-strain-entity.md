@@ -15,11 +15,13 @@ tags:
   - cookies-family
   - exotic
   - usa-bred
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://potguide.com/strains/jealousy/
----# Jealousy (Cannabis Strain)
+---
+# Jealousy (Cannabis Strain)
 
 ## Overview
 

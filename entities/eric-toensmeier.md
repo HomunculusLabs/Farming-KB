@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.chelseagreen.com/author/eric-toensmeier/
----# Eric Toensmeier
+---
+# Eric Toensmeier
 
 Eric Toensmeier is an American lecturer, author, and agroforestry researcher recognized as one of the leading figures in perennial polyculture design, carbon farming, and edible food forest systems. His work bridges academic ecology, practical [[regenerative-agriculture]] in the 21st century. He served as a Senior Fellow at Project Drawdown and has lectured extensively at Yale University, the University of Massachusetts, and institutions worldwide.
 

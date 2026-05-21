@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Magic Mushroom Preparation and Consumption Methods
+---
+# Magic Mushroom Preparation and Consumption Methods
 
 ## Traditional and Modern Methods of Preparing and Consuming Psilocybin
 ## Mushrooms

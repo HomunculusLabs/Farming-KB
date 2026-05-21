@@ -11,7 +11,8 @@ related:
   - phase-ii-conjugation-reactions-drug-metabolism
   - reactive-oxygen-species-and-oxidative-stress
 type: concept
---- Overview
+---
+ Overview
 Reactive metabolites are short-lived electrophilic or radical species formed when normal
 [[phase-ii-conjugation-reactions-drug-metabolism]] can either detoxify or activate.
 Sulfation of benzylic alcohols may create unstable sulfate esters, and acyl glucuronides

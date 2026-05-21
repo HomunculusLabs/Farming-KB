@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Pharmaceutical Wastewater Treatment by Fungi
+---
+# Pharmaceutical Wastewater Treatment by Fungi
 
 Pharmaceutical industry wastewaters represent a complex and challenging
 class of environmental pollutants. Little attention has historically been

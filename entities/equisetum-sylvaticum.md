@@ -11,7 +11,8 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Jermy, A. C. & Camus, J. M. (1991). "The Illustrated mushroom-veil-function-wind-light-protection-prior-to-spore-release, the fertile stems develop green branches similar to sterile stems and persist through dmt-containing-plants-united-states-halpern. Asian populations span from the Ural Mountains to Japan and the Korean Peninsula.
----he species is strongly associated with damp, acidic woodland habitats including boreal coniferous forests, birch woodlands, and alder carrs. It also grows along shaded stream banks, [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] occurs in spring, typically April to June in European populations. The green spores are short-lived and require moist conditions for germination within 48–72 hours of release.
+---
+he species is strongly associated with damp, acidic woodland habitats including boreal coniferous forests, birch woodlands, and alder carrs. It also grows along shaded stream banks, [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] occurs in spring, typically April to June in European populations. The green spores are short-lived and require moist conditions for germination within 48–72 hours of release.
 
 Herbivory is limited due to the high silica content and toxic compounds in the stems. However, some Lepidoptera larvae feed on horsetail foliage, and the plant provides cover for small woodland invertebrates.
 

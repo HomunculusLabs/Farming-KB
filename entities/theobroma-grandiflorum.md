@@ -11,7 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with comparison-berry-growing-vs-fruit-tree-pruning native to the Amazon basin.
----t is closely related to cacao and belongs to the same genus within the family Malvaceae.
+---
+t is closely related to cacao and belongs to the same genus within the family Malvaceae.
 
 The fruit is prized for its aromatic, creamy pulp, which is widely used in beverages, desserts, and cosmetics throughout Brazil.
 

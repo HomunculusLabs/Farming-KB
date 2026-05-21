@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Network Chemical Signaling and Plant Communication
+---
+# Mycorrhizal Network Chemical Signaling and Plant Communication
 
 The common [[mycorrhizal-fungi]] establish extensive hyphal networks in soil that
 simultaneously colonize the roots of neighboring plants. A single fungal

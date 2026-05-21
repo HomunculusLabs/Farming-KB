@@ -1,5 +1,6 @@
 ---
 title: "Small Scale comparison-cannabis-cloning-vs-seed-starting-indoors and Nursery Management"
+---
 subtitle: "Propagation, protected culture, and transplant systems for resilient gardens and farms"
 tags: [seed-starting, nursery, propagation, greenhouse, transplants, organic-gardening, market-garden]
 date: 2026-04-28

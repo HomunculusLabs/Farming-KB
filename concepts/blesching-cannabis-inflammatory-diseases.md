@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Inflammatory Diseases
+---
+# Cannabis and Inflammatory Diseases
 
 Inflammation is a fundamental [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] and Inflammation
 

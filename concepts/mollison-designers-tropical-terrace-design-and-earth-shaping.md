@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Tropical Terrace Design and Earth-Shaping
+---
+# Tropical Terrace Design and Earth-Shaping
 
 Terrace systems are a cornerstone of tropical [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] provides detailed
 guidance on terrace types, construction, planting strategies, and

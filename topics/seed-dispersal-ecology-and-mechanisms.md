@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://doi.org/10.1111/j.1469-8137.2009.02825.x
----# Seed Dispersal Ecology and Mechanisms
+---
+# Seed Dispersal Ecology and Mechanisms
 
 ## Overview of Seed Dispersal and Its Ecological Importance
 

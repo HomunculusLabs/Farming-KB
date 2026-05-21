@@ -61,7 +61,7 @@ The species has been reported from Japan and temperate East Asia, though some As
 - [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
 - [[stropharia-cubensis-ur-plant-mckenna]]
-- [[stropharia-rugoso-annulata]]
+- [[stropharia-rugosoannulata]]
 - [[stropharia-semiglobata]]
 - [[stropharia-venenata-japanese-bluing-species]]
 

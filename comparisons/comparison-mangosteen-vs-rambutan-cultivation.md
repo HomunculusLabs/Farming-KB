@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435915/
----# Mangosteen vs Rambutan Cultivation
+---
+# Mangosteen vs Rambutan Cultivation
 
 ## At a Glance
 

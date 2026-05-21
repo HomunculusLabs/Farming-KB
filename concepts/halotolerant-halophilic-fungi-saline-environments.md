@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Halotolerant and [[marine-mycelial-fungi]]. The
+---
+# Halotolerant and [[marine-mycelial-fungi]]. The
 diversity of halophilic fungi in extreme saline habitats
 remains poorly documented and likely represents a
 significant reservoir of [[fungal-volatile-organic-compounds-communication]] that do not interfere with

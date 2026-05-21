@@ -16,7 +16,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 ## Comparison with Related Compounds
 - Less visual than [[5-meo-dmt-compound-profile]] — for the more potent 5-MeO compound
-- [[aleph-compound-profile]]
+- [[aleph-pihkal-entry-3]]
 - [[psilocybin]]
 - [[mushroom-food-safety-heavy-metal-accumulation]]
 ## Practical Considerations

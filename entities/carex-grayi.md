@@ -11,7 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
 American botanist Asa Gray.
----he species is most famous for its striking perigynia, which are arranged in
+---
+he species is most famous for its striking perigynia, which are arranged in
 spiny, globular clusters resembling medieval maces or sea urchins. This unique
 morphology makes it one of the most easily recognized sedges in eastern North
 America.

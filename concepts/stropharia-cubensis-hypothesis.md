@@ -147,4 +147,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
 - [[stropharia-aeruginosa]]
-- [[stropharia-rugoso-annulata]]
+- [[stropharia-rugosoannulata]]

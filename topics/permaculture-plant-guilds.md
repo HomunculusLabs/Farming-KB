@@ -1,5 +1,6 @@
 ---
 title: "Permaculture Plant Guilds"
+---
 subtitle: "Designing self-maintaining plant communities through functional interconnection"
 tags: [permaculture, guild-design, companion-planting, polyculture, ecology, plant-systems, food-forests]
 date: 2026-05-08
@@ -24,7 +25,8 @@ related_concepts:
   - forest-gardening-and-food-forests
   - dynamic-accumulators
   - nitrogen-fixing-bacteria-and-biological-nitrogen-fixation
----# Permaculture Plant Guilds
+---
+# Permaculture Plant Guilds
 
 A permaculture plant guild is a deliberately assembled community of plants,
 animals, fungi, and other organisms that work together synergistically,

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Wet Tropical Forest Structure and Polyculture Design
+---
+# Wet Tropical Forest Structure and Polyculture Design
 
 The wet tropics cover about 10% of the earth's surface and 5%
 of the human population, encompassing the Amazon and Congo

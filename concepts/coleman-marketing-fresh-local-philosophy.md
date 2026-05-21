@@ -7,7 +7,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Marketing Philosophy — Fresh, Local, and Beyond Organic
+---
+# Marketing Philosophy — Fresh, Local, and Beyond Organic
 
 ## The Industrialization of Organic
 

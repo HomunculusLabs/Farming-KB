@@ -13,13 +13,15 @@ tags:
   - trip-sitting
   - integration
   - clinical-research
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  2026-05-07
 
 created: 2026-05-07
----# Set and Setting
+---
+# Set and Setting
 
 **Set and setting** is a foundational concept in [[richard-alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[psilocybin-clinical-trial-landscape-2020-2025]] design.
 

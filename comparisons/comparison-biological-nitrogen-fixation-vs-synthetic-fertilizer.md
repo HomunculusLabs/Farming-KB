@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
+---
+# Biological Nitrogen Fixation vs Synthetic Nitrogen Fertilizer
 
 ## Overview
 

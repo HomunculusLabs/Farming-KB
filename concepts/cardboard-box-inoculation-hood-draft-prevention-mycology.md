@@ -1,6 +1,7 @@
 ---
 title: Cardboard Box Inoculation Hood Draft Prevention Mycology
 tags: [mycology]
+---
 
 ## Why Draft Prevention Matters
 

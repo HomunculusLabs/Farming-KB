@@ -6,7 +6,8 @@ sources:
   - "raw/papers/urban-permaculture-guerilla-gardening.md"
 type: concept
 tags: [tree-crop, water]
----# Trees and the Water Cycle
+---
+# Trees and the Water Cycle
 
 Trees are fundamental regulators of the savory [[watershed-management]].
 

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Metabolites of PAHs and Their Mutagenicity
+---
+# Fungal Metabolites of PAHs and Their Mutagenicity
 
 [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) produces a
 diverse array of metabolites with varying degrees of toxicity and

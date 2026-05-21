@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Nameko Mushroom Cultivation (Pholiota nameko)
+---
+# Nameko Mushroom Cultivation (Pholiota nameko)
 
 The Genus Pholiota is not known for its abundance of deliciously
 edible species. Many species are characterized by a glutinous, slimy

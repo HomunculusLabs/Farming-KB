@@ -17,11 +17,13 @@ tags:
   - ectomycorrhizal
   - striking-appearance
   - bizarre-nature
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255954/
----# Hydnellum peckii
+---
+# Hydnellum peckii
 
 ## Overview
 

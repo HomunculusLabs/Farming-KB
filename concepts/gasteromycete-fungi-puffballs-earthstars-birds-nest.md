@@ -3,11 +3,10 @@ title: Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Mr. Bloomfield's Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)"
+  - Mr. Bloomfields Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)
 type: concept
 tags: [gasteromycetes, puffball, earthstar, birds-nest-fungus, sphaerobolus, spore-dispersal, basidiomycota]
 ---
-
 ## Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
 
 The gasteromycetes are a section of the [[stinkhorn-fungi-and-insect-spore-dispersal]], the gasteromycetes

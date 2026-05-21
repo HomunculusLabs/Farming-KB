@@ -35,7 +35,7 @@ sources:
 
 - Lenz law gives the direction of induced emf: the induced current opposes the change in magnetic flux that produced it.
 - If flux through a loop increases upward, the induced current creates downward magnetic field; if the flux decreases, the induced field points upward.
-- This opposition is not an arbitrary sign convention but a consequence of [[permaculture-principle-catch-and-store-energy]] and prevent saturation.
+- This opposition is not an arbitrary sign convention but a consequence of [[permaculture-principle-2-catch-store-energy]] and prevent saturation.
 - Core saturation limits volt-seconds and can create high magnetizing current, waveform distortion, heating, and audible noise.
 - Laminated steel and ferrite cores reduce eddy-current losses that would otherwise heat conductive magnetic material.
 - Mutual induction also appears in current transformers, ignition coils, guitar pickups, and inductive communication links.

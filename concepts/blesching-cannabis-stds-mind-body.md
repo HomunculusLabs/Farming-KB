@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Sexually Transmitted Diseases - Mind-Body Perspective
+---
+# Cannabis and Sexually Transmitted Diseases - Mind-Body Perspective
 
 ## Overview
 

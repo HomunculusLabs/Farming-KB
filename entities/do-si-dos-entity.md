@@ -17,15 +17,17 @@ tags:
   - high-thc
   - frosty-trichomes
   - dense-buds
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "  strain bred by
+  -   strain bred by
 Archive Seed Bank in Oregon, crossing the legendary psilocybin-north-america-pacific-northwest by storm after its release in 2016,
 winning multiple awards and quickly becoming a parent strain for numerous
 successful crosses. Its dense, frosty buds and sweet, earthy aroma make it
 instantly recognizable in dispensaries.
----# Strain Classification
+---
+# Strain Classification
 
 - **Type:** Indica-dominant hybrid (~70% indica / 30% sativa)
 - **Lineage:** Girl Scout Cookies × Face Off OG

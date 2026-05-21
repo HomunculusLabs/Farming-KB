@@ -13,7 +13,8 @@ tags: [person, science-fiction, afrofuturism, literature, speculative-fiction]
 sources:
   - concepts/afrofuturism.md
 status: complete
----# Octavia E. Butler
+---
+# Octavia E. Butler
 
 ## Overview
 

@@ -16,6 +16,7 @@ sources:
   - dighton-fungi-in-ecosystem-processes
   - biodiversity-of-fungi
   - bloomfield-orchard-mysterious-world-of-mushrooms
+---
 related_concepts:
   - lichen-biology-guide
   - lichen-biogeochemistry

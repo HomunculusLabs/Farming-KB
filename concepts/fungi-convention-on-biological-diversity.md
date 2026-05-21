@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Fungi and the Convention on Biological Diversity
+---
+# Fungi and the Convention on Biological Diversity
 
 The United Nations Convention on Biological Diversity (CBD), signed by
 153 nations at the 1992 Earth Summit in Rio de Janeiro, established the

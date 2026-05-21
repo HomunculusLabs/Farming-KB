@@ -12,7 +12,8 @@ updated: 2026-05-08
 sources:
   - "Kartesz, J.T. (2015). The Biota of  Plant Atlas."
   - "Adams, R.P. et al. (2011). Leaf thuja-plicata and coleman-cold-hardiness-testing-ratings, dense foliage, and aromatic timber, and it has contributed to the development of hybrid cultivars.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 - **Kingdom:** Plantae
 - **Division:** Pinophyta

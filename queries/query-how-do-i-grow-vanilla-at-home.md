@@ -6,7 +6,8 @@ updated: 2026-05-03
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
---- How Do I Grow Vanilla [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] (20%). A blend suited for orchid care works perfectly. Ensure the pot has excellent drainage; sitting in water causes rapid [[cervantes-spider-mites-identification-control]] are the usual suspects. Treat with [[query-what-are-the-best-mushrooms-for-beginners-to-grow]], best bean production. Start here.
+---
+ How Do I Grow Vanilla [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] (20%). A blend suited for orchid care works perfectly. Ensure the pot has excellent drainage; sitting in water causes rapid [[cervantes-spider-mites-identification-control]] are the usual suspects. Treat with [[query-what-are-the-best-mushrooms-for-beginners-to-grow]], best bean production. Start here.
 - **Vanilla × tahitensis** (Tahitian vanilla): More compact, fruitier flavor, harder to source.
 - **Vanilla pompona** (West Indian vanilla): Tolerates warmer, drier conditions but produces inferior beans.
 

@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.wholegrainscouncil.org/definitions/ancient-grains
----# What Are the Best Ancient and Heritage Grains for Small-Scale Farming?
+---
+# What Are the Best Ancient and Heritage Grains for Small-Scale Farming?
 
 ## Summary
 

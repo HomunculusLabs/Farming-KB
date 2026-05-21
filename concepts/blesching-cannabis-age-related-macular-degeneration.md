@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Age-Related Macular Degeneration
+---
+# Cannabis and Age-Related Macular Degeneration
 
 Age-related macular degeneration (AMD) is a painless eye disease characterized by
 loss of accurate sight in the center of the field of vision. Most common in

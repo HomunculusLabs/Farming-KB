@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa."
----# Acalypha racemosa
+---
+# Acalypha racemosa
 
 ## Overview
 

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Barrier Plants in Permaculture Garden Design
+---
+# Barrier Plants in Permaculture Garden Design
 
 Barrier plants serve multiple functions in permaculture
 systems: resisting invasive grasses, corralling animals,

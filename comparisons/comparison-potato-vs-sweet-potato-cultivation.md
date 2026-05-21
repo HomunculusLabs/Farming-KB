@@ -6,7 +6,8 @@ updated: 2026-04-28
 sources:
 created: 2026-05-07
 type: comparison
----# Potato vs Sweet Potato Cultivation
+---
+# Potato vs Sweet Potato Cultivation
 
 Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both widely grown root crops that share a name but are otherwise completely unrelated botanically, ecologically, and culinarily. Understanding their differences is essential for choosing the right crop for your climate, soil, and goals.
 

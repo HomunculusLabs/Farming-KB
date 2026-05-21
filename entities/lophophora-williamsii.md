@@ -16,7 +16,8 @@ tags:
 sources:
  — Mescaline pharmacology and clinical studies
   - Terry, M. & Trout, K. (2015). "Lophophora Distribution." CactusConservation.org.
---- Lophophora williamsii
+---
+ Lophophora williamsii
 
 **Peyote** · **Peyotl** · **Hikuri** (Wixárika) · **Button Cactus**
 

@@ -3,12 +3,11 @@ title: Multipurpose Plants for the Ecological Garden
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "Hemenway - Gaia's Garden"
+  - raw/papers/gaias-garden-toby-hemenway.md
+  - Hemenway - Gaias Garden
 type: concept
 tags: [gardening, plants]
 ---
-
 ## Multipurpose Plants for the Ecological Garden
 
 The concept of hemenway-ecological-garden-design. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, gaias-garden-backyard-ecosystem.

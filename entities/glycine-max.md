@@ -16,6 +16,7 @@ tags:
   - temperate-crops
   - tropical-crops
   - Glycine
+---
 date: 2026-04-28
 updated: 2026-04-28
 aliases:

@@ -2,6 +2,7 @@
 title: The Ideal Form and Shape of the Rice Plant
 created: 2026-04-28
 tags: [fukuoka]
+---
 When rice, barley, and clover were grown together, it was found that rice
 ripening over a thick cover of clover is short-stalked, robust right down to
 the bottom leaf, and bears fine golden heads of grain. After observing this,

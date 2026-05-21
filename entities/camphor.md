@@ -14,7 +14,8 @@ sources:
 in several other aromatic plant species. Historically one of the most important
 commodity terpenes in global trade, camphor has been used for millennia in
 traditional Chinese, Japanese, and Indian medicine.
----odern applications span topical analgesics, cough suppressants, embalming
+---
+odern applications span topical analgesics, cough suppressants, embalming
 fluids, and industrial chemistry. Its dual role as both a therapeutic agent
 and a potent neurotoxin at higher doses makes dosing critical. Camphor exists as
 two enantiomers: (+)-camphor (from *Dryobalanops aromatica*) and (−)-camphor

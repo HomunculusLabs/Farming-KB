@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Fungi and Soil Microbiology
+---
+# Mycorrhizal Fungi and Soil Microbiology
 
 The living soil is the foundation of every permaculture system. Mollison
 devotes significant attention to soil microbiology, recognising that the

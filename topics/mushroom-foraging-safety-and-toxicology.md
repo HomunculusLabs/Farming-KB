@@ -1,5 +1,6 @@
 ---
 title: "bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion Safety and Toxicology"
+---
 subtitle: "A Comprehensive Guide to Mushroom Toxins, Deadly Species, Lookalikes, and Safe Foraging Practices"
 tags:
   - mycology

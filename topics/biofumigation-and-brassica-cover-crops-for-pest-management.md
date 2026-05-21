@@ -9,6 +9,7 @@ tags:
   - pest-management
   - nematode-control
   - integrated-pest-management
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -19,7 +20,8 @@ sources:
  (Dutka et al., 2020, cover crop biofumigation review)
  (USDA ARS Biofumigation Research)
   - https://www.organicagcentre.ca/PracticalFiles/Biofumigation.pdf (OACC Biofumigation Factsheet)
----# Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
+---
+# Biofumigation and Brassica Cover Crops for Soil-Borne Pest Management
 
 ## Overview
 

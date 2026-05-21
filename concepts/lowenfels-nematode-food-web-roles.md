@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Nematode Roles in the Soil Food Web
+---
+# Nematode Roles in the Soil Food Web
 
 Nematodes, or roundworms, are among the most abundant and ecologically
 important animals in soil. In "Teaming With Microbes," Lowenfels and Lewis

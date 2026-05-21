@@ -8,7 +8,8 @@ sources:
 updated: 2026-04-24
 type: concept
 tags: [reference]
----# Master Planning and Mini-Farm Design
+---
+# Master Planning and Mini-Farm Design
 
 [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
 

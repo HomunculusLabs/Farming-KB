@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dense mycelial networks act as biological filters that can physically trap particulates, chemically bind contaminants, and biologically degrade pollutants. This approach offers a low-energy, sustainable alternative to conventional water treatment for specific applications.
+Mycofiltration uses fungal [[mycelium]] to filter and treat contaminated water. Dense mycelial networks act as biological filters that can physically trap particulates, chemically bind contaminants, and biologically degrade pollutants. This approach offers a low-energy, sustainable alternative to conventional water treatment for specific applications.
 
 ## How Mycofiltration Works
 
@@ -59,7 +59,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Can be harvested and composted after saturation
 
 ### Mushroom Grow Bags as Filters
-- Spent oyster mushroom substrate (post-harvest) repurposed as water filters
+- Spent [[oyster-mushroom]] substrate (post-harvest) repurposed as water filters
 - Rich in active mycelium and residual enzymes
 - Cost-effective use of waste material from mushroom cultivation
 - Effective for greywater treatment and stormwater polishing
@@ -103,7 +103,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Spent substrate readily available from commercial growers
 
 ### Trametes versicolor (Turkey Tail)
-- High enzyme production (laccase, MnP)
+- High [[enzyme]] production ([[laccase]], MnP)
 - Effective against phenolic compounds and dyes
 - Forms dense, durable mycelial mats
 - Tolerant of lower temperatures

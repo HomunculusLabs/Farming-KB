@@ -15,6 +15,7 @@ tags:
   - bee-forage
   - temperate-crops
   - Medicago
+---
 date: 2026-04-28
 updated: 2026-04-28
 aliases:

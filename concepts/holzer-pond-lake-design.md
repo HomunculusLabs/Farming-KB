@@ -13,7 +13,8 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
----# Holzer Pond and Lake Design
+---
+# Holzer Pond and Lake Design
 
 [[biodiversity-fungi-soil-fungal-communities]] by attracting as many
    plants and animals as possible. Deep and shallow zones support ecological

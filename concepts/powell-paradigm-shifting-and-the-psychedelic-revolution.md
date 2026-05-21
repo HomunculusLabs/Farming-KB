@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- Paradigm Shifting and the Psychedelic Revolution
+---
+ Paradigm Shifting and the Psychedelic Revolution
 
 Simon G. Powell traces the cultural impact of psilocybin from its discovery
 by R. Gordon Wasson in the 1950s through the psychedelic revolution of the

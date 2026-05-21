@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Trophic Interactions and Soil Food Webs
+---
+# Fungal Trophic Interactions and Soil Food Webs
 
 Fungi occupy central positions in soil food webs, connecting primary
 production and decomposition to higher [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] whose fruiting structures (mushrooms)

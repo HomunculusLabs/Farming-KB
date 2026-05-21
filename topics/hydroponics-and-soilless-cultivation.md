@@ -1,5 +1,6 @@
 ---
 title: "Hydroponics and Soilless Cultivation"
+---
 subtitle: "Plant production without field soil, from passive wick systems to aeroponics and biological root-zone management."
 tags: [hydroponics, soilless-cultivation, controlled-environment, plant-nutrition, water-culture, root-zone]
 date: 2026-04-28
@@ -30,7 +31,8 @@ related_concepts:
   - cannabis-soilless-grow-media
   - cervantes-rockwool-growing-substrate
   - mycorrhizal-hydroponic-systems
----# Hydroponics and Soilless Cultivation
+---
+# Hydroponics and Soilless Cultivation
 
 Hydroponics is the cultivation of plants without field soil, using
 water, dissolved mineral nutrients, inert media, and carefully managed

@@ -1,6 +1,7 @@
 ---
 title: "Kalapuya"
 type: strain
+---
 aliases:
   - "Kalapuya OG"
   - "Kalapuya Strawberry"

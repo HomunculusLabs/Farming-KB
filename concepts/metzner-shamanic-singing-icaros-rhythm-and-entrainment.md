@@ -16,7 +16,8 @@ sources:
 both navigational guides through metzner-three-distinctive-features-shamanic-entheogenic-ceremonies ceremonies, noting that
 the rhythmic, percussive driving quality of the singing helps to sustain
 the altered state and deepen the experience.
----hamans consider their songs to be received directly from plant spirits
+---
+hamans consider their songs to be received directly from plant spirits
 during their own initiation visions, not composed through ordinary
 creative effort.
 

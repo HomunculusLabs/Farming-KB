@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://kew.org/science/collections/living-collections/ilex-paraguariensis
----# Caffeine Plants and Stimulant Herb Cultivation
+---
+# Caffeine Plants and Stimulant Herb Cultivation
 
 ## Introduction
 

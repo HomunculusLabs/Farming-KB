@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Exudates and Root Exudate Interactions
+---
+# Mycorrhizal Exudates and Root Exudate Interactions
 
 ## Overview
 

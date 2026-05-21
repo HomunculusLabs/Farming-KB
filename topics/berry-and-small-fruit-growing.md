@@ -1,5 +1,6 @@
 ---
 title: "Berry and Small Fruit Growing"
+---
 subtitle: "A comprehensive guide to cultivating berries and small fruits for home and market"
 tags:
   - berries

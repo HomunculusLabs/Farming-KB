@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Legume Tree Inoculation and Nitrogen Distribution
+---
+# Legume Tree Inoculation and Nitrogen Distribution
 
 Leguminous trees are among the most important elements in
 [[permaculture-plants-legume-trees-acacia-carob-locust]] such as Leucaena, Acacia, Albizia, Gliricidia, and

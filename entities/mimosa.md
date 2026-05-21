@@ -16,7 +16,8 @@ sources:
 psilocybin-north-america-pacific-northwest
 and Europe. green-cannabis-plant-anatomy-calyx-pistil-bud-structure, deep
 purple coloration potential, and a sweet grape-forward terpene background.
----*Clementine** (male parent) — a sativa-dominant cross of Tangie and
+---
+*Clementine** (male parent) — a sativa-dominant cross of Tangie and
 Lemon Skunk. Clementine contributes the dominant citrus [[trichoderma-forest-green-mold-guide]],
 with many phenotypes displaying striking purple and violet hues in the
 calyxes, especially under cooler nighttime temperatures during late

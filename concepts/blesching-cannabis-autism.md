@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Autism Spectrum Disorder
+---
+# Cannabis and Autism Spectrum Disorder
 
 [[cannabis-sleep-disorders-and-insomnia]] in ASD
 - Social communication improvements were reported by some families,

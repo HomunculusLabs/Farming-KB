@@ -2,6 +2,7 @@
 title: "mckenna leafcutter ant fungal agriculture Fungal Agriculture and Human-Plant Symbiosis"
 created: 2026-04-28
 tags: [symbiosis]
+---
 reflects the fundamental importance of this topic across disciplines.
 
 Implementation varies based on scale, available resources, and

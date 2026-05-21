@@ -8,7 +8,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# The Sativa Renaissance — Rise of the Second Child
+---
+# The Sativa Renaissance — Rise of the Second Child
 
 ## Sativa as the Overlooked Sibling
 

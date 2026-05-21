@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-05-07
----# Overview
+---
+# Overview
 
 Armillaria cepistipes is a species of honey fungus in the Physalacriaceae family. It is a widespread root-pathogenic and saprotrophic basidiomycete that attacks woody plants across Europe and parts of Asia.
 

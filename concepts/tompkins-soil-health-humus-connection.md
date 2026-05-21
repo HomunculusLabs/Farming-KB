@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
----# Soil Health and the Humus Connection
+---
+# Soil Health and the Humus Connection
 
 The health of plants, animals, and humans is fundamentally tied to the
 health of soil, according to research presented in The [[cervantes-chemical-fertilizers-guide]] has degraded not only

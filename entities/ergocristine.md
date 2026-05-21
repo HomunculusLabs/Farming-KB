@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 ergot alkaloid pathway:
----. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
+---
+. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
    (DMATS) to form 4-dimethylallyl-L-tryptophan.
 2. **Oxidative ring closure** to produce chanoclavine-I, then
    agroclavine via the enzyme cloA (cytochrome P450).

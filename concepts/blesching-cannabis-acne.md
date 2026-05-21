@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Acne
+---
+# Cannabis and Acne
 
 Acne is a common skin disease affecting both genders during puberty. An
 increase in androgen hormones contributes to an increase in sebaceous gland

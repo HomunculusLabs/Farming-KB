@@ -13,7 +13,8 @@ updated: 2026-04-28
 sources:
   - Clarke, R.C. (1998). hashish! Red Eye Press.
 created: 2026-05-07---
----# Acapulco Gold
+---
+# Acapulco Gold
 
 **Acapulco Golden** · **Mexican Gold** · **Oro de Acapulco**
 

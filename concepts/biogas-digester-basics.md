@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A biogas digester (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
+A [[biogas-digester]] (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
 
 ## Biogas Composition
 

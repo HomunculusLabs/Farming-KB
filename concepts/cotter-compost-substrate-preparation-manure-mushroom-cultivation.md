@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Compost Substrate Preparation with Manure for Mushroom Cultivation
+---
+# Compost Substrate Preparation with Manure for Mushroom Cultivation
 
 [[cervantes-green-algae-growing-medium]] for
 several mushroom species. [[clitocybe-nuda]]) all thrive on

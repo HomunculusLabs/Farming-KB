@@ -1,5 +1,6 @@
 ---
 title: Plant Propagation Techniques
+---
 subtitle: "A comprehensive guide to multiplying plants through sexual and
   asexual methods — from seed saving and cuttings to grafting, layering,
   and tissue culture"

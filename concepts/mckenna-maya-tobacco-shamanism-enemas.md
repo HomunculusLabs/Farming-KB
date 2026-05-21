@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
----# Mayan Tobacco Shamanism and Enema Rituals
+---
+# Mayan Tobacco Shamanism and Enema Rituals
 
 [[beta-carboline-chemistry]] alkaloids in shamanic tobacco represents
 a significant biochemical dimension that distinguishes indigenous use

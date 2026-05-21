@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis Administration Methods
+---
+# Cannabis Administration Methods
 
 The therapeutic efficacy of cannabis depends not only on the choice of
 cannabinoids and terpenes but critically on the method of administration.

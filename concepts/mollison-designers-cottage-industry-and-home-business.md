@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cottage Industry and Home Business in Permaculture
+---
+# Cottage Industry and Home Business in Permaculture
 
 A fundamental tenet of [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]], and fermented foods and
 beverages.

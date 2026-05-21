@@ -1,6 +1,7 @@
 ---
 title: Lyophyllum decastes
 type: species
+---
 aliases:
   - "Tricholoma decastes"
   - "Clitocybe decastes"

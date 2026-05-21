@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Medicinal Polypore Candidates: Turkey Tail, Chaga, and Future Species
+---
+# Medicinal Polypore Candidates: Turkey Tail, Chaga, and Future Species
 
 Polypores are premier wood decomposers and can produce
 annual or perennial fruitbodies. Two polypores enjoying

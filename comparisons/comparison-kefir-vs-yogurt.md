@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Kefir vs Yogurt
+---
+# Kefir vs Yogurt
 
 Kefir and yogurt are the two most widely consumed fermented [[bionutrients-lab-lactic-acid-bacteria-serum]] fermentation, they differ fundamentally in their microbial communities, production methods, flavor profiles, and health properties. Understanding these differences helps cultivators, health-conscious consumers, and homesteaders [[psilocybin-shelf-life-stability]] (refrigerated)** | 2–4 weeks | 1–2 weeks (live, continues fermenting) |
 | **Self-propagating culture** | No — requires purchased starter each batch (or careful serial subculturing with degradation over generations) | Yes — grains grow and multiply with each batch |

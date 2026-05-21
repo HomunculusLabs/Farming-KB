@@ -2,6 +2,7 @@
 title: Fukuoka Textdoc Wholistic Perception Mt Fuji Metaphor
 created: 2026-04-28
 tags: [fukuoka]
+---
 ## The Paradox of Parts and Whole
 
 Without the whole, the parts are lost, and without the parts, there is no whole.

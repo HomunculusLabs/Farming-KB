@@ -52,7 +52,7 @@ Holmgren contrasts the linear flow of industrial systems (extract → use → di
 
 ## Connections
 
-This principle is deeply connected to [[permaculture-principle-catch-and-store-energy]] (capturing energy before it becomes waste), [[permaculture-principle-integrate-rather-than-segregate]] (integration closes loops), [[permaculture-principle-use-and-value-renewable-resources]] (valuing all outputs), and [[permaculture-principle-obtain-a-yield]] (waste is lost yield). See also [[permaculture-principles]], [[hugelkultur]], and [[sheet-mulching]].
+This principle is deeply connected to [[permaculture-principle-2-catch-store-energy]] (capturing energy before it becomes waste), [[permaculture-principle-integrate-rather-than-segregate]] (integration closes loops), [[permaculture-principle-use-and-value-renewable-resources]] (valuing all outputs), and [[permaculture-principle-obtain-a-yield]] (waste is lost yield). See also [[permaculture-principles]], [[hugelkultur]], and [[sheet-mulching]].
 ## Historical Context
 
 The study and practice of permaculture principle produce no waste has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.

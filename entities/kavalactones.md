@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003383.pub2/full
----# Kavalactones
+---
+# Kavalactones
 
 ## Overview
 

@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Malassezia: Commensal and Pathogenic Lipophilic Yeasts
+---
+# Malassezia: Commensal and Pathogenic Lipophilic Yeasts
 
 Malassezia species are lipophilic yeasts of basidiomycetous
 affinity that are among the most common fungal commensals of

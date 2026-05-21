@@ -1,6 +1,7 @@
 ---
 title: Legousia speculum-veneris
 type: entity
+---
 category: species
 family: Campanulaceae
 genus: Legousia

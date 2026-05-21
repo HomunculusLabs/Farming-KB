@@ -1,6 +1,7 @@
 ---
 title: "Vinca major"
 type: species
+---
 aliases:
   - "Greater Periwinkle"
   - "Bigleaf Periwinkle"
@@ -21,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 periwinkle) is more widely used in guzman-psilocybin-mushrooms-north-america (USDA zones 4–9), Japan, Australia, and New Zealand.
----hrives in shaded to partially shaded sites in woodlands, hedgerows, and
+---
+hrives in shaded to partially shaded sites in woodlands, hedgerows, and
 stream banks. Tolerates full shade and a range of soil types, preferring
 moist, well-drained loam. Highly tolerant of drought once established.
 

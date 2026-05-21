@@ -16,6 +16,7 @@ tags:
   - ethnomycology
   - tropical-fungi
   - bracket-fungus
+---
 aliases:
   - "Coriolopsis polyzona"
   - "Trametes polyzona"

@@ -1,6 +1,7 @@
 ---
 title: Pelletized (Granular) Spawn Production
 source:
+---
   author: Paul Stamets
   work: "Growing Gourmet and Medicinal Mushrooms"
   publisher: Ten Speed Press

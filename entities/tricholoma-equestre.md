@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 - **Chemical reactions:** KOH on cap surface — negative to faintly yellow. Melzer's on spores — inamyloid.
----## Microscopic Features
+---
+## Microscopic Features
 
 - **Basidiospores:** Broadly ellipsoidal to subglobose, smooth, 6.0–8.5 × 4.5–6.0 µm, hyaline, thin-walled, inamyloid.
 - **Basidia:** Clavate, 4-spored, 22–30 × 5.5–7.5 µm.

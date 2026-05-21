@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bye, R.A. & Linares, E. (1987). "The use of Tagetes lucida in Mesoamerican traditional medicine." Economic Botany.
----# Tagetes lucida (Mexican Tarragon / Sweet Marigold)
+---
+# Tagetes lucida (Mexican Tarragon / Sweet Marigold)
 
 ## Overview
 

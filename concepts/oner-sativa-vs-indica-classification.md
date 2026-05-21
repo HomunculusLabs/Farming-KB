@@ -8,7 +8,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Sativa vs Indica — The Classification Debate
+---
+# Sativa vs Indica — The Classification Debate
 
 ## The Traditional Dichotomy
 

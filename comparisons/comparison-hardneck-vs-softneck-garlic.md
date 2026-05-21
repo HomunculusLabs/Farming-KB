@@ -7,7 +7,8 @@ updated: 2026-04-28
 sources:
 type: comparison---
 
----# Hardneck Garlic vs Softneck Garlic
+---
+# Hardneck Garlic vs Softneck Garlic
 
 All [[comparison-garlic-vs-onion-growing]] falls into two broad categories: **[[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]** (*[[organic-pest-and-disease-management]]
 

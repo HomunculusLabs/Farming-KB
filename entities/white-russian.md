@@ -13,10 +13,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Greg Green, The Cannabis Grow Bible (2003)
-  - S.T. Oner, The Rev's Cannabis Sativa Vol. 3 (2015)
+  - S.T. Oner, The Revs Cannabis Sativa Vol. 3 (2015)
   - Serious Seeds official strain descriptions
 ---
-
 ## White Russian
 
 **White Russian** is an award-winning indica-dominant cannabis hybrid bred by Serious Seeds of Amsterdam. Created by crossing [[ak-47-cannabis]], White Russian won the overall Cannabis Cup at the 1996 High Times Cannabis Cup, one of the most prestigious awards in competitive cannabis. The strain combines the resin production of White Widow with the potency and complex aroma of AK-47.

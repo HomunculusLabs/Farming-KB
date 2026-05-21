@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://link.springer.com/article/10.1007/s11418-018-1234-5
----# Corydalis yanhusuo (Yan Hu Suo)
+---
+# Corydalis yanhusuo (Yan Hu Suo)
 
 **Corydalis yanhusuo** is a perennial herbaceous plant in the Papaveraceae (poppy) family, native to northern China. Its tuberous rhizome, known as **Yan Hu Suo** (延胡索) in Traditional Chinese Medicine (TCM), has been used for over a thousand years as a potent analgesic for pain conditions. The primary active compound, **dl-tetrahydropalmatine (THP)**, acts on dopamine and opioid receptors, providing [[coleman-overwintered-onions-and-early-spring-crops]] from a small, irregularly shaped tuberous rhizome (1–3 cm diameter). Stems are slender, erect, often purplish at the base. Leaves are finely dissected, 2–3 times pinnately divided, with narrow lobes — giving a feathery, almost fern-like appearance. Flowers are bilaterally symmetrical, pink to purplish, with a characteristic spurred petal typical of the Fumarioideae subfamily, borne in loose racemes. The fruit is a small, oblong capsule containing numerous small, shiny black seeds with elaiosomes (fatty attachments for ant dispersal).
 

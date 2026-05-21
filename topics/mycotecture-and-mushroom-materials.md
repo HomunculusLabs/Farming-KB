@@ -9,7 +9,8 @@ sources:
  (search: fungal architecture materials science)
  (search: mycelium composite mechanical properties)
   - https://materiom.org/ (open-source biomaterials recipes)
----# Mycotecture and Mushroom-Based Building Materials
+---
+# Mycotecture and Mushroom-Based Building Materials
 
 Mycotecture — a portmanteau of *mycelium* and *architecture* — is the practice of using fungal mycelium as a primary structural and functional material in construction, design, and manufacturing. Mycelium, the vegetative body of fungi, can colonize organic substrates and bind them into lightweight, durable composites that offer a renewable alternative to conventional materials like expanded polystyrene (EPS) foam, concrete, and engineered wood products.
 

@@ -1,5 +1,6 @@
 ---
 title: Vegetable Demand Classification
+---
 aliases:
   - vegetable-demand
   - crop-nutrient-requirements

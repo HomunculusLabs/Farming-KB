@@ -12,7 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.caymanchem.com/product/21964
---- 4-HO-MiPT
+---
+ 4-HO-MiPT
 
 ## Overview
 

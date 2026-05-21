@@ -10,7 +10,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
 in mountainous regions.
----n Europe, it is widespread from Scandinavia and the British Isles southward to
+---
+n Europe, it is widespread from Scandinavia and the British Isles southward to
 the Mediterranean mountains and eastward to the Caucasus. In North America, it
 ranges from Alaska and northern Canada to the northeastern and Appalachian United
 States, with disjunct populations in the Rocky Mountains.

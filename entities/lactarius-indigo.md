@@ -13,12 +13,14 @@ tags:
   - north-american-fungi
   - mexican-cuisine
   - indigo-pigments
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  (Lactarius indigo taxonomy)
   - Garibay-Orijel, R. et al. (2009). "Ethnomycological knowledge of guzman-allen-gartz-neurotropic-fungi-central-america-caribbean, instantly recognizable by its deep blue-to-indigo fruiting body and the intensely blue latex (milk) exuded when the flesh is cut or damaged. Widely collected as an edible mushroom in Mexico, Guatemala, and parts of the southern United States, it has been an important food source in indigenous Mesoamerican communities for centuries.
----# Taxonomy
+---
+# Taxonomy
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota

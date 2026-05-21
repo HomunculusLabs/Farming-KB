@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cold Caves and Root Cellar Storage
+---
+# Cold Caves and Root Cellar Storage
 
 Bill Mollison treats earth-sheltered storage structures -- caves, cellars, and
 underground chambers -- as central to [[pf-tek-low-humidity-symptoms-and-remediation]] and stable warmth. Livestock shelters

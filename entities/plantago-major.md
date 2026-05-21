@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705345/
----# Plantago major
+---
+# Plantago major
 
 ## Overview
 

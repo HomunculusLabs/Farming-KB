@@ -7,6 +7,7 @@ tags:
   - entheogen
   - wasson
   - mckenna
+---
 date: 2026-05-08
 updated: 2026-05-08
 sources:

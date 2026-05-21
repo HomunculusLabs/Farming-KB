@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cloning Wild vs. Cultivated Mushrooms
+---
+# Cloning Wild vs. Cultivated Mushrooms
 
 Cloning is the process of excising living tissue from a
 mushroom and transferring it to a sterile nutrient medium

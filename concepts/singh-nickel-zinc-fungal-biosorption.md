@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Nickel and Zinc Biosorption by Fungi
+---
+# Nickel and Zinc Biosorption by Fungi
 
 Nickel and zinc are common [[singh-binary-ternary-fungal-biosorption-systems]] provides an effective and
 economical approach for removing these metals from solution. Singh's

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Non-Brittle Environments
+---
+# Non-Brittle Environments
 
 In [[query-can-fungi-break-down-plastic-pollution]] dead material, returning nutrients to
 the soil surface where they feed new plant growth. This process is

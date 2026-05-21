@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fruit Vegetables Organic Growing
+---
+# Fruit Vegetables Organic Growing
 
 Fruit vegetables, including tomatoes, eggplants, and peppers, are some
 of the most rewarding crops in the organic garden. They generally

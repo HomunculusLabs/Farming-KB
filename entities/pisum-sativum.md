@@ -14,6 +14,7 @@ tags:
   - companion-planting
   - dynamic-accumulator
   - sustainable-agriculture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -25,7 +26,8 @@ aliases:
   - Erbse
   - Pois
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 **Pisum sativum**, the garden or field pea, is an annual herbaceous plant in the family Fabaceae, native to the Mediterranean basin and Near East.
 

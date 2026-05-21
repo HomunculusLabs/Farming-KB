@@ -2,6 +2,7 @@
 title: Psychedelic Therapy and Research
 type: topic
 tags: [psychedelic-therapy, mdma, psilocybin, lsd, clinical-research, psychiatry, mental-health, consciousness, psychopharmacology]
+---
 related:
   - mdma-compound-profile
   - psilocybin-therapy

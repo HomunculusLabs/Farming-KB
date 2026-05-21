@@ -1,6 +1,7 @@
 ---
 title: "Ethocybin"
 type: chemical
+---
 aliases:
   - "4-PO-DMT"
   - "4-phosphoryloxy-N,N-dimethyltryptamine"

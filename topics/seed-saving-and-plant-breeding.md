@@ -1,5 +1,6 @@
 ---
 title: Seed Saving and Plant Breeding
+---
 subtitle: Preserving genetic diversity and adapting crops to local conditions through open-pollinated seed stewardship
 tags:
   - seed-saving
@@ -13,9 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
-  - Bill Mollison, Permaculture: A Designer's Manual
-  - Sepp Holzer, Sepp Holzer's Permaculture
+  - raw/papers/sepp-holzer-practical-guide.md
+  - Bill Mollison, Permaculture: A Designers Manual
+  - Sepp Holzer, Sepp Holzers Permaculture
   - Carol Deppe, The Resilient Gardener
   - Pat Roy Mooney, Seeds of the Earth
 related_concepts:
@@ -32,7 +33,6 @@ related_concepts:
   - seed-balls-technique
   - seed-starting-and-transplanting
 ---
-
 ## Seed Saving and Plant Breeding
 
 Seed saving is among the oldest human technologies, predating agriculture itself. For roughly ten thousand years, every farming family on Earth selected the best plants from each harvest and reserved their seeds for the following season. This continuous cycle of selection, adaptation, and stewardship created the extraordinary diversity of crop varieties that fed humanity until the [[solomon-vegetable-varieties-self-sufficiency]] have been lost since the mid-twentieth century. Seed saving represents both a practical skill and a political act, offering individuals and communities a path toward food sovereignty and resilience that is independent of industrial supply chains.

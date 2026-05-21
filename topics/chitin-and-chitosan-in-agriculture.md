@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.frontiersin.org/articles/10.3389/fpls.2022.952635
----# Chitin and Chitosan in Agriculture
+---
+# Chitin and Chitosan in Agriculture
 
 ## Overview
 

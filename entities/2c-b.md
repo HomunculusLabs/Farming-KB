@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Passie, T. et al. (2008). "The pharmacology of 2C-B." Human Psychopharmacology, 23(6), 453-460.
---- 2C-B
+---
+ 2C-B
 
 **2,5-Dimethoxy-4-bromophenethylamine** · **Nexus** · **Venus** · **Bees** · **Erox** · C₁₀H₁₄BrNO₂
 

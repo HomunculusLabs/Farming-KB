@@ -15,7 +15,8 @@ sources:
 carrying the spore mass aloft. The process is analogous to the mechanics
 of a mammalian erection, though driven by osmotic rather than muscular
 pressure.
----# Chemical Attraction: The Chemistry of Rot
+---
+# Chemical Attraction: The Chemistry of Rot
 
 The spore slime contains a cocktail of volatile chemicals including
 hydrogen sulfide, formaldehyde, and methylmercaptan. Unique compounds

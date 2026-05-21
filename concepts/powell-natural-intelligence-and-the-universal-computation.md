@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- [[powell-omega-point-and-cosmic-evolution]],
+---
+ [[powell-omega-point-and-cosmic-evolution]],
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

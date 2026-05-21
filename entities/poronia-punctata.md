@@ -1,6 +1,7 @@
 ---
 title: "Poronia punctata"
 type: species
+---
 aliases:
   - "nail fungus"
   - "Peg fungus"

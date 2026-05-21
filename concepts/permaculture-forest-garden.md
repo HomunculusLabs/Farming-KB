@@ -17,6 +17,7 @@ tags: bill-mollison-permaculture-a-designers-manual-permaculture-design-principl
 - Is it common or rare?
 - Is it useful to me?
 - Will it grow too big for the space I have for it?
+---
 
 Just like the inventory of elements on cards you made in the beginning, species should be recorded and indexed on 3 x 5 cards. All of the above answers should be noted, as well as the general growing instructions, such as type of soil or amount of sunlight the species likes. You should also write down what it is specifically used for, such as the type of food, the animal that eats it, the type of nutrient it puts into the soil, or what color dye it makes.
 

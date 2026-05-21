@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Rabbit Housing and Manure Management
+---
+# Rabbit Housing and Manure Management
 
 [[bill-mollison]]'s [[duck-keeping-guide-detailed]] design follows
 [[comparison-deep-litter-vs-hot-composting]] systems produce compost directly in the rabbit housing,

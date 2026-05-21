@@ -11,7 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.---
---- Purple Kush
+---
+ Purple Kush
 
 ## Overview
 

@@ -17,7 +17,8 @@ Tennessee north through Ohio, Pennsylvania, and New York to New England.
 The species has spread dramatically since 2007 and is now reported from
 over 20 states, including populations in the psilocybin-north-america-pacific-northwest following
 accidental introduction through horticultural mulch.
----uropean collections have been confirmed from the UK, Germany, and the
+---
+uropean collections have been confirmed from the UK, Germany, and the
 Netherlands, likely introduced through wood chip landscaping. Fruiting
 occurs in spring (April to June), with a secondary, smaller fruiting in
 autumn. The species is strongly associated with riparian habitats, often

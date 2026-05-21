@@ -1,6 +1,7 @@
 ---
 title: Baccharis trimera
 type: species
+---
 aliases:
   - "carqueja"
   - "carquejinha"

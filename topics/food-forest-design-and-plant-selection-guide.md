@@ -1,5 +1,6 @@
 ---
 title: Food Forest Design and Plant Selection Guide
+---
 subtitle: A Practical Guide to Designing, Assembling, and Establishing Productive Edible Forest Ecosystems
 tags: [permaculture, food-forest, agroforestry, polyculture, guild-design, plant-selection, ecological-design, self-sufficiency]
 date: 2026-05-10

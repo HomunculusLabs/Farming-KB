@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Agar and Tissue Culture Techniques
+---
+# Agar and Tissue Culture Techniques
 
 ## Overview
 

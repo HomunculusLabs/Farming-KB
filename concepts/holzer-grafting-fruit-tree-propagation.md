@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Grafting and Fruit Tree Propagation
+---
+# Grafting and Fruit Tree Propagation
 
 [[sepp-holzer-fruit-tree-varieties]].
 

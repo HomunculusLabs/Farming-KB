@@ -1,6 +1,7 @@
 ---
 title: L-Citrulline
 type: chemical
+---
 aliases:
   - citrulline
   - L-citrulline
@@ -19,7 +20,8 @@ sources:
 created: 2026-05-02
 updated: 2026-05-02
 tags: [profile]
----# L-Citrulline
+---
+# L-Citrulline
 
 ## Overview
 

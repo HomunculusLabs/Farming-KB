@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Saprophytic Mushrooms: The Decomposers
+---
+# Saprophytic Mushrooms: The Decomposers
 
 Most [[gadd-mycelial-network-dynamics]] is designed to weave between and
 through the cell walls of plants. The enzymes and acids they

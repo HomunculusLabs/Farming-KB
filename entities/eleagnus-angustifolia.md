@@ -17,6 +17,7 @@ tags:
   - windbreak
   - pioneer-species
   - silvopasture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

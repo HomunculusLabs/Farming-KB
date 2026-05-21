@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Climate Change Adaptation Strategies in Permaculture
+---
+# Climate Change Adaptation Strategies in Permaculture
 
 While the Permaculture [[holmgren-permaculture-twelve-design-principles-framework]]
 translate into practical adaptation strategies for a warming, more

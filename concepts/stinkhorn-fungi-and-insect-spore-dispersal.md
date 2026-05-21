@@ -3,11 +3,10 @@ title: Stinkhorn Fungi And Insect Spore Dispersal
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Mr. Bloomfield's Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)"
+  - Mr. Bloomfields Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)
 type: concept
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, gasteromycetes, mycology, insect-attraction]
 ---
-
 ## Stinkhorn Fungi and Insect Spore Dispersal
 
 Stinkhorn fungi are among the most visually arresting and biologically ingenious

@@ -11,7 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
 independently from other Droseraceae.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 **Drosophyllum lusitanicum** (L.) Link was originally described by Linnaeus
 in 1753 as *Drosera lusitanica* and later transferred to its own genus by

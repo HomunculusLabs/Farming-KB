@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Brittleness Scale
+---
+# Brittleness Scale
 
 The brittleness scale is a one-to-ten continuum used to classify environments according
 to their decay and successional processes and how they respond to management tools.

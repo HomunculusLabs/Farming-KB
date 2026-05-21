@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Gourmet Mushrooms
+---
+# Mycorrhizal Gourmet Mushrooms
 
 Mycorrhizal species are among the most prized gourmet mushrooms in
 the world, yet they remain largely uncultivable by standard

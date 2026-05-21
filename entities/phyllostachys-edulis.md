@@ -14,13 +14,15 @@ tags:
   - erosion-control
   - multi-purpose-plant
   - moso-bamboo
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  2026-05-07
 
 created: 2026-05-07
----# Phyllostachys edulis
+---
+# Phyllostachys edulis
 
 **Moso bamboo**, **Mao bamboo**, **Chinese timber bamboo**
 

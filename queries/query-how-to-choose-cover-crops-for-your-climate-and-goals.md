@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# How to Choose Cover Crops for Your Climate and Goals
+---
+# How to Choose Cover Crops for Your Climate and Goals
 
 Cover crops are one of the highest-leverage tools you can add to a rotation, but picking the wrong species for your climate or goals wastes money and field time. This page walks you through a practical decision framework.
 

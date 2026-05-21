@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- The Other and Sentient Presence
+---
+ The Other and Sentient Presence
 
 Central to Simon G. Powell's thesis is the concept of the "Other," a
 transcendental sentient presence that is perceived during entheogenic

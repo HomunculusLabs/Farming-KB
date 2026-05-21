@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
 type: concept
----# Hypholoma capnoides: Brown Gilled Clustered Woodlover
+---
+# Hypholoma capnoides: Brown Gilled Clustered Woodlover
 
 Hypholoma capnoides is an aggressive conifer stump decomposer and
 one of the few [[hypholoma-capnoides]] belongs to the genus Hypholoma (Fries) Kummer, which includes several

@@ -30,7 +30,7 @@ He also credits the press for welcoming his communications and allowing reprints
 
 ## The Boletus Subtomentosus Case
 
-One of Palmer's most instructive experiences involved the *[[boletus-subtomentosus]]* (the olive-red Boletus of Mr. Peck's catalogue). He had eaten "some bushels" of this mushroom from the same location, but specimens plucked after heavy rain or dew exposure caused illness in three nearly simultaneous cases.
+One of Palmer's most instructive experiences involved the *[[boletus-sub-tomentosus]]* (the olive-red Boletus of Mr. Peck's catalogue). He had eaten "some bushels" of this mushroom from the same location, but specimens plucked after heavy rain or dew exposure caused illness in three nearly simultaneous cases.
 
 Palmer identified the cause as chemical change: the mushroom has a marked acid reaction under litmus paper, and when heavily charged with water, its spongy substance enters a state of "acidulous fermentation." During this state, the mushroom exhibits brilliant blue coloration when pressed, cut, or broken. Mr. Casamajor confirmed the blue matter was soluble but could not explain why it appeared upon exposure to air.
 

@@ -1,5 +1,6 @@
 ---
 title: Backyard Poultry and Integrated Animal Systems
+---
 subtitle: How chickens, ducks, geese, rabbits, and other small livestock build
   soil, control pests, and close nutrient loops on the homestead
 tags:
@@ -17,11 +18,11 @@ tags:
 date: 2026-04-28
 updated: 2026-05-20
 sources:
-  - Bill Mollison, Permaculture: A Designers' Manual
+  - Bill Mollison, Permaculture: A Designers Manual
   - Bill Mollison, Permaculture Two
   - Bill Mollison, Permaculture Design Course
-  - Toby Hemenway, Gaia's Garden
-  - Cho Han-Kyu, Cho's Global Natural Farming
+  - Toby Hemenway, Gaias Garden
+  - Cho Han-Kyu, Chos Global Natural Farming
   - Sepp Holzer, The Practical Guide to Permaculture
 related_concepts:
   - chicken-keeping-basics
@@ -39,7 +40,6 @@ related_concepts:
   - holzer-poultry-keeping-ducks-geese-and-chickens
   - integrated-poultry-forage-systems-zone-two
 ---
-
 ## Overview
 
 In a well-designed homestead, animals are not separate from the garden — they are woven into every zone. Chickens scratch and fertilize garden beds while ducks patrol orchards for slugs and geese clip grass beneath fruit trees.

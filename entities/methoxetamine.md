@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.emcdda.europa.eu/publications/drug-profiles/methoxetamine_en
----# Methoxetamine
+---
+# Methoxetamine
 
 ## Overview
 

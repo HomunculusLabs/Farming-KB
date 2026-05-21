@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Ascomycota Phylogeny - Major Classes and Lineages
+---
+# Ascomycota Phylogeny - Major Classes and Lineages
 
 The Ascomycota is the largest phylum of Kingdom [[keratinophilic-fungi|opportunistic pathogen]] of immunocompromised
   patients

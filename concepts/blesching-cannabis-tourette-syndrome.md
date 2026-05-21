@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# blesching cannabis tourette syndrome
+---
+# blesching cannabis tourette syndrome
 
 [[blesching-cannabis-neuroprotection]] - neuroprotective mechanisms
 - [[cannabis-pain-management-protocols]] - for comorbid pain

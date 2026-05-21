@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mills, S. & Bone, K. (2000). The Principles and Practice of Phytotherapy. Churchill Livingstone.
----# Scutellaria lateriflora
+---
+# Scutellaria lateriflora
 
 **American Skullcap** · **Blue Skullcap** · *Scutellaria lateriflora* L.
 

@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
----# Catalyzing Consciousness and Language Formation
+---
+# Catalyzing Consciousness and Language Formation
 
 The emergence of language and higher consciousness in the human species
 represents one of the deepest mysteries in evolutionary biology. The

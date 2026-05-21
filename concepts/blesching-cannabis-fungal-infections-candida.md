@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Fungal Infections Including Candidiasis
+---
+# Cannabis and Fungal Infections Including Candidiasis
 
 ## Overview
 

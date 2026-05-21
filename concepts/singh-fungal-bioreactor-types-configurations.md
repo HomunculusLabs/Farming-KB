@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Bioreactor Types and Configurations
+---
+# Fungal Bioreactor Types and Configurations
 
 [[mollison-designers-wastewater-treatment-wetlands]]. These reactors operate under aerobic or anaerobic
 conditions and can be configured as batch, semibatch, sequencing batch,

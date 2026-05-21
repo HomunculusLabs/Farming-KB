@@ -1,5 +1,6 @@
 ---
 title: Fungal Identification and Biodiversity Assessment
+---
 subtitle: From traditional to DNA barcoding and the hidden
   diversity of the fungal kingdom
 tags: [fungal-taxonomy, dna-barcoding, biodiversity, mycology, identification,

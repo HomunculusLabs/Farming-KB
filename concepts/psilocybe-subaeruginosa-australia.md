@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Psilocybe subaeruginosa in Australia and New Zealand
+---
+# Psilocybe subaeruginosa in Australia and New Zealand
 
 ## Overview
 

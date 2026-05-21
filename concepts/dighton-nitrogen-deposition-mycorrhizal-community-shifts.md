@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Nitrogen Deposition Effects on Mycorrhizal Communities
+---
+# Nitrogen Deposition Effects on Mycorrhizal Communities
 
 Atmospheric nitrogen deposition resulting from industrial processes and
 automobile emissions acts as both an acidifying pollutant and a fertilizer,

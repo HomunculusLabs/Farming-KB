@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Growing Space Design and Fruiting Room Management
+---
+# Growing Space Design and Fruiting Room Management
 
 ## Overview
 

@@ -9,7 +9,8 @@ sources:
  — National Honey Board nutritional and compositional data
  — Bee Culture magazine on apicultural practices
   - https://www.ichp-apitherapy.org — International Committee for Honey Processing
----# Bee Products and Apitherapy
+---
+# Bee Products and Apitherapy
 
 ## Introduction
 

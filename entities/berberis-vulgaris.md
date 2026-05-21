@@ -14,12 +14,14 @@ tags:
   - anti-inflammatory
   - shrub
   - edible-berries
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  — Berberine pharmacology reviews
   - Medicinal Plants of the World, Ben-Erik van Wyk & Michael Wink (2004)
----# Berberis vulgaris (Barberry)
+---
+# Berberis vulgaris (Barberry)
 
 **Berberis vulgaris**, commonly known as **common barberry**, **European barberry**, or simply **barberry**, is a deciduous shrub in the family **Berberidaceae**. It is one of the most [[cannabis-metabolic-syndrome-research]]:** Multi-target effects on glucose, lipids, and body weight
 - **GI infections:** Bacterial diarrhea, traveler's diarrhea, *H. pylori* adjunct treatment

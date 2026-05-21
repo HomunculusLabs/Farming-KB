@@ -11,7 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling, drawing nutrients from deeper soil layers and returning them through leaf dighton-fungal-drought-tolerance-plant-water-relations is low compared to many other Carex species.
----he species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
+---
+he species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
 
 No significant pest or disease problems affect cultivated plants. Root rot can occur in poorly drained, waterlogged conditions.
 

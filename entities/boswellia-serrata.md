@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/
---- *"Salai Guggul dries the excess of Kapha and soothes the fire of Vata — a resin of ancient healing."* — Classical Ayurvedic compendium
+---
+ *"Salai Guggul dries the excess of Kapha and soothes the fire of Vata — a resin of ancient healing."* — Classical Ayurvedic compendium
 
 ## Overview
 

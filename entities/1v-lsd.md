@@ -17,11 +17,13 @@ tags:
   - tryptamine-family
   - psychedelic-therapy
   - NPS
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.erowid.org/chemicals/1v_lsd/1v_lsd.shtml
----# 1V-LSD
+---
+# 1V-LSD
 
 ## Overview
 

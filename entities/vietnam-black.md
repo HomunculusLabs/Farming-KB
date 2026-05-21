@@ -16,7 +16,8 @@ sources:
     University of California Press.
     psychedelic-drug-testing-and-adulterant-screening and Analysis.
     in comparison-cannabis-sativa-vs-cannabis-indica L." Genetics.
---- Vietnam Black
+---
+ Vietnam Black
 
 **Vietnam Black** is a rare pure sativa southeast-asian-mushroom-tourism-bali to landrace genetics
 

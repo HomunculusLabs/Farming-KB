@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Free-Range Forage Design Principles
+---
+# Free-Range Forage Design Principles
 
 Mollison identifies three critical factors in designing free-range forage
 systems for [[permaculture-domestic-animals]]: social behaviour, year-round nutrition, and

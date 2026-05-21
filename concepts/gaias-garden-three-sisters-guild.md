@@ -3,12 +3,11 @@ title: Three Sisters Guild
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "Hemenway - Gaia's Garden"
+  - raw/papers/gaias-garden-toby-hemenway.md
+  - Hemenway - Gaias Garden
 type: concept
 tags: [gardening, plant-systems]
 ---
-
 ## Three Sisters Guild
 
 The gaias gaias garden three sisters guild guild is one of the oldest and most well-known examples of [[gaias-garden-net-and-pan-water-harvesting]] of higher humidity and lower soil temperature that benefits all three plants. The prickly squash vines also deter raccoons and other pests from approaching the corn.

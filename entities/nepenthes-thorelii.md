@@ -9,9 +9,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - McPherson, S.R. (2009). "Pitcher Plants of the 
+  - McPherson, S.R. (2009). Pitcher Plants of the
 - nepenthes-lowii
----# Overview
+---
+# Overview
 
 Nepenthes Thorelii represents an important element within sustainable
 design and ecological management systems. Its proper understanding

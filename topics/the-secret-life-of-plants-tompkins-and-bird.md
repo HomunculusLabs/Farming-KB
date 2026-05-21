@@ -1,5 +1,6 @@
 ---
 title: "The Secret Life of Plants"
+---
 subtitle: "Tompkins and Bird's exploration of plant perception"
 tags: [plant-intelligence, plant-perception, consciousness,
       bioelectricity, parapsychology, history-of-science, botany]
@@ -28,7 +29,8 @@ related_concepts:
   - plant-communication-volatile-organic-compounds
   - plant-signaling-pathways
   - plant-sensory-biology-and-intelligence
----# The Secret Life of Plants
+---
+# The Secret Life of Plants
 
 In 1973, journalist Peter Tompkins and former CIA intelligence officer
 Christopher Bird published *The Secret Life of Plants*, a sprawling

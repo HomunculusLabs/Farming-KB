@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (wiki raw source)"
----# Phellinus igniarius
+---
+# Phellinus igniarius
 
 Phellinus igniarius, the willow bracket or fire sponge, is a perennial
 polypore in the family Hymenochaetaceae and one of the most extensively

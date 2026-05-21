@@ -1,5 +1,6 @@
 ---
 title: 5-MeO-DMT and Bufo alvarius
+---
 subtitle: Overview of 5-MeO-DMT, Bufo alvarius, pharmacology, and risks
 tags:
   - 5-meo-dmt

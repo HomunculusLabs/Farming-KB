@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.allbud.com/marijuana-strains/indica/bubba-kush
----# Bubba Kush
+---
+# Bubba Kush
 
 ## Overview
 

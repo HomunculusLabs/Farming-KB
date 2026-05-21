@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Conifer Forestry and Timber in Permaculture
+---
+# Conifer Forestry and Timber in Permaculture
 
 Conifer forests are among the most productive timber systems in temperate
 and boreal regions, and their management is a significant consideration

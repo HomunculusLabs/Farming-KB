@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Subcutaneous and Dematiaceous Fungal Pathogens
+---
+# Subcutaneous and Dematiaceous Fungal Pathogens
 
 Subcutaneous fungal pathogens are distinguished from systemic and
 opportunistic pathogens by their ability to cause disease in an

@@ -14,6 +14,7 @@ tags:
   - brazil
 created: 2026-04-28
 updated: 2026-04-28
+---
 aliases:
   - Coriolopsis capitata
   - Datronia capitata

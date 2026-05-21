@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Complexity and Wholistic Thinking
+---
+# Complexity and Wholistic Thinking
 
 Allan Savory's [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Water
 cycles connect to mineral cycles which connect to [[savory-brittleness-scale]].

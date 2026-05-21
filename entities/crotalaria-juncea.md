@@ -17,6 +17,7 @@ tags:
   - fibrous-root
   - drought-tolerant
   - medicinal
+---
 date: 2026-05-09
 updated: 2026-05-09
 sources:
@@ -27,7 +28,8 @@ aliases:
   - Sanal
   - Madras Hemp
   - Brown Hemp
----# Overview
+---
+# Overview
 
 **Crotalaria juncea** is an annual legume in the family Fabaceae, widely cultivated in tropical and subtropical regions as a fiber crop, [[coleman-cover-crop-rotation-and-soil-health]]. It is one of the fastest-growing warm-season legumes, capable of producing 4–6 tonnes of dry matter per hectare in 60–90 days. Native to the Indian subcontinent, it has been naturalized and cultivated across tropical Asia, Africa, the Americas, and Australia.
 

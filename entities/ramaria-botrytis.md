@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Marr, C.D. & Stuntz, D.E. (1973). "Ramaria of western Washington." Biblthca Mycol.
----# Ramaria botrytis (Coral Mushroom)
+---
+# Ramaria botrytis (Coral Mushroom)
 
 ## Overview
 

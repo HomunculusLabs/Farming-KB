@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cytochrome P450 Enzyme Systems in Fungal Bioremediation
+---
+# Cytochrome P450 Enzyme Systems in Fungal Bioremediation
 
 Cytochrome P450 enzymes play a central role in fungal bioconversions of
 environmental pollutants. During the past several decades, the involvement

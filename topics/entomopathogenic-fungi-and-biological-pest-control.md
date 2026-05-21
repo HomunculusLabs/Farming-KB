@@ -1,5 +1,6 @@
 ---
 title: singh-entomopathogenic-fungi-biocontrol-agents and Biological Pest Control
+---
 subtitle: How fungi that kill insects are revolutionizing agriculture and pest
   management
 tags: [entomopathogenic-fungi, biocontrol, mycopesticides, cordyceps,

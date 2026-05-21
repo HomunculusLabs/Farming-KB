@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# How Do Plants Use Chemical Signals to Defend Against Insects and Communicate With Other Organisms?
+---
+# How Do Plants Use Chemical Signals to Defend Against Insects and Communicate With Other Organisms?
 
 ## Quick Answer
 

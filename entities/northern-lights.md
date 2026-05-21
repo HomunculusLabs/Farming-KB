@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.cannabis-seeds-store.com/blog/history-of-northern-lights-strain/
----# Northern Lights
+---
+# Northern Lights
 
 Northern Lights is one of the most legendary and foundational cannabis strains in the history of the plant. A pure indica (or near-pure indica) originally developed in the Pacific Northwest of the United States in the late 1970s, it has served as the genetic backbone for countless hybrid strains and remains a benchmark indica to this day. Its potent body-centered effects, extraordinary [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit have made it one of the most widely grown, bred, and celebrated strains in global [[cervantes-breeding-program-design-goal-setting]] involved selecting from approximately 11 pure indica plants over several generations of inbreeding and selection
 - **Genetic stability:** One of the most genetically stable and true-breeding cannabis lines in existence; seeds produce remarkably uniform offspring

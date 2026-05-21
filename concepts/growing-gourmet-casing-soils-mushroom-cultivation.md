@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
 type: concept
----# Casing Soils for Mushroom Cultivation
+---
+# Casing Soils for Mushroom Cultivation
 
 ## Overview and Purpose
 

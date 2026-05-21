@@ -17,11 +17,13 @@ tags:
   - trichome-dense
   - californian-genetics
   - cookies-lineage
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Lists_of_cannabis_strains
----# Biscotti
+---
+# Biscotti
 
 ## Overview
 

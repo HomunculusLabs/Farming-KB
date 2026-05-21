@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Wild Yield and Foraging Systems
+---
+# Wild Yield and Foraging Systems
 
 Wild yield systems are designed components of the [[mollison-designers-dryland-garden-and-oasis-design]].
 

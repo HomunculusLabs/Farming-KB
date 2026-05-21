@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Serotonin and the Endocannabinoid System
+---
+# Serotonin and the Endocannabinoid System
 
 Serotonin is a neurotransmitter especially abundant in the
 gastrointestinal tract (assisting [[neurochemical-probes-brain-imaging-pihkal]] has confirmed that healthy people who underwent

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fruiting Abnormalities and Malformations in Cultivated Mushrooms
+---
+# Fruiting Abnormalities and Malformations in Cultivated Mushrooms
 
 ## Overview
 

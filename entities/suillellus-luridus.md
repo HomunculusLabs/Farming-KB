@@ -16,7 +16,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.mycobank.org/
----# Suillellus luridus
+---
+# Suillellus luridus
 
 ## Overview
 

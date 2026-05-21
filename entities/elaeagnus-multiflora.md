@@ -14,6 +14,7 @@ tags:
   - drought-tolerant
   - hardy-shrub
   - berry-crop
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +27,8 @@ aliases:
   - Elaeagnus eduliscreated: 2026-05-07
 
 created: 2026-05-07
----# Overview
+---
+# Overview
 
 Elaeagnus multiflora Thunb. is a deciduous shrub in the family Elaeagnaceae, native to China, Korea, and Japan. Commonly known as goumi, it produces edible, astringent-sweet berries and is valued in permaculture for its nitrogen-fixing ability.
 

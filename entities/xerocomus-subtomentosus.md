@@ -1,6 +1,7 @@
 ---
 title: "Xerocomus subtomentosus"
 type: species
+---
 aliases:
   - Suede Bolete
   - Yellow-cracking Bolete
@@ -32,7 +33,7 @@ It is one of the most widespread and frequently encountered boletes across [[guz
 
 Kingdom: Fungi → Basidiomycota → Agaricomycetes → Boletales → Boletaceae → **Xerocomus** → **X. subtomentosus**.
 
-The species was originally described by Carl Linnaeus in 1753 as *[[boletus-subtomentosus]]*.
+The species was originally described by Carl Linnaeus in 1753 as *[[boletus-sub-tomentosus]]*.
 
 It was transferred to the genus *Xerocomus* by Petter Karsten in 1879 and has remained the type species of that genus.
 

@@ -14,7 +14,8 @@ updated: 2026-04-28
 sources:
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
----# Lambs Bread
+---
+# Lambs Bread
 
 **Lambs Bread** (also spelled **Lamb's Bread**, and sometimes called **Lamb's Breath**) is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, it is deeply intertwined with Rastafarian spiritual practice and Jamaican musical heritage. Bob Marley famously referenced it in his music, and it remains a touchstone strain for cannabis historians and landrace preservationists.
 
@@ -120,5 +121,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-sourdough-vs-wild-yeast-bread]]
 - [[fukuoka-plow-bread-dough-analogy-no-tillage]]
 - [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
-- [[lamb-bread]]
+- lambs bread
 - [[sourdough-bread-guide]]

@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Helotiales: Inoperculate Discomycete Diversity and Ecology
+---
+# Helotiales: Inoperculate Discomycete Diversity and Ecology
 
 The Helotiales is one of the largest and most ecologically diverse
 orders of [[pezizales-discomycete-ascomycete-diversity]]. The order

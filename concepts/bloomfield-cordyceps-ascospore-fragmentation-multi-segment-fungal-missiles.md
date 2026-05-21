@@ -1,6 +1,7 @@
 ---
 title: "Cordyceps Ascospore Fragmentation — Multi-Segment Fungal Missiles"
 source: "Mr. Bloomfield's Orchard"
+---
 source_path: "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
 concepts:
   - cordyceps-ascospore-fragmentation

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Detection Methods for Degrading Fungi in the Environment
+---
+# Detection Methods for Degrading Fungi in the Environment
 
 Fungi are important in the functioning of soil ecosystems, especially in
 decomposition processes of organic matter and bioremediation of

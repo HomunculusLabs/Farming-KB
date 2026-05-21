@@ -16,7 +16,8 @@ updated: 2026-04-28
 sources:
  (chemistry reference)
   - Chadeayne, A.R. et al. (2019). "Emerging tryptamines: pharmacology and forensic analysis." Forensic Sciences.
----# 4-AcO-DMT (Psilacetin)
+---
+# 4-AcO-DMT (Psilacetin)
 
 ## Overview
 

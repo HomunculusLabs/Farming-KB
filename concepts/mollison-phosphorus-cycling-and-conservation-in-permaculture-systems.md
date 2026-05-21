@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Phosphorus Cycling and Conservation in Permaculture Systems
+---
+# Phosphorus Cycling and Conservation in Permaculture Systems
 
 [[fungal-conservation-strategies]] that are central to [[phosphorus-availability]] in agricultural soils.
 

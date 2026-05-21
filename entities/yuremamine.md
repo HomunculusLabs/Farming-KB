@@ -14,11 +14,13 @@ tags:
   - beta-carboline
   - novel-compound
   - ethnobotany
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2899839/
----# Yuremamine
+---
+# Yuremamine
 
 Yuremamine is a complex tryptamine-derived alkaloid isolated from the root bark of *[[mimosa-tenuiflora]]* (Jurema
 pretinha), a tree native to northeastern Brazil traditionally used in the preparation of the psychoactive beverage

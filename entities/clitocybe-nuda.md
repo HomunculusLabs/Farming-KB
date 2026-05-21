@@ -17,7 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Stamets, P. & Chilton, J.S. (1983). 'allen-australian-psilocybe-species-comprehensive-guide to psilocybin-mushroom-identification-guide.' Macmillan."
----# Clitocybe nuda
+---
+# Clitocybe nuda
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 

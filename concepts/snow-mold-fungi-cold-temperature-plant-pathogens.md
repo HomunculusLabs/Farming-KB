@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Snow Mold Fungi
+---
+# Snow Mold Fungi
 
 Snow molds are low-temperature-tolerant soil-borne fungi that
 damage and kill grasses, cereals, and other plants during cold

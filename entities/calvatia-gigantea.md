@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://www.firstnature.com/fungi/calvatia-gigantea.php"
---- Calvatia gigantea
+---
+ Calvatia gigantea
 Calvatia gigantea, commonly known as the giant puffball, is a saprotrophic
 basidiomycete fungus renowned for producing some of the largest fruiting
 bodies of any mushroom. Specimens routinely reach 30–60 cm in diameter,

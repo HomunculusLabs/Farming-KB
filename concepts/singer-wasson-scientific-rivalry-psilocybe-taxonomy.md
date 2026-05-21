@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Singer-Wasson Scientific Rivalry Over Psilocybe Taxonomy
+---
+# Singer-Wasson Scientific Rivalry Over Psilocybe Taxonomy
 
 ## A Taxonomic Dispute That Rumbled for Decades
 

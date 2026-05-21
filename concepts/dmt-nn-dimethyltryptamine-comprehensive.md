@@ -44,7 +44,7 @@ DMT is often grouped with [[savory-short-duration-grazing-and-cell-systems]] whe
 
 The use of DMT in the Amazon is ancient and widespread. Indigenous cultures have used [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute in December 1983. The conference brought together researchers exploring the intersection of consciousness studies and quantum physics, providing a context in which the phenomenological reports of tryptamine experiences could be discussed alongside theoretical frameworks from physics and philosophy of mind.
 
-The talk was later published in 1992 as part of McKenna's collection The [[dmt-nn-dimethyltryptamine]]
+The talk was later published in 1992 as part of McKenna's collection The dmt nn dimethyltryptamine comprehensive
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[turner-essential-psychedelics-dmt-hyperspace]]
 

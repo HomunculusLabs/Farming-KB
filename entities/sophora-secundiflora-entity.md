@@ -9,7 +9,8 @@ date: 2026-05-02
 updated: 2026-05-02
 sources:
   - ~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
----# Sophora secundiflora (Ortega) Lag. ex DC.
+---
+# Sophora secundiflora (Ortega) Lag. ex DC.
 
 Sophora secundiflora, the mescal bean or Texas mountain laurel, is an
 evergreen shrub or small tree native to the limestone hills of Texas,

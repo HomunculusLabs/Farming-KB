@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 - **Common names:** Laughing gym, laughing Jim, spectacular rustgill, big laughing gym
----## Taxonomic Notes
+---
+## Taxonomic Notes
 The *Gymnopilus junonius*–*spectabilis* complex has undergone significant taxonomic revision. North American mycologists historically used *G. spectabilis*, while European workers used *G. junonius*. Modern molecular studies suggest these may represent a species complex with multiple distinct lineages across different geographic regions. Japanese specimens assigned to *G. junonius* have been confirmed to contain psilocybin and bis-noryangonin, while some North American collections identified as *G. spectabilis* show variable or absent psychoactive alkaloid profiles.
 
 ## Morphology

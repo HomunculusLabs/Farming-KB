@@ -15,7 +15,7 @@ designers working to create sustainable systems.
 
 While not one of Holmgren's original 12, the principle of Stacking
 of Functions is one of the most oft-recited permaculture principles.
-This principle ties in strongly with "[[permaculture-principle-catch-and-store-energy]] energy,
+This principle ties in strongly with "[[permaculture-principle-2-catch-store-energy]] energy,
 [[fukuoka-natural-farming-philosophy]]
 ## Overview
 

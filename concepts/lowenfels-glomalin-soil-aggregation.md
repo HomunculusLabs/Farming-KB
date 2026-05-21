@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Glomalin and Soil Aggregation
+---
+# Glomalin and Soil Aggregation
 
 Glomalin is a glycoprotein produced by [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 Discovered by USDA researcher Sara Wright in 1996, glomalin has transformed

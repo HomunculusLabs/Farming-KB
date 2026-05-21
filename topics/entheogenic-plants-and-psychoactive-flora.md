@@ -1,5 +1,6 @@
 ---
 title: Entheogenic Plants and Psychoactive Flora
+---
 subtitle: "A comprehensive guide to the sacred and hallucinogenic plants that
   shaped human cultures worldwide"
 tags:

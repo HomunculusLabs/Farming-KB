@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Constructed Wetlands and Fungal Wastewater Treatment
+---
+# Constructed Wetlands and Fungal Wastewater Treatment
 
 Constructed wetlands are engineered systems designed to harness natural
 biological processes for wastewater treatment. The [[fungal-volatile-organic-compounds-communication]] in wastewater, reducing BOD and degrading

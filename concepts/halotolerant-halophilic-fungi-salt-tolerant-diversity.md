@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Halotolerant and Halophilic Fungi: Salt-Tolerant Diversity
+---
+# Halotolerant and Halophilic Fungi: Salt-Tolerant Diversity
 
 Halotolerant and halophilic fungi are those capable of growing
 in environments with elevated salt concentrations. While fungi

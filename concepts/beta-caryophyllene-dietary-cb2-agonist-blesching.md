@@ -2,6 +2,7 @@
 title: "(E)-beta-Caryophyllene Dietary CB2 Agonist"
 source: uwe-blesching-the-cannabis-health-index
 tags: [beta-caryophyllene, terpene, CB2, spice, reactive-oxygen-species-and-oxidative-stress, pain, and cancer.---]
+---
 ## Regulatory Status
 
 This food-based cannabinoid is fully accepted by the U.S. government with

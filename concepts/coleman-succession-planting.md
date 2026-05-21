@@ -2,6 +2,7 @@
 title: Coleman Succession Planting
 created: 2026-04-26
 tags: [succession-planting, crop-rotation, year-round-harvest]
+---
 ## Background and Context
 
 arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error

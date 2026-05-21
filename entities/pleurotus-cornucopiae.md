@@ -45,7 +45,7 @@ P. cornucopiae is listed among the candidates for outdoor cultivation in permacu
 
 - **Pleurotus citrinopileatus** — Golden Oyster, described as P. cornucopiae var. citrinopileatus; see [[pleurotus-pulmonarius]]
 - **Pleurotus djamor** — Pink Oyster; see [[accessible-mushroom-cultivation-for-disabilities]] reference
-- [[stropharia-rugoso-annulata]] — Garden Giant, for [[pleurotus-djamor]] — Pink Oyster Mushroom
+- [[stropharia-rugosoannulata]] — Garden Giant, for [[pleurotus-djamor]] — Pink Oyster Mushroom
 
 ## Practical Considerations
 

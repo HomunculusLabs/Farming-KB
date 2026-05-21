@@ -9,20 +9,20 @@ tags:
   - sativa-dominant
   - anti-inflammatory
   - Lawrence Ringo
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ringo, L. (2011). Soure Tsunami breeding notes.
+  - Ringo, L. (2011). Soure Tsunami breeding notes.
     Southern Humboldt Seed Collective."
     chemical phenotype in comparison-cannabis-sativa-vs-cannabis-indica L.\" Genetics,
     163(1), 335-346."
     plant cannabinoids.\" Molecular Cancer Therapeutics,
     5(3), 729-736."
-  - "M lost, J. et al. (2018). \"The pharmacologic and
+  - M lost, J. et al. (2018). \The pharmacologic and
     clinical effects of medical cannabis.\" Handbook of
     Experimental Pharmacology, 251, 1-37."
 ---
-
 ## Sour Tsunami
 
 ## Overview

@@ -10,9 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Peart, D.R. (1984). " 96. Springer.
-  - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of dmt-containing-plants-united-states-halpern and southeastern Canada.
----t is a defining [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]d dramatically during the late 20th century due to acid
+  - Peart, D.R. (1984).  96. Springer.
+  - White, P.S. & Cogbill, C.V. (1992). Spruce-Fir Forests of dmt-containing-plants-united-states-halpern and southeastern Canada.
+---
+t is a defining [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]d dramatically during the late 20th century due to acid
 rain deposition, causing widespread dieback across its range.
 
 Recent [[dighton-fungi-climate-change-feedback]] now poses a significant long-term threat.

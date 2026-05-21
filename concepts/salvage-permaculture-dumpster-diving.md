@@ -6,7 +6,8 @@ sources:
   - "raw/papers/urban-permaculture-guerilla-gardening.md"
 type: concept
 tags: [culture, permaculture]
----# Salvage permaculture is the practice of building homes, gardens, and water
+---
+# Salvage permaculture is the practice of building homes, gardens, and water
 systems entirely from discarded and scavenged materials. It treats the urban
 waste stream as a primary resource, converting trash into productive
 infrastructure while reducing landfill waste and eliminating the need for

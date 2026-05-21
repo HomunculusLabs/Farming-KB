@@ -10,10 +10,11 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Dossett M et al. (2010). " America. It
+  - Dossett M et al. (2010).  America. It
 produces small, dark purple to black berries with an intense, sweet-
 tart flavor.
----he species has gained attention for its exceptionally high
+---
+he species has gained attention for its exceptionally high
 anthocyanin content, which exceeds that of most other berry fruits.
 Commercial production has expanded in recent decades driven by demand
 for high-antioxidant foods.

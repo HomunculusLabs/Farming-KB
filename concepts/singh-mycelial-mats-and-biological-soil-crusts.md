@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycelial Mats and Biological Soil Crusts
+---
+# Mycelial Mats and Biological Soil Crusts
 
 ## Overview
 

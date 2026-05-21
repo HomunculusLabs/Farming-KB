@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Biosorbents and Mycosorption Mechanisms
+---
+# Fungal Biosorbents and Mycosorption Mechanisms
 
 Mycosorption refers to the biosorption of metal ions by [[dighton-fungal-biosorption-heavy-metal-remediation]] removal from waste streams.
 

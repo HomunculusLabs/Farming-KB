@@ -1,5 +1,6 @@
 ---
 title: "Teaming with Microbes — The Organic Gardener's Guide to the Soil Food Web"
+---
 subtitle: "A comprehensive guide to Lowenfels and Lewis's landmark book on soil biology for gardeners"
 tags: [soil-biology, soil-food-web, microbiology, composting, organic-gardening, mycorrhizae, protozoa, nematodes, earthworms, mineralization, compost-tea]
 date: 2026-05-10

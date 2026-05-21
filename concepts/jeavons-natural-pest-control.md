@@ -8,7 +8,8 @@ sources:
 updated: 2026-04-24
 type: concept
 tags: [reference]
----# Natural Pest Control
+---
+# Natural Pest Control
 
 The GROW BIOINTENSIVE approach to pest control begins with a fundamental insight: most insects look for sick plants to eat. A healthy soil produces healthy plants that are better able to resist [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract pests. Synthetic [[aact-disease-suppression-mechanisms-ingham]]**: Healthy soil with diverse microbial populations naturally suppresses many plant diseases.
 

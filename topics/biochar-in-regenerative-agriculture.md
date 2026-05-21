@@ -1,5 +1,6 @@
 ---
 title: Biochar in Regenerative Agriculture
+---
 subtitle: Integrating Pyrolyzed Carbon into Living Soil Systems
 tags:
   - biochar

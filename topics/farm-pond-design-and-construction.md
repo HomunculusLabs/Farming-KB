@@ -1,5 +1,6 @@
 ---
 title: Farm Pond Design And Construction
+---
 subtitle: "A comprehensive guide to designing, building, and managing farm ponds, dams, and water storage for irrigation, aquaculture, and ecological resilience"
 tags: [permaculture, water-management, earthworks, aquaculture, farm-infrastructure, pond-design, dam-construction, homesteading]
 date: 2026-05-10
@@ -22,7 +23,8 @@ related_concepts:
   - faires-water-harvesting-and-swales
   - hamilton-garden-pond-maintenance
   - pond-maintenance-and-troubleshooting
----# Farm Pond Design and Construction
+---
+# Farm Pond Design and Construction
 
 Water is the single most important element in any productive landscape. Bill Mollison called stored water the "final arbiter of successful settlement," while Sepp Holzer built over seventy ponds at his Krameterhof farm in the Austrian Alps, demonstrating that water retention transforms even marginal land into productive ecosystems. Farm ponds and small dams serve far more functions than simple water storage: they irrigate crops, raise fish, moderate microclimates, protect against fire, create [[hemenway-backyard-wildlife-habitat]], and serve as the centrepiece of integrated farm design.
 

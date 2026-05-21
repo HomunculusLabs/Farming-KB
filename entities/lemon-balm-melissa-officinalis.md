@@ -14,7 +14,8 @@ tags:
 sources:
  — Melissa officinalis clinical studies
   - Kennedy, D.O. et al. (2004). "Mood and Cognitive Performance." Psychopharmacology.
---- Melissa officinalis
+---
+ Melissa officinalis
 
 **Lemon Balm** · **Common Balm** · **Melissa** · **Bee Balm** (archaic) · **Melisse**
 

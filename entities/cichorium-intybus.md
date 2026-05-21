@@ -3,6 +3,7 @@ title: "Cichorium intybus"
 created: 2026-04-28
 type: species
 tags: [herbal-plant, species, asteraceae, foraging, panax-ginseng as a bitterdigestive tonic, Belgian endive, and sugarloaf chicory.---]
+---
 ## Taxonomy and Naming
 - **Kingdom:** Plantae | **Division:** Magnoliophyta
 - **Class:** Magnoliopsida | **Order:** Asterales

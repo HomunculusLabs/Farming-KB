@@ -13,12 +13,14 @@ tags:
   - anti-inflammatory
   - eugenol
   - ursolic-acid
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  (Ocimum tenuiflorum pharmacology)
   - Kuo, Y.C. et al. (2020). "A review on phytochemistry and pharmacology of Ocimum tenuiflorum." Evidence-Based Complementary and Alternative Medicine.
----# Ocimum tenuiflorum (Holy Basil / Tulsi)
+---
+# Ocimum tenuiflorum (Holy Basil / Tulsi)
 
 ## Overview
 

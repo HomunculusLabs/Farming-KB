@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Basidiomycetous Yeasts: Diversity and Phylogenetic
+---
+# Basidiomycetous Yeasts: Diversity and Phylogenetic
 ## Distribution
 
 Basidiomycetous yeasts are a polyphyletic assemblage of fungi

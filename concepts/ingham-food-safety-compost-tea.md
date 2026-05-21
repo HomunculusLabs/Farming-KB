@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Food Safety and Human Pathogens in Compost Tea
+---
+# Food Safety and Human Pathogens in Compost Tea
 
 Food safety is a central concern in compost tea production and use.
 [[ingham-thermal-compost-versus-worm-compost]]): 55 degrees C or higher for

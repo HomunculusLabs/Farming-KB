@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Fungi-Vertebrate Interactions
+---
+# Fungi-Vertebrate Interactions
 
 Fungi associated with vertebrate animals represent a diverse assemblage
 spanning commensal organisms, specialized pathogens, opportunistic

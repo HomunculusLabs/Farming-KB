@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Amanita muscaria Use in Australia and New Zealand
+---
+# Amanita muscaria Use in Australia and New Zealand
 
 ## Overview
 

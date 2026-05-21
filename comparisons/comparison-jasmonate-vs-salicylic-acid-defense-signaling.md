@@ -11,6 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
+---
     author: "Pieterse, C.M.J., erik-van-der-werf Does, D., Zamioudis, C., Leon-Reyes, A., & Van Wees, S.C.M."
     journal: "Plant Cell"
     year: 2012

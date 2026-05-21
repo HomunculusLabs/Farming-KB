@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Seed Sowing Techniques in Organic Gardening
+---
+# Seed Sowing Techniques in Organic Gardening
 
 The cheapest method of raising plants is by sowing seeds directly into
 prepared soil. This is the method to adopt for most vegetables, hardy

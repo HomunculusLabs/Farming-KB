@@ -13,7 +13,8 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
----# Soil Fungi and Decomposition
+---
+# Soil Fungi and Decomposition
 
 Fungi are among the most important decomposers in terrestrial ecosystems. In
 "Teaming With Microbes," Lowenfels and Lewis describe saprophytic fungi as

@@ -1,6 +1,7 @@
 ---
 title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Asia and Oceania
 created: 2026-04-26
+---
 aliases:
   - Neurotropic fungi of Asia
   - Magic mushrooms of Asia

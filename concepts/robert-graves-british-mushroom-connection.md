@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Robert Graves and the British Magic Mushroom Connection
+---
+# Robert Graves and the British Magic Mushroom Connection
 
 Robert Graves (1895-1985) occupies an idiosyncratic position in the
 story of the magic mushroom. The eccentric poet, novelist, and

@@ -1,6 +1,7 @@
 ---
 title: "Fukuoka's Happy Hill Rice: A Hardy Variety for Global Food Security"
 source: "The Natural Way of Farming — masanobu-fukuoka-natural-farming-philosophy's contributions to agriculture, one of the most remarkable was his
+---
 development of a rice variety he named "Happy Hill." Created through decades of natural
 selection on his farm in Ehime Prefecture, Japan, Happy Hill rice is notable for combining
 the genetic hardiness of wild rice variants with some of the highest grain yields of any

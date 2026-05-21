@@ -3,12 +3,11 @@ title: Backyard Wetland Creation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "Hemenway - Gaia's Garden"
+  - raw/papers/gaias-garden-toby-hemenway.md
+  - Hemenway - Gaias Garden
 type: concept
 tags: [gardening]
 ---
-
 ## Backyard Wetland Creation
 
 Wetlands are among the most productive ecosystems on the planet, teeming with more plants and animals than any farm. hemenway-ecological-garden-design as both a productive element and a gaias-garden-sheet-mulching and manure onto their land in their straining pickup truck. They also forked rich muck from the bog onto the shore, building soil with [[gaias-garden-water-harvesting-swales-and-greywater]], roof runoff, or hemenway-zone-and-sector-planning, wetlands often fall in Zone 3 or 4 -- visited less frequently but providing essential [[gaias-garden-net-and-pan-water-harvesting]] for adjacent plantings.

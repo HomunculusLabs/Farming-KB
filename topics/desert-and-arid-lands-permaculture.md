@@ -1,5 +1,6 @@
 ---
 title: Desert and Arid Lands Permaculture
+---
 subtitle: Restoring degraded drylands through water harvesting, soil building,
   and plant irrigation techniques
 tags:

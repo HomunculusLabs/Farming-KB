@@ -12,7 +12,8 @@ updated: 2026-04-28
 sources:
   - Hamaker, J. "The Survival of Civilization"
 type: query
----# How Does Rock Dust Improve Soil Fertility?
+---
+# How Does Rock Dust Improve Soil Fertility?
 
 ## Short Answer
 

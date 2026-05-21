@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# [[psychedelic-mushroom-set-and-setting]] collected from
+---
+# [[psychedelic-mushroom-set-and-setting]] collected from
 five different locations in Australia, suggesting that much larger doses would
 be required to produce significant hallucinations.
 

@@ -1,5 +1,6 @@
 ---
 title: "Irrigation Design for Small Farms"
+---
 subtitle: "Comprehensive guide to selecting, designing, and managing irrigation systems for homesteads, market gardens, and small-scale farms"
 tags: [irrigation, water-management, drip-irrigation, sprinklers, passive-irrigation, farming, homesteading, water-conservation, soil-moisture, fertigation]
 date: 2026-05-09

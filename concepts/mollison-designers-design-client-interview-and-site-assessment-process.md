@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Design Client Interview and Site Assessment Process
+---
+# Design Client Interview and Site Assessment Process
 
 The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is essential. Are they motivated by food production,
   environmental restoration, energy independence, [[mollison-permaculture-design-course-curriculum]] provides baseline expectations.

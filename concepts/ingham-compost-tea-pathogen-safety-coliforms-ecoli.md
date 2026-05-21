@@ -86,7 +86,7 @@ Food safety concerns should focus on preventing INTERNAL contamination of produc
 
 Ingham draws a clear distinction between aerobic [[elaine-ingham]]
 - [[det]]
-- [[g-13]]
+- [[g13]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

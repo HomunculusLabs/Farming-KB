@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Legal History of Psilocybian Mushrooms in Australia and New Zealand
+---
+# Legal History of Psilocybian Mushrooms in Australia and New Zealand
 
 ## The Rise of Recreational Use (1960s-1970s)
 

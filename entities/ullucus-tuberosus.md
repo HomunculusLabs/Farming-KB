@@ -13,13 +13,15 @@ tags:
   - frost-tolerant
   - traditional-agriculture
   - ulluco
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
  2026-05-07
 
 created: 2026-05-07
----# Ullucus tuberosus
+---
+# Ullucus tuberosus
 
 **Ulluco**, **ulluku**, **melloco**, **olloc**, **rubas**
 

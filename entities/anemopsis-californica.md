@@ -1,6 +1,7 @@
 ---
 title: Anemopsis californica
 type: species
+---
 aliases:
   - "yerba mansa"
   - "lizard tail"

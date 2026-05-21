@@ -9,7 +9,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Wild and Semi-Wild Foods — Nutrition Beyond Domestication
+---
+# Wild and Semi-Wild Foods — Nutrition Beyond Domestication
 
 ## Closeness to Wild Ancestors
 

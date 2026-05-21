@@ -1,5 +1,6 @@
 ---
 title: Hugelkultur and Raised Bed Gardening
+---
 subtitle: Building soil, conserving water, and growing more food with less effort
 tags: [hugelkultur, raised-beds, permaculture, soil-building, no-till,
   sheet-mulching, gardening, earthworks]

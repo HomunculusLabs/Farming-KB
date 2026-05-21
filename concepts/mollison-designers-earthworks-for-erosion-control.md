@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Earthworks for Erosion Control
+---
+# Earthworks for Erosion Control
 
 Erosion is the single greatest threat to productive land worldwide. Bill
 Mollison's *[[mollison-designers-humus-building-and-soil-organic-matter]], maintaining

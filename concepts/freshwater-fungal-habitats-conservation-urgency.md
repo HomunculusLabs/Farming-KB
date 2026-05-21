@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Freshwater Fungal Habitats and Conservation Urgency
+---
+# Freshwater Fungal Habitats and Conservation Urgency
 
 Freshwater habitats harbor a diverse assemblage of true fungi and
 fungus-like straminipiles and protists, yet these ecosystems face

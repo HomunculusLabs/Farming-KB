@@ -102,7 +102,7 @@ The systematic exploration of N-substituted tryptamine analogs was pioneered by 
 ## See Also
 
 - [[5-meo-dipt]]
-- [[dmt-nn-dimethyltryptamine]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
 - [[lsd]]
 - [[psilocin]]
 - [[bufotenin]]

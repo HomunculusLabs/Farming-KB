@@ -2,6 +2,7 @@
 title: Arabidopsis thaliana
 created: 2026-04-28
 type: species
+---
 scientific_name: Arabidopsis thaliana
 authority: (L.) Heynh.
 aliases:
@@ -25,7 +26,8 @@ related_concepts:
   - mycorrhizal-signaling-strigolactones-myc-factors
 date: 2026-05-02
 updated: 2026-05-02
----# Arabidopsis thaliana
+---
+# Arabidopsis thaliana
 
 **Arabidopsis thaliana** is a small flowering plant in the mustard family Brassicaceae.
 It is commonly called thale cress, mouse-ear cress, or simply Arabidopsis.

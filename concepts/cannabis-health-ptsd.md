@@ -65,7 +65,7 @@ persistent aspects of PTSD.
 ## Extinction Learning Mechanism
 
 The endocannabinoid system's role in extinction learning is central to
-its [[cannabis-health-thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
+its [[thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
 equally. Rimonabant is a CB1 antagonist known to reduce learned fear
 responses. While the human case study relied on Nabilone, many patients
 prefer indicas or indica-dominant hybrids with a lower THC:CBD/CBN

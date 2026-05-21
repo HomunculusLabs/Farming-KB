@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Degradation of Synthetic Dyes and Textile Waste
+---
+# Fungal Degradation of Synthetic Dyes and Textile Waste
 
 ## Overview
 

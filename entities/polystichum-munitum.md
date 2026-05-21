@@ -12,7 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
 winters and mild, dry summers.
----he species occupies a wide elevational gradient, from sea level to
+---
+he species occupies a wide elevational gradient, from sea level to
 approximately 1,800 meters. It is most luxuriant in low-elevation riparian
 areas and old-growth coniferous forests.
 

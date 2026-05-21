@@ -11,7 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-05-07
----# Overview
+---
+# Overview
 
 Miproscaline (3,5-dimethoxy-4-methylthiophenethylamine) is a synthetic psychedelic phenethylamine and a homologue of mescaline. It is entry #58 in [[alexander-shulgin]]'s PIHKAL (Phenethylamines I Have Known and Loved).
 

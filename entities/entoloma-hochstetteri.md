@@ -2,6 +2,7 @@
 title: Entoloma hochstetteri
 created: 2026-04-28
 type: species
+---
 aliases:
   - Blue Entoloma
   - Werewere-kōkako
@@ -19,7 +20,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4587895
----# Entoloma hochstetteri
+---
+# Entoloma hochstetteri
 
 ## Overview
 Entoloma hochstetteri is a species of mushroom in the family Entolomataceae, notable for its striking all-blue coloration.

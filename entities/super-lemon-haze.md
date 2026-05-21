@@ -8,7 +8,8 @@ updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "https://www.allbud.com/super-lemon-haze/strain"
---- Super Lemon Haze
+---
+ Super Lemon Haze
 Super Lemon Haze (SLH) is a sativa-dominant [[cannabis-vegetative-growth-stage]]. Reduce
   nitrogen in weeks 6–8 of flowering to encourage terpene development.
 - **[[cervantes-spider-mites-identification-control]]

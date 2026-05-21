@@ -1,5 +1,6 @@
 ---
 title: The Soil Food Web
+---
 subtitle: Understanding the living ecosystem beneath our feet
 tags: [soil-food-web, soil-biology, microbiology, mycorrhiza, nutrient-cycling, soil-ecology]
 date: 2026-04-28

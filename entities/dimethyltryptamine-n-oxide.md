@@ -142,5 +142,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[4-acetoxy-nn-dimethyltryptamine]]
 - [[dimethyltryptamine]]
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
-- [[dmt-nn-dimethyltryptamine]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]
 - [[dmt-nn-dimethyltryptamine-pharmacology-and-experience]]

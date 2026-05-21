@@ -33,7 +33,7 @@ each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
 successful implementations combine established [[fukuoka-god-nature-and-man-as-one]]
 - [[det]]
-- [[fukuoka-god-nature-man-unity-philosophy]]
+- [[fukuoka-god-nature-and-man-as-one]]
 
 ## Overview
 

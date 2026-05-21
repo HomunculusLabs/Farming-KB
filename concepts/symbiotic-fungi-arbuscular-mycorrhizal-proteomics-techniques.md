@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Arbuscular [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
+---
+# Arbuscular [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
 
 - [[mycorrhizal-proteomics]] techniques
 ## Background and Context

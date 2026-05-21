@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Oxytocin and the Endocannabinoid System
+---
+# Oxytocin and the Endocannabinoid System
 
 Oxytocin is a hormone produced by both genders, manufactured in the
 hypothalamus and stored in the pituitary gland. In orthodox medicine it

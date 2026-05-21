@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Wet-Dry Tropical permaculture
+---
+# Wet-Dry Tropical permaculture
 
 The wet-dry tropics adjoin the wet tropics but are poleward of
 them, covering about 15% of earth's surface from latitudes 0

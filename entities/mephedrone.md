@@ -1,6 +1,7 @@
 ---
 title: "Mephedrone"
 type: chemical
+---
 aliases:
   - 4-MMC
   - 4-methylmethcathinone

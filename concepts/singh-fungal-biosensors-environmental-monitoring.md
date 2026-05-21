@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Biosensors for Environmental Monitoring
+---
+# Fungal Biosensors for Environmental Monitoring
 
 Fungal biosensors are analytical devices that employ fungal biological components
 as biorecognition elements for detecting and quantifying environmental pollutants.

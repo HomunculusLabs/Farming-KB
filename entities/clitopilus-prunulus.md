@@ -16,11 +16,13 @@ tags:
   - mycology
   - spore-print
   - gilled-mushroom
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://en.wikipedia.org/wiki/Clitopilus_prunulus
----# Clitopilus prunulus
+---
+# Clitopilus prunulus
 
 ## Overview
 

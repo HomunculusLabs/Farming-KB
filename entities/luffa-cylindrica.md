@@ -13,7 +13,8 @@ sources:
   - Purseglove, J.W. (1968). . It has
 been cultivated for thousands of years, with archaeological evidence from
 India dating back to at least 4,000 years.
----he mature fruit fiber is one of the earliest known plant-based cleaning
+---
+he mature fruit fiber is one of the earliest known plant-based cleaning
 materials. Luffa sponges were used in bathing, household cleaning, and
 industrial applications long before synthetic alternatives existed.
 

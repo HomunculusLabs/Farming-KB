@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycorrhizal Helper Bacteria and Tripartite Interactions
+---
+# Mycorrhizal Helper Bacteria and Tripartite Interactions
 
 Mycorrhizal helper bacteria (MHB) are a functional group of rhizosphere
 bacteria that selectively promote the establishment and functioning of

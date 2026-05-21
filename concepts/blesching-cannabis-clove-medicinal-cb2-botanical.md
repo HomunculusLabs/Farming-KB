@@ -1,6 +1,7 @@
 ---
 title: "Clove as a CB2-Active Medicinal Botanical"
 tags: [clove, beta-caryophyllene]
+---
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

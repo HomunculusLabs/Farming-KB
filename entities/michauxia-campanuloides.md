@@ -1,6 +1,7 @@
 ---
 title: Michauxia campanuloides
 type: entity
+---
 category: species
 family: Campanulaceae
 genus: Michauxia

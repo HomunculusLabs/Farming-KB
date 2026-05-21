@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://link.springer.com/article/10.1007/s10529-020-02911-y
----# Mycelium Materials and Fungal Biomanufacturing
+---
+# Mycelium Materials and Fungal Biomanufacturing
 
 ## Introduction
 

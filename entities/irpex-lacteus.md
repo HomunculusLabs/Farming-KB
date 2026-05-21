@@ -17,12 +17,14 @@ tags:
   - basidiomycota
   - saprotroph
   - biodegradation
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 recognized as one of the most efficient lignin-degrading fungi known, producing powerful
 oxidative enzymes that break down woody substrates comprehensively.
----he species has attracted significant attention in applied mycology for bioremediation of
+---
+he species has attracted significant attention in applied mycology for bioremediation of
 persistent organic pollutants (PAHs, dyes, endocrine disruptors, pharmaceuticals) and
 industrial [[guzman-psilocybin-mushrooms-north-america]], with records from South
 America and Australasia. One of the most frequently encountered wood-decay fungi on dead

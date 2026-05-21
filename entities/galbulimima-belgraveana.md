@@ -1,6 +1,7 @@
 ---
 title: "Galbulimima Belgraveana"
 type: entity
+---
 subtype: plant
 created: 2026-05-02
 updated: 2026-05-02

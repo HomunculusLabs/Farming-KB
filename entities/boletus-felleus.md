@@ -81,6 +81,6 @@ Palmer's discussion of B. felleus serves as an early example of two important my
 ## See Also
 
 - [[boletus-edulis]] — the king bolete it closely resembles
-- [[boletus-subtomentosus]] — another bolete discussed by Palmer
+- [[boletus-sub-tomentosus]] — another bolete discussed by Palmer
 - [[boletus-pachypus]] — a thick-stemmed bolete
 - [[rubroboletus-satanas]] — another bolete to avoid (genuinely toxic)

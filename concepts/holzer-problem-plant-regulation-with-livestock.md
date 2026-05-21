@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Problem Plant Regulation with Livestock
+---
+# Problem Plant Regulation with Livestock
 
 [[sepp-holzer-garden-helpers-and-pest-regulation]].
 

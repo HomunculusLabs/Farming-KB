@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Fungal Parasites and Predators of Rotifers and Invertebrates
+---
+# Fungal Parasites and Predators of Rotifers and Invertebrates
 
 Fungi that attack microscopic invertebrates, particularly
 rotifers and nematodes, represent a diverse but poorly known

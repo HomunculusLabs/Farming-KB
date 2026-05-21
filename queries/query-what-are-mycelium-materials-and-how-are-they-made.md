@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# What Are Mycelium Materials and How Are They Made?
+---
+# What Are Mycelium Materials and How Are They Made?
 
 ## Quick Answer
 

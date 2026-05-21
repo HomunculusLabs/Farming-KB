@@ -8,7 +8,8 @@ sources:
 updated: 2026-04-24
 type: concept
 tags: [reference]
----# Deep-Organic Farming and the Small Farm
+---
+# Deep-Organic Farming and the Small Farm
 
 ## The Missing Rope
 

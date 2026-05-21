@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# [[bloomfield-fungal-pathogens-and-parasites]]
+---
+# [[bloomfield-fungal-pathogens-and-parasites]]
 
 ## See Also
 

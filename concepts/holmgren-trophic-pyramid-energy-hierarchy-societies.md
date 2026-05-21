@@ -1,6 +1,7 @@
 ---
 title: Holmgren's Trophic Pyramid Model of Energy Hierarchy in Societies
 source: "Permaculture: Principles & Pathways Beyond Sustainability"
+---
 author: David Holmgren
 year: 2002
 topic_tags:

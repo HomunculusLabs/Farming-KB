@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Pheromone-Based Pest Control vs. Beneficial Insect Biocontrol
+---
+# Pheromone-Based Pest Control vs. Beneficial Insect Biocontrol
 
 ## At a Glance
 

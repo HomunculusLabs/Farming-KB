@@ -49,7 +49,7 @@ Holmgren discusses the value of yields from wild and marginal systems — foods,
 
 ## Connections
 
-This principle relates to [[permaculture-principle-catch-and-store-energy]] (stored energy becomes yield), [[permaculture-principle-produce-no-waste]] (wasted output is lost yield), [[permaculture-principle-apply-self-regulation]] (self-regulating systems maintain their own yields), and [[food-forest-design]]. See also [[permaculture-principles]] for the complete framework.
+This principle relates to [[permaculture-principle-2-catch-store-energy]] (stored energy becomes yield), [[permaculture-principle-produce-no-waste]] (wasted output is lost yield), [[permaculture-principle-apply-self-regulation]] (self-regulating systems maintain their own yields), and [[food-forest-design]]. See also [[permaculture-principles]] for the complete framework.
 ## Historical Context
 
 The study and practice of permaculture principle obtain a yield has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.

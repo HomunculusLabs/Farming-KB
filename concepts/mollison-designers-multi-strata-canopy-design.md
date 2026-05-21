@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Multi-Strata Canopy Design
+---
+# Multi-Strata Canopy Design
 
 Multi-strata canopy design is the art and science of stacking productive
 plant layers vertically to maximize the yield from a given area of land. This

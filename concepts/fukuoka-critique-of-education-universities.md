@@ -7,6 +7,7 @@ tags: [fukuoka, unless further progress is made]
 - Scientists think they are conducting research to increase yields, but all they have actually been doing is developing techniques for reducing declines in yield
 
 - The pattern: first man creates unnatural and incomplete conditions, then develops technology to restore productivity, then brands this proudly as progress
+---
 
 This connects to fukuoka-low-toxicity-pesticide-deception" does not mean only slightly toxic; it means toxicity not immediately apparent to the human eye
 

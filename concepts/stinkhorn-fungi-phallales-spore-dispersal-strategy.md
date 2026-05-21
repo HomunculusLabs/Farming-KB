@@ -3,11 +3,10 @@ title: Stinkhorn Fungi and the stinkhorn fungi phallales spore dispersal strateg
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Money - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists"
+  - Money - Mr. Bloomfields Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
 type: concept
 tags: [fungi, mycology, spore-dispersal, phallales, stinkhorn, phallus-impudicus, chemical-ecology, insect-attraction]
 ---
-
 ## Overview
 
 [[stinkhorn-fungi]], belonging to the order Phallales, employ one of the most dramatic and

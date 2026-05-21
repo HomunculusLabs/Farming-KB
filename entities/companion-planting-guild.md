@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Carroll, R. (2020). The Vegetable Gardener's Guide to Permaculture. Timber Press.
----# Companion Planting Guilds
+---
+# Companion Planting Guilds
 
 ## Overview
 

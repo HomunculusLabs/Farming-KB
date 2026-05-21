@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://www.cannaconnection.com/strains/717-triangle-kush"
----# Overview
+---
+# Overview
 
 Triangle Kush is a pure indica cannabis strain that originated in Florida during the 1990s and is widely regarded as one of the most influential Kush varieties in modern [[cannabis-genetic-stability]] and distinct phenotype have made it one of the most sought-after parent strains in the modern cannabis industry, contributing its robust Kush genetics to a vast family of progeny strains. The cultivar's enduring popularity speaks to the quality of the original Florida selection and the skill of the growers who maintained it through years of prohibition.
 

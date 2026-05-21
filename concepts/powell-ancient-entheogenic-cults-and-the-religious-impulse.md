@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- Ancient Entheogenic Cults and the Religious Impulse
+---
+ Ancient Entheogenic Cults and the Religious Impulse
 
 Simon G. Powell argues that psychoactive plants and fungi played a
 fundamental role in the birth and development of human religious consciousness.

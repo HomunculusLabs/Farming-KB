@@ -4,6 +4,7 @@ created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cultivation]
+---
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

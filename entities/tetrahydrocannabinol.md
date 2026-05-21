@@ -59,7 +59,7 @@ functions enhance overall system resilience and biodiversity.
 
 ## See Also
 
-- [[cannabis-health-thc-tetrahydrocannabinol]]
+- [[thc-tetrahydrocannabinol]]
 - [[delta-8-tetrahydrocannabinol]]
 - [[tetrahydrocannabinol-thc-pharmacology-blesching]]
 - [[thc-tetrahydrocannabinol]]

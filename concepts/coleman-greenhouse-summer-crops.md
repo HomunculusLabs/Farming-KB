@@ -8,7 +8,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Greenhouse Summer Crops — Tomatoes, Cucumbers, Peppers
+---
+# Greenhouse Summer Crops — Tomatoes, Cucumbers, Peppers
 
 ## The Summer Greenhouse Rotation
 

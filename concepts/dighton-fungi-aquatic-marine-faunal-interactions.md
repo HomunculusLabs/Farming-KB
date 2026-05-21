@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungi in Aquatic and Marine Faunal Interactions
+---
+# Fungi in Aquatic and Marine Faunal Interactions
 
 [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] range
 from mutualistic associations that enhance animal nutrition to pathogenic

@@ -1,6 +1,7 @@
 ---
 title: "Helvella acetabulum"
 type: species
+---
 aliases:
   - Vinegar Cup
   - Acetabulum Helvella
@@ -22,7 +23,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
 

@@ -1,5 +1,6 @@
 ---
 title: "Eliot Coleman: Deep Organic Farming Philosophy and Practice"
+---
 subtitle: "The farmer, author, and inventor who defined biological agriculture and proved that small-scale organic farming can be both productive and profitable"
 tags: [organic-farming, deep-organic, coleman, soil-health, small-farm, compost, market-garden, french-intensive, tools, philosophy]
 date: 2026-05-09

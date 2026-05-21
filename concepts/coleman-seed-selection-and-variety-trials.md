@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Seed Selection and Variety Trials
+---
+# Seed Selection and Variety Trials
 
 [[coleman-winter-harvesting-techniques]] in unheated greenhouses. Rather than accepting
 standard variety recommendations, he conducts ongoing trials to identify

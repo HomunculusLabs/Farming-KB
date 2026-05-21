@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Predator-Prey Relationships and Herding Behavior
+---
+# Predator-Prey Relationships and Herding Behavior
 
 In . Savory argues that
 the removal of predators from ecosystems has been a primary driver of

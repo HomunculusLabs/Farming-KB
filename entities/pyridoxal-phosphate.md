@@ -1,6 +1,7 @@
 ---
 title: "Pyridoxal Phosphate"
 type: chemical
+---
 aliases:
   - PLP
   - P5P
@@ -19,7 +20,8 @@ related_concepts:
   - pyridoxal-phosphate-coenzyme-chemistry
 sources:
 tags: [profile]
----# Pyridoxal Phosphate
+---
+# Pyridoxal Phosphate
 
 Pyridoxal phosphate is the main catalytically active coenzyme form of vitamin B6.
 It is usually abbreviated PLP in biochemistry and enzymology literature.

@@ -8,7 +8,8 @@ sources:
 updated: 2026-04-24
 type: concept
 tags: [plant-growth]
----# Flat Preparation, Seedling Raising, and Transplanting
+---
+# Flat Preparation, Seedling Raising, and Transplanting
 
 The [[comparison-living-mulch-vs-cover-crops]] mini-climate essential to balanced growth.
 - **Growth stimulation**: Transplanting a seedling into a double-dug, composted bed that is fluffy, aerated, and full of nutrients gives it a second "meal" of nutrients, air, and moisture. The soil in a directly seeded bed begins to recompact while seeds germinate.

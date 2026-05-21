@@ -12,7 +12,8 @@ sources:
 cyanobacterial photobionts, making it a tripartite lichen with significant
 nitrogen-fixing capability. It is considered an indicator of forest
 continuity and ecological health.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 Lobaria quercizans was described by [[air-pollution-fungal-community-responses]]. It grows on the bark of mature
 oaks, maples, beeches, and basswood, typically on trunks and large

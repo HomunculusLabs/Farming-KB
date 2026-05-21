@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Food Forest Succession Design
+---
+# Food Forest Succession Design
 
 Food forests are multi-layered perennial systems modelled on natural forest
 ecosystems, designed to produce food, fibre, and fuel while performing

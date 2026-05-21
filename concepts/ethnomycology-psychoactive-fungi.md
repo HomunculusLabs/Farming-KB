@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mckenna_t-food_of_the_gods.md"
 type: concept
----# Ethnomycology and Psychoactive Fungi
+---
+# Ethnomycology and Psychoactive Fungi
 
 Ethnomycology is the study of the historical uses and cultural
 significance of fungi, particularly psychoactive species, in human

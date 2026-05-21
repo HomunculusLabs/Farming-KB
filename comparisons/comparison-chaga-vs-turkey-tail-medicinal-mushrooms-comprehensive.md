@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.mycobank.org/
----# Chaga Mushroom vs Turkey Tail — Medicinal Fungal Allies Compared
+---
+# Chaga Mushroom vs Turkey Tail — Medicinal Fungal Allies Compared
 
 ## At a Glance
 

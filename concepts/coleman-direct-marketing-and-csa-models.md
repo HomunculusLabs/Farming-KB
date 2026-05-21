@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Direct Marketing and CSA Models
+---
+# Direct Marketing and CSA Models
 
 [[fukuoka-critique-organic-certification]] became
 industrialized and the word "organic" lost its distinctive meaning,

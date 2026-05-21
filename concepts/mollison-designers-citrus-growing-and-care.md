@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Citrus Growing and Care in Permaculture
+---
+# Citrus Growing and Care in Permaculture
 
 Citrus trees are among the most valuable and widely planted fruit crops in
 permaculture systems across subtropical and warm temperate zones. In the

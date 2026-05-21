@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/symbiotic-fungi.md"
 type: concept
----# Proteomics of Early AM Symbiosis Stages
+---
+# Proteomics of Early AM Symbiosis Stages
 
 ## Overview
 

@@ -1,5 +1,6 @@
 ---
 title: "comparison-sheet-mulching-vs-chop-and-drop-mulching and No-Dig Gardening"
+---
 subtitle: "Layered composting techniques that build fertile soil without tilling, suppress weeds, and convert any ground into productive garden beds"
 tags: [permaculture, sheet-mulching, no-till, soil-building, lasagna-gardening, weed-suppression, organic-gardening, compost]
 date: 2026-04-28
@@ -20,7 +21,8 @@ related_concepts:
   - mollison-pdc-sheet-mulching-versus-composting
   - natfarm-sheet-mulching-garden-preparation
   - permaculture-sheet-mulch-detailed-guide
----# Sheet Mulching and No-Dig Gardening
+---
+# Sheet Mulching and No-Dig Gardening
 
 Sheet mulching, also known as lasagna gardening or composting in place, is a
 technique for creating fertile garden beds by layering organic materials

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Caramel Capped Psilocybe (P. cyanescens Complex) Cultivation
+---
+# Caramel Capped Psilocybe (P. cyanescens Complex) Cultivation
 
 ## Overview and Description
 

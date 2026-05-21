@@ -122,4 +122,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[aleph-2-entity-pihkal]]
 - [[aleph-7-entity]]
 - [[aleph-7-entity-pihkal]]
-- [[aleph-compound-profile]]
+- [[aleph-pihkal-entry-3]]

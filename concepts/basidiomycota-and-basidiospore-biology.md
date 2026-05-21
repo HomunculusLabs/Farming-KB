@@ -5,10 +5,9 @@ tags: [mycology, fungi, basidiomycota, basidiospores, basidia, mushroom-biology,
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mr. Bloomfield's Orchard by Nicholas P. Money
+  - Mr. Bloomfields Orchard by Nicholas P. Money
 type: concept
 ---
-
 ## Basidiomycota and Basidiospore Biology
 
 The Basidiomycota is one of the major phyla of the fungal kingdom, comprising

@@ -2,6 +2,7 @@
 title: Rhizopus stolonifer
 created: 2026-04-28
 type: species
+---
 scientific_name: Rhizopus stolonifer
 aliases:
   - black bread mold
@@ -21,7 +22,8 @@ related_concepts:
   - mushroom-cultivation-pests-and-contamination
   - spore-syringe-production
 The species is also an important decomposer of stored foods, fruits, vegetables, and other nutrient-rich materials.
----# Taxonomic position
+---
+# Taxonomic position
 
 **Kingdom:** Fungi.
 **Phylum:** Mucoromycota in many modern treatments; historically grouped with Zygomycota.

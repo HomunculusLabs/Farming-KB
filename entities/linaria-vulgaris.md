@@ -12,11 +12,12 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Vranová, V. et al. (2011). \"Allelopathic activity of essential oils from invasive Linaria vulgaris.\" Journal of 
+  - Vranová, V. et al. (2011). \Allelopathic activity of essential oils from invasive Linaria vulgaris.\ Journal of
 and other cordyceps-cancer-bioactive-compounds, including
 iridoid glycosides (particularly picroside I and antirrhinoside) and
 flavonoid glycosides, which contribute to both its hamilton-clearing-uncultivated-ground.
----ike Antirrhinum, Linaria was traditionally placed in Scrophulariaceae but
+---
+ike Antirrhinum, Linaria was traditionally placed in Scrophulariaceae but
 was reclassified to Plantaginaceae based on molecular phylogenetics. The
 species is a diploid with 2n = 12 chromosomes. Several subspecies have been
 described, though they are not universally recognized. The 'Fairy Bouquet'

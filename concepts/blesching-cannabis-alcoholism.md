@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Alcohol Dependence
+---
+# Cannabis and Alcohol Dependence
 
 [[cannabis-for-alcohol-dependence]], with many
   reporting decreased alcohol consumption

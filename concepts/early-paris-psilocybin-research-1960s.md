@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Early Paris Psilocybin Research (1960s)
+---
+# Early Paris Psilocybin Research (1960s)
 
 ## Jean Delay, Sainte-Anne Hospital, and the Investigation of Psilocybin's
 ## Effects on Mind and Creativity

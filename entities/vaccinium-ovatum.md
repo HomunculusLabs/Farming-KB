@@ -16,6 +16,7 @@ tags:
   - food-forest
 created: 2026-04-28
 updated: 2026-04-28
+---
 aliases:
   - Vaccinium ovatum
   - evergreen huckleberry
@@ -24,7 +25,8 @@ aliases:
   - shot huckleberry
 sources:
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/vaccinium_ovatum.shtml
----# Overview
+---
+# Overview
 
 **Vaccinium ovatum** is an evergreen shrub in the family Ericaceae, commonly known as the evergreen huckleberry or California huckleberry.
 

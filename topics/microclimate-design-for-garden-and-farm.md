@@ -1,5 +1,6 @@
 ---
 title: "Microclimate Design for Garden and Farm"
+---
 subtitle: "Creating and managing localized climate conditions to extend growing seasons and optimize plant health"
 tags: [microclimate, permaculture, landscape-design, frost-protection, thermal-mass]
 date: 2026-04-28
@@ -18,7 +19,8 @@ related_concepts:
   - permaculture-frost-protection-strategies
   - mollison-thermal-mass-passive-building
   - edge-effect-and-microclimate
----# Microclimate Design for Garden and Farm
+---
+# Microclimate Design for Garden and Farm
 
 Every garden and farm contains a mosaic of microclimates, localized areas where
 temperature, moisture, wind, and light conditions differ from the surrounding

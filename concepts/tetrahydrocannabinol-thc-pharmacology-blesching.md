@@ -131,7 +131,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cannabis-health-thc-tetrahydrocannabinol]]
+- [[thc-tetrahydrocannabinol]]
 - [[delta-8-tetrahydrocannabinol]]
 - [[phenethylamine-receptor-pharmacology]]
 - [[tetrahydrocannabinol]]

@@ -83,7 +83,7 @@ Further research into psilocybin and nature connection continues to reveal new a
 ## See Also
 
 - [[wasson-hofmann-psilocybin-connection]]
-- [[fukuoka-god-nature-man-unity-philosophy]]
+- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-spiritual-philosophy-nature-and-god]]
 - [[fukuoka-nature-perfection-and-imperfection]]
 - [[permaculture-deduction-from-nature]]

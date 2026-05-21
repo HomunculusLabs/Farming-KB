@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
 type: concept
----# Volunteer Primordia Formation on Agar Media
+---
+# Volunteer Primordia Formation on Agar Media
 
 The voluntary and spontaneous formation of miniature mushrooms
 in a petri dish is a delightful experience for all cultivators.

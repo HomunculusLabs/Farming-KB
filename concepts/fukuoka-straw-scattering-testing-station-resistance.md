@@ -11,6 +11,7 @@ tags: [fukuoka, whether you have three, four, right over the barley shoots]
 - When he asked Fukuoka why not, he was told that he had laid the straw down too tidily
 
 - One does not arrange the fukuoka-straw-mulch-system.
+---
 
 ## The Composting Fallacy in Hokkaido
 

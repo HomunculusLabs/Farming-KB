@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Radiation-Resistant Fungi and Myco-Corrosion
+---
+# Radiation-Resistant Fungi and Myco-Corrosion
 
 Certain fungi demonstrate remarkable tolerance to ionizing radiation and
 [[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for

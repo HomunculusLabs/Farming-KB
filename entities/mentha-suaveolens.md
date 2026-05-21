@@ -1,6 +1,7 @@
 ---
 title: "Mentha suaveolens"
 type: species
+---
 aliases:
   - Apple Mint
   - Woolly Mint

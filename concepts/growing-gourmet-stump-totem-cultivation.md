@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Stump and Totem Cultivation of Mushrooms
+---
+# Stump and Totem Cultivation of Mushrooms
 
 Stumps are especially suitable for growing gourmet
 mushrooms. There are few better, or more massive

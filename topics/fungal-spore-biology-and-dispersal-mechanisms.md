@@ -1,5 +1,6 @@
 ---
 title: Fungal Spore Biology and Dispersal Mechanisms
+---
 subtitle: The Microscopic Seeds of the Kingdom Fungi — Structure, Ejection, Germination, and Ecological Dispersal
 tags:
   - mycology

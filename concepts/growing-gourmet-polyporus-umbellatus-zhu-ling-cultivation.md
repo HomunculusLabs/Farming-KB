@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# [[psk-breast-lung-cancer-clinical-trials]]. Of all the
+---
+# [[psk-breast-lung-cancer-clinical-trials]]. Of all the
 species in the Genus Polyporus, P. umbellatus is the most fragile
 and delicate. This mushroom forms an underground tuber-like
 structure called a sclerotium, which has figured prominently in

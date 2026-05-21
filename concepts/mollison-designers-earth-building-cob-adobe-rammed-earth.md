@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Earth Building - Cob, Adobe, Rammed Earth
+---
+# Earth Building - Cob, Adobe, Rammed Earth
 
 Earth building represents humanity's oldest and most widespread
 construction tradition. In Permaculture: A [[pdc-earthen-construction-techniques]] as a cornerstone of sustainable

@@ -6,6 +6,7 @@ sources:
   - "McKenna T - tryptamine-hallucinogens-and-consciousness (1983/1992)"
 type: concept
 tags: [psilocybin]
+---
 ## The Mushroom's Self-Description
 
 McKenna reported that within the mushroom trance, he was informed that the

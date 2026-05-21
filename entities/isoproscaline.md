@@ -1,6 +1,7 @@
 ---
 title: Isoproscaline
 type: chemical
+---
 aliases:
   - "3,5-dimethoxy-4-isopropoxyphenethylamine"
   - "isopropoxy-mescaline"

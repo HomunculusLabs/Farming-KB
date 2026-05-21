@@ -2,6 +2,7 @@
 title: Chemdawg
 created: 2026-04-28
 type: strain
+---
 aliases:
   - Chemdog
   - Chemdawg 91
@@ -20,7 +21,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ["AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"]
   - https://wikileaf.com/strain/chemdawg
----# Chemdawg
+---
+# Chemdawg
 
 ## Overview
 Chemdawg (also spelled Chemdog) is a legendary cannabis hybrid strain that has served as a genetic cornerstone for dozens of modern cannabis varieties.

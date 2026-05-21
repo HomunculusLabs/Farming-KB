@@ -17,7 +17,8 @@ updated: 2026-04-28
 sources:
   - USDA NRCS Plant Guide (2024)
   - E. L. Little, Jr., Atlas of psilocybin-north-america-pacific-northwest. It is highly valued in permaculture, tompkins-mimosa-pudica-sensitive-plant-experiments*.
----# Description
+---
+# Description
 
 ### Growth Habit
 - **[[clay-pellet-seed-dispersal]]:** Explosive dehiscence (pods twist open and eject seeds); also dispersed by birds and water

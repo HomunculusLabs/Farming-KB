@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
----# Rockwool and Hydroponic Growing Media
+---
+# Rockwool and Hydroponic Growing Media
 
 As cannabis growers experiment with soil types and mixing, many begin
 exploring alternative growing mediums such as rockwool or clay pebbles.

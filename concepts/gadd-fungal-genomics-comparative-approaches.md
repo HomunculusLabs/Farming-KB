@@ -75,7 +75,7 @@ lifestyle. Plant pathogens possess expanded families of cutinases,
 cytochrome P450s, and secreted effector proteins. Wood-decay fungi
 ([[environmental-sensing-filamentous-fungi-read]], correlating with
 their simpler [[saccharomyces-cerevisiae]]
-- [[g-13]]
+- [[g13]]
 - [[fungal-metal-biosorption-comparative]]
 
 ## Practical Applications

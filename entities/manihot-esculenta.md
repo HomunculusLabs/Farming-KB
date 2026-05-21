@@ -15,6 +15,7 @@ tags:
   - drought-tolerant
   - subsistence-agriculture
   - tropical-america-origin
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -27,7 +28,8 @@ aliases:
   - Brazilian arrowroot
   - manihot
   - guzman-psilocybin-mushrooms-south-america.
----he species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
+---
+he species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
 
 - **Major producers:** Nigeria (world's largest), Democratic Republic of Congo, Thailand, Indonesia, Brazil, Ghana, Mozambique, Cambodia, Vietnam, Angola.
 - **Climate:** Grows best at 25–29 °C with 1,000–1,500 mm annual rainfall; tolerates prolonged drought (3–6 months) due to deep root system and stomatal control.

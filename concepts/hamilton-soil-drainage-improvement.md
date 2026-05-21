@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Soil Drainage Improvement
+---
+# Soil Drainage Improvement
 
 Good drainage is essential for healthy plant growth. The ideal soil
 has a good crumbly structure, drains well enough to prevent the

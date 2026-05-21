@@ -11,7 +11,8 @@ updated: 2026-05-09
 sources:
 the most common woodland ferns in its range, valued for its durable, leathery
 fronds that persist through winter.
----he species epithet "marginalis" refers to the position of the sori (spore-
+---
+he species epithet "marginalis" refers to the position of the sori (spore-
 bearing structures) on the margins of the pinnule undersides, a distinctive
 field character that separates it from most other Dryopteris species in eastern
 forests.

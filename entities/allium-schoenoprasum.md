@@ -16,7 +16,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 and holzer-medicinal-and-culinary-herbs-compendium globally.
----hives are distinguished from other *Allium* species by their hollow, tubular leaves and
+---
+hives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both
 edible, providing a mild onion flavor widely used in European, Asian, and [[datura-metel-old-world-ethnobotany]] species, with *A. schoenoprasum*
 being the only widely cultivated member of section *Schoenoprasum*.

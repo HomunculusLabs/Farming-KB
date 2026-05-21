@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Soil Types and Identification in Organic Gardening
+---
+# Soil Types and Identification in Organic Gardening
 
 [[hamilton-composting-and-organic-matter-management]] in various stages of decay, along
 with air and water, all essential for supporting plant and animal life.

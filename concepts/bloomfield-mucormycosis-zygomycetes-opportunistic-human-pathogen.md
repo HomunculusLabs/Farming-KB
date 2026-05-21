@@ -1,6 +1,7 @@
 ---
 title: Bloomfield Mucormycosis Zygomycetes Opportunistic Human Pathogen
 source: Mr. Bloomfield's Orchard - Nicholas P. Money
+---
 source_path: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 concepts:
   - mucormycosis

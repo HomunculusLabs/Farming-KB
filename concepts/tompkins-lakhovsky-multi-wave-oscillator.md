@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
+---
+# Lakhovsky's Multi-Wave Oscillator and Cellular Oscillation Theory
 
 Georges Lakhovsky (1869-1942), a Russian-born engineer living in Paris,
 proposed a revolutionary theory that the basis of life is not matter but

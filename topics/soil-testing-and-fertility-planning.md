@@ -1,5 +1,6 @@
 ---
 title: "Soil Testing and Fertility Planning"
+---
 subtitle: "Using soil analysis, mineral balance, organic matter, and ecological design to guide long-term fertility"
 tags: [soil-testing, soil-fertility, minerals, organic-matter, compost, regenerative-agriculture, plant-nutrition]
 date: 2026-04-28
@@ -27,7 +28,8 @@ related_concepts:
   - building-soil-fertility-long-term
   - lowenfels-soil-minerals-nutrients
   - solomon-soil-mineral-depletion
----# Soil Testing and Fertility Planning
+---
+# Soil Testing and Fertility Planning
 
 Soil testing is the practice of translating a living, mineral, and
 chemical system into numbers that can guide fertility decisions. A

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fruit Tree Selection, Pollination, and Rootstocks
+---
+# Fruit Tree Selection, Pollination, and Rootstocks
 
 Growing [[geoff-hamilton]] provides detailed guidance on selecting,
 pollinating, and planting [[cool-climate-home-garden-mollison]].

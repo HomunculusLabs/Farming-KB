@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Anorexia/Cachexia
+---
+# Cannabis and Anorexia/Cachexia
 
 Anorexia (loss of appetite) and cachexia (pathological weight loss and
 muscle wasting) represent significant clinical challenges across numerous

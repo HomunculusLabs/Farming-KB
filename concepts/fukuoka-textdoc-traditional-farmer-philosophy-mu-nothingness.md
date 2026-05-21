@@ -2,6 +2,7 @@
 title: Fukuoka Textdoc Traditional Farmer Philosophy Mu Nothingness
 created: 2026-04-28
 tags: [farming-philosophy, mu]
+---
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications

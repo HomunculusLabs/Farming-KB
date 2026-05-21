@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Thermal vs. Worm Compost Comparison
+---
+# Thermal vs. Worm Compost Comparison
 
 [[earthworm-ecology]] for details on
   worm biology and [[ingham-thermal-compost-versus-worm-compost]] with aerobic worm castings

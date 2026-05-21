@@ -40,7 +40,7 @@ These unfinished compounds represent the practical limits of what could be achie
 
 The series ultimately gave way to the more thoroughly explored [[2c-family-compounds-overview]]
 - [[dom-compound-profile]]
-- [[aleph-compound-profile]]
+- [[aleph-pihkal-entry-3]]
 ## Practical Considerations
 
 When working with ALEPH Family of Psychedelic Amphetamines, several practical factors should be

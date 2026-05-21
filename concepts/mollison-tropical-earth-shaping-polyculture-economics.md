@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Tropical Earth-Shaping and Polyculture Economics
+---
+# Tropical Earth-Shaping and Polyculture Economics
 
 [[comparison-arid-vs-tropical-permaculture]], serving multiple functions including
 water infiltration, mulch retention, [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

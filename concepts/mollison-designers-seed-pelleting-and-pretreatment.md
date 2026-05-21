@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Seed Pelleting and Pretreatment for Land Rehabilitation
+---
+# Seed Pelleting and Pretreatment for Land Rehabilitation
 
 In pioneering the rehabilitation or stabilisation of soils, many of
 the local deficiencies in soils can be overcome by seed pelleting.

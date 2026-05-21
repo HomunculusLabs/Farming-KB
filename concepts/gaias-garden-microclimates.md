@@ -3,12 +3,11 @@ title: Garden Microclimates
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "Hemenway - Gaia's Garden"
+  - raw/papers/bill-mollison-permaculture-design-course.md
+  - Hemenway - Gaias Garden
 type: concept
 tags: [climate, gardening, microclimate]
 ---
-
 ## Garden Microclimates
 
 Whether perennial-vegetables|perennial or annual, a plant will thrive only under the right growth conditions. A drought-loving rosemary that will drown too close to a downspout will perk up in a hot, sunny corner. A sweet woodruff that is withering in the sunny site will sigh in relief when shaded by some nurturing shrub. Each plant requires a certain range of soil type, acidity, temperature, light, moisture, and other factors. Microclimate gardening is the practice of identifying, creating, and managing these conditions to support the plants we want.

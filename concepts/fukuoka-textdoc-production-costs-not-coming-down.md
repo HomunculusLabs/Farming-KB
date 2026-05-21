@@ -2,6 +2,7 @@
 title: Fukuoka Textdoc Production Costs Not Coming Down
 created: 2026-04-28
 tags: [economics, production-costs, not less]
+---
 
 ## The Vegetable Factory Thought Experiment
 

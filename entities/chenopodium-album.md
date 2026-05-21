@@ -15,6 +15,7 @@ tags:
   - dynamic-accumulator
   - polyculture
   - companion-planting
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

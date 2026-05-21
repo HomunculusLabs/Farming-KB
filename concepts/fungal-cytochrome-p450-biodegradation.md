@@ -11,7 +11,8 @@ diverse xenobiotics including aliphatic and aact-tannins-terpenes-phenolic-compo
 critical entry points in ligninolytic-enzymes of white-rot fungi, P450
 systems operate inside fungal cells and are found across a broad
 taxonomic range of fungi.
---- Enzyme System Architecture
+---
+ Enzyme System Architecture
 The fungal cytochrome P450 monoxygenase system consists of two key
 protein components working together in an electron transfer chain
 localized in the endoplasmic reticulum membrane of fungal cells.

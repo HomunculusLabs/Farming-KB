@@ -17,11 +17,13 @@ tags:
   - blood-sugar-regulation
   - herbs
   - ethnobotany
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?31677
----# Panax quinquefolius
+---
+# Panax quinquefolius
 
 ## Overview
 

@@ -5,6 +5,7 @@ type: species
 tags: [panaeolus, stamets-psilocybin-genera-beyond-psilocybe]
 
 - **Cap**: 1 to 3 (4) cm broad. Distinctly campanulate at first, soon
+---
   subhemispheric, then convex and becoming broadly convex in age. Margin
   incurved at first, soon straightening, not appendiculate, and slightly
   striated. Dark smoky gray when moist, hygrophanous, soon drying to a

@@ -1,5 +1,6 @@
 ---
 title: "What Are the query best grain legumes for a small homestead Legumes for a Small Homestead"
+---
 subtitle: Choosing pulse crops for self-sufficiency, soil health, and dietary diversity on small-scale farms
 tags:
  - grain-legumes

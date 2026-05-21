@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.pfaf.org/
----# Calendula vs Chamomile
+---
+# Calendula vs Chamomile
 
 Calendula (*Calendula officinalis*) and chamomile (*[[calendula-officinalis]] — full calendula growing and medicine guide
 - [[permaculture-plants-medicinal-herbs-healing]] with different wound-healing approaches

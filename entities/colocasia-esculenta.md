@@ -11,10 +11,11 @@ tags:
   - root-vegetable
   - polyculture
 sources:
-  - "Onwueme, I.C. (1999). , South Asia,
+  - Onwueme, I.C. (1999). , South Asia,
 and West Africa. The species is highly adaptable, tolerates waterlogged
 conditions, and provides both edible corms and nutritious leaf greens.
----# Taxonomy
+---
+# Taxonomy
 
 - **Kingdom:** Plantae → **Order:** Alismatales → **Family:** Araceae
 - **Genus:** Colocasia → **Species:** C. esculenta (L.) Schott

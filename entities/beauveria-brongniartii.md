@@ -16,7 +16,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Feng, M.G. et al. (1994). "powdery-mildews-erysiphaceae-diversity-host-range and greater efficacy against scarab pests.
----# Taxonomy and Classification
+---
+# Taxonomy and Classification
 
 Division: Ascomycota → Subdivision: Pezizomycotina → Class: Sordariomycetes → Order:
 Hypocreales → Family: Cordycipitaceae → Genus: *Beauveria* → Species: *B. brongniartii*.

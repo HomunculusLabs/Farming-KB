@@ -10,6 +10,7 @@ tags:
   - mycorrhizal
   - wild-foraging
   - permaculture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -21,7 +22,8 @@ sources:
 - **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest query-what-are-the-main-bioactive-compounds-in-medicinal-plants:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
 - **Antioxidant capacity:** High ORAC value; ergothioneine and selenium contribute to significant free-radical scavenging activity
 - **Caloric value:** Approximately 25–35 kcal per 100 g fresh weight
----# Distinguishing from Similar Species
+---
+# Distinguishing from Similar Species
 
 - **Cantharellus cibarius (golden chanterelle):** Has prominent, bluntly forked false gills that run down the stem; *C. lateritius* has a smooth or shallowly wrinkled hymenium; *C. cibarius* typically fruits earlier in the season
 - **[[hygrophoropsis-aurantiaca]] (false chanterelle):** True gills that are thin, forking, and easily separable; grows on decaying wood rather than soil; cap more orange and less apricot-colored

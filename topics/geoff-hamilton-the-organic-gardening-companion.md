@@ -1,5 +1,6 @@
 ---
 title: Geoff Hamilton — The Organic Gardening Companion
+---
 subtitle: A comprehensive synthesis of Geoff Hamilton's organic gardening philosophy, soil management, pest control, propagation, fruit growing, hamilton-greenhouse-management-organic, and ornamental design from 109 concept pages mined from The Organic Gardening Companion.
 created: 2026-05-09
 updated: 2026-05-09

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Parasitic Mushrooms: Blights of the Forest
+---
+# Parasitic Mushrooms: Blights of the Forest
 
 [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]].
 Comparatively few mushrooms are true parasites.

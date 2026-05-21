@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Vermicompost and Worm Castings in Compost Tea
+---
+# Vermicompost and Worm Castings in Compost Tea
 
 Vermicompost ([[compost-tea-aact]] for [[hot-composting-method]] for [[ingham-beneficial-nematodes-soil-food-web]] for nematode roles
 ## Background and Context

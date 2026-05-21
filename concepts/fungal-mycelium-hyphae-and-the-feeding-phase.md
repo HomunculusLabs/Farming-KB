@@ -3,11 +3,10 @@ title: Fungal Mycelium and the Hidden Feeding Phase
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Mr. Bloomfield's Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)"
+  - Mr. Bloomfields Orchard - The Mysterious World of Mushrooms, Molds, and Mycologists (Money, 2002)
 type: concept
 tags: [mycelium, hyphae, fungal-biology, mycorrhiza, underground-networks, fungal-life-cycle]
 ---
-
 ## Fungal Mycelium and the Hidden Feeding Phase
 
 The mushroom that catches the human eye is merely the reproductive organ of a

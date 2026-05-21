@@ -15,6 +15,7 @@ tags:
   - Appalachian
   - alpine
   - poisonous-plants
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

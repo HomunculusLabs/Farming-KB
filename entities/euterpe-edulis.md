@@ -15,7 +15,8 @@ sources:
 monoecious palm query-how-do-i-identify-the-most-common-edible-wild-mushrooms
 economically important native palms in Brazil, harvested extensively for its
 edible palm heart.
----he [[euterpe-oleracea]],
+---
+he [[euterpe-oleracea]],
 Euterpe edulis produces a single trunk and does not form multi-stemmed clumps.
 
 Palm heart harvest is destructive, requiring the entire tree to be felled. This

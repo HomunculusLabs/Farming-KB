@@ -7,7 +7,8 @@ updated: 2026-04-28
 sources:
 these interrelationships, any rash endeavor such as the selective extermination or
 raising of a species only serves to upset the balance and order of nature.
----# The Pine Forest Collapse: A Chain of Cascading Effects
+---
+# The Pine Forest Collapse: A Chain of Cascading Effects
 
 The pine forest collapse demonstrates how a single human intervention triggers an
 unpredictable cascade of ecological consequences. When a section of the forest is

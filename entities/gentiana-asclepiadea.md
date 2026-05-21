@@ -11,7 +11,8 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Nolken, W. (2016). "Gentiana asclepiadea: Phytochemistry and biological activities." Phytochemistry Reviews 15(3): 487–504.---
----# Overview
+---
+# Overview
 
 **Gentiana asclepiadea**, the willow gentian, is a tall herbaceous perennial in the family Gentianaceae. It is native to mountainous regions of central and southern Europe.
 

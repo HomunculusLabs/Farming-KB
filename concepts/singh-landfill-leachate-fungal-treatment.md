@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Landfill Leachate Fungal Treatment
+---
+# Landfill Leachate Fungal Treatment
 
 Landfill leachate is one of the most complex and challenging wastewater streams,
 containing a heterogeneous mixture of [[teaming-with-microbes-humic-and-fulvic-acids]] acids, low

@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: query
----# Can You Kombucha-Ferment Things Other Than Tea?
+---
+# Can You Kombucha-Ferment Things Other Than Tea?
 
 Yes — with important caveats. While traditional kombucha requires tea (*[[edaphic-factors-microbial-community-structure]] evolved on tea and depends on specific compounds it provides:
 

@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.firstnature.com/fungi/amanita-jacksonii.php
----# Amanita jacksonii
+---
+# Amanita jacksonii
 
 **Amanita jacksonii**, commonly known as the **American caesar's mushroom** or **Jackson's amanita**, is a basidiomycete fungus in the family Amanitaceae.
 It is a strikingly beautiful [[polypore-fungi-eastern-north-america]] America, closely related to the European *[[growing-gourmet-north-american-reishi-species]] fungi.

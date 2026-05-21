@@ -1,5 +1,6 @@
 ---
 title: "Amanita Mushrooms: History, Chemistry, and Cultural Significance"
+---
 subtitle: "The fly agaric from Siberian shamanism to ancient religion and modern pharmacology"
 tags: [amanita, mycology, ethnobotany, psychedelic, ancient-religion, fly-agaric, muscimole]
 date: 2026-04-28

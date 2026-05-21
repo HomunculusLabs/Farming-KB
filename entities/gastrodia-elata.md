@@ -11,7 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
 
----# Overview
+---
+# Overview
 
 Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic [[vanilla-cultivation-and-orchid-ecology]] in the family Orchidaceae.
 

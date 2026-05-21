@@ -4,6 +4,7 @@ created: 2026-05-19
 updated: 2026-05-19
 type: topic
 tags: [mycology, bioremediation, mycoremediation, pollution, environmental-science, ecology, enzymes]
+---
 synthesizes:
   - cotter-mycoremediation-overview
   - fungal-bioremediation-mechanisms

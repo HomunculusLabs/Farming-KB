@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
----# Photoperiod and 12/12 Light Cycle
+---
+# Photoperiod and 12/12 Light Cycle
 
 The photoperiod is the timed amount of light that a plant receives over a
 24-hour cycle. For cannabis, the photoperiod is the single most important

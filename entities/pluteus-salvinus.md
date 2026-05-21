@@ -16,7 +16,8 @@ sources:
 collections in Guatemala, associated with investigations into the
 traditional use of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 of its psilocybin content.
----# Taxonomy
+---
+# Taxonomy
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota

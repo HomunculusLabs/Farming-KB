@@ -1,5 +1,6 @@
 ---
 title: Mycelial Nutrient Translocation
+---
 aliases:
   - fungal fungal-decay-and-nutrient-transport
   - mycelial translocation

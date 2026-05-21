@@ -16,12 +16,14 @@ tags:
   - wood-decay
   - europe
   - north-america
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). " of the Northern
+  - Stamets, P. (1996).  of the Northern
 Hemisphere.
----lthough P. squarrosa is technically edible after thorough cooking, it is
+---
+lthough P. squarrosa is technically edible after thorough cooking, it is
 generally considered unpalatable due to its bitter taste and slimy texture.
 Some individuals report adverse reactions, and it should be approached with
 caution by foragers.

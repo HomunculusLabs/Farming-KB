@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Biofilm and Brewer Hygiene in Compost Tea
+---
+# Biofilm and Brewer Hygiene in Compost Tea
 
 Biofilm formation in compost tea brewers is one of the most
 critical yet underappreciated problems in [[aact-troubleshooting-ingham]] for diagnosing tea problems

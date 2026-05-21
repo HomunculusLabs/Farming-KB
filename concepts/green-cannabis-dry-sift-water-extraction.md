@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
---- Dry Sift and Water Extraction Methods
+---
+ Dry Sift and Water Extraction Methods
 The collection and processing of trichomes -- the tiny [[greg-green]] provides detailed instructions for effective screening:
 1. Use a metal screen rated between 100 to 140 lines per inch (120
    lines is most common for home hash makers).

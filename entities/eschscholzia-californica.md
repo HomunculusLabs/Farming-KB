@@ -17,11 +17,13 @@ tags:
   - antimicrobial
   - antioxidant
   - traditional-medicine
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=eschscholzia+californica+alkaloids
----# Eschscholzia californica
+---
+# Eschscholzia californica
 
 **Eschscholzia californica**, commonly known as the **California poppy**, **golden poppy**, or **cup of gold**, is a flowering plant in the family [[passiflora-incarnata]] or [[melatonin-entity-tihkal]], or [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] receptor subtypes, potentially offering a different side-effect profile compared to classical benzodiazepines
 

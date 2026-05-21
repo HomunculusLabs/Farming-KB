@@ -78,7 +78,7 @@ Two parallel fences spaced 3-5 feet apart, each 4-5 feet tall. Deer cannot jump 
 
 Applied directly to plants, making them taste bitter or irritating:
 - Eggs-based sprays (rotten eggs + water + soap)
-- Capsaicin sprays (hot pepper wax)
+- [[capsaicin]] sprays (hot pepper wax)
 - Bitter-tasting commercial products (Bitrex-based)
 - Must be reapplied after rain and new growth
 
@@ -102,8 +102,8 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 **Highly resistant (rarely browsed):**
 - Lavender, rosemary, thyme, sage
 - Daffodils, foxglove, bleeding heart
-- Yarrow, catmint, Russian sage
-- Ornamental grasses (Miscanthus, Pennisetum)
+- [[yarrow]], catmint, Russian sage
+- Ornamental grasses (Miscanthus, [[pennisetum]])
 - Ferns, hellebores, lungwort
 
 **Moderately resistant (occasionally browsed when food is scarce):**

@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Catch Crop and Polyculture Design
+---
+# Catch Crop and Polyculture Design
 
 [[holzer-polycultures-catch-crop-combinations]].
 

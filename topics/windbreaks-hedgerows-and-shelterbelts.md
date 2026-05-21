@@ -1,5 +1,6 @@
 ---
 title: "Windbreaks, Hedgerows, and Shelterbelts"
+---
 subtitle: "Strategic plantings that protect crops, livestock, and buildings from wind while providing wildlife habitat, timber, and food"
 tags: [permaculture, agroforestry, windbreak, hedgerow, shelterbelt, microclimate, wind-protection, multifunctional-design]
 date: 2026-04-28
@@ -19,7 +20,8 @@ related_concepts:
   - forest-edge-windbreak-rainfall-compression
   - hemenway-hedgerow-and-shelterbelt-design
   - permaculture-windbreak-design-detailed
----# Windbreaks, Hedgerows, and Shelterbelts
+---
+# Windbreaks, Hedgerows, and Shelterbelts
 
 Windbreaks, hedgerows, and shelterbelts are linear plantings of trees and
 shrubs arranged to reduce wind speed across adjacent land. Though the three

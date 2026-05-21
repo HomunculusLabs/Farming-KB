@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Sea Level Change [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+---
+# Sea Level Change [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 opportunities and hazards. Bill Mollison devoted significant attention to
 coastal systems in the [[query-how-do-i-design-a-multi-species-pasture-mix]] y habitat for fish and crustaceans.
 

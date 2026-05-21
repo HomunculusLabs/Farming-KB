@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Leonotus leonurus
+---
+# Leonotus leonurus
 
 **Leonotus leonurus**, commonly known as **Wild Dagga** (Afrikaans: "wild cannabis"), **Lion's Tail**, or **Lion's Ear**, is a robust evergreen shrub in the family Lamiaceae. Native to southern Africa, it has been used for centuries in traditional medicine and as a mild recreational entheogen. The plant produces striking whorls of bright orange tubular flowers arranged along tall, square-stemmed spikes, making it both a significant ethnobotanical resource and a popular ornamental species in xeriscaping.
 

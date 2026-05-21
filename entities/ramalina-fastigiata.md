@@ -12,7 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
 used in lichen diversity surveys across Europe.
----# Taxonomy and Morphology
+---
+# Taxonomy and Morphology
 
 *Ramalina fastigiata* was first described as *Lichen fastigiatus* by
 Persoon in 1794 and transferred to *Ramalina* by Acharius in 1810. The

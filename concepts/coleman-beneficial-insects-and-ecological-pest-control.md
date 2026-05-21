@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Beneficial Insects and Ecological Pest Control
+---
+# Beneficial Insects and Ecological Pest Control
 
 Eliot Coleman's approach to [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]], this philosophy proves
 remarkably effective, as [[coleman-claytonia-winter-harvest-cultivation]] system. His method prioritizes

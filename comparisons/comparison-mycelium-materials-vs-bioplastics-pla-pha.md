@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
+---
+# Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
 
 ## Overview
 

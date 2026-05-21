@@ -7,6 +7,7 @@ tags:
   - psilocybe
   - ethnobotany
   - mycology
+---
 date: 2026-05-08
 updated: 2026-05-08
 sources:

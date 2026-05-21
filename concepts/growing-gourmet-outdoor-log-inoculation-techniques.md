@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- Outdoor Log Inoculation Techniques
+---
+ Outdoor Log Inoculation Techniques
 Log culture was developed in Japan and China more than a
 millennium ago. Even today, thousands of small-scale Shiitake
 growers in Asia use log culture to provide the majority of

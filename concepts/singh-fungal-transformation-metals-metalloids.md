@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Transformation of Metals and Metalloids
+---
+# Fungal Transformation of Metals and Metalloids
 
 Fungi possess diverse mechanisms for transforming metals and metalloids
 in the environment, including reduction, methylation, dealkylation, and

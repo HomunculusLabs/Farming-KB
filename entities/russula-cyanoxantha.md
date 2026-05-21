@@ -13,6 +13,7 @@ tags:
   - temperate-forest
   - mild-flavor
   - beginner-friendly
+---
 the finest edible species in the large genus *Russula*, prized for its mild,
 nutty flavor and firm texture that holds up well to cooking. Found across Europe,
 Asia, and ectomycorrhizal-associations primarily with oaks

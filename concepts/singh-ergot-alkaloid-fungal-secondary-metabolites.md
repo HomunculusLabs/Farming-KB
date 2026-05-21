@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Ergot Alkaloid Fungal Secondary Metabolites
+---
+# Ergot Alkaloid Fungal Secondary Metabolites
 
 [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] are a structurally diverse group of [[indole]]-derived
 secondary metabolites produced primarily by fungi in the Clavicipitaceae

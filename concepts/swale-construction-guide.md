@@ -60,7 +60,7 @@ Permaculturist Tom Ward built a 3,000-gallon pond on the uphill side of his vege
 
 ## Connections
 
-See also [[swale-design-construction]] for additional technical detail, permaculture earthworks, [[keyline-design]], [[rainwater-harvesting-systems]], [[earthworks-for-water-management]], and [[permaculture-principle-catch-and-store-energy]].
+See also [[swale-design-construction]] for additional technical detail, permaculture earthworks, [[keyline-design]], [[rainwater-harvesting-systems]], [[earthworks-for-water-management]], and [[permaculture-principle-2-catch-store-energy]].
 
 ## Related
 

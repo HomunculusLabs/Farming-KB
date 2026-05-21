@@ -1,6 +1,7 @@
 ---
 title: "Lycoperdon pyriforme"
 type: species
+---
 aliases:
   - Stump Puffball
   - Pear-Shaped Puffball
@@ -22,7 +23,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Lycoperdon pyriforme* is a saprotrophic puffball fungus in the family Agaricaceae, widespread across [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] transforms into a mass of dry, olive-brown spore dust released through an apical pore.
 

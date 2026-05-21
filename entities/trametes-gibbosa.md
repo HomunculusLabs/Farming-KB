@@ -1,6 +1,7 @@
 ---
 title: "Trametes gibbosa"
 type: species
+---
 aliases:
   - Lumpy Bracket
   - White Cheese Polypore
@@ -22,7 +23,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Trametes gibbosa* is a polyporoid bracket fungus in the family Polyporaceae, widely distributed across temperate and [[psilocybin-north-america-pacific-northwest]].
 

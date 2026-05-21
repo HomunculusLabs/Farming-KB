@@ -1,5 +1,6 @@
 ---
 title: "Fukuoka on Scientific Fragmentation: The Blind Men and the Elephant"
+---
 aliases:
   - scientific laws of agriculture
   - fragmentary laws nature

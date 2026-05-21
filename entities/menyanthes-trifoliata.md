@@ -10,9 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mølgaard P (1992). ". In Europe, it ranges from
+  - Mølgaard P (1992). . In Europe, it ranges from
 Scandinavia and the British Isles southward to the Alps and the Balkans.
----he species is restricted to acidic, oligotrophic to mesotrophic wetland habitats including
+---
+he species is restricted to acidic, oligotrophic to mesotrophic wetland habitats including
 raised bogs, blanket bogs, transition mires, and the margins of dystrophic lakes. It requires
 continuously waterlogged conditions with the rhizome submerged in peat or shallow water.
 Water pH tolerance ranges from approximately 4.0 to 7.0.

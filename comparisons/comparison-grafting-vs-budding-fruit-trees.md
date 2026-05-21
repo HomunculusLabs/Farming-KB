@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Grafting vs Budding [[maitake-fruiting-body-success-rate-management]] (90%+); easy to learn
+---
+# Grafting vs Budding [[maitake-fruiting-body-success-rate-management]] (90%+); easy to learn
 - **Disadvantage:** Only works during active growth; bud must remain dormant until spring
 
 ### Chip Budding

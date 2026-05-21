@@ -15,7 +15,8 @@ sources:
  (Gresta et al., 2008, "Saffron: Agronomic practices")
  (University extension guidance on Crocus sativus)
   - https://www.sciencedirect.com/journal/scientia-horticulturae (Scientia Horticulturae reviews)
----# Saffron Cultivation and Harvesting
+---
+# Saffron Cultivation and Harvesting
 
 Saffron (*Crocus sativus* L.) is the world's most expensive spice by weight, derived from the dried stigmas of the autumn-flowering saffron crocus. Each flower produces only three vivid crimson stigmas, and it takes approximately 150,000–200,000 flowers to yield one kilogram of dried saffron. This extraordinary labor intensity, combined with the crop's specific climatic requirements, confines commercial production to a relatively narrow band of Mediterranean and semi-arid regions worldwide.
 

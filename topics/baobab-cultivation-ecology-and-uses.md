@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/adansonia-digitata
----# Baobab — Cultivation, Ecology, and Uses
+---
+# Baobab — Cultivation, Ecology, and Uses
 
 ## Overview
 

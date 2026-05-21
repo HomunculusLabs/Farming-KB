@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Domestic Small Animals in Zone One
+---
+# Domestic Small Animals in Zone One
 
 In Permaculture: A Designers' Manual, Bill Mollison assigns
 small, quiet domestic animals to Zone 1, the area immediately

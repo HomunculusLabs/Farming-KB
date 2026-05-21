@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Alternative Soil Conditioners in Organic Gardening
+---
+# Alternative Soil Conditioners in Organic Gardening
 
 Beyond [[query-how-do-fungi-improve-soil-structure]], add
 nutrients, and conserve moisture. While some have significant nutrient

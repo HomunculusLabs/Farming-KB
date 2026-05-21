@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Osmophilic and Osmotolerant Fungi
+---
+# Osmophilic and Osmotolerant Fungi
 
 Osmophilic and osmotolerant fungi are specialized organisms
 capable of growth at low water-activity (aw) values resulting

@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- The Numinous Experience and Psychedelic Awe
+---
+ The Numinous Experience and Psychedelic Awe
 
 Simon G. Powell explores the numinous dimension of the psilocybin
 experience, arguing that the mushroom reliably elicits states of awe,

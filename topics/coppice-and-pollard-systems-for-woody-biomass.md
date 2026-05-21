@@ -5,7 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.arboriculturalassociation.org.uk/
----# Coppice and Pollard Systems for Woody Biomass and Craft Wood
+---
+# Coppice and Pollard Systems for Woody Biomass and Craft Wood
 
 Coppicing and pollarding are ancient forms of woodland management that exploit the remarkable ability of many tree species to regenerate from cut stumps or stems. These systems have sustained human communities for millennia — providing fuel, [[gadd-fungal-biodegradation-concrete-building-materials]], fencing, and craft supplies — while simultaneously maintaining some of the most biodiverse habitats in temperate landscapes. In an era of climate change and renewed interest in sustainable materials, coppice and pollard systems are experiencing a significant revival.
 

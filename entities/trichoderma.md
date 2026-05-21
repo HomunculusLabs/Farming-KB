@@ -2,6 +2,7 @@
 title: Trichoderma
 created: 2026-04-28
 type: genus
+---
 scientific_name: Trichoderma
 aliases:
   - green mold
@@ -23,7 +24,8 @@ related_concepts:
   - fungal-enzymes-in-environmental-bioremediation
 date: 2026-05-02
 updated: 2026-05-02
----# Trichoderma
+---
+# Trichoderma
 
 **Trichoderma** is a genus of fast-growing [[accessible-mushroom-cultivation-for-disabilities]] rooms.
 The genus is important because the same traits that make many species useful biocontrol organisms also make them aggressive competitors of [[trichoderma-viride]] as a broad aggregate rather than a narrowly defined species.

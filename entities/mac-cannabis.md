@@ -16,7 +16,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Growers Network strain database
----# MAC (Miracle Alien Cookies)
+---
+# MAC (Miracle Alien Cookies)
 
 **MAC**, also known as **[[miracle-alien-cookies]]**, is a premium [[cannabis-glandular-trichome-types-resin-production-clarke]], complex [[girl-scout-cookies]] × Alien Kush**, contributing cookie-family sweetness, dense bud structure, and high resin content
 - **Male parent: Miracle 15 (Colombian × Starfighter × Big Bud)** — contributing increased vigor, yield, unique flavor depth, and enhanced trichome production

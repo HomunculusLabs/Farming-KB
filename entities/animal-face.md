@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.leafly.com/strains/animal-mints
----# Animal Face
+---
+# Animal Face
 
 ## Overview
 

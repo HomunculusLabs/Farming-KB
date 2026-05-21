@@ -8,7 +8,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://www.allbud.com/marijuana-strains/hybrid/ice-cream-cake"
----# Ice Cream Cake
+---
+# Ice Cream Cake
 
 Ice Cream Cake is a popular indica-dominant hybrid created by
 crossing Gelato #33 with [[cannabis-terpene-profiles-sativa]] over raw

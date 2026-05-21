@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Appel, K. et al. 'Passiflora incarnata guzman-psilocybin-mushrooms-south-america. Renowned for its strikingly complex flowers and edible fruit, passionflower has been used for centuries as a mild sedative, anxiolytic, and antispasmodic remedy. Modern cannabis-sleep-disorders-and-insomnia, making it one of the most well-studied calming herbs in Western psilocybin-north-america-pacific-northwest.
----# Botanical Description
+---
+# Botanical Description
 
 ### Growth Habit
 

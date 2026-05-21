@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Contour Surveying with A-Frame and Bunyip Level
+---
+# Contour Surveying with A-Frame and Bunyip Level
 
 Contour surveying is a foundational skill in permaculture-earthworks-design depends on accurate contour identification.
 

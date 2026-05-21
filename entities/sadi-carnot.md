@@ -1,6 +1,7 @@
 ---
 title: Nicolas Léonard Sadi Carnot
 type: entity
+---
 entity_type: person
 aliases:
 - Sadi Carnot

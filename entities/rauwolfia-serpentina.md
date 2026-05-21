@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338561/
----# Rauwolfia serpentina
+---
+# Rauwolfia serpentina
 
 **Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and [[tryptamine]]-class phytochemistry.
 

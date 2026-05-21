@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Distillery Wastewater Fungal Treatment
+---
+# Distillery Wastewater Fungal Treatment
 
 Distillery wastewater, commonly known as spent wash or vinasse, is one
 of the most complex and polluting industrial effluents generated

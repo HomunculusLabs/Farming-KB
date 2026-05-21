@@ -6,6 +6,7 @@ sources:
   - "Schultes and Hofmann - Plants of the Gods"
 type: concept
 tags: [ethnobotany]
+---
 Schultes and Hofmann document mescaline as one of the most significant
 psychoactive alkaloids in the ethnobotanical record, occurring naturally in
 two major cactus genera used ceremonially across the Americas: Peyote

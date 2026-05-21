@@ -53,7 +53,7 @@ and nature was itself an illusion, a product of the conceptual mind that divided
 indivisible reality into categories. The path back to nature was not a physical
 journey but a perceptual one, a shift in consciousness that revealed the unity that
 had always been present. [[dom]]
-- [[fukuoka-god-nature-man-unity-philosophy]]
+- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 
 ## Overview

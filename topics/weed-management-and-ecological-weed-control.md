@@ -1,5 +1,6 @@
 ---
 title: "Fukuoka Weed Management And Green Manure Ecological Weed Control"
+---
 subtitle: "A to understanding weeds ecologically and managing them without chemicals"
 tags: [weeds, weed-management, organic-gardening, no-till, permaculture, soil-ecology, natural-farming]
 date: 2026-05-09

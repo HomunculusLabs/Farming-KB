@@ -17,7 +17,8 @@ sources:
  — citral pharmacology, antimicrobial, and anti-inflammatory studies
  — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
   - Bakkali, F. et al. "Biological Effects of Essential Oils — A Review." Food and Chemical Toxicology, 2008.
----# Cymbopogon citratus
+---
+# Cymbopogon citratus
 
 **Cymbopogon citratus** (DC.) Stapf, commonly known as **lemongrass**, **West Indian lemongrass**, **fever grass**, or **citronnelle**, is a tropical [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide in tropical and subtropical regions for its citrus-scented leaves, which yield essential oil rich in citral. The plant occupies a central role in [[cymbopogon-flexuosus]] (East Indian lemongrass), which has a similar chemistry but different morphology and native range
 

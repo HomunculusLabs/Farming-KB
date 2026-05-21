@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Intensifying Small Farm Production
+---
+# Intensifying Small Farm Production
 
 Small farms face the challenge of generating adequate income and food from
 limited land area. Bill Mollison's *Permaculture: A Designers' Manual*

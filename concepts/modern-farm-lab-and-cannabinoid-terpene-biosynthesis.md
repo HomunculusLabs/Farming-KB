@@ -36,7 +36,7 @@ only lactic acid bacteria, purple bacteria, and yeast.
 Research on greenhouse tomatoes demonstrated that a blend of humic fertilizer
 from vermicompost and bio-fertilizer containing Lactobacillus casei, Lactobacillus
 lactis, Rhodopseudomonas palustris, and Saccharomyces cerevisiae increased total
-tomato yield by 19-21% (soil application) and 13-14% ([[cannabis-health-thc-tetrahydrocannabinol]], CBD). This occurs during curing or heating.
+tomato yield by 19-21% (soil application) and 13-14% ([[thc-tetrahydrocannabinol]], CBD). This occurs during curing or heating.
 
 ### Hexanoyl-CoA as the Critical Intermediate
 

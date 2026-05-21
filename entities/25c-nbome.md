@@ -1,6 +1,7 @@
 ---
 title: "25C-NBOMe"
 type: chemical
+---
 aliases:
   - "2C-C-NBOMe"
   - "BOM-CI"

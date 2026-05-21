@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://mushroomexpert.com/verpa_conica.html
----# Verpa conica
+---
+# Verpa conica
 
 **Thimble morel** or **smooth morel** is an ascomycete fungus in the family Morchellaceae, closely related to true morels (*Morchella* spp.). Found across the Northern Hemisphere in spring, V. conica is distinguished from true morels by its smooth, thimble-shaped cap that is attached to the stem only at the apex, and by the hollow interior of both [[verpa-bohemica]]** (wrinkled thimble morel) — larger, more wrinkled cap, more popular edible
 - **Verpa digitaliformis** — [[comparison-spore-print-collection-vs-spore-syringe-production]]:** Yellow to ochre.

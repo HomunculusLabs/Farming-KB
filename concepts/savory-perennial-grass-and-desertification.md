@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Perennial Grass and Desertification
+---
+# Perennial Grass and Desertification
 
 In [[savory-ecosystem-foundation-blocks]] function effectively.
 

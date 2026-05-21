@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Spiral Patterns in Nature and Permaculture Design
+---
+# Spiral Patterns in Nature and Permaculture Design
 
 Mollison explores the prevalence and significance of spiral forms
 throughout nature in the Designers' Manual, demonstrating that spirals

@@ -2,6 +2,7 @@
 title: Salt Tolerant Fodder Species
 created: 2026-04-28
 tags: [saline-land, fodder, land-rehabilitation]
+---
 
 Suited to summer-damp bogs, gullies, and seepage areas. Tolerant of
 water containing up to 14,000 ppm total soluble salts. Produces

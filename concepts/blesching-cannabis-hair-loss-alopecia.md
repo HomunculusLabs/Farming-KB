@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Hair Loss (Alopecia)
+---
+# Cannabis and Hair Loss (Alopecia)
 
 Until relatively recently, the allopathic tradition believed that male pattern
 baldness occurred in 3 out of 4 cases due to a gene passed down from the

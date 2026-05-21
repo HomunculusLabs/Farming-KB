@@ -107,7 +107,7 @@ Essential safety protocols and risk mitigation strategies. Success with implicat
 ## Related Concepts
 - [[implicate-order-and-unity-of-phenomena]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-god-nature-man-unity-philosophy]]
+- [[fukuoka-god-nature-and-man-as-one]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

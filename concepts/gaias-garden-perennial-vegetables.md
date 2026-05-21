@@ -3,11 +3,10 @@ title: comparison-perennial-vegetables-vs-cover-crops in the Ecological Garden
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Hemenway - Gaia's Garden"
+  - Hemenway - Gaias Garden
 type: concept
 tags: [gardening, vegetables]
 ---
-
 ## Perennial Vegetables in the Ecological Garden
 
 The gaias-garden-succession-planting and reduced maintenance. By shifting the balance from annual vegetables to perennial food plants, gardeners create landscapes that are more productive, more resilient, and far less work to maintain.

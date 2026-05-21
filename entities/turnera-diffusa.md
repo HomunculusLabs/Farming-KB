@@ -17,11 +17,13 @@ tags:
   - ethnobotany
   - flavonoids
   - aromatic
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Turnera+diffusa
----# Turnera diffusa (Damiana)
+---
+# Turnera diffusa (Damiana)
 
 ## Overview
 

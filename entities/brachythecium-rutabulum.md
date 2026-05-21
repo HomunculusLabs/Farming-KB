@@ -13,7 +13,8 @@ sources:
   - Flora , thriving in
 both natural woodlands and dmt-containing-plants-united-states-halpern, with highest abundance in the Northeast and Pacific
 Northwest. It is notably absent from dighton-nitrogen-deposition-mycorrhizal-community-shifts and desiccation.
----he species plays an important role in initial substrate stabilization on
+---
+he species plays an important role in initial substrate stabilization on
 disturbed ground, trapping sediment and organic particles to facilitate soil
 development. In urban ecosystems, it contributes to green infrastructure by
 retaining stormwater and filtering particulate pollution.

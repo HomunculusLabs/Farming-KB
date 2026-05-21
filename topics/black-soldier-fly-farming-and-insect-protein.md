@@ -11,7 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Barragan-Fonseca KB, Dicke M, van Loon JJA. "Nutritional value of the black soldier fly and its suitability as animal feed." Journal of Insects as Food and Feed, 2017.
----# Black Soldier Fly Farming and Insect Protein
+---
+# Black Soldier Fly Farming and Insect Protein
 
 ## Overview
 

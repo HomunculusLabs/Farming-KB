@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Sulfite and Sulfur Dioxide Effects on Saprotrophic Fungi
+---
+# Sulfite and Sulfur Dioxide Effects on Saprotrophic Fungi
 
 Sulfur dioxide (SO2) and its solubility products are toxic to fungi at
 environmentally realistic concentrations. The effects of sulfur-containing

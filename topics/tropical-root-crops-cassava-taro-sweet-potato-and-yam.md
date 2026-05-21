@@ -5,14 +5,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.ftw.ugent.be/en/tropical-root-tuber-crops
----# Tropical Root Crops — Cassava, Taro, Sweet Potato, and Yam
-
-## Introduction
-
-Tropical root and tuber crops form the caloric backbone for over 2.5 billion people across the global tropics and subtropics. Unlike cereal grains, these crops produce edible storage organs — tuberous roots, corms, or tubers — that serve as dense sources of carbohydrates, vitamins, and minerals. The four most significant tropical root crops are **cassava** (*Manihot esculenta*), **taro** (*Colocasia esculenta*), **sweet potato** (*Ipomoea batatas*), and **true yams** (*Dioscorea* spp.). Each has distinct biology, cultivation requirements, culinary uses, and roles within permaculture and subsistence farming systems.
-
-These crops share several advantages: they tolerate marginal soils better than most cereals, produce high caloric yields per unit area, and can be stored in the ground for extended harvest windows. In permaculture design, they serve as staple-producing ground covers and understory elements within food forests and polyculture systems.
-
 ---
 
 ## Cassava (*Manihot esculenta*)
@@ -79,3 +71,15 @@ Is your soil waterlogged or do you have a pond/wetland area?
 Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
 
 This topic interconnects with several related areas of study and practical application.
+## Regional Adaptations
+
+Tropical root crops have been adapted to diverse growing conditions across
+multiple continents and climate zones. Cassava thrives in poor soils and
+drought conditions across sub-Saharan Africa, while taro prefers the wet,
+humid environments of Pacific Islands and Southeast Asia.
+
+Sweet potato varieties have been bred for both temperate and tropical
+climates, with orange-fleshed types dominant in Africa and purple-fleshed
+varieties common in Japan and Okinawa. Yam cultivation spans West Africa's
+yam belt through Caribbean food traditions, with Dioscorea rotundata and
+D. alata being the most commercially important species.

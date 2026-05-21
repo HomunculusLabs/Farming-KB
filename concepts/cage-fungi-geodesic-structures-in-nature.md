@@ -3,11 +3,10 @@ title: Cage Fungi Geodesic Structures In Nature
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Money - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists"
+  - Money - Mr. Bloomfields Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists
 type: concept
 tags: [fungi, mycology, phallales, cage-fungi, clathrus, iledictyon, geodesic, structural-biology, spore-dispersal]
 ---
-
 ## Overview
 
 Cage fungi are close relatives of stinkhorns within the order Phallales, sharing the

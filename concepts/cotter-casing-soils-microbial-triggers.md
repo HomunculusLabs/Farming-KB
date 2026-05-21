@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Casing Soils and Microbial Fruiting Triggers
+---
+# Casing Soils and Microbial Fruiting Triggers
 
 ## Overview
 

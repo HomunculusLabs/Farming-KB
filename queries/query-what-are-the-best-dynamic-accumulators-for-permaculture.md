@@ -10,17 +10,19 @@ tags:
   - chop-and-drop
   - cover-crops
   - mineral-mining
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Jacke, Dave, and ) 
+  - Jacke, Dave, and )
 | **cichorium-intybus
 - dynamic-accumulator-plants-calcium-and-magnesium for Permaculture? has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
----mplementation varies based on scale, available resources, and
+---
+mplementation varies based on scale, available resources, and
 specific objectives. Small-scale applications may be relatively
 straightforward, while larger implementations require more careful
 planning and coordination. Adaptation to local conditions is always

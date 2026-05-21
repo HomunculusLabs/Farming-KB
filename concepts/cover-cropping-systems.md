@@ -7,7 +7,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/a-selection-permaculture-plants.md"
 type: concept
----# Cover Cropping Systems
+---
+# Cover Cropping Systems
 
 ## Overview
 

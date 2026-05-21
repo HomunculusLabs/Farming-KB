@@ -1,5 +1,6 @@
 ---
 title: Small Farm Business and Marketing
+---
 subtitle: Economic Strategies, Alternative Models, and Pathways to Profitability
 tags:
   - small-farm-economics

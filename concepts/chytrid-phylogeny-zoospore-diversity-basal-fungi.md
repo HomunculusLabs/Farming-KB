@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Chytrid Phylogeny and Zoospore Diversity
+---
+# Chytrid Phylogeny and Zoospore Diversity
 
 The Chytridiomycota occupy a pivotal position in [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. This ancestral trait, retained from
 a choanoflagellate-like ancestor, places chytrids at or near the

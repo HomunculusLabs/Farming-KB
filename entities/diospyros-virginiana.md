@@ -16,6 +16,7 @@ tags:
   - wildlife-forage
   - nitrogen-fixing
   - drought-tolerant
+---
 aliases:
   - American Persimmon
   - Common Persimmon

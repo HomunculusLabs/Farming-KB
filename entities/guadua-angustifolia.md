@@ -17,6 +17,7 @@ tags:
   - erosion-control
   - sustainable-building
   - guadua
+---
 date: 2026-05-09
 updated: 2026-05-09
 sources:
@@ -26,7 +27,8 @@ aliases:
   - Guadua
   - Guadua Bamboo
   - Guadua de Castilla
----# Overview
+---
+# Overview
 
 **Guadua angustifolia** is the largest and most economically important bamboo species in the Americas, native to tropical and subtropical regions of Central and [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]].
 

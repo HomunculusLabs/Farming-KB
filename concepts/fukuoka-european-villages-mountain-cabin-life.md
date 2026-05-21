@@ -7,6 +7,7 @@ tags: [fukuoka, acacia, and other trees, clothing, shelter, and fuel.---- There 
 - An environment where water comes from a valley spring and human wastes are returned to the soil is the cleanest
 
 - It is a place where people can live a free and pleasant life
+---
 
 This connects to fukuoka-textdoc-sunken-hearth-extinction-village-culture is an automatic fire extinguisher, but even when Fukuoka explains that the fire can be left alone without fear of the hut catching on fire, they are afraid. They are incapacitated by the smoke.
 

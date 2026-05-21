@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Litter Trapping and Canopy Soil Formation
+---
+# Fungal Litter Trapping and Canopy Soil Formation
 
 In wet tropical forests, the boundary between atmosphere and soil is
 not as clear as in temperate systems. High rainfall leaches nutrients

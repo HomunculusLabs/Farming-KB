@@ -2,6 +2,7 @@
 title: incubation and colonization
 created: 2026-04-28
 tags: [incubation]
+---
 
 Some of the first mushrooms to form are "abhorts," characterized by convoluted
 caps, gnarly stems, and stunted growth. Despite their appearance, abhorts are

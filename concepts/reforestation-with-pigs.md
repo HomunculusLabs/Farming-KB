@@ -13,7 +13,8 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
----# Reforestation with Pigs
+---
+# Reforestation with Pigs
 
 [[biodiversity-fungi-soil-fungal-communities]]
 

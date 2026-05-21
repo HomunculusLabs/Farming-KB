@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and HIV/AIDS
+---
+# Cannabis and HIV/AIDS
 
 Human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome
 (AIDS) represent a complex clinical picture where cannabis has demonstrated

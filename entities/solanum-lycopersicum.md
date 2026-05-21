@@ -11,7 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
 by pre-Columbian peoples and subsequently spread globally following Spanish colonization.
----omato is the second-most-consumed [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
+---
+omato is the second-most-consumed [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
 
 Today, tomatoes are cultivated in temperate, subtropical, and [[dmt-containing-plants-united-states-halpern]]
 as the leading producers.

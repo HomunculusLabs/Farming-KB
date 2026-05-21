@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Sheet Composting and Mulch Gardening
+---
+# Sheet Composting and Mulch Gardening
 
 Steve Solomon evaluates two popular [[solomon-complete-organic-fertilizer-guide]].
 

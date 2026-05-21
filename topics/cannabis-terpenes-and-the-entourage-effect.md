@@ -1,5 +1,6 @@
 ---
 title: query-what-are-cannabis-terpenes-and-why-do-they-matter and the Entourage Effect
+---
 subtitle: "How aromatic compounds shape the therapeutic and psychoactive
   profile of whole-plant cannabis"
 tags:

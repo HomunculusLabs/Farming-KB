@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [jadam]
+---
 Most canola and soybean oils are genetically modified (GMO). In Korea, there is no law regulating GMO in natural oil. To avoid GMO, farmers can use:
 - Non-GMO canola oil
 - Sunflower oil

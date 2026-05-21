@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Recovery and Grazing Periods
+---
+# Recovery and Grazing Periods
 
 In . Savory demonstrates that these two
 periods are inextricably linked: any change to one inevitably affects the

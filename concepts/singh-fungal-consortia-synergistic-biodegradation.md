@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Consortia and Synergistic Biodegradation
+---
+# Fungal Consortia and Synergistic Biodegradation
 
 Fungal consortia, comprising two or more fungal species or fungal-bacterial
 combinations, exploit complementary metabolic capabilities to achieve more

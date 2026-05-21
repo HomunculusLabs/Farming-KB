@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Soil pH and Mineral Balance
+---
+# Soil pH and Mineral Balance
 
 Soil chemistry is the invisible foundation upon which all terrestrial
 permaculture systems rest. Bill Mollison treated soil pH and mineral balance

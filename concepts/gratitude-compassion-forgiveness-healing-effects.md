@@ -14,7 +14,8 @@ sources:
 through controlled research to produce measurable physiological
 benefits including reduced cortisol, improved vagal tone, and changes
 in brain structure.
----nlike the destructive habits of guilt, martyrdom, and [[abscisic-acid-plant-stress-hormone]] cortisol, increases positive
+---
+nlike the destructive habits of guilt, martyrdom, and [[abscisic-acid-plant-stress-hormone]] cortisol, increases positive
 affect such as caring and happiness, and produces a significant
 increase in DHEA, a suspected anti-aging molecule.
 

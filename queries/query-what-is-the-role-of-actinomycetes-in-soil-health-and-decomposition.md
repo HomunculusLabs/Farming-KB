@@ -14,7 +14,8 @@ updated: 2026-04-28
 sources:
 type: query
 created: 2026-04-28
----# What Is the Role of Actinomycetes in Soil Health and Decomposition?
+---
+# What Is the Role of Actinomycetes in Soil Health and Decomposition?
 
 ## Short Answer
 

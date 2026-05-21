@@ -12,7 +12,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
----# Laboulbeniales
+---
+# Laboulbeniales
 
 Laboulbeniales is a distinctive group of obligately biotrophic
 parasitic ascomycetes that lack a mycelium. They live externally

@@ -124,5 +124,5 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 ## Related
 
 - [[alkaline-soil-plants]] — many palms tolerate alkaline soils (especially date palm)
-- [[permaculture-principle-catch-and-store-energy]] — palms as multi-functional elements in permaculture design
+- [[permaculture-principle-2-catch-store-energy]] — palms as multi-functional elements in permaculture design
 - [[sepp-holzer-method]] — broad permaculture approach to integrating useful trees

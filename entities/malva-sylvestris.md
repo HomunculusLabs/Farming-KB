@@ -11,6 +11,7 @@ tags:
   - anti-inflammatory
   - traditional-medicine
   - temperate-plant
+---
 aliases:
   - Common Mallow
   - High Mallow

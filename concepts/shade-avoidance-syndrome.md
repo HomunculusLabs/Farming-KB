@@ -2,6 +2,7 @@
 title: Shade Avoidance Syndrome
 created: 2026-04-28
 tags: [botany, photobiology, shade-avoidance]
+---
 Shade avoidance represents one of the most dramatic examples of adaptive
 phenotypic plasticity in the phytochrome-photoreceptor-plant-vision
 system operating as a molecular switch. In its active Pfr form, phytochrome

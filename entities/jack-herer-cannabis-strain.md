@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.wikileaf.com/strain/jack-herer/
----# Jack Herer
+---
+# Jack Herer
 
 ## Overview
 

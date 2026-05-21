@@ -14,7 +14,8 @@ updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 introduction of livestock and the resulting coprophilous habitats.
----# Hawaiian Neurotropic Mycoflora
+---
+# Hawaiian Neurotropic Mycoflora
 
 ### Copelandia Species (5 Species)
 

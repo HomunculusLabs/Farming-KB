@@ -1,5 +1,6 @@
 ---
 title: accessible-mushroom-cultivation-for-disabilities Fundamentals
+---
 subtitle: A complete guide to growing fungi from spore to harvest
 tags: [mushroom-cultivation, mycology, sterility, substrate, fruiting, spawn, contaminants]
 date: 2026-04-28

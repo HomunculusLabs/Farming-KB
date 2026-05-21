@@ -1,6 +1,7 @@
 ---
 title: "Plectranthus amboinicus"
 type: species
+---
 aliases:
   - Cuban Oregano
   - Mexican Mint

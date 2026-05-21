@@ -14,6 +14,7 @@ tags:
   - ectomycorrhizal
   - forest-fungi
   - bioactive-polysaccharides
+---
 aliases:
   - Clouded Agaric
   - Cloud Funnel

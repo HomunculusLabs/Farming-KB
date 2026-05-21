@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Lime Plaster vs Earthen (Clay) Plaster
+---
+# Lime Plaster vs Earthen (Clay) Plaster
 
 Lime plaster and earthen (clay) plaster are the two primary natural [[mollison-designers-lime-and-cement-natural-building]]. While both share advantages over conventional cement stucco and synthetic paints — breathability, low toxicity, and aesthetic warmth — they differ significantly in durability, water resistance, application requirements, and suitable applications. Choosing between them is one of the most important decisions in a natural building project.
 

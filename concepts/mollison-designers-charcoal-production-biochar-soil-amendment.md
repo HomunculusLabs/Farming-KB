@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Charcoal Production and Biochar Soil Amendment
+---
+# Charcoal Production and Biochar Soil Amendment
 
 Bill Mollison's [[comparison-hugelkultur-vs-terra-preta-soil-building]] as evidence that charcoal-amended soils
 can be extraordinarily persistent. The charcoal provides a stable

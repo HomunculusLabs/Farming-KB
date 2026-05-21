@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Mycelial Morphology Classification on Agar Media
+---
+# Mycelial Morphology Classification on Agar Media
 
 ## Overview
 

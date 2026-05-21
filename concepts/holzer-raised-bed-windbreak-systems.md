@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
----# Raised Bed Windbreak Systems
+---
+# Raised Bed Windbreak Systems
 
 [[cervantes-wind-protection-outdoor-cannabis]] that
 integrates windbreak functions directly into raised bed systems. Rather than

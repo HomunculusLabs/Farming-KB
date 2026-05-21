@@ -1,5 +1,6 @@
 ---
 title: comparison-companion-planting-reference-vs-jadam-monoculture-critique and Polycultures
+---
 subtitle: Growing Plants Together for Mutual Benefit, Pest Control, and Soil Health
 tags: [companion-planting, polyculture, organic-gardening, pest-control, guild-design, permaculture, intercropping]
 date: 2026-04-28

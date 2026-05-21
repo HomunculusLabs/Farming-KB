@@ -60,7 +60,7 @@ Key features of the keyline plow:
 
 Keyline fits within permaculture's broader design principles:
 
-- **[[permaculture-principle-catch-and-store-energy]] energy** — water is the primary "energy" being captured and stored
+- **[[permaculture-principle-2-catch-store-energy]] energy** — water is the primary "energy" being captured and stored
 - **[[permaculture-principle-use-edges-and-value-the-marginal]] the marginal** — keyline design specifically targets the valley-ridge transition zones
 
 ### Combining Keyline with Other Permaculture Techniques

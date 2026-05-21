@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Chanterelle and Truffle Cultivation Challenges
+---
+# Chanterelle and Truffle Cultivation Challenges
 
 ## Overview
 

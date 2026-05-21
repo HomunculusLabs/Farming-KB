@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/
----# 4-HO-MET
+---
+# 4-HO-MET
 
 ## Overview
 

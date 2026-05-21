@@ -1,5 +1,6 @@
 ---
 title: "Garlic Cultivation and Allium Growing Guide"
+---
 subtitle: "Comprehensive guide to growing garlic, onions, leeks, shallots, and chives"
 tags: [garlic, alliums, onions, leeks, shallots, vegetable-cultivation]
 date: 2026-04-28
@@ -21,7 +22,8 @@ related_concepts:
   - solomon-growing-garlic-onions-leeks
   - hamilton-bulb-vegetables-onion-family-organic
   - comparison-hardneck-vs-softneck-garlic
----# Garlic Cultivation and Allium Growing Guide
+---
+# Garlic Cultivation and Allium Growing Guide
 
 The allium family encompasses some of the most indispensable vegetables
 and herbs in human agriculture. Garlic, onions, leeks, shallots, and

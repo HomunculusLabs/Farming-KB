@@ -2,6 +2,7 @@
 title: "Stamets' Iconic Mycelium Types for Strain Identification"
 source:
   title: "Growing Gourmet and Medicinal Mushrooms"
+---
   author: "Paul Stamets"
   year: 1993
   chapters: [13, 14]

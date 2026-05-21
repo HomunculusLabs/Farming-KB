@@ -16,7 +16,8 @@ sources:
   - concepts/copelandia-genus-species-guide.md
   - concepts/psilocybin-mushroom-cultural-artifacts.md
 status: complete
----# John W. Allen
+---
+# John W. Allen
 
 ## Overview
 

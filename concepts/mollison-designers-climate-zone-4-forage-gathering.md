@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Zone 4 - Forage and Gathering Zone
+---
+# Zone 4 - Forage and Gathering Zone
 
 Zone 4 in permaculture-zone-planning for how Zone 4
 relates to the broader zone system.

@@ -16,7 +16,8 @@ sources:
     University of California Press.
     Two Decades." Biological Psychiatry.
     Journal of Ethnopharmacology.
---- Lambsbread
+---
+ Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
 sativa southeast-asian-mushroom-tourism-bali and South

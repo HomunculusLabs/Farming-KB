@@ -5,9 +5,9 @@ tags: [fruit-trees, apples, orchard, cultivation, pruning, rootstocks, varieties
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Gaia's Garden, Toby Hemenway (2009)
-  - Sepp Holzer's Permaculture, Sepp Holzer (2004)
-  - Mr. Bloomfield's Orchard, Nicholas P. Money (2002)
+  - Gaias Garden, Toby Hemenway (2009)
+  - Sepp Holzers Permaculture, Sepp Holzer (2004)
+  - Mr. Bloomfields Orchard, Nicholas P. Money (2002)
   - The Apple Grower, Michael Phillips (2005)
   - The Pruning Book, Lee Reich (2010)
 related_concepts:

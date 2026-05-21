@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Metal Biosorption Reactor Systems
+---
+# Fungal Metal Biosorption Reactor Systems
 
 [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] at scale, converting laboratory findings into
 practical engineering solutions.

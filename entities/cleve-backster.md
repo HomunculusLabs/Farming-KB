@@ -3,6 +3,7 @@ title: tompkins-cleve-backster-primary-perception
 created: 2026-04-28
 updated: 2026-05-06
 type: person
+---
 aliases:
   - Cleve Baxter Backster
   - Backster

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Growing Root Vegetables Organically
+---
+# Growing Root Vegetables Organically
 
 Root vegetables form the backbone of the winter [[hamilton-potato-growing-organic]]
 in the sequence, benefiting from the ground that was heavily manured

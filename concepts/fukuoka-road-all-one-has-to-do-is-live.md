@@ -2,6 +2,7 @@
 title: All One Has to Do Is to Live
 created: 2026-04-28
 tags: [philosophy, life, nature, civilization]
+---
 
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers

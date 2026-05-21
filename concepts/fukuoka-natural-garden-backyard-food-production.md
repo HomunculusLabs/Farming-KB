@@ -1,6 +1,7 @@
 ---
 title: Fukuoka's Natural Garden and Backyard Food Production
 source: "The Road Back to Nature — Masanobu Fukuoka (1987)"
+---
 source_chapter: Chapter 6
 source_sections:
   - Natural Home Gardens

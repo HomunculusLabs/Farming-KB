@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Fish Hydrolysate vs Fish Emulsion
+---
+# Fish Hydrolysate vs Fish Emulsion
 
 ## Overview
 

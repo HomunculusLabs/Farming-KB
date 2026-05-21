@@ -11,7 +11,8 @@ updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
 type: concept
----# Shaggy Mane Cultivation ([[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
+---
+# Shaggy Mane Cultivation ([[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
 ease. Grain spawn is directly inoculated into pasteurized,
 supplemented straw-based composts. Hardwood [[falconer-horse-manure-varieties]], mixed with straw or
 sawdust, are also ideal. Shaggy Manes wander, often fruiting

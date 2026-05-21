@@ -1,5 +1,6 @@
 ---
 title: Living Soil Cannabis Cultivation
+---
 subtitle: A comprehensive guide to biological cannabis cultivation through living soil systems
 tags:
   - cannabis

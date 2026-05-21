@@ -3,6 +3,7 @@ title: bacillus subtilis
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
+---
 subtype: bacterium
 aliases:
   - knf-hay-bacillus-disease-control

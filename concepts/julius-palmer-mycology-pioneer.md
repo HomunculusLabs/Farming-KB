@@ -79,7 +79,7 @@ warned, could give a false sense of security and lead to fatal poisonings.
 ## The Fermentation Danger in Boletus subtomentosus
 
 Palmer devoted careful attention to a lesser-known hazard: the tendency of
-certain boletes, particularly *[[boletus-subtomentosus]]* (the yellow-cracked
+certain boletes, particularly *[[boletus-sub-tomentosus]]* (the yellow-cracked
 bolete), to undergo rapid fermentation after collection. He observed that
 specimens of this species could develop a repulsive, ammoniacal odor within
 hours of being picked, especially in warm weather. This fermentation, he

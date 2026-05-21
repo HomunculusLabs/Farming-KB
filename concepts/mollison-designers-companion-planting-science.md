@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Companion Planting Science in Permaculture
+---
+# Companion Planting Science in Permaculture
 
 Companion planting is the practice of positioning different plant species
 in close proximity for mutual benefit. While traditional companion planting

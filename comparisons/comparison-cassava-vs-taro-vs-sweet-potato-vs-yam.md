@@ -6,11 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Cassava vs Taro vs Sweet Potato vs Yam
-
-## Quick Answer
-
-**Choose cassava** for maximum caloric yield on poor, drought-prone soils where processing capacity exists. **Choose sweet potato** for the fastest harvest (3–5 months), highest nutrition (especially orange varieties for vitamin A), and edible leaves. **Choose taro** for wetland integration (ponds, paddies) and systems where both corm and leaves are valued. **Choose yam** for long-term storage (3–6 months) and cultural staple importance, accepting the higher labor and longer growing season.
 ---
 ## Best Use Cases by Scenario
 

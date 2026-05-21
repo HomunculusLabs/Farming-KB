@@ -12,7 +12,8 @@ updated: 2026-05-08
 sources:
 of the most widely used vegetable oils globally for cooking, biodiesel
 production, and industrial applications.
----lobal rapeseed production exceeds 75 million tonnes annually, with the European
+---
+lobal rapeseed production exceeds 75 million tonnes annually, with the European
 Union, Canada, China, and India as the leading producers.
 
 ## Taxonomy and Morphology

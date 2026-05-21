@@ -22,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.allbud.com/marijuana-strains/hybrid/strawberry-cough
----# Strawberry Cough
+---
+# Strawberry Cough
 
 ## Overview
 

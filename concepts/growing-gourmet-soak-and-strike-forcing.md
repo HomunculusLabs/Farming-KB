@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Soak and Strike Forcing of Log-Grown Mushrooms
+---
+# Soak and Strike Forcing of Log-Grown Mushrooms
 
 The "soak and strike" method is the traditional Japanese
 technique for initiating [[cannabis-vegetative-growth-stage]] to reproductive mode

@@ -1,5 +1,6 @@
 ---
 title: Mushroom Fruiting Biology: Light, Tropisms, and Environmental Triggers
+---
 subtitle: The developmental physiology of basidiocarp formation, from photoinitiation to directed growth and spore release
 tags:
   - mycology

@@ -13,7 +13,8 @@ updated: 2026-05-09
 sources:
 lineage. It is strongly associated with limestone substrates and calcareous
 habitats.
----art's-tongue fern has a long history of medicinal use in European herbalism
+---
+art's-tongue fern has a long history of medicinal use in European herbalism
 and is widely cultivated as an ornamental plant. Several cultivars with
 crested or crisped frond margins are popular in shade gardens.
 

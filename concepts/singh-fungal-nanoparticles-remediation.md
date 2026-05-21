@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Nanoparticles for Environmental Remediation
+---
+# Fungal Nanoparticles for Environmental Remediation
 
 Fungal-mediated synthesis of nanoparticles represents a convergence of
 mycology and nanotechnology, offering an eco-friendly ("green") route to

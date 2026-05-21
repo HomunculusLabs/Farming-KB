@@ -9,7 +9,8 @@ updated: 2026-04-25
 sources:
     sustainable-living.md]
 type: concept
---- Permaculture Duck Integration for Orchards and Gardens
+---
+ Permaculture Duck Integration for Orchards and Gardens
 
 Ducks are among the most versatile and gentlest poultry species in a
 [[hamilton-beneficial-insects-and-biological-pest-control]] (especially [[fukuoka-natural-weed-management]], egg and meat

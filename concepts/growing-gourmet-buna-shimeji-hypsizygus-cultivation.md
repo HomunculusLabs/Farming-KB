@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Buna-Shimeji Cultivation (Hypsizygus tessulatus)
+---
+# Buna-Shimeji Cultivation (Hypsizygus tessulatus)
 
 The rich flavor of the Shimeji mushroom can be summed up by the
 Japanese phrase: "for fragrance, Matsutake; for flavor, Shimeji."

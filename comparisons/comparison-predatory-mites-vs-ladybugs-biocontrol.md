@@ -6,7 +6,8 @@ updated: 2026-04-28
 sources:
 type: comparison
 created: 2026-04-28
----# Predatory Mites vs. Ladybugs for Biological Pest Control
+---
+# Predatory Mites vs. Ladybugs for Biological Pest Control
 
 Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used [[fungal-biopesticides]] ([[beauveria]], Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
 

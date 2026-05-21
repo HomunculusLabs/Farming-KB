@@ -1,5 +1,6 @@
 ---
 title: Fukuoka Textdoc Microbes Scavengers Natural Order Biosystem
+---
 subtitle: "Fukuoka's Biosystem Self-Maintenance Theory"
 author: "Masanobu Fukuoka"
 source: "The Natural Way of Farming — The Theory (Green-Philosophy)"

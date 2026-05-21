@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Ganoderma lucidum
+---
+# Ganoderma lucidum
 
 **Ganoderma lucidum**, commonly known as **Reishi** (Japan), **Lingzhi** (China), or the **"Mushroom of Immortality,"** is a polypore bracket fungus belonging to the family Ganodermataceae. It is one of the most extensively studied [[neurotropic-fungi-taxonomic-confusion-and-identification]] has historically surrounded *Ganoderma lucidum* due to morphological variability and a broad [[berry-growing]]. Despite these revisions, the name *G. lucidum* remains the most widely used in both commercial and scientific literature.
 

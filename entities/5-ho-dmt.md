@@ -14,6 +14,7 @@ tags:
   - schedule-i
   - shulgin
   - tiHKAL
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -25,7 +26,8 @@ aliases:
   - Mappine
   - Cebil
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 **5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring [[5-meo-dmt-and-bufo-alvarius]], Bufo marinus) and in numerous plant species including [[anadenanthera-colubrina]].
 

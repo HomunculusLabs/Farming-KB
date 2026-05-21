@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 - **Root system:** Shallow, spreading lateral roots with prominent nitrogen-fixing root nodules; often develops adventitious roots in waterlogged conditions
----## Aerial Parts
+---
+## Aerial Parts
 
 - **Bark:** Dark grey-brown, rough and fissured with age; young bark is smooth and greenish-brown
 - **Twigs:** Purplish-brown to olive-green, slightly sticky, with prominent lenticels

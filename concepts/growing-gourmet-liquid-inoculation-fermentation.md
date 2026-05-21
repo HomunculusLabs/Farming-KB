@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Liquid Inoculation and Spore Mass Fermentation
+---
+# Liquid Inoculation and Spore Mass Fermentation
 
 Liquid [[agrocybe-aegerita-detailed]] (Black Poplar Mushroom)
 - [[pleurotus-citrinopileatus]] (Golden Oyster)

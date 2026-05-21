@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Time and Timing Guideline
+---
+# Time and Timing Guideline
 
 Time is one of the four "missing keys" that Allan Savory identified as
 essential to understanding and managing land health. While time itself does

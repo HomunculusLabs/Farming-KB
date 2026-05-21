@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cause and Effect Guideline
+---
+# Cause and Effect Guideline
 
 In  used in [[savory-holistic-resource-management-animal-impact]], quick fixes typically involve technological
 interventions that address visible symptoms while leaving root causes

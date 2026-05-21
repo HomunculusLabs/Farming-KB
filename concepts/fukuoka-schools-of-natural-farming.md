@@ -9,7 +9,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
---- Schools of Natural Farming — Mahayana and Hinayana
+---
+ Schools of Natural Farming — Mahayana and Hinayana
 
 ## Two Kinds of Natural Farming
 

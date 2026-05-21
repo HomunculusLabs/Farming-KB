@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Dryland Garden and Oasis Design
+---
+# Dryland Garden and Oasis Design
 
 Dryland and desert environments present extreme challenges for productive
 systems: high temperatures, intense solar radiation, low and erratic rainfall,

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Worm Composting and Manure in Organic Gardening
+---
+# Worm Composting and Manure in Organic Gardening
 
 From research on the effects of earthworms on waste materials, Geoff
 Hamilton recognized that worms can be put to work by the organic

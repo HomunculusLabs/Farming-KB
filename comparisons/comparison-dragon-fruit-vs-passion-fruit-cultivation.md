@@ -6,7 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 type: comparison
----# Dragon Fruit (Pitaya) vs Passion Fruit Cultivation
+---
+# Dragon Fruit (Pitaya) vs Passion Fruit Cultivation
 
 Dragon fruit (*Hylocereus* spp., syn. *Selenicereus*) and passion fruit (*gaias-garden-hedgerows-and-windbreaks for shelter strategies.
 

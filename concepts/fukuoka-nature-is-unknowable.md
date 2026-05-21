@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka]
+---
 Thinking that he must climb a mountain to know it, the mountain climber climbs the mountain. But to know the true mountain, one must see it from a point of remove that transcends the mountain.
 
 - Man can scale a mountain and stand on its summit, but he cannot climb above and beyond

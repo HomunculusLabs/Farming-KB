@@ -16,7 +16,8 @@ updated: 2026-04-28
 sources:
 type: comparison
 created: 2026-04-28
----# Cicadas vs Locusts
+---
+# Cicadas vs Locusts
 
 ## At a Glance
 

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Bioaccumulation and Biosorption of Heavy Metals by Fungi
+---
+# Bioaccumulation and Biosorption of Heavy Metals by Fungi
 
 Heavy [[gadd-fungal-biosorption-metal-contamination-remediation]] of soil and water from industrial activities
 including mining, smelting, electroplating, and chemical manufacturing

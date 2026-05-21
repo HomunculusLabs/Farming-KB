@@ -16,11 +16,13 @@ tags:
   - terence-mckenna
   - spore-syringe
   - monotub
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://truffle.report/
----# Penis Envy
+---
+# Penis Envy
 
 ## Overview
 

@@ -1,5 +1,6 @@
 ---
 title: Sclerotia Maturation Timeline Psilocybe Tampanensis Mexicana
+---
 concept_type: "biology"
 domain: "mycology"
 source: "Cultivation of fruitbodies and sclerotia on sterilised grass seed"

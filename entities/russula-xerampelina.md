@@ -9,7 +9,8 @@ sources:
 edible species within the genus *Russula*, prized by foragers for its mild flavor and
 distinctive seafood-like aroma reminiscent of cooked shrimp or crab when the flesh is
 cut or bruised. The species occurs across ectomycorrhizal-associations with both coniferous and hardwood trees.
----# Taxonomy and Classification
+---
+# Taxonomy and Classification
 
 - **Kingdom:** Fungi
 - **Phylum:** Basidiomycota

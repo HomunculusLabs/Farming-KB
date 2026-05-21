@@ -8,7 +8,8 @@ sources:
 updated: 2026-05-08
 type: concept
 tags: [reference]
----# Sunlight and Winter Crop Growth Rates
+---
+# Sunlight and Winter Crop Growth Rates
 
 ## The Persephone Months
 

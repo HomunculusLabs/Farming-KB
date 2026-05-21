@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Willow Water and Natural Rooting Propagation
+---
+# Willow Water and Natural Rooting Propagation
 
 In *Permaculture: A Designers' Manual*, Bill Mollison highlights the
 remarkable properties of willow (Salix species) for vegetative

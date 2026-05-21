@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cost Analysis of Fungal Bioremediation
+---
+# Cost Analysis of Fungal Bioremediation
 
 Economic feasibility is a primary determinant of remediation technology
 selection. Fungal bioremediation offers compelling cost advantages over

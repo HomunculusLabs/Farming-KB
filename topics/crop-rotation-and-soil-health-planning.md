@@ -1,5 +1,6 @@
 ---
 title: "Crop Rotation and Soil Health Planning"
+---
 subtitle: "A comprehensive guide to rotational growing systems, from traditional ley farming to biointensive methods and natural farming critiques"
 tags: [agriculture, crop-rotation, soil-health, organic-gardening, permaculture, biointensive, cover-crops, disease-prevention]
 date: 2026-05-10

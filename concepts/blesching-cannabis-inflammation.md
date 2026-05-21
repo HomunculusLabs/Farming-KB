@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Inflammation (General Anti-inflammatory Effects)
+---
+# Cannabis and Inflammation (General Anti-inflammatory Effects)
 
 The [[blesching-cannabis-infectious-agents-cancer]],
   [[blesching-cannabis-infectious-agents-cancer]], and chronic anterior

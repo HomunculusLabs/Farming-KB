@@ -139,7 +139,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[doc]]
 - [[psilocin]]
 - [[baeocystin]]
-- [[cannabis-health-thc-tetrahydrocannabinol]]
+- [[thc-tetrahydrocannabinol]]
 - [[lowenfels-tilling-no-till-soil-health]]
 - [[mushroom-biology-nutrition-health-properties]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]

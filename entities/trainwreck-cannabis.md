@@ -17,11 +17,13 @@ tags:
   - lemon-flavor
   - euphoric-effects
   - creative-stimulation
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Trainwreck_(cannabis)"
----# Trainwreck
+---
+# Trainwreck
 
 ## Overview
 

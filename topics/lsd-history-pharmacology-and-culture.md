@@ -1,5 +1,6 @@
 ---
 title: "LSD: History, Pharmacology, and Cultural Impact"
+---
 subtitle: "The most potent psychedelic, from ergot fungus to counterculture revolution and modern therapy"
 tags: [lsd, psychedelics, pharmacology, history, counterculture, serotonin, hofmann, therapy]
 date: 2026-04-28

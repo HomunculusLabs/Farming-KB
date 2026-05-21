@@ -3,6 +3,7 @@ title: amanita bisporigera
 created: 2026-04-28
 updated: 2026-05-06
 type: organism
+---
 subtype: fungus
 aliases:
   - bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course

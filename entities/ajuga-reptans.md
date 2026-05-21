@@ -1,6 +1,7 @@
 ---
 title: "Ajuga reptans"
 type: species
+---
 aliases:
   - Bugle
   - Common Bugle
@@ -21,7 +22,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Ajuga reptans* is a low-growing perennial herb in the family Lamiaceae, native to Europe, North Africa, and western Asia.
 

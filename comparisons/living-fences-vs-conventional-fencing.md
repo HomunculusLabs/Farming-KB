@@ -14,11 +14,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Restoration Agriculture, mark-shepard
-  - Permaculture: A Designers' Manual, bill-mollison
+  - Permaculture: A Designers Manual, bill-mollison
   - The Farming Handbook, Peter Nuthall
 type: comparison---
 ---
-
 ## Living Fences vs Conventional Fencing
 
 Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates [[fukuoka-critique-modern-agriculture]], living fences (hedges, hedgerows, and [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |

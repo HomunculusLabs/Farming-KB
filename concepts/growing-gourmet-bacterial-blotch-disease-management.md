@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Bacterial Blotch Disease in Mushroom Cultivation
+---
+# Bacterial Blotch Disease in Mushroom Cultivation
 
 ## Overview
 

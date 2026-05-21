@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Olive, Fig, and Mediterranean Tree Crops
+---
+# Olive, Fig, and Mediterranean Tree Crops
 
 The Mediterranean [[holzer-climate-zone-microclimate-creation]], characterised by mild wet winters and hot dry
 summers, supports a distinctive assemblage of long-lived tree crops that have

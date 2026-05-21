@@ -10,7 +10,8 @@ sources:
   - concepts/growing-alliums-organically.md
   - concepts/solomon-growing-garlic-onions-leeks.md
 type: query
----# What Is the Difference Between Hardneck and Softneck Garlic?
+---
+# What Is the Difference Between Hardneck and Softneck Garlic?
 
 ## Short Answer
 

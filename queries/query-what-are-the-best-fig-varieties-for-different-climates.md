@@ -5,8 +5,8 @@ tags: [figs, fruit-trees, variety-selection, climate-zones, food-forest]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Stark Bro's Nurseries — Fig Variety Guide"
-  - "FigBuddies.com — Community Variety Database"
+  - Stark Bros Nurseries — Fig Variety Guide
+  - FigBuddies.com — Community Variety Database
 type: query
 ---
 ## Final Thoughts

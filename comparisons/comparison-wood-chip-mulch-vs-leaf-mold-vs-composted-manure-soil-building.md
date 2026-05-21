@@ -11,6 +11,7 @@ tags:
   - soil-health
   - permaculture
   - regenerative-agriculture
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

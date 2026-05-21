@@ -1,5 +1,6 @@
 ---
 title: query-how-do-i-choose-a-natural-building-method-for-my-climate Techniques
+---
 subtitle: Creating shelter from locally sourced earth, fiber, and timber using time-tested methods that minimize environmental impact
 tags:
   - natural-building

@@ -15,7 +15,8 @@ tags:
   - traditional-use
 sources:
   - https://link.springer.com/article/10.1007/s10158-016-0467-5
----# Cladonia rangiferina (Reindeer Lichen)
+---
+# Cladonia rangiferina (Reindeer Lichen)
 
 **Cladonia rangiferina**, commonly called **reindeer lichen** (also known as grey reindeer lichen or Arctic moss), is a fruticose (bushy, branching) lichen species in the family Cladoniaceae. It is one of the most ecologically important lichens in circumpolar regions, serving as a primary winter food source for caribou and reindeer (*Rangifer tarandus*) across the Arctic tundra and [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. In North America, it ranges from Alaska across Canada to the Atlantic provinces, extending southward in mountainous regions and the boreal forest belt. In Europe, it is found throughout Scandinavia, the British Isles, and northern Russia.
 

@@ -17,7 +17,8 @@ available in both regular and oner-jack-the-ripper-jacks-cleaner-space-queen —
   developed by Vic High of Brothers Grimm Seeds. Contributes
   uplifting cerebral effects, green-cannabis-plant-anatomy-calyx-pistil-bud-structure, and
   physical calming properties.
----he approximate genetic ratio is 60–70% sativa / 30–40% indica,
+---
+he approximate genetic ratio is 60–70% sativa / 30–40% indica,
 though phenotypic variation is common. Some plants express more
 indica-like growth patterns while maintaining sativa-dominant effects.
 

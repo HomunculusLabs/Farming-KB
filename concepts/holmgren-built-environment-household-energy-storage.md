@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Built Environment as Energy Storage and the Household Economy
+---
+# Built Environment as Energy Storage and the Household Economy
 
 holmgren-household-economy-and-self-reliance
 and [[comparison-passive-solar-vs-earth-sheltered]] Example

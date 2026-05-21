@@ -5,10 +5,9 @@ tags: [mycology, fungi, stinkhorn, phallales, basidiomycota, spore-dispersal, de
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mr. Bloomfield's Orchard by Nicholas P. Money
+  - Mr. Bloomfields Orchard by Nicholas P. Money
 type: concept
 ---
-
 ## Stinkhorn Fungi (Phallus impudicus)
 
 Phallus impudicus, commonly known as the common stinkhorn, is a conspicuous member

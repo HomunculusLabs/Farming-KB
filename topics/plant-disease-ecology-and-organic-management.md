@@ -1,5 +1,6 @@
 ---
 title: "Plant Disease Ecology and Organic Management"
+---
 subtitle: "An ecological guide to plant pathogens, ."
 tags: [plant-pathology, organic-gardening, disease-management, fungi, bacteria, soil-health, integrated-pest-management]
 date: 2026-04-28
@@ -24,7 +25,8 @@ related_concepts:
   - cervantes-powdery-mildew-prevention-treatment
   - fukuoka-disease-pest-management
   - organic-pest-and-disease-management
----# Plant Disease Ecology and Organic Management
+---
+# Plant Disease Ecology and Organic Management
 
 Plant disease is not simply the presence of a pathogen. It is the result
 of an encounter between a susceptible host, a disease causing organism,

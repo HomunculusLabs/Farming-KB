@@ -11,9 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - FDA (2023). "Dextromethorphan 
+  - FDA (2023). Dextromethorphan
 and PCP.
----n 2022, the FDA approved a combination of dextromethorphan and bupropion
+---
+n 2022, the FDA approved a combination of dextromethorphan and bupropion
 (Auvelity) for treatment-resistant major depressive disorder, marking a
 significant new clinical application.
 

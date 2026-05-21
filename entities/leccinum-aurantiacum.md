@@ -1,6 +1,7 @@
 ---
 title: "Leccinum aurantiacum"
 type: species
+---
 aliases:
   - Orange Birch Bolete
   - Red-capped Bolete
@@ -22,7 +23,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
 created: 2026-04-28
----# Overview
+---
+# Overview
 
 *Leccinum aurantiacum* (Bull.) Gray, commonly known as the orange birch bolete, is an edible ectomycorrhizal bolete found in association with birch trees across [[psilocybin-north-america-pacific-northwest]]. It is one of the most widely collected boletes for the table due to its abundance, distinctive appearance, and reliable edibility.
 

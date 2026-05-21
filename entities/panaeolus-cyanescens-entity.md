@@ -11,6 +11,7 @@ tags:
   - mycology
   - coprophilous
   - tropical-fungi
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,7 +19,8 @@ sources:
 | **Norbaeocystin** | Trace | Minor tryptamine alkaloid |
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |
----he high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
+---
+he high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
 
 Effects are dose-dependent:
 - **Low dose (0.5–1 g dried):** mild visual enhancement, mood elevation, increased sociability

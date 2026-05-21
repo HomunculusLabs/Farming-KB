@@ -1,5 +1,6 @@
 ---
 title: Botanical Pesticides and Natural Pest Control
+---
 subtitle: Plant-derived insecticides, ecological pest management,
   and integrated approaches from permaculture, JADAM, and natural farming
 created: 2026-05-20

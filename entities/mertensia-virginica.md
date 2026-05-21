@@ -12,7 +12,8 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of polypore-fungi-eastern-north-america and is among the most recognizable wildflowers of eastern deciduous forests.
----he plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
+---
+he plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
 
 Virginia bluebells are valued in shade gardens for their intense blue flower color and early bloom time. They are fully dormant by midsummer, disappearing entirely until the following spring.
 

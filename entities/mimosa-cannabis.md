@@ -13,7 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://wikileaf.com/strain/mimosa/
----# Mimosa (Cannabis Strain)
+---
+# Mimosa (Cannabis Strain)
 
 **Mimosa** is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its uplifting, energizing effects and distinctive citrus-forward aroma. A cross between **Clementine** and **[[larry-og]]*
 - Famous for sweet grape and blueberry flavors with relaxing body effects

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Cannabis and Pain Due to Advanced Cancer
+---
+# Cannabis and Pain Due to Advanced Cancer
 
 ## Overview
 

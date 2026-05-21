@@ -16,6 +16,7 @@ tags:
   - heavy-sedation
   - nighttime
   - pain-relief
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +27,8 @@ sources:
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
----# Overview
+---
+# Overview
 
 Jedi Death Star represents an important element within sustainable
 design and ecological management systems. Its proper understanding

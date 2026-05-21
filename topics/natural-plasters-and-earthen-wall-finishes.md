@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Building with Cob, Adam Weismann & Katy Bryce (Green Books, 2006)
----# Natural Plasters and Earthen Wall Finishes
+---
+# Natural Plasters and Earthen Wall Finishes
 
 Natural plasters are wall coatings made from earth, lime, gypsum, or other minimally processed materials, applied to protect and beautify buildings constructed with natural or conventional methods. They represent one of the oldest building traditions in human history, with examples dating back over 10,000 years. Unlike cement-based stucco or synthetic paints, natural plasters are breathable, non-toxic, and often sourced locally from subsoil, sand, and fiber.
 

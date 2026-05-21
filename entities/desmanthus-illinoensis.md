@@ -7,7 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/
---- "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone mimosa-hostilis
+---
+ "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone mimosa-hostilis
 - **Illinois Mimosa** — regional variant, less common in current usage
 
 ## Etymology

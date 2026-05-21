@@ -12,6 +12,7 @@ tags:
   - deliriant
   - pharmacology
 source:
+---
   author: "Halpern, J.H."
   year: 2004
   title: "Hallucinogens: an update"

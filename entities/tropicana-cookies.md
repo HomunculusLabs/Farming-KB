@@ -17,11 +17,13 @@ tags:
   - exotic-strain
   - californian-genetics
   - colorful-nugs
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://growdiaries.com/strain/tropicana-cookies
----# Tropicana Cookies (Cannabis Strain)
+---
+# Tropicana Cookies (Cannabis Strain)
 
 ## Overview
 

@@ -1,5 +1,6 @@
 ---
 title: "Earthship Design and Biotopechtecture"
+---
 subtitle: "Radically Sustainable Housing Built from Tires, Earth, and Recycled Materials"
 tags:
   - natural-building

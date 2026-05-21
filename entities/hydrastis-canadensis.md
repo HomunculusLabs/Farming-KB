@@ -16,7 +16,8 @@ updated: 2026-04-28
 sources:
 Overharvested in the wild to near commercial extinction, cultivated supply chains are essential.
 Berberine receives significant clinical attention for metabolic and antimicrobial applications.
----# Taxonomy
+---
+# Taxonomy
 
 - **Kingdom:** Plantae — **Order:** Ranunculales — **Family:** Ranunculaceae
 - **Genus:** *Hydrastis* (monotypic) — **Species:** *H. canadensis* L.

@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Phosphate Solubilizing Fungi and Nutrient Mobilization
+---
+# Phosphate Solubilizing Fungi and Nutrient Mobilization
 
 ## Overview
 

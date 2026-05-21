@@ -7,7 +7,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
---- The Omega Point and Cosmic Evolution
+---
+ The Omega Point and Cosmic Evolution
 
 Simon G. Powell explores the concept of the Omega Point, originally proposed
 by the Jesuit priest and palaeontologist Pierre Teilhard de Chardin, as a

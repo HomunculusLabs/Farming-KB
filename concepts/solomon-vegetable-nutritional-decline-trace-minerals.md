@@ -10,7 +10,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Vegetable Nutritional Decline and Trace Minerals
+---
+# Vegetable Nutritional Decline and Trace Minerals
 
 One of [[steve-solomon]]'s most compelling arguments in "Gardening When It
 Counts" is that modern vegetables are significantly less nutritious than

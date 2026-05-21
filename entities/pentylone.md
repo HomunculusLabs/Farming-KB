@@ -14,6 +14,7 @@ tags:
   - research-chemical
   - controlled-substance
   - nps
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -24,7 +25,8 @@ aliases:
   - Pentyloncreated: 2026-05-07
 
 created: 2026-05-07
----# Overview
+---
+# Overview
 
 Pentylone (β-keto-MBDB) is a synthetic substituted cathinone and novel psychoactive substance (NPS) that acts as a triple monoamine reuptake inhibitor, producing stimulant and entactogen effects. It is a structural analogue of methylone where the ethyl chain is extended to pentyl.
 

@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Goats and Browsing Systems in Permaculture
+---
+# Goats and Browsing Systems in Permaculture
 
 mollison-forage-trees-in-livestock-systems and
   swale-planted crops) is carried to goats in pens.

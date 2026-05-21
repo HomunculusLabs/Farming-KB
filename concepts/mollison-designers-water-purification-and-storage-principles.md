@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Water Purification and Storage Principles
+---
+# Water Purification and Storage Principles
 
 Water is the most critical resource in any [[agricultural-chemicals-mycorrhizal-impact]].
 

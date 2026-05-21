@@ -1,6 +1,7 @@
 ---
 title: "Xeromphalina campanella"
 type: species
+---
 aliases:
   - "Fairy Bonnets"
   - "Golden Trumpets"

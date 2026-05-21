@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Biosorption Reactors for Heavy Metal Removal
+---
+# Fungal Biosorption Reactors for Heavy Metal Removal
 
 Fungal biosorption reactors have been well developed in recent years
 though not yet fully commercialized. The biosorption process is

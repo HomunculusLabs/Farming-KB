@@ -1,5 +1,6 @@
 ---
 title: Permaculture Design Process And Site Analysis
+---
 subtitle: "The complete workflow for reading a landscape, gathering data, and creating integrated ecological designs"
 tags: [permaculture, design, site-analysis, methodology, zones, sectors, PDC]
 date: 2026-05-10

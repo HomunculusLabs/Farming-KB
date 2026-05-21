@@ -11,9 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sepp Holzer's Permaculture — Sepp Holzer"
-  - "The Permaculture Handbook — Peter Bane"
-  - "USDA NRCS Soil Health Technical Notes"
+  - Sepp Holzers Permaculture — Sepp Holzer
+  - The Permaculture Handbook — Peter Bane
+  - USDA NRCS Soil Health Technical Notes
 ---
 ## Best Use Cases
 

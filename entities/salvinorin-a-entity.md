@@ -14,7 +14,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.erowid.org/plants/salvia/salvia_chemistry.shtml
----# Salvinorin A
+---
+# Salvinorin A
 
 ## Overview
 

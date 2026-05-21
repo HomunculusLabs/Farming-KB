@@ -1,5 +1,6 @@
 ---
 title: "Biointensive Gardening and Minifarming"
+---
 subtitle: "A comprehensive guide to the GROW BIOINTENSIVE sustainable
   mini-farming method developed by John Jeavons."
 tags:

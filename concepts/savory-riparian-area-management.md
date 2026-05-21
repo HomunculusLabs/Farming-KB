@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Riparian Area Management
+---
+# Riparian Area Management
 
 Riparian areas, the strips of land adjacent to rivers, streams, and wetlands, are among
 the most critical and most damaged landscapes in [[savory-animal-impact-and-herd-effect]] followed by long recovery, which promotes

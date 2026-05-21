@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Humus Building and Soil Organic Matter
+---
+# Humus Building and Soil Organic Matter
 
 In [[mollison-designers-dryland-garden-and-oasis-design]].
 

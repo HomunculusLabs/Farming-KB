@@ -12,6 +12,7 @@ tags:
   - terpene-rich
   - flowering-cannabis
   - recreational-cannabis
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

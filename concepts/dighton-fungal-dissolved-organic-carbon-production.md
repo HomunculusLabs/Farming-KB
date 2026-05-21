@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Fungal Production of Dissolved Organic Carbon
+---
+# Fungal Production of Dissolved Organic Carbon
 
 Dissolved organic carbon (DOC) represents a major pathway of carbon
 flow from terrestrial to [[mycelial-network-nutrient-transport-imaging-gadd]] between ecosystem compartments.

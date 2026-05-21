@@ -91,7 +91,7 @@ intuition.
 
 - [[dom]]
 - [[fukuoka-philosophy-non-causality-nature]]
-- [[fukuoka-god-nature-man-unity-philosophy]]
+- [[fukuoka-god-nature-and-man-as-one]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

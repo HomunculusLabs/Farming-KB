@@ -1,5 +1,6 @@
 ---
 title: Cannabis Indoor Growing Guide
+---
 subtitle: A comprehensive guide to cultivating cannabis indoors from setup to harvest
 tags: [cannabis, indoor-growing, hydroponics, lighting, nutrients, harvesting, pest-management]
 date: 2026-04-28

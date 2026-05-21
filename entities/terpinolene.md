@@ -16,13 +16,15 @@ tags:
   - cannabis-chemovar
   - phytochemistry
   - natural-product
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
----espite being classified as one of the major [[sensi-star]].
+---
+espite being classified as one of the major [[sensi-star]].
 
 ## Chemical Properties
 

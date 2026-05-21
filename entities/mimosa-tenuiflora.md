@@ -15,7 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Albuquerque, U.P. et al. (2011). "The use of plants in northeastern Brazil." Journal of Ethnopharmacology.
---- Mimosa tenuiflora (Jurema / Jurema Preta)
+---
+ Mimosa tenuiflora (Jurema / Jurema Preta)
 
 ## Overview
 

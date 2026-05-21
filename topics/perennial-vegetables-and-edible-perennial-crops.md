@@ -1,5 +1,6 @@
 ---
 title: "Perennial Vegetables and Edible Perennial Crops"
+---
 subtitle: "Long lived vegetables for ecological gardens and food forests."
 tags: [perennials, vegetables, permaculture, food-forests, gardening, soil]
 date: 2026-04-28

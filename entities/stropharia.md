@@ -64,7 +64,7 @@ Contemporary research on stropharia continues to advance through interdisciplina
 
 ## See Also
 
-- [[stropharia-rugoso-annulata]]
+- [[stropharia-rugosoannulata]]
 - [[king-stropharia-ecological-interactions-permaculture]]
 - [[stamets-king-stropharia-garden-giant-cultivation-stamets]]
 - [[king-stropharia]]

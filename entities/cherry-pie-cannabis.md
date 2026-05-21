@@ -17,6 +17,7 @@ tags:
   - purple-genetics
   - dessert-strain
   - award-winner
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:

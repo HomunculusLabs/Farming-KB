@@ -6,7 +6,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Three-Year Crop Rotation Plan
+---
+# Three-Year Crop Rotation Plan
 
 All vegetables have specific soil and mineral requirements. By grouping
 together crops with similar needs and planting them in a different place

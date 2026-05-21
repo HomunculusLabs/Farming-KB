@@ -13,7 +13,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
 primarily for its edible seeds, which are consumed as a pseudo-cereal.
----uinoa is notable for its exceptional nutritional profile. The seeds contain
+---
+uinoa is notable for its exceptional nutritional profile. The seeds contain
 all nine essential amino acids, making them a complete protein source rare
 among plant foods.
 

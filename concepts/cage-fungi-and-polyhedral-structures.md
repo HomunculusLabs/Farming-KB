@@ -5,10 +5,9 @@ tags: [mycology, fungi, cage-fungi, clathrus, anthurus, laternea, ileodictyon, p
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Mr. Bloomfield's Orchard by Nicholas P. Money
+  - Mr. Bloomfields Orchard by Nicholas P. Money
 type: concept
 ---
-
 ## Cage Fungi and Polyhedral Structures
 
 Cage fungi are a group of spectacularly unusual fungi belonging to the order

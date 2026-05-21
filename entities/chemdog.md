@@ -15,11 +15,13 @@ tags:
   - pungent
   - fuel-terpenes
   - OG-family
+---
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.wikileaf.com/strain/chemdog/
----# Chemdog
+---
+# Chemdog
 
 Chemdog (also written Chem Dog) is a legendary [[girl-scout-cookies]]. Originating from a chance
 encounter at a [[vic-high-cannabis-genetics-mendelian-inheritance]].

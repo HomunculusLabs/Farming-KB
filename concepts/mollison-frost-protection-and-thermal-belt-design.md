@@ -11,7 +11,8 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
 type: concept
----# Frost Protection and Thermal Belt Design
+---
+# Frost Protection and Thermal Belt Design
 
 Frost is identified by Mollison as the limiting factor in plant hardiness
 zones. Understanding where frost occurs, how it flows, and how to prevent
