@@ -77,3 +77,5 @@ China is now the world's largest kiwifruit producer, with production concentrate
 Italy is the second-largest producer and the largest in the Northern Hemisphere. Italian kiwifruit production is concentrated in the Latina province of Lazio and in Piedmont. Chile and Greece round out the top five producing nations.
 
 The kiwifruit industry faces several phytosanitary challenges, most notably Pseudomonas syringae pv. actinidiae (Psa), a bacterial canker disease that caused devastating losses in Italy and New Zealand from 2010 onward. Breeding for Psa resistance is now a major priority.
+
+Further research continues to expand understanding of actinidia chinensis and its ecological significance.

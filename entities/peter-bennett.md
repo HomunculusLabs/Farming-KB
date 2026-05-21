@@ -31,7 +31,7 @@ with appropriate design and amendment strategies.
   - **Raised beds** with sunken paths for salt management
   - **Perforated pipe irrigation** for efficient water delivery
   - Heavy **mulch** application for moisture retention and salt leaching
-  - **Sulphur** application to reduce [[cation-exchange-capacity]], creating conditions where **mycorrhizal fungi**
+  - **Sulphur** application to reduce cation-exchange-capacity, creating conditions where **mycorrhizal fungi**
   can establish and function effectively.
 - **Sulphur application** reduces soil pH and sodium toxicity, both of which
   inhibit fungal activity. Proper pH adjustment enables fungal colonisation.

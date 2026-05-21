@@ -32,7 +32,7 @@ The QIIME (Quantitative Insights Into [[cannabis-rhizosphere-microbial-communiti
 
 ### Beta Diversity (Between-Sample)
 - **UniFrac distances**: Phylogenetically-aware distance metrics that incorporate evolutionary relationships between taxa
-  - **[[16s-rrna-sequencing-microbiome-analysis]]
+  - **16s-rrna-sequencing-microbiome-analysis
 - [[dom]]
 - [[soma]]
 

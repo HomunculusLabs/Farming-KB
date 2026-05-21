@@ -62,7 +62,7 @@ Salvinorin A binds to KOR with remarkable potency and selectivity. KOR activatio
 - **Dose-dependent spectrum:**
   - **Light (200–500 µg):** Mild perceptual changes, laughter, altered spatial perception
   - **Moderate (500 µg–1 mg):** Significant dissociation, vivid closed-eye imagery, altered sense of self, synesthesia-like experiences
-  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, [[salvia-divinorum]] — Source plant of salvinorin A
+  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, salvia-divinorum — Source plant of salvinorin A
 - [[bufotenin]] — Tryptamine psychedelic with different receptor profile
 
 ## Practical Applications

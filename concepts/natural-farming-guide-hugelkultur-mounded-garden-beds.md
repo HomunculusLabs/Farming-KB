@@ -2,7 +2,6 @@
 title: natural farming guide hugelkultur mounded garden beds Garden Beds
 created: 2026-04-28
 tags: [hugelkultur, raised-beds, soil-building, permaculture, water-retention,
-      organic-matter, wood-decomposition, nitrogen-fixing, sustainable-gardening]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]

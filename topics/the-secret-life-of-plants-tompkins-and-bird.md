@@ -3,7 +3,6 @@ title: "The Secret Life of Plants"
 ---
 subtitle: "Tompkins and Bird"s exploration of plant perception"
 tags: [plant-intelligence, plant-perception, consciousness,
-      bioelectricity, parapsychology, history-of-science, botany]
 date: 2026-05-12
 updated: 2026-05-12
 sources:

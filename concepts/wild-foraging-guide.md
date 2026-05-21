@@ -53,7 +53,7 @@ Wild leeks with a strong garlic-onion flavor. Harvest only one leaf per plant (n
 Mild, slightly sweet green. Excellent raw in salads or lightly cooked. High in vitamins and minerals. Grows as a common garden weed. Identify by the single row of hairs on the stem and the white star-shaped flowers.
 
 ### Morel Mushrooms
-Spring's prize mushroom. Found near dead elms, ash, tulip poplars, and old apple trees in spring after ground warms to 50F+. See [[mushroom-foraging-safety-guide]] for look-alike warnings.
+Spring's prize mushroom. Found near dead elms, ash, tulip poplars, and old apple trees in spring after ground warms to 50F+. See [[mushroom-foraging-safety]] for look-alike warnings.
 
 ## Summer (June-August)
 
@@ -87,7 +87,7 @@ Nutritious staple food after leaching tannins. White oak acorns are sweetest (lo
 Smaller and more tart than cultivated grapes. Excellent for jelly, juice, and wine. Identify by the tendrils, heart-shaped leaves, and fruit clusters. Distinguish from poisonous moonseed by the presence of tendrils (moonseed lacks them) and seeds (grape seeds are pear-shaped; moonseed seeds are crescent-shaped).
 
 ### Chicken of the Woods (Laetiporus sulphureus)
-Bright orange and yellow shelf fungus growing on wood. Excellent edible when young and soft. Grows on living and dead hardwoods. Must be cooked. Identify by bright orange pore surface (not gills), growth on wood, and absence of a stem. See [[mushroom-foraging-safety-guide]].
+Bright orange and yellow shelf fungus growing on wood. Excellent edible when young and soft. Grows on living and dead hardwoods. Must be cooked. Identify by bright orange pore surface (not gills), growth on wood, and absence of a stem. See [[mushroom-foraging-safety]].
 
 ## Winter (December-February)
 
@@ -115,6 +115,6 @@ Emergency food from pine, birch, slippery elm, and willow. Harvest only strips f
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] for detailed mushroom identification and danger species
+- [[mushroom-foraging-safety]] for detailed mushroom identification and danger species
 - [[medicinal-herb-growing]] for cultivated alternatives to wild medicinal plants
 - [[saving-seeds]] -- consider saving and scattering seeds of wild edibles you forage

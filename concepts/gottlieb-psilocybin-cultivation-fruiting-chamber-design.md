@@ -34,7 +34,7 @@ a controlled [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 - Some species require significantly lower temperatures:
   - P. quebecencis fruits at 43-59 degrees F air temperature.
   - P. cyanescens fruits in autumn conditions (cool, moist).
-  - P. pelliculosa fruits September to December in the [[strain-isolation-from-wild-specimens]] are produced with this compost
+  - P. pelliculosa fruits September to December in the strain-isolation-from-wild-specimens are produced with this compost
   method.
 - Wild habitat: cow/horse dung, rich pasture soil, straw, sawdust/dung
   mixtures.

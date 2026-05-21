@@ -148,5 +148,3 @@ Consult a tax professional familiar with agricultural operations. Many homestead
 ## Getting Started
 See also [[mushroom-farm-record-keeping-profitability|Mushroom Farm Record Keeping Profitability]].
 See also [[fungal-herbarium-record-keeping-specimen-transactions|Fungal Herbarium Record Keeping Specimen Transactions]].
-
-Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.

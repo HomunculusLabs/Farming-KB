@@ -148,4 +148,3 @@ Harvesting method:
 - Cut larger roots into 1/4 inch slices; smaller roots can be left whole
 See also [[comparison-hawthorn-vs-valerian|Comparison Hawthorn Vs Valerian]].
 - For tincturing: Process fresh roots immediately into alcohol
-- For drying: Spread pieces on screens in a warm, well-ventilated area

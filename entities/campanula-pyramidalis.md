@@ -77,3 +77,7 @@ The species naturalizes readily in suitable climates and has been documented in 
 ## Uses [[endangered-fungi-and-conservation-strategies]]
 Further research into campanula pyramidalis continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind campanula pyramidalis provides a foundation for both practical application and continued scientific inquiry.
+
+## Additional Notes
+
+Continued research into campanula pyramidalis reveals connections to broader ecological systems.

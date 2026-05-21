@@ -77,3 +77,7 @@ As a member of Lauraceae, *L. melissifolia* is likely associated with [[fungal-e
 *[[lindera-benzoin]]* (northern spicebush) is the most widespread North American *Lindera*, ranging from New England to the upper Midwest and south to Virginia and Kentucky. It is far more common and adaptable than *L. melissifolia*, tolerating both wet and dry upland sites.
 
 *L. benzoin* differs in its taller stature (1.5–3 m), more elliptical leaves, and yellow flowers that are showier and more conspicuous than those of pondberry. The two species do not co-occur, as *L. benzoin* occupies more northerly and upland habitats.
+
+## Additional Notes
+
+Continued research into lindera melissifolia reveals connections to broader ecological systems.

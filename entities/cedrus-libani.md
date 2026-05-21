@@ -77,3 +77,6 @@ This topic encompasses significant principles with broad applicability across re
 Ongoing conservation efforts focus on sustainable management and genetic preservation.
 Further research into cedrus libani continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind cedrus libani provides a foundation for both practical application and continued scientific inquiry.
+
+Cedrus libani demonstrates remarkable resilience in its native mountain habitats, continuing to serve as both an ecological keystone species and a culturally significant tree throughout the eastern Mediterranean region.
+

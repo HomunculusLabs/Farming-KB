@@ -148,4 +148,3 @@ Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike 
 1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
 See also [[home-cheesemaking-and-dairy-fermentation|Home Cheesemaking And Dairy Fermentation]].
 2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
-3. Chill cream to 50-55F

@@ -9,7 +9,7 @@ sources: []
 
 # Beneficial Insects Guide
 
-Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
+Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of [[integrated-pest-management]] (IPM) and organic growing.
 
 ## Predatory Insects
 
@@ -25,7 +25,7 @@ Both adults and larvae are voracious predators of aphids, mealybugs, scale insec
 - Release ladybugs in the evening (they fly away during the heat of day)
 - Water the release area before release
 - Place them at the base of aphid-infested plants
-- Plant umbelliferous flowers (dill, fennel, yarrow) for adult nectar feeding
+- Plant umbelliferous flowers (dill, fennel, [[yarrow]]) for adult nectar feeding
 - Provide shelter: leaf litter, straw mulch, insect hotels
 - Avoid broad-spectrum insecticides that kill ladybugs along with pests
 
@@ -82,7 +82,7 @@ Tiny (1/16 inch) but extremely effective predators of thrips, spider mites, aphi
 Microscopic predators of spider mites, thrips, and other small arthropods. Essential for greenhouse and indoor growing where spider mites are a chronic problem.
 
 **Key Species:**
-- **Phytoseiulus persimilis**: Specialized spider mite predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
+- **Phytoseiulus persimilis**: Specialized [[spider-mite]] predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
 - **Neoseiulus californicus**: More generalist; tolerates wider temperature and humidity ranges. Survives on pollen when prey is scarce.
 - **Amblyseius cucumeris**: Primary thrips predator. Also feeds on spider mites.
 
@@ -148,5 +148,3 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
 See also [[beneficial-insects-pollinators|Beneficial Insects Pollinators]].
 See also [[comparison-trap-cropping-vs-beneficial-insects|Comparison Trap Cropping Vs Beneficial Insects]].
-- **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
-- See [[insectary-plantings]] for detailed plant lists

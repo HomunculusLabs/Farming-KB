@@ -77,3 +77,5 @@ Creeping juniper is secure across most of its range and is not considered threat
 [[juniperus-communis]]
 Further research into juniperus horizontalis continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind juniperus horizontalis provides a foundation for both practical application and continued scientific inquiry.
+
+Further research continues to expand understanding of juniperus horizontalis and its ecological significance.

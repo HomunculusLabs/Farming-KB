@@ -31,7 +31,7 @@ Trainwreck is a legendary sativa-dominant [[cannabis-microbiome-otu-abundance-vs
 
 - **Type:** Sativa-dominant hybrid (~80% sativa / 20% indica)
 - **Lineage:** A three-way landrace cross combining:
-  - **[[cannabis-glandular-trichome-types-resin-production-clarke]], physical density, and the mellowing body relaxation that grounds the experience
+  - **cannabis-glandular-trichome-types-resin-production-clarke, physical density, and the mellowing body relaxation that grounds the experience
 - **Original breeder:** Developed by underground growers in the Emerald Triangle region of Northern California (Humboldt, Mendocino, and Trinity counties) during the 1980s. The strain was reportedly stabilized from clone-only genetics before being released as seeds by select breeders.
 - **Name origin:** Multiple accounts exist. The most widely cited story holds that the original growers cultivated the plants near the site of a train wreck in Arcata, California, in Humboldt County. An alternative explanation suggests the name refers to the plant"s sprawling, chaotic growth pattern, which can resemble a train wreck when left untrained.
 

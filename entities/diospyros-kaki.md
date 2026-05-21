@@ -77,3 +77,7 @@ The species was introduced to the [[dmt-containing-plants-united-states-halpern]
 In Korean culture, dried persimmon (gotgam) is traditionally stuffed with walnuts and served as a seasonal delicacy during the Lunar New Year. In Brazil, persimmon cultivation has expanded rapidly since the 1990s, with the country now ranking among the top five global producers.
 Further research into diospyros kaki continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind diospyros kaki provides a foundation for both practical application and continued scientific inquiry.
+
+## Additional Notes
+
+Continued research into diospyros kaki reveals connections to broader ecological systems.

@@ -148,4 +148,3 @@ Greywater regulations vary enormously by jurisdiction:
 - No kitchen grease water without additional treatment
 See also [[greywater-systems-and-domestic-water-conservation|Greywater Systems And Domestic Water Conservation]].
 - System must not create a nuisance (odor, breeding mosquitoes)
-- Professional design may be required for systems above a certain volume

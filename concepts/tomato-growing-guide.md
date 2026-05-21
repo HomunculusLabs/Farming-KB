@@ -148,4 +148,3 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - [[companion-planting-reference]] — basil, marigolds, borage as tomato companions
 - [[seed-starting-reference]] — indoor starting schedule and techniques
 - [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources
-- [[pepper-growing-guide]] — related nightshade crop with similar requirements

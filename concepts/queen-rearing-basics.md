@@ -146,8 +146,5 @@ The quality of your queens depends on the genetics of the breeder colony.
 Select for:
 - Gentle temperament
 - High honey production
-See also [[queen-inamullo|Queen Inamullo]].
+See also [[queen-inamullo|Queen Inamullo]]. See also [[oner-jack-the-ripper-jacks-cleaner-space-queen]].
 See also [[oner-jack-the-ripper-jacks-cleaner-space-queen-tga-subcool|Oner Jack The Ripper Jacks Cleaner Space Queen Tga Subcool]].
-See also [[oner-jack-the-ripper-jacks-cleaner-space-queen|Oner Jack The Ripper Jacks Cleaner Space Queen]].
-- Good winter survival
-- Low Varroa mite loads (VSH or hygiene traits)

@@ -148,4 +148,3 @@ CBD does not produce psychoactive effects at any reasonable dose:
 
 See also [[lemon-cannabis-alchemy-tinctures-and-edibles|Lemon Cannabis Alchemy Tinctures And Edibles]].
 ### Cannabis-Infused Gummies
-## See Also

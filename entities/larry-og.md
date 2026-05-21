@@ -28,7 +28,7 @@ making it a popular evening and nighttime choice among medical and
 recreational consumers alike.
 
 It is a cross of OG Kush and an unknown indica, though some sources
-suggest SFV OG (San Fernando Valley OG) as the second parent.
+suggest [[sfv-og]] (San Fernando Valley OG) as the second parent.
 Larry OG is considered a cornerstone cut of the West Coast cannabis scene
 and has served as a parent in several notable crosses.
 
@@ -38,7 +38,7 @@ and has served as a parent in several notable crosses.
 - **Lineage:** OG Kush × Unknown indica (possibly SFV OG)
 - **Breeder:** Anonymous Southern California grower, early 2000s
 - **[[oner-sativa-medical-applications]]:**
-  - [[cannabis-for-cachexia-and-appetite-stimulation]]
+  - cannabis-for-cachexia-and-appetite-stimulation
   - Muscle spasms and cramping
 - **Side effects:**
   - Dry mouth and dry eyes (common)
@@ -62,7 +62,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish larry og
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -76,7 +76,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Larry Og finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

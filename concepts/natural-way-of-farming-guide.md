@@ -148,4 +148,3 @@ Fukuoka applied his methods across continents:
 **India**: In the state of Karnataka, helped restore degraded lands by direct-seeding native species in clay pellets.
 ## See Also
 
-- [[natural-farming-fpj-preparation]]

@@ -111,7 +111,7 @@ For isolating fungi from contaminated samples:
 
 - Prepare PDA or MEA as described
 - After autoclaving and cooling to 50-55°C (warm but not hot enough to denature antibiotics), add:
-  - 50 mg [[streptomycin]] per liter, OR
+  - 50 mg streptomycin per liter, OR
   - 30 mg chloramphenicol per liter, OR
   - 25 mg penicillin + 50 mg streptomycin per liter
 
@@ -148,4 +148,3 @@ A richer medium for fastidious species:
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
 2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
-3. Cover immediately and allow to solidify (15-30 minutes)

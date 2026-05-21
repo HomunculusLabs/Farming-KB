@@ -148,4 +148,3 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - [[no-till-gardening-method]]
 - [[mulching-guide]]
 - [[compost-building-guide]]
-- comfrey-plant-guide

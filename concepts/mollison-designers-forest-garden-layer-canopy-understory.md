@@ -19,7 +19,7 @@ The forest garden is the most complex and productive polyculture system
 in [[dynamic-accumulators]].
 
 Herbaceous species include:
-  - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+  - arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

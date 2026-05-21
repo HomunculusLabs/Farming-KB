@@ -148,5 +148,3 @@ Bad sampling produces bad data. Follow this protocol:
 ### Sampling for Different Situations
 ## See Also
 
-- [[soil-testing-methods-interpretation]]
-- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]

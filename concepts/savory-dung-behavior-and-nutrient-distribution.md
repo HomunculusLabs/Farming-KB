@@ -2,7 +2,6 @@
 title: "Dung Behavior and Nutrient Distribution"
 created: 2026-04-28
 tags: [holistic-management, dung-distribution, nutrient-cycling,
-      grazing-behavior, herd-effect, mineral-cycle, stock-density]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]

@@ -1,91 +1,150 @@
 ---
 title: Drip Irrigation
-source: bill-mollison-permaculture-a-designers-manual.md
-type: entity
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [water, water-management, agriculture, gardening, equipment, vegetables, plant-systems]
+sources: []
 ---
 
-## Drip Irrigation
+# Drip Irrigation Guide
 
-## Description
+drip irrigation (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
 
-Drip irrigation delivers water directly to plant root zones through emitters,
-reducing evaporation by 50-90% compared to sprinklers. Mollison considers it the
-most effective dryland garden watering method. Now popular globally with
-manufacturers in almost every country, the cost amortises in months given the
-food produced. Normal household wastewater is sufficient for a good-sized home
-garden if led to underground seepage pipes.
+## Components
 
-## Classification
+### Water Source
 
-- **Category**: Irrigation technique
-- **Domain**: Dryland [[orchard-management]]
-- **Technology level**: Low to high-tech variants
-- **Water efficiency**: 10-50% of sprinkler use
+Any pressurized water source works: municipal supply, well, pond pump, or gravity-fed from elevated tanks. If using rainwater from [[rainwater-harvesting-systems]], a pump or elevated tank is needed for adequate pressure (10-30 PSI for drip).
 
-## System Types
+### Backflow Preventer
 
-### Solid-Line Systems
-Extruded plastic hose with drip emitters ranging from small sprinklers to drip
-emitters. Can use automatic timers and 7- or 8-line sequences. Emitters vary
-in efficiency and flow rate. Vast commercial literature available.
+Required when connecting to municipal water supply. Prevents irrigation water from siphoning back into the potable water system. Install on the main line before any other components.
 
-### Twin-Pipe (Bi-Wall) Systems
-Thin twin-pipe where high-pressure pipe feeds low-pressure pipe perforated at
-intervals for row crops. Nylon mesh or old stockings used as filters. Can add
-automatic timers, soil-sensing, and nutrient addition systems.
+### Filter
 
-### Low-Tech Alternatives
-- Unglazed earthen jars central to circle gardens
-- Inverted bottles with leaky tops
-- Short tubes of hand-filled pebbles
-- Bucket systems for drought conditions
-- Plastic pillows as part-mulch, part-drip at valuable trees
+The most critical component for system longevity. Drip emitters have tiny orifices (0.5-2 mm) that clog easily.
 
-## Key Facts
+- **Screen filter** (150-200 mesh): Adequate for clean municipal water. Inexpensive, easy to clean.
+- **Disc filter**: Better for water with organic particles. Stack of discs catches debris. More thorough than screen filters.
+- **Sand media filter**: Required for pond or surface water. Most thorough filtration. Most expensive.
+- **Cartridge filter**: Fine filtration for sensitive emitters. Replace cartridges regularly.
 
-- Water use 10-50% of sprinkler in orchard/tree establishment
-- Only low head pressure needed
-- Water placed right at plant roots
-- Cost amortises even in lowest-paid western households in months
-- Salt accumulation risk above 800 ppm on bare ground
-- Stand pipes let water pool at root level, preventing salt buildup
-- Automatic systems can measure soil ionic exchange capacity
-- Normal household wastewater sufficient for home garden
+Clean or backwash filters monthly during the irrigation season.
 
-## Advantages
+### Pressure Regulator
 
-- Eliminates 10% edge evaporation on unguarded plots
-- Compatible with nutrient addition and full automation
-- Ideal for glasshouses and enclosed systems
-- Bridges high-tech commercial and low-tech village solutions
+Drip systems operate at low pressure (10-30 PSI). Most municipal systems deliver 40-80 PSI. Without a regulator, high pressure blows fittings apart and causes uneven emitter flow. Install after the filter.
 
-## Cautions
+### Main Line
 
-- Caution with waters above 800 ppm salt on bare ground
-- Salts and carbonates accumulate at plants in saline conditions
-- Filters essential to prevent emitter blockage
+The supply pipe from the water source to the garden area. Typically 1/2 inch or 3/4 inch polyethylene (poly) pipe for residential systems. Sized for the total flow rate of the system.
 
-## Relevance to Cultivation
+### Laterals
 
-Fundamental to Mollison's dryland strategies. Enables tree establishment in
-deserts, supports food production with minimal water, and integrates with
-wastewater recycling. Combined with swales, mulch pits, and condensation
-strategies, drip irrigation is essential for sustainable desert settlement.
+Smaller distribution pipes (1/4 inch or 1/2 inch) that branch off the main line and carry water to the planting areas. Lay laterals along plant rows or circles around individual plants.
 
-## References
+### Emitters
 
-- Mollison, B. (1988). Permaculture: A Designers' Manual. [[tagari-publications]].
+Devices that control water discharge to individual plants. See Emitter Types below.
 
-## Integration with Permaculture Design
+### End Caps and Flush Valves
 
-Drip irrigation integrates with swales for broadscale water harvesting,
-greywater recycling from households, and mulch pit systems. It serves as
-the primary water delivery mechanism in most arid-land permaculture designs.
+Laterals must be capped at the ends. Include flush valves (automatic or manual) at the ends of main lines and long laterals to flush sediment periodically.
 
+### Fittings
+
+- **Compression fittings**: Push pipe into fitting; internal gripper holds it. Most common for poly pipe.
+- **Barbed fittings**: Barb inserts into the pipe, held by a clamp. Simpler but less secure.
+- **Lok fittings**: Thread-together fittings with O-rings. Most secure, reusable, and slightly more expensive.
+
+## Emitter Types
+
+### Drip Emitters (Individual)
+
+Discrete devices inserted into the lateral pipe at each plant location. Flow rates typically 0.5, 1.0, or 2.0 gallons per hour (GPH).
+
+- **Pressure-compensating (PC)**: Deliver consistent flow regardless of pressure changes or elevation differences. Recommended for all systems.
+- **Non-pressure-compensating**: Flow varies with pressure. Cheaper but less accurate. Suitable for flat terrain only.
+- **Adjustable flow**: Twist to change flow rate. Useful where water needs vary between plants.
+
+Best for: widely spaced plants (tomatoes, peppers, fruit trees), container plants, irregular layouts.
+
+### Drip Tape
+
+Flat polyethylene tape with built-in emitters spaced at regular intervals (typically 6, 8, 12, or 18 inches). Flow rates of 0.25-0.9 GPH per emitter.
+
+- **DripLine (dripperline)**: Round pipe with pre-installed inline emitters. More durable than tape, can be buried.
+- **T-Tape**: Flat tape, thinner wall, less expensive. Single-season use (though can last 2-3 seasons with care).
+
+Best for: densely planted rows (vegetable beds, strawberries, cut flowers), raised beds.
+
+### Micro-Sprinklers
+
+Small spray heads that deliver water in a circular pattern (radius 1-10 feet). Flow rates of 5-30 GPH. Not truly "drip" but part of microirrigation.
+
+- **Spinner type**: Rotating stream, good coverage area, lower clog risk.
+- **Spray type**: Fixed spray pattern, higher precipitation rate.
+
+Best for: ground covers, densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
+
+### Soaker Hoses
+
+Porous rubber or recycled tire hose that "weeps" water along its entire length. No emitters — water seeps through the wall.
+
+- Inexpensive and simple to install
+- Uneven water distribution (more water at the beginning, less at the end)
+- Not pressure-compensating
+- Clog over 1-3 seasons
+- Best for short runs (under 50 feet)
+
+Best for: perennial borders, shrub beds, simple garden setups.
+
+## System Layout
+
+### Zone Design
+
+Divide the irrigation system into zones based on:
+
+1. **Water needs**: Group plants with similar water requirements (e.g., heavy feeders in one zone, drought-tolerant in another)
+2. **Flow capacity**: Each zone should not exceed the water source's flow rate
+3. **Timing**: Different zones may need different run times
+4. **Topography**: Avoid zones that span significant elevation changes (unless using PC emitters)
+
+### Flow Calculation
+
+    Zone Flow (GPH) = Number of Emitters × Emitter Flow Rate (GPH)
+
+Ensure zone flow does not exceed water source capacity. For a typical residential well or municipal connection (5-10 GPM = 300-600 GPH), a zone with 200 1-GPH emitters would require 200 GPH — running for 1.5 hours delivers 300 gallons.
+
+### Layout Patterns
+
+**For Row Crops (Drip Tape)**
+- Run drip tape down the center of each bed or between double rows
+- For sandy soil: run two lines per bed, 6-12 inches apart (wets a wider band)
+- For [[clay-soil]]: one line per bed is sufficient (water spreads laterally)
+- Space emitters to match plant spacing
+
+**For Individual Plants (Drip Emitters)**
+- One emitter per small plant (pepper, eggplant)
+- Two emitters per large plant (tomato, squash) — one on each side
+- Circle of 3-4 emitters around fruit trees, 1-2 feet from the trunk
+- Adjust emitter number and placement as plants grow
+
+**For Containers**
+- One emitter per container, sized to container volume
+- Use 0.5 GPH for small pots (under 5 gallons)
+- Use 1-2 GPH for large pots (5-15 gallons)
+
+## Fertigation
+
+Fertigation delivers soluble fertilizers through the drip system, providing nutrients directly to the root zone.
+
+### Fertigation Equipment
+
+- **Fertilizer injector**: Installs inline and draws concentrated fertilizer solution into the water stream. Venturi injectors (simple, no power needed) or diaphragm injectors (more precise).
+- **Fertilizer tank**: Holds concentrated solution. Connects to the injector.
+- **Check valve**: Prevents fertilizer from siphoning back into the water source. See also [[solomon-drip-irrigation-limitations-home-garden]].
+
+### Fertigation Schedule
 ## See Also
-
-- [[comparison-drip-irrigation-vs-rainwater-harvesting]]
-- [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]
-- [[cervantes-drip-irrigation-systems]]
-- [[query-how-to-set-up-drip-irrigation-for-cannabis]]
-- [[drip-and-seepage-irrigation-systems]]

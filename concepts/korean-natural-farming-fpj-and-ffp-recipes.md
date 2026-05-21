@@ -16,7 +16,7 @@ sources:
 - Choose fast-growing plants with abundant sap (high "chi" energy)
 - Collect before sunrise when plant sugars are highest
 - Best plants by [[coleman-overwintered-onions-and-early-spring-crops]]**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
-  - **Summer**: Bamboo shoots, [[knf-reproductive-growth-stage]] stimulation)
+  - **Summer**: Bamboo shoots, knf-reproductive-growth-stage stimulation)
   - **Fruiting**: Unripe fruit of the target crop (tomato FPJ for tomatoes)
 
 ### Method

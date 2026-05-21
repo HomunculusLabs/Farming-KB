@@ -16,9 +16,9 @@ Siderophores are high-affinity iron-chelating compounds produced by
 microorganisms under iron-limiting conditions. [[ectomycorrhizal-fungal-ecology]]
     species (ascomycete)
   - Wilcoxina spp. forming ectendomycorrhizae
-  - [[phialocephala-fortinii]], a [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi), which form the most
+  - phialocephala-fortinii, a comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungi), which form the most
     widespread type of [[singh-fungal-siderophore-production-iron-acquisition]]
-  - The [[lichen-biology-and-ecological-significance]] of mycorrhizal siderophores in iron cycling
+  - The lichen-biology-and-ecological-significance of mycorrhizal siderophores in iron cycling
     in natural ecosystems requires further investigation
 
 ## Ecological Significance

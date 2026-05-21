@@ -148,4 +148,3 @@ For medicinal use:
 - Cut the top 6-8 inches of the plant
 See also [[lemon-balm-melissa-officinalis|Lemon Balm Melissa Officinalis]].
 
-## Drying and Storage

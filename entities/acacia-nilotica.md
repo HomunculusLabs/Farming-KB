@@ -77,3 +77,7 @@ Modern pharmacological studies have confirmed antibacterial activity against pat
 Antioxidant assays demonstrate strong free-radical scavenging capacity, attributed primarily to the high tannin content. Hypoglycemic and hepatoprotective effects have been documented in animal studies.
 Further research into acacia nilotica continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind acacia nilotica provides a foundation for both practical application and continued scientific inquiry.
+
+## Additional Notes
+
+Continued research into acacia nilotica reveals connections to broader ecological systems.

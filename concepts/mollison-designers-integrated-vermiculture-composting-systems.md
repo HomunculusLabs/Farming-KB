@@ -47,7 +47,7 @@ excavated pits lined with shade cloth.
 ## Feedstock and Management
 
 Composting worms consume a wide range of organic materials:
-  - Kitchen scraps: Fruit and vegetable peelings, [[oyster-mushroom-coffee-grounds-cultivation]],
+  - Kitchen scraps: Fruit and vegetable peelings, oyster-mushroom-coffee-grounds-cultivation,
     tea leaves, crushed eggshells
   - Garden waste: Soft green prunings, leaf mold, grass clippings
     (in moderation)

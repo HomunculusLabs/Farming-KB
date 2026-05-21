@@ -15,7 +15,7 @@ wikilinks: [endocannabinoid-system-overview, thc-cbd-therapeutic-profiles, canna
   - Cerebellum: Motor coordination (explains THC-induced ataxia and loss of coordination).
   - Basal ganglia: Movement control (relevant to Parkinson"s disease and dystonia treatment).
   - Cerebral cortex: Higher cognitive functions, perception, and executive function.
-  - Hypothalamus: [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] (explains THC's anxiolytic or anxiogenic effects).
+  - Hypothalamus: blesching-cannabis-emotional-processing-expansive-constricting-emotions (explains THC's anxiolytic or anxiogenic effects).
   - Spinal cord dorsal horn: Pain signal transmission (explains analgesic effects).
 - **Peripheral tissues**: Also found in the lungs, liver, kidneys, GI tract, [[hemenway-mulch-makers-and-plant-functional-roles]]**:
 - Suppresses excessive inflammatory responses.

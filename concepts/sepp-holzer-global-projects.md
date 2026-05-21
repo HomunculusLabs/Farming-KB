@@ -27,7 +27,7 @@ Holzer's [[permaculture-garden-design-process]] for private use
 - Completely transformed landscape
 - Cereals and catch crop vegetables germinated and developed very well
 - Gentian seeds ([[cervantes-raised-beds-mound-planting]] positioned in wavy line shape
-  - Covered with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+  - Covered with comparison-pruning-fruit-trees-vs-grafting-fruit-trees
 - Depleted and eroded areas to develop into "edible landscapes" with diverse flora and fauna
 - Over time: formerly barren heath to become productive edible landscape
 

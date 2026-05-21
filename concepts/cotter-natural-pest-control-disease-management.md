@@ -2,7 +2,6 @@
 title: "cho-natural-pest-control-methods Control and plant-disease-management-solomon in accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [pest-control, disease-management, mushroom-cultivation, IPM,
-      fungus-gnats, mold-control, Trichoderma, biological-control,
       sanitation, fruit-flies, cotter]
 date: 2026-04-25
 updated: 2026-04-25

@@ -146,6 +146,5 @@ Integration is the process of making sense of and incorporating the insights, em
 - Avoid driving or operating machinery during and for at least 12 hours after the experience
 - Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
 - Know your limits and respect them
-- Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
+- Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months) See also [[psychedelic-mushroom-taxonomy]].
 
-See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to [[set-and-setting]] and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.

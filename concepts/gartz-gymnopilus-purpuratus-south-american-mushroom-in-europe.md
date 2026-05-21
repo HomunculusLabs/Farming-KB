@@ -5,8 +5,6 @@ updated: 2026-05-02
 type: concept
 tags: [mushroom-cultivation, mycology]
 sources: - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md" - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
----
-
 --- title: Gymnopilus Purpuratus South American Mushroom in Europe tags: [Gymnopilus-purpuratus, South-American-mushrooms, European-introduction, compost-heaps, wood-chips, psilocybin, bluing-reaction, alkaloid, spore-import, Yurimagua-Indians] date: 2026-04-25 updated: 2026-04-25 sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md] --- # mordecai-cooke, who discovered
 it, was a mycologist of outstanding competence who also studied [[gymnopilus-junonius]] is one of the largest species, with
 stems up to 24 inches (60 cm) tall, but has an extremely bitter taste that

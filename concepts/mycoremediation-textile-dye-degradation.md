@@ -72,7 +72,7 @@ The primary enzymes involved are [[mycoremediation-enzymology|laccases, lignin p
 
 ## Regulatory Context
 
-Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[mycoremediation-overview]] for details.
+Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[mycoremediation]] for details.
 
 ## Related Concepts
 

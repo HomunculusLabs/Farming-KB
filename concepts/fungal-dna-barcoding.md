@@ -148,5 +148,3 @@ Projects like the North American Mycoflora Project aim to:
 1. Collect and photograph fungi across North America
 See also [[biodiversity-fungal-molecular-identification-dna-barcoding|Biodiversity Fungal Molecular Identification Dna Barcoding]].
 See also [[dna-barcoding-fungal-identification|Dna Barcoding Fungal Identification]].
-2. Generate DNA barcodes for every observation
-3. Build a comprehensive, georeferenced fungal database

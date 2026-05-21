@@ -148,5 +148,3 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Plan gate placement to allow easy movement between paddocks.
 See also [[holzer-livestock-philosophy-paddock-system|Holzer Livestock Philosophy Paddock System]].
 See also [[jadam-livestock-integration-and-manure-management|Jadam Livestock Integration And Manure Management]].
-
-### Species-Specific Notes

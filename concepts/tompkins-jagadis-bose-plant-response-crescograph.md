@@ -2,7 +2,6 @@
 title: Tompkins Jagadis Bose Plant Response Crescograph
 created: 2026-04-28
 tags: [jagadis-bose, crescograph, plant-response, radio-waves,
-      electromotive-force, plant-physiology, india, history-of-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

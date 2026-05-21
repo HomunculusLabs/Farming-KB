@@ -22,8 +22,8 @@ potency alone.
 - **Year:** Circa 2017-2018
 - **Award:** 1st Place, 2018 Emerald Cup
 - **Lineage:**
-  - Gelato #33 = [[sunset-sherbet]]
-  - Wedding Cake = [[girl-scout-cookies]] → Thin Mint →
+  - Gelato #33 = sunset-sherbet
+  - Wedding Cake = girl-scout-cookies → Thin Mint →
   Gelato → Ice Cream Cake; OG Kush → Triangle Kush →
   Wedding Cake → Ice Cream Cake
 

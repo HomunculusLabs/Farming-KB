@@ -77,3 +77,6 @@ The strain is considered high-THC by historical standards, though
 moderate by current market benchmarks where 25–30% THC strains are
 common. Its reputation derives from the quality and balance of effects
 rather than sheer potency.
+
+White Widow remains a benchmark strain in cannabis breeding, with its balanced effects and robust growth characteristics continuing to influence modern cultivar development.
+

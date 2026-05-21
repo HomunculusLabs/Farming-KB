@@ -147,7 +147,4 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 
 - **Water rights**: Many states require water rights or permits to divert stream flow
 See also [[comparison-micro-hydro-power-vs-solar-cooking-methods|Comparison Micro Hydro Power Vs Solar Cooking Methods]].
-See also [[comparison-biogas-digester-basics-vs-micro-hydro-power|Comparison Biogas Digester Basics Vs Micro Hydro Power]].
-See also [[micro-pixe-element-localization-mycorrhizal-roots|Micro Pixe Element Localization Mycorrhizal Roots]].
-- **Fish and wildlife**: Federal and state agencies protect aquatic habitat
-- **Dam safety**: Even small diversions may require permits
+See also [[comparison-biogas-digester-basics-vs-micro-hydro-power|Comparison Biogas Digester Basics Vs Micro Hydro Power]]. See also [[mazatec-shamanic-discourse-and-the-power-of-speaking]].

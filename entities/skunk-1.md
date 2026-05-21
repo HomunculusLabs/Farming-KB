@@ -15,7 +15,7 @@ sources: ["domain-knowledge"]
 - **Origin:** 1970s, Northern California, United States
 - **Status:** Heirloom / foundational breeding stock
 - **Legacy:** Arguably the single most influential [[haze-lineage-and-legacy-in-modern-breeding]] history
-- **Genetic composition:** Three-way landrace cross — Afghani × Acapulco Gold × Colombian Gold
+- **Genetic composition:** Three-way landrace cross — Afghani × [[acapulco-gold]] × [[colombian-gold]]
 - **Significance:** First purpose-bred stabilized hybrid; set the template for virtually all
   commercial cannabis varieties developed since the 1980s
 - **Notability:** Named for its intensely pungent aroma, which gave rise to the term
@@ -23,7 +23,7 @@ sources: ["domain-knowledge"]
 
 ## Lineage & Genetics
 - **Afghani** (indica landrace, Afghanistan)
-  - Contributed bud density, heavy [[cannabis-sativa-landrace-strains]], Mexico)
+  - Contributed bud density, heavy cannabis-sativa-landrace-strains, Mexico)
   - Contributed cerebral energy, sweet floral aroma, and golden coloration
   - Known for its potent, uplifting sativa effects
 - **Colombian Gold** (sativa landrace, Colombia)
@@ -81,7 +81,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish skunk 1
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Skunk 1 finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

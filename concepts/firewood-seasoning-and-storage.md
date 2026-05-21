@@ -148,5 +148,3 @@ Once wood is seasoned, store it:
 - **Rick:** Regional term, usually refers to a face cord
 See also [[mushroom-drying-storage|Mushroom Drying Storage]].
 See also [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Growing Gourmet Culture Slant Preservation Cryogenic Storage]].
-- **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
-## See Also

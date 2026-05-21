@@ -31,14 +31,14 @@ Advantages:
 - Blocks light effectively, killing existing weeds
 - Allows water penetration when saturated
 - Free and widely available (appliance boxes, moving boxes)
-- Earthworms love the glue layer — they congregate beneath cardboard
+- [[earthworms]] love the glue layer — they congregate beneath cardboard
 
 How to use:
 1. Remove tape, staples, and labels from cardboard
 2. Lay cardboard directly on mowed or grazed vegetation
 3. Overlap edges by 4-6 inches to prevent weed gaps
 4. Soak thoroughly with water until saturated
-5. Cover with 4-6 inches of organic matter (compost, leaves, straw)
+5. Cover with 4-6 inches of organic matter ([[compost]], leaves, straw)
 6. Plant into the top layer
 
 Limitations:
@@ -76,7 +76,7 @@ Advantages:
 - Breaks down into rich humus over 2-4 years
 - Provides habitat for beneficial fungi and insects
 - Suppresses weeds effectively at 4-6 inch depth
-- Moderates soil temperature and moisture
+- Moderates [[soil-temperature]] and moisture
 - Contains a mix of wood, bark, and leaves for diverse nutrient release
 
 How to use:
@@ -145,8 +145,6 @@ How to use:
 | Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
 
 ## See Also
+- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
 
-- [[no-till-gardening-method]]
-- [[sheet-mulching]]
-- [[cover-crop-guide-detailed]]
-- [[hugelkultur-bed-construction]]
+- [[no-till-gardening-method]] See also [[coleman-row-cover-fabric-management]].

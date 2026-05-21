@@ -53,7 +53,7 @@ Gourmet mushrooms offer excellent profit margins and can be grown year-round.
 - Lion"s Mane (Hericium erinaceus): premium medicinal and culinary mushroom. $20-30 per pound.
 - Wine Cap (Stropharia rugosoannulata): grow outdoors on wood chips. Low-maintenance, $10-15 per pound.
 
-Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety-guide]] for safety considerations if also wild-foraging.
+Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety]] for safety considerations if also wild-foraging.
 
 ## Medicinal Herbs and Herbal Products
 

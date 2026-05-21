@@ -148,4 +148,3 @@ Complete species descriptions from [[john-ramsbottom]]"s 1945 "Poisonous Fungi" 
 **Notes**: Acrid substance dispersed in cooking, but best avoided.
 ## See Also
 
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]

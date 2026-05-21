@@ -148,4 +148,3 @@ Ibogaine is classified as a Schedule I substance in the United States. It is ill
 - [[dmt-extraction-guide]] — extraction methods for another major entheogenic compound
 - [[psychedelic-plants-legal-status]] — comprehensive legal status information
 ## See Also
-- [[endophytic-fungi-bark-root-xylotropic-specialized-hosts]]

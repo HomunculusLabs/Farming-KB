@@ -148,4 +148,3 @@ Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
 - Over 200 lbs: 50-60 drops
 See also [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home|Query How To Make Herbal Tinctures Salves And Extracts At Home]].
 
-### Administration

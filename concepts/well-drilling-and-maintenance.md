@@ -148,5 +148,3 @@ direct drive.
 - See [[solar-water-heating]] for complementary solar energy systems
 - See [[rainwater-harvesting-systems]] for combining well and rainwater
 ## See Also
-
-- [[solomon-seed-drilling-spacing-precision-sowing]]

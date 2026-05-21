@@ -38,7 +38,7 @@ Solomon identifies several tools as essential for the serious vegetable gardener
 - Solomon distinguishes between several types:
   - The draw hoe (traditional pattern): Pulled toward the gardener for weeding and hilling.
   - The scuffle hoe (stirrup hoe or oscillating hoe): Pushed and pulled with a slicing action; excellent for small weeds in loose soil.
-  - The collinear hoe (developed by [[coleman-row-cover-fabric-management]] and hoops:** For [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+  - The [[collinear-hoe]] (developed by coleman-row-cover-fabric-management and hoops:** For query-how-to-protect-plants-from-frost-and-extend-the-growing-season.
 
 **Cleaning and rust prevention:**
 
@@ -87,7 +87,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish home garden tool selection and care
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Home Garden Tool Selection And Care finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

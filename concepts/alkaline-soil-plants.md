@@ -148,6 +148,3 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Oryzopsis miliacea** (smilo, millet grass)
 See also [[alkaline-soil-tolerant-plants-permaculture|Alkaline Soil Tolerant Plants Permaculture]].
 See also [[acid-and-alkaline-soil-management|Acid And Alkaline Soil Management]].
-See also [[plants-tolerant-of-alkaline-soils|Plants Tolerant Of Alkaline Soils]].
-- **Ribes spp**
-- **Sambucus spp** (elder) — edible fruits, flowers, roots

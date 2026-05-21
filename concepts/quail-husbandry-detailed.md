@@ -148,4 +148,3 @@ several color and production varieties:
 - 1 male per 2-3 females in breeder cages.
 See also [[comparison-rabbit-vs-quail-husbandry|Comparison Rabbit Vs Quail Husbandry]].
 - Males become aggressive in crowded conditions. Monitor and separate.
-- Breeding season: year-round with 14+ hours of light.

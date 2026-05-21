@@ -25,9 +25,9 @@ cultivation cycles.
 ## What Are Volunteer Primordia?
 
 Volunteer primordia are miniature mushrooms that form
-spontaneously on the surface of agar culture media, without
+spontaneously on the surface of [[agar-culture-media]], without
 any deliberate environmental triggering by the cultivator.
-Their formation indicates that the mycelium has reached a
+Their formation indicates that the [[mycelium]] has reached a
 state of developmental maturity sufficient to initiate
 the growing-gourmet-mushroom-life-cycle
 is the mycelial path leading to primordia formation. To this
@@ -43,10 +43,10 @@ include:
 
   - Agrocybe aegerita (Black Poplar Mushroom)
   - Flammulina velutipes (Enokitake)
-  - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]])
-  - [[growing-gourmet-hypholoma-capnoides-cultivation]] (Clustered Woodlover)
+  - growing-gourmet-abalone-oyster-cystidiosus-cultivation)
+  - growing-gourmet-hypholoma-capnoides-cultivation (Clustered Woodlover)
   - Hypholoma sublateritium (Kuritake)
-  - [[growing-gourmet-strain-senescence-degeneration]].
+  - growing-gourmet-strain-senescence-degeneration.
 Speed of growth decelerates. If not entirely dying out, the
 strain is reduced to an anemic state of slow growth,
 eventually incapable of fruiting.

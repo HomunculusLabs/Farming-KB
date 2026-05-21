@@ -15,7 +15,7 @@ Mushrooms suitable for cultivation span a wide range of species with diverse sub
 The second most cultivated mushroom worldwide. Grows on hardwood logs (oak, maple, alder) or supplemented sawdust blocks. Prefers cooler temperatures (50-75 F for fruiting). Rich, umami flavor. Medicinal properties include immune system modulation and cholesterol reduction.
 
 ## Oyster Mushrooms (Pleurotus spp.)
-Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyster), P. eryngii (king oyster), P. citrinopileatus (golden oyster), P. djamor (pink oyster). Extremely aggressive colonizers that grow on straw, sawdust, paper, coffee grounds, and many agricultural wastes. Wide temperature range. One of the easiest mushrooms to cultivate. Also valuable for [[mycoremediation-overview]].
+Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyster), P. eryngii (king oyster), P. citrinopileatus (golden oyster), P. djamor (pink oyster). Extremely aggressive colonizers that grow on straw, sawdust, paper, coffee grounds, and many agricultural wastes. Wide temperature range. One of the easiest mushrooms to cultivate. Also valuable for [[mycoremediation]].
 
 ## King Stropharia (Stropharia rugoso-annulata)
 Also called "wine cap" or "garden giant." Grows well in outdoor garden settings on wood chips and straw. Large, burgundy-capped mushrooms with a mild flavor. Excellent for permaculture gardens. Can fruit prolifically from outdoor beds. Stamets recommends it as a companion species in mycofiltration installations.

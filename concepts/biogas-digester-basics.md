@@ -148,4 +148,3 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 
 See also [[mollison-designers-biogas-digester-sewage-treatment|Mollison Designers Biogas Digester Sewage Treatment]].
 - Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
-## See Also

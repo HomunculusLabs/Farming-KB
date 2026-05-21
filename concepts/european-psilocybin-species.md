@@ -148,4 +148,3 @@ Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samp
 On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina species mistaking them for Psilocybe. Two recovered after medical treatment; a 16-year-old girl died on December 24. Galerina species contain the same deadly amatoxins as [[amanita-phalloides]] — symptoms are insidious with a 12-hour latency period during which irreversible internal damage occurs.
 ## See Also
 
-- [[psilocybin-mushroom-european-prevalence-and-trends]]

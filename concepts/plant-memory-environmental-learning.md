@@ -4,7 +4,6 @@ created: 2026-04-28
 updated: 2026-04-28
 type: concept
 tags: [plant-biology, plant-memory, epigenetics, priming, stress-memory,
-       vernalization, seed-dormancy, phenotypic-plasticity]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 ## Plant Memory and Environmental Learning

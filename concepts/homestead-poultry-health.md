@@ -148,4 +148,3 @@ of disease on your homestead.
 - **Newcastle Disease:** Live vaccine, can be administered in water or by
 See also [[cho-poultry-natural-farming-methods|Cho Poultry Natural Farming Methods]].
   eye drop. Recommended in areas where ND is endemic.
-- **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for

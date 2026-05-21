@@ -148,4 +148,3 @@ As an extra safety margin, the USDA recommends boiling all home-canned vegetable
 1. Open the jar
 See also [[query-how-do-i-use-pressure-canning-to-safely-preserve-food-at-home|Query How Do I Use Pressure Canning To Safely Preserve Food At Home]].
 2. Transfer contents to a saucepan
-3. Bring to a rolling boil

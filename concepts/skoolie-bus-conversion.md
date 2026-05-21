@@ -148,5 +148,3 @@ Build a stud wall framework inside the bus:
 1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
 See also [[permaculture-energy-systems-and-conversion-efficiency|Permaculture Energy Systems And Conversion Efficiency]].
 See also [[village-energy-systems-and-conversion-efficiency|Village Energy Systems And Conversion Efficiency]].
-2. Install ceiling (thin plywood or paneling)
-3. Install flooring

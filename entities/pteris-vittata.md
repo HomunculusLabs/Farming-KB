@@ -77,3 +77,7 @@ P. vittata is widely cultivated as an ornamental fern in tropical and subtropica
 Garden cultivation requires well-drained soil in partial shade to full sun. The fern is remarkably drought-tolerant once established and tolerates poor, sandy, or calcareous soils where many other ferns fail to thrive.
 Further research into pteris vittata continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind pteris vittata provides a foundation for both practical application and continued scientific inquiry.
+
+## Additional Notes
+
+Continued research into pteris vittata reveals connections to broader ecological systems.

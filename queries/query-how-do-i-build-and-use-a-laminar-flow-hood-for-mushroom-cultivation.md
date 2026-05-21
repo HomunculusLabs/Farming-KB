@@ -3,7 +3,7 @@ title: "How Do I Build and Use a Laminar Flow Hood for Mushroom Cultivation?"
 tags: [query, mushroom-cultivation, laminar-flow-hood, sterile-technique, diy-equipment]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ["raw/papers/laminar-flow-hood-construction-1.md"]
 ---
 
 # How Do I Build and Use a Laminar Flow Hood for Mushroom Cultivation?

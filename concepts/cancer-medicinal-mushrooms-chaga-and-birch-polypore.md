@@ -14,15 +14,15 @@ tags: [chaga, medicine, mushroom-cultivation, mushrooms]
 
 Chaga (Inonotus obliquus) and Birch Polypore (Piptoporus betulinus) are two
 [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] or liquid cultured broth were identified in this survey
-  - Classified among commercially developed [[query-what-are-the-best-mushrooms-for-medicinal-use]] purposes, suggesting an intuitive
+  - Classified among commercially developed query-what-are-the-best-mushrooms-for-medicinal-use purposes, suggesting an intuitive
 understanding of their healing properties in prehistoric times.
 
 ## The Polyporales: An Under-Investigated Order
 
 The Polyporales order contains many of the most important [[stamets-reishi-ganoderma-lucidum-cultivation]] (Reishi) -- >100 polysaccharides, >100 triterpenoids,
     >$1.6 billion annual market
-  - [[fomes-fomentarius]] -- beta-glucan identified from fruiting body
-  - [[chaga]]
+  - fomes-fomentarius -- beta-glucan identified from fruiting body
+  - chaga
 - [[inonotus-obliquus]]
 - [[polyporales-order]]
 

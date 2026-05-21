@@ -147,6 +147,4 @@ In addition to standard emergency supplies, include:
 ## Long-Term Flood Mitigation
 
 See also [[fukuoka-textdoc-flood-irrigation-clover-suppression|Fukuoka Textdoc Flood Irrigation Clover Suppression]].
-See also [[fukuoka-plow-hardens-soil-flood-mechanism|Fukuoka Plow Hardens Soil Flood Mechanism]].
-- Work with local agencies on [[watershed-management]] and drainage improvements
-- Consider relocating structures if flooding is frequent and severe
+See also [[fukuoka-plow-hardens-soil-flood-mechanism|Fukuoka Plow Hardens Soil Flood Mechanism]]. See also [[hurricane-preparedness-guide]].

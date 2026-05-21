@@ -34,7 +34,7 @@ Three experimental approaches are used:
   - Using a cellophane membrane below fungal material, restricting fungal
     growth into the agar while allowing passage of small soluble metabolites
     and volatiles
-  - Cross-walled Petri dishes that permit only [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] to pass
+  - Cross-walled Petri dishes that permit only query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms to pass
     between compartments
 
 ### Influence of Media and Growth Conditions

@@ -32,7 +32,7 @@ emphasizes selecting large-diameter, thick-walled species:
     the tropics, culms 10-15 cm diameter
   - Dendrocalamus asper: Large-diameter bamboo (15-20 cm), very
     strong, preferred for heavy structural applications
-  - Gigantochloa apus: [[guadua-angustifolia]]: [[phyllostachys-edulis]] (Moso): Temperate bamboo suitable for
+  - Gigantochloa apus: guadua-angustifolia: phyllostachys-edulis (Moso): Temperate bamboo suitable for
     construction in [[comparison-bamboo-construction-vs-cob-building]]. Unlike timber,
 bamboo is hollow and segmented by nodes, requiring specialized
 connection methods:

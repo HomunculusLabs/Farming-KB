@@ -4,7 +4,6 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [plant-biology, photoreception, evolution, comparative-biology,
-       phototropin, phytochrome, rhodopsin, photoreceptors]
 sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 

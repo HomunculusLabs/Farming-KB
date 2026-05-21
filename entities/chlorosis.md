@@ -15,9 +15,9 @@ Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlor
 - **Type**: Visual symptom of nutrient deficiency or toxicity
 - **Expression**: Yellowing of leaf tissue, ranging from pale green to white
 - **Pattern types**:
-  - **Interveinal chlorosis**: Yellowing between veins while veins remain green (iron, manganese, [[query-how-to-fix-magnesium-deficiency-in-cannabis]])
+  - **Interveinal chlorosis**: Yellowing between veins while veins remain green (iron, manganese, query-how-to-fix-magnesium-deficiency-in-cannabis)
   - **Uniform chlorosis**: Even yellowing across the entire leaf including veins (nitrogen, sulphur deficiency)
-  - **Marginal chlorosis**: Yellowing starting at leaf edges and tips ([[knf-potassium-deficiency-and-excess]])
+  - **Marginal chlorosis**: Yellowing starting at leaf edges and tips (knf-potassium-deficiency-and-excess)
 
 ## Key Facts
 

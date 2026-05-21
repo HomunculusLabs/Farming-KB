@@ -84,6 +84,6 @@ understanding and develop practical innovations for the field.
 
 - [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]
 - [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
-- [[amanita-muscaria-guide]]
+- [[amanita-muscaria]]
 - [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]]
 - [[arthur-christmas-tree-amanita-muscaria]]

@@ -2,7 +2,6 @@
 title: "Bloomfield Ingoldian Aquatic Fungi Spore Dispersal"
 created: 2026-04-28
 tags: [ingoldian-fungi, aquatic-fungi, spore-dispersal, tetraradiate-spores,
-      cecil-ingold, leaf-decomposition, stream-ecology, freshwater-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

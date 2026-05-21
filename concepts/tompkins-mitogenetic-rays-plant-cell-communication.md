@@ -2,7 +2,6 @@
 title: tompkins mitogenetic rays plant cell communication and Plant Cell Communication
 created: 2026-04-28
 tags: [mitogenetic-rays, gurwitsch, ultraviolet, cell-communication,
-      cell-division, bioelectromagnetics, soviet-research, plant-signals]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

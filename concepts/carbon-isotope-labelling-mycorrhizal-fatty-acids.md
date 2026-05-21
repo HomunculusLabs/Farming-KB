@@ -26,7 +26,7 @@ The method enables researchers to:
   - Test hypotheses about relative carbon allocation under different
     environmental conditions
   - Estimate how much different plant species allocate to the AM symbiosis
-  - Investigate [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycle
+  - Investigate dighton-fungi-elevated-co2-global-carbon-cycling cycle
 
 ## Ecological Significance
 

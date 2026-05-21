@@ -5,8 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md] ---
-
----
 ## Mushroom Polysaccharide Chemistry and Anti-Cancer Compounds
 
 The main anti-tumour compounds isolated from [[arbuscular-mycorrhizal-spore-extraction-methods]]. Research in this field has produced several

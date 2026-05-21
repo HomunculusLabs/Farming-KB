@@ -148,6 +148,3 @@ Keep a packed bag for each family member and pet at all times during fire season
 - Keep insurance agent contact information readily available
 See also [[wildfire-firestorm-mechanics|Wildfire Firestorm Mechanics]].
 See also [[wildfire-spread-factors-and-firestorm-conditions|Wildfire Spread Factors And Firestorm Conditions]].
-See also [[stock-management-and-personal-survival-in-wildfire|Stock Management And Personal Survival In Wildfire]].
-- Inventory all major purchases and improvements as they are made
-## See Also

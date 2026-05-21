@@ -13,7 +13,7 @@ tags: [medicine, mushroom-cultivation, mushrooms]
 ## Overview
 
 Beta-glucans are the primary bioactive polysaccharides responsible for the
-immunomodulatory and antitumour properties of medicinal mushrooms. These
+immunomodulatory and antitumour properties of [[medicinal-mushrooms]]. These
 compounds are [[fungal-virulence-factors-host-immune-evasion]] system rather than exerting direct cytotoxicity against cancer
 cells, though some evidence suggests direct cytotoxic effects for certain
 mushroom polysaccharides as well. Mushroom-derived polysaccharides are
@@ -47,8 +47,8 @@ by size rather than by exact chemical structure.
 ## Major Beta-Glucan Products in Clinical Use
 
 Key products that have undergone Phase I, II, and III [[lentinus-edodes-entity-the-mushroom-cultivator]] (Shiitake) -- approved drug in Japan
-  - Schizophyllan from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] mycelium -- approved drug in Japan
-  - PSP from [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake) -- FDA IND approved
+  - Schizophyllan from growing-gourmet-turkey-tail-trametes-versicolor-cultivation [[mycelium]] -- approved drug in Japan
+  - PSP from maitake-grifola-frondosa-comprehensive-profile (Maitake) -- FDA IND approved
 
 All are effective by intravenous route; several can also be effective orally.
 In many cases there have been significant improvements in quality of life
@@ -70,13 +70,13 @@ Resulting immune cascade:
   - Acute phase proteins and colony-stimulating factors increase
   - B-cell antibody production enhanced
   - Helper T cell production and cytotoxic T cell differentiation promoted
-  - Dendritic [[medicinal-mushrooms]]
+  - Dendritic medicinal-mushrooms
 - [[schizophyllan]]
 - [[det]]
 
 ## Overview
 
-Cancer Medicinal Mushrooms Immune Modulation Beta Glucans represents an important element within sustainable
+[[cancer-medicinal-mushrooms]] Immune Modulation [[beta-glucans]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -84,7 +84,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish cancer medicinal mushrooms immune modulation beta glucans
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cancer Medicinal Mushrooms Immune Modulation Beta Glucans finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

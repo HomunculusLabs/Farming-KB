@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvesting, plant-growth, ethnobotany]
-sources: []
+sources:
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
 # Medicinal Herb Growing

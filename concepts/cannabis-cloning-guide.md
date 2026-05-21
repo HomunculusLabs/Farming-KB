@@ -148,5 +148,3 @@ Once roots are 1-2 inches long and visible outside the cube:
 
 ## Related
 
-- [[cannabis-seed-germination]]
-- [[plant-sensing-communication]]

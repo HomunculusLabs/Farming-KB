@@ -11,7 +11,7 @@ sources:
 ---
 ## Outdoor and Natural Mushroom Culture Methods #mushroom-cultivation #permaculture #outdoor-cultivation #forest-gardening Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 5 "Permaculture with a Mycological Twist" ## Overview Stamets presents a comprehensive permaculture framework for outdoor mushroom cultivation, integrating fungi into landscape design, waste management, and ecological restoration. The chapter covers eight categories of outdoor mushroom culture, each suited to different environments and objectives. See also [[shiitake-cultivation-log-method]], [[growing-gourmet-mushrooms-civilization-history]] grow on coniferous woods, but notable exceptions include:
   - Enokitake (Flammulina velutipes)
-  - Reishi ([[growing-gourmet-hypholoma-capnoides-cultivation]])
+  - Reishi (growing-gourmet-hypholoma-capnoides-cultivation)
   - Chicken-of-the-Woods (Laetiporus sulphureus)
   - Oyster (Pleurotus spp.)
 - See [[stem-butt-cardboard-cultivation]]

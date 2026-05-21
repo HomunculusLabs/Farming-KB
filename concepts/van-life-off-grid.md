@@ -148,5 +148,3 @@ Essential for off-grid van living. See [[off-grid-waste-management|waste managem
 
 See also [[agaricus-campestris-biology-and-life-cycle|Agaricus Campestris Biology And Life Cycle]].
 See also [[rust-fungi-biodiversity-life-cycles|Rust Fungi Biodiversity Life Cycles]].
-**Popular Options:**
-- Nature's Head: Most proven, urine diverter, 12V vent fan

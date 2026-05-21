@@ -28,7 +28,7 @@ Lentinan produces its antitumour effect by activating [[fungal-single-cell-prote
 Lentinan has been approved as a drug in Japan and is considered an important
 adjuvant treatment for several cancers. Key clinical findings:
 
-  - Phase III randomised trial with tegafur chemotherapy in [[lentinan]]
+  - Phase III randomised trial with tegafur chemotherapy in lentinan
 - [[dom]]
 - [[mycelium]]
 

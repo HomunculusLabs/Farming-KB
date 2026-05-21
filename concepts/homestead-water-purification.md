@@ -148,5 +148,3 @@ Before selecting a purification system, test your water:
 
 **How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
 ## See Also
-
-- [[mollison-designers-water-purification-and-storage-principles]]

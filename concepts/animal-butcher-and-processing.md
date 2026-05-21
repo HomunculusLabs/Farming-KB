@@ -148,5 +148,3 @@ sheep, goats, pigs, and cattle).
   rib/loin, then break individual cuts.
 See also [[animal-harvest-and-processing|Animal Harvest And Processing]].
 See also [[fungal-pathogens-animal-populations|Fungal Pathogens Animal Populations]].
-- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
-  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.

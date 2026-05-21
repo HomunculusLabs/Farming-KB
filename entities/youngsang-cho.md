@@ -33,11 +33,11 @@ Cho invented and voluntarily did not patent his technologies, choosing instead t
 - **JADAM Microorganism Solution (JMS)** — cultures beneficial indigenous microorganisms using rice washing water and potato/bean broth (see [[beneficial-indigenous-microorganisms-bim]] for comparison with other IMO methods)
 - **Crop-specific fertilizer programs** — detailed feeding schedules for rice, vegetables, fruit trees (see [[jadam-fertilizer-program]])
 - **Natural pesticide series** — targeted solutions for specific pests/diseases:
-  - Powdery mildew, downy mildew, fungal diseases (see [[jadam-pesticide-for-fungal-diseases]])
-  - Aphids and mites (see [[jadam-pesticide-for-aphids-and-mites]])
-  - Tobacco moths, beet armyworm (see [[jadam-pesticide-for-chewing-insects]])
-  - Sinkbugs, thrips (see [[jadam-pesticide-for-sucking-insects]])
-  - Slugs and snails (see [[jadam-pesticide-for-slugs-and-snails]])
+  - Powdery mildew, downy mildew, fungal diseases (see jadam-pesticide-for-fungal-diseases)
+  - Aphids and mites (see jadam-pesticide-for-aphids-and-mites)
+  - Tobacco moths, beet armyworm (see jadam-pesticide-for-chewing-insects)
+  - Sinkbugs, thrips (see jadam-pesticide-for-sucking-insects)
+  - Slugs and snails (see jadam-pesticide-for-slugs-and-snails)
   - Chicken lice, coffee pests
 - **JADAM Mineral Water (JMW)** — sea minerals and rock dust solutions (see [[jadam-mineral-water-jmw]])
 

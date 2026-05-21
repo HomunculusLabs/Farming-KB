@@ -148,5 +148,3 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
   animals and days of feeding.
 See also [[pig-forage-systems-and-range-management|Pig Forage Systems And Range Management]].
 See also [[pasture-management-and-forage|Pasture Management And Forage]].
-- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
-- Sheep: 1 ton per 5-6 adult sheep per winter.

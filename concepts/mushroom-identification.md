@@ -127,5 +127,5 @@ Essential diagnostic tool. Place cap gills-down on half white/half black paper, 
 
 See also: [[fc-ghouled]] — author of early North American psilocybin identification guide.
 - [[mushroom-toxicity-identification-warnings]]
-- [[mushroom-foraging-safety-guide]]
+- [[mushroom-foraging-safety]]
 - [[mushroom-poisoning-guide]]

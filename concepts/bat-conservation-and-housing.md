@@ -148,4 +148,3 @@ Not all bat species are equally affected:
 ### What You Can Do
 See also [[fungal-conservation-strategies|Fungal Conservation Strategies]].
 - Install bat houses to provide alternative summer roosting habitat
-- Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)

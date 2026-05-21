@@ -148,5 +148,3 @@ Some states have additional requirements. Check local regulations before selling
 
 See also [[mollison-designers-rabbit-housing-and-manure-management|Mollison Designers Rabbit Housing And Manure Management]].
 See also [[rabbit-husbandry-and-breeding-in-permaculture-systems|Rabbit Husbandry And Breeding In Permaculture Systems]].
-## Waste Utilization
-## See Also

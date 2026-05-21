@@ -147,7 +147,4 @@ need to boil to be safe — pasteurization occurs at 150F (65C) held for
 6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
 that melts at 150F — indicates when water is safe.
 See also [[comparison-solar-cooking-vs-cob-oven|Comparison Solar Cooking Vs Cob Oven]].
-See also [[comparison-solar-cooking-vs-rocket-stove|Comparison Solar Cooking Vs Rocket Stove]].
-See also [[comparison-solar-cooking-vs-solar-dehydrating|Comparison Solar Cooking Vs Solar Dehydrating]].
-
-## Limitations and Considerations
+See also [[comparison-solar-cooking-vs-rocket-stove|Comparison Solar Cooking Vs Rocket Stove]]. See also [[comparison-masonry-heater-design-vs-solar-cooking-methods]].

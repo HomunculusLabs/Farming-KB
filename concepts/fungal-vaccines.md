@@ -148,5 +148,3 @@ See [[fungal-infections-human]] for details on the diseases these vaccines aim t
 - [[fungal-mineral-transformations-biogeochemical-cycles]]
 - [[underground-fungal-networks]]
 - [[fungal-calcium-oxalate-crystals]]
-- [[mycelium-running-stamets-fungal-ecology-networks]]
-- [[mexico-global-center-neurotropic-fungal-diversity-guzman-1998]]

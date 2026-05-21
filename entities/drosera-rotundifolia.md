@@ -77,3 +77,6 @@ Charles Darwin conducted extensive experiments on D. rotundifolia, detailed in h
 ## Medicinal Uses
 Further research into drosera rotundifolia continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind drosera rotundifolia provides a foundation for both practical application and continued scientific inquiry.
+
+Drosera rotundifolia continues to be one of the most studied carnivorous plants, with ongoing research into its unique adhesive trapping mechanism and potential pharmaceutical applications.
+

@@ -148,4 +148,3 @@ Shiitake is one of the easiest mushrooms to cultivate at home:
 
 - [[medicinal-mushroom-guide-maitake]] for complementary beta-glucan rich mushroom
 - [[medicinal-mushroom-guide-reishi]] for a non-culinary medicinal mushroom comparison
-- [[medicinal-mushroom-guide-oyster]] for another cultivated medicinal edible

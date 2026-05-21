@@ -148,5 +148,3 @@ faster but cannot breed naturally.
 - Toms display (strut, fan tail, gobble) to attract hens.
 See also [[brush-turkey-alectura-lathami-mollison|Brush Turkey Alectura Lathami Mollison]].
 See also [[comparison-chaga-vs-turkey-tail|Comparison Chaga Vs Turkey Tail]].
-- Mating ratio: 1 tom per 8-10 hens.
-- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.

@@ -1,6 +1,6 @@
 ---
 title: "Salvia Divinorum and Salvinorin"
-sources: []
+sources: ["raw/concepts/salvia-divinorum.md"]
 ---
 
 ## Risk Profile and Harm Reduction

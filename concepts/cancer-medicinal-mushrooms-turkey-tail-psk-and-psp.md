@@ -35,7 +35,7 @@ Clinical profile of PSP:
   - Extensively studied by Chinese scientists and oncologists
   - Phase II and III trials showed enhanced immune status in 70-97% of
     patients with stomach, oesophageal, lung, ovarian, and cervical cancers
-  - Increased [[blesching-cannabis-safety-adverse-effects-evidence]]
+  - Increased blesching-cannabis-safety-adverse-effects-evidence
 
 ## Structural Comparison: PSK vs PSP
 
@@ -44,7 +44,7 @@ both are protein-bound polysaccharides, key differences exist:
 
   - PSK contains fucose; PSP does not
   - PSP contains arabinose and rhamnose; PSK does not
-  - [[psk-psp-polysaccharide-peptides]] is connected with a small molecular weight protein
+  - psk-psp-polysaccharide-peptides is connected with a small molecular weight protein
 
 Up to 10 protein-bound polysaccharides have been isolated (coriolan I and II
 among them), most covered by US and Japanese patents. Only PSK and PSP have

@@ -147,7 +147,4 @@ A basic 2-4 kW off-grid system:
 Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
 
 See also [[query-what-are-the-best-heating-options-for-an-off-grid-homestead|Query What Are The Best Heating Options For An Off Grid Homestead]].
-See also [[cotter-off-grid-mushroom-cultivation|Cotter Off Grid Mushroom Cultivation]].
-See also [[off-grid-energy-and-homestead-infrastructure|Off Grid Energy And Homestead Infrastructure]].
-## Conservation First
-## See Also
+See also [[cotter-off-grid-mushroom-cultivation|Cotter Off Grid Mushroom Cultivation]]. See also [[cervantes-grow-room-electricity-basics]].

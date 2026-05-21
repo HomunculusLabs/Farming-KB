@@ -55,7 +55,7 @@ abundance. Six spots gave positive identifications after MALDI-TOF peptide
 mass fingerprinting:
 
   - **Alanine aminotransferase**: [[enzyme]] of primary metabolism
-  - **Serine/threonine kinase**: [[fungal-environmental-sensing-signal-transduction]], protein transport,
+  - **Serine/threonine kinase**: fungal-environmental-sensing-signal-transduction, protein transport,
     and [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]
   - **40S ribosomal protein S5**: Involved in protein synthesis
   - **Glutathione-S-transferase** (two spots): Associated with stress

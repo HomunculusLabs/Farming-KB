@@ -148,5 +148,3 @@ For documentation and identification purposes:
 - [[spore-print]] (if possible)
 See also [[macrofungal-documentation-photography-spore-prints|Macrofungal Documentation Photography Spore Prints]].
 See also [[tompkins-kirlian-photography-plant-auras|Tompkins Kirlian Photography Plant Auras]].
-
-### Time-Lapse

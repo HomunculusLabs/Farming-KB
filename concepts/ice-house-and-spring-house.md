@@ -148,5 +148,3 @@ chill food stored in the structure.
 - Cool storage for beverages
 See also [[equatorial-house-design-essentials|Equatorial House Design Essentials]].
 See also [[mushroom-house-fumigation-and-sanitation-procedures|Mushroom House Fumigation And Sanitation Procedures]].
-- Milk cooling before processing
-- Fermentation temperature control

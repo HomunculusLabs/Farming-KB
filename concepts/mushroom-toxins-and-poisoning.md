@@ -88,7 +88,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 **Chemistry:** Ibotenic acid is a glutamate receptor agonist that acts as a neurotoxin. In the body, it is partially decarboxylated to muscimol, a GABA-A receptor agonist with sedative-hallucinogenic properties.
 
-**Species:** [[amanita-muscaria-guide|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
+**Species:** [[amanita-muscaria|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
 
 **Symptoms:** Variable and unpredictable -- agitation, confusion, dizziness, visual distortions, hallucinations, drowsiness, and deep sleep. Effects typically begin 30-60 minutes after ingestion and last 4-8 hours.
 

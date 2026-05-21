@@ -77,3 +77,5 @@ The species acts as a pioneer on bark surfaces in polluted areas, establishing b
 
 It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to [[lecanora-chlarotera]]
 - [[lecanora-muralis]]
+
+Further research continues to expand understanding of lecanora conizaeoides and its ecological significance.

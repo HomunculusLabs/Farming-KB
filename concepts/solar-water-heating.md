@@ -148,5 +148,3 @@ In climates with freezing temperatures, freeze protection is essential:
   through the collector during freezing conditions (wastes some heat)
 See also [[mollison-designers-solar-water-heating-systems|Mollison Designers Solar Water Heating Systems]].
 See also [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods|Comparison Biomass Compost Greenhouse Heating Systems Vs Solar Cooking Methods]].
-
-## Maintenance

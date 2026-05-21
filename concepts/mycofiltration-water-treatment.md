@@ -51,7 +51,7 @@ Once a mycofiltration habitat is constructed, ecological recovery unfolds and na
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[mycoremediation]]
 - [[mycoforestry-forest-restoration]]
 - [[fungal-enzyme-systems-bioremediation]]
 - [[paul-stamets]]

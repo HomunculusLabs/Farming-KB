@@ -71,7 +71,7 @@ In a genetic experiment, reproduction control serves the interests of the creato
 ### Commandment 4: Suppression of Desire
 > "You will not covet the things that you do not have."
 
-Desire itself is made sinful. Acceptance of one"s present condition is elevated as a virtue, quenching ambition and the desire for freedom. The "haves" maintain control by making the "have-nots"" desire for a better life a moral transgression.
+Desire itself is made sinful. Acceptance of one"s present condition is elevated as a virtue, quenching ambition and the desire for freedom. The "haves" maintain control by making the "have-nots" desire for a better life a moral transgression.
 
 ## Hammurabi and the Biblical Laws
 

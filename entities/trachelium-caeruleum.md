@@ -77,3 +77,7 @@ The species serves as a larval host for several Lepidoptera species in its nativ
 Birds, particularly finches, occasionally feed on the seeds during late autumn. The dried flower stems also provide overwintering habitat for small arthropods in naturalized populations.
 
 The plant exhibits a generalized pollination syndrome without exclusive reliance on any single pollinator group. This flexibility contributes to its success both in native habitats and when cultivated far outside its natural range.
+
+## Additional Notes
+
+Continued research into trachelium caeruleum reveals connections to broader ecological systems.

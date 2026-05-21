@@ -77,3 +77,7 @@ Babassu plays a keystone ecological role in the transitional forests of Maranhã
 Fruits are consumed and dispersed by tapirs, peccaries, agoutis, and large rodents. The hard endocarp protects seeds from most predators, but agoutis are capable of gnawing through it. Seed predation by bruchid beetles (Pachymerus spp.) can destroy 30–60% of seeds before germination.
 Further research into attalea speciosa continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind attalea speciosa provides a foundation for both practical application and continued scientific inquiry.
+
+## Additional Notes
+
+Continued research into attalea speciosa reveals connections to broader ecological systems.

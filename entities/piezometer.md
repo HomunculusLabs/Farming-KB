@@ -25,7 +25,7 @@ A piezometer is installed by:
 - Allow precise measurement of water table depth and fluctuation over time
 - Multiple installations at different depths reveal vertical groundwater movement patterns
 - Data from piezometers determines the appropriate remediation strategy:
-  - Deep seepage rising: [[interceptor-banks]] plus trees
+  - Deep seepage rising: interceptor-banks plus trees
   - Shallow seepage above B horizon: interceptor banks to cut off throughflow
   - Deep permeable soils with no cemented layer: tree planting may suffice alone
 - Should be installed before any earthworks or tree planting in salt-affected areas

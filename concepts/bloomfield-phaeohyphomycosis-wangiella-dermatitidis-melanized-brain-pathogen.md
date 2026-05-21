@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[bloomfield-amatoxin-poisoning-mechanism]]
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]

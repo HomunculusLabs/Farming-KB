@@ -147,7 +147,4 @@ If cottage food limits are too restrictive:
 
 - **Shared commercial kitchen** — Rent time in an existing licensed commercial kitchen. $15-40/hour in most areas.
 See also [[homestead-dairy-guide|Homestead Dairy Guide]].
-See also [[homestead-first-aid-guide|Homestead First Aid Guide]].
-See also [[homestead-insurance-guide|Homestead Insurance Guide]].
-- **Build a dedicated commercial kitchen** — Requires health department approval, commercial-grade equipment, three-compartment sink, hand-washing sink, separate food prep areas, proper ventilation, and more. Cost: $20,000-$100,000+ depending on scope.
-- **Co-packing** — Partner with an existing bakery to produce your recipes in their facility.
+See also [[homestead-first-aid-guide|Homestead First Aid Guide]]. See also [[homestead-insurance-guide]].

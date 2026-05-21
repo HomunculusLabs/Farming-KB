@@ -46,7 +46,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **Composition**: Yellow cornmeal 40g, agar 15g, water 1L (boil, simmer 15 min, filter, restore volume)
 - **Use**: Culture of myxomycetes, protostelids, acrasids, and filamentous fungi
 - **Variations**:
-  - CMDA: + glucose 2g, yeast extract 1g (microfungi, [[coprophilous-fungi]])
+  - CMDA: + glucose 2g, yeast extract 1g (microfungi, coprophilous-fungi)
   - CM/2: half-strength (myxomycetes)
   - ACMA: alkaline (pH 9.7) for alkalophilic fungi
 

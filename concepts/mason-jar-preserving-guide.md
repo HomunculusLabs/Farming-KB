@@ -148,4 +148,3 @@ Common homestead recipes include:
 - Do not store above 95F or below freezing
 See also [[comparison-root-cellaring-guide-vs-canning-and-preserving|Comparison Root Cellaring Guide Vs Canning And Preserving]].
 - Remove rings before storage to detect seal failure
-- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time

@@ -148,4 +148,3 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Darkness: Important
 See also [[root-cellaring-and-crop-storage|Root Cellaring And Crop Storage]].
 - Ventilation: Good
-## See Also

@@ -2,7 +2,6 @@
 title: jadam-natural-mineral-leaching-and-replenishment and Sea Salt Replenishment in query-what-is-jadam-farming-and-how-does-it-work
 created: 2026-04-28
 tags: [mineral-leaching, sea-salt, phyllite, soil-minerals, nutrient-balance,
-      JADAM, organic-farming, ultra-low-cost, trace-elements, soil-fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]

@@ -148,5 +148,3 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
 | Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
 ## See Also
-
-- [[query-how-do-i-replace-my-lawn-with-productive-or-ecological-plantings]]

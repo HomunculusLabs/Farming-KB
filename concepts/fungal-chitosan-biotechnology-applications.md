@@ -22,7 +22,7 @@ Members of the order Mucorales are the richest fungal sources of chitosan, with 
   - Callose deposition at infection sites
   - Chitinase and β-1,3-glucanase upregulation
   - Phytoalexin biosynthesis (capsidiol, resveratrol)
-  - Jasmonic acid and [[ingham-compost-tea-application-rates-and-timing]]: 0.1–1.0% chitosan solution as seed soak or coating
+  - Jasmonic acid and ingham-compost-tea-application-rates-and-timing: 0.1–1.0% chitosan solution as seed soak or coating
 
 ### Soil Amendment
 

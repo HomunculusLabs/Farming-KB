@@ -5,8 +5,6 @@ updated: 2026-05-05
 type: concept
 tags: [psychedelics, ethnobotany, entheogens]
 sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-ritual.md]
----
-
 --- 2|title: Shamanic Healing Variants and Divination
 tags: [shamanism, healing, divination, entheogens, indigenous-knowledge]
 date: 2026-04-28 5|updated: 2026-04-28 6|sources:

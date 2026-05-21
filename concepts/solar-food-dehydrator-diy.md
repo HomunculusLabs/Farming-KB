@@ -147,7 +147,4 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 3. Build adjustable vent covers from wood with a sliding mechanism
 4. Cover vents with screen to keep insects out
 See also [[query-how-to-build-and-use-a-solar-food-dehydrator|Query How To Build And Use A Solar Food Dehydrator]].
-See also [[mollison-designers-solar-food-drying-preservation|Mollison Designers Solar Food Drying Preservation]].
-See also [[comparison-solar-dehydrator-vs-electric-dehydrator|Comparison Solar Dehydrator Vs Electric Dehydrator]].
-
-## Drying Tips
+See also [[mollison-designers-solar-food-drying-preservation|Mollison Designers Solar Food Drying Preservation]]. See also [[solar-and-electric-food-drying-methods]].

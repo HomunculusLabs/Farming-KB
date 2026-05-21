@@ -23,9 +23,9 @@ animal-land integration. Pigs convert diverse feed sources into meat,
 manure, and land preparation services. Their [[mollison-designers-chicken-tractors-egg-production]], reflecting
 the size and strength of the animals. Design considerations:
 
-  - [[comparison-rotational-grazing-vs-continuous-grazing]] prevents
+  - comparison-rotational-grazing-vs-continuous-grazing prevents
     overgrazing and allows pasture recovery
-  - Root crops: Dedicated plots of [[comparison-jerusalem-artichoke-vs-potato]], sweet potato,
+  - Root crops: Dedicated plots of comparison-jerusalem-artichoke-vs-potato, sweet potato,
     mangel wurzel, and turnips provide high-energy winter forage.
     Pigs harvest these crops by rooting, eliminating the need for
     mechanical harvesting

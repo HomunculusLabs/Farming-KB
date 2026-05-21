@@ -148,5 +148,3 @@ EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
 
 See also [[query-what-is-the-difference-between-living-soil-and-hydroponic-growing|Query What Is The Difference Between Living Soil And Hydroponic Growing]].
 See also [[hydroponic-nutrient-management|Hydroponic Nutrient Management]].
-- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
-- Early vegetative: EC 0.8-1.2 (PPM 400-600)

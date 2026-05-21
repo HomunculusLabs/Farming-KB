@@ -148,5 +148,3 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 - [[mollison-designers-goat-dairy-and-cheese-production]]
 - [[cheese-making-basics]]
 - [[blue-cheese]]
-- [[query-how-do-i-make-cheese-at-home]]
-- [[cheese-cannabis]]

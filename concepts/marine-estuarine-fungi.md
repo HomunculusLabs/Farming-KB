@@ -74,7 +74,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 ### Ascomycetes (Most Diverse)
 **Key orders**:
 - *Lulworthiales*: Halosphaeriaceae (the largest family of marine Ascomycetes)
-  - *[[lulworthia]]*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
+  - *lulworthia*, *Halosphaeria*, *Ceriosporopsis*, *Remispora*, *Corollospora*, *Naufragella*
 - *Sordariales*: *Savoryella*, *Zopfiella*, *Cumulospora*
 - *Pleosporales*: *Massarina*, *Lophiostoma*, *Phaeosphaeria*, *Leptosphaeria*
 - *Xylariales*: *Xylaria* (some marine species)

@@ -148,5 +148,3 @@ A well-designed windbreak uses multiple rows with different functions:
 
 ## Benefits
 ## See Also
-
-- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]

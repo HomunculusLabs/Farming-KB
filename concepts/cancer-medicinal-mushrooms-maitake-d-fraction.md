@@ -62,7 +62,7 @@ Human clinical studies:
 
 Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
 
-  - Achieved >95% [[blesching-cannabis-prostate-cancer]] PC-3
+  - Achieved >95% blesching-cannabis-prostate-cancer PC-3
     cells in 24 hours at >=480 ug/ml
   - Vitamin C acts synergistically: 30-60 ug/ml GD plus 200 uM vitamin C
     matched the effect of 480 ug/ml GD alone

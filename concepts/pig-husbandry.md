@@ -148,5 +148,3 @@ Pigs are notorious for testing and destroying fencing.
 - Process piglets (iron injection, clip needle teeth, dock tails, castrate
   males) within first 3 days.
 ## See Also
-
-- [[cattle-husbandry-and-permaculture-integration]]

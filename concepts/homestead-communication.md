@@ -147,7 +147,4 @@ Every homestead should have a dedicated emergency communication kit:
 - 146.520 MHz — National simplex calling frequency (ham)
 - 446.000 MHz — National UHF simplex calling frequency (ham)
 See also [[marcel-vogel-plant-communication|Marcel Vogel Plant Communication]].
-See also [[chamovitz-plant-scent-communication-volatile-organic-compounds|Chamovitz Plant Scent Communication Volatile Organic Compounds]].
-See also [[mycorrhizal-networks-and-forest-communication|Mycorrhizal Networks And Forest Communication]].
-- Channel 19 (27.185 MHz) — CB emergency and trucker channel
-- FRS/GMRS Channel 1 — Family communication
+See also [[chamovitz-plant-scent-communication-volatile-organic-compounds|Chamovitz Plant Scent Communication Volatile Organic Compounds]]. See also [[fungal-autoregulatory-signals-colony-communication]].

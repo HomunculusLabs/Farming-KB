@@ -147,5 +147,4 @@ principles.
 - Candles, lip balm, salves, furniture polish
 - Waxing frames (foundation coating with a wax dip tank)
 See also [[mushroom-infused-honey-preparation|Mushroom Infused Honey Preparation]].
-- Cheese waxing and food preservation
-- See [[bee-product-medicinal-uses]] for medicinal applications
+- Cheese waxing and food preservation See also [[tea-cultivation-and-camellia-sinensis-processing]].

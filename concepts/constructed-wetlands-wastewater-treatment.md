@@ -38,7 +38,7 @@ Stormwater management systems use constructed wetlands to remove nutrients, sedi
 Emerging applications include treatment of [[graywater-systems-for-homesteads]] and even blackwater (combined with septic tank pretreatment). A typical household system requires 2-5 square meters per person for secondary treatment. Integration with [[wetland-ecology]] — natural wetland function and processes
 - [[desalination-and-water-treatment-technologies]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[phytoremediation-mechanisms]] [[petroleum-hydrocarbon-fungal-biodegradation]] [[biostimulation-techniques]] [[mycoremediation-overview]] Fungi and bacteria both contribute to nitrogen cycling in treatment systems, with distinct roles and capabilities.
+- [[phytoremediation-mechanisms]] [[petroleum-hydrocarbon-fungal-biodegradation]] [[biostimulation-techniques]] [[mycoremediation]] Fungi and bacteria both contribute to nitrogen cycling in treatment systems, with distinct roles and capabilities.
 
 ## Practical Applications
 

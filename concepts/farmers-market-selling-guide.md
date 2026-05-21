@@ -147,7 +147,4 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 ## Sales Tips
 
 See also [[soil-food-web-management-for-farmers|Soil Food Web Management For Farmers]].
-See also [[heritage-and-landrace-crop-varieties-for-small-farmers|Heritage And Landrace Crop Varieties For Small Farmers]].
-See also [[query-what-is-ecological-succession-and-how-can-farmers-use-it|Query What Is Ecological Succession And How Can Farmers Use It]].
-- Arrive early for setup (1-2 hours before market opens)
-- Stay until official close (latecomers are often buyers)
+See also [[heritage-and-landrace-crop-varieties-for-small-farmers|Heritage And Landrace Crop Varieties For Small Farmers]]. See also [[livestock-fencing-guide]].

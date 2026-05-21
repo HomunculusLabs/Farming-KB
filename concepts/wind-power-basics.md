@@ -147,7 +147,4 @@ When batteries are full and the wind is blowing, excess energy must be diverted 
 - Requires utility approval and interconnection agreement
 - Utility may not allow wind turbines in some areas
 See also [[holmgren-wind-power-and-renewable-energy-debate|Holmgren Wind Power And Renewable Energy Debate]].
-See also [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent|Ayahuasca Chullachaki Forest Spirits Huairamama Wind Serpent]].
-See also [[wind-patterns-harmonics-beaufort-scale|Wind Patterns Harmonics Beaufort Scale]].
-
-### Off-Grid
+See also [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent|Ayahuasca Chullachaki Forest Spirits Huairamama Wind Serpent]]. See also [[comparison-biogas-digester-basics-vs-micro-hydro-power]].

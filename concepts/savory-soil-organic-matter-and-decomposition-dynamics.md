@@ -2,7 +2,6 @@
 title: "Soil hamilton-composting-and-organic-matter-management and Decomposition Dynamics"
 created: 2026-04-28
 tags: [holistic-management, soil-organic-matter, decomposition,
-      mineral-cycle, soil-biology, carbon-sequestration, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]

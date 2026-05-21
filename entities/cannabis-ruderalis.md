@@ -20,7 +20,7 @@ aliases:
   - Ruderal Hemp
   - Ditch Weed
   - C. sativa var. spontanea
-  - [[comparison-cannabis-sativa-vs-cannabis-ruderalis]]* is the third recognized subspecies of cannabis, classified as *C. sativa* var. *spontanea* under the International Code of Botanical Nomenclature. Originally described by Russian botanist Dmitrij E. Janischevsky in 1924 from populations in Central Asia and southeastern Russia, it is distinguished from *C. sativa* var. *sativa* and *C. sativa* var. *indica* by its short stature, weedy growth habit, low THC content, and critically, its automatic [[cannabis-glandular-trichome-types-resin-production-clarke]]
+  - comparison-cannabis-sativa-vs-cannabis-ruderalis* is the third recognized subspecies of cannabis, classified as *C. sativa* var. *spontanea* under the International Code of Botanical Nomenclature. Originally described by Russian botanist Dmitrij E. Janischevsky in 1924 from populations in Central Asia and southeastern Russia, it is distinguished from *C. sativa* var. *sativa* and *C. sativa* var. *indica* by its short stature, weedy growth habit, low THC content, and critically, its automatic cannabis-glandular-trichome-types-resin-production-clarke
 - **Seeds:** Small, round seeds that shatter readily at maturity (auto-seeding mechanism)
 - **Root system:** Shallow but extensive lateral roots adapted to poor soils
 - **Lifecycle:** Extremely fast — seed to maturity in approximately 8–10 weeks

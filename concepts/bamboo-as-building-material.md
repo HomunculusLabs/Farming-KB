@@ -148,5 +148,3 @@ Bamboo scaffolding is still standard in many parts of Asia. Lightweight, strong,
 - Climate restriction: Best suited for tropical and subtropical regions; temperate-zone species are smaller
 See also [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started|Query Can Bamboo Be Used As A Building Material And How Do I Get Started]].
 See also [[comparison-bamboo-construction-vs-cob-building|Comparison Bamboo Construction Vs Cob Building]].
-- Code compliance: Building codes rarely address bamboo — may require engineering approval
-## See Also

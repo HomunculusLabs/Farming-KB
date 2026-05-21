@@ -2,7 +2,6 @@
 title: "Game Ranching and Wildlife Conversion"
 created: 2026-04-28
 tags: [holistic-management, game-ranching, wildlife-enterprise,
-      wildlife-livestock-integration, alternative-enterprises, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]

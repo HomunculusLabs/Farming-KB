@@ -2,7 +2,6 @@
 title: comparison-sheet-mulching-vs-chop-and-drop-mulching No-Dig Garden Preparation
 created: 2026-04-28
 tags: [sheet-mulching, no-dig-gardening, lasagna-gardening, soil-preparation,
-      weed-suppression, mulch-layers, permaculture, organic-matter, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]

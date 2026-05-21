@@ -95,7 +95,7 @@ Related topics include [[agar-to-grain-wedge-transfer-technique]] and associated
 
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[cotter-mushroom-garden-design]]
-- [[mycoremediation-overview]]
+- [[mycoremediation]]
 - [[cotter-natural-pest-control-disease-management]]
 - [[falconer-steeped-spawn-and-transplanting]]
 ## Practical Applications

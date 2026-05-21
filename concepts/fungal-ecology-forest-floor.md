@@ -54,7 +54,7 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- [[mycoremediation-overview]]
+- [[mycoremediation]]
 - [[mushroom-foraging-safety]]
 ## Historical Context
 

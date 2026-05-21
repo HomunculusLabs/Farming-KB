@@ -25,7 +25,7 @@ sources:
 
 # Mushroom Folklore and Culture
 
-The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria-guide]] for Amanita-specific traditions.
+The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria]] for Amanita-specific traditions.
 
 ## Prehistoric and Ancient Roots
 
@@ -141,7 +141,7 @@ The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belo
 ## See Also
 
 - [[psychedelic-mushroom-history]] — Chronological timeline from prehistoric to modern
-- [[amanita-muscaria-guide]] — Fly agaric identification, chemistry, and Siberian use
+- [[amanita-muscaria]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
 - [[mushroom-identification-resources]] — Identification methods and safety
 - [[edible-wild-mushrooms-by-region]] — Regional foraging guide

@@ -49,7 +49,7 @@ Using a plurality of species creates a synergistic effect for more complete degr
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[mycoremediation]]
 - [[mycoremediation-petroleum-hydrocarbons]]
 - [[mycoremediation-of-heavy-metals]]
 - [[fungal-enzyme-systems-bioremediation]]

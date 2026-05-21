@@ -60,7 +60,7 @@ Effective for weeds in rows and pathways. Disturbs only the top inch of soil, mi
   - **Draw hoe**: Pull toward you; good for pushing soil away from rows
   - **Stirrup hoe (oscillating hoe)**: Cuts on both push and pull strokes; most efficient for row weeding
   - **Collinear hoe**: Sharp, narrow blade; works in tight spaces between crops
-  - **Wheel hoe**: Push-pull hoe mounted on wheels; efficient for larger gardens (see [[no-till-gardening-method]])
+  - **Wheel hoe**: Push-pull hoe mounted on wheels; efficient for larger gardens (see no-till-gardening-method)
 - **Timing**: Hoe on a dry, sunny day — exposed weed roots dry out and die quickly. Hoeing in wet weather allows pulled weeds to re-root.
 - **Depth**: Cultivate no deeper than 1 inch. Deep hoeing brings new weed seeds to the surface.
 
@@ -146,7 +146,5 @@ Sheet mulching smothers existing vegetation and weed seeds under multiple layers
 - Some persistent perennial weeds (bindweed, nutsedge) may push through the cardboard
 - Takes several months for full effectiveness — not an instant solution
 - Heavy cardboard may impede water infiltration initially
-- See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems
+- See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems See also [[weed-management-and-ecological-weed-control]].
 ## See Also
-
-- [[jadam-weed-control-strategies-natural]]

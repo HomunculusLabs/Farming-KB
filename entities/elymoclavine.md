@@ -77,3 +77,6 @@ Elymoclavine is unscheduled in many countries but falls under
 analogue drug legislation in jurisdictions that control lysergamide
 Further research into elymoclavine continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind elymoclavine provides a foundation for both practical application and continued scientific inquiry.
+
+Research into elymoclavine continues to reveal its significance as both a biosynthetic intermediate and a compound with its own distinct pharmacological properties within the ergoline family.
+

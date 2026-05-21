@@ -60,7 +60,7 @@ sources:
 
 - **Generalized anxiety disorder (GAD):**
   - Multiple RCTs: efficacy comparable to low-dose benzodiazepines (buspirone, oxazepam)
-  - Cochrane review (2003): significant reduction in Hamilton Anxiety [[shulgin-rating-scale]] scores
+  - Cochrane review (2003): significant reduction in Hamilton Anxiety shulgin-rating-scale scores
 - **Insomnia:** Improves sleep onset latency and quality; does not suppress REM sleep
 - **Stress and tension:** Reduces perceived stress; muscle-relaxant effects alleviate somatic symptoms
 - **Menopausal symptoms:** Reduces anxiety, irritability, sleep disturbance in perimenopause

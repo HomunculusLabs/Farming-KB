@@ -2,7 +2,6 @@
 title: "savory elephant culling and wildlife population policy and Wildlife Population Policy"
 created: 2026-04-28
 tags: [holistic-management, elephant-culling, wildlife-population,
-      national-parks, overbrowsing, predator-prey, brittle-environments]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]

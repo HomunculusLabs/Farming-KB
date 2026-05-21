@@ -148,5 +148,3 @@ If you are new to an area:
 - Host a potluck — food brings people together
 - Be reliable — your reputation is built on follow-through
 ## See Also
-
-- [[urban-permaculture-community-building-social-design]]

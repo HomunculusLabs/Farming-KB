@@ -148,5 +148,3 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 5. **Death**: Toxins (destruxins in Metarhizium, beauvericin in Beauveria) and nutrient depletion kill the host
 6. **Sporulation**: Under appropriate conditions, fungus emerges from the cadaver and produces conidia for dispersal
 ## See Also
-
-- [[fungal-parasites-predators-rotifers-invertebrates]]

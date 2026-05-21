@@ -146,7 +146,5 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 **Drop, Cover, and Hold On:**
 1. DROP to your hands and knees
 2. Take COVER under a sturdy desk or table
-3. HOLD ON until the shaking stops
+3. HOLD ON until the shaking stops See also [[wildfire-preparedness-guide]].
 ## See Also
-
-- [[hurricane-preparedness-guide]]

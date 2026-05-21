@@ -148,5 +148,3 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 
 ## General Principles for All Earthworks
 ## See Also
-
-- [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]

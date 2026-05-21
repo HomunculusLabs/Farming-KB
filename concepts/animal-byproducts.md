@@ -55,8 +55,8 @@ A core permaculture principle is that every output of one system becomes an inpu
 - **Composition:** ~94% calcium carbonate (CaCO3), plus small amounts of magnesium, phosphorus, and trace minerals
 - **Preparation:** Rinse, dry, crush, then bake at 250F for 20 minutes to sterilize; powder in a blender or mortar and pestle
 - **Uses:**
-  - **[[water-soluble-calcium-wca]] input:** Powdered eggshells + [[brown-rice-vinegar-brv]] produce water-soluble calcium for KNF applications; 10g eggshell powder per 100ml BRV
-  - **[[soil-fertility-management]]:** Direct incorporation into soil or compost at 0.5-1 lb/100 sq ft for calcium; slow-release (takes months to break down in soil); works best when powdered
+  - **water-soluble-calcium-wca input:** Powdered eggshells + brown-rice-vinegar-brv produce water-soluble calcium for KNF applications; 10g eggshell powder per 100ml BRV
+  - **soil-fertility-management:** Direct incorporation into soil or compost at 0.5-1 lb/100 sq ft for calcium; slow-release (takes months to break down in soil); works best when powdered
   - **Chicken/duck feed supplement:** Bake, crush, and offer free-choice to laying poultry for calcium recycling; coarse particles preferred (birds retain coarse grit in gizzard for calcium mobilization)
   - **Seedling starter:** Sprinkle powder in planting holes for transplants (tomatoes, peppers) to prevent blossom end rot
   - **Slug deterrent:** Sharp crushed shells around vulnerable plants create a physical barrier
@@ -66,11 +66,11 @@ A core permaculture principle is that every output of one system becomes an inpu
 
 - **Composition:** ~30% organic matrix (collagen), ~65% hydroxyapatite (calcium phosphate), ~5% water; rich in phosphorus (12-16% P2O5) and calcium (20-25%)
 - **Uses:**
-  - **[[water-soluble-calcium-phosphate-wcp]] input:** Charred bones (not ashed) + BRV produce water-soluble calcium phosphate; essential KNF input for the changeover period in the [[nutritive-cycle-theory]]
+  - **water-soluble-calcium-phosphate-wcp input:** Charred bones (not ashed) + BRV produce water-soluble calcium phosphate; essential KNF input for the changeover period in the nutritive-cycle-theory
   - **Bone char production:** Char bones at 400-600F in a covered container (not open flame — that produces ash); charred bones retain phosphorus structure while becoming porous; crush to 0.5-1 in pieces for WCP extraction
   - **Bone meal:** Dry bones thoroughly, then grind in a heavy-duty blender or hammer mill; apply at 1-2 lbs per 100 sq ft for slow-release phosphorus and calcium; NPK approximately 3-15-0
   - **Stock pot broth:** Large bones (goat, poultry) simmered 12-24 hours for mineral-rich broth; remaining bones can then be charred or composted
-  - **Vermicompost enhancer:** Crushed bones added to [[vermicomposting]] bins provide slow-release calcium and phosphorus for worms
+  - **Vermicompost enhancer:** Crushed bones added to vermicomposting bins provide slow-release calcium and phosphorus for worms
 - **Safety:** Always char or compost bones; raw bones attract pests; bone meal from cooked/slaughtered animals is safe; avoid bones from diseased animals
 
 ## Blood Meal

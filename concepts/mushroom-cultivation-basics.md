@@ -148,5 +148,3 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - **Light introduction** (indirect ambient light, not direct sun)
 ## See Also
 
-- [[enclosed-ecosystem-mushroom-cultivation]]
-- [[community-garden-mushroom-integration]]

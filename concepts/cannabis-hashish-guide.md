@@ -148,4 +148,3 @@ Made from fresh frozen cannabis (harvested and immediately frozen rather than dr
 - Considered the premium tier of solventless concentrates
 See also [[hashish-preparation-and-cannabis-products|Hashish Preparation And Cannabis Products]].
 
-## Storage and Consumption

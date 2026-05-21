@@ -146,7 +146,5 @@ Note: Fermented pickles can also be canned, but the heat of water bath processin
 - Bitter taste: possibly from spices; check mustard seeds and clove amounts
 
 ## See Also
+- [[advanced-cannabis-breeding-ibl-strains-hash-making]] See also [[comparison-beer-brewing-vs-cider-making]].
 
-- [[kimchi-making]] — Korean fermented vegetable tradition
-- [[hot-sauce-making]] — another spicy fermented or vinegar-preserved condiment
-- [[vinegar-making]] — making your own vinegar for pickling

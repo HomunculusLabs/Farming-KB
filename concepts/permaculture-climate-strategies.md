@@ -148,4 +148,3 @@ From Mollison's detailed treatment:
 - Used for frost-sensitive species, early vegetables, and livestock shelters
 ## See Also
 
-- [[mollison-climate-zones-permaculture-strategies]]

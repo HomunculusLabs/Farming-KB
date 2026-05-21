@@ -49,8 +49,8 @@ sources:
 
 - **Native range:** Europe, from southern Sweden and the British Isles to the Mediterranean, eastward through Turkey to the Caucasus
 - **Introduced range:** New Zealand, [[fagus-sylvatica]]* (European beech)
-  - *[[carpinus-betulus]]* (hornbeam), *Ostrya carpinifolia*
-  - *[[fruiting-initiation]]
+  - *carpinus-betulus* (hornbeam), *Ostrya carpinifolia*
+  - *fruiting-initiation
 - **Soil management:** Regular liming to maintain pH > 7.0; avoidance of excessive nitrogen fertilization
 
 ### Advantages over *T. melanosporum*

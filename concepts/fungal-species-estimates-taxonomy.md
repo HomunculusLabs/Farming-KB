@@ -85,10 +85,10 @@ This gap means the vast majority of fungal species remain unknown to science.
 ### Cryptic Species
 - Many "known" species are actually species complexes
 - Examples:
-  - *[[amanita-muscaria]]*: 6+ phylogenetic species globally
-  - *[[pleurotus-ostreatus]]* complex: Multiple species across continents
-  - *[[armillaria-mellea]]* complex: At least 10+ species in North America alone
-  - *[[fusarium-graminearum]]* complex: 15+ phylogenetic species
+  - *amanita-muscaria*: 6+ phylogenetic species globally
+  - *pleurotus-ostreatus* complex: Multiple species across continents
+  - *armillaria-mellea* complex: At least 10+ species in North America alone
+  - *fusarium-graminearum* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 
 ### DNA-Based Species Discovery
@@ -148,5 +148,3 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Include *Phytophthora infestans* (potato blight), *Pythium* (damping-off)
 - ~700 described species
 ## See Also
-
-- [[fungal-species-estimates]]

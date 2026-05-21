@@ -2,7 +2,6 @@
 title: Genetic Improvement Agaricus Bisporus Molecular Approaches
 created: 2026-04-28
 tags: [agaricus-bisporus, genetic-improvement, molecular-breeding,
-      hybridization, RFLP, RAPD, genetic-engineering, protoplast-fusion,
       mushroom-breeding, basidiomycota]
 date: 2026-04-25
 updated: 2026-04-25

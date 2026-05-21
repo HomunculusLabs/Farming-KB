@@ -7,10 +7,10 @@ tags: []
 sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
- title: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
+ title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
   cultivation - HPLC - cap-stem-distribution - mycology
 date: 2026-04-28 updated: 2026-04-28 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation [[hplc-analysis-of-psilocybin-and-psilocin]] Levels with Repeated
+  - Bigwood, J. and Beug, M.W. (1982). Variation hplc-analysis-of-psilocybin-and-psilocin Levels with Repeated
   Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
 type: concept ---
 

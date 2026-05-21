@@ -28,7 +28,7 @@ Heat shock is the most widely used method for stimulating spore germination:
 - **Species-specific responses**:
   - **Agaricus bisporus**: 60°C for 30 minutes dramatically increases
     germination rates from <1% to 20-40%
-  - **[[fungal-volatile-organic-compounds-communication]] compounds**: Exposure to volatiles from growing mycelium
+  - **fungal-volatile-organic-compounds-communication compounds**: Exposure to volatiles from growing mycelium
   (particularly from the same species) can trigger germination, suggesting a
   quorum-sensing mechanism. This is exploited by placing spore plates adjacent
   to active mycelial cultures.

@@ -2,7 +2,6 @@
 title: "savory fencing economics and stock density curve and savory-stock-density-vs-stocking-rate Curve"
 created: 2026-04-28
 tags: [holistic-management, fencing, paddock-design, stock-density,
-      diminishing-returns, grazing-infrastructure, marginal-reaction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [savory-holistic-resource-management.md]

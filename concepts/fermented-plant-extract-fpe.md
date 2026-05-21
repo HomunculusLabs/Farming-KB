@@ -148,5 +148,3 @@ A separate KNF input that functions as both a nutrient source and an extraction 
 Key uses with FPJ/FFJ:
 - Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
 ## See Also
-
-- [[fermented-plant-extract]]

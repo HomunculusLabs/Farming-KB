@@ -22,15 +22,15 @@ sources:
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 
-*Clitocybe nuda* (syn. *[[lepista-nuda]]*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[lepiota-procera]] for another autumn woodland edible.
+*[[clitocybe]] nuda* (syn. *[[lepista-nuda]]*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[lepiota-procera]] for another autumn woodland edible.
 
 ## Taxonomy and Nomenclature
 
-- **Order:** Agaricales
+- **Order:** [[agaricales]]
 - **Family:** Tricholomataceae (modern molecular phylogenetics places it in the redefined Tricholomataceae or Hygrophoraceae depending on the classification system)
 - **Genus:** *Clitocybe* (widely accepted) / *Lepista* (still used by many mycologists and field guides)
 - **Species:** *C. nuda* (Bull.) P. Kumm.
-- **Synonyms:** *Agaricus nudus* Bull. (1790), *Lepista nuda* (Bull.) Cooke (1871), *Tricholoma nudum* (Bull.) Quél. (1872), *Rugosomyces nudus* (Bull.) Bon
+- **Synonyms:** *[[agaricus]] nudus* Bull. (1790), *Lepista nuda* (Bull.) Cooke (1871), *Tricholoma nudum* (Bull.) Quél. (1872), *Rugosomyces nudus* (Bull.) Bon
 - **Common names:** Wood Blewit, Blewit (from the Old French *blewit*, meaning "blue hat"), Blue Foot
 
 The taxonomic history of this species has been contentious. For much of the 20th century, it was placed in the genus *Lepista*, which was separated from *Clitocybe* on the basis of spore ornamentation (ornamented vs. smooth). Recent molecular phylogenetic studies have largely merged *Lepista* back into *Clitocybe*, though the name *Lepista nuda* remains widely used in field guides and mycological literature. The name "blewit" derives from the Anglo-Norman *blet* (blue), not from " blew it" as is sometimes humorously suggested.
@@ -58,7 +58,7 @@ The taxonomic history of this species has been contentious. For much of the 20th
 - **Surface:** Smooth to finely fibrillose; solid, becoming hollow with age
 - **Color:** Vivid blue-violet at the base when young, fading to brownish above; the blue color often persists longest at the base — hence the common name "Blue Foot"
 - **Ring:** Absent (no annulus)
-- **Base:** Sometimes slightly bulbous, covered in white to pale violet mycelium
+- **Base:** Sometimes slightly bulbous, covered in white to pale violet [[mycelium]]
 
 ### Flesh
 
@@ -70,7 +70,7 @@ The taxonomic history of this species has been contentious. For much of the 20th
 ### Spore Print
 
 - **Color:** Pale pink to pinkish-buff (salmon-pink)
-- **Importance:** The pink spore print distinguishes *C. nuda* from potentially dangerous look-alikes in the genus *Cortinarius* that have rusty-brown spore prints
+- **Importance:** The pink [[spore-print]] distinguishes *C. nuda* from potentially dangerous look-alikes in the genus *Cortinarius* that have rusty-brown spore prints
 
 ### Microscopic Features
 
@@ -82,4 +82,4 @@ The taxonomic history of this species has been contentious. For much of the 20th
 - **Global range:** Widespread across temperate regions of the Northern Hemisphere — Europe, [[psilocybin-north-america-pacific-northwest]]), and parts of Asia. Also reported from Australia and New Zealand where it may be introduced.
 - **Habitat:** A versatile species found in diverse environments:
   - Deciduous and mixed woodlands, particularly under oak, beech, birch, and conifers
-  - Coniferous forests, especially in [[dighton-pine-needle-litter-decomposition-fungal-succession]] under pine, spruce, and fir
+  - Coniferous forests, especially in dighton-pine-needle-litter-[[decomposition]]-fungal-succession under pine, spruce, and fir

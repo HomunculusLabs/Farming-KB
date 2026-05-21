@@ -148,5 +148,3 @@ DSL delivers internet over existing copper telephone lines. Availability is decl
 
 See also [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006|Emcdda Hallucinogenic Mushroom Internet Shop Market Snapshot 2006]].
 See also [[mycelium-as-natures-internet|Mycelium As Natures Internet]].
-### Specifications
-## See Also

@@ -66,7 +66,7 @@ Following Edward Said"s concept of "orientalism," Letcher argues that Western th
 
 ## See Also
 
-- [[amanita-muscaria-guide]] — Identification, chemistry, and preparation of Amanita muscaria
+- [[amanita-muscaria]] — Identification, chemistry, and preparation of Amanita muscaria
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
 - [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions

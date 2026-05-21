@@ -96,6 +96,6 @@ The regulatory landscape for [[mycoremediation]] is still developing. While fung
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
-- [[mycoremediation-overview]] — for the science
+- [[mycoremediation]] — for the science
 - [[mycoremediation-field-applications]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application

@@ -148,5 +148,3 @@ Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar t
 
 Tolerance to psilocybin develops rapidly:
 ## See Also
-
-- [[psychedelic-dosage-titration-methodology]]

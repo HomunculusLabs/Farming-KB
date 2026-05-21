@@ -114,7 +114,7 @@ Thinning excess fruit is essential for quality apples and tree health.
 - Larvae tunnel into fruit, leaving frass (excrement) at the entry hole
 - Management:
   - Pheromone traps to monitor flight and disrupt mating
-  - Apply spinosad (Entrust) or Bt ([[bacillus-thuringiensis]]) at petal fall and repeat every 10-14 days for 3-4 applications
+  - Apply spinosad (Entrust) or Bt (bacillus-thuringiensis) at petal fall and repeat every 10-14 days for 3-4 applications
   - Remove dropped fruit regularly (breeding ground for larvae)
   - Bag individual fruit clusters with nylon footies or paper bags (very effective on small trees)
   - Trunk banding with corrugated cardboard to trap overwintering larvae

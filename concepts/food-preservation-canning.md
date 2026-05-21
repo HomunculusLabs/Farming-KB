@@ -148,4 +148,3 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 
 See also [[pressure-canning-food-preservation|Pressure Canning Food Preservation]].
 | Food | Best Method(s) |
-|------|---------------|

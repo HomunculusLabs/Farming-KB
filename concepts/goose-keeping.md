@@ -146,7 +146,5 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Processing age: 12-16 weeks for tender meat, 20+ weeks for roasting birds
 - Dressing percentage: approximately 70-75% of live weight
 - Goose fat is highly valued for cooking (renders easily from skin and fat deposits)
-- See [[animal-harvest-and-processing]] for detailed processing
+- See [[animal-harvest-and-processing]] for detailed processing See also [[goose-keeping-and-husbandry-guide]].
 ## See Also
-
-- [[goose-keeping-and-husbandry-guide]]

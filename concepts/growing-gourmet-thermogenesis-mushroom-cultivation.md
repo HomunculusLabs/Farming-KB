@@ -30,7 +30,7 @@ When grain spawn is used to inoculate [[growing-gourmet-sawdust-spawn-production
   - Monitor internal temperatures with strategically placed
     thermometers between bags
   - Reduce spawn rates when thermogenesis is problematic
-  - Ensure adequate [[jadam-rice-bran-problems]] needs 4-5 hours. The higher
+  - Ensure adequate jadam-rice-bran-problems needs 4-5 hours. The higher
 nutrient content requires longer sterilization because more
 contaminants are present at the outset.
 

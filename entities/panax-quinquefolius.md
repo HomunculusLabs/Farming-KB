@@ -70,7 +70,7 @@ sources:
 - **Other constituents:**
   - Polysaccharides (panaxans) — immunomodulatory
   - Polyacetylenes (panaxynol, panaxydol) — antitumor activity
-  - [[comparison-panax-ginseng-vs-siberian-ginseng]]
+  - comparison-panax-ginseng-vs-siberian-ginseng
 - [[comparison-ginkgo-biloba-vs-panax-ginseng]]
 
 ## See Also

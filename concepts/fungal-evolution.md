@@ -87,8 +87,8 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 - Includes all typical mushroom-forming fungi
 - Major groups:
   - **Agaricomycotina**: Gilled mushrooms, boletes, polypores, puffballs, corals
-  - **Pucciniomycotina**: [[rust-fungi]] (major plant pathogens)
-  - **Ustilaginomycotina**: [[smut-fungi]] (plant parasites)
+  - **Pucciniomycotina**: rust-fungi (major plant pathogens)
+  - **Ustilaginomycotina**: smut-fungi (plant parasites)
   - **Tremellomycotina**: Jelly fungi and some yeasts
 - Dikaryotic life cycle with clamp connections — a unique feature among fungi
 - Many form [[ectomycorrhizal-associations]] with trees (Amanita, Boletus, Russula, Laccaria)

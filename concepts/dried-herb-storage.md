@@ -147,7 +147,4 @@ Every container should be labeled with:
 - Source (garden location, purchased, wild-harvested)
 - Any notes on variety or use
 See also [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006|Emcdda Psilocybin Mushroom Fresh Dried Product Forms And Potency Variability 2006]].
-See also [[query-how-do-i-plan-and-plant-a-culinary-herb-garden|Query How Do I Plan And Plant A Culinary Herb Garden]].
-See also [[mollison-designers-domestic-herb-spiral-and-kitchen-garden|Mollison Designers Domestic Herb Spiral And Kitchen Garden]].
-
-A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.
+See also [[query-how-do-i-plan-and-plant-a-culinary-herb-garden|Query How Do I Plan And Plant A Culinary Herb Garden]]. See also [[amanita-herb-greek-roman-culture]].

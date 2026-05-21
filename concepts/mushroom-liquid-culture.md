@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, inoculation, storage]
-sources: []
+sources:
+  - "raw/papers/unknown-mushroom-culture-patent-2761246.md"
 ---
 ## Overview
 
@@ -147,4 +148,3 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 
 ## Contamination in Liquid Culture
 
-LC contamination can be difficult to detect visually:

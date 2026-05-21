@@ -66,7 +66,7 @@ Different mushroom species have evolved to decompose different materials. Matchi
 - **Oyster mushrooms** (Pleurotus spp.) are the most adaptable — they grow on straw, sawdust, coffee grounds, paper, and agricultural waste. Best starter species.
 - **Shiitake** (Lentinula edodes) requires hardwood (oak, alder, maple) — either logs or supplemented sawdust blocks at 4:1 ratio.
 - **Wine cap** (Stropharia rugoso-annulata) thrives on fresh hardwood chips and straw in outdoor beds.
-- **P. cubensis** grows well on grain spawn, CVG (coir/verm/gypsum), and composted substrates. The simplest method is [[pf-tek-guide]] (BRF/verm).
+- **P. cubensis** grows well on grain spawn, CVG (coir/verm/gypsum), and composted substrates. The simplest method is [[pf-tek]] (BRF/verm).
 - **Woodlovers** (P. cyanescens, P. azurescens) require fresh hardwood chips in outdoor beds — see [[outdoor-wood-lover-cultivation]].
 - **Agaricus** species require fully composted substrate with a C:N of 17-25:1 — the most demanding preparation.
 
@@ -104,7 +104,7 @@ Grain spawn (rye, wheat, oats) is the universal inoculum — always prepare your
 - [[mushroom-substrates]] — Full substrate science, C:N ratios, container types
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[monotub-cultivation]] — Using CVG substrate in bulk grows
-- [[pf-tek-guide]] — Complete PF TEK beginner method
+- [[pf-tek]] — Complete PF TEK beginner method
 - [[outdoor-mushroom-bed]] — Outdoor bed methods for wine cap and more
 - [[outdoor-wood-lover-cultivation]] — Outdoor beds for psilocybe woodlovers
 - [[mushroom-grow-equipment]] — Sterilization and incubation equipment

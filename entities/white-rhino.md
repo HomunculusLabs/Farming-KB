@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

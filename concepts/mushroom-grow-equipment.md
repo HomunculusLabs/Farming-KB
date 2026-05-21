@@ -146,7 +146,5 @@ The original PF TEK requires no pressure cooker. Complete kit:
 Alternative indoor setup using sealed grow bags with filter patches:
 - Polypropylene grow bags with self-healing injection port and filter patch
 - Liquid culture syringes for faster colonization
-- Heat mat with thermostat for temperature control
+- Heat mat with thermostat for temperature control See also [[buildings-tools-equipment-mushroom-cultivation]].
 ## See Also
-
-- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]

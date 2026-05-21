@@ -148,4 +148,3 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - After the storm, check animals for injuries and provide clean water immediately
 See also [[mollison-hurricane-and-cyclone-resilient-design|Mollison Hurricane And Cyclone Resilient Design]].
 
-## Recovery After Hurricane

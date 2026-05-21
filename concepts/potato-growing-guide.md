@@ -148,5 +148,3 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 
 - [[tomato-growing-guide]] — related nightshade, shared disease management
 - [[companion-planting-reference]] — beans, cabbage, horseradish as potato companions
-- [[soil-amendment-reference]] — phosphorus for tuber development
-- [[mulching-guide]] — straw mulching as an alternative to soil hilling
