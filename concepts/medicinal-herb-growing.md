@@ -91,6 +91,6 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## Related Concepts
 
-- [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
+- [[greenhouse-growing]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens

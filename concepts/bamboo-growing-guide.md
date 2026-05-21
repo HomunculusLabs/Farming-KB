@@ -61,22 +61,22 @@ Less common due to cost and potential for rhizomes to exploit cracks. Suitable f
 
 | Species | Type | Height | Hardiness | Primary Use |
 |---------|------|--------|-----------|-------------|
-| Phyllostachys edulis (Moso) | Running | 50-75 ft | 5F | Timber, edible shoots |
-| Phyllostachys nigra | Running | 15-30 ft | 0F | Ornamental, black culms |
+| [[phyllostachys-edulis]] (Moso) | Running | 50-75 ft | 5F | Timber, edible shoots |
+| [[phyllostachys-nigra]] | Running | 15-30 ft | 0F | Ornamental, black culms |
 | Fargesia nitida | Clumping | 8-12 ft | -20F | Hedge, shade tolerant |
 | Bambusa oldhamii | Clumping | 30-50 ft | 25F | Screening, timber |
-| Phyllostachys aurea | Running | 15-25 ft | 0F | Poles, hedge |
-| Guadua angustifolia | Clumping | 60-100 ft | 40F | Construction timber |
+| [[phyllostachys-aurea]] | Running | 15-25 ft | 0F | Poles, hedge |
+| [[guadua-angustifolia]] | Clumping | 60-100 ft | 40F | Construction timber |
 | Sasa palmata | Running | 4-8 ft | -10F | Ground cover, shade |
 | Chusquea culeou | Clumping | 10-20 ft | 0F | Ornamental, solid culms |
 
 ## Planting and Establishment
 
 - **Site selection**: Full sun to part shade (depends on species), well-drained soil
-- **Soil preparation**: Incorporate 4-6 inches of compost into planting area; bamboo is heavy feeder
+- **Soil preparation**: Incorporate 4-6 inches of [[compost]] into planting area; bamboo is heavy feeder
 - **Planting**: Dig hole twice the width of root ball, set crown at soil level, backfill, water deeply
 - **Spacing**: 3-8 feet apart for screening; single specimen plantings for focal points
-- **Mulch**: 3-4 inches of organic mulch to retain moisture and suppress weeds
+- **Mulch**: 3-4 inches of [[organic-mulch]] to retain moisture and suppress weeds
 - **Watering**: 2-3 times per week during establishment; reduce once established but water during drought
 
 ## Harvesting Bamboo Poles

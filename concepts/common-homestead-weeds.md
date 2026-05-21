@@ -147,4 +147,3 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 **Why it's a problem**: Extremely invasive — can damage foundations. Spreads by rhizome (any fragment regrows). Listed as noxious weed in many states.
 
 **Management**: Cut repeatedly to starve roots (takes 5+ years of consistent effort). Consult local extension for approved treatments. Never compost or move soil from knotweed areas. Report infestations to local authorities.
-

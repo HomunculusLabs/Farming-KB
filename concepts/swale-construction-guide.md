@@ -64,7 +64,7 @@ See also [[swale-design-construction]] for additional technical detail, permacul
 
 ## Related
 
-- [[permaculture-earthworks-guide]] — Permaculture Earthworks Guide covers the broader context of earthworks including swales, ponds, and terraces.
+- [[permaculture-earthworks]] — Permaculture Earthworks Guide covers the broader context of earthworks including swales, ponds, and terraces.
 ## Historical Context
 
 The study and practice of swale construction guide has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.

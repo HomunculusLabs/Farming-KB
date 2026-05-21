@@ -147,4 +147,3 @@ You cannot force specific endorhiza communities. Different cannabis cultivars wi
 - Avoid sterile media for seedling stage (resets microbial recruitment)
 - Maintain undisturbed root zones (no-till approach, see [[no-till-gardening-method]])
 - The longer soil has been active, the richer the microbial pool for selection
-

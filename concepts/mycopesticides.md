@@ -10,13 +10,13 @@ sources:
 
 # Mycopesticides — Fungi as Natural Insect Control
 
-Using entomopathogenic fungi to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating mycelium as an insect attractant. From *Mycelium Running* (2005).
+Using [[entomopathogenic-fungi]] to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating [[mycelium]] as an insect attractant. From *Mycelium Running* (2005).
 
 ## The Discovery: Pre-Sporulating Mycelium as a Trojan Horse
 
 ### Origin Story
 
-[[paul-stamets]]' farmhouse on the Olympic Peninsula was being destroyed by carpenter ants (Camponotus modoc). After discovering that wood-digesting fungi preceded insect invasions, he obtained a culture of Metarhizium anisopliae — a green mold fungus used to kill termites:
+[[paul-stamets]]' farmhouse on the Olympic Peninsula was being destroyed by carpenter ants (Camponotus modoc). After discovering that wood-digesting fungi preceded insect invasions, he obtained a culture of [[metarhizium-anisopliae]] — a green mold fungus used to kill termites:
 
 1. Cultured the mold on malt-enriched agar
 2. Noticed white wedge sectors emerging from green sporulating colonies
@@ -45,7 +45,7 @@ The parasitized insect carcasses became moldy from repellent spores, creating a 
 ### Fungal Dimorphism
 
 Some entomopathogenic fungi express two forms:
-- **Mold state**: Metarhizium anisopliae (green mold) — pathogenic to ants, termites, locusts, mosquitoes, mites
+- **Mold state**: [[metarhizium]] anisopliae (green mold) — pathogenic to ants, termites, locusts, mosquitoes, mites
 - **Mushroom state**: Cordyceps species — fruit from dead insect carcasses
 
 Cordyceps lloydii infects carpenter ants and compels them to climb to the canopy, lock mandibles into a leaf, and die — ensuring wide spore dispersal.
@@ -55,7 +55,7 @@ Cordyceps lloydii infects carpenter ants and compels them to climb to the canopy
 | Genus | Form | Primary Targets |
 |-------|------|----------------|
 | Metarhizium anisopliae | Green mold | Termites, ants, locusts, mosquitoes, flies |
-| Beauveria bassiana | White mold | Wide range of insects |
+| [[beauveria-bassiana]] | White mold | Wide range of insects |
 | Paecilomyces spp. | White mold | Various agricultural pests |
 | Hirsutella spp. | Various | Specific host insects |
 | Cordyceps spp. | Mushroom | Ants, caterpillars, other insects |
@@ -125,7 +125,7 @@ Recent trials show effectiveness against:
 
 ## Beauveria bassiana: Additional Discovery
 
-Stamets also found that Beauveria bassiana produces attractants prior to sporulation. Other genera likely to show similar activity:
+Stamets also found that [[beauveria]] bassiana produces attractants prior to sporulation. Other genera likely to show similar activity:
 - Hirsutella
 - Mucor
 - Paecilomyces

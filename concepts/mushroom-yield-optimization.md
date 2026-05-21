@@ -147,4 +147,3 @@ Most monotub setups produce 2-3 productive flushes. After the third flush, yield
 - Dry immediately after harvest — see [[mushroom-harvesting-techniques]].
 
 ## Misting and Fanning Protocol
-

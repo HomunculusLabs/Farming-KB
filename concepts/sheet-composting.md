@@ -9,14 +9,14 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Sheet Composting
 
-Sheet composting (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
+Sheet [[composting]] (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
 
 ## Methods
 
 ### Autumn Sheet Composting
 1. After harvest, spread a 2-4 inch layer of compostable materials over the bed
 2. Materials: chopped leaves, grass clippings, garden waste, kitchen scraps, straw
-3. Optionally top with a thin layer of finished compost or manure to inoculate
+3. Optionally top with a thin layer of finished [[compost]] or manure to inoculate
 4. Cover with a layer of cardboard or newspaper (optional, for weed suppression)
 5. Top with mulch (straw, leaves) to retain moisture
 6. Over winter, worms and soil organisms break everything down
@@ -30,7 +30,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 5. Rotate trenches across the bed each year
 
 ### Green Manure Sheet Composting
-1. Grow a green manure crop (clover, vetch, rye, buckwheat)
+1. Grow a [[green-manure]] crop (clover, vetch, rye, buckwheat)
 2. Cut the crop at flowering stage before seed set
 3. Leave the cut material on the soil surface as a mulch
 4. The roots decompose in place, improving soil structure
@@ -50,7 +50,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 - No turning required — soil organisms do the work
 - Nutrients stay in place (no leaching from compost pile)
 - Builds soil structure directly where plants will grow
-- Suppresses weeds during decomposition
+- Suppresses weeds during [[decomposition]]
 - Can cover large areas with minimal labor
 
 ## Disadvantages
@@ -61,7 +61,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 
 ## Related
 - [[compost-building-guide]] — for traditional hot composting
-- [[green-manure-crops-detailed]] — for green manure crop selection
+- [[green-manure-crops]] — for green manure crop selection
 - [[sheet-mulching-lasagna-gardening]] — for the layered lasagna method
 - [[soil-food-web-structure]] — for the organisms that do the work
 ## Historical Context

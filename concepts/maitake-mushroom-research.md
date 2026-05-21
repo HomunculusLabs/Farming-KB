@@ -75,6 +75,6 @@ Used in Japanese and Chinese traditional medicine for: immune support, digestive
 - [[reishi-mushroom-medicinal-research]]
 - [[chaga-mushroom-research]]
 - [[medicinal-mushroom-guide-maitake]]
-- [[maitake-cultivation-guide]]
+- [[maitake-cultivation]]
 Further research into maitake mushroom research continues to reveal new applications and ecological relationships.
 Understanding the fundamental principles behind maitake mushroom research provides a foundation for both practical application and continued scientific inquiry.

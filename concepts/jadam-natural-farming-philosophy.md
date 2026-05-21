@@ -9,7 +9,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Natural Farming Philosophy
 
-JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature Farming") is a Korean ultra-low-cost organic farming movement founded by Young-sang Cho in 1991. JADAM extends Fukuoka's natural farming with specific, practical techniques and a focus on self-sufficiency.
+JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature Farming") is a Korean ultra-low-cost organic farming movement founded by Young-sang Cho in 1991. JADAM extends Fukuoka's [[natural-farming]] with specific, practical techniques and a focus on self-sufficiency.
 
 ## Core Philosophy
 
@@ -43,7 +43,7 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 |---|---|---|---|
 | Conventional | Synthetic fertilizers, pesticides | High | Maximum yield |
 | Organic | Organic fertilizers, allowed pesticides | Medium | No synthetics |
-| Korean Natural Farming | Fermented plant/animal inputs | Low | Specific fermented preparations |
+| [[korean-natural-farming]] | Fermented plant/animal inputs | Low | Specific fermented preparations |
 | JADAM | On-farm inputs only | Ultra-low | Total self-sufficiency |
 | Fukuoka | No inputs at all | Zero | Do nothing |
 
@@ -61,7 +61,7 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 - [[fukuoka-natural-farming-four-principles]] — for broader natural farming context
 ## Historical Context
 
-The study and practice of jadam natural farming philosophy has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of jadam [[natural-farming-philosophy]] has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 Historical records document the long-standing relationship between humans and this subject area.
 
@@ -77,7 +77,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with jadam natural farming philosophy spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

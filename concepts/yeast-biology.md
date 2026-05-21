@@ -151,5 +151,5 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 ## See Also
 
 - [[yeast-biology-ecology-and-fermentation]]
-- [[yeast-biology-guide]]
+- yeast biology
 - [[microwave-sterilizable-access-port-nasa-space-biology]]

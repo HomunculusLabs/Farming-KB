@@ -17,7 +17,7 @@ Chytridiomycota is the most basal and primitive phylum of fungi, believed to be 
 - Primarily aquatic or associated with moist environments
 - Thallus may be monocentric (single center) or polycentric (multiple centers)
 - Cell wall contains chitin (confirming their fungal identity, not protozoan)
-- Some are unicellular; others form simple mycelium (rhizoids)
+- Some are unicellular; others form simple [[mycelium]] (rhizoids)
 - Reproduce both asexually (zoospores) and sexually (gametes or resting spores)
 
 ## Classification
@@ -60,7 +60,7 @@ Parasitic chytrids that infect plant roots. Olpidium brassicae is a vector for s
 
 ### Chytridium and Rhizophydium
 
-Saprotrophic chytrids commonly found in freshwater and soil. They decompose pollen, chitin, cellulose, and keratin in aquatic environments. These are among the most numerous and ecologically important chytrids, playing a role analogous to that of terrestrial decomposer fungi.
+Saprotrophic chytrids commonly found in freshwater and soil. They decompose pollen, chitin, [[cellulose]], and keratin in aquatic environments. These are among the most numerous and ecologically important chytrids, playing a role analogous to that of terrestrial decomposer fungi.
 
 ## Aquatic Ecology
 

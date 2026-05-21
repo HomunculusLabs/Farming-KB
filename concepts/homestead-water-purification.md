@@ -142,7 +142,7 @@ Before selecting a purification system, test your water:
 - More stable than bleach for long-term storage
 - Mix a small amount with water to create a chlorine solution
 - Treat drinking water with the solution
-- Excellent for emergency preparedness and long-term off-grid use
+- Excellent for [[emergency-preparedness]] and long-term off-grid use
 
 ### Biosand Filters
 

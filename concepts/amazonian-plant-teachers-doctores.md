@@ -20,8 +20,8 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 
 ### Major Visionary Plants (Bejucos y Chacrunas)
 
-- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
-- **Chacruna (Psychotria viridis)** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
+- **[[ayahuasca]] ([[banisteriopsis-caapi]])** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains [[harmine]], harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
+- **Chacruna ([[psychotria-viridis]])** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
 - **Chaliponga (Diplopterys cabrerana)** — Alternative DMT source used in some traditions, especially Colombian and Ecuadorian.
 
 ### Tree Teachers (Arboles Maestros)
@@ -47,7 +47,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 ### Other Admixture Plants
 
 - **Chicuro (Cyperus sp.)** — A sedge plant sometimes combined with shillinto in ayahuasca preparations.
-- **Mapacho (Nicotiana rustica)** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
+- **Mapacho ([[nicotiana-rustica]])** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
 - **Ayahuma (Couroupita guianensis)** — The "cannonball tree"; a powerful plant teacher whose spirit appears in visions.
 
 ## The Dieta (Plant Dieting)
@@ -69,7 +69,7 @@ Every plant has a "madre" (mother) or spirit that:
 - Guards and conserves the plant
 - Gives visions only to compliant, properly prepared practitioners
 - Transmits specific knowledge (healing songs/icaros, medicinal uses, spiritual defenses)
-- Appears in characteristic forms during ayahuasca visions
+- Appears in characteristic forms during [[ayahuasca-visions]]
 - Can be offended by improper behavior, causing illness rather than healing
 
 The spirits are described as real entities: "They are the ones that have taken over these plants. They are the conservers, they take care of the plants."

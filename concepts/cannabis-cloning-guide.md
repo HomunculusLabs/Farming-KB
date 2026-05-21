@@ -43,13 +43,13 @@ Mother plants are typically kept in perpetual vegetative state (18/6 light) and 
 
 ### Step-by-Step Process
 
-1. **Prepare the workspace**: Clean all tools with isopropyl alcohol. Have rooting cubes pre-soaked (pH 5.5-6.0 for Rockwool).
+1. **Prepare the workspace**: Clean all tools with [[isopropyl-alcohol]]. Have rooting cubes pre-soaked (pH 5.5-6.0 for Rockwool).
 
 2. **Select branch material**: Choose healthy branches from the lower to mid canopy. Ideal cuttings are 3-6 inches long with 2-4 nodes.
 
 3. **Make the cut**: Cut at a 45-degree angle below a node. The angled cut increases surface area for water uptake and root formation. Some growers make a second perpendicular slit up the stem (splitting) to expose more cambium layer.
 
-4. **Trim lower leaves**: Remove the bottom set of leaves. Trim remaining fan leaves in half to reduce transpiration while the cutting has no roots.
+4. **Trim lower leaves**: Remove the bottom set of leaves. Trim remaining fan leaves in half to reduce [[transpiration]] while the cutting has no roots.
 
 5. **Apply rooting hormone**: Dip the cut end into rooting hormone. Gels tend to adhere better than powders. Ensure the bottom 1-2 nodes are coated.
 

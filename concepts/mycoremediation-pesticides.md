@@ -17,10 +17,10 @@ Analysis of blood from the general population reveals dozens of industrial toxin
 
 ## PCBs and Dioxins
 
-PCBs and dioxins are among the most recalcitrant environmental pollutants. Their chemical structure -- multiple chlorine atoms attached to aromatic rings -- makes them resistant to natural breakdown. White rot fungi produce lignin-degrading enzymes that can dechlorinate and oxidize these compounds:
+PCBs and dioxins are among the most recalcitrant environmental pollutants. Their chemical structure -- multiple chlorine atoms attached to aromatic rings -- makes them resistant to natural breakdown. [[white-rot-fungi]] produce [[lignin]]-degrading enzymes that can dechlorinate and oxidize these compounds:
 
-- **Lignin peroxidase**: Can oxidize aromatic ring structures
-- **Manganese peroxidase**: Mediates the breakdown of chlorinated compounds
+- **[[lignin-peroxidase]]**: Can oxidize aromatic ring structures
+- **[[manganese-peroxidase]]**: Mediates the breakdown of chlorinated compounds
 - **Laccase**: A copper-containing enzyme capable of oxidizing phenolic compounds
 
 These non-specific enzyme systems give white rot fungi the ability to attack chlorinated aromatics that bacteria and most other organisms cannot degrade.
@@ -36,7 +36,7 @@ Many classes of pesticides are susceptible to fungal degradation:
 
 ## Approach
 
-The mycoremediation approach for persistent organic pollutants involves:
+The [[mycoremediation]] approach for persistent organic pollutants involves:
 
 1. **Strain selection**: Survey the contaminated site for resident fungi already tolerating the contaminant, or import and test appropriate white rot species
 2. **Strain training**: Cultures can be trained by titrating dilutions of the toxin into agar media, selecting strains that thrive on the toxin as their sole nutrient source
@@ -71,7 +71,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with mycoremediation pesticides spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

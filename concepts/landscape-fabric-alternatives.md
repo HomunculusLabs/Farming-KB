@@ -149,4 +149,4 @@ How to use:
 - [[no-till-gardening-method]]
 - [[sheet-mulching]]
 - [[cover-crop-guide-detailed]]
-- [[hugelkultur-bed-construction-detailed]]
+- [[hugelkultur-bed-construction]]

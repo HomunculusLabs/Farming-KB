@@ -49,7 +49,7 @@ Key techniques:
 
 ## The Conservation Imperative
 
-The book frames [[permaculture-plant-selection]] as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
+The book frames permaculture plant selection guide as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
 
 ## Related
 

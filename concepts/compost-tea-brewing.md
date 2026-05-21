@@ -37,8 +37,8 @@ This guide focuses on aerated compost tea (ACT).
 ### Ingredients
 - 4-5 gallons dechlorinated water (room temperature, 65-75°F)
 - 1-2 cups high-quality, finished compost (vermicompost preferred)
-- 1 tablespoon unsulfured blackstrap molasses (microbe food)
-- Optional: 1/4 tsp kelp meal or 1 tsp fish hydrolysate (additional nutrients)
+- 1 tablespoon unsulfured [[blackstrap-molasses]] (microbe food)
+- Optional: 1/4 tsp kelp meal or 1 tsp [[fish-hydrolysate]] (additional nutrients)
 
 ### Step-by-Step Process
 
@@ -50,7 +50,7 @@ This guide focuses on aerated compost tea (ACT).
 
 4. **Submerge compost**: Lower bag into bucket. Do not let it sit on the bottom where aeration is weakest; suspend it mid-water column.
 
-5. **Add molasses**: Stir in 1 tbsp unsulfured blackstrap molasses. Sulfured molasses contains sulfur dioxide, which is antimicrobial and defeats the purpose. Optional additions: kelp meal, fish hydrolysate, humic acid.
+5. **Add molasses**: Stir in 1 tbsp unsulfured blackstrap molasses. Sulfured molasses contains sulfur dioxide, which is antimicrobial and defeats the purpose. Optional additions: kelp meal, fish hydrolysate, [[humic-acid]].
 
 6. **Brew**: Run pump continuously for 24-36 hours.
    - Ideal water temperature: 65-75°F.
@@ -65,7 +65,7 @@ This guide focuses on aerated compost tea (ACT).
 |----------|--------|
 | 12-18 hours | Mostly bacteria, some protozoa |
 | 24-36 hours | Peak bacterial and protozoan diversity |
-| 36-48 hours | Protozoa and fungal hyphae increasing |
+| 36-48 hours | Protozoa and [[fungal-hyphae]] increasing |
 | Beyond 48 hours | DO NOT USE — oxygen depleted, anaerobic, potential pathogens |
 
 If tea smells bad (sewer, sulfur, vomit), it has gone anaerobic — discard on non-edible plants or compost pile. Good tea smells earthy, sweet, or like fresh forest floor.
@@ -85,7 +85,7 @@ If tea smells bad (sewer, sulfur, vomit), it has gone anaerobic — discard on n
 - Coat both tops and undersides of leaves.
 - Do not spray in full sun or above 85°F.
 - Apply every 2-3 weeks for disease prevention.
-- Good for: powdery mildew suppression, botrytis prevention, general plant health.
+- Good for: [[powdery-mildew]] suppression, botrytis prevention, general plant health.
 
 ## Compost Quality Matters
 
@@ -93,7 +93,7 @@ The quality of your starting compost directly determines tea quality:
 - **Vermicompost** (worm castings) — highest microbe diversity, gold standard.
 - **Thermophilic compost** — good if fully finished, earthy-smelling, dark brown.
 - **Bad compost** — smells foul, still hot, recognizable feedstock pieces. Do NOT use.
-- **Mushroom compost** — can work but may be sterilized; test results vary.
+- **[[mushroom-compost]]** — can work but may be sterilized; test results vary.
 
 ## Troubleshooting
 

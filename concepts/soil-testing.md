@@ -30,7 +30,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 ## Why Test Your Soil
 
 - **Avoid wasted amendments** — adding lime to already-alkaline soil locks out micronutrients
-- **Identify deficiencies before they cause visible symptoms** — by the time plants show chlorosis, yields are already reduced
+- **Identify deficiencies before they cause visible symptoms** — by the time plants show [[chlorosis]], yields are already reduced
 - **Track progress over time** — annual tests reveal whether your fertility program is building or depleting soil
 - **Diagnose recurring problems** — poor drainage, compaction, and salinity all show up in test results
 - **Base saturation reveals balance** — it's not just about having enough calcium; it's about the Ca:Mg:K ratios
@@ -41,9 +41,9 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 | Parameter | What It Tells You | Ideal Range (Most Crops) |
 |-----------|-------------------|--------------------------|
-| **pH** | Nutrient availability, microbial activity, toxic element solubility | 6.0–6.8 |
+| **pH** | [[nutrient-availability]], microbial activity, toxic element solubility | 6.0–6.8 |
 | **Organic Matter (OM)** | Soil structure, water retention, microbial habitat, nutrient reservoir | 3–8% |
-| **CEC** (Cation Exchange Capacity) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
+| **CEC** ([[cation-exchange-capacity]]) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
 | **Base Saturation** | Balance of Ca, Mg, K, Na, H on exchange sites | See [[interpreting-soil-test-results]] |
 | **NPK** | Primary macronutrient levels | Varies by crop |
 
@@ -70,7 +70,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 | **Lead / Heavy metals** | Urban gardens, near old structures, industrial areas |
 | **Soil biological activity** | CO2 respiration test, microbial biomass |
 | **Mycorrhizal colonization** | Root staining, to assess fungal partnerships |
-| **Soil texture** | Once per field — doesn't change, drives CEC and drainage |
+| **[[soil-texture]]** | Once per field — doesn't change, drives CEC and drainage |
 
 ## Lab Tests vs. DIY Tests
 
@@ -119,7 +119,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 | Situation | Recommended |
 |-----------|-------------|
-| Starting a new garden/bed | Lab test (full panel) |
+| [[starting-a-new-garden]]/bed | Lab test (full panel) |
 | Annual monitoring of established beds | Lab test every 2–3 years |
 | Quick pH check before planting | Digital pH meter |
 | Suspected micronutrient problem | Lab test (include micronutrients) |
@@ -135,7 +135,7 @@ Bad sampling produces bad data. Follow this protocol:
 - Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
 - Plastic bucket (not metal for micronutrient samples)
 - Ziploc bags (clean)
-- Permanent marker
+- [[permanent-marker]]
 
 ### Method
 1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample

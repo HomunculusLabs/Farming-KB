@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Arbuscular Mycorrhizal Fungi
 
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function.
+Arbuscular [[mycorrhizal-fungi]] (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function.
 
 ## The Symbiosis
 
@@ -19,7 +19,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - **Water**: Hyphal network improves water uptake during drought
 - **Micronutrients**: Enhanced uptake of zinc, copper, manganese
 - **Disease protection**: Physical barrier around roots, induced systemic resistance
-- **Soil aggregation**: Glomalin (a glycoprotein produced by AMF) binds soil particles into stable aggregates
+- **Soil aggregation**: [[glomalin]] (a glycoprotein produced by AMF) binds soil particles into stable aggregates
 
 ### What Plants Provide
 - **Carbon**: 10-20% of net photosynthate transferred to AMF
@@ -43,13 +43,13 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Extraradical Mycelium
 - Hyphal network extending into soil from roots
 - Can extend 10-25 cm from root surface
-- Hyphae are 2-10 micrometers in diameter (thinner than root hairs)
+- Hyphae are 2-10 micrometers in diameter (thinner than [[root-hairs]])
 - Explore soil volume 100-1000x greater than roots alone
 
 ### Spores
 - Large (50-500 micrometers), multi-nucleate
 - Thick walls — survive in soil for years to decades
-- Germinate in response to root exudates from host plants
+- Germinate in response to [[root-exudates]] from host plants
 - Form the primary dispersal and survival structure
 
 ## Host Range and Specificity
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
+- AMF can associate with multiple plant species simultaneously — creating [[common-mycorrhizal-networks]]
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -69,7 +69,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Promoting AMF
 - Low to moderate soil P (high P reduces AMF colonization — plants don't "need" the fungus)
 - Minimal tillage (preserves hyphal networks)
-- Cover crops (maintain AMF host plants between cash crops)
+- [[cover-crops]] (maintain AMF host plants between cash crops)
 - Organic matter (feeds AMF indirectly through soil biology)
 - Diverse rotations (maintain diverse AMF communities)
 

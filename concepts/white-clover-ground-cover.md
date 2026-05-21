@@ -12,7 +12,7 @@ sources:
 
 ## Fukuoka's Clover Revolution
 
-Masanobu Fukuoka called his no-till rice and barley system the "clover revolution" because it enabled farming without any pesticides or chemical fertilizers. White clover (ladino clover) serves as a permanent living ground cover in his direct-seeding, no-tillage rice/barley succession system.
+[[masanobu-fukuoka]] called his no-till rice and barley system the "clover revolution" because it enabled farming without any pesticides or chemical fertilizers. White clover (ladino clover) serves as a permanent living ground cover in his direct-seeding, no-tillage rice/barley succession system.
 
 ## How It Works
 
@@ -41,7 +41,7 @@ Broadcasting directly over the maturing heads of rice requires less work and is 
 
 ## Hemenway's Perspective
 
-Toby Hemenway describes Fukuoka's method as "a great example of stacking functions":
+[[toby-hemenway]] describes Fukuoka's method as "a great example of stacking functions":
 - Greenery suppresses weeds
 - Shade holds moisture in the soil
 - Blossoms attract beneficial insects
@@ -52,7 +52,7 @@ To plant crops, Fukuoka simply opens up small areas in the clover and places see
 ## Related
 
 - [[duck-rice-paddy]] -- using ducks to complement clover in rice paddies
-- [[cover-crop-selection-guide]] -- clover varieties in cover crop systems
+- [[cover-crop-selection-guide]] -- clover varieties in [[cover-crop]] systems
 - [[weed-suppression-strategies]] -- clover as living weed suppression
 - [[chop-and-drop-mulching]] -- slashing clover in place
 ## Historical Context
@@ -73,7 +73,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with white clover ground cover spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

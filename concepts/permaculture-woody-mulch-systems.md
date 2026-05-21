@@ -25,7 +25,7 @@ In the wet tropics, heat and high rainfall would leach most mobile nutrients fro
 
 ### Tree Leaf Fall
 
-Species chosen for windbreaks and shelterbelts provide excellent crop mulch. Mollison lists Prosopis, Acacia, Erythrina, Melia, and Canna as mulch-producing species. These are selected to fix or recycle nitrogen and phosphatic fertilisers, and to mine trace elements (Casuarina, Banksia, Eucalyptus camaldulensis).
+Species chosen for windbreaks and shelterbelts provide excellent crop mulch. Mollison lists Prosopis, Acacia, Erythrina, Melia, and Canna as mulch-producing species. These are selected to fix or recycle nitrogen and phosphatic fertilisers, and to mine trace elements (Casuarina, Banksia, [[eucalyptus-camaldulensis]]).
 
 ### Ramial Chipped Wood (RCW)
 
@@ -33,12 +33,12 @@ Young branches (ramial shoots) from deciduous trees and shrubs are rich in ligni
 
 ### Green Manure Crops
 
-Tropical green manure and mulch species include:
+Tropical [[green-manure]] and mulch species include:
 
-- **Cowpea** (Vigna sinensis) -- preferred annual cover crop and soil improver
-- **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and weed control
+- **Cowpea** (Vigna sinensis) -- preferred annual [[cover-crop]] and soil improver
+- **Lablab** ([[lablab-purpureus]]) -- vigorous annual/short-lived perennial for soil-building and weed control
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, perennial climber
-- **Stylo** (Stylosanthes guianensis) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
+- **Stylo** ([[stylosanthes-guianensis]]) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
 - **Mung beans** (Vigna radiata) -- vigorous garden green crop and forage annual
 - **Siratro** (Macroptilium atropurpureum) -- excellent nitrogen contribution to grasses
 
@@ -62,7 +62,7 @@ Mulch conserves moisture, reduces soil temperature, and prevents wind erosion. S
 
 ### Temperate Zones
 
-Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil organic matter through winter. Sheet mulching with cardboard and woody material is used for garden bed preparation.
+Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil organic matter through winter. Sheet mulching with cardboard and woody material is used for [[garden-bed-preparation]].
 
 ## Design Principles
 

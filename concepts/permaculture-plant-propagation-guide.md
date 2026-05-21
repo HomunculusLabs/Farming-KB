@@ -113,7 +113,7 @@ overhead and direct market channels compared to industrial approaches.
 ## See Also
 - [[plant-propagation-techniques-for-permaculture]]
 - [[permaculture-plant-propagation-methods]]
-- [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]
 - [[permaculture-difficult-sites-plant-guide]]
 - [[query-how-do-i-use-woody-herb-cuttings-for-plant-propagation]]
 - [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] (choosing plants that grow best together) and growing tendencies. - [[holmgren-ecological-succession-and-pulsing]] — the predictable process of community change following disturbance. No-till practices accelerate succession by maintaining soil structure and microbial communities. Compared to monocultures, well-designed polycultures offer: - **Increased yield per unit area** — species occupy different niches (root depth, light requirements, nutrient needs) - **Pest resistance** — diversity disrupts pest cycles and provides habitat for [[mollison-designers-microclimate-creation-frost-protection]]** — varying heights create wind protection, shade, and humidity zones - **Resilience** — if one crop fails, others compensate [Plant guilds are polycultures designed around a central element (usually a fruit tree). Related: [[permaculture-macadamia]].

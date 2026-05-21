@@ -147,4 +147,3 @@ Mulch is the simplest winter protection. A deep layer of [[organic-mulch]] insul
 | March | Begin removing protection; direct seed spring crops |
 
 ### Zone-Specific Strategies
-

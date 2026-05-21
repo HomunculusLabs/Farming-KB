@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. [[permaculture]] aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 
@@ -60,7 +60,7 @@ Different species feed at different levels and on different foods:
 - **Mid-water feeders** eat zooplankton and small organisms
 - **Bottom feeders** consume detritus, algae, and benthic organisms
 
-Common species in permaculture systems include carp, tilapia, catfish, perch, and trout (in cooler climates). Species selection depends on climate, water temperature, and pond conditions.
+Common species in permaculture systems include carp, [[tilapia]], catfish, perch, and trout (in cooler climates). Species selection depends on climate, water temperature, and pond conditions.
 
 ### Integrated Systems
 
@@ -68,7 +68,7 @@ Aquaculture integrates with other elements:
 - **Ducks and geese** on ponds provide manure that feeds plankton and fish
 - **Duckweed (Lemna spp.)** grown on pond surfaces provides high-protein feed for poultry and pigs
 - **Water chestnuts, lotus, and watercress** grow in shallow zones
-- **Edge plantings** of willow, bamboo, and comfrey provide fodder and mulch
+- **Edge plantings** of willow, bamboo, and [[comfrey]] provide fodder and mulch
 
 ### Biological Filtration
 

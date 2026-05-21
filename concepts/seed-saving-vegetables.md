@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Saving Vegetables
 
-Practical guide to saving vegetable seeds for the home gardener, distilled from Steve Solomon's "Gardening When It Counts." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
+Practical guide to saving vegetable seeds for the home gardener, distilled from [[steve-solomon]]'s "[[gardening-when-it-counts]]." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
 
 ## Self-Pollinating vs. Outcrossing Species
 
@@ -89,5 +89,5 @@ Cabbage-family seed production requires roughly 4 sq ft (0.4 sq m) per plant. To
 ## Related
 
 - [[herbal-plant-remedies]] — companion topic on using plants for garden health
-- [[compost-building-guide]] — building soil fertility for seed crops
-- [[sepp-holzer-method]] — broader permaculture approach to seed and plant management
+- [[compost-building-guide]] — [[building-soil]] fertility for seed crops
+- [[sepp-holzer-method]] — broader [[permaculture]] approach to seed and plant management

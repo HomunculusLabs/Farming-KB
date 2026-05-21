@@ -147,4 +147,3 @@ See also [[regenerative-agriculture-history]].
 - **State programs**: Many states have Agricultural Preservation Restriction (APR), Agricultural Districts, Farmland Protection programs
 
 ### Community Land Trusts
-

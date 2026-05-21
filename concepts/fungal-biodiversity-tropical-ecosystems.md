@@ -10,13 +10,13 @@ sources:
 
 ## Overview
 
-Tropical ecosystems are believed to harbor the majority of Earth's undescribed fungal species. The combination of high plant diversity, warm and moist conditions year-round, complex vegetation structure, and minimal seasonal constraint on fungal growth creates conditions for extraordinary fungal diversity. Despite this, tropical mycology remains severely understudied compared to temperate regions.
+Tropical ecosystems are believed to harbor the majority of Earth's undescribed fungal species. The combination of high plant diversity, warm and moist conditions year-round, complex vegetation structure, and minimal seasonal constraint on fungal growth creates conditions for extraordinary fungal diversity. Despite this, tropical [[mycology]] remains severely understudied compared to temperate regions.
 
 ## Why Tropics Have More Fungal Species
 
 Several interacting factors contribute to elevated tropical fungal diversity:
 
-- **Plant diversity hypothesis**: The strong host specificity of many fungal groups (endophytes, mycorrhizae, pathogens) means that each plant species potentially supports unique fungal assemblages. Tropical forests with hundreds of tree species per hectare thus support far more fungal species than temperate forests with 10-30 tree species per hectare.
+- **Plant diversity hypothesis**: The strong host specificity of many fungal groups (endophytes, [[mycorrhizae]], pathogens) means that each plant species potentially supports unique fungal assemblages. Tropical forests with hundreds of tree species per hectare thus support far more fungal species than temperate forests with 10-30 tree species per hectare.
 - **Year-round growing conditions**: The absence of a cold season allows continuous fungal activity and multiple fruiting events per year for many species.
 - **Structural complexity**: Tropical forests have multiple canopy layers, epiphytes, lianas, and diverse microhabitats that each harbor distinct fungal communities.
 - **Ancient lineages**: Tropical forests have existed continuously for millions of years in many regions, allowing longer periods for speciation and coevolution.
@@ -34,10 +34,10 @@ Tropical fungal surveys face difficulties beyond those in temperate regions:
 ## Key Tropical Fungal Groups
 
 - **Xylariaceous ascomycetes**: Among the most diverse and conspicuous tropical fungi, commonly found on dead wood
-- **Marasmioid and mycenoid basidiomycetes**: Small, diverse mushroom-forming fungi especially abundant in tropical leaf litter
+- **Marasmioid and mycenoid [[basidiomycetes]]**: Small, diverse mushroom-forming fungi especially abundant in tropical leaf litter
 - **Polypores and corticioid fungi**: Wood-decay fungi with high tropical diversity
 - **Endophytes**: Tropical leaves are exceptionally rich in endophytic fungi, with some leaves harboring dozens of species simultaneously
-- **Lichenized fungi**: Tropical canopies support diverse lichen communities, many undescribed
+- **Lichenized fungi**: Tropical canopies support diverse [[lichen]] communities, many undescribed
 - **Rhytismatales and other foliar fungi**: Minute leaf-inhabiting fungi that require microscopic examination
 
 ## Conservation Concerns
@@ -53,7 +53,7 @@ Tropical deforestation proceeds rapidly, destroying fungal habitats before their
 - [[fungal-biodiversity-biogeography]]
 ## Historical Context
 
-The study and practice of fungal biodiversity tropical ecosystems has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of [[fungal-biodiversity]] tropical ecosystems has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 Historical records document the long-standing relationship between humans and this subject area.
 
@@ -69,7 +69,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with fungal biodiversity tropical ecosystems spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

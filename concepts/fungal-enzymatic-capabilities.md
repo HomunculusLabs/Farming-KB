@@ -147,4 +147,3 @@ Laccases have remarkable substrate versatility:
 ## Bioremediation Applications
 
 Fungal enzymes are central to [[mycoremediation-basics]]:
-

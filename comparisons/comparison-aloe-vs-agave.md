@@ -57,7 +57,7 @@ Aloe and Agave are two of the most widely recognized succulent genera, frequentl
 
 **Aloe** propagates readily from offsets (pups), which most species produce abundantly around the base. Separate pups when they have several roots. Seed propagation is straightforward but slow — seedlings reach transplant size in 6–12 months.
 
-**Agave** propagates by offsets, bulbils (plantlets forming on the flower stalk), and seed. Offsets vary by species: some (e.g., *A. americana*) produce many; others are solitary. Bulbil production is species-dependent and prolific in some (e.g., *A. vilmoriniana*). Seed-grown plants show more [[permaculture-plant-selection]]
+**Agave** propagates by offsets, bulbils (plantlets forming on the flower stalk), and seed. Offsets vary by species: some (e.g., *A. americana*) produce many; others are solitary. Bulbil production is species-dependent and prolific in some (e.g., *A. vilmoriniana*). Seed-grown plants show more [[permaculture-plant-selection-guide]]
 - [[comparison-agave-vs-prickly-pear-cultivation]]
 
 ## Overview

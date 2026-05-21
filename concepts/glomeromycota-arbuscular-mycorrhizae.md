@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of [[fungal-symbiosis]] types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
+The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of [[fungal-symbiosis]] types, and [[mycorrhizal-inoculation]] for practical application methods.
 
 ## Phylum Glomeromycota
 

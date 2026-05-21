@@ -124,7 +124,7 @@ Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi|medicin
 
 ## See Also
 
-- [[reishi-cultivation-guide|Reishi detailed cultivation guide]]
+- Reishi detailed cultivation guide
 - [[reishi-mushroom-medicinal-research|Reishi medicinal research]]
 - [[medicinal-mushroom-guide-reishi|Reishi medicinal properties]]
 - [[mushroom-drying-storage|mushroom drying and storage]]

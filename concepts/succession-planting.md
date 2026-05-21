@@ -147,4 +147,3 @@ Plant in fall for early spring harvest:
 - Interplant fast crops (radishes) between slow crops (carrots, parsnips)
 - Use [[cover-cropping-guide]] for any period longer than 4 weeks between cash crops
 - Keep a garden journal recording actual planting and harvest dates to refine future plans
-

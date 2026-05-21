@@ -27,7 +27,7 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Why Test?
 
-- Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification-guide]]).
+- Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification]]).
 - Synthetic substances sold as psychedelics may be adulterated or misidentified.
 - Testing services such as **Erowid's DrugsData**, **DanceSafe**, **Energy Control**, and **MAPS** provide analytical testing of submitted samples.
 
@@ -132,5 +132,5 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 - [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-integration-practices]] for post-experience care
-- [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
-- [[psychedelic-integration-guide]] for detailed integration guidance
+- [[psilocybin-mushroom-identification]] for mushroom identification safety
+- [[psychedelic-integration]] for detailed integration guidance

@@ -119,7 +119,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-[[permaculture-plant-selection]]
+[[permaculture-plant-selection-guide]]
 permaculture-designers-manual-seed-saving-varieties
 - permaculture-designers-manual-plant-propagation
 - [[mycorrhizal-fungi]]

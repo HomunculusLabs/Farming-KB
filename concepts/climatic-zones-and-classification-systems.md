@@ -6,7 +6,7 @@ type: concept
 
 ## Climatic Zones and Classification Systems
 
-Climate is the primary determinant of species selection and technology choice in [[permaculture-plant-selection]].
+Climate is the primary determinant of species selection and technology choice in [[permaculture-plant-selection-guide]].
 
 ## Hardiness Zones
 

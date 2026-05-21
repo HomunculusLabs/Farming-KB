@@ -9,7 +9,7 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 ## Permaculture Design Principles for Beginners
 
-Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
+[[permaculture]] (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians [[david-holmgren]] and [[bill-mollison]]. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
 
 ### Three Core Ethics
 
@@ -33,7 +33,7 @@ Permaculture (from "permanent agriculture" / "permanent culture") was coined in 
 
 **Stacking**: Nature layers plants at multiple heights in a woodland — canopy trees, understory trees, shrubs, climbers, and ground cover. The forest garden replicates this layering with useful plants: fruit and nut trees, berry bushes, herbs, vegetables, and ground covers occupying the same area.
 
-**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of flushing nutrients to sea.
+**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of [[flushing-nutrients]] to sea.
 
 ### Zone System
 
@@ -53,7 +53,7 @@ Local spending keeps money circulating within communities. When money is spent w
 ## See Also
 
 - [[permaculture-ethics-and-principles]]
-- permaculture design principles beginners
+- [[permaculture-design-principles]] beginners
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-design]]
@@ -75,7 +75,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with permaculture design principles beginners spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

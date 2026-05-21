@@ -18,7 +18,7 @@ Potassium (K) is unique among essential nutrients: it is not a constituent of an
 
 ### Stomatal Regulation
 
-Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
+Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through [[transpiration]]. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
 
 ### Enzyme Activation
 
@@ -30,7 +30,7 @@ Potassium is essential for the formation of starch (used to store sugar produced
 
 ### Water Regulation
 
-As a positively charged cation, potassium acts as a counterbalance to other charged molecules in plants. It is critical for maintaining the proper water balance within cells, which affects turgidity and overall plant structure.
+As a positively charged cation, potassium acts as a counterbalance to other charged molecules in plants. It is critical for maintaining the proper water balance within cells, which affects [[turgidity]] and overall plant structure.
 
 ### Protein Synthesis
 
@@ -60,16 +60,16 @@ Aside from oxygen, potassium uptake is the nutrient most affected by compacted s
 
 | Source | N-P-K | Notes |
 |--------|-------|-------|
-| Greensand | 0-0-3 | Slow release, contains many trace minerals |
+| [[greensand]] | 0-0-3 | Slow release, contains many trace minerals |
 | Wood ashes | 0-1-3 | Fast-acting, raises pH |
 | Sulfate of potash | 0-0-50 | Highly concentrated, quick release |
 | Kelp meal | 1-0.5-2 | Also provides micronutrients and hormones |
-| Alfalfa meal | 2-1-3 | Good all-purpose, also feeds soil biology |
+| [[alfalfa-meal]] | 2-1-3 | Good all-purpose, also feeds soil biology |
 
 ## Key Points
 
 - Potassium is not structural -- it is a regulator of plant functions
-- It controls stomatal opening/closing, enzyme activity, water balance, and sugar transport
+- It controls stomatal opening/closing, [[enzyme]] activity, water balance, and sugar transport
 - Deficiency causes wilting and necrosis in older leaves
 - Compacted soils severely reduce potassium uptake
 - Potassium is relatively immobile in soil -- banding improves efficiency

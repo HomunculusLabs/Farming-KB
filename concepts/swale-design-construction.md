@@ -147,4 +147,3 @@ Swales create ideal planting conditions — the berm is well-drained and moistur
 - See [[food-forest-design]] for polyculture designs
 
 ### Understory Planting
-

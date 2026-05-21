@@ -147,4 +147,3 @@ Mycorrhizal colonization of roots can reduce nematode damage by:
 ### Pasteuria penetrans
 
 A bacterial parasite of root-knot nematodes. Spores attach to nematode juveniles, penetrate the body, and reproduce inside, killing the nematode. Available as a commercial biological nematicide in some regions.
-

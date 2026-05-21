@@ -27,7 +27,7 @@ Aquatic fungi are a diverse group of decomposer organisms that live and reproduc
 
 ## Ingold's Discovery
 
-Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf decomposition. When he presented his findings to the British Mycological Society, a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002).
+Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf [[decomposition]]. When he presented his findings to the [[british-mycological-society]], a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002).
 
 ## Spore Shapes and Their Function
 
@@ -55,7 +55,7 @@ Appendages do NOT slow spore descent through water — experiments show tetrarad
 
 Ingoldian fungi are critical decomposers in freshwater ecosystems:
 
-1. **Leaf decomposition**: Spores colonize submerged autumn leaves, producing mycelia that soften and macerate plant tissues by secreting cellulose-degrading enzymes
+1. **Leaf decomposition**: Spores colonize submerged autumn leaves, producing mycelia that soften and macerate plant tissues by secreting [[cellulose]]-degrading enzymes
 2. **Nutrient cycling**: Hyphae raise the protein content of leaf debris as dead plant material is transformed into living fungal tissue
 3. **Food web support**: The resulting fungal-enriched debris feeds tiny crustaceans and other aquatic invertebrates
 4. **Abundance**: Spore concentrations reach 20,000 per liter in late fall and early winter
@@ -70,7 +70,7 @@ Water plays multiple critical roles in fungal biology beyond aquatic species:
 - Acts as an internal skeleton in mycelia and mushrooms (turgor pressure)
 - Powers invasive hyphal growth through substrates
 - Is indispensable for drop-driven spore catapults (Buller's drop)
-- Creates the humidity required for fruiting body development
+- Creates the humidity required for [[fruiting-body-development]]
 
 See also [[fungal-biology-fundamentals]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]
 ## Historical Context

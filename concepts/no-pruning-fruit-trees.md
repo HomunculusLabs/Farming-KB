@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md, raw/papers/mas
 
 # No Pruning Fruit Trees
 
-Masanobu Fukuoka challenged the conventional wisdom that fruit trees must be pruned for good production. His "no pruning" approach is one of the five core principles of [[fukuoka-natural-farming-method|natural farming]].
+[[masanobu-fukuoka]] challenged the conventional wisdom that fruit trees must be pruned for good production. His "no pruning" approach is one of the five core principles of [[fukuoka-natural-farming-method|natural farming]].
 
 ## The Core Argument
 
@@ -47,7 +47,7 @@ For trees that have already been subjected to pruning, Fukuoka's approach was gr
 - [[bee-forage-plant-system]]
 ## Historical Context
 
-The study and practice of no pruning fruit trees has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
+The study and practice of no [[pruning-fruit-trees]] has evolved significantly over time, incorporating both traditional knowledge and modern scientific understanding.
 Early practitioners developed foundational techniques that continue to inform current approaches.
 Historical records document the long-standing relationship between humans and this subject area.
 Cultural traditions from diverse regions have contributed unique perspectives and methodologies.
@@ -72,7 +72,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with no pruning fruit trees spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

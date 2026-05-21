@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycofiltration and Water Treatment
 
-Mycofiltration is the use of mycelial mats and networks to filter water, removing biological and chemical contaminants. Mycelium acts as a biological filter, trapping particles and secreting enzymes and antimicrobial compounds that neutralize pathogens.
+Mycofiltration is the use of mycelial mats and networks to filter water, removing biological and chemical contaminants. [[mycelium]] acts as a biological filter, trapping particles and secreting enzymes and antimicrobial compounds that neutralize pathogens.
 
 ## How Mycofiltration Works
 
@@ -22,7 +22,7 @@ Mycelium can intercept and decompose organisms as complex as nematodes, bacteria
 
 ## E. coli and Pathogen Control
 
-Oyster mushroom (Pleurotus ostreatus) mycelium has demonstrated the ability to reduce E. coli and other coliform bacteria from water. The antimicrobial properties of mycelium make it particularly effective against waterborne pathogens. As water percolates through a mycelial mat, bacteria and other organisms are trapped and consumed by the fungal network.
+[[oyster-mushroom]] ([[pleurotus-ostreatus]]) mycelium has demonstrated the ability to reduce E. coli and other coliform bacteria from water. The antimicrobial properties of mycelium make it particularly effective against waterborne pathogens. As water percolates through a mycelial mat, bacteria and other organisms are trapped and consumed by the fungal network.
 
 ## Practical Installation
 
@@ -37,7 +37,7 @@ A mycofiltration installation demonstrated by Stamets along a contaminated road 
 
 ## Roadside Erosion Control
 
-In a demonstration project, a reclaimed road was treated with mycofiltration using oyster mushrooms as the keystone species. The reasons for selecting Pleurotus ostreatus:
+In a demonstration project, a reclaimed road was treated with mycofiltration using [[oyster-mushrooms]] as the keystone species. The reasons for selecting [[pleurotus]] ostreatus:
 
 - Indigenous, aggressive, and adaptable
 - Primary saprophyte capable of growing under a variety of conditions and temperatures
@@ -73,7 +73,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with mycofiltration water treatment spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

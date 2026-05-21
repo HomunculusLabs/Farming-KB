@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Zones and Sectors
 
-Permaculture zones and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
+[[permaculture-zones]] and sectors are the foundational spatial planning tools of [[permaculture-design]]. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 
 ## Zone Analysis
 
@@ -22,7 +22,7 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- Passive solar design elements
+- [[passive-solar-design]] elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 
@@ -35,7 +35,7 @@ Immediately surrounding the home, visited daily. Contains high-maintenance, high
 - Annual vegetable beds
 - Salad gardens and culinary herbs
 - Seedling nursery and propagation area
-- Small greenhouse or cold frame
+- Small greenhouse or [[cold-frame]]
 - Compost bins (close for kitchen scrap delivery)
 - Mushroom logs or small cultivation blocks
 - intensively managed fruit bushes (blueberries, currants)
@@ -49,8 +49,8 @@ Visited every few days. Lower maintenance than Zone 1 but still actively managed
 
 - Fruit and nut trees (semi-dwarf and standard)
 - Berry patches (raspberries, blackberries, strawberries)
-- Perennial vegetables (asparagus, rhubarb, artichokes)
-- Larger composting systems
+- [[perennial-vegetables]] (asparagus, rhubarb, artichokes)
+- Larger [[composting-systems]]
 - Poultry housing and forage areas
 - Pond or small water feature
 - Guild plantings around fruit trees
@@ -147,4 +147,3 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 ### Wildlife Sector
 
 Track animal movement corridors and foraging patterns:
-

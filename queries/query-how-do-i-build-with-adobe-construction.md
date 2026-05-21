@@ -117,4 +117,4 @@ Combined with food-producing vines on south walls and greywater irrigation from 
 ## Related Questions
 
 - [[query-how-do-i-build-with-cordwood-construction]]
-- [[query-how-do-i-build-a-rammed-earth-wall]]
+- [[query-how-do-i-build-with-rammed-earth]]

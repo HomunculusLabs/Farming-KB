@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, species, ethnobotany, psychopharmacology, preparation, safety, mycology, folklore, old-world, beginner, biochemistry]
-sources: []
+sources: [raw/papers/amanita-muscaria-herb-of-immortality.md]
 ---
 
 # Fly Agaric — Amanita muscaria

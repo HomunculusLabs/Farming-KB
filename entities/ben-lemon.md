@@ -22,11 +22,11 @@ sources:
 
 # Ben Lemon
 
-Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil.
+Author of "Cannabis Alchemy" (1979), published under the pseudonym [[nicolas-flamel]]. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, [[thc-acetate-synthesis]], and purification techniques for cannabis oil.
 
 ## Context
 
-"Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to cannabis oil extraction and chemical modification, predating the modern commercial concentrate industry by decades.
+"Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to [[cannabis-oil-extraction]] and chemical modification, predating the modern commercial concentrate industry by decades.
 
 The pseudonym "Nicolas Flamel" references the legendary 14th-century French scribe and alchemist supposedly capable of transmuting base metals into gold -- appropriate for a book about transforming plant material into purified concentrates.
 
@@ -39,10 +39,10 @@ Documented a complete kitchen-scale refluxing apparatus using household items (s
 Detailed the acid-catalyzed conversion of cannabidiol (non-psychoactive) to THC using sulfuric acid in ethanol. This technique can double or more the potency of cannabis oil by converting the typically abundant CBD fraction. The book notes that CBD quantity "is usually at least equal to the quantity of THC," making isomerization highly impactful.
 
 ### THC Acetate
-Documented the synthesis of THC acetate from high-rotating THC using acetic anhydride in a nitrogen-atmosphere safety box. THC acetate has approximately twice the potency of THC on the Adams scale (7.3 vs 14.6) with a 30-minute onset delay and more psychedelic character.
+Documented the synthesis of [[thc-acetate]] from high-rotating THC using [[acetic-anhydride]] in a nitrogen-atmosphere safety box. THC acetate has approximately twice the potency of THC on the Adams scale (7.3 vs 14.6) with a 30-minute onset delay and more psychedelic character.
 
 ### Purification Techniques
-- Petroleum ether re-extraction for removing water-soluble tars
+- [[petroleum-ether]] re-extraction for removing water-soluble tars
 - Activated charcoal filtering for producing translucent "honey oil"
 - Fractional distillation under vacuum for further refinement
 - Chromatographic isolation of pure cannabidiol and conversion to pure THC

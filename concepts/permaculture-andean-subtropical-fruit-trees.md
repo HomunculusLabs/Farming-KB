@@ -12,7 +12,7 @@ created: 2026-05-11
 
 The Andean highlands and subtropical margins of [[hamilton-vegetative-propagation]] (cuttings) is preferred for babaco and pepino to preserve selected traits and accelerate production. Tamarillo cuttings yield bushier, more manageable plants ideal for small gardens. Always use fresh seed for papaya; viability drops rapidly after 6 months.
 
-Acerola seed is usually true to type, simplifying seedling [[permaculture-plant-selection]] — Overview of Nugent & Boniface's plant catalogue
+Acerola seed is usually true to type, simplifying seedling [[permaculture-plant-selection-guide]] — Overview of Nugent & Boniface's plant catalogue
 - food forest permaculture — Vertical stacking [[permaculture-pioneer-species]] — Fast-establishing plants for new systems
 - [[cannabis-propagation-techniques]]
 - andean agricultural traditions — Indigenous land-use patterns in the Andes

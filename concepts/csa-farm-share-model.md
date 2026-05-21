@@ -147,4 +147,3 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 - Hire help at 50+ members (see [[homestead-labor-and-volunteers]])
 - Software helps manage memberships: Harvie, Barn2Door, CSAware
 - Winter shares extend revenue and maintain member relationships year-round
-

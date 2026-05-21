@@ -13,11 +13,11 @@ Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil,
 
 ## How Fungi Degrade Petroleum
 
-The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, manganese peroxidase, and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
+The enzymes that [[white-rot-fungi]] use to break down lignin -- particularly [[lignin-peroxidase]], [[manganese-peroxidase]], and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
 
 Key species for petroleum remediation:
 
-- **Oyster mushroom (Pleurotus ostreatus)**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, oyster mushrooms fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
+- **[[oyster-mushroom]] ([[pleurotus-ostreatus]])**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, [[oyster-mushrooms]] fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
 - **Turkey tail (Trametes versicolor)**: White rot polypore with strong lignin-degrading enzyme production.
 - **Reishi (Ganoderma lucidum)**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
 - **King stropharia (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.

@@ -9,17 +9,17 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Sepp Holzer Method
 
-Sepp Holzer's approach to farming and gardening centers on working with nature rather than against it. Operating the Krameterhof in Austria at altitudes up to 1,500m, Holzer has developed practical techniques that reject chemical fertilisers, pesticides, and monoculture.
+[[sepp-holzer]]'s approach to farming and gardening centers on working with nature rather than against it. Operating the Krameterhof in Austria at altitudes up to 1,500m, Holzer has developed practical techniques that reject chemical fertilisers, pesticides, and monoculture.
 
 ## Core Principles
 
 ### Soil Fertility
 
-Every plant has its own requirements and affects its surroundings and the soil in a different way. In monoculture the demands on the soil are unbalanced, and the nutrient content becomes lower and lower until it is completely exhausted. To regenerate exhausted soil, the soil life must be looked after first. The creatures living in the soil — earthworms, bacteria and fungi among others — are the key to healthy soil. Avoiding pesticides and chemical fertilisers is essential, as is avoiding deep ploughing in autumn, which causes the soil to freeze and destroys soil life and the natural layering.
+Every plant has its own requirements and affects its surroundings and the soil in a different way. In monoculture the demands on the soil are unbalanced, and the nutrient content becomes lower and lower until it is completely exhausted. To regenerate exhausted soil, the [[soil-life]] must be looked after first. The creatures living in the soil — earthworms, bacteria and fungi among others — are the key to healthy soil. Avoiding pesticides and chemical fertilisers is essential, as is avoiding deep ploughing in autumn, which causes the soil to freeze and destroys soil life and the natural layering.
 
 ### Green Manure
 
-A good mixture of green manure crops is very important so that the individual plants can propagate themselves. This increases the stability of the system and its value for the soil, soil life and beneficial insects. When biomass is left on these areas it benefits the soil and soil life. The slow decomposition of green manure crops in autumn and winter builds up a productive layer of soil. The biomass and loosening of the soil (caused by the root systems) leads to a good soil structure.
+A good mixture of [[green-manure-crops]] is very important so that the individual plants can propagate themselves. This increases the stability of the system and its value for the soil, soil life and beneficial insects. When biomass is left on these areas it benefits the soil and soil life. The slow decomposition of [[green-manure]] crops in autumn and winter builds up a productive layer of soil. The biomass and loosening of the soil (caused by the root systems) leads to a good soil structure.
 
 ### Old Varieties and Plant Diversity
 
@@ -31,7 +31,7 @@ Monoculture farming practices are completely unnatural, cause many problems and 
 
 ### Alpine Plants
 
-Holzer's experience cultivating plants from Alpine regions has taught him that all events in nature should be observed closely. For example, yellow gentians (Gentiana lutea) only germinate under extreme climatic conditions — repeated cycles of frost, warmth, rain, and snow. Nature cannot be "improved" upon. Alpine plants often require symbiotic fungi in the soil, which can be introduced by taking soil from near the roots of the parent plant.
+Holzer's experience cultivating plants from Alpine regions has taught him that all events in nature should be observed closely. For example, yellow gentians ([[gentiana-lutea]]) only germinate under extreme climatic conditions — repeated cycles of frost, warmth, rain, and snow. Nature cannot be "improved" upon. Alpine plants often require symbiotic fungi in the soil, which can be introduced by taking soil from near the roots of the parent plant.
 
 ### Livestock Integration
 
@@ -70,7 +70,7 @@ Longitudinal studies provide increasingly robust data for evidence-based decisio
 Applied work with sepp holzer method spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring protocols.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 Safety considerations and regulatory compliance are essential components of responsible practice.
 
 ## Future Directions

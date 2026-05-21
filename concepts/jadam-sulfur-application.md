@@ -10,7 +10,7 @@ sources:
 
 # JADAM Sulfur (JS)
 
-JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
+[[jadam-sulfur]] (JS), also called red clay-sulfur, is a powerful germicide developed by [[youngsang-cho]]. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 
 ## Cost and Efficiency
 
@@ -18,7 +18,7 @@ Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can
 
 ## What It Controls
 
-Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
+Effective against: black spot, pear rust, [[powdery-mildew]], [[downy-mildew]], and most fungal diseases.
 
 ## Ingredients (for 100 L batch)
 

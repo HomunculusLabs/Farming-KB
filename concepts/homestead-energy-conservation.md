@@ -147,4 +147,3 @@ Saving water saves energy (pumping, heating, treating):
 - Greywater recycling for irrigation (see [[graywater-systems]])
 - Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])
 - Mulch gardens heavily to reduce irrigation needs
-

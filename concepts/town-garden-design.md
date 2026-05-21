@@ -12,7 +12,7 @@ sources:
 
 ## Purpose
 
-In principle, a garden in town has the same purpose as a kitchen garden. Sepp Holzer considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
+In principle, a garden in town has the same purpose as a kitchen garden. [[sepp-holzer]] considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
 
 ## Design Principles
 
@@ -30,9 +30,9 @@ Valuable space can be gained by creating raised beds and terraces. These provide
 
 ### Soil Preparation
 
-Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active soil life develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
+Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active [[soil-life]] develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
 
-For heavy loam soil that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
+For heavy [[loam-soil]] that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
 
 **Important:** When using an excavator, first determine the location of telephone cables, gas, water, and sewage pipes.
 

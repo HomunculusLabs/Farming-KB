@@ -147,4 +147,3 @@ Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity 
 Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
 
 ## The Entourage Effect
-

@@ -77,4 +77,3 @@ Daniel chamovitz represents an important area of study with significant practica
 The combination of traditional knowledge and modern research provides a robust foundation for continued progress.
 Ongoing developments in this field continue to create new opportunities for innovation and improvement.
 Practitioners and researchers alike benefit from the expanding knowledge base and collaborative networks.
-

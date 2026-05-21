@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value.
+Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of [[ergothioneine]], selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value.
 
 ## Macronutrient Profile
 
@@ -28,9 +28,9 @@ Mushrooms contain moderate amounts of protein with a favorable amino acid profil
 
 ### Carbohydrates and Fiber
 
-- Total carbohydrate (fresh): 3-5 g per 100 g
+- Total [[carbohydrate]] (fresh): 3-5 g per 100 g
 - Dietary fiber: 1-3 g per 100 g fresh
-- Primary fiber types: beta-glucans, chitin, hemicellulose
+- Primary fiber types: beta-glucans, chitin, [[hemicellulose]]
 - Low glycemic index: Minimal impact on blood sugar
 - Fiber acts as a prebiotic, supporting beneficial gut bacteria
 - Chitin (fungal cell wall polymer) is indigestible by humans but contributes to satiety and gut health
@@ -39,7 +39,7 @@ Mushrooms contain moderate amounts of protein with a favorable amino acid profil
 
 - Very low in fat: 0.1-0.5 g per 100 g fresh
 - Fat is primarily unsaturated (linoleic acid, oleic acid)
-- Contains small amounts of ergosterol (vitamin D2 precursor)
+- Contains small amounts of [[ergosterol]] (vitamin D2 precursor)
 - Essentially fat-free, making mushrooms ideal for low-fat diets
 
 ### Calories
@@ -120,7 +120,7 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 
 ### Lovastatin
 
-- Found naturally in oyster mushrooms and shiitake
+- Found naturally in [[oyster-mushrooms]] and shiitake
 - Cholesterol-lowering compound (same as pharmaceutical statins)
 - Content varies by species and growing conditions
 

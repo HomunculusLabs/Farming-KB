@@ -147,4 +147,3 @@ Fukuoka's method for growing vegetables on hillsides between citrus trees:
 - **White clover as living mulch**: Can smother even strong weeds like mugwort and crabgrass; enriches soil and keeps ground moist and aerated
 
 ## Orchard Restoration: Barren Red Clay to Rich Soil
-

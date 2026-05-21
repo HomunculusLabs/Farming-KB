@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles in nutrient cycling, plant health, decomposition, and ecosystem stability, yet they are frequently excluded from biodiversity conservation planning and land-use management decisions (Hawksworth, 1991).
+Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles in nutrient cycling, plant health, [[decomposition]], and ecosystem stability, yet they are frequently excluded from biodiversity conservation planning and land-use management decisions (Hawksworth, 1991).
 
 ## The Scale of the Problem
 
@@ -40,7 +40,7 @@ Collections maintained in herbaria and their associated data are invaluable reso
 
 ### Bioindicator Approaches
 
-Coprophilous fungi and other specialized groups can serve as useful indicators of both biodiversity and habitat quality, allowing for relatively quick, simple, inexpensive quantitative assessment. Hyde and Hawksworth (1997) suggested that realistic estimates of microfungal diversity may be impractical at full scale, but targeted indicator groups can provide actionable conservation data.
+[[coprophilous-fungi]] and other specialized groups can serve as useful indicators of both biodiversity and habitat quality, allowing for relatively quick, simple, inexpensive quantitative assessment. Hyde and Hawksworth (1997) suggested that realistic estimates of microfungal diversity may be impractical at full scale, but targeted indicator groups can provide actionable conservation data.
 
 ### Integration with Land-Use Planning
 
@@ -74,7 +74,7 @@ Interdisciplinary approaches have proven particularly valuable in advancing our 
 Applied work with fungal conservation strategies spans multiple contexts and scales, from small-scale operations to industrial applications.
 Successful implementation requires attention to site-specific conditions and adaptive management strategies.
 Practitioners benefit from integrating both empirical observations and systematic monitoring.
-Economic viability often depends on careful resource allocation and appropriate technology selection.
+Economic viability often depends on careful resource allocation and [[appropriate-technology]] selection.
 
 ## Future Directions
 

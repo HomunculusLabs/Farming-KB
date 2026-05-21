@@ -25,11 +25,11 @@ sources:
 
 # Michael Harner
 
-American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973).
+American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "[[hallucinogens-and-shamanism]]" (1973).
 
 ## Overview
 
-Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in shamanism was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial.
+Michael Harner was an anthropologist who conducted fieldwork among the [[jivaro]] (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in [[shamanism]] was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial.
 
 ## Key Contributions
 
@@ -42,7 +42,7 @@ Harner's edited anthology was one of the first academic works to systematically 
 - "The theoretical literature has largely overlooked the fact that even this 'classic' [Siberian] shamanism often involved the use of hallucinogen"
 - Hallucinogenic experiences "may have also played a role in the innovation of" supernatural beliefs
 
-The anthology covered Jivaro, Cashinahua, Sharanahua, and Campa use of Banisteriopsis (ayahuasca) in the Upper Amazon, as well as other global traditions.
+The anthology covered Jivaro, [[cashinahua]], [[sharanahua]], and Campa use of Banisteriopsis (ayahuasca) in the Upper Amazon, as well as other global traditions.
 
 ### Jivaro Fieldwork
 
@@ -58,7 +58,7 @@ Harner later founded the Foundation for Shamanic Studies and developed "core sha
 
 ## See Also
 
-- [[siberian-shamanism-and-amanita]] — Siberian shamanism with fly-agaric, as discussed by Harner
+- [[siberian-shamanism-and-amanita]] — [[siberian-shamanism]] with fly-agaric, as discussed by Harner
 - [[r-gordon-wasson]] — Wasson's Mexican mushroom discoveries that complement Harner's Amazonian work
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice
