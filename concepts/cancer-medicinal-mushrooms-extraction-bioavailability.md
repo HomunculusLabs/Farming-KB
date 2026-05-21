@@ -1,11 +1,7 @@
 ---
 title: mushroom-extraction-methods and Bioavailability
 created: 2026-04-26
-tags: [extraction, query-what-are-the-main-bioactive-compounds-in-medicinal-plants from medicinal
-mushrooms is critical to their therapeutic application. Hot water
-extracts of many mushrooms used in traditional Chinese medicine have
-long been used in the treatment of various diseases including cancer.
-However, it is only within the last three decades that chemical
+tags: [extraction]
 technology has been able to isolate the relevant compounds for use in
 controlled experiments. At least 30 mushroom species have yielded
 compounds with pronounced anticancer actions in xenografts, but only

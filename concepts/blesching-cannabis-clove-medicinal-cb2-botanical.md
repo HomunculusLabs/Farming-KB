@@ -1,10 +1,6 @@
 ---
 title: "Clove as a CB2-Active Medicinal Botanical"
-tags: [clove, beta-caryophyllene, cannabis-health-index (CHI) identifies clove as containing approximately 4% (E)-blesching-cannabis-cannabinoid-terpene-entourage-effect for synergistic compound interactions
----
-## Background and Context
-
-Clove as a CB2-Active Medicinal Botanical is an important subject that has garnered significant attention
+tags: [clove, beta-caryophyllene]
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

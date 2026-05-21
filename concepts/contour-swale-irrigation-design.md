@@ -1,11 +1,7 @@
 ---
 title: Contour Swale Irrigation Design
 created: 2026-04-28
-tags: [swales, contour, irrigation, water-harvesting, bill-mollison's water-management. They
-transform destructive runoff into productive soil moisture, charge
-groundwater, reduce erosion, and create ideal growing conditions for trees
-and water-loving plants. In urban areas, swales can absorb 100% of on-site
-rainfall, eliminating the need for conventional drainage infrastructure.
+tags: [swales, contour, irrigation, water-harvesting, chargegroundwater, reduce erosion, swales can absorb 100% of on-siterainfall]
 ---
 
 ## What Is a Swale

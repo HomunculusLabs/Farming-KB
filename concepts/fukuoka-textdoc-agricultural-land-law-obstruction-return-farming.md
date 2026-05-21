@@ -1,11 +1,7 @@
 ---
 title: Fukuoka Textdoc Agricultural Land Law Obstruction Return Farming
 created: 2026-04-28
-tags: [fukuoka, masanobu-fukuoka identifies the legal framework surrounding
-land ownership and use as the primary structural obstacle
-preventing people from returning to farming. Japan's
-Agricultural Land Law, originally enacted to protect tenant
-farmers, has become the very instrument that blocks new
+tags: [fukuoka, originally enacted to protect tenantfarmers, has become the very instrument that blocks new]
 farmers from accessing farmland. Combined with soaring land
 prices driven by speculative zoning, the legal system
 effectively removes land from the hands of those who wish to

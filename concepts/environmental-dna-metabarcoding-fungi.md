@@ -1,10 +1,7 @@
 ---
 title: Environmental Dna Metabarcoding Fungi
 created: 2026-04-28
-tags: [mycology, metagenomics, methodology, environmental-dna-sequencing-fungi
-date: 2026-04-28
-updated: 2026-04-28
-sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
+tags: [mycology, metagenomics, methodology]
 type: concept
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: mollison life in earth burrowers roots: Burrowers and Root Systems
 created: 2026-04-26
-tags: [soil-ecology, roots, burrowers, bill-mollison's chapter "Life in Earth" in Permaculture: A
-Designers' Manual presents a richly detailed account of the
-underground world, arguing that before humans ever learned to
-cut open the soil, it was thoroughly dug, aerated, and
-overturned by multitudes of industrious burrowers. The
+tags: [soil-ecology, roots, burrowers, it was thoroughly dug, aerated]
 unploughed meadows of Europe and America are as soft as a great
 mattress, well aerated due to moles, gophers, worms, prairie
 dogs, rodents, and larvae eternally at work fungal-endophytes-agricultural-crops exploit from 0.6-4 m below the earth,

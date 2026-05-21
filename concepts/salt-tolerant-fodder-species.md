@@ -1,11 +1,7 @@
 ---
 title: Salt Tolerant Fodder Species
 created: 2026-04-28
-tags: [saline-land, fodder, land-rehabilitation, grass-seed-substrate-preparation-rye-grass-mycology. Suited to areas with 350
-mm or more rainfall and tolerant of winter waterlogging.
----
-
-### Paspalum distichum (Salt Water Couch)
+tags: [saline-land, fodder, land-rehabilitation]
 
 Suited to summer-damp bogs, gullies, and seepage areas. Tolerant of
 water containing up to 14,000 ppm total soluble salts. Produces

@@ -3,11 +3,7 @@ title: Mckenna I Thou Ethics Entity Encounter
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [entity-encounter, ethics, tryptamines, DMT, terence-mckenna, martin-buber, i-thou, phenomenology, hyperspace, shamanism
-sources:
-  - raw/papers/mckenna_t-tryptamines_consciousness.md
----
-
+tags: [entity-encounter, ethics, tryptamines, DMT, terence-mckenna, martin-buber, i-thou, phenomenology, hyperspace]
 ## I/Thou Ethics in the Tryptamine Entity Encounter
 
 ## Overview

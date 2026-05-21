@@ -2,11 +2,7 @@
 title: "Cichorium intybus"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, species, asteraceae, foraging, panax-ginseng as a bitter
-digestive tonic, and its role in nutrient-dynamic-accumulator-reference. Cultivated forms include
-radicchio, Belgian endive, and sugarloaf chicory.
----
-
+tags: [herbal-plant, species, asteraceae, foraging, panax-ginseng as a bitterdigestive tonic, Belgian endive, and sugarloaf chicory.---]
 ## Taxonomy and Naming
 - **Kingdom:** Plantae | **Division:** Magnoliophyta
 - **Class:** Magnoliopsida | **Order:** Asterales

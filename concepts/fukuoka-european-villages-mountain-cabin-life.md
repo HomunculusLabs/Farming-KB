@@ -3,11 +3,7 @@ title: Fukuoka European Villages Mountain Cabin Life
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, acacia, and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
----
-
-- There is nothing else that is needed
-
+tags: [fukuoka, acacia, and other trees, clothing, shelter, and fuel.---- There is nothing else that is needed]
 - An environment where water comes from a valley spring and human wastes are returned to the soil is the cleanest
 
 - It is a place where people can live a free and pleasant life

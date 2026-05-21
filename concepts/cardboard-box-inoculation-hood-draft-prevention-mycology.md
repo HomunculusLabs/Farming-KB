@@ -1,10 +1,6 @@
 ---
 title: Cardboard Box Inoculation Hood Draft Prevention Mycology
-tags: [mycology, accessible-mushroom-cultivation-for-disabilities. Despite its simplicity, it provides
-meaningful protection against airborne contaminants by shielding the
-workspace from drafts while allowing the cultivator to work through an
-open front panel.
----
+tags: [mycology]
 
 ## Why Draft Prevention Matters
 

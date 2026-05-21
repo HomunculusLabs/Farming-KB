@@ -1,11 +1,7 @@
 ---
 title: mollison village enterprises occupations and Occupations
 created: 2026-04-26
-tags: [village, enterprise, economy, community, arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
-by experienced practitioners. These practices represent distilled wisdom
-about what works reliably across a range of conditions. However, they
-should be treated as guidelines rather than rigid rules, with adaptation
-to local conditions always taking precedence over textbook approaches.
+tags: [village, enterprise, economy, community]
 ---
 
 Common pitfalls and mistakes that practitioners should be aware of

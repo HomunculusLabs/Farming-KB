@@ -3,11 +3,7 @@ title: Knf Fmc Method 1 Detailed
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [knf, comparison-natural-farming-vs-permaculture. Method-1 is the detailed, temperature-monitored composting process that produces high-quality humus for soil building. Unlike conventional composting, FMC Method-1 follows a strict turning schedule based on internal temperature readings, with the goal of completing fermentation in approximately 20 days while maintaining sweet-smelling, aerobic conditions.
----
-
-## Overview
-
+tags: [knf, aerobic conditions.---## Overview]
 FMC is made from a mixture of organic materials fermented with cervantes-reservoir-temperature-management:
 
 - **Target fermentation range:** 40-50C

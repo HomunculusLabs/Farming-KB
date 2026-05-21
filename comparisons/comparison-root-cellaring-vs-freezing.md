@@ -1,9 +1,6 @@
 ---
 title: Comparison Root Cellaring Vs Freezing
-tags: [comparison, food-preservation, root-cellar, freezing, homesteading
-date: 2026-05-08
-updated: 2026-05-08
-sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
+tags: [comparison, food-preservation, root-cellar, freezing]
 ---
 
 ## Root Cellaring vs Freezing
@@ -78,3 +75,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+The practical implications of choosing between these approaches depend on specific crop requirements and available infrastructure.
+Growers should consider their local climate, storage duration needs, and energy costs when making a selection.

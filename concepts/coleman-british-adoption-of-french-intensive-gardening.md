@@ -3,11 +3,7 @@ title: Coleman British Adoption Of French Intensive Gardening
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels, coleman-claytonia-winter-harvest-cultivation Handbook"
----
-
-## British Adoption of French Intensive Gardening
-
+tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels]
 The transfer of French intensive cervantes-chemical-fertilizers-guide as "pompously labeled and
 unworthy drugs." The gardening world finally took notice.
 

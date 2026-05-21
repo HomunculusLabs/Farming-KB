@@ -1,11 +1,7 @@
 ---
 title: Coleman Unheated Greenhouse Design
 created: 2026-04-26
-tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, coleman-greenhouse-summer-crops before the seasonal move.
----
-
-## Structural Details: Gothic-Style Hoops
-
+tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel]
 Gothic-style (pointed-arch) hoop design is preferred over Quonset (half-circle) profiles because the gothic shape sheds snow and rain more effectively. In climates with significant snowfall, this is critical — snow loads can collapse flatter structures. The pointed arch also provides greater headroom at the sides of the tunnel, making it easier to work near the edges of the growing beds.
 
 Corner diagonal bracing on the shorter houses provides lateral stability during moves and under wind loads. Crossbars on each hoop serve a dual purpose: preventing splaying during moves and providing overhead structure for trellising tomatoes, cucumbers, and other vining crops during the summer coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system has a finite lifespan, typically 3 to 4 years depending on UV exposure and local conditions. Anti-drip coatings can degrade over time, losing their effectiveness. Coleman recommends regular inspection for tears, UV degradation, and loss of the anti-drip properties. The timing of plastic replacement should be coordinated with the greenhouse movement cycle — replacing the plastic when the house is in one position so the newly covered house can be moved to the alternate site.

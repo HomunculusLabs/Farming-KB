@@ -1,10 +1,7 @@
 ---
 title: Psychedelic Therapy Foundations
 created: 2026-04-28
-tags: [psychedelic-therapy, psilocybin, Harvard, Leary, clinical-research, mystical-experience
-date: 2026-04-25
-updated: 2026-04-25
-sources: [the-psilocybin-solution-by-simon-g-powell.md]
+tags: [psychedelic-therapy, psilocybin, Harvard, Leary, clinical-research]
 type: concept
 ---
 

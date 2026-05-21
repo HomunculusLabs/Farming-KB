@@ -1,11 +1,7 @@
 ---
 title: Shirota Glyoxalylamide Formation Oxalyl Chloride Indole
 aliases: ["oxalyl chloride indole acylation", "glyoxalylamide-intermediate-in-tryptamine-synthesis tryptamine", "Shirota oxalyl chloride procedure"]
-tags: [synthesis, shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis that will ultimately become the ethylamine moiety of psilocin. The reaction proceeds through a crystalline glyoxalyl chloride intermediate that is isolated as yellow crystals.
----
-
-## The Two-Step Conversion
-
+tags: [synthesis]
 The conversion of 4-acetylindole to 3-dimethylaminooxalyl-4-acetylindole proceeds in two discrete steps within the same reaction sequence.
 
 First, 4-acetylindole is acylated at the 3-position of the indole ring using oxalyl chloride. This introduces an oxalyl chloride group at the reactive 3-position, forming a glyoxalyl chloride intermediate.

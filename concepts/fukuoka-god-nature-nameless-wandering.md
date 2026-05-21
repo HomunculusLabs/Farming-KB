@@ -3,11 +3,7 @@ title: Fukuoka: God and Nature as One -- The Nameless God
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle onto a mountain, if this flows left, it becomes fukuoka-western-eastern-philosophy-agriculture
----
-
-- When seen from the left, the individual sitting on the summit may appear as the face of Christ
-
+tags: [fukuoka, if this flows left]
 - Seen from the right, he may appear as the Japanese deity
 
 - And seen from the south, perhaps he has the countenance of Gautama

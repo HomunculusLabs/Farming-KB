@@ -2,11 +2,7 @@
 title: "Psilocybe equestris"
 created: 2026-04-28
 type: species
-tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, agaricales
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/stamets-psilocybin-mushrooms-of-the-world.md"
+tags: [fungi, psilocybe, psychedelic-mushroom, entheogen]
 ---
 
 ## Psilocybe equestris
@@ -78,3 +74,7 @@ surface is smooth to finely pruinose near the apex. No annulus or
   grasses. Not associated with dung or [[fungal-succession-woody-debris-ecology]].
 - **Season:** Late summer to autumn, typically fruiting from August
   through November depending on latitude and altitude.
+
+The taxonomic classification and ecological role of psilocybe equestris continue to be subjects of ongoing research.
+Field observations and herbarium specimens contribute to our understanding of its distribution patterns.
+Further molecular studies may clarify relationships within its broader taxonomic group.

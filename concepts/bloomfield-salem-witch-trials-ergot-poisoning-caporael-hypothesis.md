@@ -15,11 +15,7 @@ concepts:
   - rye-bread-contamination
   - colonial-america
   - fungal-toxicology
-tags: [history, claviceps-purpurea*, the ergot
-fungus. This hypothesis connects one of the most notorious episodes in
-American colonial history to mycotoxicology.
----
-
+tags: [history, claviceps-purpurea*]
 ## The Salem Context
 
 The women accused of witchcraft in Salem, Massachusetts, in the seventeenth

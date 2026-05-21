@@ -3,11 +3,7 @@ title: Salvinorin A Kappa Opioid Receptor Pharmacology
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 source_author: John H. Halpern
 source_journal: Pharmacology & Therapeutics 102 (2004) 131-138
-tags: [pharmacology, golden-guide-salvia-divinorum-and-diviner-sage*,
-represents a unique pharmacological entity among naturally occurring
-hallucinogens. Unlike virtually all other known natural and synthetic
-hallucinogens — which act primarily as agonists or partial agonists at
-the 5-HT2A psilocybin, DMT, LSD), the
+tags: [pharmacology, golden-guide-salvia-divinorum-and-diviner-sage*, DMT, LSD), the]
 phenethylamine-based hallucinogens (atropine, mushroom-taste-route-of-administration-and-consumption-barriers significantly affects both intensity and
 duration, with smoking producing a much more intense, shorter
 experience.

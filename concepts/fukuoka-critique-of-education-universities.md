@@ -3,11 +3,7 @@ title: Fukuoka Critique Of Education Universities
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, fukuoka-natural-farming was capable of yielding eight to twelve bushels per quarter-acre, man destroyed the soil and rice by breeding weaker varieties
----
-
-- Mankind has put himself in the position where, unless further progress is made, it will no longer be possible to harvest the yields of yesterday
-
+tags: [fukuoka, unless further progress is made]
 - Scientists think they are conducting research to increase yields, but all they have actually been doing is developing techniques for reducing declines in yield
 
 - The pattern: first man creates unnatural and incomplete conditions, then develops technology to restore productivity, then brands this proudly as progress

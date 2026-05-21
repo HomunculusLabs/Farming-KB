@@ -1,11 +1,7 @@
 ---
 title: PF TEK pf-tek-ethyl-alcohol-extraction-liqueur-concentration Method
 created: 2026-04-28
-tags: [pf-tek, extraction, cannabis-solvent-extraction in mycology communities at the time of writing.
----
-
-## Materials Required
-
+tags: [pf-tek, extraction]
 - Quality dried dmt-containing-plants-united-states-halpern. Full-service liquor stores
 supply hospitals and laboratories with this product. If a particular store does
 not carry it, the staff will typically know where it can be obtained.

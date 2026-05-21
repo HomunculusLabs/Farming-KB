@@ -1,11 +1,7 @@
 ---
 title: "comparison-composting-toilets-vs-greywater-systems-detailed"
 created: 2026-04-28
-tags: [permaculture, bill-mollison strongly advocated for
-composting toilets as a fundamental permaculture technology.
----
-
-## The Problem with Flush Toilets
+tags: [permaculture]
 
 Mollison frequently pointed out that a single flush toilet contaminates
 approximately 13,000 liters of clean water per year to transport a few

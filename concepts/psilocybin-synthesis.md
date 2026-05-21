@@ -1,11 +1,7 @@
 ---
 title: Psilocybin Synthesis
 aliases: hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin intermediate]
-tags: [chemistry, synthesis, psilocybin, tryptamines, psilocin represents the more challenging half of the Shirota, Hakamata, and
-Goda synthesis. The key innovation was the discovery that the phosphorylated
-intermediate undergoes an intramolecular conversion to a zwitterionic
-derivative that can be isolated by simple filtration in high yield, enabling
-gram-scale production of psilocybin without any chromatographic purification.
+tags: [chemistry, synthesis, psilocybin, tryptamines, Hakamata]
 This represented a dramatic improvement over previous synthetic routes.
 ---
 

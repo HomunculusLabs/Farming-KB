@@ -2,11 +2,7 @@
 title: Panaeolus castaneifolius
 created: 2026-04-28
 type: species
-tags: [panaeolus, stamets-psilocybin-genera-beyond-psilocybe, with only some species producing psychoactive
-compounds.
----
-
-## Description
+tags: [panaeolus, stamets-psilocybin-genera-beyond-psilocybe]
 
 - **Cap**: 1 to 3 (4) cm broad. Distinctly campanulate at first, soon
   subhemispheric, then convex and becoming broadly convex in age. Margin

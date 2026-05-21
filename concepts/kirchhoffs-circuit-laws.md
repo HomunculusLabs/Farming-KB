@@ -1,11 +1,7 @@
 ---
 title: "Kirchhoff's Circuit Laws"
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
-tags: [electrical-engineering, circuits, electromagnetism, mycelial-network-graph-theory-analysis|network.
----
-
-## Voltage Law
-Kirchhoff's voltage law, often abbreviated KVL, is a loop balance for electric potential differences.
+tags: [electrical-engineering, circuits, electromagnetism, often abbreviated KVL]
 
 Around a closed path in an ideal lumped circuit, the total voltage rise equals the total voltage drop.
 

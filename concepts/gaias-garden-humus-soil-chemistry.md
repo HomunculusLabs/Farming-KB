@@ -1,11 +1,7 @@
 ---
 title: "Humus - The Foundation of Soil Health"
 created: 2026-04-26
-tags: [soil-science, humus, organic-matter, soil-food-web, decomposition, a stable, incredibly
-complex group of molecules that only slowly undergoes further
-breakdown. soil-life quickly converts to energy,
-query-can-fungi-break-down-plastic-pollution these tenacious
-molecules.
+tags: [soil-science, humus, organic-matter, soil-food-web, decomposition, a stable]
 ---
 
 In a process that is poorly understood, microbes and other

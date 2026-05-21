@@ -1,10 +1,6 @@
 ---
 title: Comparison Phosphorus Solubilizing Microorganisms Vs Mycorrhizal Phosphorus Acquisition
-tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, arbuscular-mycorrhizal-fungi fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
-| **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
-type: comparison
----
-
+tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition]
 ## How PSMs Solubilize Phosphorus
 
 Phosphorus-solubilizing microorganisms employ three principal biochemical strategies:

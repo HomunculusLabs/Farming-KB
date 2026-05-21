@@ -1,11 +1,7 @@
 ---
 title: What Is Jujube (Chinese Date) and How Do I Grow It?
 created: 2026-04-28
-tags: [jujube, chinese-date, ziziphus-jujuba, query
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-type: query
+tags: [jujube, chinese-date, ziziphus-jujuba]
 ------# What Is Jujube (Chinese Date) and How Do I Grow It?
 
 A comprehensive growing guide for one of the most underappreciated fruit trees
@@ -80,3 +76,5 @@ Jujube is one of the most versatile fruit trees in the kitchen:
   confection.
 - **Medicine** — In [[permaculture-design]]
 - [[permaculture-principles]]
+
+Additional regional growing guides and extension service resources can provide location-specific cultivation advice.

@@ -10,11 +10,7 @@ aliases:
   - Herman Poole Blount
   - Sonny Blount
   - Sun Ra Arkestra
-tags: [person, jazz, octavia-e-butler
-- peyote-and-psychoactive-cacti
----
-## Practical Applications
-
+tags: [person, jazz]
 Sun Ra has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their

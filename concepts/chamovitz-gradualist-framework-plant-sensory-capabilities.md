@@ -1,7 +1,6 @@
 ---
 title: "Chamovitz Gradualist Framework for Plant Sensory Capabilities"
-tags: [plant-biology, plant-senses, awareness, consciousness, chamovitz, the-aware-plant-plant-consciousness-debate, chamovitz-what-a-plant-knows-overview, chamovitz-plant-senses-overview
-source: [grahamholmes-what-a-plant-knowsindd]
+tags: [plant-biology, plant-senses, awareness, consciousness, chamovitz, the-aware-plant-plant-consciousness-debate, chamovitz-what-a-plant-knows-overview]
 created: 2026-05-10
 ---
 

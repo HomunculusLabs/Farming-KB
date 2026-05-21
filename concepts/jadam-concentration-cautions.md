@@ -3,11 +3,7 @@ title: Jadam Concentration Cautions
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [jadam, coleman-deep-organic-farming-philosophy, pp.300-302 (jadam-pesticide-dosage-guide ingredients.
----
-
-## General Principle
-
+tags: [jadam, coleman-deep-organic-farming-philosophy]
 - Always do **small-scale experiments** on your own farm before moving to the entire field
 - Test on a few plants first, wait 24-48 hours, observe for stress symptoms
 - Start with the lowest recommended concentration and increase gradually

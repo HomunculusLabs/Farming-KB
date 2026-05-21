@@ -1,11 +1,7 @@
 ---
 title: Moringa Oleifera
 type: species
-tags: [herbal-plant, superfood, medicinal, short-day-and-long-day-plant-classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Order | **Brassicales** |
-| Family | **Moringaceae** |
+tags: [herbal-plant, superfood, medicinal]
 | Genus | **Moringa** |
 | comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing, dighton-fungal-drought-tolerance-plant-water-relations. Leaves are tripinnately compound, 30–60 cm long, with 2–3 pairs of pinnae bearing 4–6 pairs of elliptic to obovate leaflets (1–2 cm × 0.5–1.2 cm). Inflorescences are axillary panicles (15–25 cm) with fragrant, bisexual flowers bearing 5 dighton-fungal-nutritional-composition-animal-diets Profile
 ---

@@ -1,10 +1,7 @@
 ---
 title: Knf Ohn Oriental Herbal Nutrient Recipe
 created: 2026-04-28
-tags: [knf, ohn, herbal-nutrient, fermentation, korean-natural-farming
-date: 2026-04-27
-updated: 2026-04-27
-sources: [raw/papers/master-cho-knf-recipe-book.md]
+tags: [knf, ohn, herbal-nutrient, fermentation]
 type: concept
 ---
 

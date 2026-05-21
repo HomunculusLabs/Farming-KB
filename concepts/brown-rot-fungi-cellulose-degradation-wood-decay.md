@@ -1,9 +1,6 @@
 ---
 title: Brown Rot Fungi Cellulose Degradation Wood Decay
-tags: [brown-rot, wood-decay, cellulose-degradation, lignin, polypores, mycoremediation
-date: 2026-04-28
-updated: 2026-04-28
-sources: ["unknown-mycelium-running.md"]
+tags: [brown-rot, wood-decay, cellulose-degradation, lignin, polypores]
 ---
 query-what-are-the-best-mushroom-species-for-bioremediation applications. [[gadd-fungal-wood-succession]] Decay Types
 - [[comparison-white-rot-fungi-vs-trichoderma]] and Cellulose Degradation in [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

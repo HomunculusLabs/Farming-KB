@@ -1,10 +1,7 @@
 ---
 title: Pf Tek Fruiting Chamber Temperature And Heating Principles
 created: 2026-04-28
-tags: [mycology, pf tek, duggar-mushroom-growing-history-and-methods
-date: 2026-04-28
-updated: 2026-05-09
-sources: [fanaticus-pf-tek-psilocybe-fanaticus]
+tags: [mycology, pf tek]
 type: concept
 ---
 

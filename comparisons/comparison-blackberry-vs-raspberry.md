@@ -1,11 +1,7 @@
 ---
 title: "Blackberry vs Raspberry"
 created: 2026-04-28
-tags: [comparison, berries, bramble-fruit, permaculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+tags: [comparison, berries, bramble-fruit]
 type: comparison
 ---
 

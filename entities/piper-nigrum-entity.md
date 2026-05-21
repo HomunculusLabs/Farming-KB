@@ -2,11 +2,7 @@
 title: "Piper nigrum"
 created: 2026-04-28
 type: species
-tags: [species, plant, piperaceae, herbal, spice, alkaloid, piperine
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "general botanical and pharmacological knowledge"
+tags: [species, plant, piperaceae, herbal, spice, alkaloid]
 ---
 ## Piper nigrum
 Piper nigrum, the comparison-cacao-vs-black-pepper-tropical-crop-cultivation is cultivated extensively across [[agroforestry]] systems.

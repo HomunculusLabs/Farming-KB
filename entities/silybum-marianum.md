@@ -2,11 +2,7 @@
 title: "Silybum marianum"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant, permaculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "https://en.wikipedia.org/wiki/Silybum_marianum"
+tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant]
 ------ Silybum marianum
 Silybum marianum, commonly known as milk thistle, is a biennial or annual
 herbaceous plant in the family Asteraceae, native to the Mediterranean
@@ -78,3 +74,7 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+The taxonomic classification and ecological role of silybum marianum continue to be subjects of ongoing research.
+Field observations and herbarium specimens contribute to our understanding of its distribution patterns.
+Further molecular studies may clarify relationships within its broader taxonomic group.

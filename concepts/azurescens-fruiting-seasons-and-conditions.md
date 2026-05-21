@@ -3,11 +3,7 @@ title: Azurescens azurescens fruiting seasons and conditions and Conditions
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [cultivation, fruiting-conditions-and-pinning
----
-
-- palmer-about-mushrooms-habitat-and-seasonal-guide
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+tags: [cultivation]
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation

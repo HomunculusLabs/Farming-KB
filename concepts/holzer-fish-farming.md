@@ -3,11 +3,7 @@ title: Holzer knf-fish-farming-integration
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [holzer, permaculture, homesteading
-sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
----
-## Fish at Altitude
+tags: [holzer, permaculture]
 
 Holzer has successfully kept a remarkable variety of fish species in his ponds and water gardens at up to 1,500m above sea level for decades, without feeding, aeration, or water pumping (beyond the natural flow-through system).
 

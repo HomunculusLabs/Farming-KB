@@ -1,11 +1,7 @@
 ---
 title: incubation and colonization
 created: 2026-04-28
-tags: [incubation, dual-chambered-terrarium-fruiting for the
-fruiting cycle.
----
-
-## Aborts and Mutants
+tags: [incubation]
 
 Some of the first mushrooms to form are "abhorts," characterized by convoluted
 caps, gnarly stems, and stunted growth. Despite their appearance, abhorts are

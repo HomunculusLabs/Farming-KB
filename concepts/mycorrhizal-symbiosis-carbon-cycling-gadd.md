@@ -1,11 +1,7 @@
 ---
 title: Mycorrhizal Symbiosis Carbon Cycling Gadd
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
-tags: [mycorrhiza, symbiosis, carbon cycle, plant nutrition, ectomycorrhiza, leake-mycorrhizal-carbon-sequestration-plant-community-composition, and
-global biogeochemical cycles. The British Mycological Society has
-highlighted mycorrhizas as a central theme in modern environmental
-mycology research, reflecting their recognized importance in ecosystem
-science.
+tags: [mycorrhiza, symbiosis, carbon cycle, plant nutrition, ectomycorrhiza]
 ---
 
 ## Types of Mycorrhizal Associations
